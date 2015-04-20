@@ -1,0 +1,90 @@
+{
+    "plot": "Individualistic and idealistic architect Howard Roark is expelled from college because his designs fail to fit with existing architectural thinking. He seems unemployable but finally lands a job with like-minded Henry Cameron, however within a few years Cameron drinks himself to death, warning Roark that the same fate awaits unless he compromises his ideals. Roark is determined to retain his artistic integrity at all costs.", 
+    "genres": "Drama", 
+    "release_year": "1949", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Sissy Villain / Smug Snake: Ellsworth Toohey", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "'evil", 
+                    "pessimistic"
+                ], 
+                "role": "Blondes are Evil and Defrosting Ice Queen: Dominique (although Dominique isn't exactly 'evil,' she's more extremely pessimistic).", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Peter Keating's mother.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [
+                    "black"
+                ], 
+                "role": "Woman in Black: Dominique marries Gail a black dress.", 
+                "id": "WomanInBlack"
+            }
+        ]
+    }, 
+    "imdbid": "tt0041386", 
+    "poster_url": "TheFountainhead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInBlack", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "Hairspray", 
+            "name": "Hairspray", 
+            "poster_url": "Hairspray.jpg"
+        }
+    ], 
+    "id": "TheFountainhead", 
+    "name": "The Fountainhead"
+}

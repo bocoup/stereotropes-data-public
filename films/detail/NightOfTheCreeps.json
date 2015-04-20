@@ -1,0 +1,81 @@
+{
+    "plot": "In 1959, an alien experiment crashes to earth and infects a fraternity member. They freeze the body, but in the modern day, two geeks pledging a fraternity accidentally thaw the corpse, which proceeds to infect the campus with parasites that transform their hosts into killer zombies.", 
+    "genres": "Comedy, Horror, Sci-Fi", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Brad.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: J.C. Hooper", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Next Door: Cynthia.", 
+                "id": "GirlNextDoor"
+            }
+        ]
+    }, 
+    "imdbid": "tt0091630", 
+    "poster_url": "NightOfTheCreeps.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "OurTown", 
+            "name": "Our Town", 
+            "poster_url": "OurTown.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "WereTheWorldMine", 
+            "name": "Were the World Mine", 
+            "poster_url": "WereTheWorldMine.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TeenWolf", 
+            "name": "Teen Wolf"
+        }
+    ], 
+    "id": "NightOfTheCreeps", 
+    "name": "Night of the Creeps"
+}

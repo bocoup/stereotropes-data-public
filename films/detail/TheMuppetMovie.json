@@ -1,0 +1,86 @@
+{
+    "plot": "Kermit the Frog is persuaded by agent Dom DeLuise to pursue a career in Hollywood. Along the way, Kermit picks up Fozzie Bear, Miss Piggy, 'The Great Gonzo', and a motley crew of other Muppets with similar aspirations. Meanwhile, Kermit must elude the grasp of a frog-leg restaurant magnate.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1979", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "evil"
+                ], 
+                "role": "Fat, Sweaty Southerner in a White Suit: Doc Hopper, since he's sort of an evil Captain Ersatz of Colonel Sanders.", 
+                "id": "FatSweatySouthernerInAWhiteSuit"
+            }, 
+            {
+                "adjectives": [
+                    "French-Fried", 
+                    "fat", 
+                    "white"
+                ], 
+                "role": "The antagonist of The Muppet Movie, Doc Hopper, the owner of Doc Hopper's French-Fried Frog Legs is fat, Southern, and wears a white suit. He also tries to force Kermit to advertise his restaurant, resorting to attempting both brainwashing and murder when he refuses.", 
+                "id": "FatSweatySouthernerInAWhiteSuit"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Miss Piggy wears some for part of the movie. Get it?", 
+                "id": "GirlishPigtails"
+            }
+        ]
+    }, 
+    "imdbid": "tt0079588", 
+    "poster_url": "TheMuppetMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "GirlishPigtails"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "GirlishPigtails"
+            ], 
+            "shared_count": 2, 
+            "id": "Rango", 
+            "name": "Rango", 
+            "poster_url": "Rango.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "MonsterHouse", 
+            "name": "Monster House", 
+            "poster_url": "MonsterHouse.jpg"
+        }, 
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit"
+            ], 
+            "shared_count": 1, 
+            "id": "TinyToonAdventuresHowISpentMyVacation", 
+            "name": "Tiny Toon Adventures: How I Spent My Vacation", 
+            "poster_url": "TinyToonAdventuresHowISpentMyVacation.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "HorrorOfDracula", 
+            "name": "Horror of Dracula", 
+            "poster_url": "HorrorOfDracula.jpg"
+        }
+    ], 
+    "id": "TheMuppetMovie", 
+    "name": "The Muppet Movie"
+}

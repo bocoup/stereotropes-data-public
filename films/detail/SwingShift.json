@@ -1,0 +1,86 @@
+{
+    "plot": "In 1941 America Kay and her husband are happy enough until he enlists after Pearl Harbor. Against his wishes, his wife takes a job at the local aircraft plant where she meets Hazel, the singer from across the way to whom she hadn't previously been all that nice. The two soon become firm friends and with the other girls become increasingly expert workers able to ride the jibes of the male workforce. As the war drags on Kay finally goes on a date with her trumpet playing foreman and life inevitably starts to get complicated.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1984", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Glamorous"
+                ], 
+                "role": "Glamorous Wartime Singer - Hazel, until she loses her job and goes to work in the factory with Kay.", 
+                "id": "GlamorousWartimeSinger"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ingenue - Kay.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Kay and Hazel, the female leads in Swing Shift, both become wrench wenches after joining a munitions facility during World War II.", 
+                "id": "WrenchWench"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wrench Wench - Kay and Hazel.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt0088213", 
+    "poster_url": "SwingShift.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "WrenchWench"
+            ], 
+            "shared_count": 2, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "WrenchWench"
+            ], 
+            "shared_count": 2, 
+            "id": "Grindhouse", 
+            "name": "Grindhouse", 
+            "poster_url": "Grindhouse.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "WrenchWench"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "SwingShift", 
+    "name": "Swing Shift"
+}

@@ -1,0 +1,88 @@
+{
+    "plot": "Dr. Richard Thorndyke arrives as new administrator of the Psychoneurotic Institute for the Very, VERY Nervous to discover some suspicious goings-on. When he's framed for murder, Dr. Thorndyke must confront his own psychiatric condition, \"high anxiety,\" in order to clear his name. An homage to the films of Alfred Hitchcock; contains many parodies of famous Hitchcock scenes from THE BIRDS, PSYCHO, and VERTIGO.", 
+    "genres": "Comedy", 
+    "release_year": "1977", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Battleaxe Nurse: Nurse Diesel.", 
+                "id": "BattleaxeNurse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Mel Brooks film High Anxiety has Cloris Leachman as the rather grotesque Nurse Diesel.", 
+                "id": "BattleaxeNurse"
+            }, 
+            {
+                "adjectives": [
+                    "likely", 
+                    "notable"
+                ], 
+                "role": "Gag Boobs: Nurse Diesel - not their size, but their shape. Which is likely a stealth Shout-Out to Nurse Ratched, who was described in the book as having a fairly notable pair.", 
+                "id": "GagBoobs"
+            }, 
+            {
+                "adjectives": [
+                    "big", 
+                    "severe", 
+                    "female"
+                ], 
+                "role": "In High Anxiety, Nurse Diesel definitely qualifies, but the gag isn't that they're so big, but that they're shaped into very severe cones, rather than the expected curve of a female bosom.", 
+                "id": "GagBoobs"
+            }
+        ]
+    }, 
+    "imdbid": "tt0076141", 
+    "poster_url": "HighAnxiety.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleaxeNurse", 
+                "GagBoobs"
+            ], 
+            "shared_count": 2, 
+            "id": "OneFlewOverTheCuckoosNest", 
+            "name": "One Flew Over The Cuckoo's Nest", 
+            "poster_url": "OneFlewOverTheCuckoosNest.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "Misery", 
+            "name": "Misery", 
+            "poster_url": "Misery.jpg"
+        }, 
+        {
+            "shared": [
+                "GagBoobs"
+            ], 
+            "shared_count": 1, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "GagBoobs"
+            ], 
+            "shared_count": 1, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "GagBoobs"
+            ], 
+            "shared_count": 1, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }
+    ], 
+    "id": "HighAnxiety", 
+    "name": "High Anxiety"
+}

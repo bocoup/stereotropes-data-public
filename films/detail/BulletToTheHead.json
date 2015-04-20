@@ -1,0 +1,90 @@
+{
+    "plot": "In New Orleans, the hit men James Bonomo, a.k.a. Jimmy Bobo, and Louis Blanchard execute the dirty cop Hank Greely in a hotel room. But they are betrayed and Louis is stabbed in a bar by the mercenary Keegan while waiting for the payment of the contract. Meanwhile the Washington D.C. police detective Taylor Kwon comes to New Orleans to investigate the murder of Greely, who had stolen evidences from the Police Department. Soon he is shot by two dirty detectives but Jimmy saves his life. Jimmy brings Taylor to the shop of his daughter Lisa and she removes the bullet from his shoulder and nurses him. Taylor and Jimmy form the most unlikely partnership to investigate the crimes and after contacting the intermediate Ronnie Earl that had hired Jimmy and Louis, they discover a network of corruption formed by the lawyer Marcus Baptiste and the entrepreneur Robert Nkomo Morel.", 
+    "genres": "Action, Crime, Thriller", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "justified", 
+                    "much", 
+                    "medic"
+                ], 
+                "role": "Non-Action Guy: Kwon, though justified that he was shot in the shoulder early in the film and has snitches in his arm that would break easily. Lisa, Jimmy's daughter, who isn't much of a fighter given she works as a tattoo artist, but makes up for it by being a medic.", 
+                "id": "NonActionGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Wolf/Overprotective", 
+                    "Touch"
+                ], 
+                "role": "Papa Wolf/Overprotective Dad: Touch Jimmy Bobo's daughter and he will end you.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Sarah Shahi as Lisa.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt1308729", 
+    "poster_url": "BulletToTheHead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "PapaWolf", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "PhineasAndFerbTheMovieAcrossThe2ndDimension", 
+            "name": "Phineas and Ferb The Movie: Across the 2nd Dimension", 
+            "poster_url": "PhineasAndFerbTheMovieAcrossThe2ndDimension.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "JoeDirt", 
+            "name": "Joe Dirt", 
+            "poster_url": "JoeDirt.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }
+    ], 
+    "id": "BulletToTheHead", 
+    "name": "Bullet To The Head"
+}

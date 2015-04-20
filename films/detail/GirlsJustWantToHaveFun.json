@@ -1,0 +1,85 @@
+{
+    "plot": "Janey is new in town, and soon meets Lynne, who shares her passion for dancing in general, and \"Dance TV\" in particular. When a competition is announced to find a new Dance TV regular couple, Janey and Lynne are determined to audition. The only problem is that Janey's father doesn't approve of that kind of thing.", 
+    "genres": "Comedy, Music, Romance", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Overprotective"
+                ], 
+                "role": "Overprotective Dad: Janey's dad, who doesn't like her to do anything outside the house after school.", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Natalie Sands in Girls Just Want to Have Fun. When she shows up at auditions for a dance contest, she nearly runs the protagonists over. When one of the other girls, Lynne, shows her up for that, Natalie bribes Lynne's partner to ruin the act.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Natalie", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089208", 
+    "poster_url": "GirlsJustWantToHaveFun.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Clueless", 
+            "name": "Clueless"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "DirtyDancing", 
+            "name": "Dirty Dancing", 
+            "poster_url": "DirtyDancing.jpg"
+        }, 
+        {
+            "shared": [
+                "RichBitch"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Coneheads", 
+            "name": "Coneheads", 
+            "poster_url": "Coneheads.jpg"
+        }
+    ], 
+    "id": "GirlsJustWantToHaveFun", 
+    "name": "Girls Just Want To Have Fun"
+}

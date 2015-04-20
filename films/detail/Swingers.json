@@ -1,0 +1,87 @@
+{
+    "plot": "This is a story about Mike, a guy who left his girl in New York when he came to LA to be a star. It's been six months since his girlfriend left him and he's not doing so good. So, his pal and some other friends try and get him back in the social scene and forget about his 6 year relationship.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Sorrow: Mike grows one at one point.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "atypical"
+                ], 
+                "role": "Swingers: Jon Favreau's character, Mike, rocks an atypical unkempt Beard of Sorrow after Sue gives him The Business in the parking lot.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Mike.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Charmer: Trent, to the annoyance of Mike.", 
+                "id": "TheCharmer"
+            }
+        ]
+    }, 
+    "imdbid": "tt0117802", 
+    "poster_url": "Swingers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePictureOfDorianGray", 
+            "name": "The Picture of Dorian Gray", 
+            "poster_url": "ThePictureOfDorianGray.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "ForrestGump", 
+            "name": "Forrest Gump", 
+            "poster_url": "ForrestGump.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "LegendsOfTheFall", 
+            "name": "Legends Of The Fall"
+        }
+    ], 
+    "id": "Swingers", 
+    "name": "Swingers"
+}

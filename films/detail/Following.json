@@ -1,0 +1,87 @@
+{
+    "plot": "An older man listens to Bill's story about being a callow writer who likes to follow strangers around London, observing them. One day, a glib and self-confident man whom Bill has been following confronts him. He's Cobb, a burglar who takes Bill under his wing and shows him how to break and enter. They burgle a woman's flat; Bill gets intrigued with her (photographs are everywhere in her flat). He follows her and chats her up at a bar owned by her ex-boyfriend, a nasty piece of work who killed someone in her living room with a hammer. Soon Bill is volunteering to do her a favor, which involves a break-in. What does the older man know that Bill doesn't?", 
+    "genres": "Mystery, Thriller", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "whole"
+                ], 
+                "role": "Beardness Protection Program: At Cobb's suggestion, the writer shaves his beard and changes his whole appearance to avoid being recognized by a witness.", 
+                "id": "BeardnessProtectionProgram"
+            }, 
+            {
+                "adjectives": [
+                    "able"
+                ], 
+                "role": "Following: When \"Bill\" fears that a witness would be able to connect him to a robbery, he then gets a haircut and shaves his beard.", 
+                "id": "BeardnessProtectionProgram"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gentleman Thief", 
+                "id": "GentlemanThief"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: The blonde.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0154506", 
+    "poster_url": "Following.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GentlemanThief", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Entrapment", 
+            "name": "Entrapment", 
+            "poster_url": "Entrapment.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }
+    ], 
+    "id": "Following", 
+    "name": "Following"
+}

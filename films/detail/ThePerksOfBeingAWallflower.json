@@ -1,0 +1,148 @@
+{
+    "plot": "Based on the novel written by Stephen Chbosky, this is about 15-year-old Charlie (Logan Lerman), an endearing and naive outsider, coping with first love (Emma Watson), the suicide of his best friend, and his own mental illness while struggling to find a group of people with whom he belongs. The introvert freshman is taken under the wings of two seniors, Sam and Patrick, who welcome him to the real world.", 
+    "genres": "Drama, Romance", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Armoured Closet Gay: Brad.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Patrick, mostly when contrasted with Brad.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "full-fledged"
+                ], 
+                "role": "Jerk Jock: Brad has shades of this, and pretty much evolves into a full-fledged one when his dad catches him and Patrick and beats the crap out of him.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "Keet: Patrick. Ezra Miller especially has fun with this during a few scenes in the film.", 
+                "id": "Keet"
+            }, 
+            {
+                "adjectives": [
+                    "very"
+                ], 
+                "role": "Pretty Boy: Patrick in the movie, as played by the very pretty Ezra Miller.", 
+                "id": "PrettyBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Brad from The Perks of Being a Wallflower.", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Brad.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "classic"
+                ], 
+                "role": "Granola Girl: Mary Elizabeth is a classic example, being a punk artist vegan activist Buddhist. One might argue that Sam has these tendencies as well.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [
+                    "English", 
+                    "hair"
+                ], 
+                "role": "In The Perks of Being a Wallflower, Charlie mentions seeing his English teacher's hippie girlfriend who \"even had hair under her arms!\" Charlie seems delighted by the fact she fit the Granola Girl stereotype.", 
+                "id": "HairyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "awkward"
+                ], 
+                "role": "Sam from ''The Perks of Being a Wallflower\" is a sort of blander interpretation of this trope, probably to balance out the socially awkward recipient of her mania, Charlie.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "such"
+                ], 
+                "role": "Alice in The Perks of Being a Wallflower counts as such with her clothes and liking for zombies.", 
+                "id": "PerkyGoth"
+            }, 
+            {
+                "adjectives": [
+                    "such"
+                ], 
+                "role": "Perky Goth: Alice counts as such with her clothes and liking for zombies.", 
+                "id": "PerkyGoth"
+            }
+        ]
+    }, 
+    "imdbid": "tt1659337", 
+    "poster_url": "ThePerksOfBeingAWallflower.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "JerkJock", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 4, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "JerkJock", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 4, 
+            "id": "VictorVictoria", 
+            "name": "Victor/Victoria"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "HairyGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "WithoutAPaddle", 
+            "name": "Without A Paddle", 
+            "poster_url": "WithoutAPaddle.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "FiredUp", 
+            "name": "Fired Up"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "ThePerksOfBeingAWallflower", 
+    "name": "The Perks of Being a Wallflower"
+}

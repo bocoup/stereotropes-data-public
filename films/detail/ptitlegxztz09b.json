@@ -1,0 +1,81 @@
+{
+    "plot": "A woman who, by a promise made years earlier, is supposed to marry her best friend in three weeks, even though she doesn't want to. When she finds out that he's marrying someone else, she becomes jealous and tries to break off the wedding.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1997", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Clingy Jealous Girl: Julianne, too", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Kim really wants Julianne to become this to her. Little did she know...", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Manic Pixie Dream Girl: Kimberly being a good example.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119738", 
+    "poster_url": "ptitlegxztz09b.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "NorwegianWood", 
+            "name": "Norwegian Wood", 
+            "poster_url": "NorwegianWood.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SunsetBoulevard", 
+            "name": "Sunset Boulevard"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTwilightSamurai", 
+            "name": "The Twilight Samurai", 
+            "poster_url": "TheTwilightSamurai.jpg"
+        }
+    ], 
+    "id": "ptitlegxztz09b", 
+    "name": "My Best Friend's Wedding"
+}

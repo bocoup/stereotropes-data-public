@@ -1,0 +1,119 @@
+{
+    "plot": "Death Row guards at a penitentiary, in the 1930's, have a moral dilemma with their job when they discover one of their prisoners, a convicted murderer, has a special gift.", 
+    "genres": "Crime, Drama, Fantasy", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Dirty Coward: Percy, especially in his freezing up during Wharton's attack on the other guards.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Percy. Emphasis on dirty.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "due", 
+                    "massive", 
+                    "spooky", 
+                    "innocent"
+                ], 
+                "role": "John Coffey from The Green Mile can be considered an example of this due to his massive size, spooky healing powers and the fact that  he is a convicted child murderer, though he turns out to be innocent as the film progresses.. He is also a Gentle Giant. Played by Michael Clarke Duncan.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "big", 
+                    "scary", 
+                    "gentle"
+                ], 
+                "role": "Scary Black Man: Subverted. Coffey is big and scary looking, but gentle and childlike.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "pussy"
+                ], 
+                "role": "Percy in The Green Mile. Fittingly, the casts' Southern accents make it sound a lot like \"pussy.\"", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sissy Villain: Percy.", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [
+                    "Many"
+                ], 
+                "role": "Many of the characters in The Green Mile fall under this trope.", 
+                "id": "SouthernGentleman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120689", 
+    "poster_url": "TheGreenMile.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SissyVillain", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "NoMoreBaths", 
+            "name": "No More Baths", 
+            "poster_url": "NoMoreBaths.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Underworld", 
+            "name": "Underworld", 
+            "poster_url": "Underworld.jpg"
+        }, 
+        {
+            "shared": [
+                "SouthernGentleman", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "ToKillAMockingbird", 
+            "name": "To Kill a Mockingbird", 
+            "poster_url": "ToKillAMockingbird.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }
+    ], 
+    "id": "TheGreenMile", 
+    "name": "The Green Mile"
+}

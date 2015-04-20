@@ -1,0 +1,65 @@
+{
+    "plot": "Immanuel Rath, an old bachelor, is a professor at the town's university. When he discovers that some of his pupils often go into a speakeasy, The Blue Angel, to visit a dancer, Lola Lola, he comes there to confront them. But he is attracted to Lola. The next night he comes again--and does not sleep at home. This causes trouble at work and his life takes a downward spiral.", 
+    "genres": "Drama, Music", 
+    "release_year": "1930", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Lola Lola", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0020697", 
+    "poster_url": "TheBlueAngel.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }
+    ], 
+    "id": "TheBlueAngel", 
+    "name": "The Blue Angel"
+}

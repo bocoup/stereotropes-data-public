@@ -1,0 +1,82 @@
+{
+    "plot": "Brothers Johnny, an adolescent surf talent, and Adam, a preadolescent video-game addict, grow up care-free in California as adopted sons of Marines veteran Mac, inseparable friends of wacky local lout Iggy. Colonel Chi's military reign of terror culminates in their tiny birth-land, island state Patu San, off the Viet Nam coast. Former royal guards officer Zatch comes to summon the brothers to return and restore the pacific monarchy, because they are the sons of the murdered king, whom Mac took in exile for safety. They are joined on the adventurous journey by a bored Californian police detective whose attention was drawn by the ninja team that failed, thanks to Zatch, to murder the brothers in Mac's home.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Surfer Dude: Both Johnny and Adam. Iggy's pretends and it's played for laughs.", 
+                "id": "SurferDude"
+            }, 
+            {
+                "adjectives": [
+                    "titular"
+                ], 
+                "role": "The titular Surf Ninjas weren't really ninjas at all, but at least surfed.", 
+                "id": "SurferDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Ro-May"
+                ], 
+                "role": "Action Girl: Ro-May", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0108258", 
+    "poster_url": "SurfNinjas.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SurferDude", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ToTheLimit", 
+            "name": "To The Limit", 
+            "poster_url": "ToTheLimit.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }
+    ], 
+    "id": "SurfNinjas", 
+    "name": "Surf Ninjas"
+}

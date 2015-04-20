@@ -1,0 +1,104 @@
+{
+    "plot": "Daphne, a seventeen-year-old girl from New York goes to England in search of her father, who does not know he had a child with an American girlfriend he met while working in Morocco, and whose aristocratic family did not approve of the woman.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Lord Dashwood in What a Girl Wants gave up his seat in the House of Lords to run in the House of Commons.", 
+                "id": "RebelPrince"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Clarissa, of course. Not Daphne's mother, who coincidentally is actually named Libby.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Beautiful All Along: Peach and Pear, thanks to Daphne", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Lady / Deadpan Snarker: Jocelyn Dashwood", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [
+                    "musical"
+                ], 
+                "role": "Mama Bear: Libby to Glynnis: \"Take your hands off my daughter or you wont get a scene. You'll get a Broadway musical.\"", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Glynnis", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0286788", 
+    "poster_url": "WhatAGirlWants.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "AlphaBitch", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHouseBunny", 
+            "name": "The House Bunny", 
+            "poster_url": "TheHouseBunny.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "AlphaBitch", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "AlphaBitch", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHelp", 
+            "name": "The Help", 
+            "poster_url": "TheHelp.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "ShrekTheThird", 
+            "name": "Shrek the Third", 
+            "poster_url": "ShrekTheThird.jpg"
+        }
+    ], 
+    "id": "WhatAGirlWants", 
+    "name": "What a Girl Wants"
+}

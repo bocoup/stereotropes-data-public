@@ -1,0 +1,77 @@
+{
+    "plot": "A young boy is just short of a monster. He is adopted by a loving man and his wacky wife. The laughs keep coming as the boy pushes them to the limits.", 
+    "genres": "Comedy, Family", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Drill Sergeant Nasty: The Scout leader (he even calls his own son a sissy boy).", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Papa Wolf: Ben, when he meets up with Martin at the Circus.  Same thing later on, when he uses himself as a shield to protect Junior from being shot by Martin.", 
+                "id": "PapaWolf"
+            }
+        ]
+    }, 
+    "imdbid": "tt0100419", 
+    "poster_url": "ProblemChild.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "MajorPayne", 
+            "name": "Major Payne", 
+            "poster_url": "MajorPayne.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }
+    ], 
+    "id": "ProblemChild", 
+    "name": "Problem Child"
+}

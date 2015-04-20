@@ -1,0 +1,69 @@
+{
+    "plot": "The Beatles first film since \"Help\" was largely Paul McCartney's project. The story follows a bus load of eccentric characters on a magic journey through the English countryside. Rather than a unified narrative, it becomes a series of psychedelic clips promoting various songs including \"The Fool on the Hill,\" \"Blue Jay Way,\" \"Your Mother Should Know,\" \"I Am the Walrus\" and \"Magical Mystery Tour.\" The Bonzo Dog Doo-Dah Band are seen in a strip club playing \"Death Cab for Cutie.\"", 
+    "genres": "Comedy, Musical", 
+    "release_year": "1967", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "previous", 
+                    "comical", 
+                    "proto-Pythonesque"
+                ], 
+                "role": "Drill Sergeant Nasty: Victor Spinetti, who played roles in the previous two Beatles films, plays a comical, proto-Pythonesque version in one scene.", 
+                "id": "DrillSergeantNasty"
+            }
+        ]
+    }, 
+    "imdbid": "tt0061937", 
+    "poster_url": "MagicalMysteryTour.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "Basic", 
+            "name": "Basic", 
+            "poster_url": "Basic.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "ProblemChild", 
+            "name": "Problem Child", 
+            "poster_url": "ProblemChild.jpg"
+        }
+    ], 
+    "id": "MagicalMysteryTour", 
+    "name": "Magical Mystery Tour"
+}

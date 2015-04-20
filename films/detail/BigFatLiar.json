@@ -1,0 +1,108 @@
+{
+    "plot": "A take on the classic tale 'The Boy Who Cried Wolf', this is the story of a 14-year-old boy named Jason Shephard who lies for the fun of it. He loses an important story assignment entitled 'Big Fat Liar' in movie producer Marty Wolf's limo, which Wolf then turns into a film. When Jason sees a movie preview of his story, he and his best friend Kaylee go to Los Angeles to make Wolf confess to using his story, to clear his name, and to get him out of having to attend summer school. The teen liar then has to match wits with Wolf, who also turns out to be a big liar.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Vince.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disguised in Drag: When Bret has to pose as Kaylee to visit her grandmother in her stead. All things considered, it works.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Bret Callaway.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High School Hustler: Jason at school.", 
+                "id": "HighSchoolHustler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Bret Calloway.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "essential"
+                ], 
+                "role": "Big Fat Liar: Kaylee is essential for all of Jason's scams. She fakes voices, helps out the legwork, strategizes etc.", 
+                "id": "GirlFriday"
+            }, 
+            {
+                "adjectives": [
+                    "dead"
+                ], 
+                "role": "Girl Friday: Without Kaylee, Jason is dead in the water. Seriously, he can't pull off anything without her.", 
+                "id": "GirlFriday"
+            }
+        ]
+    }, 
+    "imdbid": "tt0265298", 
+    "poster_url": "BigFatLiar.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "JerkJock", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "HighSchoolHustler", 
+                "CoolOldGuy", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "Heavyweights", 
+            "name": "Heavyweights"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "AllStarSuperman", 
+            "name": "All-Star Superman", 
+            "poster_url": "AllStarSuperman.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "JeepersCreepers", 
+            "name": "Jeepers Creepers", 
+            "poster_url": "JeepersCreepers.jpg"
+        }
+    ], 
+    "id": "BigFatLiar", 
+    "name": "Big Fat Liar"
+}

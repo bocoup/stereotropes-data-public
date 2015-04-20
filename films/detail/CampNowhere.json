@@ -1,0 +1,90 @@
+{
+    "plot": "Morris \"Mud\" Himmel has a problem. His parents desperately want to send him away to summer camp. He hates going to summer camp, and would do anything to get out of it. Talking to his friends, he realises that they are all facing the same sentence: a boring summer camp. Together with his friends, he hatches a plan to trick all the parents into sending them to a camp of his own design, which would actually be a parent-free paradise. Blackmailing former drama teacher Dennis Van Welker into helping, they must convince the parents that the camp is genuine, and that they aren't allowed to visit...", 
+    "genres": "Adventure, Comedy", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "phony"
+                ], 
+                "role": "Junior High Hustler: Mud. He comes up with a phony summer camp, for pity's sake!", 
+                "id": "HighSchoolHustler"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "potential"
+                ], 
+                "role": "Education Mama: Mud's dad is a rare male version. He's constantly opining that Mud \"has potential,\" and keeps pushing Mud to grow up early. Mud complains that his dad treats him like he's unemployed. Mud is 12.", 
+                "id": "EducationMama"
+            }, 
+            {
+                "adjectives": [
+                    "Trish"
+                ], 
+                "role": "Stage Mom: Trish's mom.", 
+                "id": "StageMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team Mom / Team Dad: Gaby and Mud, respectively. They even mention it during the omelet scene.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109369", 
+    "poster_url": "CampNowhere.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EducationMama", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBreakfastClub", 
+            "name": "The Breakfast Club", 
+            "poster_url": "TheBreakfastClub.jpg"
+        }, 
+        {
+            "shared": [
+                "EducationMama", 
+                "TeamMom"
+            ], 
+            "shared_count": 2, 
+            "id": "LittleWomen", 
+            "name": "Little Women", 
+            "poster_url": "LittleWomen.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom"
+            ], 
+            "shared_count": 1, 
+            "id": "ALeagueOfTheirOwn", 
+            "name": "A League of Their Own", 
+            "poster_url": "ALeagueOfTheirOwn.jpg"
+        }, 
+        {
+            "shared": [
+                "EducationMama"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLangoliers", 
+            "name": "The Langoliers", 
+            "poster_url": "TheLangoliers.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom"
+            ], 
+            "shared_count": 1, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }
+    ], 
+    "id": "CampNowhere", 
+    "name": "Camp Nowhere"
+}

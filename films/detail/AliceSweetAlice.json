@@ -1,0 +1,65 @@
+{
+    "plot": "Alice Spages is a withdrawn 12 year old girl who lives with her mother, Catherine, and her younger sister, Karen. Karen gets most of the attention from her mother, and Alice is often left out of the spotlight. But when Karen is found brutally murdered in a church before her first holy communion, all suspicions are turned towards Alice. But is a twelve year old girl really capable of such savagery? As more people begin to die at the hands of a merciless killer, Alice becomes more and more likely of a suspect.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "1976", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Alphonso attempts to molest Alice when she goes to give him the rent money.", 
+                "id": "DirtyOldMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0076150", 
+    "poster_url": "AliceSweetAlice.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AgentForHARM", 
+            "name": "Agent for H.A.R.M.", 
+            "poster_url": "AgentForHARM.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }
+    ], 
+    "id": "AliceSweetAlice", 
+    "name": "Alice, Sweet Alice"
+}

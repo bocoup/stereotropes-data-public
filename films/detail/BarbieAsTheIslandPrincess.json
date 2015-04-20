@@ -1,0 +1,120 @@
+{
+    "plot": "Barbie plays Rosella in this new musical film. Shipwrecked as a child, Rosella grows up on the island under the watchful eyes of her loving animal friends. The arrival of Prince Antonio leads Rosella and her furry pals to explore civilization and ultimately save the kingdom by uncovering a secret plot.", 
+    "genres": "Animation, Family", 
+    "release_year": "2007", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: Luciana, the triplets, and Ro turns out to be Princess Rosella of Paladia (hence why the title calls her a princess).", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Graceful Ladies Like Purple: Luciana wears a purple dress.", 
+                "id": "GracefulLadiesLikePurple"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Luciana in Barbie as the Island Princess wears a purple dress.", 
+                "id": "GracefulLadiesLikePurple"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Princess Rosella from Barbie as the Island Princess.", 
+                "id": "JunglePrincess"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Nubile Savage", 
+                "id": "NubileSavage"
+            }, 
+            {
+                "adjectives": [
+                    "animal"
+                ], 
+                "role": "Princess Classic: Ro, even when she just lives among her animal friends.", 
+                "id": "PrincessClassic"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ro of Barbie as the Island Princess", 
+                "id": "PrincessClassic"
+            }, 
+            {
+                "adjectives": [
+                    "Proper"
+                ], 
+                "role": "Proper Lady: Luciana", 
+                "id": "ProperLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spirited Young Lady: Ro", 
+                "id": "SpiritedYoungLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt1092053", 
+    "poster_url": "BarbieAsTheIslandPrincess.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "EverythingsBetterWithPrincesses", 
+                "ProperLady", 
+                "GracefulLadiesLikePurple", 
+                "PrincessClassic"
+            ], 
+            "shared_count": 5, 
+            "id": "Tangled", 
+            "name": "Tangled", 
+            "poster_url": "Tangled.png"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "EverythingsBetterWithPrincesses", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "PrincessClassic", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 3, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "ProperLady", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 3, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "PrincessClassic", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }
+    ], 
+    "id": "BarbieAsTheIslandPrincess", 
+    "name": "Barbie as the Island Princess"
+}

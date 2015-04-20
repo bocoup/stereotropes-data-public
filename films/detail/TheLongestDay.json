@@ -1,0 +1,65 @@
+{
+    "plot": "Tells the story of the D-Day invasion of Normandy in WWII. There are dozens of characters, some seen only briefly, who together weave the story of five separate invasion points that made up the operation.", 
+    "genres": "Action, Drama, History", 
+    "release_year": "1962", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Officer and a Gentleman: Most of the officer characters are this, on both sides.", 
+                "id": "OfficerAndAGentleman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0056197", 
+    "poster_url": "TheLongestDay.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "EnemyAtTheGates", 
+            "name": "Enemy at the Gates", 
+            "poster_url": "EnemyAtTheGates.jpg"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGreatDictator", 
+            "name": "The Great Dictator", 
+            "poster_url": "TheGreatDictator.jpg"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "Madagascar", 
+            "name": "Madagascar", 
+            "poster_url": "Madagascar.jpg"
+        }
+    ], 
+    "id": "TheLongestDay", 
+    "name": "The Longest Day"
+}

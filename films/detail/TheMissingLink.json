@@ -1,0 +1,66 @@
+{
+    "plot": "N/A", 
+    "genres": "Adult", 
+    "release_year": "2001", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "No-Man"
+                ], 
+                "role": "Humanoid Female Animal: Again, the \"No-Man\" race.", 
+                "id": "HumanoidFemaleAnimal"
+            }
+        ]
+    }, 
+    "imdbid": "tt0302803", 
+    "similar": [
+        {
+            "shared": [
+                "HumanoidFemaleAnimal"
+            ], 
+            "shared_count": 1, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "HumanoidFemaleAnimal"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "HumanoidFemaleAnimal"
+            ], 
+            "shared_count": 1, 
+            "id": "Madagascar", 
+            "name": "Madagascar", 
+            "poster_url": "Madagascar.jpg"
+        }, 
+        {
+            "shared": [
+                "HumanoidFemaleAnimal"
+            ], 
+            "shared_count": 1, 
+            "id": "CatsDontDance", 
+            "name": "Cats Don't Dance", 
+            "poster_url": "CatsDontDance.jpg"
+        }, 
+        {
+            "shared": [
+                "HumanoidFemaleAnimal"
+            ], 
+            "shared_count": 1, 
+            "id": "RockADoodle", 
+            "name": "Rock-A-Doodle", 
+            "poster_url": "RockADoodle.jpg"
+        }
+    ], 
+    "id": "TheMissingLink", 
+    "name": "The Missing Link"
+}

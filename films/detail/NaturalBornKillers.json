@@ -1,0 +1,74 @@
+{
+    "plot": "Mickey Knox and Mallory Wilson aren't your typical lovers - after killing her abusive father, they go on a road trip where, every time they stop somewhere, they kill pretty well everyone around them. They do however leave one person alive at every shootout to tell the story and they soon become a media sensation thanks to sensationalized reporting. Told in a highly visual style.", 
+    "genres": "Crime, Drama", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Wayne Gale", 
+                "id": "BadAssBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "young", 
+                    "main"
+                ], 
+                "role": "In Natural Born Killers, the cop played by Tom Sizemore strangles a young prostitute to death to show that he's no better than the main antiheroes.", 
+                "id": "DisposableSexWorker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0110632", 
+    "poster_url": "NaturalBornKillers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "Pirates", 
+            "name": "Pirates", 
+            "poster_url": "Pirates.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "DarkCity", 
+            "name": "Dark City"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBurning", 
+            "name": "The Burning", 
+            "poster_url": "TheBurning.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "IchiTheKiller", 
+            "name": "Ichi the Killer", 
+            "poster_url": "IchiTheKiller.jpg"
+        }
+    ], 
+    "id": "NaturalBornKillers", 
+    "name": "Natural Born Killers"
+}

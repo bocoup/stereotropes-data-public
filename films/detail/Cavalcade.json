@@ -1,0 +1,66 @@
+{
+    "plot": "A cavalcade of English life from New Year's Eve 1899 until 1933 seen through the eyes of well-to-do Londoners Jane and Robert Marryot. Amongst events touching their family are the Boer War, the death of Queen Victoria, the sinking of the Titanic and the Great War.", 
+    "genres": "Drama, Romance, War", 
+    "release_year": "1933", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "big"
+                ], 
+                "role": "The Chanteuse: Alfred and Ellen's daughter Fanny becomes a big star as a nightclub singer.", 
+                "id": "TheChanteuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0023876", 
+    "poster_url": "Cavalcade.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "DarkCity", 
+            "name": "Dark City"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "TheRacket", 
+            "name": "The Racket", 
+            "poster_url": "TheRacket.jpg"
+        }
+    ], 
+    "id": "Cavalcade", 
+    "name": "Cavalcade"
+}

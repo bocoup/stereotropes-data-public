@@ -1,0 +1,115 @@
+{
+    "plot": "Abandoned after an accident, baby Mowgli is taken and raised by a family of wolves. As the boy grows older, the wise panther Bagheera realizes he must be returned to his own kind in the nearby man-village. Baloo the bear however thinks differently taking the young Mowgli under his wing and teaching that living in the jungle is the best life there is. Bagheera realizes that Mowgli is in danger, particularly from Shere Khan the tiger who hates all people. When Baloo finally comes around, Mowgli runs off into the jungle where he survives a second encounter with Kaa the snake and finally, with Shere Khan. It's the sight of a pretty girl however that gets Mowgli to go the nearby man-village.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1967", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Baritone", 
+                "id": "BadassBaritone"
+            }, 
+            {
+                "adjectives": [
+                    "jungle", 
+                    "entire", 
+                    "flamboyant", 
+                    "playful", 
+                    "soft", 
+                    "bitter"
+                ], 
+                "role": "Sissy Villain: Kaa and to a lesser extent, Shere Khan. Both are genuinely feared predators of the jungle (Shere Khan mentioned as being stronger than the entire wolf pack combined) however in both cases, their wrath is hidden in an amusingly flamboyant, playful and soft spoken demeanor. In the sequel, Shere Khan is a more bitter villain, though still plays around with this at times.", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [
+                    "non-Fanservice"
+                ], 
+                "role": "Mowgli from The Jungle Book is a non-Fanservice example.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Shanti from The Jungle Book.", 
+                "id": "GracefulLadiesLikePurple"
+            }, 
+            {
+                "adjectives": [
+                    "feral", 
+                    "wrecked"
+                ], 
+                "role": "Mowgli from The Jungle Book is a feral child raised by... wolves. Since he was found abandoned in a wrecked boat, it can be assumed his parents are deceased.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "childbirth"
+                ], 
+                "role": "Missing Mom: Mowgli and Kitty's mothers died in childbirth.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0061852", 
+    "poster_url": "TheJungleBook.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SissyVillain", 
+                "GracefulLadiesLikePurple", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "GracefulLadiesLikePurple", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "GracefulLadiesLikePurple", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "SissyVillain", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BadassBaritone", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }
+    ], 
+    "id": "TheJungleBook", 
+    "name": "The Jungle Book"
+}

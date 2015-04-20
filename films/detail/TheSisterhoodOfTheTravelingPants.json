@@ -1,0 +1,136 @@
+{
+    "plot": "The movie is based on the young adult book, The Sisterhood of the Traveling Pants, by Anne Brashares. As four best friends spend their first summer apart from one another, they share a magical pair of jeans. Despite being of various shapes and sizes, each one of them fits perfectly into the pants. To keep in touch they pass these pants to each other as well as the adventures they are going through while apart.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Carmen's father was one before the start of the series.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "shy", 
+                    "introspective", 
+                    "courageous", 
+                    "gorgeous", 
+                    "disdainful", 
+                    "Four-Temperament"
+                ], 
+                "role": "Four Girl Ensemble: There is Lena, who is a shy, introspective aspiring artist, Bridget, who is daring and courageous with gorgeous blond hair, Carmen, who is the organized one and the \"glue\" keeping the Sisterhood together, and Tibby, who is known as the rebel and disdainful one. Four-Temperament Ensemble: Sanguine: Bridget. Choleric: Carmen. Melancholic: Lena. Phlegmatic: Tibby.", 
+                "id": "FourGirlEnsemble"
+            }, 
+            {
+                "adjectives": [
+                    "dead", 
+                    "mental", 
+                    "funeral", 
+                    "alive", 
+                    "last", 
+                    "mental", 
+                    "only", 
+                    "unable"
+                ], 
+                "role": "In The Sisterhood of the Traveling Pants, Bridget's mother is dead, presumably having committed suicide because of mental instability. Her funeral is shown briefly when the characters are introduced. Later, after Bridget  gets it on with her soccer coach, she cries and wishes her mom was still alive to talk things over with.\n This is explored a bit more in the sequel, when she visits her grandmother and has a nightmare about her mother abandoning her. Apparently there had been one last chance for them to get her to get help for her mental problems, but the only way to convince her to do so was if her mother lied that she was alright. Bridget's grandmother confessed that she was unable to lie to her daughter about it.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "implied", 
+                    "suicide"
+                ], 
+                "role": "Missing Mom: Bridget's mom died sometime before the series begins. It's implied to have been suicide.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In The Sisterhood of the Traveling Pants Carmen's hurt feelings and temper lead her to throw a rock through her father's dining room window and then run away.", 
+                "id": "SpicyLatina"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spicy Latina: Carmen's hurt feelings and temper lead her to throw a rock through her father's dining room window and then run away.", 
+                "id": "SpicyLatina"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Which would explain why the artwork for The Sisterhood of the Traveling Pants (both movies) tries to play down Blake's height (she towers over the other members of the sisterhood as well, especially America Ferrera).", 
+                "id": "StatuesqueStunner"
+            }, 
+            {
+                "adjectives": [
+                    "snarky", 
+                    "tomboyish", 
+                    "other", 
+                    "fashionable", 
+                    "flirtatious", 
+                    "artistic"
+                ], 
+                "role": "Tomboy and Girly Girl: Broody, snarky Tibby comes off as more tomboyish than the other girls, especially fashionable Carmen, but the trope isn't really played straight. Sporty, flirtatious Bridget is also the tomboy to shy, artistic Lena.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0403508", 
+    "poster_url": "TheSisterhoodOfTheTravelingPants.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "FourGirlEnsemble", 
+                "TomBoyAndGirlyGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "StatuesqueStunner", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ALeagueOfTheirOwn", 
+            "name": "A League of Their Own", 
+            "poster_url": "ALeagueOfTheirOwn.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }
+    ], 
+    "id": "TheSisterhoodOfTheTravelingPants", 
+    "name": "The Sisterhood of the Traveling Pants"
+}

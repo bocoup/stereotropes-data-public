@@ -1,0 +1,77 @@
+{
+    "plot": "John Lee is the best hitman money can buy. But when John refuses to kill because of the seven year-old son of his target, John's bosses send someone after John to kill him and then take his place in the ring of hitmen. John then teams up with Meg Coburn to help him escape these \"Replacement Killers.\"", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1998", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Meg. Possibly a Dark Action Girl, given her career choice.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "own", 
+                    "bad"
+                ], 
+                "role": "Damsel out of Distress: John's hostage holds her own against the bad guys.", 
+                "id": "DamselOutOfDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120008", 
+    "poster_url": "TheReplacementKillers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselOutOfDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselOutOfDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselOutOfDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Scream", 
+            "name": "Scream", 
+            "poster_url": "Scream.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselOutOfDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "StreetFighterIITheAnimatedMovie", 
+            "name": "Street Fighter II: The Animated Movie", 
+            "poster_url": "StreetFighterIITheAnimatedMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselOutOfDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SpaceMutiny", 
+            "name": "Space Mutiny"
+        }
+    ], 
+    "id": "TheReplacementKillers", 
+    "name": "The Replacement Killers"
+}

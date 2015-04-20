@@ -1,0 +1,92 @@
+{
+    "plot": "A film noir comedy about Rock Slyde, a down-and-out private detective that engages in a turf war with an upstart quasi-religious cult, The House of Bartology.", 
+    "genres": "Comedy", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "hung"
+                ], 
+                "role": "Bigger Is Better in Bed: Rock, on why his career in porn didn't work out: \"I was hung like a hamster.\"", 
+                "id": "BiggerIsBetterInBed"
+            }, 
+            {
+                "adjectives": [
+                    "swashbuckle"
+                ], 
+                "role": "Camp Gay: I'm the Jolly Roger and I ride the seas, swashbuckle me, swashbuckle me, get on your knees!", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Rock's Jolly Roger character is this, largely because Rock himself is straight. He needed the money.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Sara Lee. She was sent into Rock's office with a fake case by the Bartologists, but ends up falling for him. It doesn't work out after he defeats the cult, however.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt1258154", 
+    "poster_url": "RockSlyde.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "FemmeFatale", 
+                "BiggerIsBetterInBed"
+            ], 
+            "shared_count": 4, 
+            "id": "BlazingSaddles", 
+            "name": "Blazing Saddles", 
+            "poster_url": "BlazingSaddles.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "LatterDays", 
+            "name": "Latter Days", 
+            "poster_url": "LatterDays.jpg"
+        }
+    ], 
+    "id": "RockSlyde", 
+    "name": "Rock Slyde"
+}

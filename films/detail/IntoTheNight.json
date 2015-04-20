@@ -1,0 +1,90 @@
+{
+    "plot": "Ed Okin's life is somewhat out of control. He can't sleep, his wife betrays him and his job is dull. One night he starts to drive through Los Angeles and he finally ends in the parking garage of L.A. Airport. Moments later a beautiful young lady jumps onto his bonnet and he finds himself being chased by four Iranians. What follows is a wild chase through the streets of Los Angeles and a very funny one too.", 
+    "genres": "Comedy, Drama, Thriller", 
+    "release_year": "1985", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "big", 
+                    "first", 
+                    "boat", 
+                    "second"
+                ], 
+                "role": "In Into the Night, there are two big fan service extra scenes, both illustrating the more \"loose\" world Ed is touching upon. The first is the \"Take off your shirt\" scene at the boat after the airport, and the second the woman who is pulling up her dress as she steps out of the bathroom stall while Ed is waiting in the men's room.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [
+                    "full", 
+                    "bad"
+                ], 
+                "role": "Femme Fatale: Diana is between this and Damsel in Distress. Slightly subverted in that she knows full well she's a \"bad guy\" but doesn't want to hurt Ed.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Manic Pixie Dream Girl: As an Unbuilt Trope at the time, Diana has elements of this, but while she certainly does shake up Ed's humdrum life, Ed spends a lot of the first half of the film just wanting to go home now and forget abou her.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089346", 
+    "poster_url": "IntoTheNight.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FemmeFatale", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ChungkingExpress", 
+            "name": "Chungking Express", 
+            "poster_url": "ChungkingExpress.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AFishCalledWanda", 
+            "name": "A Fish Called Wanda", 
+            "poster_url": "AFishCalledWanda.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "PulpFiction", 
+            "name": "Pulp Fiction", 
+            "poster_url": "PulpFiction.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFifthElement", 
+            "name": "The Fifth Element", 
+            "poster_url": "TheFifthElement.jpg"
+        }
+    ], 
+    "id": "IntoTheNight", 
+    "name": "Into the Night"
+}

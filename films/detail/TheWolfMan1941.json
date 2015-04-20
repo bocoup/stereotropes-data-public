@@ -1,0 +1,85 @@
+{
+    "plot": "Upon the death of his brother, Larry Talbot returns from America to his ancestral home in Wales. He visits a gypsy camp with village girl Jenny Williams, who is attacked by Bela, a gypsy who has turned into a werewolf. Larry kills the werewolf but is bitten during the fight. Bela's mother tells him that this will cause him to become a werewolf at each full moon. Larry confesses his plight to his unbelieving father, Sir John, who then joins the villagers in a hunt for the wolf. Larry, transformed by the full moon, heads for the forest and a fateful meeting with both Sir John and Gwen.", 
+    "genres": "Drama, Horror", 
+    "release_year": "1941", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sharp-Dressed"
+                ], 
+                "role": "Sharp-Dressed Man: Lawrence", 
+                "id": "SharpDressedMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Charmer: Lawrence", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Gwen at the end.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0034398", 
+    "poster_url": "TheWolfMan1941.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DamselInDistress", 
+                "TheCharmer"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "DrNo", 
+            "name": "Dr. No", 
+            "poster_url": "DrNo.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDayOfTheTriffids", 
+            "name": "The Day of the Triffids", 
+            "poster_url": "TheDayOfTheTriffids.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "ThisMeansWar", 
+            "name": "This Means War!", 
+            "poster_url": "ThisMeansWar.jpg"
+        }
+    ], 
+    "id": "TheWolfMan1941", 
+    "name": "The Wolf Man "
+}

@@ -1,0 +1,90 @@
+{
+    "plot": "The story is set in the year of 2001 in a prison owned by a major company. A new prisoner sees his friends being harassed and killed by the guards and seeks his revenge.", 
+    "genres": "Action, Comedy, Horror", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bish\u014dnen"
+                ], 
+                "role": "Bish\u014dnen: Rogan, who is actually played by a woman in drag.", 
+                "id": "Bishonen"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "sweet"
+                ], 
+                "role": "Dogged Nice Guy: Ricky was sweet enough to try and save the life of a guy who tried to kill him twice.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dude Looks Like a Lady: Rogan. Probably because he's played by one.", 
+                "id": "DudeLooksLikeALady"
+            }, 
+            {
+                "adjectives": [
+                    "protective"
+                ], 
+                "role": "Papa Wolf: The Warden dotes on his overgrown Man Child of a son and is fiercely protective of him. During his intro he kills one of his mooks for making his son trip and cry.", 
+                "id": "PapaWolf"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102293", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }, 
+        {
+            "shared": [
+                "Bishonen", 
+                "DudeLooksLikeALady"
+            ], 
+            "shared_count": 2, 
+            "id": "BreakfastOnPluto", 
+            "name": "Breakfast on Pluto", 
+            "poster_url": "BreakfastOnPluto.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }
+    ], 
+    "id": "RikiOhTheStoryOfRicky", 
+    "name": "Riki Oh The Story Of Ricky"
+}

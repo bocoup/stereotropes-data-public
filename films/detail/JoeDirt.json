@@ -1,0 +1,100 @@
+{
+    "plot": "Joe Dirt is a janitor with a mullet hairdo, acid-washed jeans and a dream to find the parents that he lost at the Grand Canyon when he was a belligerent, trailer park-raised eight-year-old. Now, blasting Van Halen in his jacked-up economy car, the irrepressibly optimistic Joe hits the road alone in search of his folks. As his wandering, misguided search takes him from one hilarious misadventure to another, Joe finds his way to Los Angeles, where a shock-jock brings Joe on his radio show to insult him. But as Joe's life story unfolds, jeers turn to cheers, and an entire captivated city tunes in to hear the adventures of Joe Dirt.", 
+    "genres": "Adventure, Comedy, Drama", 
+    "release_year": "2001", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Leg Cling: The above poster.", 
+                "id": "LegCling"
+            }, 
+            {
+                "adjectives": [
+                    "surrogate"
+                ], 
+                "role": "Papa Wolf: Clem becomes something of a surrogate father to Joe. At the end of the film when Robby tries to bully Joe, Clem threatens to stab Robby in the face with a soldering iron unless he leaves Joe alone.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "phony", 
+                    "attractive", 
+                    "gratuitous"
+                ], 
+                "role": "Joe Dirt: While taking some people hostage with a phony A-bomb (It Makes Sense in Context), Joe demands that an attractive woman in the room flash him reavealing some gratuitous Sideboob.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Leg Cling: The above poster.", 
+                "id": "LegCling"
+            }, 
+            {
+                "adjectives": [
+                    "A-Bomb", 
+                    "short"
+                ], 
+                "role": "Ms. Fanservice: The girl who Joe forces to flash him when he has the \"A-Bomb\" strapped to his back. And, of course, Brandy spends much of her screen time wearing short shorts and a tank top.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0245686", 
+    "poster_url": "JoeDirt.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "FanserviceExtra"
+            ], 
+            "shared_count": 2, 
+            "id": "ClassOf1984", 
+            "name": "Class Of", 
+            "poster_url": "ClassOf1984.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Sharknado", 
+            "name": "Sharknado"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }
+    ], 
+    "id": "JoeDirt", 
+    "name": "Joe Dirt"
+}

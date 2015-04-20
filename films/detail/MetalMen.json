@@ -1,0 +1,95 @@
+{
+    "plot": "Based on a DC Comics hero created by Robert Kanigher and Ross Andru in 1962, \"Metal\" revolves around a brilliant scientist, William Magnus, and his creations: six highly advanced robots who have powers associated with their respective metals -- gold, iron, lead, tin, mercury and platinum. Instead of having to be programed, the Metal Men can think for themselves, which is both their genius and their biggest flaw.", 
+    "genres": "Action", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "long-winded"
+                ], 
+                "role": "Bash Brothers: When executed well, this is how the Metal Men fight as a unit. When done badly you tend to get bombarded by a long-winded explanation.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [
+                    "thick", 
+                    "tough"
+                ], 
+                "role": "Dumb Muscle: Lead is as thick as a pyramid and twice as tough.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Platinum", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [
+                    "human", 
+                    "due", 
+                    "dead"
+                ], 
+                "role": "When the Metal Men had to assume human identities (due to humanity turning against them and believing them to be dead), Platnium became a fashion model named Tina Platt. Fittingly, she's a platnium blonde.", 
+                "id": "WhiteHairedPrettyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1002541", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieAndTheMagicOfPegasus", 
+            "name": "Barbie And The Magic Of Pegasus", 
+            "poster_url": "BarbieAndTheMagicOfPegasus.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "Bionicle", 
+            "name": "BIONICLE", 
+            "poster_url": "Bionicle.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFaculty", 
+            "name": "The Faculty", 
+            "poster_url": "TheFaculty.jpg"
+        }
+    ], 
+    "id": "MetalMen", 
+    "name": "Metal Men"
+}

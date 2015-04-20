@@ -1,0 +1,112 @@
+{
+    "plot": "In a world where both Mutants and Humans fear each other, Marie, better known as Rogue, runs away from home and hitches a ride with another mutant, known as Logan, a.k.a. Wolverine. Charles Xavier, who owns a school for young mutants, sends Storm and Cyclops to bring them back before it is too late. Magneto, who believes a war is approaching, has an evil plan in mind, and needs young Rogue to help him.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "X-Men", 
+                    "own", 
+                    "own", 
+                    "only", 
+                    "Other", 
+                    "non-mutant"
+                ], 
+                "role": "In X-Men, when asked to put out his cigar, Wolverine looks around to find something to stub it out on, but doesn't find anything within reach, so he resorts to his own palm. It's not a case of machismo; his own regenerating skin was the only option at the moment, (Other than his boots, which is how non-mutant smokers usually put things out).", 
+                "id": "MachoMasochism"
+            }, 
+            {
+                "adjectives": [
+                    "own", 
+                    "own", 
+                    "only", 
+                    "Other", 
+                    "non-mutant"
+                ], 
+                "role": "Macho Masochism: When asked to put out his cigar, Wolverine looks around to find something to stub it out on, but doesn't find anything within reach, so he resorts to his own palm. It's not a case of machismo; his own regenerating skin was the only option at the moment, (Other than his boots, which is how non-mutant smokers usually put things out).", 
+                "id": "MachoMasochism"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Gender-switched", 
+                    "romantic", 
+                    "big"
+                ], 
+                "role": "Gender-switched in X-Men. Wolverine gives his dog tags to Rogue as he's leaving to learn about his past, promising that he'll come back for them. It's not intended to be romantic, since his feelings for her were more like a big brother.", 
+                "id": "TheLadysFavour"
+            }, 
+            {
+                "adjectives": [
+                    "romantic", 
+                    "big"
+                ], 
+                "role": "The Lady's Favour: Gender-switched. Wolverine gives his dog tags to Rogue as he's leaving to learn about his past, promising that he'll come back for them. It's not intended to be romantic, since his feelings for her were more like a big brother.", 
+                "id": "TheLadysFavour"
+            }, 
+            {
+                "adjectives": [
+                    "X-Men", 
+                    "white", 
+                    "first", 
+                    "X-Men"
+                ], 
+                "role": "Rogue from the X-Men has white streaks in the front of her hair. In the first X-Men film, this happens to Rogue after her power is drained by Magneto.", 
+                "id": "WhiteHairedPrettyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120903", 
+    "poster_url": "XMen1.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheLadysFavour"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "MachoMasochism"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }, 
+        {
+            "shared": [
+                "MachoMasochism"
+            ], 
+            "shared_count": 1, 
+            "id": "LethalWeapon", 
+            "name": "Lethal Weapon", 
+            "poster_url": "LethalWeapon.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadysFavour"
+            ], 
+            "shared_count": 1, 
+            "id": "SenseAndSensibility", 
+            "name": "Sense and Sensibility", 
+            "poster_url": "SenseAndSensibility.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadysFavour"
+            ], 
+            "shared_count": 1, 
+            "id": "Wings", 
+            "name": "Wings", 
+            "poster_url": "Wings.jpg"
+        }
+    ], 
+    "id": "XMen1", 
+    "name": "X-Men"
+}

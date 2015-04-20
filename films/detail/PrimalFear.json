@@ -1,0 +1,69 @@
+{
+    "plot": "Courtroom thriller about a slick, hotshot lawyer who takes the seemingly unwinnable case of a young altar boy accused of murdering an eminent catholic priest.", 
+    "genres": "Crime, Drama, Mystery", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "horrific", 
+                    "innocent", 
+                    "only", 
+                    "real"
+                ], 
+                "role": "In Primal Fear, the suspect in a horrific murder has  a split personality. Aaron is innocent, and Roy is the violent killer.  Roy is also the only real personality. He made \"Aaron\" up to get away with murder.", 
+                "id": "EvilRoy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0117381", 
+    "poster_url": "PrimalFear.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EvilRoy"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilRoy"
+            ], 
+            "shared_count": 1, 
+            "id": "CrocodileDundee", 
+            "name": "Crocodile Dundee", 
+            "poster_url": "CrocodileDundee.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilRoy"
+            ], 
+            "shared_count": 1, 
+            "id": "EvilRoySlade", 
+            "name": "Evil Roy Slade", 
+            "poster_url": "EvilRoySlade.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilRoy"
+            ], 
+            "shared_count": 1, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "EvilRoy"
+            ], 
+            "shared_count": 1, 
+            "id": "StuartLittle", 
+            "name": "Stuart Little", 
+            "poster_url": "StuartLittle.jpg"
+        }
+    ], 
+    "id": "PrimalFear", 
+    "name": "Primal Fear"
+}

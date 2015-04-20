@@ -1,0 +1,93 @@
+{
+    "plot": "Krank (Daniel Emilfork), who cannot dream, kidnaps young children to steal their dreams. One (Ron Perlman), a former whale hunter who is as strong as a horse, sets forth to search for Denree, his little brother who was kidnapped by Krank's men. Helped by young Miette (Judith Vittet), he soon arrives in La Cite des Enfants Perdus (The City of Lost Children).", 
+    "genres": "Fantasy, Sci-Fi", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: It's strongly suggested that One is developmentally challenged.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Emotionless Girl: Miette starts off as this.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Miette starts off like this in The City of Lost Children.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [
+                    "wear", 
+                    "red"
+                ], 
+                "role": "The City of Lost Children: The woman in the bar who tries and comically fails to seduce One wear a red dress. At the time, he is devastated over the death of Miette.", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Miette in The City of Lost Children, although  averted in that she lives.", 
+                "id": "LittleDeadRidingHood"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112682", 
+    "poster_url": "TheCityOfLostChildren.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyInRed", 
+                "LittleDeadRidingHood"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "LadyInRed"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "LittleDeadRidingHood"
+            ], 
+            "shared_count": 2, 
+            "id": "InglouriousBasterds", 
+            "name": "Inglourious Basterds", 
+            "poster_url": "InglouriousBasterds.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }
+    ], 
+    "id": "TheCityOfLostChildren", 
+    "name": "The City of Lost Children"
+}

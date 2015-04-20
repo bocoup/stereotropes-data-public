@@ -1,0 +1,99 @@
+{
+    "plot": "When a freak hurricane swamps Los Angeles, nature's deadliest killer rules sea, land, and air as thousands of sharks terrorize the waterlogged populace.", 
+    "genres": "Horror", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: George.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "ex-wife"
+                ], 
+                "role": "Papa Wolf: Fin goes to rescue his (teenage/adult) children and is admonished by his ex-wife and her boyfriend for turning up when it's not his day. Of course, April forgives him for this when  her boyfriend becomes shark food.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Nova is not afraid to use a shotgun where needed.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Nova.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: April and Claudia", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt2724064", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "HaloLegends", 
+            "name": "Halo Legends", 
+            "poster_url": "HaloLegends.jpg"
+        }
+    ], 
+    "id": "Sharknado", 
+    "name": "Sharknado"
+}

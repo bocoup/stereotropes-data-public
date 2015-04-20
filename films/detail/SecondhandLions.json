@@ -1,0 +1,102 @@
+{
+    "plot": "A boy named Walter is dropped by his mother Mae at his great-uncles' house. Later,Walter will find out his great-uncles' big secret. And rumors say that Hub & Garth, Walter's great uncles, have stolen much gold & money. (some say they stole it from Al Capone) Did they really steal that money or not?", 
+    "genres": "Comedy, Drama, Family", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: While not technically Walter's grandfather, Hub can take on four guys a quarter of his age, unarmed and still beat them. Also various enemies of the Foreign Legion, the Sheik's army & the Sheik himself.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Both uncles, but especially Hub.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Secondhand Lions: Hub Mc Cann. So, so much.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "veteran:"
+                ], 
+                "role": "In Secondhand Lions during Hub McCann's Crowning Badass Speech of Asskicking, when he single-handedly takes down the greasers who invade the diner, he rather pointedly mentions that he is a veteran:", 
+                "id": "DadTheVeteran"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "actual"
+                ], 
+                "role": "Mama Bear: Not Walter's actual mother, but Jasmine the lion, in the above mentioned Heroic Sacrifice.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "gun-toting"
+                ], 
+                "role": "Wicked Stepfather: Not quite, but the man Walter's mother brings with her near the end of the film is definitely headed in that direction. Though Walter doesn't go with her. Who would, after the guy nearly beat him to death?! Then again I don't think he would ever go after him again since he had a lion and two gun-toting uncles in his corner.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0327137", 
+    "poster_url": "SecondhandLions.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WickedStepmother", 
+                "CoolOldGuy", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "PansLabyrinth", 
+            "name": "Pan's Labyrinth", 
+            "poster_url": "PansLabyrinth.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }
+    ], 
+    "id": "SecondhandLions", 
+    "name": "Secondhand Lions"
+}

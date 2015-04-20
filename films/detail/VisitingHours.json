@@ -1,0 +1,91 @@
+{
+    "plot": "Deborah Ballin is a controversial middle-aged TV journalist, who is campaigning on air on behalf of a battered woman who murdered her abusive husband, claiming justifiable defense against the so-called victim. But her outspoken views championing women's rights incense one of the studio's cleaning staff, closet homicidal psycho (and misogynist) Colt Hawker whose deep seated despising all all things female occurred from seeing his Mother throwing boiling oil in the face of his abusive Father when he was a small child (and who's M.O. is to photograph victims he stabs as they're spasming to death). So much so that he decides there and then to shut her up...PERMANENTLY! Managing to beat her home, he soon dispatches her maid Francine, before turning his rage onto her as she come home (greeting her in only wearing her jewelry and make-up). Despite the brutal injuries he lashes out on her, she manages to survive and is rushed off to hospital. But undaunted he catches up to her in hospital and disguised as a florist... he enter the building to continue his mission to finish her off...along with anyone else who gets under his skin.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "initial"
+                ], 
+                "role": "Shirtless Scene: Colt's initial attack on Deborah.", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straw Misogynist", 
+                "id": "StrawMisogynist"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "landlady"
+                ], 
+                "role": "Lady Drunk: Colt's landlady.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0083296", 
+    "poster_url": "VisitingHours.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackChristmas1974", 
+            "name": "Black Christmas ", 
+            "poster_url": "BlackChristmas1974.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "LadyDrunk"
+            ], 
+            "shared_count": 2, 
+            "id": "Carnage", 
+            "name": "Carnage", 
+            "poster_url": "Carnage.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "EightHeadsInADuffelBag", 
+            "name": "8 Heads In A Duffel Bag", 
+            "poster_url": "EightHeadsInADuffelBag.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGamers", 
+            "name": "The Gamers", 
+            "poster_url": "TheGamers.jpg"
+        }
+    ], 
+    "id": "VisitingHours", 
+    "name": "Visiting Hours"
+}

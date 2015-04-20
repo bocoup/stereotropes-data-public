@@ -1,0 +1,73 @@
+{
+    "plot": "In the South American jungle supplies of nitroglycerin are needed at a remote oil field. The oil company pays four men to deliver the supplies in two trucks. A tense rivalry develops between the two sets of drivers and on the rough remote roads the slightest jolt can result in death.", 
+    "genres": "Adventure, Drama, Thriller", 
+    "release_year": "1953", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Jo.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Jo reveals himself as one.", 
+                "id": "DirtyCoward"
+            }
+        ]
+    }, 
+    "imdbid": "tt0046268", 
+    "poster_url": "TheWagesOfFear.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "GeorgeOfTheJungle", 
+            "name": "George of the Jungle", 
+            "poster_url": "GeorgeOfTheJungle.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "DancesWithWolves", 
+            "name": "Dances with Wolves", 
+            "poster_url": "DancesWithWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "MortalKombat", 
+            "name": "Mortal Kombat", 
+            "poster_url": "MortalKombat.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "TheWagesOfFear", 
+    "name": "The Wages of Fear"
+}

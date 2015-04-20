@@ -1,0 +1,108 @@
+{
+    "plot": "In Paris, detective Claude Chavasse is hired to follow a wife suspected of infidelity with the notorious American libertine Frank Flannagan. When the husband learns that his suspicions are accurate, he tells Claude of his plan to kill Flannagan. Claude's daughter Ariane overhears the threat and warns Frank of the coming trouble. She then plays the part of a worldly socialite with a list of conquests as long as Flannagan's. The bemused ladies' man returns to America the next day and Ariane, completely in love, follows his romantic escapades in the news. She sees him again in Paris the following year, and resumes her worldly guise, telling tales of former lovers when they meet at his hotel in the afternoon. Frank, amazed by the mystery girl and surprised to find himself jealous of her past, hires Claude to uncover more information about her. When the detective realizes what has happened, he asks Frank not to break his daughter's heart.", 
+    "genres": "Comedy, Romance, Drama", 
+    "release_year": "1957", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Michel makes his feelings for Ariane no secret, but she just brushes him off.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ladykiller in Love: Frank with Ariane.", 
+                "id": "LadyKillerInLove"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "full", 
+                    "level"
+                ], 
+                "role": "Overprotective Dad: Mr. Chavasse doesn't let Ariane read his case files and has a full dossier on Michel, though he is quite level headed when comes to confronting Flannagan", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Frank Flannagan.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Ariane pretends to be one", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Ariane's mother.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0050658", 
+    "poster_url": "LoveInTheAfternoon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "OverprotectiveDad", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DoggedNiceGuy", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 3, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "DoggedNiceGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Super8", 
+            "name": "Super 8", 
+            "poster_url": "Super8.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "FemmeFatale", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "GreatExpectations", 
+            "name": "Great Expectations", 
+            "poster_url": "GreatExpectations.jpg"
+        }
+    ], 
+    "id": "LoveInTheAfternoon", 
+    "name": "Love in the Afternoon"
+}

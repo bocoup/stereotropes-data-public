@@ -1,0 +1,112 @@
+{
+    "plot": "In antiquity, the Amazons defeat the war god, Ares, and Zeus charges them to hold him prisoner as eternally young warriors on the hidden island of Themyscira. Centuries later, US Air Force pilot Steve Trevor is lured to crash land on the island and the distraction of that trespass allows Ares to escape. In response, Princess Diana wins the responsibility to both take Trevor home and recapture the fugitive god. Steve Trevor offers to help and together this disparate pair must not only overcome Ares' efforts to achieve a bloody revenge, but also reconcile their own conflicting world views in an adventure that would be the first for the greatest of the female superheroes.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Amazon Chaser: Steve's first reaction to Diana trying to beat him up was to hit on her.", 
+                "id": "AmazonChaser"
+            }, 
+            {
+                "adjectives": [
+                    "Chivalrous"
+                ], 
+                "role": "Chivalrous Pervert: The film's version of Steve Trevor comes across as one.", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cultured Badass: Wonder Woman discusses Greek theatre with Steve at the bar.", 
+                "id": "CulturedBadass"
+            }, 
+            {
+                "adjectives": [
+                    "dead"
+                ], 
+                "role": "Non Action Girl: Alexa, much to the bane of her sister Artemis. Until she comes back from the dead, that is.", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Blondes are Evil: Played straight with Ares and Thrax, averted with Steve  and zigzagged with Persephone.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "Common"
+                ], 
+                "role": "Most Common Superpower: Lampshaded by Steve Trevor to the point of almost making a Gag Boobs joke.", 
+                "id": "MostCommonSuperpower"
+            }
+        ]
+    }, 
+    "imdbid": "tt1186373", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "AmazonChaser", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonChaser", 
+                "ActionGirl", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 3, 
+            "id": "LupinIIIThePursuitOfHarimaosTreasure", 
+            "name": "Lupin III: The Pursuit Of Harimao's Treasure"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "AmazonChaser", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "AmazonChaser", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }
+    ], 
+    "id": "WonderWoman", 
+    "name": "Wonder Woman"
+}

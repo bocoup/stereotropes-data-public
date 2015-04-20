@@ -1,0 +1,91 @@
+{
+    "plot": "Vincent, a down-at-the-heels French cab driver, desparately in need of cash for child support is intrigued when Thelma charters his cab for a trip to Crete. As they travel, talk and flirt, they become friends but the situation grows complicated when Vincent discovers that Telma is a transexual. Will Vincent decide to explore a country that he's never been to?", 
+    "genres": "Drama", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: The one that made Brad Pitt a legend.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Both of them, although it takes some Character Development (particularly Thelma).", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lovely Angels", 
+                "id": "LovelyAngels"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Tomboy and Girly Girl: Louise is the Tomboy, Thelma is the Girly Girl (at first, anyway).", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0308977", 
+    "similar": [
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "ActionGirl", 
+                "LovelyAngels"
+            ], 
+            "shared_count": 3, 
+            "id": "Bandidas", 
+            "name": "Bandidas", 
+            "poster_url": "Bandidas.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "TomBoyAndGirlyGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLEGOMovie", 
+            "name": "The LEGO Movie", 
+            "poster_url": "TheLEGOMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ActionGirl", 
+                "LovelyAngels"
+            ], 
+            "shared_count": 3, 
+            "id": "CharliesAngels", 
+            "name": "Charlie's Angels", 
+            "poster_url": "CharliesAngels.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "ThelmaAndLouise", 
+    "name": "Thelma & Louise"
+}

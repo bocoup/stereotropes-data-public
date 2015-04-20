@@ -1,0 +1,139 @@
+{
+    "plot": "Arthur (aka Wart) is a young boy who aspires to be a knight's squire. On a hunting trip he falls in on Merlin, a powerful but amnesiac wizard who has plans for Wart beyond mere squiredom. He starts by trying to give Wart an education (whatever that is), believing that once one has an education, one can go anywhere. Needless to say, it doesn't quite work out that way.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1963", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Merlin, the time traveling wiseman.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Merlin describes himself as this in The Sword in the Stone.", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Kay, again, albeit the medieval version (meaning swordplay and jousting instead of football). The idea that Wart wants to be one as well hits Merlin's Berserk Button.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Arthur \"Wart\" Pendragon from The Sword in the Stone. The sword proved it.", 
+                "id": "TheGoodKing"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In The Sword in the Stone, his beard keeps getting tangled up or caught in doors.", 
+                "id": "WizardBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wizard Beard: Usually a problem, as it gets caught on things rather frequently.", 
+                "id": "WizardBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "nice"
+                ], 
+                "role": "Action Girl: The girl squirrel for biting the wolf who thought Wart was a nice snack.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "young", 
+                    "beautiful", 
+                    "such", 
+                    "skin-deep", 
+                    "ugly", 
+                    "old", 
+                    "happy", 
+                    "ugly"
+                ], 
+                "role": "In The Sword in the Stone, Madame Mim defies this trope. As a master shapeshifter, she can easily make herself look young and beautiful, but she admits that such a guise is only skin-deep and deep down she's \"an ugly old creep!\" Since Mim thinks Bad Is Good and Good Is Bad, she is perfectly happy being an ugly Wicked Witch.", 
+                "id": "VainSorceress"
+            }, 
+            {
+                "adjectives": [
+                    "beautiful", 
+                    "such", 
+                    "such", 
+                    "happy"
+                ], 
+                "role": "Vain Sorceress: Mim defies this trope. She says she could be beautiful if she wanted to be, and in fact, does change herself into such a form as it it were a parlor trick. Then she admits that such a form is only skin deep and she's happy being ugly.", 
+                "id": "VainSorceress"
+            }, 
+            {
+                "adjectives": [
+                    "serious"
+                ], 
+                "role": "Wicked Witch: Madame Mim lives in a cottage in the woods brewing up trouble. When she hears coughing, she hopes that it's a serious illness.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0057546", 
+    "poster_url": "TheSwordInTheStone.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "VainSorceress", 
+                "TheGoodKing", 
+                "WickedWitch", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Tangled", 
+            "name": "Tangled", 
+            "poster_url": "Tangled.png"
+        }, 
+        {
+            "shared": [
+                "VainSorceress", 
+                "TheGoodKing", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "TheGoodKing", 
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "InTheNameOfTheKing", 
+            "name": "In The Name Of The King", 
+            "poster_url": "InTheNameOfTheKing.jpg"
+        }, 
+        {
+            "shared": [
+                "TheGoodKing", 
+                "WickedWitch", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan", 
+                "JerkJock", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }
+    ], 
+    "id": "TheSwordInTheStone", 
+    "name": "The Sword in the Stone"
+}

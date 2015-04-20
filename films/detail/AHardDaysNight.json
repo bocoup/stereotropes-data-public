@@ -1,0 +1,95 @@
+{
+    "plot": "The Beatles--the world's most famous rock and roll band--travel from their home town of Liverpool to London to perform in a television broadcast. Along the way they must rescue Paul's unconventional grandfather from various misadventures and drummer Ringo goes missing just before the crucial concert.", 
+    "genres": "Comedy, Music", 
+    "release_year": "1964", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Chick Magnet: Played for laughs near the beginning of the film.", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [
+                    "mischief-making"
+                ], 
+                "role": "Cool Old Guy: Paul's mischief-making grandfather, probably meant to show that older folks could enjoy Beatle fun too.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "clean", 
+                    "first"
+                ], 
+                "role": "Dirty Old Man: Paul's grandfather, despite everyone calling him \"clean\". When he's first seen in the opening montage, he's looking at a nudie magazine.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "low-cut"
+                ], 
+                "role": "Ms. Fanservice: Margaret Nolan played the bosomy woman in the low-cut dress draped all over Paul's grandfather at the casino.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0058182", 
+    "poster_url": "AHardDaysNight.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChickMagnet", 
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "WhenTimeRanOut", 
+            "name": "When Time Ran Out", 
+            "poster_url": "WhenTimeRanOut.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }
+    ], 
+    "id": "AHardDaysNight", 
+    "name": "A Hard Day's Night"
+}

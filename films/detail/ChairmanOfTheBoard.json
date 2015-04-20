@@ -1,0 +1,86 @@
+{
+    "plot": "A surfer and inventor Edison is chosen by his roommates to raise rent with his outrageous (and absurd) inventions. There's no luck in job interviews until he meets billionaire Armand McMillan, who likes him, and leaves his company after his death to Edison. Edison has a lot of success with his inventions while the company's competitors do all they can to destroy him.", 
+    "genres": "Comedy", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Armand. \"You surf?!\"", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "particular", 
+                    "big"
+                ], 
+                "role": "Surfer Dude: Edison and his roommates. Zak in particular is a Pauly Shore Expy, big time.", 
+                "id": "SurferDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "it-girl"
+                ], 
+                "role": "Ms. Fanservice: The tennis instructor, played by 90s it-girl Cindy Margolis.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0118836", 
+    "poster_url": "ChairmanOfTheBoard.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Sharknado", 
+            "name": "Sharknado"
+        }
+    ], 
+    "id": "ChairmanOfTheBoard", 
+    "name": "Chairman Of The Board"
+}

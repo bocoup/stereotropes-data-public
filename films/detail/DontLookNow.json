@@ -1,0 +1,75 @@
+{
+    "plot": "John and Laura Baxter are in Venice when they meet a pair of elderly sisters, one of whom claims to be psychic. She insists that she sees the spirit of the Baxters' daughter, who recently drowned. Laura is intrigued, but John resists the idea. He, however, seems to have his own psychic flashes, seeing their daughter walk the streets in her red cloak, as well as Laura and the sisters on a funeral gondola.", 
+    "genres": "Drama, Horror, Thriller", 
+    "release_year": "1973", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "blond", 
+                    "hooded", 
+                    "such", 
+                    "coat"
+                ], 
+                "role": "Don't Look Now. A little blond girl in a hooded red coat. She drowns. And the ghost of her is seen as such... turns out to be a dwarf murderer in a coat.", 
+                "id": "LittleDeadRidingHood"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Little Dead Riding Hood", 
+                "id": "LittleDeadRidingHood"
+            }
+        ]
+    }, 
+    "imdbid": "tt0069995", 
+    "poster_url": "DontLookNow.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LittleDeadRidingHood"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleDeadRidingHood"
+            ], 
+            "shared_count": 1, 
+            "id": "SchindlersList", 
+            "name": "Schindler's List", 
+            "poster_url": "SchindlersList.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleDeadRidingHood"
+            ], 
+            "shared_count": 1, 
+            "id": "InglouriousBasterds", 
+            "name": "Inglourious Basterds", 
+            "poster_url": "InglouriousBasterds.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleDeadRidingHood"
+            ], 
+            "shared_count": 1, 
+            "id": "Outpost", 
+            "name": "Outpost", 
+            "poster_url": "Outpost.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleDeadRidingHood"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCityOfLostChildren", 
+            "name": "The City of Lost Children", 
+            "poster_url": "TheCityOfLostChildren.jpg"
+        }
+    ], 
+    "id": "DontLookNow", 
+    "name": "Don't Look Now"
+}

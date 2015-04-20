@@ -1,0 +1,96 @@
+{
+    "plot": "Based on the true story of the ill-fated 13th Apollo mission bound for the moon. Astronauts Lovell, Haise and Swigert were scheduled to fly Apollo 14, but are moved up to 13. It's 1970, and America have already achieved their lunar landing goal, so there's little interest in this \"routine\" flight.. until that is, things go very wrong, and prospects of a safe return fade.", 
+    "genres": "Adventure, Drama, History", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "cool", 
+                    "many", 
+                    "critical", 
+                    "assertive"
+                ], 
+                "role": "Gene Kranz at mission control is a model leader who commands respect. Unassuming but firm, he's cool on many levels; he's calm and collected, exactly what is required when time is at the essence, makes critical, unprecedented and right decisions on his feet and never fails to be assertive but polite. When the occasion requires it he's stingy without being smug and proudly shoots down any defeatism. His empathy solidifies him as the perfect captain.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "sexual-spatial", 
+                    "first"
+                ], 
+                "role": "The Casanova: Jack is depicted in the film as a ladies man who is introduced using sexual-spatial metaphors with a girl. He's also remarked as the first bachelor in space.", 
+                "id": "TheCasanova"
+            }, 
+            {
+                "adjectives": [
+                    "similar", 
+                    "real", 
+                    "actual"
+                ], 
+                "role": "Apollo 13: In both the movie and Real Life, Flight Director Gene Kranz' wife sews him a vest before each flight.\n Fun fact: Apparently actor Ed Harris was extremely similar in appearance and build at the time of filming to the real Gene Kranz during the Apollo Program, to the point that the vest worn by Harris in the film is the actual vest Mrs. Kranz made for Gene back then, which the film crew were allowed to borrow.", 
+                "id": "WaistcoatOfStyle"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Waistcoat of Style: In both the movie and Real Life, Flight Director Gene Kranz' wife sews him a vest before each flight.", 
+                "id": "WaistcoatOfStyle"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112384", 
+    "poster_url": "Apollo13.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "WaistcoatOfStyle"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "WaistcoatOfStyle"
+            ], 
+            "shared_count": 2, 
+            "id": "FourWeddingsAndAFuneral", 
+            "name": "Four Weddings And A Funeral", 
+            "poster_url": "FourWeddingsAndAFuneral.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBridgeOnTheRiverKwai", 
+            "name": "The Bridge on the River Kwai", 
+            "poster_url": "TheBridgeOnTheRiverKwai.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "Apollo13", 
+    "name": "Apollo 13"
+}

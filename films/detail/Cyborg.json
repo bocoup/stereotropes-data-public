@@ -1,0 +1,86 @@
+{
+    "plot": "Gibson Rickenbacker is a hired fighter living in a plague-ravaged apocalyptic America where a plague has infested most of the United States and the rest of the world. In New York City, Gibson encounters a woman named Pearl Prophet. Pearl reveals to Gibson that she is a cyborg who is carrying vital-information for a group of scientists in Atlanta who are working on a cure to the plague and Pearl hires Gibson to escort her back to Atlanta. But Pearl is kidnapped by \"Pirates\" a murderous gang led by Fender Tremolo, who wants the cure for themselves and they decide to take Pearl to Atlanta themselves. Gibson, joined by a young woman named Nady Simmons, goes in pursuit of Fender and his gang, as Gibson sets out to rescue Pearl, stop Fender and his gang from reaching Atlanta and defeat Fender who slaughtered Gibson's family.", 
+    "genres": "Action, Sci-Fi, Thriller", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Gibson", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "Shirtless Scene: Van Damme, several times throughout the film, especially towards the end, during the penultimate fight with Fender.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "final"
+                ], 
+                "role": "Faux Action Girl: Nady tries her best but is constantly captured and knocked out over the course of the film. Granted, she manages to take down some mooks, but it often ends with her knocked out as well. And then she gets stabbed in the final fight for her trouble.", 
+                "id": "FauxActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097138", 
+    "poster_url": "Cyborg.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "ShirtlessScene", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Soldier", 
+            "name": "Soldier", 
+            "poster_url": "Soldier.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }
+    ], 
+    "id": "Cyborg", 
+    "name": "Cyborg"
+}

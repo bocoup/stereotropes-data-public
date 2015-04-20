@@ -1,0 +1,76 @@
+{
+    "plot": "Once upon a time, upon moving into the run-down Spiderwick Estate with their mother, twin brothers Jared and Simon Grace, along with their sister Mallory, find themselves pulled into an alternate world full of faeries and other creatures. Unable to explain the strange disappearances and accidents that seem to be happening on a daily basis, the family blames it all on Jared. When he, Simon and Mallory investigate what's really going on, they uncover the fantastic truth of the Spiderwick estate and of the creatures that inhabit it.", 
+    "genres": "Adventure, Family, Fantasy", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: The dad in question not only left the family, but is lying to Jared about coming to see him.  He can't, because he's found another woman.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Nick's mom died prior to the beginning of Beyond.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0416236", 
+    "poster_url": "TheSpiderwickChronicles.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "StarTrekInsurrection", 
+            "name": "Star Trek: Insurrection", 
+            "poster_url": "StarTrekInsurrection.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }
+    ], 
+    "id": "TheSpiderwickChronicles", 
+    "name": "The Spiderwick Chronicles"
+}

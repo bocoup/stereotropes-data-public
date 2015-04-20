@@ -1,0 +1,109 @@
+{
+    "plot": "A creative executive, Gwen, and her long-time assistant, Terry are fired from their jobs. After 3 months, Gwen shows up at Terry's door, broke. Gwen cajoles Terry into going into business with her as equals, which proves difficult after their previous business relationship. Gwen also moves in with Terry and her brother, Danny. Gwen also has to fight off the advances of Danny's boss, Guy, who owns the bar below where the trio live.", 
+    "genres": "Comedy", 
+    "release_year": "1997\u20131998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Brewster is really camp.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "hilarious"
+                ], 
+                "role": "Jerk Jock: Every guy who isn't on the cheering camp. It gets hilarious when they get caught by coach.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "oh-so", 
+                    "straight"
+                ], 
+                "role": "Straight Gay: Downey actually got Nick to thing he was straight. Also, most if not all of the oh-so straight looking Panther guys, if we believe to the girl who said that there were only four straight guys in the camp, being three of those Nick, Shawn and Adam.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "whole"
+                ], 
+                "role": "Alpha Bitch: A whole team of them in fact (the Panthers).", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian: Bianca, of course.", 
+                "id": "LipstickLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Cheerleader: Completely averted with everybody else, but the Panthers are the cover boys of the trope as stated. Go ahead, take a look", 
+                "id": "TheCheerleader"
+            }
+        ]
+    }, 
+    "imdbid": "tt0118315", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 4, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCheerleader", 
+                "CampGay", 
+                "StraightGay", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 4, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCheerleader", 
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }, 
+        {
+            "shared": [
+                "TheCheerleader", 
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }
+    ], 
+    "id": "FiredUp", 
+    "name": "Fired Up"
+}

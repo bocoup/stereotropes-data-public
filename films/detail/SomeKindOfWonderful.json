@@ -1,0 +1,117 @@
+{
+    "plot": "A young tomboy, Watts, finds her feelings for her best friend, Keith, run deeper than just friendship when he gets a date with the most popular girl in school. Unfortunately, the girl's old boyfriend, who is from the rich section of town, is unable to let go of her, and plans to get back at Keith.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Amanda's boyfriend, Hardy. See Manipulative Bastard for how he gets away with it.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "rich", 
+                    "popular", 
+                    "nice"
+                ], 
+                "role": "Alpha Bitch: Subverted with Amanda; she is rich and popular, and Watts tries to stop Keith from dating her because she thinks Amanda is the Alpha Bitch, but she's actually a very nice girl.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Lovable"
+                ], 
+                "role": "Lovable Alpha Bitch: Amanda, as it turns out.", 
+                "id": "LovableAlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "One of the Boys: Watts.", 
+                "id": "OneOfTheBoys"
+            }, 
+            {
+                "adjectives": [
+                    "male"
+                ], 
+                "role": "Watts from Some Kind of Wonderful. She hooks up with her male friend at the end, but doesn't undergo any Chickification, and her \"She Cleans Up Nicely\" moment sees her turn into a Bifauxnen.", 
+                "id": "OneOfTheBoys"
+            }, 
+            {
+                "adjectives": [
+                    "Lad-ette"
+                ], 
+                "role": "The Lad-ette: Watts.", 
+                "id": "TheLadette"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Watts and Amanda.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094006", 
+    "poster_url": "SomeKindOfWonderful.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AlphaBitch", 
+                "JerkJock", 
+                "LovableAlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "JerkJock", 
+                "LovableAlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "JerkJock", 
+                "LovableAlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "JerkJock", 
+                "LovableAlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBreakfastClub", 
+            "name": "The Breakfast Club", 
+            "poster_url": "TheBreakfastClub.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "JerkJock", 
+                "LovableAlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }
+    ], 
+    "id": "SomeKindOfWonderful", 
+    "name": "Some Kind of Wonderful"
+}

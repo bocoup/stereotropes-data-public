@@ -1,0 +1,80 @@
+{
+    "plot": "The true story of a rich girl who was abducted by American revolutionaries in the 1970's. Her time spent with her captors made her question herself and her way of life and she joined forces with the cause that her abductors were fighting for. This created a US scandal and Patty Hearst has become a pop culture fixture.", 
+    "genres": "Biography, Drama", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Cinque.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "brief", 
+                    "real"
+                ], 
+                "role": "Distressed Damsel: Averted. The movie (save one brief expository scene near the end) presents Patricia's point of view exclusively, and the SLA allowed her (and, therefore, us) access only to news that suggested there was no real effort to rescue her.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0095836", 
+    "poster_url": "PattyHearst.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Hook", 
+            "name": "Hook", 
+            "poster_url": "Hook.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirthOfANation", 
+            "name": "The Birth of a Nation", 
+            "poster_url": "TheBirthOfANation.jpg"
+        }
+    ], 
+    "id": "PattyHearst", 
+    "name": "Patty Hearst"
+}

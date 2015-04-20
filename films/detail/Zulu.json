@@ -1,0 +1,87 @@
+{
+    "plot": "Two Lieutenants, Chard of Engineers and Bromhead find that their 140 man contingent in Natal has been isolated by the destruction of the main British Army column and that 4,000 Zulu warriors will descend on them in hours. Each has a different military background in tactics and they are immediatly in conflict on how to prepare for the attack. Nearly a third of the men are in the infirmary, as the welsh company tries to somehow survive with no help in sight. Based on a true story.", 
+    "genres": "Drama, History, War", 
+    "release_year": "1964", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Chard, Bromhead, and Bourne in Zulu.", 
+                "id": "OfficerAndAGentleman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Zulus in Zulu.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Swiss", 
+                    "mercenary", 
+                    "confident", 
+                    "female"
+                ], 
+                "role": "We never actually see them, but Zulu has a scene where Swiss mercenary Schiess, arguing with two overly confident Welsh soldiers, mentions that the Zulu leader Cetawayo has a regiment of female warriors called \"Ripen at Noon\". One of the Welsh soldiers comments that \"that's pretty\".", 
+                "id": "AmazonBrigade"
+            }
+        ]
+    }, 
+    "imdbid": "tt0058777", 
+    "poster_url": "Zulu.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "ScaryBlackMan", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "PulpFiction", 
+            "name": "Pulp Fiction", 
+            "poster_url": "PulpFiction.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "TwentyEightDaysLater", 
+            "name": "28 Days Later", 
+            "poster_url": "TwentyEightDaysLater.jpg"
+        }
+    ], 
+    "id": "Zulu", 
+    "name": "Zulu"
+}

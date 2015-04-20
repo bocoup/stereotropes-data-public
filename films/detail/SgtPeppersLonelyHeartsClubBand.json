@@ -1,0 +1,105 @@
+{
+    "plot": "A small town band makes it big, but loses track of their roots, as they get caught up into the big-time machinations of the music biz. Now, they must thwart a plot to destroy their home town. Built around the music of the beatles, this musical uses some big name groups like Peter Frampton and Aerosmith.", 
+    "genres": "Adventure, Comedy, Fantasy", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Mean", 
+                    "old", 
+                    "original", 
+                    "Sixty-Four", 
+                    "interesting", 
+                    "happy", 
+                    "creepy", 
+                    "song", 
+                    "old", 
+                    "young", 
+                    "acting", 
+                    "late", 
+                    "last"
+                ], 
+                "role": "Dirty Old Man: Mean Mr. Mustard was described as a \"dirty old man\" in the original song, and the film version bears this out when he kidnaps Strawberry Fields \u2014 his advances towards her are how \"When I'm Sixty-Four\" is incorporated into the film. (It's interesting how they managed to take a happy song Paul wrote about his father and turned it into an extremely creepy song about an old man stalking a young woman. Kudos to the acting talents of the late Frankie Howerd in his last film.)", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "song"
+                ], 
+                "role": "Literally said about Mean Mr Mustard in Sgt. Pepper's Lonely Hearts Club Band. As the Fembots sing his song Mustard first says accusingly \"A DIRTY OLD MAN?\" then proudly \"Yesssss! A Dirrrty Old Mannnnnn!\"", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "free"
+                ], 
+                "role": "The Ingenue: Strawberry Fields is a \"free spirit\" example.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Lucy and the Diamonds.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0078239", 
+    "poster_url": "SgtPeppersLonelyHeartsClubBand.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheIngenue", 
+                "TheVamp", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "TheVamp", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "TemptationIsland", 
+            "name": "Temptation Island"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongKissGoodnight", 
+            "name": "The Long Kiss Goodnight", 
+            "poster_url": "TheLongKissGoodnight.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepyHollow", 
+            "name": "Sleepy Hollow", 
+            "poster_url": "SleepyHollow.jpg"
+        }
+    ], 
+    "id": "SgtPeppersLonelyHeartsClubBand", 
+    "name": "Sgt. Pepper's Lonely Hearts Club Band"
+}

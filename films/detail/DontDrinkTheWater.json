@@ -1,0 +1,73 @@
+{
+    "plot": "Somewhere behind the early 1960s cold-war iron curtain, the Hollander family cause an international spying incident when Walter photographs a sunset in a sensitive region. In order to stay out of jail, the Hollanders take refuge in the American Embassy, which is temporarily being run by the absent Ambassador's diplomatically incompetent son, Axel.", 
+    "genres": "Comedy", 
+    "release_year": "1994", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Jewish"
+                ], 
+                "role": "Jewish Mother: Marion", 
+                "id": "JewishMother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Susan", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109644", 
+    "poster_url": "DontDrinkTheWater.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "JewishMother", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFifthElement", 
+            "name": "The Fifth Element", 
+            "poster_url": "TheFifthElement.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AfterHours", 
+            "name": "After Hours", 
+            "poster_url": "AfterHours.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother"
+            ], 
+            "shared_count": 1, 
+            "id": "SaturdayNightFever", 
+            "name": "Saturday Night Fever", 
+            "poster_url": "SaturdayNightFever.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }
+    ], 
+    "id": "DontDrinkTheWater", 
+    "name": "Don't Drink The Water"
+}

@@ -1,0 +1,78 @@
+{
+    "plot": "Superman does a lot in his newest adventure. Archvillain Lex Luthor, determined to make the world safe for nuclear arms merchants, creates a new being to challenge the Man of Steel: the radiation-charged Nuclear Man. The two super-powered foes clash in an explosive screen extranvaganza that sees Superman save the Statue of Liberty, repulse a volcanic eruption of Mount Etna, rebuild the demolished Great Wall of China and perform many more spetactular feats.", 
+    "genres": "Action, Adventure, Family", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "other", 
+                    "great"
+                ], 
+                "role": "Dumb Muscle: Nuclear Man; as Lex quietly quips to Supes when he introduces the two to each other, he's \"Not one of your great thinkers!\" He does get a little more clever by movie's end, asking Lex \"What do you fear?\" at one point, apparently out of curiosity.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "enormous", 
+                    "nice"
+                ], 
+                "role": "Spoiled Sweet: Lacy Warfield. Despite the fact that her father is an enormous jerkass and gave her the job of Publisher through nepotism, she is a genuinely nice person who resents her father's treatment of the Daily Planet employees.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094074", 
+    "poster_url": "SupermanIVTheQuestForPeace.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "OliverAndCompany", 
+            "name": "Oliver & Company"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "FreeBirds", 
+            "name": "Free Birds", 
+            "poster_url": "FreeBirds.jpg"
+        }
+    ], 
+    "id": "SupermanIVTheQuestForPeace", 
+    "name": "Superman IV: The Quest for Peace"
+}

@@ -1,0 +1,116 @@
+{
+    "plot": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "future"
+                ], 
+                "role": "Black Leader Guy: Augustus Gibbons is not bald but the rest fits. High-ranking NSA official, prefiguring his future role as Nick Fury.", 
+                "id": "BaldBlackLeaderGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Czech", 
+                    "many", 
+                    "informant", 
+                    "bad"
+                ], 
+                "role": "Lawman Gone Bad: The Czech cop who, after one too many humiliations, turns informant for the bad guys.", 
+                "id": "LawmanGoneBad"
+            }, 
+            {
+                "adjectives": [
+                    "Czech", 
+                    "many", 
+                    "informant", 
+                    "bad"
+                ], 
+                "role": "The Czech cop in xXx who after one too many humiliations turns informant for the bad guys.", 
+                "id": "LawmanGoneBad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Yelena", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "courtesy"
+                ], 
+                "role": "In xXx, Xander has a stripper waiting for him in his bedroom, courtesy of the Big Bad.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [
+                    "later", 
+                    "whole", 
+                    "whole"
+                ], 
+                "role": "Yelena in xXx, though its later played with as the Genre Savvy Villain knew the whole time. (But didn't do anything about it.)\n Of course, it turns out that she was undercover for the FSB the whole time.", 
+                "id": "HighHeelFaceTurn"
+            }
+        ]
+    }, 
+    "imdbid": "tt0295701", 
+    "poster_url": "XxX.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "BaldBlackLeaderGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheFifthElement", 
+            "name": "The Fifth Element", 
+            "poster_url": "TheFifthElement.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ConanTheBarbarian2011", 
+            "name": "Conan the Barbarian ", 
+            "poster_url": "ConanTheBarbarian2011.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheScorpionKing", 
+            "name": "The Scorpion King", 
+            "poster_url": "TheScorpionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "BaldBlackLeaderGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "RedHeat", 
+            "name": "Red Heat", 
+            "poster_url": "RedHeat.jpg"
+        }
+    ], 
+    "id": "XxX", 
+    "name": "xXx"
+}

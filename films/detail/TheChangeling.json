@@ -1,0 +1,82 @@
+{
+    "plot": "It was the perfect family vacation for composer John Russell and his family when a freak automobile accident claims the lives of his wife and daughter. Consumed by grief, John, at the request of friends, rents an old turn of the century house. Mammoth in size, the house seems all the room that John needs to write music and reflect. He does not realize that he is not alone in the house. He shares it with the spirit of a murdered child who has homed in on John's despair and uses him to uncover decades of silence and deceit. With the help of Claire Norman, the one who aided John in procuring the house, they race to find the answers and soon learn that a devious and very powerful man guards them.", 
+    "genres": "Horror, Mystery", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crusty Caretaker: Averted. Mr Tuttle's actually quite obliging.", 
+                "id": "CrustyCaretaker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "short"
+                ], 
+                "role": "Damsel in Distress: For a short while, Claire when she's being chased by  the wheelchair.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl Next Door: Claire Norman.", 
+                "id": "GirlNextDoor"
+            }
+        ]
+    }, 
+    "imdbid": "tt0080516", 
+    "poster_url": "TheChangeling.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "DraculaPrinceOfDarkness", 
+            "name": "Dracula: Prince of Darkness", 
+            "poster_url": "DraculaPrinceOfDarkness.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }
+    ], 
+    "id": "TheChangeling", 
+    "name": "The Changeling"
+}

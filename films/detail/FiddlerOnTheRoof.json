@@ -1,0 +1,110 @@
+{
+    "plot": "At the beginning of the twentieth century, Jews and Orthodox Christians live in the little village of Anatevka in the pre-revolutionary Russia of the Czars. Among the traditions of the Jewish community, the matchmaker arranges the match and the father approves it. The milkman Reb Tevye is a poor man that has been married for twenty-five years with Golde and they have five daughters. When the local matchmaker Yente arranges the match between his older daughter Tzeitel and the old widow butcher Lazar Wolf, Tevye agrees with the wedding. However Tzeitel is in love with the poor tailor Motel Kamzoil and they ask permission to Tevye to get married that he accepts to please his daughter. Then his second daughter Hodel (Michele Marsh) and the revolutionary student Perchik decide to marry each other and Tevye is forced to accept. When Perchik is arrested by the Czar troops and sent to Siberia, Hodel decides to leave her family and homeland and travel to Siberia to be with her beloved Perchik. When his third daughter Chava decides to get married with the Christian Fyedka, Tevye does not accept and considers that Chava has died. Meanwhile the Czar troops evict the Jewish community from Anatevka.", 
+    "genres": "Drama, Family, Musical", 
+    "release_year": "1971", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "rich"
+                ], 
+                "role": "Nice Jewish Boy: Motel. Though in perhaps a bit of an aversion, Golde would prefer her daughter to marry a rich older man like Lazar Wolf.", 
+                "id": "NiceJewishBoy"
+            }, 
+            {
+                "adjectives": [
+                    "middle", 
+                    "loaded"
+                ], 
+                "role": "Stout Strength: Tevye is often portrayed as going a bit soft about the belly with middle age. He's also shown hauling his loaded milk cart around after his horse injures its leg.", 
+                "id": "StoutStrength"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Brawn Hilda: Fruma Sarah, Lazar Wolf's deceased wife, is sometimes depicted as one of these.", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fruma Sarah, Lazar Wolf's deceased wife in Fiddler on the Roof, is sometimes depicted as one of these.", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Golde from Fiddler on the Roof.", 
+                "id": "JewishMother"
+            }, 
+            {
+                "adjectives": [
+                    "Jewish"
+                ], 
+                "role": "Jewish Mother: Oh, Golde.", 
+                "id": "JewishMother"
+            }, 
+            {
+                "adjectives": [
+                    "Proper"
+                ], 
+                "role": "Proper Lady: Tzeitel.", 
+                "id": "ProperLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0067093", 
+    "poster_url": "FiddlerOnTheRoof.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StoutStrength", 
+                "BrawnHilda"
+            ], 
+            "shared_count": 2, 
+            "id": "MuppetTreasureIsland", 
+            "name": "Muppet Treasure Island", 
+            "poster_url": "MuppetTreasureIsland.jpg"
+        }, 
+        {
+            "shared": [
+                "NiceJewishBoy", 
+                "JewishMother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMadAdventuresOfRabbiJacob", 
+            "name": "The Mad Adventures of Rabbi Jacob", 
+            "poster_url": "TheMadAdventuresOfRabbiJacob.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength", 
+                "BrawnHilda"
+            ], 
+            "shared_count": 2, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }, 
+        {
+            "shared": [
+                "NiceJewishBoy", 
+                "JewishMother"
+            ], 
+            "shared_count": 2, 
+            "id": "AWalkOnTheMoon", 
+            "name": "A Walk On The Moon", 
+            "poster_url": "AWalkOnTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength", 
+                "BrawnHilda"
+            ], 
+            "shared_count": 2, 
+            "id": "HowToTrainYourDragon", 
+            "name": "How to Train Your Dragon", 
+            "poster_url": "HowToTrainYourDragon.jpg"
+        }
+    ], 
+    "id": "FiddlerOnTheRoof", 
+    "name": "Fiddler on the Roof"
+}

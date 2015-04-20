@@ -1,0 +1,74 @@
+{
+    "plot": "Joshua is a former U.S. military official who fled to the Foreign Legion when his wife Maria was killed by Muslim fundamentalists in Paris, and now he's a mercenary, fighting in the Yugoslav war on the Serbian side against Muslims.", 
+    "genres": "Drama, War", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "little", 
+                    "gon"
+                ], 
+                "role": "Child Soldiers: The little girl who walks up to the guard-post, smiling. Pete offers her some gum. He radios over to Guy, telling him how he don't give a damn about the Captain's stories and how \"we're not gonna become baby-killers\".  Death by Irony ensues.", 
+                "id": "ChildSoldiers"
+            }, 
+            {
+                "adjectives": [
+                    "Systematic"
+                ], 
+                "role": "No Woman's Land: Systematic rape of captured women", 
+                "id": "NoWomansLand"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120070", 
+    "poster_url": "Savior.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NoWomansLand"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "NoWomansLand"
+            ], 
+            "shared_count": 1, 
+            "id": "Django", 
+            "name": "Django", 
+            "poster_url": "Django.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "NoWomansLand"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "TheStraightStory", 
+            "name": "The Straight Story", 
+            "poster_url": "TheStraightStory.jpg"
+        }
+    ], 
+    "id": "Savior", 
+    "name": "Savior"
+}

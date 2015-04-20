@@ -1,0 +1,103 @@
+{
+    "plot": "In South Dakota, in an Indian reservation, an old storyteller Indian asks his grandson Shane, who is in trouble owing money to some bad guys, to take his old pony and him to Albuquerque to the great powwow, an Indian meeting. While traveling, Grandpa tells mysterious Indian tales of love, friendship and magic.", 
+    "genres": "Drama, Fantasy", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Shane\u2019s"
+                ], 
+                "role": "Cool Old Guy: Shane\u2019s grandfather, Pete.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Sam, Shane\u2019s father.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "white"
+                ], 
+                "role": "Distressed Dude: Tehan becomes this when the white soldiers \u201crescue\u201d him and bring him back to their fort where he is forbidden from making contact with the Indians. His sister Talks A Lot gets a group of men together to help save him.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [
+                    "good", 
+                    "male", 
+                    "fit"
+                ], 
+                "role": "Troubled, but Cute: Shane Eagle Boy too. A good portion of the male leads fit this trope.", 
+                "id": "TroubledButCute"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Talks A Lot acts like one to Tehan. Quillwork Girl becomes this to the Youngest Brother.", 
+                "id": "CoolBigSis"
+            }
+        ]
+    }, 
+    "imdbid": "tt0309150", 
+    "poster_url": "Dreamkeeper.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DistressedDude", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DistressedDude", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "Dreamkeeper", 
+    "name": "Dreamkeeper"
+}

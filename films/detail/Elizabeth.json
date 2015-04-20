@@ -1,0 +1,155 @@
+{
+    "plot": "This film details the ascension to the throne and the early reign of Queen Elizabeth the First, as played by Cate Blanchett. The main focus is the endless attempts by her council to marry her off, the Catholic hatred of her and her romance with Lord Robert Dudley.", 
+    "genres": "Biography, Drama, History", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "French"
+                ], 
+                "role": "Camp Straight: Elizabeth's French suitor, the Duke of Anjou.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Specifically, Henry VIII, though it's only referenced in one scene.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Elizabeth appears to be so.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Elizabeth has people refer to Elizabeth Tudor as \"Princess Elizabeth\" before she is crowned Queen. In reality she was disinherited at age 3 and was only referred to as \"Lady Elizabeth\".", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "'Princess", 
+                    "illegitimate", 
+                    "'Lady"
+                ], 
+                "role": "Everything's Better with Princesses: Elizabeth is addressed as 'Princess Elizabeth' before being thrown in the tower. In reality she was disinherited and declared illegitimate at age 3 - and was only ever referred to as 'Lady Elizabeth' afterwards.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "remembered"
+                ], 
+                "role": "God Save Us from the Queen!: Mary Tudor at the start. She's remembered as \"Bloody Mary\" for a reason.", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [
+                    "necessary"
+                ], 
+                "role": "Lady Macbeth: On the protagonist side.  Lettice Howard is implied to have given Walsingham the information necessary to implicate  Norfolk in the plot to assassinate the Queen", 
+                "id": "LadyMacBeth"
+            }, 
+            {
+                "adjectives": [
+                    "French"
+                ], 
+                "role": "Lady of War: Elizabeth wears an armor and gives a Rousing Speech to her troops in the sequel. But she did not dress up like a French saint.", 
+                "id": "LadyOfWar"
+            }, 
+            {
+                "adjectives": [
+                    "High", 
+                    "major"
+                ], 
+                "role": "The High Queen: A major reason for Elizabeth's transformation at the end of the film. It's referenced directly in the film:", 
+                "id": "TheHighQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Woman Wearing the Queenly Mask: Pretty much The Movie.", 
+                "id": "TheWomanWearingTheQueenlyMask"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The movie Elizabeth pictures the queen this way, inspired by Real Life.", 
+                "id": "TheWomanWearingTheQueenlyMask"
+            }, 
+            {
+                "adjectives": [
+                    "true"
+                ], 
+                "role": "Woman in White: Elizabeth twice, notably at the end and as well when she is taken into the Tower for questioning. That one is actually historically true as Elizabeth is recorded to be wearing a pure white gown when being questioned.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0127536", 
+    "poster_url": "Elizabeth.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "WomanInWhite", 
+                "TheWomanWearingTheQueenlyMask", 
+                "GodSaveUsFromTheQueen", 
+                "LadyOfWar", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 7, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "EverythingsBetterWithPrincesses", 
+                "LadyOfWar", 
+                "WomanInWhite", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 5, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "DisappearedDad", 
+                "EverythingsBetterWithPrincesses", 
+                "WomanInWhite", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 5, 
+            "id": "MirrorMirror", 
+            "name": "Mirror, Mirror"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "DaddysGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 4, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EverythingsBetterWithPrincesses", 
+                "LadyOfWar", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "Elizabeth", 
+    "name": "Elizabeth"
+}

@@ -1,0 +1,74 @@
+{
+    "plot": "Christopher Columbus decides to go on a journey to prove that the Earth is not flat. His companion is a smart wood worm who's on a quest of his own: to save a beautiful fairy princess from the evil lord Swarm and his insect army.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Kavorka Man: Queen Isabella is a Kavorka Woman", 
+                "id": "KavorkaMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Marilyn", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0103609", 
+    "similar": [
+        {
+            "shared": [
+                "KavorkaMan", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCommitments", 
+            "name": "The Commitments", 
+            "poster_url": "TheCommitments.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "TheMagicVoyage", 
+    "name": "The Magic Voyage"
+}

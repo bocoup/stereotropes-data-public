@@ -1,0 +1,89 @@
+{
+    "plot": "Jerry Mulligan, a struggling American painter in Paris, is \"discovered\" by an influential heiress with an interest in more than Jerry's art. Jerry in turn falls for Lise, a young French girl already engaged to a cabaret singer. Jerry jokes, sings and dances with his best friend, an acerbic would-be concert pianist, while romantic complications abound.", 
+    "genres": "Musical, Romance", 
+    "release_year": "1951", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Jerry", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Glamorous", 
+                    "old-school", 
+                    "sentimental"
+                ], 
+                "role": "Glamorous Wartime Singer: Inverted with Henri, who can't tolerate jazz and prefers the old-school, sentimental stuff.", 
+                "id": "GlamorousWartimeSinger"
+            }, 
+            {
+                "adjectives": [
+                    "same", 
+                    "red"
+                ], 
+                "role": "Lady in Red: Jerry is constantly being hounded by 'Furies' in the ballet sequence. It's your guess as to what they represent. This is a Shout Out to Agnes De Mille's choreography in Oklahoma!, which featured the same ladies in red hunting Curly.", 
+                "id": "LadyInRed"
+            }
+        ]
+    }, 
+    "imdbid": "tt0043278", 
+    "poster_url": "AnAmericanInParis.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "LadyInRed"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "LadyInRed"
+            ], 
+            "shared_count": 2, 
+            "id": "RedHotRidingHood", 
+            "name": "Red Hot Riding Hood"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "InglouriousBasterds", 
+            "name": "Inglourious Basterds", 
+            "poster_url": "InglouriousBasterds.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }
+    ], 
+    "id": "AnAmericanInParis", 
+    "name": "An American In Paris"
+}

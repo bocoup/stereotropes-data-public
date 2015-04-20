@@ -1,0 +1,78 @@
+{
+    "plot": "Comic artist and writer Woody performs a simple courier operation for his friend Harry who works for the CIA. But when he successfully fends off hostile agents, he earns the respect of the beautiful Natalia, who requests his assistance for her defection. Woody uses this request as leverage to use the CIA's resources to bring his comic book creation, Condorman, to life to battle the evil Krokov.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "credible"
+                ], 
+                "role": "Non-Action Guy: Harry, and Woody for that matter. Lacking any Badass credentials, he manages to become a credible action hero through sheer chutzpah.", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "High", 
+                    "other", 
+                    "male"
+                ], 
+                "role": "High Heel Face Turn: All the other cast members are male, so it's not hard to see where this is going. Unlike most examples, however, it occurs near the start of the film and subsequently drives the plot.", 
+                "id": "HighHeelFaceTurn"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082199", 
+    "poster_url": "Condorman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn"
+            ], 
+            "shared_count": 1, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn"
+            ], 
+            "shared_count": 1, 
+            "id": "IronSky", 
+            "name": "Iron Sky", 
+            "poster_url": "IronSky.jpg"
+        }
+    ], 
+    "id": "Condorman", 
+    "name": "Condorman"
+}

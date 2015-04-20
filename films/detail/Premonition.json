@@ -1,0 +1,76 @@
+{
+    "plot": "The middle-class couple Linda Hanson and Jim Hanson lives a wasted and routine relationship with their two daughters in their comfortable house in the suburbs. On a Thursday morning, the local sheriff visits Linda and tells her that her husband died in a car accident on the previous day. On the next morning, when Linda awakes, she finds Jim safe and sound at home. When she awakes on the next morning, she realizes that her days are out of order, but her family and friends believe she is insane.", 
+    "genres": "Drama, Fantasy, Mystery", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Dad", 
+                "id": "HotDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Mom", 
+                "id": "HotMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0477071", 
+    "poster_url": "Premonition.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HotMom", 
+                "HotDad"
+            ], 
+            "shared_count": 2, 
+            "id": "AWalkOnTheMoon", 
+            "name": "A Walk On The Moon", 
+            "poster_url": "AWalkOnTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "HotMom", 
+                "HotDad"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "HotMom"
+            ], 
+            "shared_count": 1, 
+            "id": "SympathyForLadyVengeance", 
+            "name": "Sympathy for Lady Vengeance", 
+            "poster_url": "SympathyForLadyVengeance.jpg"
+        }, 
+        {
+            "shared": [
+                "HotDad"
+            ], 
+            "shared_count": 1, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "HotDad"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIncredibles", 
+            "name": "The Incredibles"
+        }
+    ], 
+    "id": "Premonition", 
+    "name": "Premonition"
+}

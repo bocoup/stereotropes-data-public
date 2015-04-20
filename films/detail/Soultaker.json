@@ -1,0 +1,75 @@
+{
+    "plot": "Mysterious unseen men in black (angels?) collect the souls of the recently dead. When four teenagers \"die\" in a car wreck, one of these beings (\"The Man\") is sent to retrieve their souls. However, the teens are disembodied and realize their predicament. They flee. The movie revolves around them being picked off one by one, The Man's infatuation with one of the teenagers (who was apparently his lover in a past life), and the efforts of the teens to reunite their souls with their hospitalized bodies.", 
+    "genres": "Fantasy, Horror", 
+    "release_year": "1990", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Natalie constantly needs to be rescued by Zach.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Neutral Female: Natalie", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0100665", 
+    "poster_url": "Soultaker.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "LostInSpace", 
+            "name": "Lost in Space", 
+            "poster_url": "LostInSpace.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "HudsonHawk", 
+            "name": "Hudson Hawk", 
+            "poster_url": "HudsonHawk.jpg"
+        }
+    ], 
+    "id": "Soultaker", 
+    "name": "Soultaker"
+}

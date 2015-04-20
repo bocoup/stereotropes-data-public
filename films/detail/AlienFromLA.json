@@ -1,0 +1,74 @@
+{
+    "plot": "Wanda is a shy plain girl with a very boring life. When her father, an archaeologist, disappears on an expedition, she flies out to look for him. She ends up in an underground world, where no one believes in a surface world. Except for the secret police, who think she and her fathers are spies.", 
+    "genres": "Adventure, Comedy, Sci-Fi", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Beautiful All Along: Wanda, just pray that she never speaks.", 
+                "id": "BeautifulAllAlong"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092532", 
+    "poster_url": "AlienFromLA.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "Carrie", 
+            "name": "Carrie", 
+            "poster_url": "Carrie.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }
+    ], 
+    "id": "AlienFromLA", 
+    "name": "Alien from L.A."
+}

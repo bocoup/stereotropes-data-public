@@ -1,0 +1,95 @@
+{
+    "plot": "Seymour Krelborn is a nerdy orphan working at Mushnik's, a flower shop in urban Skid Row. He harbors a crush on fellow co-worker Audrey Fulquard, and is berated by Mr. Mushnik daily. One day as Seymour is seeking a new mysterious plant, he finds a very mysterious unidentified plant which he calls Audrey II. The plant seems to have a craving for blood and soon begins to sing for his supper. Soon enough, Seymour feeds Audrey's sadistic dentist boyfriend to the plant and later, Mushnik for witnessing the death of Audrey's ex. Will Audrey II take over the world or will Seymour and Audrey defeat it?", 
+    "genres": "Comedy, Horror, Musical", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "masochistic"
+                ], 
+                "role": "Camp Gay: Bill Murray as the masochistic patient shows some inclinations.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Audrey II (he's voiced by Levi Stubbs).", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Audrey imagines Seymour this way in Little Shop of Horrors. She even sings, \"He's Father; he knows best.\"", 
+                "id": "StandardFiftiesFather"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Audrey from Little Shop of Horrors has a stuffed puppy dog.", 
+                "id": "GirlsLoveStuffedAnimals"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chorus Girls from Little Shop of Horrors, and their Expies, the Muses in Disney's Hercules.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0091419", 
+    "poster_url": "LittleShopOfHorrors.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "SassyBlackWoman", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TheRock", 
+            "name": "The Rock", 
+            "poster_url": "TheRock.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCuriosityOfChance", 
+            "name": "The Curiosity Of Chance", 
+            "poster_url": "TheCuriosityOfChance.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AsGoodAsItGets", 
+            "name": "As Good As It Gets", 
+            "poster_url": "AsGoodAsItGets.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongestYard", 
+            "name": "The Longest Yard", 
+            "poster_url": "TheLongestYard.jpg"
+        }
+    ], 
+    "id": "LittleShopOfHorrors", 
+    "name": "Little Shop of Horrors"
+}

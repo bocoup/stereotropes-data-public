@@ -1,0 +1,120 @@
+{
+    "plot": "Based on the popular video game of the same name \"Mortal Kombat\" tells the story of an ancient tournament where the best of the best of different Realms fight each other. The goal - ten wins to be able to legally invade the losing Realm. Outworld has so far collected nine wins against Earthrealm, so it's up to Lord Rayden and his fighters to stop Outworld from reaching the final victory...", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Raiden from the Mortal Kombat movie.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Shang Tsung uses every trick in the book to keep Liu Kang from being in a position to win Mortal Kombat, from stacking the tournament against him to fleeing into another realm to nearly violating the kombat rules to force Sonya to face Shang Tsung instead. Even when this is thwarted, he then challenges Johnny before Liu puts an end to the nonsense.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "second", 
+                    "much", 
+                    "19-year-old"
+                ], 
+                "role": "Mr. Fanservice: Liu Kang and Johnny Cage. Cary Tagawa's buff Shang Tsung references the second game's younger version of the character, although he's much older than MKII's 19-year-old character.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "tough", 
+                    "cold", 
+                    "efficient", 
+                    "blubbering"
+                ], 
+                "role": "Sonja Blade is chickified about half-way through Mortal Kombat. For the first half she's tough, cold, efficient, and mercilessly kills Kano in the ring. Then Shang Tsung sneaks up and grabs her hair and she dissolves into a blubbering Damsel in Distress.", 
+                "id": "Chickification"
+            }, 
+            {
+                "adjectives": [
+                    "tough", 
+                    "very", 
+                    "long"
+                ], 
+                "role": "Faux Action Girl: Sonya had one tournament fight against Kano (which was proven to be fairly tough) and everyone was involved with the group fight against the mooks earlier. But as soon as Shang Tsung gets her in a hammerlock, she stops even trying to fight back. Compared to the very long fight scenes of Johnny (who kills Scorpion and Goro) and Liu Kang (who has five fights throughout the movie, including the one against Shang Tsung himself), Sonya didn't get much of a chance to really prove herself.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "second", 
+                    "black", 
+                    "later"
+                ], 
+                "role": "Ms. Fanservice: The battle outfits of Kitana and Sonya with more emphasis on the latter, where Brigette Wilson spent the movie's second act in a black tank top and skimpy shorts, and later a slave dress.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113855", 
+    "poster_url": "MortalKombat.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "FauxActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "TransformersRevengeOfTheFallen", 
+            "name": "Transformers: Revenge of The Fallen", 
+            "poster_url": "TransformersRevengeOfTheFallen.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "FauxActionGirl", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "MrFanservice", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }
+    ], 
+    "id": "MortalKombat", 
+    "name": "Mortal Kombat"
+}

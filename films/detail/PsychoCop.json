@@ -1,0 +1,75 @@
+{
+    "plot": "Officer Joe Vickers would probably make a good policeman if it weren't for his two nasty habits. Firstly, he is a devoted satanist; secondly - he likes to kill people. When he meets a group of teenagers spending their vacation in a wood hut, he decides to investigate...", 
+    "genres": "Horror", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: The sequel has Mr. Stonecipher, the boss of the company where protagonists work. He hates brownnosers.", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "first"
+                ], 
+                "role": "Final Girl: Laura in the first film and Sharon in the sequel.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0095922", 
+    "poster_url": "PsychoCop.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "MonsterHouse", 
+            "name": "Monster House", 
+            "poster_url": "MonsterHouse.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "NineDead", 
+            "name": "Nine Dead", 
+            "poster_url": "NineDead.jpg"
+        }
+    ], 
+    "id": "PsychoCop", 
+    "name": "Psycho Cop"
+}

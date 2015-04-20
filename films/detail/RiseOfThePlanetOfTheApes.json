@@ -1,0 +1,102 @@
+{
+    "plot": "At the story's heart is Caesar (Andy Serkis), a chimpanzee who gains human-like intelligence and emotions from an experimental drug. Raised like a child by the drug's creator, Will Rodman (James Franco) and a primatologist Caroline Aranha (Freida Pinto), Caesar ultimately finds himself taken from the humans he loves and imprisoned in an ape sanctuary in San Bruno. Seeking justice for his fellow inmates, Caesar gives the fellow apes the same drug that he inherited. He then assembles a simian army and escapes the sanctuary - putting man and ape on a collision course that could change the planet forever.", 
+    "genres": "Action, Drama, Sci-Fi", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bash Brothers: Buck the gorilla and Maurice the orangutan taking out cop cars.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Inversion. Caesar, upon seeing Charles Rodman being picked on by his neighbor, immediately rushes off to defend Rodman from him, going berserk at his neighbor.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: One could say both Will and Caroline fall into this category.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [
+                    "Bright"
+                ], 
+                "role": "Mama Bear: Why Bright Eyes goes berserk.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "beautiful", 
+                    "mute", 
+                    "original"
+                ], 
+                "role": "In the Gen*Sys lobby, there's a \"Nova\" Cafe. Nova was the beautiful, mute Nubile Savage played by actress Linda Harrison, who befriends both Taylor and Brent in the original films.", 
+                "id": "NubileSavage"
+            }
+        ]
+    }, 
+    "imdbid": "tt1318514", 
+    "poster_url": "RiseOfThePlanetOfTheApes.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "AbrahamLincolnVampireHunter", 
+            "name": "Abraham Lincoln: Vampire Hunter", 
+            "poster_url": "AbrahamLincolnVampireHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "HotScientist", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "PacificRim", 
+            "name": "Pacific Rim", 
+            "poster_url": "PacificRim.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "HomeAlone", 
+            "name": "Home Alone", 
+            "poster_url": "HomeAlone.jpg"
+        }
+    ], 
+    "id": "RiseOfThePlanetOfTheApes", 
+    "name": "Rise of the Planet of the Apes"
+}

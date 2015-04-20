@@ -1,0 +1,80 @@
+{
+    "plot": "Based off of the popular video game, Megaman. In the year 200X, robot scientists Dr. Thomas Light and Dr. Albert Wily were completing their special project, helper robots, which will help humans with everyday work. However, Dr. Wily had secretly reprogrammed the helper robots into fighting machines. Wily intends to use these robots to take over the world. After Dr. Light learned of this, he had decided to reprogram one of his other helper robots. He has chosen Rock (his male helper robot). Dr. Light gave Rock state-of-the-art combat technology, with the ability to copy another robot's weapon, thus Dr. light created Megaman. Now, Megaman has to stop Dr. Wily and his band of robots from taking over the world.", 
+    "genres": "Animation, Action, Family", 
+    "release_year": "1994\u2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Dr. Light.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Roll after Dr. Wily takes her hostage.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Robot Girl: Roll, natch.", 
+                "id": "RobotGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0165046", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "RobotGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "WildWildWest", 
+            "name": "Wild Wild West", 
+            "poster_url": "WildWildWest.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "RobotGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Metropolis", 
+            "name": "Metropolis", 
+            "poster_url": "Metropolis.jpg"
+        }
+    ], 
+    "id": "MegaMan", 
+    "name": "Mega Man"
+}

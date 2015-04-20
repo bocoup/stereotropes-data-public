@@ -1,0 +1,79 @@
+{
+    "plot": "It's Harold's birthday, and his closest friends throw him a party at Michael's apartment. Among Harold's presents is \"Cowboy\", since Harold may have trouble finding a cute young man on his own now that he's getting older. As the party progresses the self-deprecating humor of the group takes a nasty turn as the men become drunker. Climaxed by a cruel telephone \"game\" where each man must call someone and tell him (or her?) of his love for them.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1970", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "usual", 
+                    "laughing", 
+                    "simple"
+                ], 
+                "role": "Camp Gay: Most of the characters to varying degrees, but especially Emory. Done in a \"laughing with\" way rather than the usual \"laughing at\", and the characters are treated as people rather than as simple caricatures.", 
+                "id": "CampGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Harold.", 
+                "id": "AlphaBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0065488", 
+    "poster_url": "TheBoysInTheBand.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "FiredUp", 
+            "name": "Fired Up"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "HarrietTheSpyBlogWars", 
+            "name": "Harriet the Spy: Blog Wars", 
+            "poster_url": "HarrietTheSpyBlogWars.jpg"
+        }
+    ], 
+    "id": "TheBoysInTheBand", 
+    "name": "The Boys in the Band"
+}

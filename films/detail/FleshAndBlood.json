@@ -1,0 +1,102 @@
+{
+    "plot": "A man who was adopted at birth traces his real parents, and discovers that they have severe learning disabilities and do not know he exists.", 
+    "genres": "Drama", 
+    "release_year": "2002", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Clingy Jealous Girl: Celine to Martin, and she's the first to notice his affection towards Agnes.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Deconstructed with Agnes.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "early"
+                ], 
+                "role": "Fille Fatale: Agnes developes in one since her early scenes. Later combined with The Vamp.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ill Girl: The girl who lived in the castle that Martin sacked.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Oh, Agnes!", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [
+                    "red"
+                ], 
+                "role": "Woman in White: Agnes and Martin, who were at the beginning in red", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0345239", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp", 
+                "IllGirl", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "DamselInDistress", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "WaynesWorld", 
+            "name": "Wayne's World", 
+            "poster_url": "WaynesWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "FilleFatale", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "CatsDontDance", 
+            "name": "Cats Don't Dance", 
+            "poster_url": "CatsDontDance.jpg"
+        }
+    ], 
+    "id": "FleshAndBlood", 
+    "name": "Flesh And Blood"
+}

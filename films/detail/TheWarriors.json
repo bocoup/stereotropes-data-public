@@ -1,0 +1,115 @@
+{
+    "plot": "Cyrus, the leader of the most powerful gang in New York City, the Gramercy Riffs, calls a midnight summit for all the area gangs, with all asked to send nine unarmed representatives for the conclave. A gang called The Warriors are blamed for killing Cyrus as he gives his speech. They now have to cross the territory of rivals in order to get to their own 'hood. The Warriors slowly cross the dangerous Bronx and Manhattan territories, narrowly escaping police and other gangs every step of the way.", 
+    "genres": "Action, Thriller", 
+    "release_year": "1979", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "powerful", 
+                    "eponymous", 
+                    "last"
+                ], 
+                "role": "The leader of the Grammercy Riffs, an especially powerful gang in The Warriors.\n On a smaller scale, Cleon of the eponymous gang. He doesn't last.", 
+                "id": "BaldBlackLeaderGuy"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "hand-to-hand", 
+                    "entire"
+                ], 
+                "role": "Dirty Coward:  Luther, the leader of the Rogues, and the one who framed the Warriors in the first place. He engages Swan in a hand-to-hand fight, but pulls a gun before they even start.  Then he whines and starts trying to shift the blame when the Riffs show up. The Orphans are an entire gang of them who immediately scatter and flee as soon as something looks too hard.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "interested"
+                ], 
+                "role": "Dumb Muscle: Ajax is only interested in the two Fs.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [
+                    "open", 
+                    "black", 
+                    "tank-top", 
+                    "only", 
+                    "muscular"
+                ], 
+                "role": "Walking Shirtless Scene: The Warriors' outfit includes a vest worn open, exposing their manly chests in the New York heat. Strangely, Ajax wears a black tank-top beneath his vest in spite of having the best physique. Cowboy wears a plain t-shirt and his vest over it, and Fox is the only one to wear his vest buttoned up. Masai wears his sequined black gi open to expose his muscular chest.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Harriet: Ajax had the unfortunate luck of meeting one of these.", 
+                "id": "DirtyHarriet"
+            }, 
+            {
+                "adjectives": [
+                    "back-up"
+                ], 
+                "role": "In The Warriors, Ajax ends up getting arrested when he attempts to rape one of these. She then proceeds to cuff him to a park bench and call for back-up.", 
+                "id": "DirtyHarriet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0080120", 
+    "poster_url": "TheWarriors.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BaldBlackLeaderGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheDarkKnightReturns", 
+            "name": "Batman: The Dark Knight Returns", 
+            "poster_url": "BatmanTheDarkKnightReturns.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "NewJackCity", 
+            "name": "New Jack City", 
+            "poster_url": "NewJackCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "WatershipDown", 
+            "name": "Watership Down", 
+            "poster_url": "WatershipDown.jpg"
+        }
+    ], 
+    "id": "TheWarriors", 
+    "name": "The Warriors"
+}

@@ -1,0 +1,90 @@
+{
+    "plot": "In a small Minnesota town, the annual beauty pageant is being covered by a TV crew. Former winner Gladys Leeman wants to make sure her daughter follows in her footsteps. Explosions, falling lights, and trailer fires prove that. As the Leemans are the richest family in town the police are pretty relaxed about it all. Despite everything, main rival (but nice) Amber Atkins won't be stopped. There could well be more death and disappointment to come.", 
+    "genres": "Comedy", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: One of the judges.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: Gladys Leeman.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "black", 
+                    "single", 
+                    "dead"
+                ], 
+                "role": "Kirstie Alley's character in the black comedy Drop Dead Gorgeous takes it to the biggest extremes, as she's determined to have her daughter Rebecca (played by Denise Richards) win every single contest she's in by sabotaging them.  The kid finally ends up dead... when her mom lights up fireworks placed under a swan float she's in.", 
+                "id": "StageMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Stage Mom", 
+                "id": "StageMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0157503", 
+    "similar": [
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBreakfastClub", 
+            "name": "The Breakfast Club", 
+            "poster_url": "TheBreakfastClub.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Yojimbo", 
+            "name": "Yojimbo", 
+            "poster_url": "Yojimbo.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheJoyLuckClub", 
+            "name": "The Joy Luck Club", 
+            "poster_url": "TheJoyLuckClub.jpg"
+        }
+    ], 
+    "id": "DropDeadGorgeous", 
+    "name": "Drop Dead Gorgeous"
+}

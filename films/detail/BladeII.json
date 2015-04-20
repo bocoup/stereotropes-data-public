@@ -1,0 +1,86 @@
+{
+    "plot": "A rare mutation has occurred within the vampire community. The Reaper. A vampire so consumed with an insatiable bloodlust that they prey on vampires as well as humans, transforming victims who are unlucky enough to survive into Reapers themselves. Now their quickly expanding population threatens the existence of vampires, and soon there won't be enough humans in the world to satisfy their bloodlust. Blade, Whistler (Yes, he's back) and an armory expert named Scud are curiously summoned by the Shadow Council. The council reluctantly admits that they are in a dire situation and they require Blade's assistance. Blade then tenuously enters into an alliance with The Bloodpack, an elite team of vampires trained in all modes of combat to defeat the Reaper threat. Blade's team and the Bloodpack are the only line of defense which can prevent the Reaper population from wiping out the vampire and human populations.", 
+    "genres": "Action, Horror, Sci-Fi", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "new", 
+                    "van", 
+                    "first", 
+                    "few", 
+                    "third"
+                ], 
+                "role": "In Blade II, Blade's new sidekick Scud is a noncombatant. When confronted by Reapers, Scud retreats into his van and nearly has a heart attack. In contrast, Whistler ambushes a den of vampires with a gatling gun in the first film and guns down a few SWAT guys in the third.", 
+                "id": "NonActionGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Non-Action Guy: Scud, in contrast to the Badass Normal Whistler.", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Nyssa.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0187738", 
+    "poster_url": "BladeII.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Bloodlust", 
+            "name": "Bloodlust"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LupinIIIThePursuitOfHarimaosTreasure", 
+            "name": "Lupin III: The Pursuit Of Harimao's Treasure"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Arrietty", 
+            "name": "Arrietty", 
+            "poster_url": "Arrietty.jpg"
+        }
+    ], 
+    "id": "BladeII", 
+    "name": "Blade II"
+}

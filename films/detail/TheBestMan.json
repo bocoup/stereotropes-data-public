@@ -1,0 +1,94 @@
+{
+    "plot": "Harper's autobiographical novel is almost out, his girlfriend Robin desires commitment, and he's best man at the wedding of Lance, a pro athlete. He goes to New York early (Robin will come for the wedding) to hang out with Lance and other friends, including Jordan, his former almost-lover, now in media and privy to an advance copy of the book. The men discuss women, never facing their own double standard; Jordan wants to try again with Harper, at least for one night; and Harper fears that Lance will read his book and learn that the bride-to-be slept with him once to avenge Lance's many affairs. Can Harper mature before Lance kills him, Jordan seduces him, and he loses Robin?", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Big Man on Campus: Lance, in the college flashbacks.", 
+                "id": "BigManOnCampus"
+            }, 
+            {
+                "adjectives": [
+                    "Julian"
+                ], 
+                "role": "Henpecked Husband: Julian", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Harper", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Quentin", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: \"Candy\"", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0168501", 
+    "poster_url": "TheBestMan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGuyFromHarlem", 
+            "name": "The Guy From Harlem", 
+            "poster_url": "TheGuyFromHarlem.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "TheNuttyProfessor", 
+            "name": "The Nutty Professor", 
+            "poster_url": "TheNuttyProfessor.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BigManOnCampus"
+            ], 
+            "shared_count": 2, 
+            "id": "DeadPoetsSociety", 
+            "name": "Dead Poets Society", 
+            "poster_url": "DeadPoetsSociety.jpg"
+        }
+    ], 
+    "id": "TheBestMan", 
+    "name": "The Best Man"
+}

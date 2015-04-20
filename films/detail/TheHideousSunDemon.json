@@ -1,0 +1,86 @@
+{
+    "plot": "After exposure to radiation, an atomic research scientist finds himself changing into a murderous, lizard-like creature every time he is exposed to sunlight.", 
+    "genres": "Horror, Sci-Fi", 
+    "release_year": "1959", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "jealous", 
+                    "suspicious"
+                ], 
+                "role": "Crazy Jealous Guy: George is insanely jealous and suspicious of any man who even so much as speaks to Trudy.", 
+                "id": "CrazyJealousGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hard-Drinking"
+                ], 
+                "role": "Hard-Drinking Party Girl: Trudy.", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman: Both Ann and Trudy.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0052888", 
+    "poster_url": "TheHideousSunDemon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackChristmas1974", 
+            "name": "Black Christmas ", 
+            "poster_url": "BlackChristmas1974.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "HouseOfWax", 
+            "name": "House of Wax", 
+            "poster_url": "HouseOfWax.jpg"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BoysDontCry", 
+            "name": "Boys Don't Cry", 
+            "poster_url": "BoysDontCry.jpg"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFunhouse", 
+            "name": "The Funhouse", 
+            "poster_url": "TheFunhouse.jpg"
+        }
+    ], 
+    "id": "TheHideousSunDemon", 
+    "name": "The Hideous Sun Demon"
+}

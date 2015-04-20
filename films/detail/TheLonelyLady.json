@@ -1,0 +1,100 @@
+{
+    "plot": "Jerilee Randall, a simple schoolgirl living in San Fernando, dreams of becoming a famous writer. While at a party, she meets the son of a famous screenwriter. The son invites her over to his house; she accepts. They drive away with some other people, and that night, she is assaulted by one of the son's friends with a garden hose. The \"friend\" is interrupted in his assault by screenwriter Walter Thornton, who arrives in time to save her from an even more disgusting fate. Walter's rescue of Jerilee begins a friendship between the two, and before you know it, the two fall in love. They marry. Their marriage falls apart when Jerilee's script rewrites actually improve one of Walter's screenplays and he feels one-upped. Jerilee then goes through affair after sordid affair in her attempt to write her own screenplay and get it produced.", 
+    "genres": "Drama", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "flamboyant", 
+                    "effeminate"
+                ], 
+                "role": "Camp Gay: The rather flamboyant and effeminate hairdresser that befriends Jerilee during the filming of Walter's latest film. Surprisingly averted with Jerilee's gay best friend, director Guy Jackson, who the for the most part behaves quite masculinely.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: George Ballantine and Vinnie.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "straight"
+                ], 
+                "role": "Broken Bird: (Very poorly) played straight throughout the movie with Jerilee's \"misadventures.\"", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Jerilee before she loses her innocence.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ingenue: Jerilee takes this trope all the way to Who Would Be Stupid Enough levels.", 
+                "id": "TheIngenue"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085863", 
+    "poster_url": "TheLonelyLady.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "TheIngenue", 
+                "GirlishPigtails"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "TheIngenue", 
+                "CampGay"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "BrokenBird", 
+                "GirlishPigtails"
+            ], 
+            "shared_count": 3, 
+            "id": "FairyTail", 
+            "name": "Fairy Tail"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "IVitelloni", 
+            "name": "I Vitelloni", 
+            "poster_url": "IVitelloni.jpg"
+        }
+    ], 
+    "id": "TheLonelyLady", 
+    "name": "The Lonely Lady"
+}

@@ -1,0 +1,192 @@
+{
+    "plot": "Rebecca is suspicious of Ernessa, the new arrival at her boarding school. But is Rebecca just jealous of Ernessa's bond with Lucie, or does the new girl truly possess a dark secret?", 
+    "genres": "Drama, Horror, Mystery", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cultured Badass: Ernessa, Dora and the narrator.", 
+                "id": "CulturedBadass"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Clingy Jealous Girl: The narrator.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "long"
+                ], 
+                "role": "Daddy's Girl: Lucy, with the added hints of abuse (with sinister implications, her father won't let her cut her long blonde hair), and the narrator.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dark Magical Girl", 
+                "id": "DarkMagicalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "vocal"
+                ], 
+                "role": "Emotionless Girl: Ernessa, who never once displays any emotions, even when alone, and barely has vocal inflection.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [
+                    "hospital", 
+                    "new"
+                ], 
+                "role": "Girls Love Stuffed Animals: Lucy, who even after her return from the hospital and the brink of death talks about her new ones all the time; partially lampshaded when the narrator comments on how Lucy seems to have not changed at all from her experience.", 
+                "id": "GirlsLoveStuffedAnimals"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gossipy Hens: Most of the girls.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Haunted Heroine", 
+                "id": "HauntedHeroine"
+            }, 
+            {
+                "adjectives": [
+                    "practical"
+                ], 
+                "role": "Ice Queen: Ernessa, who only defrosts so the narrator can witness her practical immortality and ancient wisdom and talk to her.", 
+                "id": "IceQueen"
+            }, 
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Lesbian Jock: Assumed by Charley about Miss Bobbie.", 
+                "id": "LesbianJock"
+            }, 
+            {
+                "adjectives": [
+                    "lesbian", 
+                    "common", 
+                    "garden", 
+                    "'victim"
+                ], 
+                "role": "In Carmilla rewrite The Moth Diaries, the antagonist, Ernessa, is either one of these or a lesbian of the common or garden variety. Either way, she and her 'victim', Lucy, are surprised in bed by the diarist, also in love with Lucy.", 
+                "id": "LesbianVampire"
+            }, 
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Lesbian Vampire", 
+                "id": "LesbianVampire"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian", 
+                "id": "LipstickLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Psycho Lesbian: Possibly?", 
+                "id": "PsychoLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Schoolgirl Lesbians", 
+                "id": "SchoolgirlLesbians"
+            }, 
+            {
+                "adjectives": [
+                    "major"
+                ], 
+                "role": "The Ingenue: The narrator's interpretation of Lucy and perhaps even the major theme of Lucy's personality.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ophelia:", 
+                "id": "TheOphelia"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1407065", 
+    "poster_url": "TheMothDiaries.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "PsychoLesbian", 
+                "TomBoyAndGirlyGirl", 
+                "LipstickLesbian", 
+                "SchoolgirlLesbians", 
+                "LesbianJock"
+            ], 
+            "shared_count": 6, 
+            "id": "MementoMori", 
+            "name": "Memento Mori"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian", 
+                "GirlsLoveStuffedAnimals", 
+                "LipstickLesbian", 
+                "TheOphelia", 
+                "TheIngenue", 
+                "HauntedHeroine"
+            ], 
+            "shared_count": 6, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "DaddysGirl", 
+                "TomBoyAndGirlyGirl", 
+                "LipstickLesbian", 
+                "EmotionlessGirl"
+            ], 
+            "shared_count": 5, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "LesbianJock", 
+                "TheIngenue", 
+                "TomBoyAndGirlyGirl", 
+                "SchoolgirlLesbians", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 5, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "TomBoyAndGirlyGirl", 
+                "SchoolgirlLesbians", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 4, 
+            "id": "ShowMeLove", 
+            "name": "Show Me Love", 
+            "poster_url": "ShowMeLove.jpg"
+        }
+    ], 
+    "id": "TheMothDiaries", 
+    "name": "The Moth Diaries"
+}

@@ -1,0 +1,97 @@
+{
+    "plot": "Scooby and Shaggy tell an Arabic Caliph two stories, the first about Aliyah-din, a young girl aided by two genies played Yogi and Boo-Boo and the second about Sinbad the Sailor played by Magilla Gorilla.", 
+    "genres": "Animation, Comedy, Fantasy", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "such"
+                ], 
+                "role": "Disguised in Drag: The plots (such as it is) revolves around Shaggy being disguised as a harem girl.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The plot of Scooby-Doo in Arabian Nights centers around Shaggy disguising himself as a harem and then having the Caliph wanting to marry him. Shaggy has to pull a Scheherezade Gambit to get out of the wedding.", 
+                "id": "DisguisedInDrag"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Some featured in Scooby-Doo in Arabian Nights.", 
+                "id": "BedlahBabe"
+            }, 
+            {
+                "adjectives": [
+                    "Aliyah-Din"
+                ], 
+                "role": "Aliyah-Din transformed from princess to belly dancer while entering to the 'Prince' (Haman in disguise), and then turning back to princess in Scooby-Doo in Arabian Nights.", 
+                "id": "BellyDancer"
+            }, 
+            {
+                "adjectives": [
+                    "Aliyah-Din"
+                ], 
+                "role": "Hello, Nurse!: Aliyah-Din, once she becomes a princess.", 
+                "id": "HelloNurse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0192578", 
+    "poster_url": "ScoobyDooInArabianNights.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BellyDancer", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "BellyDancer", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "WildWildWest", 
+            "name": "Wild Wild West", 
+            "poster_url": "WildWildWest.jpg"
+        }, 
+        {
+            "shared": [
+                "BedlahBabe", 
+                "BellyDancer"
+            ], 
+            "shared_count": 2, 
+            "id": "TheChipmunkAdventure", 
+            "name": "The Chipmunk Adventure"
+        }, 
+        {
+            "shared": [
+                "BedlahBabe", 
+                "BellyDancer"
+            ], 
+            "shared_count": 2, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "SomeLikeItHot", 
+            "name": "Some Like It Hot", 
+            "poster_url": "SomeLikeItHot.jpg"
+        }
+    ], 
+    "id": "ScoobyDooInArabianNights", 
+    "name": "Scooby-Doo in Arabian Nights"
+}

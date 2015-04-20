@@ -1,0 +1,76 @@
+{
+    "plot": "John and Max are elderly men living next door to each other. They're continuously arguing and insulting each other, and have been this way for over 50 years. One day, Ariel, moves into the street. Both men are attracted to her, and their rivalry steps up a gear.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "such", 
+                    "old-man", 
+                    "ages-long"
+                ], 
+                "role": "The movie Grumpy Old Men, featuring Jack Lemmon and Walter Matthau, which focuses on two such characters fighting amongst themselves over old-man stuff and ages-long grudges. It got a sequel, Grumpier Old Men.", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "real-life", 
+                    "old"
+                ], 
+                "role": "The program Grumpy Old Men, which is devoted to real-life grumpy old celebrities complaining about stuff.", 
+                "id": "GrumpyOldMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107050", 
+    "poster_url": "GrumpyOldMen.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "MonsterHouse", 
+            "name": "Monster House", 
+            "poster_url": "MonsterHouse.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Balto", 
+            "name": "Balto", 
+            "poster_url": "Balto.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AttackOfTheEyeCreatures", 
+            "name": "Attack of the Eye Creatures"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "MorningGlory", 
+            "name": "Morning Glory", 
+            "poster_url": "MorningGlory.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheSunshineBoys", 
+            "name": "The Sunshine Boys", 
+            "poster_url": "TheSunshineBoys.jpg"
+        }
+    ], 
+    "id": "GrumpyOldMen", 
+    "name": "Grumpy Old Men"
+}

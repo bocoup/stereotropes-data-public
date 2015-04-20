@@ -1,0 +1,97 @@
+{
+    "plot": "Set during the grand, sweeping Napoleonic age, an officer in the French army insults another officer and sets off a life-long enmity. The two officers, D'Hubert and Feraud, cross swords time and time again in an attempt to achieve justice and preserve their honor.", 
+    "genres": "Drama, War", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "elaborate"
+                ], 
+                "role": "Badass Mustache: Both of the leads. Also Badass Pigtails... what? As cavalry officers (Hussars), they wear those elaborate braids (plaits) in front of the ears to reduce the damage of sword wounds to the head.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "Fouch\u00e9", 
+                    "clean-shaven", 
+                    "real"
+                ], 
+                "role": "Beard of Evil: Fouch\u00e9 (who was clean-shaven in real life).", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "clean-shaven", 
+                    "real"
+                ], 
+                "role": "Fouch\u00e9 sports one in The Duellists. He was clean-shaven in real life.", 
+                "id": "BeardOfEvil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "d'Hubert"
+                ], 
+                "role": "Cool Big Sis: d'Hubert's sister Leonie.", 
+                "id": "CoolBigSis"
+            }
+        ]
+    }, 
+    "imdbid": "tt0075968", 
+    "poster_url": "TheDuellists.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssMustache", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "MiamiConnection", 
+            "name": "Miami Connection", 
+            "poster_url": "MiamiConnection.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "FlashGordon", 
+            "name": "Flash Gordon", 
+            "poster_url": "FlashGordon.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "KingdomOfHeaven", 
+            "name": "Kingdom of Heaven", 
+            "poster_url": "KingdomOfHeaven.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Megamind", 
+            "name": "Megamind", 
+            "poster_url": "Megamind.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }
+    ], 
+    "id": "TheDuellists", 
+    "name": "The Duellists"
+}

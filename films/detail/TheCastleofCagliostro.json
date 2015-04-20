@@ -1,0 +1,142 @@
+{
+    "plot": "Reknowned international thief Lupin III (known as \"Wolf\" in the English dub) comes to the small European duchy of Cagliostro to investigate some excellently-forged money and stumbles across a national conspiracy going back some hundreds of years. Lupin and his friends must rescue the beautiful Clarice from the hands of the evil Count Cagliostro and solve the mystery of a hidden treasure dating back to the 15th century.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1979", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Battle Butler: Jodo, who controls the Count's Elite Mooks.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "second", 
+                    "rooftop-mounted", 
+                    "now-dead"
+                ], 
+                "role": "Jodo from the second Lupin III movie, The Castle of Cagliostro diligently serves the Count, even serving as one of the his ninjas and taking down Zenigata's stolen autogyro and Lupin himself with a rooftop-mounted machine gun. At the end, he asks Goemon to kill him, since he has no purpose but to serve the (now-dead) Count.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "questionable"
+                ], 
+                "role": "Dirty Old Man: Lupin accuses Count Cagliostro of being one, though it's questionable if he had any feelings for Clarisse at all.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "straight", 
+                    "grateful", 
+                    "many", 
+                    "atypical", 
+                    "early", 
+                    "direct", 
+                    "same", 
+                    "first"
+                ], 
+                "role": "Gentleman Thief: This is played straight with Lupin, which may come across as strange because he's\u2026Lupin. He's acting this way because he's still grateful to Clarisse for saving his life many years ago. Jigen calls Lupin out on his atypical behavior fairly early in the film. This may be a case of Recursive Adaptation. Miyazaki took more direct inspiration from Maurice Leblanc's novels than he did the Lupin III manga and anime. The same novels that inspired Lupin III in the first place.", 
+                "id": "GentlemanThief"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "In The Castle of Cagliostro, when the climax is over, Fujiko drives away in her motorcycle  with the Goat Bills plates in her bags.", 
+                "id": "BikerBabe"
+            }, 
+            {
+                "adjectives": [
+                    "protecting/rescuing"
+                ], 
+                "role": "Damsel in Distress: Clarisse is pursued by the Count and one of Lupin's priorities in this story is protecting/rescuing her.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "several", 
+                    "willing", 
+                    "Nebulous", 
+                    "entire"
+                ], 
+                "role": "Damsel out of Distress: Clarisse escaped from a mansion surrounded by lasers, participated in a car chase, saved Lupin's life several times (by way of shoving him out of the way of gunfire and throwing her body on a gun and knocking it aside), said she was \"not really\" afraid when they were being peppered with gunfire, and shoved the Count off the clocktower when she saw her chance \u2014 and she was willing to become a thief to boot. A lone woman facing down a Nebulous Evil Organisation run by a Manipulative Bastard with an army of Elite Mooks (which took Lupin's team and an entire army of Interpol agents to bring down)? As Lupin said, she was a brave girl.", 
+                "id": "DamselOutOfDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Clarisse in The Castle of Cagliostro.", 
+                "id": "GirlInTheTower"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl in the Tower", 
+                "id": "GirlInTheTower"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White: Clarisse", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0079833", 
+    "poster_url": "TheCastleofCagliostro.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInWhite", 
+                "GirlInTheTower", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DamselOutOfDistress", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "ANewHope", 
+            "name": "A New Hope"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "GirlInTheTower", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "MirrorMirror", 
+            "name": "Mirror, Mirror"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "DamselInDistress", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "IronMan3", 
+            "name": "Iron Man 3", 
+            "poster_url": "IronMan3.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "GentlemanThief", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "HudsonHawk", 
+            "name": "Hudson Hawk", 
+            "poster_url": "HudsonHawk.jpg"
+        }
+    ], 
+    "id": "TheCastleofCagliostro", 
+    "name": "The Castle of Cagliostro"
+}

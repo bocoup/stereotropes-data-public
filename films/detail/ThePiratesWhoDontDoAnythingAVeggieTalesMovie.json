@@ -1,0 +1,88 @@
+{
+    "plot": "Three lazy misfits - very timid Elliot (Larry the Cucumber), lazy Sedgewick (Mr. Lunt) and no self-confident George (Pa Grape) - dream of the day of putting on a show about pirates. With ...", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "vulnerable"
+                ], 
+                "role": "Disappeared Dad: The backstory. The King is away on business. Unfortunately this leaves his children vulnerable to being attacked by his wicked brother.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "Distressed Dude: The plot is kicked off by Prince Alexander being kidnapped by his uncle, prompting his little sister to try to summon heroes to help her save him.", 
+                "id": "DistressedDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Missing Mom: Alexander and Eloise's dad is away but he does show up at the end. Their mom on the other hand is nowhere to be seen. The family of rock monsters. There's a rock dad and three rock children, but where is the rock mom?", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0475998", 
+    "poster_url": "ThePiratesWhoDontDoAnythingAVeggieTalesMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DistressedDude", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "StarTrekInsurrection", 
+            "name": "Star Trek: Insurrection", 
+            "poster_url": "StarTrekInsurrection.jpg"
+        }
+    ], 
+    "id": "ThePiratesWhoDontDoAnythingAVeggieTalesMovie", 
+    "name": "The Pirates Who Don't Do Anything: A VeggieTales Movie"
+}

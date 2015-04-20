@@ -1,0 +1,73 @@
+{
+    "plot": "Neil, a self proclaimed film geek and owner of Gumshoe video, has always been content to live vicariously through his favorite films noir. But when he meets Violet, a real-life femme fatale, his mundane world gets turned upside down and the line between reality and the movies quickly begins to blur. Will Neil step up and embrace a life full of adventure or retreat back to his comfortable couch?", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2007", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "main", 
+                    "unusual"
+                ], 
+                "role": "Manic Pixie Dream Girl: The main character, Neil, is a Manic Pixie Dream Guy who aggravates everyone with his strange antics and quirks, but then Violet comes along and out\u2013Manic-Pixies him by taking the reckless and unusual behaviour to quite troubling extremes.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "unusual"
+                ], 
+                "role": "Watching the Detectives is basically about what happens when Manic Pixie Dream People get together. The main character Neil is a Manic Pixie Dream Guy who aggravates everyone with his strange antics and quirks, but then Violet comes along and out-Manic-Pixies him by taking the reckless and unusual behaviour to quite troubling extremes.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0472205", 
+    "poster_url": "WatchingTheDetectives.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AfterHours", 
+            "name": "After Hours", 
+            "poster_url": "AfterHours.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Lo", 
+            "name": "Lo"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "LAStory", 
+            "name": "LA Story"
+        }
+    ], 
+    "id": "WatchingTheDetectives", 
+    "name": "Watching the Detectives"
+}

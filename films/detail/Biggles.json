@@ -1,0 +1,87 @@
+{
+    "plot": "N/A", 
+    "genres": "Adventure", 
+    "release_year": "1960", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "last", 
+                    "over-age", 
+                    "deniable", 
+                    "Russian", 
+                    "old", 
+                    "old"
+                ], 
+                "role": "Badass Grandpa: Biggles ages naturally during the course of the books. His last excursion as an over-age and deniable James Bond is a mission into the Russian Gulag in 1965, when he would have been as old as the century, to liberate old antagonist Erich von Stalhein from Soviet incarceration.", 
+                "id": "BadassGrandpa"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "comic", 
+                    "modern", 
+                    "all-British", 
+                    "single", 
+                    "Self-Destruct"
+                ], 
+                "role": "One Biggles comic book set in modern times had the all-British hero declaring there's a place for skirts. At the end he recants this sexist statement as his female sidekick has proved her worth. By pushing a single button. Admittedly it was the Big Red Button of the Self-Destruct Mechanism, but still...", 
+                "id": "FauxActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0161131", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TransformersRevengeOfTheFallen", 
+            "name": "Transformers: Revenge of The Fallen", 
+            "poster_url": "TransformersRevengeOfTheFallen.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "EnterTheDragon", 
+            "name": "Enter the Dragon"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ptitlenaucd30o", 
+            "name": "A Kid in King Arthur's Court", 
+            "poster_url": "ptitlenaucd30o.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AKidInKingArthursCourt", 
+            "name": "A Kid in King Arthur's Court", 
+            "poster_url": "AKidInKingArthursCourt.jpg"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "Biggles", 
+    "name": "Biggles"
+}

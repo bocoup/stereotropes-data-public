@@ -1,0 +1,77 @@
+{
+    "plot": "Iria is a newly-certified monster hunter who saves the life of a scientist working on the \"Zeiram Project.\" Zeiram has been terrorizing local planets and kidnapping people to absorb their life force and clone them. When Iria meets up with a clone of her brother, her resolve is tested. Could her brother still be alive? Her friends help her track down the beast only to discover that it is calling for reinforcements. Iria must enter into a final showdown with Zeiram to save the planet and discover the truth about her missing brother.", 
+    "genres": "Action, Horror, Animation", 
+    "release_year": "1993", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl - Iria.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Small"
+                ], 
+                "role": "Small Girl, Big Gun", 
+                "id": "SmallGirlBigGun"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107228", 
+    "poster_url": "Zeiram.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SmallGirlBigGun", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Dredd", 
+            "name": "Dredd", 
+            "poster_url": "Dredd.jpg"
+        }, 
+        {
+            "shared": [
+                "SmallGirlBigGun", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "SmallGirlBigGun", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AlienS", 
+            "name": "Aliens", 
+            "poster_url": "AlienS.jpg"
+        }, 
+        {
+            "shared": [
+                "SmallGirlBigGun", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "PrincessMononoke", 
+            "name": "Princess Mononoke", 
+            "poster_url": "PrincessMononoke.jpg"
+        }, 
+        {
+            "shared": [
+                "SmallGirlBigGun", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "NausicaaOfTheValleyOfTheWind", 
+            "name": "Nausica\u00e4 of the Valley of the Wind", 
+            "poster_url": "NausicaaOfTheValleyOfTheWind.jpg"
+        }
+    ], 
+    "id": "Zeiram", 
+    "name": "Zeiram"
+}

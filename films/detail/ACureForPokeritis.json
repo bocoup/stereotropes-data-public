@@ -1,0 +1,67 @@
+{
+    "plot": "Mr. Brown loves to play poker, but he usually loses. After another losing night of cards, he promises his wife that he'll never play again, but then one of his friends helps him pretend that he is just going to club meetings on Wednesday nights. When Mrs. Brown figures out what he has been up to, she and her cousin come up with a plan that they hope will cure Mr. Brown of his poker playing once and for all.", 
+    "genres": "Comedy, Short", 
+    "release_year": "1912", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "bad", 
+                    "other"
+                ], 
+                "role": "Henpecked Husband: Hard not to feel bad for George and all the other husbands who have to come up with cover stories to hide the fact that they're playing cards.", 
+                "id": "HenpeckedHusband"
+            }
+        ]
+    }, 
+    "imdbid": "tt0002124", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "SevenFacesOfDrLao", 
+            "name": "7 Faces of Dr. Lao", 
+            "poster_url": "SevenFacesOfDrLao.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "RebelWithoutACause", 
+            "name": "Rebel Without a Cause", 
+            "poster_url": "RebelWithoutACause.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBestMan", 
+            "name": "The Best Man", 
+            "poster_url": "TheBestMan.jpg"
+        }
+    ], 
+    "id": "ACureForPokeritis", 
+    "name": "A Cure For Pokeritis"
+}

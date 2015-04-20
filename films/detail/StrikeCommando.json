@@ -1,0 +1,75 @@
+{
+    "plot": "While operating behind enemy lines, Sgt. Mike Ransom learns of a Russian presence in North Vietnam. Ordered to obtain proof of this discovery, Ransom returns to enemy territory but is captured and subjected to a variety of tortures. Eventually he escapes to continue his mission despite being hampered by a traitor in his own ranks.", 
+    "genres": "Action, War, Adventure", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Russkie/Mother"
+                ], 
+                "role": "Husky Russkie/Mother Russia Makes You Strong: Jakota.", 
+                "id": "HuskyRusskie"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable"
+                ], 
+                "role": "Disposable Woman: Jakota's girlfriend.", 
+                "id": "DisposableWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094059", 
+    "similar": [
+        {
+            "shared": [
+                "HuskyRusskie", 
+                "DisposableWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "PacificRim", 
+            "name": "Pacific Rim", 
+            "poster_url": "PacificRim.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "KamenRider", 
+            "name": "Kamen Rider"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "HuskyRusskie"
+            ], 
+            "shared_count": 1, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }
+    ], 
+    "id": "StrikeCommando", 
+    "name": "Strike Commando"
+}

@@ -1,0 +1,105 @@
+{
+    "plot": "This comedy/horror movie centers about a group of teens who go to Grizzly Lake High School. When one of their classmates is killed by someone dressed up as 'Cinderhella' (a character from a popular horror movie), they all fall under suspicion, but when they all get detention, they try to work out who it is.", 
+    "genres": "Comedy, Horror, Sci-Fi", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Billy.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Taylor Fisher. Fortunately, we only have to put up with her for five minutes.  Sloan, as well. Subverted with Ione", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Granola Girl: Riley.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Sloan.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [
+                    "existential", 
+                    "former", 
+                    "vegetable-based"
+                ], 
+                "role": "Riley in Detention. Her getting whooped in her debate with Gord on the morality of eating meat triggers an existential crisis that ends with the former vegan eating a burger and trying to hang herself.\n Gord himself is also one, though his views are an inversion of Riley's \u2014 he believes that not eating meat is morally wrong. That's because he's a vegetable-based alien lifeform, who is leading the invasion of Earth in order to stop vegans like Riley from eating his kin.", 
+                "id": "SoapBoxSadie"
+            }, 
+            {
+                "adjectives": [
+                    "existential", 
+                    "former", 
+                    "vegetable-based"
+                ], 
+                "role": "Soapbox Sadie: Riley, particularly in the debate with Gord. Her getting whooped in that debate triggers an existential crisis that ends with the former vegan eating a burger and trying to hang herself. Gord himself is also one, though his views are an inversion of Riley's \u2014 he believes that not eating meat is morally wrong. That's because he's a vegetable-based alien lifeform, who is leading the invasion of Earth in order to stop vegans like Riley from eating his kin.", 
+                "id": "SoapBoxSadie"
+            }
+        ]
+    }, 
+    "imdbid": "tt1701990", 
+    "poster_url": "Detention.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GranolaGirl", 
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "GeekCharming", 
+            "name": "Geek Charming"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCraft", 
+            "name": "The Craft", 
+            "poster_url": "TheCraft.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRageCarrie2", 
+            "name": "The Rage: Carrie 2"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }
+    ], 
+    "id": "Detention", 
+    "name": "Detention"
+}

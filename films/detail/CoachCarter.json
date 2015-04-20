@@ -1,0 +1,87 @@
+{
+    "plot": "In 1999, Ken Carter, a successful sporting goods store owner, accepts the job of basketball coach for his old high school in a poor area of Richmond, CA, where he was a champion athlete. As much dismayed by the poor attitudes of his players as well as their dismal play performance, Carter sets about to change both. He immediately imposes a strict regime typified in written contracts that include stipulations for respectful behavior, a dress code and good grades as requisites to being allowed to participate. The initial resistance from the boys is soon dispelled as the team under Carter's tutelage becomes a undefeated competitor in the games. However, when the overconfident team's behavior begins to stray and Carter learns that too many players are doing poorly in class, he takes immediate action. To the outrage of the team, the school and the community, Carter cancels all team activities and locks the court until the team shows acceptable academic improvement. In the ensuing debate, Carter fights to keep his methods, determined to show the boys that they need to rely on more than sports for their futures and eventually finds he has affected them more profoundly than he ever expected.", 
+    "genres": "Drama, Sport", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Coach Carter in regards to his team.", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Samuel Jackson again!", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "other", 
+                    "protective"
+                ], 
+                "role": "Mama Bear: Junior's mother. Justified because her other son lost his life and so she became incredibly protective of Junior as a result.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0393162", 
+    "poster_url": "CoachCarter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TitusAndronicus", 
+            "name": "Titus Andronicus", 
+            "poster_url": "TitusAndronicus.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "FourBrothers", 
+            "name": "Four Brothers"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }
+    ], 
+    "id": "CoachCarter", 
+    "name": "Coach Carter"
+}

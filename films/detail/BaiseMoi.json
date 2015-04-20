@@ -1,0 +1,64 @@
+{
+    "plot": "N/A", 
+    "genres": "Adult", 
+    "release_year": "1978", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girls With Guns", 
+                "id": "GirlsWithGuns"
+            }
+        ]
+    }, 
+    "imdbid": "tt0077201", 
+    "similar": [
+        {
+            "shared": [
+                "GirlsWithGuns"
+            ], 
+            "shared_count": 1, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlsWithGuns"
+            ], 
+            "shared_count": 1, 
+            "id": "Battleship", 
+            "name": "Battleship", 
+            "poster_url": "Battleship.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlsWithGuns"
+            ], 
+            "shared_count": 1, 
+            "id": "Colombiana", 
+            "name": "Colombiana", 
+            "poster_url": "Colombiana.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlsWithGuns"
+            ], 
+            "shared_count": 1, 
+            "id": "CockneysVsZombies", 
+            "name": "Cockneys Vs Zombies", 
+            "poster_url": "CockneysVsZombies.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlsWithGuns"
+            ], 
+            "shared_count": 1, 
+            "id": "Bandidas", 
+            "name": "Bandidas", 
+            "poster_url": "Bandidas.jpg"
+        }
+    ], 
+    "id": "BaiseMoi", 
+    "name": "Baise-moi"
+}

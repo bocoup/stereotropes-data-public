@@ -1,0 +1,80 @@
+{
+    "plot": "William Baldwin and Jodi Lyn O'Keefe of 'Halloween:H20' fame are both set to star in a new movie playing as brother and sister who travel to their family's ancestral mansion after their father's death. Discovering the hard way that their involved in witchcraft.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2003", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "partial", 
+                    "full", 
+                    "first"
+                ], 
+                "role": "Haunted Heroine: A partial example \u2014 we know full well from the first scene that Kylie is messed up and traumatized.", 
+                "id": "HauntedHeroine"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "white"
+                ], 
+                "role": "Woman in White: Kylie spends a lot of time wearing all white. Most of the pictures of Erica Sutton and other Sutton women also depict them in white.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0345852", 
+    "poster_url": "RedRover.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HauntedHeroine", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "Rebecca", 
+            "name": "Rebecca", 
+            "poster_url": "Rebecca.jpg"
+        }, 
+        {
+            "shared": [
+                "HauntedHeroine", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "HauntedHeroine", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRing", 
+            "name": "The Ring", 
+            "poster_url": "TheRing.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }
+    ], 
+    "id": "RedRover", 
+    "name": "Red Rover"
+}

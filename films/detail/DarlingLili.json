@@ -1,0 +1,86 @@
+{
+    "plot": "Set in Paris during World War I. Lili Smith/Schmidt is a German spy being requested to go under cover to help Germany during the war, to try and find out their plans. Her \"uncle\" wishes her to fulfill the operation, whereas one of his colleagues believed she is not capable of performing such an operation as she is British. She soon finds herself following Major William Larrabee's every move and spending all her time either with him or thinking of him. Her \"uncle\" realises she's in love with him but Lili is not facing that she is. Things & people are coming between her true fate. But what is it...", 
+    "genres": "Comedy, Drama, Musical", 
+    "release_year": "1970", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Battle Butler: Bedford, Lili's butler, always carries a gun and is also handy in a fistfight.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cultured Badass: Kurt von Ruger.", 
+                "id": "CulturedBadass"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Glamorous"
+                ], 
+                "role": "Glamorous Wartime Singer", 
+                "id": "GlamorousWartimeSinger"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mata Hari: Lili, of course.", 
+                "id": "MataHari"
+            }
+        ]
+    }, 
+    "imdbid": "tt0065611", 
+    "poster_url": "DarlingLili.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "CulturedBadass"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "CulturedBadass"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "MataHari"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "CulturedBadass"
+            ], 
+            "shared_count": 2, 
+            "id": "StarTrekIITheWrathOfKhan", 
+            "name": "Star Trek II: The Wrath of Khan", 
+            "poster_url": "StarTrekIITheWrathOfKhan.jpg"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }
+    ], 
+    "id": "DarlingLili", 
+    "name": "Darling Lili"
+}

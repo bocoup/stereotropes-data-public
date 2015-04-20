@@ -1,0 +1,73 @@
+{
+    "plot": "N/A", 
+    "genres": "N/A", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Jack. Normal dude, who is gay.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "Emotionless Girl: With a few exceptions, Cora ends up as this.", 
+                "id": "EmotionlessGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1196144", 
+    "similar": [
+        {
+            "shared": [
+                "EmotionlessGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionInWinter", 
+            "name": "The Lion in Winter", 
+            "poster_url": "TheLionInWinter.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "ValentinesDay", 
+            "name": "Valentine's Day", 
+            "poster_url": "ValentinesDay.jpg"
+        }
+    ], 
+    "id": "WhereAreWeGoing", 
+    "name": "Where Are We Going"
+}

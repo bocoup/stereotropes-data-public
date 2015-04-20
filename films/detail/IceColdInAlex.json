@@ -1,0 +1,81 @@
+{
+    "plot": "A group of army personnel and nurses attempt a dangerous and arduous trek across the deserts of North Africa during the second world war. The leader of the team dreams of his ice cold beer when he reaches Alexandria, but the problems just won't go away.", 
+    "genres": "Drama, War", 
+    "release_year": "1958", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "beaten-up", 
+                    "German"
+                ], 
+                "role": "Captain Anson in Ice Cold in Alex not only recovers from Drowning My Sorrows as he flees Rommel's assault in a beaten-up ambulance, but also saves the life of  a South African soldier who tagged along for the ride who's revealed to be a German spy.", 
+                "id": "OfficerAndAGentleman"
+            }, 
+            {
+                "adjectives": [
+                    "true"
+                ], 
+                "role": "Officer and a Gentleman: Anson especially after he risks being tried for treason by concealing van der Poel's true identity as a spy from his superiors.", 
+                "id": "OfficerAndAGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "The Chick: Sister Norton, who's terrified and completely out of her depth, is described by Murdoch as a \"silly little thing\" and pays for Anson's recklessness with her life.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0053935", 
+    "similar": [
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "BarbieAFashionFairytale", 
+            "name": "Barbie A Fashion Fairytale"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }
+    ], 
+    "id": "IceColdInAlex", 
+    "name": "Ice Cold in Alex"
+}

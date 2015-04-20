@@ -1,0 +1,104 @@
+{
+    "plot": "During the Second World War, onboard a small insignificant ship in the U.S. Pacific Fleet, an event occurs unlike any that the United States Navy has ever experianced. A Ship's Captain is removed from his command by his Executive Officer in an apparent outright act of mutiny. As the trial of the mutineers unfold, it is then learned that the Captain of the ship was mentally unstable, perhaps even insane. The Navy must then decide: was the Caine Mutiny a criminal act? Or an act of courage to save a ship from destruction at the hands of her Captain.", 
+    "genres": "Drama, War", 
+    "release_year": "1954", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "admirable", 
+                    "high", 
+                    "present", 
+                    "relieved", 
+                    "direct"
+                ], 
+                "role": "A Father to His Men: Captain DeVriess. Under him the Caine performs admirable (if unconventionally), crew morale is high, and there's an almost brotherly bond from Captain, to Officers, to Sailors. The crew even buys him a silver wristwatch as a going away present when he's finally relieved of command. Of course, this is in direct opposite to Queeg.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "aware", 
+                    "due", 
+                    "active"
+                ], 
+                "role": "Dirty Coward: Keefer, who put the idea of relieving Queeg into Maryk's head, but denied any involvement at the court-martial. Later, when he became the captain of the Caine, he panicked and jumped overboard after the kamikaze attack. He's painfully aware of all this, comparing himself to Lord Jim. It's Queeg's cowardice in battle that ultimately turns the men of the Caine against him. In the novel, at least, it's implied that it's more due to having been on active duty for too damn long than being a coward, since by all accounts he served with distinction in the Atlantic escorting convoys.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: In the book Keith starts out like this, but matures over the course of the story.", 
+                "id": "MommasBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Glamorous"
+                ], 
+                "role": "Glamorous Wartime Singer: May Wynn.", 
+                "id": "GlamorousWartimeSinger"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Caine Mutiny", 
+                "id": "GlamorousWartimeSinger"
+            }
+        ]
+    }, 
+    "imdbid": "tt0046816", 
+    "poster_url": "TheCaineMutiny.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "MommasBoy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "PathsOfGlory", 
+            "name": "Paths of Glory", 
+            "poster_url": "PathsOfGlory.jpg"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Grindhouse", 
+            "name": "Grindhouse", 
+            "poster_url": "Grindhouse.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Centurion", 
+            "name": "Centurion", 
+            "poster_url": "Centurion.jpg"
+        }
+    ], 
+    "id": "TheCaineMutiny", 
+    "name": "The Caine Mutiny"
+}

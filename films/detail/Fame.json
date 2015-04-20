@@ -1,0 +1,121 @@
+{
+    "plot": "At the New York City High School for the Performing Arts, students get specialized training that often leads to success as actors, singers, etc. This movie follows four students from the time when they audition to get into the school, through graduation. They are the brazen Coco Hernandez, shy Doris Finsecker, sensitive gay Montgomery MacNeil, and brash, abrasive Raul Garcia.", 
+    "genres": "Drama, Music, Musical", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded"
+                ], 
+                "role": "Absent-Minded Professor: Mr. Myers.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Angry Black Man: Tyrone, in the beginning.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Big Man on Campus: Nick", 
+                "id": "BigManOnCampus"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Joe Vegas likes to think he is.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Alpha Bitch: Iris Kelly, though it's more how the other kids see her.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Good Bad Girl: Carmen", 
+                "id": "GoodBadGirl"
+            }, 
+            {
+                "adjectives": [
+                    "musical", 
+                    "new", 
+                    "Rich", 
+                    "which/fork", 
+                    "limo-driver", 
+                    "middle-class"
+                ], 
+                "role": "Subverted in the musical Fame where everyone believes that the new dancer is a Rich Bitch, with Tyrone even singing lyrics to that effect (I don't need no Rich Bitch/to tell me which/fork to use) only for her to angrily confide in him that actually, her dad is a limo-driver who drops her off on his way to work, and that she's barely middle-class.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Lambchop", 
+                "id": "Tomboy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0080716", 
+    "poster_url": "Fame.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BigManOnCampus", 
+                "AngryBlackMan", 
+                "AlphaBitch", 
+                "RichBitch"
+            ], 
+            "shared_count": 4, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "BigManOnCampus", 
+                "GoodBadGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBreakfastClub", 
+            "name": "The Breakfast Club", 
+            "poster_url": "TheBreakfastClub.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "AngryBlackMan", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "BigManOnCampus"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBestMan", 
+            "name": "The Best Man", 
+            "poster_url": "TheBestMan.jpg"
+        }
+    ], 
+    "id": "Fame", 
+    "name": "Fame"
+}

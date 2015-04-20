@@ -1,0 +1,81 @@
+{
+    "plot": "Emma Woodhouse is a congenial young lady who delights in meddling in other people's affairs. She is perpetually trying to unite men and women who are utterly wrong for each other. Despite her interest in romance, Emma is clueless about her own feelings, and her relationship with gentle Mr. Knightly.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "gentle", 
+                    "special", 
+                    "young"
+                ], 
+                "role": "Overprotective Dad: Michael Gambon plays an extremely gentle version of this character. While Mr. Woodhouse is something of this trope in the novel and all adaptations, Gambon's Mr. Woodhouse explicitly speaks of his special concern for his daughters as a result of losing his wife when they were very young.", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Gaussian", 
+                    "such", 
+                    "diary"
+                ], 
+                "role": "Gaussian Girl: Emma frequently appears as such, especially when writing in her diary, thinking about Mr. Knightley.", 
+                "id": "GaussianGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116191", 
+    "poster_url": "Emma.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Coneheads", 
+            "name": "Coneheads", 
+            "poster_url": "Coneheads.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Paul", 
+            "name": "Paul", 
+            "poster_url": "Paul.jpg"
+        }, 
+        {
+            "shared": [
+                "GaussianGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SkyCaptainAndTheWorldOfTomorrow", 
+            "name": "Sky Captain and the World of Tomorrow", 
+            "poster_url": "SkyCaptainAndTheWorldOfTomorrow.jpg"
+        }, 
+        {
+            "shared": [
+                "GaussianGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "GaussianGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }
+    ], 
+    "id": "Emma", 
+    "name": "Emma"
+}

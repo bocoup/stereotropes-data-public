@@ -1,0 +1,67 @@
+{
+    "plot": "A dramatization of Lori Petty's teenage years spent in small town Iowa.", 
+    "genres": "Drama", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "abusive"
+                ], 
+                "role": "The Poker House: The family moves away from the abusive priest father and never hears from him again.", 
+                "id": "DisappearedDad"
+            }
+        ]
+    }, 
+    "imdbid": "tt1014806", 
+    "poster_url": "ThePokerHouse.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFog", 
+            "name": "The Fog", 
+            "poster_url": "TheFog.jpg"
+        }
+    ], 
+    "id": "ThePokerHouse", 
+    "name": "The Poker House"
+}

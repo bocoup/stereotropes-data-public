@@ -1,0 +1,75 @@
+{
+    "plot": "A wicked troll king in search of a mystical ring that will return him to his human form invades a San Francisco apartment complex where a powerful witch lives.", 
+    "genres": "Fantasy, Horror", 
+    "release_year": "1986", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Cool Old Lady: Eunice, once she and Harry Jr. start getting to know each other.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: Somewhat subverted; Eunice was a princess, but she decided to become a witch.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092115", 
+    "poster_url": "Troll.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "ShrekTheThird", 
+            "name": "Shrek the Third", 
+            "poster_url": "ShrekTheThird.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "NausicaaOfTheValleyOfTheWind", 
+            "name": "Nausica\u00e4 of the Valley of the Wind", 
+            "poster_url": "NausicaaOfTheValleyOfTheWind.jpg"
+        }
+    ], 
+    "id": "Troll", 
+    "name": "Troll"
+}

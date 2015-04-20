@@ -1,0 +1,83 @@
+{
+    "plot": "In a seedy bar in a town ravaged by war, mysterious businessman Hunt hires ex-marine D.C. to assemble a crack team of ex-soldiers to protect him on a dangerous journey into no-man's land. To this gang of hardened warriors, battle-worn veterans and borderline criminals killing is just a job - and one they enjoy. Their mission - to scope out an old military bunker. It should be easy - 48 hours at the most. Lots of cash for little risk, or so he says. Once at the outpost, the men make a horrific discovery that turns their mission on its head - the scene of a bloody and gruesome series of experiments, carried out by the Nazis on their own soldiers during WWII. Amid the carnage, they find something even more disturbing - someone who's still alive. As war rages above ground, and a mysterious enemy emerges from the darkness below, D.C. and his men find themselves trapped in a claustrophobic and terrifying scenario. Their mission is no longer one of safe-guarding - it's one of survival. Together they must discover why Hunt has brought them to the outpost - and what it is that's killing them off, one by one.", 
+    "genres": "Action, Horror, Sci-Fi", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "past"
+                ], 
+                "role": "Child Soldiers: Mentioned as past of Cotter's backstory.", 
+                "id": "ChildSoldiers"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "fur-lined"
+                ], 
+                "role": "Little Dead Riding Hood: Little Lena walks through The Lost Woods wearing a fur-lined jacket with the hood up.", 
+                "id": "LittleDeadRidingHood"
+            }, 
+            {
+                "adjectives": [
+                    "female", 
+                    "permanent"
+                ], 
+                "role": "Wicked Witch: There's a female Nazi zombie in the underground base who limps around with a permanent hunch and a mad cackle.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0892899", 
+    "poster_url": "Outpost.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LittleDeadRidingHood"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "TheStraightStory", 
+            "name": "The Straight Story", 
+            "poster_url": "TheStraightStory.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWiz", 
+            "name": "The Wiz", 
+            "poster_url": "TheWiz.jpg"
+        }
+    ], 
+    "id": "Outpost", 
+    "name": "Outpost"
+}

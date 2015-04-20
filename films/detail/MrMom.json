@@ -1,0 +1,127 @@
+{
+    "plot": "Jack and Caroline are a couple making a decent living when Jack suddenly loses his job. They agree that he should stay at home and look after the house while Caroline works. It's just that he's never done it before, and really doesn't have a clue.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Sorrow: Jack grows one when he realizes he's going to be stuck watching over the kids and the house for a while as his wife goes off to work. He shaves it after he has his Soap Within a Show dream.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Mr. Mom, Jack Butler grows one when he realizes he's going to be stuck watching over the kids and the house for a while as his wife goes off to work. He shaves it after he has his Soap Within a Show dream.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Bumbling Dad: Really a subversion. Once Jack stops feeling sorry for himself about being unemployed and his wife being the breadwinner, he gets it together and gets quite good in the role.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Mr. Mom is about a bumbling dad who has to stay at home and take care of the kids while his wife works.\n Really a subversion. Once he stops feeling sorry for himself about being unemployed and his wife being the breadwinner, he gets it together and gets quite good in the role.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Chippendales Dancers: Where Jack is taken to with his housewife neighbors.", 
+                "id": "ChippendalesDancers"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "House Husband: Jack Butler starts out as a Fish out of Water, but ends up this at the end of the movie.", 
+                "id": "HouseHusband"
+            }, 
+            {
+                "adjectives": [
+                    "eponymous"
+                ], 
+                "role": "Jack Butler, the eponymous house husband in Mr. Mom, starts out as a Fish out of Water, but ends up this at the end of the movie.", 
+                "id": "HouseHusband"
+            }, 
+            {
+                "adjectives": [
+                    "major", 
+                    "wrong"
+                ], 
+                "role": "Men Can't Keep House: The major theme of the movie, which Jack ends up proving wrong.", 
+                "id": "MenCantKeepHouse"
+            }, 
+            {
+                "adjectives": [
+                    "major"
+                ], 
+                "role": "The major theme of the Michael Keaton movie Mr. Mom.", 
+                "id": "MenCantKeepHouse"
+            }, 
+            {
+                "adjectives": [
+                    "same"
+                ], 
+                "role": "Papa Wolf: Jack. Nobody yells at his children and gets away with it. Nobody! And this is played by the same guy who would go on to play Batman.", 
+                "id": "PapaWolf"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085970", 
+    "poster_url": "MrMom.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "ChippendalesDancers", 
+                "MenCantKeepHouse"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "MenCantKeepHouse"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "UncleBuck", 
+            "name": "Uncle Buck", 
+            "poster_url": "UncleBuck.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "AwayWeGo", 
+            "name": "Away We Go", 
+            "poster_url": "AwayWeGo.jpg"
+        }
+    ], 
+    "id": "MrMom", 
+    "name": "Mr. Mom"
+}

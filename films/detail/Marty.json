@@ -1,0 +1,67 @@
+{
+    "plot": "Marty is a 34-year-old butcher whose Italian family is constantly after him to get married. He meets plain-looking schoolteacher Clara. They are both lonely, unglamorous people who have resigned themselves to their unloved lives. But they manage, in time, to grope their way to love.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1955", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "similar"
+                ], 
+                "role": "My Beloved Smother: Aunt Catherine bugs her daughter-in-law so much that the daughter-in-law insists she move in with Marty and his mom. After Aunt Catherine gets Mrs. Pilletti scared about being abandoned, Mrs. Pilletti becomes a similar My Beloved Smother for Marty.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0048356", 
+    "poster_url": "Marty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TuckEverlasting", 
+            "name": "Tuck Everlasting", 
+            "poster_url": "TuckEverlasting.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "FiftyFifty", 
+            "name": "50/50", 
+            "poster_url": "FiftyFifty.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }
+    ], 
+    "id": "Marty", 
+    "name": "Marty"
+}

@@ -1,0 +1,108 @@
+{
+    "plot": "The story is about two swindlers who get their hands on a map to the fabled city of gold, El Dorado while pulling off some sort of scam. Their plan goes bad and the rogues end up lost at sea after a number of misfortunes. Oddly enough, they end up on the shores of El Dorado and are worshiped by the natives for their foreign appearance.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Keet: Miguel is toeing the line here.", 
+                "id": "Keet"
+            }, 
+            {
+                "adjectives": [
+                    "slow", 
+                    "massive"
+                ], 
+                "role": "Stout Strength: Tannabok, easily the fattest person in El Dorado, manages to single-handedly slow the topple of a massive stone pillar by pulling on all the guy ropes at once.", 
+                "id": "StoutStrength"
+            }, 
+            {
+                "adjectives": [
+                    "fat", 
+                    "strong"
+                ], 
+                "role": "The Road to El Dorado: Chief Tarabuk is very fat and kind, but incredibly strong, although we don't see it until the climax.", 
+                "id": "StoutStrength"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Chel.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "usual"
+                ], 
+                "role": "Little Miss Con Artist: Chel's a sexier than usual version of this trope.", 
+                "id": "LittleMissConArtist"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Nubile Savage: Chel.", 
+                "id": "NubileSavage"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spicy Latina: Chel. Well, she is voiced by Rosie Perez.", 
+                "id": "SpicyLatina"
+            }
+        ]
+    }, 
+    "imdbid": "tt0138749", 
+    "poster_url": "TheRoadToElDorado.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FemmeFatale", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength", 
+                "Keet"
+            ], 
+            "shared_count": 2, 
+            "id": "Madagascar", 
+            "name": "Madagascar", 
+            "poster_url": "Madagascar.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIncredibles", 
+            "name": "The Incredibles"
+        }, 
+        {
+            "shared": [
+                "SpicyLatina", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength"
+            ], 
+            "shared_count": 1, 
+            "id": "Misery", 
+            "name": "Misery", 
+            "poster_url": "Misery.jpg"
+        }
+    ], 
+    "id": "TheRoadToElDorado", 
+    "name": "The Road to El Dorado"
+}

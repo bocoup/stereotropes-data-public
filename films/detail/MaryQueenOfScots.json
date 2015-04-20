@@ -1,0 +1,76 @@
+{
+    "plot": "Mary Stuart, who was named Queen of Scotland when she was only six days old, is the last Roman Catholic ruler of Scotland. She is imprisoned at he age of 23 by her cousin Elizabeth Tudor, the English Queen and her arch adversary. Nineteen years later the life of Mary is to be ended on the scaffold and with her execution the last threat to Elizabeth's throne has been removed. The two Queens with their contrasting personalities make a dramatic counterpoint to history.", 
+    "genres": "Biography, Drama, History", 
+    "release_year": "1971", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Yaoi Guys: Darnley and Riccio, briefly but explicitly.", 
+                "id": "YaoiGuys"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Black Widow: Mary", 
+                "id": "BlackWidow"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Woman Wearing The Queenly Mask: Averted in Mary, since she mostly makes decisions based on emotions.", 
+                "id": "TheWomanWearingTheQueenlyMask"
+            }
+        ]
+    }, 
+    "imdbid": "tt0067402", 
+    "poster_url": "MaryQueenOfScots.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheWomanWearingTheQueenlyMask"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "BlackWidow"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "TheWomanWearingTheQueenlyMask"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "TheWomanWearingTheQueenlyMask"
+            ], 
+            "shared_count": 1, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "BlackWidow"
+            ], 
+            "shared_count": 1, 
+            "id": "SoIMarriedAnAxeMurderer", 
+            "name": "So I Married an Axe Murderer", 
+            "poster_url": "SoIMarriedAnAxeMurderer.jpg"
+        }
+    ], 
+    "id": "MaryQueenOfScots", 
+    "name": "Mary, Queen of Scots"
+}

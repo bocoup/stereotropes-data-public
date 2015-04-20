@@ -1,0 +1,96 @@
+{
+    "plot": "On his Pok\u00e9mon Journey, Jimmy meets his old friend, Marina, at a Pok\u00e9mon Center. The two of them, later teaming up with Vincent, discover and attempt to foil an attempt by Hun and Attila to steal Raikou.", 
+    "genres": "Animation, Adventure", 
+    "release_year": "2001", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "competent"
+                ], 
+                "role": "Action Girl: Marina may be a ditz, but she's quite competent as a trainer.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "leery"
+                ], 
+                "role": "Broken Mon: Raikou. It's... leery of humans. Being continually molested by Team Rocket can't help matters.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Marina. Also a Damsel out of Distress.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fangirl: Marina is a total Lance fangirl. Or as she calls him in the dub... Fabu-Lance!!", 
+                "id": "Fangirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girly Girl: Marina, so very much. Also a bit of a Genki Girl, too.", 
+                "id": "GirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt3367860", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BrokenBird", 
+                "Fangirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "TheLegendOfThunder", 
+    "name": "The Legend of Thunder"
+}

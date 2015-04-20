@@ -1,0 +1,67 @@
+{
+    "plot": "The movie is about a boy with a unique aging disorder: one that makes him age 4 times faster than normal. It picks up when Jack (Robin Williams) is 10 years old, but looks 40. He tries to go to public school for the first time, and to become friends with kids his own age. His physical appearance causes him lots of problems, however.", 
+    "genres": "Comedy, Drama, Fantasy", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "due"
+                ], 
+                "role": "In Jack, Jack grows one of these after he's forbidden to spend time outside due to health problems.", 
+                "id": "BeardOfSorrow"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116669", 
+    "poster_url": "Jack1996.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow"
+            ], 
+            "shared_count": 1, 
+            "id": "TheJazzSinger", 
+            "name": "The Jazz Singer", 
+            "poster_url": "TheJazzSinger.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow"
+            ], 
+            "shared_count": 1, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow"
+            ], 
+            "shared_count": 1, 
+            "id": "XMen", 
+            "name": "X-Men", 
+            "poster_url": "XMen.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow"
+            ], 
+            "shared_count": 1, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }
+    ], 
+    "id": "Jack1996", 
+    "name": "Jack "
+}

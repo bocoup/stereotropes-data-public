@@ -1,0 +1,80 @@
+{
+    "plot": "Ruled by the evil Satoris, an ancient cult of Canadian wrestlers, the Ziox, are bent on world domination. Instrumental to their plan is a map to the ancient Ziox cult idol, recently discovered by a young boy, Troy. When the Ziox invade his home to recover the map, he flees and ends up in the bed of a passing pickup truck, driven by Rowsdower. Rowsdower and Troy become friends, and together search for the lost idol before the Ziox can claim it and take over the world.", 
+    "genres": "Adventure, Fantasy, Horror", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Killed by the cult in the beginning of the film.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: Mike Pipper turned into one of these over time.", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Troy.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0131550", 
+    "poster_url": "TheFinalSacrifice.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Dinosaur", 
+            "name": "Dinosaur", 
+            "poster_url": "Dinosaur.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Drumline", 
+            "name": "Drumline", 
+            "poster_url": "Drumline.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Deadpool", 
+            "name": "Deadpool"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "MyDogSkip", 
+            "name": "My Dog Skip", 
+            "poster_url": "MyDogSkip.jpg"
+        }
+    ], 
+    "id": "TheFinalSacrifice", 
+    "name": "The Final Sacrifice"
+}

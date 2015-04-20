@@ -1,0 +1,88 @@
+{
+    "plot": "American tourist Jesse and French student Celine meet by chance on the train from Budapest to Vienna. Sensing that they are developing a connection, Jesse asks Celine to spend the day with him in Vienna, and she agrees. So they pass the time before his scheduled flight the next morning together. How do two perfect strangers connect so intimately over the course of a single day? What is that special thing that bonds two people so strongly? As their bond turns to love, what will happen to them the next morning when Jesse flies away?", 
+    "genres": "Drama, Romance", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: Jesse comes across like this a little bit when saying goodbye to his son, but it is partly because he is trying so hard to make up for all the time he could not be there for him.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "able", 
+                    "13-year-old", 
+                    "new", 
+                    "major", 
+                    "big"
+                ], 
+                "role": "Disappeared Dad: Jesse is wracked with guilt over not being able to see his 13-year-old son, who lives in the US, often enough. He pines to return to Chicago, but his wife Celine has a new job opportunity in Paris, and doesn't want her or their two daughters to live in the US anyway.  This becomes a major point of contention in their big fight at the hotel.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "usual"
+                ], 
+                "role": "Granola Girl: Celine, sort of. She's an environmentalist, but doesn't have the usual perky attributes of a Granola Girl.", 
+                "id": "GranolaGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112471", 
+    "poster_url": "BeforeSunrise.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLorax", 
+            "name": "The Lorax", 
+            "poster_url": "TheLorax.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAddamsFamily", 
+            "name": "The Addams Family", 
+            "poster_url": "TheAddamsFamily.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "AugustOsageCounty", 
+            "name": "August: Osage County", 
+            "poster_url": "AugustOsageCounty.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "GeekCharming", 
+            "name": "Geek Charming"
+        }
+    ], 
+    "id": "BeforeSunrise", 
+    "name": "Before Sunrise"
+}

@@ -1,0 +1,88 @@
+{
+    "plot": "Adaptation of Lois Duncan's thriller about four teenagers trying to cover up a hit-and-run. Love Hewitt plays Julie, a high school senior who goes trip with her friends and accidently hits a fisherman. They think he is dead and dump him into the waters. But later they get a strange letter that says \"I know what you did last summer.\"", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Barry", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "first", 
+                    "third"
+                ], 
+                "role": "Final Girl: Julie in the first two films and Amber in the third.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Sassy Black Woman: Julie's college roommate in the first film.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119345", 
+    "poster_url": "IKnowWhatYouDidLastSummer.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCuriosityOfChance", 
+            "name": "The Curiosity Of Chance", 
+            "poster_url": "TheCuriosityOfChance.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "JeepersCreepers", 
+            "name": "Jeepers Creepers", 
+            "poster_url": "JeepersCreepers.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Gutterballs", 
+            "name": "Gutterballs", 
+            "poster_url": "Gutterballs.jpg"
+        }
+    ], 
+    "id": "IKnowWhatYouDidLastSummer", 
+    "name": "I Know What You Did Last Summer"
+}

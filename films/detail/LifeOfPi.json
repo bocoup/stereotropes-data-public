@@ -1,0 +1,68 @@
+{
+    "plot": "In Canada, a writer visits the Indian storyteller Pi Patel and asks him to tell his life story. Pi tells the story of his childhood in Pondicherry, India, and the origin of his nickname. One day, his father, a zoo owner, explains that the municipality is no longer supporting the zoo and he has hence decided to move to Canada, where the animals the family owns would also be sold. They board on a Japanese cargo ship with the animals and out of the blue, there is a storm, followed by a shipwrecking. Pi survives in a lifeboat with a zebra, an orangutan, a hyena and a male Bengal tiger nicknamed Richard Parker. They are adrift in the Pacific Ocean, with aggressive hyena and Richard Parker getting hungry. Pi needs to find a way to survive.", 
+    "genres": "Adventure, Drama", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "forcing", 
+                    "large", 
+                    "obvious"
+                ], 
+                "role": "Walking Shirtless Scene: In the book, Pi's clothes more or less rot off of his body, forcing him to spend a large portion of his journey naked. In the movie, he still goes shirtless, but gets to keep his pants, for obvious reasons.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0454876", 
+    "poster_url": "LifeOfPi.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "Neighbors2014", 
+            "name": "Neighbors", 
+            "poster_url": "Neighbors2014.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "ConanTheBarbarian2011", 
+            "name": "Conan the Barbarian ", 
+            "poster_url": "ConanTheBarbarian2011.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheDarkKnightReturns", 
+            "name": "Batman: The Dark Knight Returns", 
+            "poster_url": "BatmanTheDarkKnightReturns.jpg"
+        }
+    ], 
+    "id": "LifeOfPi", 
+    "name": "Life of Pi"
+}

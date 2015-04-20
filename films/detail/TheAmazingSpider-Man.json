@@ -1,0 +1,115 @@
+{
+    "plot": "Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. Peter is also finding his way with his first high school crush, Gwen Stacy, and together, they struggle with love, commitment, and secrets. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance - leading him directly to Oscorp and the lab of Dr Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter-ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "violent", 
+                    "sympathy", 
+                    "Spider-Man"
+                ], 
+                "role": "Jerk Jock: Flash Thompson. Lovable Jock: While starting off as a Jerk Jock (and a pretty violent one), Flash shows sympathy to Peter after Uncle Ben dies. By the end of the movie, the two seem to have become friendlier and Flash has become an admirer of Spider-Man.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf:  Curt Connors toward Peter, eventually. In the mid-credits scene, he sees The Man In The Shadows, who makes a veiled threat against Peter. Connors' response is a snarled \"You should leave him alone!\".", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "same", 
+                    "general", 
+                    "interested"
+                ], 
+                "role": "Badass Damsel: Gwen is not a helpless Distressed Damsel who gets kidnapped or anything. An intern at Oscorp's labs, she prepares the Lizard antidote there for Peter. When the Lizard himself is coming to the same lab she's in, she refuses to flee while the antidote is \"cooking\", even though Peter begs her to. She sets off the general evacuation alarm and uses a burner to set off the room's fire alarm, fogging it up and triggering the blast doors. She takes the dispersal device the Lizard is after and hides. When the Lizard does find her, she uses the burner and an aerosol can as a flamethrower. But the Lizard is more interested in the device than her, so he just takes it and leaves her alone.", 
+                "id": "BadassDamsel"
+            }, 
+            {
+                "adjectives": [
+                    "attractive"
+                ], 
+                "role": "Fanservice Extra: After gaining his powers, Peter accidentally rips the blouse off a random attractive woman in the subway, revealing her bra and midriff.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Meganekko: Missy Kallenbeck.", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [
+                    "Self-Made", 
+                    "few", 
+                    "minor", 
+                    "direct"
+                ], 
+                "role": "Never a Self-Made Woman: Besides a few very minor characters, the women in this film exist only in direct relevance to Peter.", 
+                "id": "NeverASelfMadeWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0948470", 
+    "poster_url": "TheAmazingSpider-Man.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "FanserviceExtra", 
+                "BadassDamsel", 
+                "NeverASelfMadeWoman", 
+                "JerkJock"
+            ], 
+            "shared_count": 5, 
+            "id": "TheAmazingSpiderMan", 
+            "name": "The Amazing Spider-Man", 
+            "poster_url": "TheAmazingSpiderMan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "NeverASelfMadeWoman", 
+                "Meganekko"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "Meganekko", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanReturns", 
+            "name": "Batman Returns", 
+            "poster_url": "BatmanReturns.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "Meganekko", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRageCarrie2", 
+            "name": "The Rage: Carrie 2"
+        }
+    ], 
+    "id": "TheAmazingSpider-Man", 
+    "name": "The Amazing Spider-Man"
+}

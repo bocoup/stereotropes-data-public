@@ -1,0 +1,95 @@
+{
+    "plot": "Alex Rogan lives in a trailer court where his mother is manager and everyone is like a big extended family. He beats the Starfighter video game to the applause of everyone in the court and later that day finds he has been turned down for a student loan for college. Depressed, he meets Centauri, who introduces himself as a person from the company that made the game, before Alex really knows what is going on he is on the ride of his life in a \"car\" flying through space. Chosen to take the skills he showed on the video game into real combat to protect the galaxy from an invasion. Alex gets as far as the Starfighter base before he really realized that he was conscripted and requests to be taken back home. When he gets back home, he finds a Zando-Zan (alien bounty hunter) is stalking him. Unable to go home and live, Alex returns to the Starfighter base to find all the pilots have been killed and he is the galaxy's only chance to be saved from invasion. To defeat the invaders, who are paying the bounty on him, he must be victorious.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Inverted"
+                ], 
+                "role": "Archnemesis Dad: An Inverted Trope here \u2014 the Big Bad's father is the Big Good.", 
+                "id": "ArchnemesisDad"
+            }, 
+            {
+                "adjectives": [
+                    "old", 
+                    "copious"
+                ], 
+                "role": "Cool Old Guy: It's not made clear how old Centauri is, but he's definitely Seen It All and has copious advice for Alex. Otis gives Alex advice about making something of his life and helps give him the motivation to accept The Call when it makes its return trip.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Maggie appears to have nobody but Granny, with no mention of her dad or her mom.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Lady: Maggie's grandma.", 
+                "id": "CoolOldLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087597", 
+    "poster_url": "TheLastStarfighter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy", 
+                "CoolOldLady", 
+                "ArchnemesisDad"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "OliverTwist", 
+            "name": "Oliver Twist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "ToKillAMockingbird", 
+            "name": "To Kill a Mockingbird", 
+            "poster_url": "ToKillAMockingbird.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }
+    ], 
+    "id": "TheLastStarfighter", 
+    "name": "The Last Starfighter"
+}

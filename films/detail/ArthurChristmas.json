@@ -1,0 +1,90 @@
+{
+    "plot": "Arthur Christmas reveals the incredible, never-before seen answer to every child's question: 'So how does Santa deliver all those presents in one night?' The answer: Santa's exhilarating, ultra-high-tech operation hidden beneath the North Pole. But at the center of the film is a story about a family in a state of comic dysfunction and an unlikely hero, Arthur, with an urgent mission that must be completed before Christmas morning dawns.", 
+    "genres": "Animation, Comedy, Drama", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Grandsanta. He's been doing Christmas runs since 1941, and (according to him) has  taken twelve shots from Axis soldiers during World War II.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Grumpy Old Man: Grandsanta. He's 136 years old, and doesn't hesitate to act like it.", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "political"
+                ], 
+                "role": "Mrs. Claus: Played by Imelda Staunton, she's definitely the side of the family that Steve got his uber-competence from, and apparently handles the political side of the Claus operation (if that Treaty with Greenland she has to negotiate is any indication). She apparently spends her downtime taking lessons online, to the point where she can do most anything without trouble.", 
+                "id": "MrsClaus"
+            }, 
+            {
+                "adjectives": [
+                    "hyper-competent", 
+                    "political"
+                ], 
+                "role": "Imelda Staunton plays the role in Arthur Christmas as a hyper-competent organizer who handles the political end of the Santa Claus operation (she mentions a \"treaty with Greenland\").", 
+                "id": "MrsClaus"
+            }
+        ]
+    }, 
+    "imdbid": "tt1430607", 
+    "poster_url": "ArthurChristmas.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "MrMagoo", 
+            "name": "Mr. Magoo", 
+            "poster_url": "MrMagoo.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Up", 
+            "name": "Up", 
+            "poster_url": "Up.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Kagemusha", 
+            "name": "Kagemusha", 
+            "poster_url": "Kagemusha.jpg"
+        }
+    ], 
+    "id": "ArthurChristmas", 
+    "name": "Arthur Christmas"
+}

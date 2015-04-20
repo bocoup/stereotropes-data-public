@@ -1,0 +1,83 @@
+{
+    "plot": "A young boy attempts to change his destiny by entering a magic gateway to another world; but on his quest to find the Tower of Fortune and be granted any wish, he must conjure up all his bravery to battle demons, his friends, and ultimately himself.", 
+    "genres": "Animation, Adventure, Mystery", 
+    "release_year": "2006", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "mental", 
+                    "other"
+                ], 
+                "role": "Clingy Jealous Girl: Wataru's mom, Played for Drama. It's revealed shortly before Wataru leaves for Vision that his father's mistress was the woman he originally planned to marry. Wataru's mom faked a pregnancy and drove her away. Her mental health begins to deteriorate pretty badly when Akira gets back together with the other woman. This is not the case in the movie, however, where his father leaves apropos of nothing, and is generally a Jerk Ass.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "real"
+                ], 
+                "role": "Ill Girl: Miki, the hero's friend back in the real world.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Meladee", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0778631", 
+    "poster_url": "BraveStory.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Bionicle", 
+            "name": "BIONICLE", 
+            "poster_url": "Bionicle.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FleshAndBlood", 
+            "name": "Flesh And Blood"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }
+    ], 
+    "id": "BraveStory", 
+    "name": "Brave Story"
+}

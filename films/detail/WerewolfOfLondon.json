@@ -1,0 +1,74 @@
+{
+    "plot": "While on a botanical expedition in Tibet Dr. Wilfred Glendon is attacked in the dark by a strange animal. Returning to London, he finds himself turning nightly into a werewolf and terrorizing the city, with the only hope for curing his affliction a rare Asian flower.", 
+    "genres": "Drama, Fantasy, Horror", 
+    "release_year": "1935", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "popular"
+                ], 
+                "role": "Beast Man: The design of the werewolves in this film is closer to this portrayal than the popular Wolf Man design.", 
+                "id": "BeastMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Both Mrs. Whack and Mrs. Moncaster.", 
+                "id": "LadyDrunk"
+            }
+        ]
+    }, 
+    "imdbid": "tt0027194", 
+    "poster_url": "WerewolfOfLondon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "AuntieMame", 
+            "name": "Auntie Mame", 
+            "poster_url": "AuntieMame.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "BeastMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "BulletsOverBroadway", 
+            "name": "Bullets Over Broadway", 
+            "poster_url": "BulletsOverBroadway.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }
+    ], 
+    "id": "WerewolfOfLondon", 
+    "name": "Werewolf of London"
+}

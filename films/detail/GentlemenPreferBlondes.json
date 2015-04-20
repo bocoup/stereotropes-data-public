@@ -1,0 +1,71 @@
+{
+    "plot": "Lorelei and Dorothy are just \"Two Little Girls from Little Rock\", lounge singers on a transatlantic cruise, working their way to Paris, and enjoying the company of any eligible men they might meet along the way, even though \"Diamonds are a Girl's Best Friend.\" Based on the Broadway musical based on the novel.", 
+    "genres": "Comedy, Musical, Romance", 
+    "release_year": "1953", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Proper"
+                ], 
+                "role": "Proper Lady:", 
+                "id": "ProperLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jane Russell and Marilyn Monroe's characters in Gentlemen Prefer Blondes.", 
+                "id": "TheChanteuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0045810", 
+    "poster_url": "GentlemenPreferBlondes.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "DarkCity", 
+            "name": "Dark City"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "ProperLady"
+            ], 
+            "shared_count": 1, 
+            "id": "FiddlerOnTheRoof", 
+            "name": "Fiddler on the Roof", 
+            "poster_url": "FiddlerOnTheRoof.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }
+    ], 
+    "id": "GentlemenPreferBlondes", 
+    "name": "Gentlemen Prefer Blondes"
+}

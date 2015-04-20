@@ -1,0 +1,105 @@
+{
+    "plot": "Larry Donner is an author and writing professor who tutors people that want to write books. Larry's life has become a misery when his ex-wife Margaret has published a book he wrote under her name and has gotten rich over it. Owen Lift, one of Larry's students, offers Larry to kill Margaret, and in return Owen, wants Larry to kill his horrible mother. Larry thinks it's a joke, until he learns Owen killed his ex-wife. And Larry has now become the prime suspect.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "kid", 
+                    "big", 
+                    "recreational"
+                ], 
+                "role": "Disappeared Dad: Owen lost his father when he was still a kid, and it apparently left a pretty big hole. The revelation comes during a rather touching scene where Owen shows off his \"coin collection,\" consisting of the loose change his father let him keep when they would go on recreational outings.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Owen in Throw Momma from the Train.", 
+                "id": "MommasBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "She's also an Evil Matriarch.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Margaret.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: And HOW.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Owen's mother from Throw Momma from the Train.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094142", 
+    "poster_url": "ThrowMommaFromTheTrain.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EvilMatriarch", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 4, 
+            "id": "Braindead", 
+            "name": "Braindead"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLionInWinter", 
+            "name": "The Lion in Winter", 
+            "poster_url": "TheLionInWinter.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "Notorious", 
+            "name": "Notorious", 
+            "poster_url": "Notorious.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }
+    ], 
+    "id": "ThrowMommaFromTheTrain", 
+    "name": "Throw Momma from the Train"
+}

@@ -1,0 +1,71 @@
+{
+    "plot": "A Russian army explorer who is rescued in Siberia by a rugged Asian hunter renews his friendship with the woodsman years later when he returns as the head of a larger expedition. The hunter finds that all of his nature lore is of no help when he accompanies the explorer back to civilization.", 
+    "genres": "Adventure, Biography, Drama", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: You can tell from the picture above.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "quite"
+                ], 
+                "role": "Officer and a Gentleman: Arseniev, who was a quite literate man and also a hardened officer.", 
+                "id": "OfficerAndAGentleman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0071411", 
+    "poster_url": "DersuUzala.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Kagemusha", 
+            "name": "Kagemusha", 
+            "poster_url": "Kagemusha.jpg"
+        }
+    ], 
+    "id": "DersuUzala", 
+    "name": "Dersu Uzala"
+}

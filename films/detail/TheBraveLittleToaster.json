@@ -1,0 +1,93 @@
+{
+    "plot": "A group of dated appliances that find themselves stranded in a summer home that their family had just sold, decide to, \u00e1 la \"The Incredible Journey\", seek their young 8 year old \"master\". Children's film which on the surface is a frivolous fantasy, but with a dark subtext of abandonment, obsolescence, and loneliness.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Cutting", 
+                    "back-handed", 
+                    "much", 
+                    "advanced", 
+                    "second", 
+                    "later"
+                ], 
+                "role": "Corrupt Hick: The toaster oven during \"Cutting Edge\". She has a southern accent, and offers a bit of back-handed \"Southern Hospitality\" to Toaster in the form of some muffins, while flaunting how much more advanced she is and zaps him a second later.", 
+                "id": "CorruptHick"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Gossipy Hens: The sewing machine.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The sewing machine with two faces in The Brave Little Toaster.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Blanky (and if you're watching the German version, Lampy.)", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092695", 
+    "poster_url": "TheBraveLittleToaster.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "GossipyHens"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRescuers", 
+            "name": "The Rescuers", 
+            "poster_url": "TheRescuers.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "GossipyHens"
+            ], 
+            "shared_count": 2, 
+            "id": "ToKillAMockingbird", 
+            "name": "To Kill a Mockingbird", 
+            "poster_url": "ToKillAMockingbird.jpg"
+        }, 
+        {
+            "shared": [
+                "GossipyHens"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }
+    ], 
+    "id": "TheBraveLittleToaster", 
+    "name": "The Brave Little Toaster"
+}

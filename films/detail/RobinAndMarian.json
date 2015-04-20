@@ -1,0 +1,93 @@
+{
+    "plot": "A sort of tragicomedy/adventure film, \"Robin and Marian\" picks up the Robin Hood legend some twenty years after most versions of the story, with Robin and his sidekick Little John returning to their old Sherwood haunts world-weary from the Crusades and their sickening brutality. They're informed by former cohorts Friar Tuck and Will Scarlett that Maid Marian now lives at the nearby priory, where she has become an abbess. Marian greets Robin's return with mixed feelings, but after he rescues her from his longtime enemy, the Sheriff of Nottingham, who tries to arrest her on religious grounds, the two become lovers once again.", 
+    "genres": "Adventure, Drama, Romance", 
+    "release_year": "1976", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "villainous", 
+                    "medical"
+                ], 
+                "role": "A Father to His Men: A rare villainous example. The Sheriff is clearly distressed when his men are hurt. He ensures they have medical attention and are properly buried.", 
+                "id": "AFatherToHisMen"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Marian.  After Robin left her to go on crusade she tried to kill herself. When that failed she became a nun to try and forget about him.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Jailbait: Isabella, King John's twelve year old queen.", 
+                "id": "Jailbait"
+            }, 
+            {
+                "adjectives": [
+                    "middle-aged", 
+                    "Marian"
+                ], 
+                "role": "In the movie Robin and Marian the middle-aged Robin Hood returns from the crusades to discover Marian has, in his absence, taken holy vows and risen through the ranks of the convent to become Mother Superior.", 
+                "id": "TakingTheVeil"
+            }
+        ]
+    }, 
+    "imdbid": "tt0075147", 
+    "poster_url": "RobinAndMarian.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Lincoln", 
+            "name": "Lincoln", 
+            "poster_url": "Lincoln.jpg"
+        }, 
+        {
+            "shared": [
+                "TakingTheVeil", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrimeOfMissJeanBrodie", 
+            "name": "The Prime of Miss Jean Brodie", 
+            "poster_url": "ThePrimeOfMissJeanBrodie.jpg"
+        }, 
+        {
+            "shared": [
+                "TakingTheVeil", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Hamlet", 
+            "name": "Hamlet", 
+            "poster_url": "Hamlet.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }
+    ], 
+    "id": "RobinAndMarian", 
+    "name": "Robin and Marian"
+}

@@ -1,0 +1,81 @@
+{
+    "plot": "Daffy tries to sell movie studio head J.L. his script for a swashbuckler set in Merry Olde England, a plot involving a maiden in distress, a scheming Chamberlain, an evil Grand Duke and a dashing masked hero (to be played by Daffy, of course).", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1950", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "detachable"
+                ], 
+                "role": "Beard of Evil: Marks Porky as the evil Lord High Chamberlain. Apparently detachable.", 
+                "id": "BeardOfEvil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl in the Tower: The Lady Melissa", 
+                "id": "GirlInTheTower"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Neutral Female: Played for laughs. When Scarlet and the Grand Duke duel near the end, Melissa cowers by the wall shrieking \"Eee! Ei! Oh!\" as the rapiers clash.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0042928", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "LostInSpace", 
+            "name": "Lost in Space", 
+            "poster_url": "LostInSpace.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheChroniclesOfNarnia", 
+            "name": "The Chronicles of Narnia", 
+            "poster_url": "TheChroniclesOfNarnia.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlInTheTower"
+            ], 
+            "shared_count": 1, 
+            "id": "TheVikings", 
+            "name": "The Vikings", 
+            "poster_url": "TheVikings.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }
+    ], 
+    "id": "TheScarletPumpernickel", 
+    "name": "The Scarlet Pumpernickel"
+}

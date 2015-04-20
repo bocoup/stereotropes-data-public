@@ -1,0 +1,91 @@
+{
+    "plot": "The futility and irony of the war in the trenches in WWI is shown as a unit commander in the French army must deal with the mutiny of his men and a glory-seeking general after part of his force falls back under fire in an impossible attack.", 
+    "genres": "Drama, War", 
+    "release_year": "1957", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "elaborate"
+                ], 
+                "role": "A Father to His Men: General Mireau puts on an elaborate show about this in the beginning when asked to attack the Anthill, but quickly changes his tune when the possibility of promotion comes up. He's a hypocrite. Colonel Dax plays it completely straight, however.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Lieutenant Roget.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Glamorous", 
+                    "beautiful", 
+                    "song", 
+                    "German", 
+                    "sad", 
+                    "love"
+                ], 
+                "role": "Glamorous Wartime Singer: Subverted, in that the beautiful girl who sings the song is a terrified German captive, and she sings a sad folk song about love in war.", 
+                "id": "GlamorousWartimeSinger"
+            }
+        ]
+    }, 
+    "imdbid": "tt0050825", 
+    "poster_url": "PathsOfGlory.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCaineMutiny", 
+            "name": "The Caine Mutiny", 
+            "poster_url": "TheCaineMutiny.jpg"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Grindhouse", 
+            "name": "Grindhouse", 
+            "poster_url": "Grindhouse.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Centurion", 
+            "name": "Centurion", 
+            "poster_url": "Centurion.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "AMidnightClear", 
+            "name": "A Midnight Clear", 
+            "poster_url": "AMidnightClear.jpg"
+        }
+    ], 
+    "id": "PathsOfGlory", 
+    "name": "Paths of Glory"
+}

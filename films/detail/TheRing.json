@@ -1,0 +1,116 @@
+{
+    "plot": "Rachel Keller is a journalist investigating a videotape that may have killed four teenagers (including her niece). There is an urban legend about this tape: the viewer will die seven days after watching it. If the legend is correct, Rachel will have to run against time to save her son's and her own life.", 
+    "genres": "Horror, Mystery", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Subverted in Rasen: Ando attempts to slash his wrist, but can't go through with it. Cut to him shaving for work.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Understanding Boyfriend: Toyama to Sadako.", 
+                "id": "UnderstandingBoyfriend"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Any version of The Ring has this character as the protagonist except for the book, which has a Haunted Hero.", 
+                "id": "HauntedHeroine"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Both Reiko and Rachel.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "Stringy-Haired", 
+                    "Sadako/Samara", 
+                    "modern"
+                ], 
+                "role": "Stringy-Haired Ghost Girl: Sadako/Samara, who, along with Kayako Saeki from Ju-on, revitalized and popularized this concept in modern media.", 
+                "id": "StringyHairedGhostGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Japanese", 
+                    "first", 
+                    "few", 
+                    "major"
+                ], 
+                "role": "The Loop Trilogy by Koji Suzuki features Sadako Yamamura as one. While serving as the inspiration for the Japanese Ring film, the first book has a few major differences, while Spiral and Loop continue to expand the story.", 
+                "id": "StringyHairedGhostGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ophelia", 
+                "id": "TheOphelia"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White: Sadako, Samara and Evelyn.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0298130", 
+    "poster_url": "TheRing.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HauntedHeroine", 
+                "WomanInWhite", 
+                "TheOphelia"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "PansLabyrinth", 
+            "name": "Pan's Labyrinth", 
+            "poster_url": "PansLabyrinth.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "Sybil", 
+            "name": "Sybil", 
+            "poster_url": "Sybil.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "Phenomena", 
+            "name": "Phenomena", 
+            "poster_url": "Phenomena.jpg"
+        }
+    ], 
+    "id": "TheRing", 
+    "name": "The Ring"
+}

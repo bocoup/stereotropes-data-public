@@ -1,0 +1,83 @@
+{
+    "plot": "A group of reporters who are trying to decipher the last word ever spoke by Charles Foster Kane, the millionaire newspaper tycoon: \"Rosebud.\" The film begins with a news reel detailing Kane's life for the masses, and then from there, we are shown flashbacks from Kane's life. As the reporters investigate further, the viewers see a display of a fascinating man's rise to fame, and how he eventually fell off the \"top of the world.\"", 
+    "genres": "Drama, Mystery", 
+    "release_year": "1941", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Stage Mom: At their first meeting Susan tells Kane it was really her mother's ambition for her to be an opera singer.", 
+                "id": "StageMom"
+            }, 
+            {
+                "adjectives": [
+                    "ordinary", 
+                    "former", 
+                    "limelight"
+                ], 
+                "role": "Susan Alexander in Citizen Kane. A bit out of the ordinary: Now she's running on the fumes of her former notoriety, but initially she was pushed into the limelight somewhat against her will and found stardom humiliating.", 
+                "id": "WhiteDwarfStarlet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White: Not seen but remembered by Bernstein.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0033467", 
+    "poster_url": "CitizenKane.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Hairspray", 
+            "name": "Hairspray", 
+            "poster_url": "Hairspray.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }
+    ], 
+    "id": "CitizenKane", 
+    "name": "Citizen Kane"
+}

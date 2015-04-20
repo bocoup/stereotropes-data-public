@@ -1,0 +1,64 @@
+{
+    "plot": "N/A", 
+    "genres": "Short, Comedy", 
+    "release_year": "1916", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Hobos: Buster, presumably, since he makes his entrance being thrown off a train.", 
+                "id": "Hobos"
+            }
+        ]
+    }, 
+    "imdbid": "tt0907746", 
+    "similar": [
+        {
+            "shared": [
+                "Hobos"
+            ], 
+            "shared_count": 1, 
+            "id": "HoboWithAShotgun", 
+            "name": "Hobo With a Shotgun", 
+            "poster_url": "HoboWithAShotgun.jpg"
+        }, 
+        {
+            "shared": [
+                "Hobos"
+            ], 
+            "shared_count": 1, 
+            "id": "TheTramp", 
+            "name": "The Tramp", 
+            "poster_url": "TheTramp.jpg"
+        }, 
+        {
+            "shared": [
+                "Hobos"
+            ], 
+            "shared_count": 1, 
+            "id": "EmperorOfTheNorth", 
+            "name": "Emperor Of The North", 
+            "poster_url": "EmperorOfTheNorth.jpg"
+        }, 
+        {
+            "shared": [
+                "Hobos"
+            ], 
+            "shared_count": 1, 
+            "id": "MeetJohnDoe", 
+            "name": "Meet John Doe", 
+            "poster_url": "MeetJohnDoe.jpg"
+        }, 
+        {
+            "shared": [
+                "Hobos"
+            ], 
+            "shared_count": 1, 
+            "id": "PulpFiction", 
+            "name": "Pulp Fiction", 
+            "poster_url": "PulpFiction.jpg"
+        }
+    ], 
+    "id": "TheHighSign", 
+    "name": "The High Sign"
+}

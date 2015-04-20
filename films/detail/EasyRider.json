@@ -1,0 +1,80 @@
+{
+    "plot": "Wyatt and Billy are two motorcycle riders (bikers) on their way to Mardis Gras, and encounter hitchhikers, a drunken lawyer, a jail cell, a whorehouse and the death of a friend.", 
+    "genres": "Drama", 
+    "release_year": "1969", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: The sheriff in the cafe.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "long-haired"
+                ], 
+                "role": "Good Ol' Boy: The southern locals don't take kindly to long-haired city boys riding through their communities.", 
+                "id": "GoodOlBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hard Drinking Party Boy: George", 
+                "id": "HardDrinkingPartyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0064276", 
+    "poster_url": "EasyRider.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GoodOlBoy", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "Tank", 
+            "name": "Tank", 
+            "poster_url": "Tank.jpg"
+        }, 
+        {
+            "shared": [
+                "GoodOlBoy", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "MyCousinVinny", 
+            "name": "My Cousin Vinny", 
+            "poster_url": "MyCousinVinny.jpg"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "RaidersOfTheLostArk", 
+            "name": "Raiders of the Lost Ark", 
+            "poster_url": "RaidersOfTheLostArk.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }
+    ], 
+    "id": "EasyRider", 
+    "name": "Easy Rider"
+}

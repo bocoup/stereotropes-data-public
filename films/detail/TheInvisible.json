@@ -1,0 +1,89 @@
+{
+    "plot": "Nick Powell is an excellent high-school student who raises money by selling homework and results of quizzes to his schoolmates. He aims to travel to London for a writer's course - telling his best friend, Pete Egan, that he has already bought the airplane ticket but he has not told to his mother yet. Annie Newton has a problem with Pete, who owes money to her. As events unfold, due to a case of mistaken identity Nick takes a severe beating from Annie and her gang, his body dumped in a sewer. The next morning, he discovers he cannot be seen - he is now a spirit in a state of limbo and can only observe as the events of that day unfold.", 
+    "genres": "Crime, Drama, Fantasy", 
+    "release_year": "2007", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Annie has no problem using a gun.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "brutal", 
+                    "bad", 
+                    "neutral"
+                ], 
+                "role": "Somewhat of an inversion with Annie from The Invisible. She starts out brutal, violent, and dressed in guys' clothes, no to mention the leader of the school bullies. As she realizes the consequences of her violent life, her bad choices, and the fact that Nick was more like her than she gave him credit for, she feminizes \u2014 beginning to wear her hair down, and her clothing less gender neutral.", 
+                "id": "AdrenalineMakeover"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Annie Newton in The Invisible. Call her that, and she'll beat the tar out of you. Half the movie is spent learning how she was broken.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Annie, and calling her that name is her Berserk Button.", 
+                "id": "BrokenBird"
+            }
+        ]
+    }, 
+    "imdbid": "tt0435670", 
+    "poster_url": "TheInvisible.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AdrenalineMakeover", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }
+    ], 
+    "id": "TheInvisible", 
+    "name": "The Invisible"
+}

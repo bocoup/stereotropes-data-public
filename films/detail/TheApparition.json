@@ -1,0 +1,78 @@
+{
+    "plot": "When frightening events start to occur in their home, young couple Kelly and Ben discover they are being haunted by a presence that was accidentally conjured during a university parapsychology experiment. The horrifying apparition feeds on their fear and torments them no matter where they try to run. Their last hope is an expert in the supernatural, but even with his help they may already be too late to save themselves from this terrifying force.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2012", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Stringy-Haired"
+                ], 
+                "role": "Stringy-Haired Ghost Girl", 
+                "id": "StringyHairedGhostGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1433822", 
+    "poster_url": "TheApparition.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StringyHairedGhostGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCabinInTheWoods", 
+            "name": "The Cabin in the Woods", 
+            "poster_url": "TheCabinInTheWoods.jpg"
+        }, 
+        {
+            "shared": [
+                "StringyHairedGhostGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGrudge", 
+            "name": "The Grudge", 
+            "poster_url": "TheGrudge.jpg"
+        }, 
+        {
+            "shared": [
+                "StringyHairedGhostGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ScaryMovie", 
+            "name": "Scary Movie", 
+            "poster_url": "ScaryMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "StringyHairedGhostGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDark", 
+            "name": "The Dark", 
+            "poster_url": "TheDark.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }
+    ], 
+    "id": "TheApparition", 
+    "name": "The Apparition"
+}

@@ -1,0 +1,86 @@
+{
+    "plot": "Bah! Humbug! Susan Stone is definitely what you'd call a modern-day scrooge. She is a young, jaded book editor who is consumed with self-doubt and has lost the passion and drive that defined her childhood persona. On the verge of losing her job and being completely on the \"outs\" with her family, Susan has nearly given up on happiness. Out of nowhere, a cheerful, carefree seven-year-old girl named Suzie awaits Susan back at her apartment. It turns out that little Suzie is the embodiment of Susan's inner child, she is Susan as she once was years ago. Suzie has come to help the adult Susan rediscover and recapture the love of life that she's lost.", 
+    "genres": "Drama", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "serious", 
+                    "afraid"
+                ], 
+                "role": "Prince Charming: Suzie thinks Tom is definitely Prince Charming. Susan tends to agree, but thinks he's not serious enough, and she's afraid to start the relationship.", 
+                "id": "PrinceCharming"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "dead", 
+                    "hard"
+                ], 
+                "role": "Broken Bird: Susan. Peter treated her badly and she let him. She's emotionally dead inside and prefers to feel nothing. She acts bitterly towards her nieces and nephews, and she's extremely hard on her assistant.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Bob's wife died and he takes care of their four children.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0222029", 
+    "poster_url": "IfYouBelieve.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BrokenBlossoms", 
+            "name": "Broken Blossoms"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharming", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Fantaghiro", 
+            "name": "Fantaghiro"
+        }
+    ], 
+    "id": "IfYouBelieve", 
+    "name": "If You Believe"
+}

@@ -1,0 +1,67 @@
+{
+    "plot": "The classic stage hit gets the Hollywood treatment in the story of Elwood P. Dowd who makes friends with a spirit taking the form of a human-sized rabbit named Harvey that only he sees (and a few privileged others on occasion also.) After his sister tries to commit him to a mental institution, a comedy of errors ensues. Elwood and Harvey become the catalysts for a family mending its wounds and for romance blossoming in unexpected places.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1950", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Basement-Dweller", 
+                    "entire"
+                ], 
+                "role": "Basement-Dweller: Subverted. Early on, Myrtle Mae complains that Elwood is this, as he lives with his sister and won't move out or get a job. Veta at once reminds her that, since Elwood got the entire family fortune, they're the ones living with him.", 
+                "id": "BasementDweller"
+            }
+        ]
+    }, 
+    "imdbid": "tt0042546", 
+    "poster_url": "Harvey.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScore", 
+            "name": "The Score", 
+            "poster_url": "TheScore.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "WaynesWorld", 
+            "name": "Wayne's World", 
+            "poster_url": "WaynesWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "BadlyDrawnRoy", 
+            "name": "Badly Drawn Roy"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "Mallrats", 
+            "name": "Mallrats", 
+            "poster_url": "Mallrats.jpg"
+        }
+    ], 
+    "id": "Harvey", 
+    "name": "Harvey"
+}

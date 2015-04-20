@@ -1,0 +1,69 @@
+{
+    "plot": "Sherlock Holmes and Dr. Watson meet as boys in an English Boarding school. Holmes is known for his deductive ability even as a youth, amazing his classmates with his abilities. When they discover a plot to murder a series of British business men by an Egyptian cult, they move to stop it.", 
+    "genres": "Action, Adventure, Family", 
+    "release_year": "1985", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "eccentric", 
+                    "mad", 
+                    "beautiful"
+                ], 
+                "role": "Young Sherlock Holmes. Professor Waxflatter is more eccentric than mad, but his daughter is quite beautiful.", 
+                "id": "MadScientistsBeautifulDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0090357", 
+    "poster_url": "YoungSherlockHolmes.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMouseThatRoared", 
+            "name": "The Mouse That Roared", 
+            "poster_url": "TheMouseThatRoared.jpg"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "IslandOfLostSouls", 
+            "name": "Island of Lost Souls", 
+            "poster_url": "IslandOfLostSouls.jpg"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheKillerShrews", 
+            "name": "The Killer Shrews", 
+            "poster_url": "TheKillerShrews.jpg"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "IronSky", 
+            "name": "Iron Sky", 
+            "poster_url": "IronSky.jpg"
+        }
+    ], 
+    "id": "YoungSherlockHolmes", 
+    "name": "Young Sherlock Holmes"
+}

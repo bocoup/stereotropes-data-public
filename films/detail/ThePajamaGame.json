@@ -1,0 +1,90 @@
+{
+    "plot": "Employees of the Sleeptite Pajama Factory are looking for a whopping seven-and-a-half cent an hour increase and they won't take no for an answer. Babe Williams is their feisty employee representative but she may have found her match in shop superintendent Sid Sorokin. When the two get together they wind up discussing a whole lot more than job actions!", 
+    "genres": "Comedy, Musical, Romance", 
+    "release_year": "1957", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Sid gets one for the Fashion Show.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Fat Girl: Mabel. It says so in the script.", 
+                "id": "FatGirl"
+            }, 
+            {
+                "adjectives": [
+                    "cute", 
+                    "sexy", 
+                    "other"
+                ], 
+                "role": "Gladys from The Pajama Game is really more cute than sexy, though she's treated that way by other characters.", 
+                "id": "SexySecretary"
+            }, 
+            {
+                "adjectives": [
+                    "jealous"
+                ], 
+                "role": "Sexy Secretary: Gladys, much to her jealous boyfriend's chagrin.", 
+                "id": "SexySecretary"
+            }
+        ]
+    }, 
+    "imdbid": "tt0050814", 
+    "poster_url": "ThePajamaGame.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "SexySecretary"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "FatGirl", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "ImACyborgButThatsOk", 
+            "name": "I'm a Cyborg, But That's OK", 
+            "poster_url": "ImACyborgButThatsOk.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "ThePajamaGame", 
+    "name": "The Pajama Game"
+}

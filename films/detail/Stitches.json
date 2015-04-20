@@ -1,0 +1,77 @@
+{
+    "plot": "The clumsy and unfunny clown Richard \"Stitches\" Grindle goes to the birthday party of little Tom and the boy and his friends play a prank with Stitches, tying his shoelaces. Stitches slips, falls and dies. Six years later, Tom gives a birthday party for his friends at home and the clown revives to haunt the teenagers and revenge his death.", 
+    "genres": "Comedy, Horror", 
+    "release_year": "2012", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Sarah", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Kate.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt2126362", 
+    "poster_url": "Stitches.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Shrooms", 
+            "name": "Shrooms", 
+            "poster_url": "Shrooms.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hatchet", 
+            "name": "Hatchet", 
+            "poster_url": "Hatchet.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Triangle", 
+            "name": "Triangle", 
+            "poster_url": "Triangle.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AllTheBoysLoveMandyLane", 
+            "name": "All the Boys Love Mandy Lane", 
+            "poster_url": "AllTheBoysLoveMandyLane.jpg"
+        }
+    ], 
+    "id": "Stitches", 
+    "name": "Stitches"
+}

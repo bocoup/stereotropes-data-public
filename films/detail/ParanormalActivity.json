@@ -1,0 +1,109 @@
+{
+    "plot": "After a young, middle class couple moves into a suburban 'starter' tract house, they become increasingly disturbed by a presence that may or may not be somehow demonic but is certainly most active in the middle of the night. Especially when they sleep. Or try to.", 
+    "genres": "Horror", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "birth", 
+                    "'miss", 
+                    "true"
+                ], 
+                "role": "Disappeared Dad: Katie and Kristi's birth father is nowhere to be seen. Lois mentions that the children 'miss their father' but who he is and if that's even true is not explored.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "actual"
+                ], 
+                "role": "Papa Wolf: Dennis. Bonuses points for not being Katies or Kristi actual dad.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "proactive", 
+                    "likely", 
+                    "due"
+                ], 
+                "role": "Action Girl: Alex is honestly the most proactive protagonist in the series, more than likely due to her and her boyfriend being a little Genre Savvy.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Katie in Paranormal Activity.", 
+                "id": "HauntedHeroine"
+            }, 
+            {
+                "adjectives": [
+                    "birth"
+                ], 
+                "role": "Missing Mom: Ali's birth mother, having died prior to the film's events.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt1179904", 
+    "poster_url": "ParanormalActivity.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }
+    ], 
+    "id": "ParanormalActivity", 
+    "name": "Paranormal Activity"
+}

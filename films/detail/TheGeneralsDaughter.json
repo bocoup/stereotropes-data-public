@@ -1,0 +1,87 @@
+{
+    "plot": "The naked corpse of Captain Elisabeth Campbell, daughter of Lieutenant General \"Fighting Joe\" Campbell, is found staked out on the urban warfare range of Fort MacCallum. Army CID detectives and ex-lovers Paul Brenner and Sara Sunhill are called in to investigate, and find themselves wrapped up in a maelstrom of sexual impropriety and misguided face-saving.", 
+    "genres": "Drama, Mystery, Thriller", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Straight Gay:  Col. Moore and his attorney.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "archetypal", 
+                    "military", 
+                    "other", 
+                    "mortal"
+                ], 
+                "role": "Daddy's Girl: Subverted. We're initially led to believe that Campbell was an archetypal father's daughter military brat who emulated his choosing a career in the army, but as Brenner and Sunhill discover, they viciously hated each other and evolved into mortal enemies because of him helping cover up her rape at West Point in exchange for a promotion.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "archetypal", 
+                    "military", 
+                    "other", 
+                    "mortal", 
+                    "own"
+                ], 
+                "role": "Subverted in The General's Daughter. We're initially led to believe that Campbell was an archetypal father's daughter military brat who emulated his choice of a a career in the army because she looked up to him. She was a Daddy's Girl originally (though General Campbell wasn't above using his daughter for PR purposes), but as Brenner and Sunhill discover, they viciously hated each other and evolved into mortal enemies because of what happened at West Point, where he covered up her gang rape to save West Point's reputation and secure his own advancement.", 
+                "id": "DaddysGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0144214", 
+    "poster_url": "TheGeneralsDaughter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AnneFrankTheWholeStory", 
+            "name": "Anne Frank The Whole Story"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "OurTown", 
+            "name": "Our Town", 
+            "poster_url": "OurTown.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionInWinter", 
+            "name": "The Lion in Winter", 
+            "poster_url": "TheLionInWinter.jpg"
+        }
+    ], 
+    "id": "TheGeneralsDaughter", 
+    "name": "The General's Daughter"
+}

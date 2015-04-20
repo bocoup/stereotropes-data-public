@@ -1,0 +1,77 @@
+{
+    "plot": "It is the early 60s in France. The remaining survivors of the aborted French Foreign Legion have made repeated attempts to kill DeGaulle. The result is that he is the most closely guarded man in the world. As a desperate act, they hire The Jackal, the code name for a hired killer who agrees to kill French President De Gaulle for half a million dollars. We watch his preparations which are so thorough we wonder how he could possibly fail even as we watch the French police attempt to pick up his trail. The situation is historically accurate. There were many such attempts and the film closely follows the plot of the book.", 
+    "genres": "Crime, Drama, Thriller", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "similar", 
+                    "evil"
+                ], 
+                "role": "Gentleman Adventurer: The Jackal is characterized as similar to this type, albeit an evil version.", 
+                "id": "GENTLEMANADVENTURER"
+            }, 
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "Shirtless Scene: Quite a few.", 
+                "id": "ShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0069947", 
+    "poster_url": "TheDayOfTheJackal.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 2, 
+            "id": "TheThirtyNineSteps", 
+            "name": "The 39 Steps", 
+            "poster_url": "TheThirtyNineSteps.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "TheDayOfTheJackal", 
+    "name": "The Day of the Jackal"
+}

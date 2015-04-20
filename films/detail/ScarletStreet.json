@@ -1,0 +1,90 @@
+{
+    "plot": "Chris Cross, 25 years a cashier, has a gold watch and little else. That rainy night, he rescues delectable Kitty from her abusive boyfriend Johnny. Smitten, amateur painter Chris lets Kitty think he's a wealthy artist. At Johnny's urging, she lets Chris establish her in an apartment (with his shrewish wife's money). There, Chris paints masterpieces; but Johnny sells them under Kitty's name, with disastrous and ironic results.", 
+    "genres": "Drama, Film-Noir", 
+    "release_year": "1945", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "non-comedic", 
+                    "shrewish", 
+                    "affair", 
+                    "tragic"
+                ], 
+                "role": "A non-comedic example in Scarlet Street, where Edward G. Robinson's Chris is yelled at and pushed around by his domineering, shrewish wife. Chris's unhappiness in his marriage leads him into an affair, with tragic consequences.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "horrible", 
+                    "large", 
+                    "first", 
+                    "latter-day", 
+                    "unusual"
+                ], 
+                "role": "Henpecked Husband: Chris is yelled at and pushed around by his horrible shrew of a wife, who is always badgering him for money but won't cash in the large insurance payout she got when her first husband died. To a latter-day viewer, Chris donning an apron and chopping up food for dinner might not seem unusual, but in 1945 this was a way to signal that he was emasculated.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "naive"
+                ], 
+                "role": "Streetwalker: It is pretty strongly implied, but never definitely stated, that Kitty is a prostitute and Johnny is her pimp, and that the confrontation Chris witnessed in the opening scene was Johnny slapping her around for not having earned enough. When Chris takes Kitty to a bar for a drink, he asks her what she does that requires her to be out so late. She says \"Guess\", and hopelessly naive Chris guesses that she's an actress. She rolls with it. (In the novel and the Renoir film, the woman is explicitly portrayed as a prostitute.)", 
+                "id": "Streetwalker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0038057", 
+    "poster_url": "ScarletStreet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "SevenFacesOfDrLao", 
+            "name": "7 Faces of Dr. Lao", 
+            "poster_url": "SevenFacesOfDrLao.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "RebelWithoutACause", 
+            "name": "Rebel Without a Cause", 
+            "poster_url": "RebelWithoutACause.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "Streetwalker"
+            ], 
+            "shared_count": 1, 
+            "id": "ManOfLaMancha", 
+            "name": "Man Of La Mancha", 
+            "poster_url": "ManOfLaMancha.jpg"
+        }
+    ], 
+    "id": "ScarletStreet", 
+    "name": "Scarlet Street"
+}

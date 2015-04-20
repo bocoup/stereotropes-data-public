@@ -1,0 +1,79 @@
+{
+    "plot": "Aliens from space plan to conquer the world using space monsters Gigan and King Ghidrah, which they control from their secret headquarters inside the head of the Godzilla-replica building at a theme park. The only thing that can stop them is the combined efforts of Godzilla and Anguirus.", 
+    "genres": "Action, Adventure, Horror", 
+    "release_year": "1972", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bash Brothers: Godzilla and Angurius. Also King Ghidorah and Gigan.", 
+                "id": "BashBrothers"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "black"
+                ], 
+                "role": "Action Girl: Tomoko Tomoe, the girlfriend of the protagonist Gengo Kotaka, is a black belt and gets to demonstrate these skills when rescuing her boyfriend and his friends from the disguised Nebulans.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0068371", 
+    "poster_url": "GodzillaVsGigan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "LethalWeapon", 
+            "name": "Lethal Weapon", 
+            "poster_url": "LethalWeapon.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }
+    ], 
+    "id": "GodzillaVsGigan", 
+    "name": "Godzilla vs. Gigan"
+}

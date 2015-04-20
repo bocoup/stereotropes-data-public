@@ -1,0 +1,82 @@
+{
+    "plot": "Mark is an intelligent but shy teenager who has just moved to Arizona from the East Coast. His parents give him a short-wave radio so he can talk to his pals, but instead he sets up shop as pirate deejay Hard Harry, who becomes a hero to his peers while inspiring the wrath of the local high school principal. When one of Harry's listeners commits suicide and Harry- inspired chaos breaks out at the school, the authorities are called in to put a stop to Harry's broadcasts.", 
+    "genres": "Comedy, Drama, Music", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock : The story about the jocks by the lake.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene : Involving both Christian Slater and Samantha Mathis.", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "The Grunting Orgasm: Parodied by the main character.", 
+                "id": "TheGruntingOrgasm"
+            }
+        ]
+    }, 
+    "imdbid": "tt0100436", 
+    "poster_url": "PumpUpTheVolume.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "DeadPoetsSociety", 
+            "name": "Dead Poets Society", 
+            "poster_url": "DeadPoetsSociety.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Gutterballs", 
+            "name": "Gutterballs", 
+            "poster_url": "Gutterballs.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCabinInTheWoods", 
+            "name": "The Cabin in the Woods", 
+            "poster_url": "TheCabinInTheWoods.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "WereTheWorldMine", 
+            "name": "Were the World Mine", 
+            "poster_url": "WereTheWorldMine.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Undefeatable", 
+            "name": "Undefeatable", 
+            "poster_url": "Undefeatable.jpg"
+        }
+    ], 
+    "id": "PumpUpTheVolume", 
+    "name": "Pump Up The Volume"
+}

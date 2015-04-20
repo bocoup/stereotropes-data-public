@@ -1,0 +1,79 @@
+{
+    "plot": "Its high school graduation, and like all seniors they want to party. So 500 high school seniors look forward to a party, while in the meantime a boy wants to get a girl he's loved for years that just broke up with her boyfriend and one head-case that wants revenge on a lifelong bully. So the party comes, things develop. People have sex, drink, and go along with most of the guidelines of a high school graduation party.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Mike went to college on a football scholarship... which he lost after his drinking got in the way of his performance. He then turned into a Jaded Washout, overweight and getting fired from his job at the car wash after some photos from the party surfaced.", 
+                "id": "JadedWashout"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Mike, on his way to becoming a Jaded Washout.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: The angel stripper Preston encounters while trying to use a payphone.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0127723", 
+    "poster_url": "CantHardlyWait.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "JadedWashout", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBrassTeapot", 
+            "name": "The Brass Teapot", 
+            "poster_url": "TheBrassTeapot.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Purgatory", 
+            "name": "Purgatory", 
+            "poster_url": "Purgatory.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Django", 
+            "name": "Django", 
+            "poster_url": "Django.jpg"
+        }
+    ], 
+    "id": "CantHardlyWait", 
+    "name": "Can't Hardly Wait"
+}

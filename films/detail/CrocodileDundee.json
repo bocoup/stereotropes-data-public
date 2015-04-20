@@ -1,0 +1,119 @@
+{
+    "plot": "Michael J. \"Crocodile\" Dundee is an Australian crocodile hunter who lives in the Australian outback and runs a safari business with his trusted friend and mentor Walter Reilly. After surviving a crocodile attack, a New York journalist named Sue arrives to interview Mick about how he survived and learns more about the crocodile hunter. After saving Sue from a crocodile, Sue invites Mick to visit New York City, since Mick has never been to a city. Mick finds the culture and life in New York City a lot different than his home and he finds himself falling in love with Sue.", 
+    "genres": "Adventure, Comedy", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "real", 
+                    "nice", 
+                    "bad"
+                ], 
+                "role": "Subverted in Crocodile Dundee 2, where there's a guy whose real name is actually Leroy Brown. He's actually a nice guy, but tries to maintain a \"bad\" reputation because people expect it because of his name.", 
+                "id": "EvilRoy"
+            }, 
+            {
+                "adjectives": [
+                    "'earthy"
+                ], 
+                "role": "Great White Hunter: Mick Dundee is an example of the 'earthy' version.", 
+                "id": "GreatWhiteHunter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mick \"Crocodile\" Dundee", 
+                "id": "GreatWhiteHunter"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Australian", 
+                    "forcing", 
+                    "second"
+                ], 
+                "role": "Distressed Damsel: Sue in the Australian bush. She tried filling her canteen in a swamp with it still slung on her neck and a crocodile grabbed the canteen, forcing Dundee to stab the crocodile in the head to save her. In the second movie though she Took a Level in Badass and seems quite at home in the bush.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scoop: Sue Charlton", 
+                "id": "HotScoop"
+            }, 
+            {
+                "adjectives": [
+                    "hyper-masculine"
+                ], 
+                "role": "Manic Pixie Dream Girl: Dundee is practically a hyper-masculine spear counterpart to the trope.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "one-piece", 
+                    "different", 
+                    "first"
+                ], 
+                "role": "Ms. Fanservice: Linda Kozlowski, particularly between the one-piece thong and the different fancy dresses she wears throughout the first movie.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0090555", 
+    "poster_url": "CrocodileDundee.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "RedHotRidingHood", 
+            "name": "Red Hot Riding Hood"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "WildWildWest", 
+            "name": "Wild Wild West", 
+            "poster_url": "WildWildWest.jpg"
+        }
+    ], 
+    "id": "CrocodileDundee", 
+    "name": "Crocodile Dundee"
+}

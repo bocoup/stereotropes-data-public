@@ -1,0 +1,85 @@
+{
+    "plot": "A documentary filmmaker explores seemingly unrelated paranormal incidents connected by the legend of an ancient demon called the \"kagutaba.\"", 
+    "genres": "Drama, Horror, Mystery", 
+    "release_year": "2005", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "only", 
+                    "dead"
+                ], 
+                "role": "Final Girl: The only person who isn't missing or dead by the end of the movie is  Marika.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Haunted Heroine: The events surrounding Marika throughout the film.", 
+                "id": "HauntedHeroine"
+            }, 
+            {
+                "adjectives": [
+                    "last"
+                ], 
+                "role": "Screaming Woman:  Junko Ishii in the video tape showing  the last Kagutaba binding ritual at the village.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0930083", 
+    "poster_url": "NoroiTheCurse.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "They", 
+            "name": "They", 
+            "poster_url": "They.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackChristmas1974", 
+            "name": "Black Christmas ", 
+            "poster_url": "BlackChristmas1974.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LakePlacid", 
+            "name": "Lake Placid", 
+            "poster_url": "LakePlacid.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "StageFrightAquarius", 
+            "name": "StageFright -Aquarius-"
+        }
+    ], 
+    "id": "NoroiTheCurse", 
+    "name": "Noroi: The Curse"
+}

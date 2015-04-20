@@ -1,0 +1,88 @@
+{
+    "plot": "Investigating the mysterious deaths of a number of farm animals, vet Rack Hansen discovers that his town lies in the path of hoards of migrating tarantulas. Before he can take action, the streets are overrun by killer spiders, trapping a small group of towns folk in a remote hotel.", 
+    "genres": "Sci-Fi, Horror", 
+    "release_year": "1977", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Diane", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [
+                    "impressive", 
+                    "rural", 
+                    "live", 
+                    "aware", 
+                    "Nature's-revenge", 
+                    "other", 
+                    "able"
+                ], 
+                "role": "An impressive subversion occurs in Kingdom of the Spiders, when the Hot Entomologist opens a drawer in her rural Arizona motel room to reveal a live tarantula. Not yet aware she's in a Nature's-revenge flick, she calmly scoops it up and shoos it outside. (According to the IMDB, Tiffany Bolling beat out other actresses for the part because she was able to do this scene without turning into a Real Life example of this trope.)", 
+                "id": "ScreamingWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman: Averted; Shatner does more screaming than leading lady Tiffany Bolling.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0076271", 
+    "poster_url": "KingdomOfTheSpiders.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "Them", 
+            "name": "Them!", 
+            "poster_url": "Them.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "Tarantula", 
+            "name": "Tarantula", 
+            "poster_url": "Tarantula.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "LakePlacid", 
+            "name": "Lake Placid", 
+            "poster_url": "LakePlacid.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }
+    ], 
+    "id": "KingdomOfTheSpiders", 
+    "name": "Kingdom of the Spiders"
+}

@@ -1,0 +1,85 @@
+{
+    "plot": "Nursery teacher Jenny and her boyfriend Steve, escape for a romantic weekend away. Steve, planning to propose, has found an idyllic setting: a remote lake enclosed by woodlands and seemingly deserted. The couple's peace is shattered when a gang of obnoxious kids encircles their campsite. Reveling in provoking the adults, the gang steals the couple's belongings and vandalizes their car leaving them completely stranded. When Steve confronts them, tempers flare and he suffers a shocking and violent attack. Fleeing for help, Jenny is subject to a brutal and relentless game of cat-and-mouse as she desperately tries to evade her young pursuers and find her way out of the woods.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Corrupt Chav: All the antagonists of the movie.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "Wolf/Abusive"
+                ], 
+                "role": "Papa Wolf/Abusive Parents: Brett's father.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl:  Subverted, since Jenny gets pressumably raped and killed by the gang parents at the end of the film.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1020530", 
+    "poster_url": "EdenLake.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "NineDead", 
+            "name": "Nine Dead", 
+            "poster_url": "NineDead.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "Matewan", 
+            "name": "Matewan", 
+            "poster_url": "Matewan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "Tank", 
+            "name": "Tank", 
+            "poster_url": "Tank.jpg"
+        }
+    ], 
+    "id": "EdenLake", 
+    "name": "Eden Lake"
+}

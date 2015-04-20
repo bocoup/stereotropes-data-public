@@ -1,0 +1,80 @@
+{
+    "plot": "Blacula is the story of Manuwalde, an African Prince. This movie presents a modern version of the classic Dracula story in a very chilling and inventive way. In 1780, after visiting Count Dracula, Manuwalde is turned into a vampire and locked in a coffin.. The scene shifts to 1972, when two antique collectors transport the coffin to Los Angeles. The two men open the coffin and unleash Blacula on the city of Los Angeles. Blacula soon finds Tina, who is his wife, Luva, reincarnated, and gains her love. Tina's friend, Dr. Gordon, discovers Blacula is a vampire and hunts him down.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1972", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Sideburns Of Evil: Blacula. When he vamps out, it's like his face grows fangs, too.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "wild"
+                ], 
+                "role": "The title character of Blacula grows some seriously wild sideburns every time he decides to drink someone's blood.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "large"
+                ], 
+                "role": "Camp Gay: The two men who purchase the large house where Blacula's coffin ends up are very flamboyant. Well, it is California.", 
+                "id": "CampGay"
+            }
+        ]
+    }, 
+    "imdbid": "tt0068284", 
+    "poster_url": "Blacula.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "ToBeOrNotToBe", 
+            "name": "To Be or Not to Be", 
+            "poster_url": "ToBeOrNotToBe.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBoysInTheBand", 
+            "name": "The Boys in the Band", 
+            "poster_url": "TheBoysInTheBand.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "ILoveYouPhillipMorris", 
+            "name": "I Love You Phillip Morris", 
+            "poster_url": "ILoveYouPhillipMorris.jpg"
+        }
+    ], 
+    "id": "Blacula", 
+    "name": "Blacula"
+}

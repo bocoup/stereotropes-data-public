@@ -1,0 +1,76 @@
+{
+    "plot": "Molly is a teen who works with her father, an ex-cop turned P.I. One day an FBI agent approaches and wants her to work for them. They want her to keep an eye on the daughter of a man who is going to testify against a criminal. So they send her to the college where the daughter is attending. And she tries to fit in while keeping an eye on her and trying to see if there's someone there who doesn't appear who they are.", 
+    "genres": "Action, Comedy", 
+    "release_year": "2012", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "mean"
+                ], 
+                "role": "Action Girl: Molly packs a mean punch.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Molly before She Cleans Up Nicely.", 
+                "id": "Tomboy"
+            }
+        ]
+    }, 
+    "imdbid": "tt1766094", 
+    "poster_url": "SoUndercover.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Tomboy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Kick-Ass", 
+            "name": "Kick-Ass", 
+            "poster_url": "Kick-Ass.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCourtJester", 
+            "name": "The Court Jester", 
+            "poster_url": "TheCourtJester.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ToTheLimit", 
+            "name": "To The Limit", 
+            "poster_url": "ToTheLimit.jpg"
+        }
+    ], 
+    "id": "SoUndercover", 
+    "name": "So Undercover"
+}

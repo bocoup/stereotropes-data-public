@@ -1,0 +1,57 @@
+{
+    "plot": "A young girl struggles to find a place for herself in high school as she finds herself secluded and punished as an outcast for being considered \"different\" by her peers, unknown to her that she shares a similar situation to another student.", 
+    "genres": "Short, Drama", 
+    "release_year": "2013", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "In The Untold Story, the female police officer dolls herself up to impress the guys at the office but ends up going too far and looks like a prostitute.", 
+                "id": "FemininityFailure"
+            }
+        ]
+    }, 
+    "imdbid": "tt3157654", 
+    "similar": [
+        {
+            "shared": [
+                "FemininityFailure"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "FemininityFailure"
+            ], 
+            "shared_count": 1, 
+            "id": "LuckyLuke", 
+            "name": "Lucky Luke", 
+            "poster_url": "LuckyLuke.jpg"
+        }, 
+        {
+            "shared": [
+                "FemininityFailure"
+            ], 
+            "shared_count": 1, 
+            "id": "ThePrincessDiaries", 
+            "name": "The Princess Diaries", 
+            "poster_url": "ThePrincessDiaries.jpg"
+        }, 
+        {
+            "shared": [
+                "FemininityFailure"
+            ], 
+            "shared_count": 1, 
+            "id": "Shrek", 
+            "name": "Shrek", 
+            "poster_url": "Shrek.jpg"
+        }
+    ], 
+    "id": "TheUntoldStory", 
+    "name": "The Untold Story"
+}

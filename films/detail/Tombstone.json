@@ -1,0 +1,157 @@
+{
+    "plot": "After success cleaning up Dodge City, Wyatt Earp moves to Tombstone, Arizona, and wishes to get rich in obscurity. He meets his brothers there, as well as his old friend Doc Holliday. A band of outlaws that call themselves The Cowboys are causing problems in the region with various acts of random violence, and inevitably come into confrontation with Holliday and the Earps, which leads to a shoot-out at the OK Corral.", 
+    "genres": "Action, Drama, History", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Man, everyone in Tombstone.  Just look at the poster on the page.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "hold", 
+                    "first"
+                ], 
+                "role": "Cultured Badass: Johnny Ringo and Doc Holliday. (Ringo as a villain is technically Wicked Cultured.) Early in the film Ringo understands a Mexican priest's warning (in Spanish), and translates it by quoting The Bible. Holliday is described as a (former) Southern Gentleman and plays Chopin on the piano. The two hold a conversation in Latin during their first meeting.", 
+                "id": "CulturedBadass"
+            }, 
+            {
+                "adjectives": [
+                    "double"
+                ], 
+                "role": "Doc Holiday in Tombstone as portrayed by Val Kilmer. He speaks Latin, wears a spiffy purple vest, and shoots a double barrel sawed off. And he enjoys Frederic fucking Chopin.", 
+                "id": "CulturedBadass"
+            }, 
+            {
+                "adjectives": [
+                    "last", 
+                    "later"
+                ], 
+                "role": "Dirty Coward: Ike Clanton. He is shown in his last scene of the film ripping off his Cowboy sash while being pursued by Wyatt and the Immortals. The narrator lets us know - during the Where Are They Now closing as the credits roll - that Ike was later killed during a robbery in New Mexico.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "fellow", 
+                    "cowering"
+                ], 
+                "role": "Tombstone: Ike Clanton. He always talks trash when he has fellow gang members to back him up, but instantly turns into a cowering dog when the tables are turned on him. He backs down in fear or runs for his life no less than four times in the film.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "single", 
+                    "single", 
+                    "evil", 
+                    "malicious", 
+                    "heroic", 
+                    "single", 
+                    "sociopathic"
+                ], 
+                "role": "Pretty much every single one of the \"villains\" in this film, with a single exception, weren't actually anywhere near as evil or malicious as this movie would have you believe. Their biggest \"crime\", if you will, was opposing the supposedly heroic Earp brothers, who themselves were hardly knights in shining armor, either. The single exception was Curly Bill Brocious, who apparently really was this violent and sociopathic.", 
+                "id": "KnightInShiningArmor"
+            }, 
+            {
+                "adjectives": [
+                    "Sharp-Dressed"
+                ], 
+                "role": "Sharp-Dressed Man: Sheriff Behan wears the hell out of those pinstripes.", 
+                "id": "SharpDressedMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Doc Holliday from Tombstone.", 
+                "id": "SouthernGentleman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Southern Gentleman: Doc Holliday oozes charm, even when he's snarking.", 
+                "id": "SouthernGentleman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Morgan Earp as he is portrayed in movies like Tombstone and Wyatt Earp.", 
+                "id": "YoungGun"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Young Gun: Wyatt Earp's younger brother Morgan, to some extent. This is mostly in his portrayal as the least experienced of the four heroes at the OK Corral and in Wyatt's disapproval of his participation.", 
+                "id": "YoungGun"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Josephine Marcus.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Josephine", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0108358", 
+    "poster_url": "Tombstone.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CulturedBadass", 
+                "DirtyCoward", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "DirtyCoward", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "BadAssMustache", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "PulpFiction", 
+            "name": "Pulp Fiction", 
+            "poster_url": "PulpFiction.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "BadAssMustache", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SpyKids", 
+            "name": "Spy Kids", 
+            "poster_url": "SpyKids.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "SharpDressedMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Inception", 
+            "name": "Inception", 
+            "poster_url": "Inception.jpg"
+        }
+    ], 
+    "id": "Tombstone", 
+    "name": "Tombstone"
+}

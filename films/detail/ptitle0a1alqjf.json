@@ -1,0 +1,72 @@
+{
+    "plot": "It's Friday and everyone is going to the hot new disco. The Commodores are scheduled to play if Floyd shows up with the instruments and Nicole dreams of becoming a disco star. Other characters are there to win the dance contest, or to put a little excitement into a fifth anniversary.", 
+    "genres": "Comedy, Music", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe: Tony, the club owner", 
+                "id": "CasanovaWannabe"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "dental"
+                ], 
+                "role": "Naughty Nurse Outfit: Jackie is a dental hygenist by day, disco freak by night.", 
+                "id": "NaughtyNurseOutfit"
+            }
+        ]
+    }, 
+    "imdbid": "tt0078382", 
+    "poster_url": "ptitle0a1alqjf.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "StarWreck", 
+            "name": "Star Wreck"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "SlapShot", 
+            "name": "Slap Shot", 
+            "poster_url": "SlapShot.jpg"
+        }, 
+        {
+            "shared": [
+                "NaughtyNurseOutfit"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "NaughtyNurseOutfit"
+            ], 
+            "shared_count": 1, 
+            "id": "EightAndAHalf", 
+            "name": "8\u00bd"
+        }
+    ], 
+    "id": "ptitle0a1alqjf", 
+    "name": "Thank God It's Friday"
+}

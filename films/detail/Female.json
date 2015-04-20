@@ -1,0 +1,109 @@
+{
+    "plot": "Alison is owner and successful manager of an automobile factory. She also has a good relation to her employees - especially the male ones, which she is known to invite to her bed for some time and then dump quickly. Only the inventor Jim Thorne refuses her offers - will she fire or marry him?", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1933", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "extreme", 
+                    "final"
+                ], 
+                "role": "Chickification: A particularly extreme example. The final reels show Allison Drake as a changed woman,  giving her company to Jim and proclaiming that she will stay home to have nine kids.", 
+                "id": "Chickification"
+            }, 
+            {
+                "adjectives": [
+                    "interesting", 
+                    "gender-flipped", 
+                    "wealthy", 
+                    "decadent"
+                ], 
+                "role": "Distracted by the Luxury: A very interesting gender-flipped example. Allison herself is very wealthy and has a very decadent mansion, so she's not only used to luxury, she's more or less numb to it. It's the men she seduces who are distracted and drawn by the glamour; her assistant, Pettigrew even lampshades it at one point.", 
+                "id": "DistractedByTheLuxury"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "God Save Us From The Queen: Subverted.", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ice Queen: Allison's business persona.", 
+                "id": "IceQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Naughty by Night", 
+                "id": "NaughtyByNight"
+            }, 
+            {
+                "adjectives": [
+                    "Self-Made", 
+                    "good"
+                ], 
+                "role": "Never a Self-Made Woman: Technically how Allison got the company, though to her credit, she does a damn good job of running it.", 
+                "id": "NeverASelfMadeWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ingenue: Allison pretends to be this in order to seduce Jim. Imagine his surprise when he realized it was just an act.", 
+                "id": "TheIngenue"
+            }
+        ]
+    }, 
+    "imdbid": "tt0024008", 
+    "poster_url": "Female.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IceQueen", 
+                "TheIngenue", 
+                "Chickification", 
+                "GodSaveUsFromTheQueen"
+            ], 
+            "shared_count": 4, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "IceQueen", 
+                "GodSaveUsFromTheQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "NeverASelfMadeWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "TheIngenue"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "Chickification"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }
+    ], 
+    "id": "Female", 
+    "name": "Female"
+}

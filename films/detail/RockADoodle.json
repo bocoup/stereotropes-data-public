@@ -1,0 +1,115 @@
+{
+    "plot": "Edmund is a boy whose favorite story of Chanticleer, a rooster whose singing makes the sun rise every morning until the Grand Duke of Owls, whose kind despises the bright sun, makes him look like a fraud. With Chanticleer driven from his farm, the owls put it under a spell of perpetual darkness and rain. As Edmund's own farm floods, he calls to Chanticleer, only to summon the Duke himself who transforms him into a kitten to devour him. Rescued by Chanticleer's former friends Patou the hound, Snipes the magpie and Peepers the mouse, they go on an adventure to the city where the rooster had gone and became a great singing rock star!", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fat Southern Fox In Striped Pants: Pinky. He even plays golf and chomps cigars. The fact that he's voiced by Boss Hogg himself dials this trope Up to Eleven!", 
+                "id": "FatSweatySouthernerInAWhiteSuit"
+            }, 
+            {
+                "adjectives": [
+                    "Rock-A-Doodle"
+                ], 
+                "role": "Rock-A-Doodle: The Grand Duke and his hench-owls.", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [
+                    "evil", 
+                    "true"
+                ], 
+                "role": "Sissy Villain: The Grand Duke, voiced by Christopher Plummer, enjoys baking and embroidery, and is a phone cord twiddler. Poor guy wasn't allowed to do anything really evil after the concerned parents in the preview audiences got through with him. Well, until the climax anyway, where he almost strangles Edmond to death using his magic, to the point where it looked like Edmond had died, and attempts to drown Chanticleer with a waterspout. Hunch is even worse though. Oh, and Beware the Nice Ones- the bakers/phone cord twiddlers are the true psychopaths.", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [
+                    "Rock-A-Doodle"
+                ], 
+                "role": "Chanticleer the rooster from Rock-A-Doodle.", 
+                "id": "TopHeavyGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Peepers.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Rock-A-Doodle"
+                ], 
+                "role": "Goldie from Rock-A-Doodle.", 
+                "id": "HumanoidFemaleAnimal"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102802", 
+    "poster_url": "RockADoodle.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "SissyVillain", 
+                "HumanoidFemaleAnimal", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "CorruptHick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "CorruptHick", 
+                "HumanoidFemaleAnimal"
+            ], 
+            "shared_count": 3, 
+            "id": "Rango", 
+            "name": "Rango", 
+            "poster_url": "Rango.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "HumanoidFemaleAnimal", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheSecretOfNIMH", 
+            "name": "The Secret of NIMH", 
+            "poster_url": "TheSecretOfNIMH.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }
+    ], 
+    "id": "RockADoodle", 
+    "name": "Rock-A-Doodle"
+}

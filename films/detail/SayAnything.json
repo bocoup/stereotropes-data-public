@@ -1,0 +1,106 @@
+{
+    "plot": "High school senior Lloyd Dobler wants nothing more than to go out with beautiful and intelligent Diane Court. Lloyd attempts to win her heart over the objections of her over-protective father before Diane leaves for a scholarship in England.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "such"
+                ], 
+                "role": "Lloyd's sister's ex, identified only as \"T, I, M\", is a Disappeared Dad to Lloyd's nephew. (To such an extent that he's also The Ghost.)", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective"
+                ], 
+                "role": "Overprotective Dad: And how.", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Mom/Disappeared", 
+                    "such"
+                ], 
+                "role": "Missing Mom/Disappeared Dad: Lloyd's parents are spending time in Germany, and are only mentioned in passing. Lloyd doesn't even refer to his father as \"dad\". The one time he mentions him, Lloyd calls his father \"The Colonel\". Lloyd's sister's ex, identified only as \"T, I, M\", is a Disappeared Dad to Lloyd's nephew. (To such an extent that he's also The Ghost.) Also, Diane's mom, after the divorce. She appears in one scene.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "white"
+                ], 
+                "role": "Diane from Say Anything tends to wear white.", 
+                "id": "WomanInWhite"
+            }, 
+            {
+                "adjectives": [
+                    "white"
+                ], 
+                "role": "Woman in White: Diane has a tendency to wear white dresses.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098258", 
+    "poster_url": "SayAnything.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "WomanInWhite", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "LoveActually", 
+            "name": "Love Actually", 
+            "poster_url": "LoveActually.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Armageddon", 
+            "name": "Armageddon", 
+            "poster_url": "Armageddon.jpg"
+        }
+    ], 
+    "id": "SayAnything", 
+    "name": "Say Anything"
+}

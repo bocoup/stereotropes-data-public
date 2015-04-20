@@ -1,0 +1,90 @@
+{
+    "plot": "Following the theft of a highly-secured piece of artwork, an agent convinces her insurance agency employers to allow her to wriggle into the company of an aging but active master thief. Connery's burglar takes her on suspiciously and demands rigorous training before their first job together--stealing a highly-valued mask from a chichi party. Their deepening attraction and distrust could tear apart their partnership but the promise of a bigger prize (some eight billion odd dollars) by Zeta-Jones keeps the game interesting. Only, who's playing with whom?", 
+    "genres": "Action, Crime, Romance", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gentleman Thief: Mac embodies this.", 
+                "id": "GentlemanThief"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Gin.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Cat-Burglar"
+                ], 
+                "role": "Classy Cat-Burglar: Gin.", 
+                "id": "ClassyCatBurglar"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: \"Has there ever been a man you couldn't seduce?\" \"No.\"", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0137494", 
+    "poster_url": "Entrapment.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "ClassyCatBurglar", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "ClassyCatBurglar", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "PussInBoots", 
+            "name": "Puss in Boots", 
+            "poster_url": "PussInBoots.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }
+    ], 
+    "id": "Entrapment", 
+    "name": "Entrapment"
+}

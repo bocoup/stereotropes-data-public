@@ -1,0 +1,112 @@
+{
+    "plot": "Alex Owens is a female dynamo: steel worker by day, exotic dancer by night. Her dream is to get into a real dance company, though, and with encouragement from her boss/boyfriend, she may get her chance. The city of Pittsburgh co-stars. What a feeling!", 
+    "genres": "Drama, Romance, Music", 
+    "release_year": "1983", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Clingy Jealous Girl: Alex hurls a rock through the window of Nick's house after she glimpses him entering a car with another woman.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Naughty by Night", 
+                "id": "NaughtyByNight"
+            }, 
+            {
+                "adjectives": [
+                    "Rich", 
+                    "ex-wife"
+                ], 
+                "role": "Rich Bitch: Nick's ex-wife.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [
+                    "famous"
+                ], 
+                "role": "Sweater Girl: The famous cover photo.", 
+                "id": "SweaterGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Alex and Jeanie.", 
+                "id": "TomBoyAndGirlyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned:  Jeanie leaves to work for the Zanzibar on account of Richie leaving her to chase his dreams in L.A. (Losing the skating auditions didn't help, either.)", 
+                "id": "WomanScorned"
+            }, 
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "Alex (Jennifer Beals), the main character from Flashdance. She works part time as a welder in a steel mill.", 
+                "id": "WrenchWench"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wrench Wench: Alex.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085549", 
+    "poster_url": "Flashdance.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "TomBoyAndGirlyGirl", 
+                "WrenchWench"
+            ], 
+            "shared_count": 3, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "MySuperExGirlfriend", 
+            "name": "My Super Ex Girlfriend"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRockyHorrorPictureShow", 
+            "name": "The Rocky Horror Picture Show", 
+            "poster_url": "TheRockyHorrorPictureShow.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "SweaterGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Christine", 
+            "name": "Christine", 
+            "poster_url": "Christine.jpg"
+        }
+    ], 
+    "id": "Flashdance", 
+    "name": "Flashdance"
+}

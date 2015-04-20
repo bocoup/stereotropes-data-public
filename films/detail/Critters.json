@@ -1,0 +1,81 @@
+{
+    "plot": "A massive ball of furry creatures from another world eat their way through a small mid-western town followed by intergalactic bounty hunters opposed only by militant townspeople.", 
+    "genres": "Action, Comedy, Horror", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "low-key", 
+                    "new", 
+                    "flashy", 
+                    "severe", 
+                    "denial"
+                ], 
+                "role": "The father from Critters is a low-key example, glaring at her daughter's new boyfriend all through dinner and dismissing his flashy sports car as a \"fancy toy\". Also a severe case of fatherly denial, as he's floored when his wife reassures him she'd told their daughter the facts of life \"years ago\"... this, while said daughter is busily making out with her date in the barn.", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandma: Ms. Mendes in Critters 3, even if she only gets to show it once.", 
+                "id": "NeverMessWithGranny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0090887", 
+    "poster_url": "Critters.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "Paul", 
+            "name": "Paul", 
+            "poster_url": "Paul.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "InspectorGadget", 
+            "name": "Inspector Gadget", 
+            "poster_url": "InspectorGadget.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "Critters", 
+    "name": "Critters"
+}

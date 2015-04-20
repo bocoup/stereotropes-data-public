@@ -1,0 +1,94 @@
+{
+    "plot": "Danny (Adam Sandler) must engage Katherine (Jennifer Aniston), his faithful assistant, to pretend to be his soon to be ex-wife. Danny must pretend that he is married, because he lied to his dream girl, Palmer (Brooklyn Decker) the most gorgeous woman in the world. To keep the woman he loves, covering up one lie soon turns into many lies.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "high-end"
+                ], 
+                "role": "Camp Gay: The concierge at the Hilton resort, and the high-end hairdresser Danny hires for Katherine.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "one-night"
+                ], 
+                "role": "Ladykiller in Love: After a lifetime of one-night stands, Danny finds himself falling in love for real.  Just not with who he thinks he is.", 
+                "id": "LadyKillerInLove"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Devlin Adams.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "world-famous"
+                ], 
+                "role": "Ms. Fanservice: Brooklyn Decker is a world-famous supermodel who has appeared in the Sports Illustrated Swimsuit Edition multiple times. Do I really need to explain any more?", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt1564367", 
+    "poster_url": "JustGoWithIt.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "MsFanservice", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "LadyKillerInLove", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "CruelIntentions", 
+            "name": "Cruel Intentions", 
+            "poster_url": "CruelIntentions.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoysInTheBand", 
+            "name": "The Boys in the Band", 
+            "poster_url": "TheBoysInTheBand.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "AsGoodAsItGets", 
+            "name": "As Good As It Gets", 
+            "poster_url": "AsGoodAsItGets.jpg"
+        }
+    ], 
+    "id": "JustGoWithIt", 
+    "name": "Just Go With It"
+}

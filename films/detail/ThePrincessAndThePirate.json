@@ -1,0 +1,83 @@
+{
+    "plot": "Princess Margaret is travelling incognito to elope with her true love instead of marrying the man her father has betrothed her to. On the high seas, her ship is attacked by pirates who know her identity and plan to kidnap her and hold her for a king's ransom. Little do the cutthroats know that she will be rescued by that unlikeliest of knights errant, Sylvester the Great, who will lead them on a merry, and madcap, chase.", 
+    "genres": "Adventure, Comedy, Romance", 
+    "release_year": "1944", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Disguised in Drag: Sylvester changes into one of his costumes, an old gypsy woman, which saves his life after The Hook starts throwing all the men overboard.", 
+                "id": "DisguisedInDrag"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Arranged"
+                ], 
+                "role": "In The Princess And The Pirate, the princess is fleeing from an Arranged Marriage, until she is kidnapped by the pirate. Luckily Bob Hope is there to save her.", 
+                "id": "RebelliousPrincess"
+            }, 
+            {
+                "adjectives": [
+                    "Rebellious", 
+                    "Arranged"
+                ], 
+                "role": "Rebellious Princess: Margaret is fleeing an Arranged Marriage.", 
+                "id": "RebelliousPrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0037193", 
+    "poster_url": "ThePrincessAndThePirate.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "RebelliousPrincess", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "MuzzyInGondoland", 
+            "name": "Muzzy In Gondoland"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "LupinIIIOperationReturnTheTreasure", 
+            "name": "Lupin III Operation Return The Treasure"
+        }, 
+        {
+            "shared": [
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "SororityBoys", 
+            "name": "Sorority Boys", 
+            "poster_url": "SororityBoys.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }
+    ], 
+    "id": "ThePrincessAndThePirate", 
+    "name": "The Princess And The Pirate"
+}

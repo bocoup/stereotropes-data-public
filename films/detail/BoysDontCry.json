@@ -1,0 +1,107 @@
+{
+    "plot": "Based on actual events. Brandon Teena is the popular new guy in a tiny Nebraska town. He hangs out with the guys, drinking, cussing, and bumper surfing, and he charms the young women, who've never met a more sensitive and considerate young man. Life is good for Brandon, now that he's one of the guys and dating hometown beauty Lana. However, he's forgotten to mention one important detail. It's not that he's wanted in another town for GTA and other assorted crimes, but that Brandon Teena was actually born a woman named Teena Brandon. When his best friends make this discovery, Brandon's life is ripped apart.", 
+    "genres": "Biography, Drama", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "jealousy", 
+                    "sexual"
+                ], 
+                "role": "John from Boys Don't Cry was motivated by jealousy over Lana as well as homophobia  (actually, transphobia) when he murders Brandon, the trans sexual guy whom Lana was dating.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "absent\u2014he", 
+                    "later", 
+                    "young"
+                ], 
+                "role": "Disappeared Dad: Lana's father is nowhere to be found and neither is the father of Candace's baby. Brandon's family is absent\u2014he lies about it, then later says his father died when Brandon was very young.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "gear", 
+                    "impossible"
+                ], 
+                "role": "Gag Penis: The fake \"gear\" that Brandon is packing is impossible.", 
+                "id": "GagPenis"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hard-Drinking"
+                ], 
+                "role": "Hard-Drinking Party Girl: Lana and her mother.", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: The mother of John's daughter April is out of the picture.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0171804", 
+    "poster_url": "BoysDontCry.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "DisappearedDad", 
+                "CrazyJealousGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CrazyJealousGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "ThePiano", 
+            "name": "The Piano", 
+            "poster_url": "ThePiano.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CrazyJealousGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "OliverTwist", 
+            "name": "Oliver Twist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "BoysDontCry", 
+    "name": "Boys Don't Cry"
+}

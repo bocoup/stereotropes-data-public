@@ -1,0 +1,77 @@
+{
+    "plot": "Luke and Kate are co-workers at a Chicago brewery, where they spend their days drinking and flirting. They're perfect for each other, except that they're both in relationships. Luke is in the midst of marriage talks with his girlfriend of six years, Kate is playing it cool with her music producer boyfriend Chris. But you know what makes the line between \"friends\" and \"more than friends\" really blurry? Beer.", 
+    "genres": "Drama, Romance", 
+    "release_year": "2013", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hard-Drinking"
+                ], 
+                "role": "Hard-Drinking Party Girl: Kate. It's almost literally her job.", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "modest"
+                ], 
+                "role": "Ms. Fanservice: Kate. A tank top is pretty much the most modest thing she wears, and even goes topless at one point.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt2265398", 
+    "poster_url": "DrinkingBuddies.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBlingRing", 
+            "name": "The Bling Ring", 
+            "poster_url": "TheBlingRing.jpg"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "EternalSunshineOfTheSpotlessMind", 
+            "name": "Eternal Sunshine of the Spotless Mind", 
+            "poster_url": "EternalSunshineOfTheSpotlessMind.jpg"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWayWayBack", 
+            "name": "The Way Way Back", 
+            "poster_url": "TheWayWayBack.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "DrinkingBuddies", 
+    "name": "Drinking Buddies"
+}

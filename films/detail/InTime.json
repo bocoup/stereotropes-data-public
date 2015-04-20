@@ -1,0 +1,82 @@
+{
+    "plot": "Welcome to a world where time has become the ultimate currency. You stop aging at 25, but there's a catch: you're genetically-engineered to live only one more year, unless you can buy your way out of it. The rich \"earn\" decades at a time (remaining at age 25), becoming essentially immortal, while the rest beg, borrow or steal enough hours to make it through the day. When a man from the wrong side of the tracks is falsely accused of murder, he is forced to go on the run with a beautiful hostage. Living minute to minute, the duo's love becomes a powerful tool in their war against the system.", 
+    "genres": "Action, Sci-Fi, Thriller", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "poor", 
+                    "break"
+                ], 
+                "role": "Disappeared Dad: Will's father died when he was very young. It's implied he was killed for trying to help the poor and break the system.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "certain", 
+                    "able"
+                ], 
+                "role": "Spoiled Sweet: Sylvia, but only to a certain extent because she isn't the most saintly person around. Still, even though she is the daughter of the richest man in their world and is able to get anything she wants, she doesn't seem to be particularly spoiled or demanding even when reduced to poverty in the ghetto.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt1637688", 
+    "poster_url": "InTime.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "ALittlePrincess", 
+            "name": "A Little Princess", 
+            "poster_url": "ALittlePrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMightyDucks", 
+            "name": "The Mighty Ducks", 
+            "poster_url": "TheMightyDucks.jpg"
+        }
+    ], 
+    "id": "InTime", 
+    "name": "In Time"
+}

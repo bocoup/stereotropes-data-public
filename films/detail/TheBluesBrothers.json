@@ -1,0 +1,123 @@
+{
+    "plot": "After the release of Jake Blues from prison, he and brother Elwood go to visit \"The Penguin\", the last of the nuns who raised them in a boarding school. They learn the Archdiocese will stop supporting the school and will sell the place to the Education Authority. The only way to keep the place open is if the $5000 tax on the property is paid within 11 days. The Blues Brothers want to help, and decide to put their blues band back together and raise the the money by staging a big gig. As they set off on their \"mission from God\" they seem to make more enemies along the way. Will they manage to come up with the money in time?", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bash Brothers: They don't fight a lot, but when they do...", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Curtis, the janitor at the orphanage played by Cab Calloway, who taught Jake and Elwood about the blues.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Good Ol' Boy: The Good Ol' Boys band, and Tucker McElroy in particular. Elwood Blues: \"We're the Good Ol' Blues Brothers... Boys. Band.\"", 
+                "id": "GoodOlBoy"
+            }, 
+            {
+                "adjectives": [
+                    "entire"
+                ], 
+                "role": "The Blues Brothers has an entire band of Good Ol' Boys.", 
+                "id": "GoodOlBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: \"I've always loved you.\" From a Nazi. Right before the car they're in gets smashed into the ground.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mafia Princess: Carrie Fisher's character, which is why she wants to kill Jake for leaving her at the altar.", 
+                "id": "MafiaPrincess"
+            }, 
+            {
+                "adjectives": [
+                    "young"
+                ], 
+                "role": "The Penguin from The Blues Brothers. Maybe a little young, but she fits the badass by whipping the piss out of Jake and Elwood.", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [
+                    "ex-fiancee"
+                ], 
+                "role": "Jake's unnamed ex-fiancee in The Blues Brothers.", 
+                "id": "WomanScorned"
+            }, 
+            {
+                "adjectives": [
+                    "hilarious", 
+                    "several"
+                ], 
+                "role": "Woman Scorned: Taken to hilarious extremes by Jake's jilted fiancee, who's turned into a Pyro Maniac in the process and tries to blow the Brothers up several times. Just when it looks like Jake's about to take her back, he drops her. Again. This time, literally as well.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0080455", 
+    "poster_url": "TheBluesBrothers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanScorned", 
+                "NeverMessWithGranny", 
+                "CoolOldGuy", 
+                "BashBrothers"
+            ], 
+            "shared_count": 4, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay", 
+                "NeverMessWithGranny", 
+                "WomanScorned"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "CoolOldGuy", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionInWinter", 
+            "name": "The Lion in Winter", 
+            "poster_url": "TheLionInWinter.jpg"
+        }, 
+        {
+            "shared": [
+                "GoodOlBoy", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }
+    ], 
+    "id": "TheBluesBrothers", 
+    "name": "The Blues Brothers"
+}

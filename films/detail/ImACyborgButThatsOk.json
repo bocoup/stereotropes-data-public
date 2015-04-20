@@ -1,0 +1,110 @@
+{
+    "plot": "A young woman who believes she's a cyborg hears voices and harms herself while at work making radios. She's hospitalized in a mental institution where she eats nothing and talks to inanimate objects. She's Young-goon, granddaughter of a woman who thought she was a mouse (and whose dentures Young-goon wears) and a mother who's a butcher without much social grace. Young-goon comes to the attention of Il-sun, a ping-pong playing patient at the institution who makes it his goal to get her to eat. Will he succeed? Which way does sanity lie?", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "White/Woman", 
+                    "Il-soon", 
+                    "Young-goon"
+                ], 
+                "role": "Man in White/Woman in White: Il-soon and Young-goon primarily, but virtually everyone wears white.", 
+                "id": "ManInWhite"
+            }, 
+            {
+                "adjectives": [
+                    "complete"
+                ], 
+                "role": "Shirtless Scene: It's Rain! Would be a complete waste not to let him take his shirt off at least once.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Young-goon"
+                ], 
+                "role": "Emotionless Girl: Young-goon tries to be one.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Gop-dan", 
+                    "only", 
+                    "selfish", 
+                    "unsympathetic", 
+                    "overall"
+                ], 
+                "role": "Fat Girl: Gop-dan, who is the only overweight character around, and one of the most selfish, unsympathetic, and overall vainest.", 
+                "id": "FatGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Il-soon", 
+                    "whole", 
+                    "electric"
+                ], 
+                "role": "Missing Mom: Il-soon's mother not only abandoned them when he was 15, she also took the whole family set of electric toothbrushes.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0497137", 
+    "poster_url": "ImACyborgButThatsOk.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "CapeFear", 
+            "name": "Cape Fear", 
+            "poster_url": "CapeFear.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "ImACyborgButThatsOk", 
+    "name": "I'm a Cyborg, But That's OK"
+}

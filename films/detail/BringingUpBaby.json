@@ -1,0 +1,111 @@
+{
+    "plot": "Mild mannered zoology professor Dr. David Huxley is excited by the news that an intercostal clavicle bone has been found to complete his brontosaurus skeleton, a project four years in the construction. He is equally excited about his imminent marriage to his assistant, the officious Alice Swallow, who is interested in him more for his work than for him as a person. David needs the $1 million endowment of wealthy dowager Mrs. Carleton Random to complete the project. Her lawyer, Alexander Peabody, will make the decision on her behalf, so David needs to get in his favor. However, whenever David tries to make a good impression on Peabody, the same young woman always seems to do something to make him look bad. She is the flighty heiress Susan Vance. The more David wants Susan to go away, the more Susan seems not to want or be able to. But David eventually learns that Alexander Peabody is her good friend, who she calls Boopy, and Susan's Aunt Elizabeth, with whom David has also made a bad impression without her knowing who he is, is Mrs. Carleton Random. However getting in Aunt Elizabeth and Boopy's good graces is not as easy as Susan smoothing the waters with them. Throw into the mix a tame pet leopard named Baby that Susan's brother Mark inexplicably sends her from Brazil, Aunt Elizabeth's big game hunting friend Major Horace Applegate, Aunt Elizabeth's pet terrier George who has a penchant for burying bones and other things, and a traveling circus passing through town and David may never be able to finish his project or make it to his wedding. But David may come to the realization that there is something more important in his life.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1938", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded"
+                ], 
+                "role": "Absent-Minded Professor: David is one of these", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Great White Hunter: Maj. Applewhite is one, which leads to some hilarity when Susan describes David as one and Applewhite starts firing questions at him.", 
+                "id": "GreatWhiteHunter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: David manages to be this even before he is married. After Alice, even Susan must come as something of a relief.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "eccentric", 
+                    "own"
+                ], 
+                "role": "Grande Dame: Elizabeth Random, Susan Vance's aunt who displays little tolerance for David Huxley, but who is eccentric enough to want her own leopard.", 
+                "id": "GrandeDame"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Susan is one of the earliest examples of this character type in film. (Nathan Rabin, creator of the term, calls her the Trope Maker, although Carole Lombard in My Man Godfrey is actually an earlier example).", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Socialite: Susan", 
+                "id": "Socialite"
+            }, 
+            {
+                "adjectives": [
+                    "sweet", 
+                    "malicious", 
+                    "wealthy"
+                ], 
+                "role": "Spoiled Sweet: Susan is very sweet and hasn't a malicious bone in her body, but she's also very wealthy and confident about getting precisely what she wants when she wants it.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0029947", 
+    "poster_url": "BringingUpBaby.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GrandeDame", 
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "GrandeDame", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "GreatWhiteHunter", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExtraordinaryAdventuresOfAdeleBlancSec", 
+            "name": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec"
+        }, 
+        {
+            "shared": [
+                "GrandeDame", 
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 2, 
+            "id": "AnimalCrackers", 
+            "name": "Animal Crackers", 
+            "poster_url": "AnimalCrackers.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }
+    ], 
+    "id": "BringingUpBaby", 
+    "name": "Bringing Up Baby"
+}

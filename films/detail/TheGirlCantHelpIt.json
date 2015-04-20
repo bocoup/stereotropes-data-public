@@ -1,0 +1,92 @@
+{
+    "plot": "A down-and-out gangster hires an alcoholic press agent to make his blonde bombshell girlfriend a recording star in 6 weeks. But what is he going to do when he finds out that she has no talent? And what is going to happen when the two fall in love?", 
+    "genres": "Comedy, Music", 
+    "release_year": "1956", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hello, Nurse!: Jerri.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady in Red: Jerri's dress when Tom takes her out to the clubs to get noticed.", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Subverted. Just watch the scene.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "unintentional", 
+                    "white", 
+                    "first", 
+                    "innocent"
+                ], 
+                "role": "Woman in White: Perhaps unintentional, but Jerri's white dress in her first scene indicates she is more innocent than she seems.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0049263", 
+    "poster_url": "TheGirlCantHelpIt.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyInRed", 
+                "WomanInWhite", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "HelloNurse", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "TheGirlCantHelpIt", 
+    "name": "The Girl Can't Help It"
+}

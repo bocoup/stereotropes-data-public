@@ -1,0 +1,81 @@
+{
+    "plot": "Young spy Harriet Welsch crosses paths with popular student Marion Hawthorne as the two girls vie to become the official blogger of their high school class.", 
+    "genres": "Comedy, Family", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Skander's costume designer seems to have shades of this.", 
+                "id": "CampGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Marion.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Granola Girl: Janie", 
+                "id": "GranolaGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1545097", 
+    "poster_url": "HarrietTheSpyBlogWars.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoysInTheBand", 
+            "name": "The Boys in the Band", 
+            "poster_url": "TheBoysInTheBand.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Detention", 
+            "name": "Detention", 
+            "poster_url": "Detention.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }
+    ], 
+    "id": "HarrietTheSpyBlogWars", 
+    "name": "Harriet the Spy: Blog Wars"
+}

@@ -1,0 +1,95 @@
+{
+    "plot": "Barbie is an artist who paints her way out of a castle to save her prince.", 
+    "genres": "Animation, Family", 
+    "release_year": "2002", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Barbie at the beginning, who tells this version of Rapunzel to motivate Kelly out of an artist's block.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [
+                    "magic"
+                ], 
+                "role": "Girl in the Tower: Subverted. Gothel keeps Rapunzel as a servant in a pretty spacey manor concealed by a magic wall. It's only when she starts to falsely suspect Rapunzel's dishonesty that she turns Rapunzel's room into a tower.", 
+                "id": "GirlInTheTower"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Graceful Ladies Like Purple: Rapunzel at the masquerade.", 
+                "id": "GracefulLadiesLikePurple"
+            }, 
+            {
+                "adjectives": [
+                    "glamorous"
+                ], 
+                "role": "Wicked Witch: Gothel, albeit a more glamorous one.", 
+                "id": "WickedWitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned:  Gothel.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0313255", 
+    "poster_url": "BarbieAsRapunzel.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlInTheTower", 
+                "GracefulLadiesLikePurple", 
+                "WickedWitch"
+            ], 
+            "shared_count": 3, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "GirlInTheTower", 
+                "GracefulLadiesLikePurple", 
+                "WickedWitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Tangled", 
+            "name": "Tangled", 
+            "poster_url": "Tangled.png"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlInTheTower", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }
+    ], 
+    "id": "BarbieAsRapunzel", 
+    "name": "Barbie as Rapunzel"
+}

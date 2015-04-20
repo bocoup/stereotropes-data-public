@@ -1,0 +1,98 @@
+{
+    "plot": "Ronald Miller is tired of being a nerd, and makes a deal with one of the most popular girls in school to help him break into the \"cool\" clic. He offers her a thousand dollars to pretend to be his girlfriend for a month. It succeeds, but he soon learns that the price of popularity may be higher than he expected.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "awhile"
+                ], 
+                "role": "Bastard Boyfriend - Cindy dates one for awhile after Ron dumps her", 
+                "id": "BastardBoyfriend"
+            }, 
+            {
+                "adjectives": [
+                    "whole", 
+                    "vary"
+                ], 
+                "role": "Jerk Jock - There's a whole pack of them, but they do vary in jerkiness.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "complete"
+                ], 
+                "role": "Beautiful All Along - Ron, complete with The Glasses Gotta Go", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet - Cindy", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092718", 
+    "poster_url": "ptitletkcxshc2.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "SpoiledSweet", 
+                "BastardBoyfriend", 
+                "JerkJock"
+            ], 
+            "shared_count": 4, 
+            "id": "CantBuyMeLove", 
+            "name": "Can't Buy Me Love", 
+            "poster_url": "CantBuyMeLove.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "SpoiledSweet", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanReturns", 
+            "name": "Batman Returns", 
+            "poster_url": "BatmanReturns.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "SpoiledSweet", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "Carrie", 
+            "name": "Carrie", 
+            "poster_url": "Carrie.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }
+    ], 
+    "id": "ptitletkcxshc2", 
+    "name": "Can't Buy Me Love"
+}

@@ -1,0 +1,94 @@
+{
+    "plot": "Stoney and Dave find a caveman (Link) trapped in ice, thaw him out, and show him around town. Although Link is slow to catch on to basic concepts of 20th century life, he has no trouble impressing all the girls and helping Stoney and Dave find the coolness they've been searching for.", 
+    "genres": "Comedy, Fantasy", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Matt Wilson", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "righteous", 
+                    "Bio-Dome", 
+                    "bud-dy"
+                ], 
+                "role": "Pauly Shore's righteous characters in Encino Man, Son in Law, and Bio-Dome were basically a cross between this and The Stoner, bud-dy.", 
+                "id": "SurferDude"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Surfer Dude: Stoney", 
+                "id": "SurferDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "dirty", 
+                    "nice"
+                ], 
+                "role": "Nubile Savage: Initially averted with both Link and his wife, who are dirty, have rotten teeth, and are clothed in lots of furs (they are living through an ice age). However, Link cleans up nice, and at the end, so does his wife.", 
+                "id": "NubileSavage"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104187", 
+    "poster_url": "EncinoMan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NubileSavage", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHungerGames", 
+            "name": "The Hunger Games", 
+            "poster_url": "TheHungerGames.jpg"
+        }, 
+        {
+            "shared": [
+                "SurferDude", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Tamara", 
+            "name": "Tamara", 
+            "poster_url": "Tamara.jpg"
+        }, 
+        {
+            "shared": [
+                "NubileSavage", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Caveman", 
+            "name": "Caveman", 
+            "poster_url": "Caveman.jpg"
+        }, 
+        {
+            "shared": [
+                "SurferDude", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "SurfsUp", 
+            "name": "Surf's Up", 
+            "poster_url": "SurfsUp.jpg"
+        }, 
+        {
+            "shared": [
+                "SurferDude", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }
+    ], 
+    "id": "EncinoMan", 
+    "name": "Encino Man"
+}

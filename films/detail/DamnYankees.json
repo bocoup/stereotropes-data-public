@@ -1,0 +1,96 @@
+{
+    "plot": "A modern-day take on the hit Broadway musical about a guy who makes a deal with the devil in order to see his favorite baseball team become champs.", 
+    "genres": "Comedy, Musical", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Se\u00f1orita"
+                ], 
+                "role": "In Damn Yankees, Lola takes on this persona (\"Se\u00f1orita Lolita Rodriguez Hernando... Miss West Indies of 1957\") in an attempt to seduce Joe.", 
+                "id": "SpicyLatina"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "umpire-berating"
+                ], 
+                "role": "In Damn Yankees, Meg laments that she loses her husband to the Washington Senators \"six months out of every year.\" Her voice is joined by a chorus of other baseball widows (and their umpire-berating husbands).", 
+                "id": "SportsWidow"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "umpire-berating"
+                ], 
+                "role": "Sports Widow: Meg laments that she loses her husband to the Washington Senators \"six months out of every year.\" Her voice is joined by a chorus of other baseball widows (and their umpire-berating husbands).", 
+                "id": "SportsWidow"
+            }, 
+            {
+                "adjectives": [
+                    "unsuccessful", 
+                    "evil"
+                ], 
+                "role": "Lola from Damn Yankees is a subversion. She presents herself in her establishing song \"A Little Brains, A Little Talent\" to be The Vamp to end all Vamps, but her seduction of Joe is unsuccessful, in part because she fails to be evil enough.", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Lola", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt1388334", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "FromDuskTillDawn", 
+            "name": "From Dusk Till Dawn", 
+            "poster_url": "FromDuskTillDawn.jpg"
+        }, 
+        {
+            "shared": [
+                "SpicyLatina"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "Sunrise", 
+            "name": "Sunrise", 
+            "poster_url": "Sunrise.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "DrMabuseTheGambler", 
+            "name": "Dr. Mabuse, the Gambler", 
+            "poster_url": "DrMabuseTheGambler.jpg"
+        }
+    ], 
+    "id": "DamnYankees", 
+    "name": "Damn Yankees"
+}

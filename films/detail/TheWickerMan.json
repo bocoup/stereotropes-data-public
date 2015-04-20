@@ -1,0 +1,89 @@
+{
+    "plot": "While recovering from a tragic accident on the road, the patrolman Edward Malus receives a letter from his former fianc\u00e9e Willow, who left him years ago without any explanation, telling that her daughter Rowan is missing. Edward travels to the private island of Summerisle, where Willow lives in an odd community that plant fruits, and she reveals that Rowan is actually their daughter. Along his investigation with the hostile and unhelpful dwellers, Edward discloses that the locals are pagans, practicing old rituals to improve their harvest, and Rowan is probably alive and being prepared to be sacrificed. When he locates the girl, he finds also the dark truth about the wicker man.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Straight: The innkeeper", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "fit", 
+                    "early"
+                ], 
+                "role": "Stout Strength: Oak. Howie may look more fit, but he doesn't have a chance. The rest of the crowd can just stand around and watch. Hinted at early on in the inn, when we see Oak carrying a grown man around on his shoulders for fun.", 
+                "id": "StoutStrength"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Willow", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0450345", 
+    "similar": [
+        {
+            "shared": [
+                "CampStraight", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "ToyStory3", 
+            "name": "Toy Story 3", 
+            "poster_url": "ToyStory3.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "Igor", 
+            "name": "Igor", 
+            "poster_url": "Igor.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "StoutStrength"
+            ], 
+            "shared_count": 2, 
+            "id": "Shrek", 
+            "name": "Shrek", 
+            "poster_url": "Shrek.jpg"
+        }
+    ], 
+    "id": "TheWickerMan", 
+    "name": "The Wicker Man"
+}

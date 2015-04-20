@@ -1,0 +1,87 @@
+{
+    "plot": "SPECTRE agents under the command of Ernst Blofeld infiltrate a US air force base situated in the UK and steal two Tomahawk cruise missiles. When NATO is held to ransom, the British reactive their \"00\" agents and send James Bond to recapture the warheads and kill Blofeld.", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "jealous", 
+                    "Domestic"
+                ], 
+                "role": "Bastard Boyfriend: Largo. Also insanely jealous, and once he thinks Domino has fallen for Bond turns into a Domestic Abuser.", 
+                "id": "BastardBoyfriend"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Blofeld", 
+                "id": "BeardOfEvil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "many", 
+                    "sole"
+                ], 
+                "role": "Femme Fatale: Fatima Blush, for many the sole reason to see the film. Barbara Carrere doesn't Chew the Scenery, she has a four course meal plus dessert.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0086006", 
+    "poster_url": "NeverSayNeverAgain.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "BastardBoyfriend", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastCircus", 
+            "name": "The Last Circus", 
+            "poster_url": "TheLastCircus.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "FlashGordon", 
+            "name": "Flash Gordon", 
+            "poster_url": "FlashGordon.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDarkKnightRises", 
+            "name": "The Dark Knight Rises", 
+            "poster_url": "TheDarkKnightRises.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }
+    ], 
+    "id": "NeverSayNeverAgain", 
+    "name": "Never Say Never Again"
+}

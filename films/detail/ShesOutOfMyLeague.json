@@ -1,0 +1,87 @@
+{
+    "plot": "Kirk is an average Joe who works as a TSA agent at the Pittsburgh airport with his friends. The status quo of his fairly monotonous life ends when he meets Molly, a smart, kind and gorgeous blonde. Because she's way out of his league (she's a hard 10 and he is but a 5), Kirk knows there's no way on earth she's ever going to fall for him. Or is there...?", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bromantic"
+                ], 
+                "role": "Bromantic Foil: Kirk's friends, but specially Steiner.", 
+                "id": "BromanticFoil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "Hello Nurse: Molly is introduced in a Sexy Walk while several males are Distracted by the Sexy in succession.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [
+                    "meant", 
+                    "fair"
+                ], 
+                "role": "Ms. Fanservice: While Alice Eve is meant to be the de facto centerpiece of the Male Gaze, Krysten Ritter (Molly's friend, Patty) and Lindsay Sloane (Kirk's ex, Marnie) also bring a fair bit of hotness to the table.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0815236", 
+    "poster_url": "ShesOutOfMyLeague.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "RedHotRidingHood", 
+            "name": "Red Hot Riding Hood"
+        }, 
+        {
+            "shared": [
+                "BromanticFoil", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "RedCliff", 
+            "name": "Red Cliff", 
+            "poster_url": "RedCliff.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }
+    ], 
+    "id": "ShesOutOfMyLeague", 
+    "name": "She's Out of My League"
+}

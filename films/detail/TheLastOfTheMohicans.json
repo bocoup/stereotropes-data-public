@@ -1,0 +1,115 @@
+{
+    "plot": "British and French troops do battle in colonial America, with aid from various native American war parties. The British troops enlist the help of local colonial militia men, who are reluctant to leave their homes undefended. A budding romance between a British officer's daughter and an independent man who was reared as a Mohican complicates things for the British officer, as the adopted Mohican pursues his own agenda despite the wrath of different people on both sides of the conflict.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "old", 
+                    "modern", 
+                    "such", 
+                    "other", 
+                    "unstoppable"
+                ], 
+                "role": "Badass Grandpa: Chingachgook, while not old by modern standards, is treated as such by the other characters. When Magua, who up until then had been an unstoppable killing machine, finally fought Chingachgook he didn't stand a chance.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Hawkeye, played by Daniel Day-Lewis. Uncas too.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: The 1992 film. Hawkeye's shirt magically disappears while hunting.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Alice; Cora is clearly concerned about the effect the constant danger surrounding them is having on her mind.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fragile Flower: Alice.", 
+                "id": "FragileFlower"
+            }, 
+            {
+                "adjectives": [
+                    "Last"
+                ], 
+                "role": "Taken almost to parody with Alice (Light Feminine, all the way to golden hair and utter helplessness) and Cora (Dark Feminine, at least as far as her looks and refusal to be anyone's doormat) Munro in The Last of the Mohicans.", 
+                "id": "LightFeminineAndDarkFeminine"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spirited Young Lady: Cora (almost too much so for the conventions of her time, in the book).", 
+                "id": "SpiritedYoungLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104691", 
+    "poster_url": "TheLastOfTheMohicans.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ShirtlessScene", 
+                "BrokenBird", 
+                "MrFanservice"
+            ], 
+            "shared_count": 4, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "MrFanservice", 
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "BrokenBird", 
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BrokenBird", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ShirtlessScene", 
+                "BrokenBird"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }
+    ], 
+    "id": "TheLastOfTheMohicans", 
+    "name": "The Last of the Mohicans"
+}

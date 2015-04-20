@@ -1,0 +1,117 @@
+{
+    "plot": "Romy and Michelle have been through it all including being tortured by the Popular crowd when in high school. When they receive word of a 10 year reunion, they come to realize their lives aren't as impressive as they'd like them to be. Instead of staying home they go to the reunion with business outfits, cell phones, and one heck of a bogus success story.", 
+    "genres": "Comedy", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Billy Christiansen, in that his Dumb Jock qualities and loyalty to Christie allow her to provoke him into being as cruel as she is.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Slacker: Rare female example.", 
+                "id": "TheSlacker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "high"
+                ], 
+                "role": "Alpha Bitch: Christie, even years after high school.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "popular", 
+                    "bitchy", 
+                    "blonde", 
+                    "dark", 
+                    "blonde", 
+                    "high", 
+                    "shallow", 
+                    "A-Crowd"
+                ], 
+                "role": "Blondes are Evil: Averted. The popular, persistently bitchy Christie and Jerk Jock Billy are both brunette, while Michele is blonde and Romy has dark hair that she dyes blonde starting at the end of high school. The rest of the shallow, bullying \"A-Crowd\" are blonde, but this includes  Lisa Luter who has reformed by the time of the reunion.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl Posse: Christie, Kelly, and Lisa. Except Lisa left the group and made something out of herself.", 
+                "id": "GirlPosse"
+            }, 
+            {
+                "adjectives": [
+                    "rich"
+                ], 
+                "role": "Valley Girl: They act so much like one but aren't rich.", 
+                "id": "ValleyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120032", 
+    "poster_url": "RomyAndMichelesHighSchoolReunion.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "JerkJock", 
+                "AlphaBitch", 
+                "GirlPosse"
+            ], 
+            "shared_count": 4, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlPosse", 
+                "JerkJock", 
+                "AlphaBitch", 
+                "ValleyGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "GeekCharming", 
+            "name": "Geek Charming"
+        }, 
+        {
+            "shared": [
+                "GirlPosse", 
+                "JerkJock", 
+                "AlphaBitch", 
+                "ValleyGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "TheFinal", 
+            "name": "The Final", 
+            "poster_url": "TheFinal.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Carrie", 
+            "name": "Carrie", 
+            "poster_url": "Carrie.jpg"
+        }
+    ], 
+    "id": "RomyAndMichelesHighSchoolReunion", 
+    "name": "Romy and Michele's High School Reunion"
+}

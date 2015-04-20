@@ -1,0 +1,115 @@
+{
+    "plot": "The Muppets are back into action in another movie based on a novel written by Robert Louis Stevenson. Kermit the Frog and his colleagues go on a warfare against ruthless pirates. They also share their problem-solving journey on sea to rescue a treasure.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Miss Blubberidge in Muppet Treasure Island. The pirates never had a chance.", 
+                "id": "StoutStrength"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Pig: Miss Piggy", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "several", 
+                    "vicious"
+                ], 
+                "role": "Brawn Hilda: Mrs. Bluberidge personally hands several vicious pirates their asses as her Inn burns down.", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [
+                    "native", 
+                    "wrath", 
+                    "queen", 
+                    "elephant", 
+                    "frantic"
+                ], 
+                "role": "God Save Us from the Queen!: Benjamina Gunn (Miss Piggy) is built up this way by the native boars prior to her entrance. The chief boar tells Smollett and the others, \"Now you face wrath of our queen, Boomshakalaka!\" She then enters the scene riding an elephant, obscured by palm fronds, and serenaded by an increasingly frantic beating of drums and chanting of her name.", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [
+                    "original", 
+                    "such"
+                ], 
+                "role": "Missing Mom: In the original novel, Jim Hawkins' mother was still around. In this movie, no such luck.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "original"
+                ], 
+                "role": "Pirate Girl: Big Fat Ugly Bug-Faced Baby-Eating O'Brien. But we only see her once. Possibly subverted as she has one of the deepest, manliest voices in the cast. Benjamina Gunn qualifies. After all, the character in the original book was part of Flint's crew.", 
+                "id": "PirateGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0117110", 
+    "poster_url": "MuppetTreasureIsland.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PirateGirl", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength", 
+                "BrawnHilda", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "HowToTrainYourDragon", 
+            "name": "How to Train Your Dragon", 
+            "poster_url": "HowToTrainYourDragon.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "KungFuPanda", 
+            "name": "Kung Fu Panda", 
+            "poster_url": "KungFuPanda.jpg"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "NausicaaOfTheValleyOfTheWind", 
+            "name": "Nausica\u00e4 of the Valley of the Wind", 
+            "poster_url": "NausicaaOfTheValleyOfTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "MuppetTreasureIsland", 
+    "name": "Muppet Treasure Island"
+}

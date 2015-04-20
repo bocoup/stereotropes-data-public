@@ -1,0 +1,94 @@
+{
+    "plot": "James Bond 007 is on the search for a Russian decoding machine, known as Lektor. Bond needs to find this machine, before the evil SPECTRE organization discovers it first. Whilst being romantically linked with Russian girl, Tatiana Romanova, Bond sneaks his way around Istanbul, whilst each SPECTRE agent tries to pick him off, including the over powering Donald 'Red' Grant and ex-KGB agent Rosa Klebb who knows all the tricks in the books and even possesses an incredible poison tipped shoe!", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1963", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Belly Dancer: In the gypsy camp, as well as the opening credits.", 
+                "id": "BellyDancer"
+            }, 
+            {
+                "adjectives": [
+                    "popular", 
+                    "second", 
+                    "especial", 
+                    "former", 
+                    "golden"
+                ], 
+                "role": "From Russia with Love: there's one under the opening credits and another in a dance scene at a gypsy camp.\n This seems to be popular in James Bond films, since they also feature in Octopussy and The Man with the Golden Gun.  (The one in the second film bears especial remark. She was the lover of one of the villain's former victims, and after he died, started wearing the golden bullet used to kill him in her navel when she performed. Bond needed the bullet as evidence and... Well, suffice to say, getting it from her wasn't easy.)\n Also in Casino Royale (1967) - no, the 1967 one - which was, err... a movie with James Bond in it.", 
+                "id": "BellyDancer"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Gypsy Woman: Two of them. They end up together in James's bed.", 
+                "id": "HotGypsyWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The two Gypsy girls who fight over a lover in From Russia with Love. The situation is dissolved with James Bond's charm.", 
+                "id": "HotGypsyWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Evil Lesbian: Implied with Klebb when she caresses Tatiana's hair while saying \"a labour of love\".", 
+                "id": "PsychoLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0057076", 
+    "poster_url": "FromRussiaWithLove.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BellyDancer", 
+                "HotGypsyWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "VanHelsing", 
+            "name": "Van Helsing"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian", 
+                "HotGypsyWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "HeavenlyCreatures", 
+            "name": "Heavenly Creatures", 
+            "poster_url": "HeavenlyCreatures.jpg"
+        }, 
+        {
+            "shared": [
+                "BellyDancer"
+            ], 
+            "shared_count": 1, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "BellyDancer"
+            ], 
+            "shared_count": 1, 
+            "id": "CasinoRoyale1967", 
+            "name": "Casino Royale ", 
+            "poster_url": "CasinoRoyale1967.jpg"
+        }, 
+        {
+            "shared": [
+                "BellyDancer"
+            ], 
+            "shared_count": 1, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }
+    ], 
+    "id": "FromRussiaWithLove", 
+    "name": "From Russia with Love"
+}

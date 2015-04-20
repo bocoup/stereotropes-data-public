@@ -1,0 +1,66 @@
+{
+    "plot": "Based on the fairy tale by The Brothers Grimm. Hansel and Gretel are trapped in the deceptively decorated house of the witch Griselda who wishes to fatten Hansel so that he may be baked into a delicious gingerbread treat.", 
+    "genres": "Family, Musical, Fantasy", 
+    "release_year": "1987", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "bear", 
+                    "entire"
+                ], 
+                "role": "Faux Action Girl: Gretel.  We are told she can handle herself and she has her moments but her brother, who suffers a bear trap wound on his leg for the entire film does more than she does.", 
+                "id": "FauxActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093144", 
+    "poster_url": "HanselAndGretel2013.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ShrekTheThird", 
+            "name": "Shrek the Third", 
+            "poster_url": "ShrekTheThird.jpg"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ResidentEvilDegeneration", 
+            "name": "Resident Evil Degeneration"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Speed2CruiseControl", 
+            "name": "Speed 2: Cruise Control", 
+            "poster_url": "Speed2CruiseControl.jpg"
+        }
+    ], 
+    "id": "HanselAndGretel2013", 
+    "name": "Hansel And Gretel"
+}

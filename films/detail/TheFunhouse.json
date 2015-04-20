@@ -1,0 +1,97 @@
+{
+    "plot": "Two young couples on a double date go to a mysterious carnival. As a prank they decide to spend the night in the funhouse. When they witness a brutal murder, they suddenly find themselves in horrific danger.", 
+    "genres": "Horror", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Amy.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hard-Drinking"
+                ], 
+                "role": "Hard-Drinking Party Girl: Ellen", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman: Amy for most of the time.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082427", 
+    "poster_url": "TheFunhouse.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackChristmas1974", 
+            "name": "Black Christmas ", 
+            "poster_url": "BlackChristmas1974.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "They", 
+            "name": "They", 
+            "poster_url": "They.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "BigBadWolves", 
+            "name": "Big Bad Wolves", 
+            "poster_url": "BigBadWolves.jpg"
+        }
+    ], 
+    "id": "TheFunhouse", 
+    "name": "The Funhouse"
+}

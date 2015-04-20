@@ -1,0 +1,88 @@
+{
+    "plot": "At the University of Wisconsin in Madison, Paige, a pre-med student and a farm girl from Manitowoc, meets Eddie, a fellow student from Denmark, whom she first dislikes but later accepts, likes, and loves. Paige takes Eddie to her home for the Thanksgiving weekend. Paparazzi find and photograph the couple, and Paige learns that Eddie is truly Crown Prince Edvard. Failing health causes King Haraald to abdicate in favor of Edvard, so Eddie returns to Copenhagen, then Paige follows her heart to Copenhagen, where Edvard warmly welcomes her, takes her to the castle, and introduces her to the royal family. Queen Rosalind first expresses opposition to Paige but later relents; King Haraald soon warms to her; Edvard proposes, Paige accepts, and he gives her a ring. However, Paige recalls her previous dream of going to Doctors Without Borders, so she breaks off and returns to school. Still, though, Edvard shows up at Paige's graduation and suggests an alternate plan.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "duke-lord"
+                ], 
+                "role": "Played straight in the movie The Prince And Me as Prince Edvard goes from having a girl on each arm to \"Eddie\" who quotes William Shakespeare like some duke-lord guy.", 
+                "id": "PrinceCharming"
+            }, 
+            {
+                "adjectives": [
+                    "play-boy", 
+                    "duke-lord"
+                ], 
+                "role": "Prince Charming: Eddie is a play-boy royal who quotes Shakespeare like some duke-lord guy.", 
+                "id": "PrinceCharming"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Eddie from The Prince And Me just didn't want to be Prince Edvard for once in his life.", 
+                "id": "RebelPrince"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Rebel Prince: Eddie goes to college to get away from his life as a prince", 
+                "id": "RebelPrince"
+            }
+        ]
+    }, 
+    "imdbid": "tt0337697", 
+    "poster_url": "ThePrinceAndMe.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "RebelPrince", 
+                "PrinceCharming"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelPrince", 
+                "PrinceCharming"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelPrince", 
+                "PrinceCharming"
+            ], 
+            "shared_count": 2, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelPrince"
+            ], 
+            "shared_count": 1, 
+            "id": "CinderellaIIIATwistInTime", 
+            "name": "Cinderella III: A Twist in Time", 
+            "poster_url": "CinderellaIIIATwistInTime.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelPrince"
+            ], 
+            "shared_count": 1, 
+            "id": "TheSwordAndTheSorcerer", 
+            "name": "The Sword and the Sorcerer", 
+            "poster_url": "TheSwordAndTheSorcerer.jpg"
+        }
+    ], 
+    "id": "ThePrinceAndMe", 
+    "name": "The Prince And Me"
+}

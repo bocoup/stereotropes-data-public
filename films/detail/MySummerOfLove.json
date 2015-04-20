@@ -1,0 +1,84 @@
+{
+    "plot": "A tale of obsession and deception, and the struggle for love and faith in a world where both seem impossible. The film charts the emotional and physical hothouse effects that bloom one summer for two young women: Mona, behind a spiky exterior, hides an untapped intelligence and a yearning for something beyond the emptiness of her daily life; Tamsin is well-educated, spoiled and cynical. Complete opposites, each is wary of the other's differences when they first meet, but this coolness soon melts into mutual fascination, amusement and attraction. Adding volatility is Mona's older brother Phil, who has renounced his criminal past for religious fervor - which he tries to impose upon his sister. Mona, however, is experiencing her own rapture. \"We must never be parted,\" Tamsin intones to Mona but can Mona completely trust her?", 
+    "genres": "Drama, Romance", 
+    "release_year": "2004", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Fille Fatale: Tamsin.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tamsin in My Summer Of Love.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Mona's mother died of a cancer.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Psycho Lesbian:  Tamsin.", 
+                "id": "PsychoLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0382189", 
+    "poster_url": "MySummerOfLove.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FilleFatale", 
+                "PsychoLesbian", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheTimeTravelersWife", 
+            "name": "The Time Traveler's Wife", 
+            "poster_url": "TheTimeTravelersWife.jpg"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "FilleFatale", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "GreatExpectations", 
+            "name": "Great Expectations", 
+            "poster_url": "GreatExpectations.jpg"
+        }, 
+        {
+            "shared": [
+                "FilleFatale", 
+                "PsychoLesbian"
+            ], 
+            "shared_count": 2, 
+            "id": "JennifersBody", 
+            "name": "Jennifer's Body", 
+            "poster_url": "JennifersBody.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "MySummerOfLove", 
+    "name": "My Summer Of Love"
+}

@@ -1,0 +1,75 @@
+{
+    "plot": "In the Arizona desert, Professor Gerald Deemer is experimenting with growth hormones in the hopes of finding a way to increase the world's food supply. His partner in the project was recently found dead in the desert, suffering from a disease that normally takes years to advance but in his case seems to have afflicted him in only a few days. The local doctor, Matt Hastings, is puzzled by the strange case and with Deemer's recently arrived - and very pretty - assistant Stephanie Clayton tries to figure out what is going on. When cattle remains are found in the countryside, the evidence points to a giant tarantula as the culprit.", 
+    "genres": "Horror, Sci-Fi", 
+    "release_year": "1955", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Stephanie \"Steve\" Clayton.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman: Steve", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0048696", 
+    "poster_url": "Tarantula.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "KingdomOfTheSpiders", 
+            "name": "Kingdom of the Spiders", 
+            "poster_url": "KingdomOfTheSpiders.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "Them", 
+            "name": "Them!", 
+            "poster_url": "Them.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "LakePlacid", 
+            "name": "Lake Placid", 
+            "poster_url": "LakePlacid.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }
+    ], 
+    "id": "Tarantula", 
+    "name": "Tarantula"
+}

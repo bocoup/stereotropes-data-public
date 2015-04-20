@@ -1,0 +1,67 @@
+{
+    "plot": "George is a very successful stand up comedian who learns that he has an untreatable blood disorder and is given less than a year to live. Ira is a struggling up-and-coming stand up comedian who works at a deli and has yet to figure out his onstage persona. One night, these two perform at the same club and George takes notice of Ira. George hires Ira to be his semi-personal assistant as well as his friend.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "popular"
+                ], 
+                "role": "Kavorka Man: George, his celebrity status makes him pretty popular with the ladies.", 
+                "id": "KavorkaMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt1201167", 
+    "poster_url": "FunnyPeople.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCommitments", 
+            "name": "The Commitments", 
+            "poster_url": "TheCommitments.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }
+    ], 
+    "id": "FunnyPeople", 
+    "name": "Funny People"
+}

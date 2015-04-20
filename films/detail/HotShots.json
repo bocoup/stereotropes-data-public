@@ -1,0 +1,122 @@
+{
+    "plot": "Topper Harley, a top gun fighter pilot, is recalled to serve on the SS Essess. Topper's mission is to destroy Saddam Hussein's nuclear plants. Unfortunately, Topper is psychologically imbalanced and is sure to crack under pressure.", 
+    "genres": "Comedy", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "furious", 
+                    "bad"
+                ], 
+                "role": "A Father to His Men: Spoofed: Admiral Benson is furious that the bad guy risked his men's lives in battle, because \"That's my job!\".", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty : \"Your ego is writing checks your body can't cash\"", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Parodied in Hot Shots! :", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Instant Soprano: Following an extreme Groin Attack.", 
+                "id": "InstantSoprano"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "second", 
+                    "first", 
+                    "funny"
+                ], 
+                "role": "Ramada's Action Girl upgrade is done shamelessly to fit her into the second movie. In the first movie, she is only a psychiatrist (well that and the lounge singing, welding, trick horseback riding, and performing gymnastics), here she knows kickboxing. Of course, Topper goes from being a pilot to a commando, so this is about being funny instead of consistent.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "mad"
+                ], 
+                "role": "One of the Boys: For a fun game, try to figure out if Kowalski is treated as if she was a man at every turn because somehow everyone thinks she is one or because there's some mad gender equality policy at work in the service.", 
+                "id": "OneOfTheBoys"
+            }, 
+            {
+                "adjectives": [
+                    "half-Italian", 
+                    "half-Greek", 
+                    "close"
+                ], 
+                "role": "Spicy Latina: Ramada. Not Spanish (the actress playing her was half-Italian and half-Greek), but damn close.", 
+                "id": "SpicyLatina"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Kowalski and Ramada, respectively.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102059", 
+    "poster_url": "HotShots.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "ActionGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "OneOfTheBoys", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty", 
+                "ActionGirl", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 3, 
+            "id": "StarshipTroopers", 
+            "name": "Starship Troopers", 
+            "poster_url": "StarshipTroopers.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "HotShots", 
+    "name": "Hot Shots!"
+}

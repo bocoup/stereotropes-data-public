@@ -1,0 +1,72 @@
+{
+    "plot": "A man working at his parents' motel in the Catskills inadvertently sets in motion the generation-defining concert in the summer of 1969.", 
+    "genres": "Comedy, Drama, Music", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Elliot", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [
+                    "interested"
+                ], 
+                "role": "Elliot in Taking Woodstock as well as the construction worker he's interested in.", 
+                "id": "StraightGay"
+            }
+        ]
+    }, 
+    "imdbid": "tt1127896", 
+    "poster_url": "TakingWoodstock.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionInWinter", 
+            "name": "The Lion in Winter", 
+            "poster_url": "TheLionInWinter.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "ValentinesDay", 
+            "name": "Valentine's Day", 
+            "poster_url": "ValentinesDay.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "Maurice", 
+            "name": "Maurice", 
+            "poster_url": "Maurice.jpg"
+        }
+    ], 
+    "id": "TakingWoodstock", 
+    "name": "Taking Woodstock"
+}

@@ -1,0 +1,68 @@
+{
+    "plot": "An amusement park for rich vacationers. The park provides its customers a way to live out their fantasies through the use of robots that provide anything they want. Two of the vacationers choose a wild west adventure. However, after a computer breakdown, they find that they are now being stalked by a rogue robot gun-slinger.", 
+    "genres": "Action, Sci-Fi, Thriller", 
+    "release_year": "1973", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Almost all of the women in Westworld (and Roman World and Medieval World too).", 
+                "id": "RobotGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The flight to Delos (the resort of which Westworld is a part) has a couple of these. The twist? They're robots.", 
+                "id": "SexyStewardess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070909", 
+    "poster_url": "Westworld.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "RobotGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "RobotGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "RobotGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Movie43", 
+            "name": "Movie 43", 
+            "poster_url": "Movie43.jpg"
+        }, 
+        {
+            "shared": [
+                "SexyStewardess"
+            ], 
+            "shared_count": 1, 
+            "id": "ChungkingExpress", 
+            "name": "Chungking Express", 
+            "poster_url": "ChungkingExpress.jpg"
+        }, 
+        {
+            "shared": [
+                "RobotGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "Westworld", 
+    "name": "Westworld"
+}

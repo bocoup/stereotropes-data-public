@@ -1,0 +1,73 @@
+{
+    "plot": "When 12-year-old Pamela goes on vacation with her family to a bed and breakfast, the girl who lives next door tells her the \"true story\" of the Tooth Fairy: Many years earlier, the evil Tooth Fairy slaughtered a countless number of children to take their teeth, and now she has returned to kill Pamela and anyone else who gets in her way.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Action Hero Babysitter: Derek Thompson", 
+                "id": "ActionHeroBabysitter"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Mom: Ashley Judd!", 
+                "id": "HotMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0473553", 
+    "poster_url": "TheToothFairy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HotMom"
+            ], 
+            "shared_count": 1, 
+            "id": "SympathyForLadyVengeance", 
+            "name": "Sympathy for Lady Vengeance", 
+            "poster_url": "SympathyForLadyVengeance.jpg"
+        }, 
+        {
+            "shared": [
+                "HotMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Premonition", 
+            "name": "Premonition", 
+            "poster_url": "Premonition.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionHeroBabysitter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCowboys", 
+            "name": "The Cowboys", 
+            "poster_url": "TheCowboys.jpg"
+        }, 
+        {
+            "shared": [
+                "HotMom"
+            ], 
+            "shared_count": 1, 
+            "id": "SesameStreet", 
+            "name": "Sesame Street"
+        }, 
+        {
+            "shared": [
+                "HotMom"
+            ], 
+            "shared_count": 1, 
+            "id": "KenPark", 
+            "name": "Ken Park", 
+            "poster_url": "KenPark.jpg"
+        }
+    ], 
+    "id": "TheToothFairy", 
+    "name": "The Tooth Fairy"
+}

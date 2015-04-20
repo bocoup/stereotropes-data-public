@@ -1,0 +1,105 @@
+{
+    "plot": "This is the story of Enid and Rebecca after they finish the high school. Both have problems relating to people and they spend their time hanging around and bothering creeps. When they meet Seymour who is a social outsider who loves to collect old 78 records, Enid's life will change forever.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2001", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "stuck-up", 
+                    "junior"
+                ], 
+                "role": "In Ghost World, Enid and Becky's annoying, stuck-up classmates Melorra and Naomi are disparagingly referred to by Enid as \"the junior JAPs of America.\"", 
+                "id": "JewishAmericanPrincess"
+            }, 
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Manic Pixie Dream Girl: Subverted. Enid genuinely tries to be this for Seymour, but She ends up ruining his life and her own in the process.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "perspective", 
+                    "sarcastic", 
+                    "shy", 
+                    "obsessive", 
+                    "own"
+                ], 
+                "role": "Subverted with Enid from the movie version of Ghost World: told from the perspective of a sarcastic teen girl as she teaches Seymour, a shy, obsessive older man how to take chances and enjoy living; of course this destroys his life. Enid leaves to build her own life somewhere else. Seymour ends up in therapy.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ghost World: Enid.", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Seymour's mother.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Enid, and to some extent Rebecca from Ghost World.", 
+                "id": "StrangeGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0162346", 
+    "poster_url": "GhostWorld.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "Meganekko", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoyWhoCriedWerewolf", 
+            "name": "The Boy Who Cried Werewolf", 
+            "poster_url": "TheBoyWhoCriedWerewolf.jpg"
+        }, 
+        {
+            "shared": [
+                "Meganekko", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHitchhikersGuideToTheGalaxy", 
+            "name": "The Hitchhiker's Guide to the Galaxy"
+        }, 
+        {
+            "shared": [
+                "StrangeGirl", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }
+    ], 
+    "id": "GhostWorld", 
+    "name": "Ghost World"
+}

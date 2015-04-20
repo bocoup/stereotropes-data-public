@@ -1,0 +1,92 @@
+{
+    "plot": "A young woman who's attempting to find her place in the world battles with her controlling mother and a womanizing husband finds comfort and confusion with the appearance of her childhood friend. It is a zappy movie that emphasizes self-actualization.", 
+    "genres": "Comedy, Drama, Fantasy", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Murray", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "male", 
+                    "hot"
+                ], 
+                "role": "Fanservice Extra: A male example. A really hot waiter wearing only a toga accidentally gets stripped by Fred at one point.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Polly, Polly, Polly.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Polly.", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0101775", 
+    "poster_url": "DropDeadFred.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MyBelovedSmother", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWitchesOfEastwick", 
+            "name": "The Witches of Eastwick", 
+            "poster_url": "TheWitchesOfEastwick.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRef", 
+            "name": "The Ref", 
+            "poster_url": "TheRef.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "DetroitRockCity", 
+            "name": "Detroit Rock City", 
+            "poster_url": "DetroitRockCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "MonsterInLaw", 
+            "name": "Monster-in-Law", 
+            "poster_url": "MonsterInLaw.jpg"
+        }
+    ], 
+    "id": "DropDeadFred", 
+    "name": "Drop Dead Fred"
+}

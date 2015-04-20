@@ -1,0 +1,62 @@
+{
+    "plot": "A boy named Charlie Rockit needs $50,000 dollars to fix his aunt and uncle's tractor engine, so Chuck E. and friends go to the Galaxy 5000 to win it in a race.", 
+    "genres": "Comedy, Family, Musical", 
+    "release_year": "1999", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Helen Hen", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt2464918", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "BarbieAFashionFairytale", 
+            "name": "Barbie A Fashion Fairytale"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "WomanInTheMoon", 
+            "name": "Woman in the Moon", 
+            "poster_url": "WomanInTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }
+    ], 
+    "id": "ChuckECheeseInTheGalaxy5000", 
+    "name": "Chuck E. Cheese in the Galaxy"
+}

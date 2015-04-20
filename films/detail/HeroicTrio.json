@@ -1,0 +1,80 @@
+{
+    "plot": "The all-female Heroic Trio are Tung (Wonder Woman), Chat (Thief Catcher), a mercenary, and Ching (Invisible Woman). Initially, they're on opposing sides - the invisible Ching is kidnapping newborn male babies for her evil master, Tung is trying to solve the crime (rather more effectively than her policeman husband, who is unaware of her secret identity), and Chat, who was formerly employed by Ching's evil master, is trying to sell her services and inside knowledge to the police. But all three have something in common buried deep in their past...", 
+    "genres": "Action, Fantasy", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "appropriate", 
+                    "heavy", 
+                    "guady", 
+                    "coat/mask"
+                ], 
+                "role": "Sissy Villain - Mr. Kim seems more appropriate as a Sailor Moon villain. He giggles a lot, has a heavy case of Ho Yay with his understudy, and wears a guady 1700's era long coat/mask combo.", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "kid"
+                ], 
+                "role": "Mama Bear - Wonder Woman has a kid now. Don't mess with her.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0105619", 
+    "poster_url": "HeroicTrio.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SissyVillain", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Underworld", 
+            "name": "Underworld", 
+            "poster_url": "Underworld.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSecretOfNIMH", 
+            "name": "The Secret of NIMH", 
+            "poster_url": "TheSecretOfNIMH.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }
+    ], 
+    "id": "HeroicTrio", 
+    "name": "Heroic Trio"
+}

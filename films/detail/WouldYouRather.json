@@ -1,0 +1,70 @@
+{
+    "plot": "Desperate to help her ailing brother, a young woman unknowingly agrees to compete in a deadly game of \"Would You Rather,\" hosted by a sadistic aristocrat.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "former", 
+                    "operative", 
+                    "skilled", 
+                    "dead"
+                ], 
+                "role": "Bevan the butler in Would You Rather. He's a former MI-5 operative, skilled in torture techniques, and has absolutely no qualms about shooting people dead.", 
+                "id": "BattleButler"
+            }
+        ]
+    }, 
+    "imdbid": "tt1999995", 
+    "poster_url": "WouldYouRather.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler"
+            ], 
+            "shared_count": 1, 
+            "id": "DrMabuseTheGambler", 
+            "name": "Dr. Mabuse, the Gambler", 
+            "poster_url": "DrMabuseTheGambler.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }
+    ], 
+    "id": "WouldYouRather", 
+    "name": "Would You Rather"
+}

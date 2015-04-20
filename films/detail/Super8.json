@@ -1,0 +1,129 @@
+{
+    "plot": "In the summer of 1979, a group of friends in a small Ohio town witness a catastrophic train crash while making a super 8 movie and soon suspect that it was not an accident. Shortly after, unusual disappearances and inexplicable events begin to take place in town, and the local Deputy tries to uncover the truth - something more terrifying than any of them could have imagined.", 
+    "genres": "Mystery, Sci-Fi, Thriller", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "same"
+                ], 
+                "role": "Dogged Nice Guy: Joe towards Alice. It turns out Charles had the same idea too.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "respective", 
+                    "other"
+                ], 
+                "role": "Overprotective Dad: Joe's and Alice's fathers when they forbid their respective children from spending time with the other.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tunnel King: The creature is this.", 
+                "id": "TunnelKing"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "due", 
+                    "only", 
+                    "able"
+                ], 
+                "role": "Bratty Teenage Daughter: Charles' sister, Jennifer, who is constantly complaining to their mother about wanting to go to a girl's party, but can't, due to babysitting duties. Used as a plot point, it's the only way Charles is able to get them places during the events of the film by promising to babysit instead.", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cute Monster Girl: Alice, after Joe applies the zombie make-up.", 
+                "id": "CuteMonsterGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Alice when she is captured by the alien.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "dead"
+                ], 
+                "role": "Missing Mom: Joe's mother is dead, and Alice's mother has left her family.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "Chick/Sixth"
+                ], 
+                "role": "The Chick/Sixth Ranger: Alice", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1650062", 
+    "poster_url": "Super8.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "DamselInDistress", 
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "ClashOfTheTitans", 
+            "name": "Clash of the Titans", 
+            "poster_url": "ClashOfTheTitans.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "OverprotectiveDad", 
+                "TheChick", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "TransformersAgeOfExtinction", 
+            "name": "Transformers: Age of Extinction", 
+            "poster_url": "TransformersAgeOfExtinction.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "DoggedNiceGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "OverprotectiveDad", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "BrattyTeenageDaughter", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "AGoofyMovie", 
+            "name": "A Goofy Movie", 
+            "poster_url": "AGoofyMovie.jpg"
+        }
+    ], 
+    "id": "Super8", 
+    "name": "Super 8"
+}

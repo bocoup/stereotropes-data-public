@@ -1,0 +1,79 @@
+{
+    "plot": "The world's weather seems to have changed dramatically with violent storms everywhere and long dormant volcanoes suddenly erupting. No one is sure what is happening or why but when American intelligence chief Cramden loses yet another team of agents, there appears to be only one man who can do the job: Derek Flint, former super spy, incredibly rich and the ultimate ladies man. Despite Cramden's concerns, Flint is on the job and soon discovers that the Earth's weather is under the control of a secret organization known as GALAXY whose scientists are looking to pacify the world and devote humankind to scientific pursuits.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1966", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disguised in Drag: By Cramden of all people.", 
+                "id": "DisguisedInDrag"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Happens with Galaxy agent Gila in the James Bond parody Our Man Flint.", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High Heel-Face Turn/Sex Face Turn: Gila, of course.", 
+                "id": "HighHeelFaceTurn"
+            }
+        ]
+    }, 
+    "imdbid": "tt0059557", 
+    "poster_url": "OurManFlint.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "DiamondsAreForever", 
+            "name": "Diamonds Are Forever", 
+            "poster_url": "DiamondsAreForever.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "LupinIIIOperationReturnTheTreasure", 
+            "name": "Lupin III Operation Return The Treasure"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "SororityBoys", 
+            "name": "Sorority Boys", 
+            "poster_url": "SororityBoys.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }
+    ], 
+    "id": "OurManFlint", 
+    "name": "Our Man Flint"
+}

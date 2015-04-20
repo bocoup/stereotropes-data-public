@@ -1,0 +1,77 @@
+{
+    "plot": "Two high school boys discover an imprisoned woman in an abandoned mental asylum who cannot die.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "eponymous", 
+                    "good-looking"
+                ], 
+                "role": "The eponymous character of Dead Girl is pretty good-looking... although probably not dating material, given everything that happens after she's found.", 
+                "id": "CuteMonsterGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0896534", 
+    "poster_url": "Deadgirl.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "MonstersUniversity", 
+            "name": "Monsters University", 
+            "poster_url": "MonstersUniversity.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteMonsterGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Gremlins", 
+            "name": "Gremlins", 
+            "poster_url": "Gremlins.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "Deadgirl", 
+    "name": "Deadgirl"
+}

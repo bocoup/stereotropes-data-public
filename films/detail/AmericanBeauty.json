@@ -1,0 +1,156 @@
+{
+    "plot": "Lester and Carolyn Burnham are on the outside, a perfect husband and wife, in a perfect house, in a perfect neighborhood. But inside, Lester is slipping deeper and deeper into a hopeless depression. He finally snaps when he becomes infatuated with one of his daughter's friends. Meanwhile, his daughter Jane is developing a happy friendship with a shy boy-next-door named Ricky, who lives with an abusive father.", 
+    "genres": "Drama", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Armoured Closet Gay: Col. Fitts.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [
+                    "homophobic"
+                ], 
+                "role": "Col. Fitts from American Beauty, especially the homophobic part, and violent.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [
+                    "American"
+                ], 
+                "role": "Played with in American Beauty. Kevin Spacey's character is initially a depressing version of this, but as the movie continues he manages to shirk the mantle.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "Chivalrous", 
+                    "squick-inducing", 
+                    "little"
+                ], 
+                "role": "Chivalrous Pervert: Lester's obsession over Angela is pretty squick-inducing, but when he actually has a chance to fulfill his fantasy he stops once he realizes that for all her bravado Angela is still an inexperienced little girl.", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [
+                    "same", 
+                    "sexual"
+                ], 
+                "role": "Lester Burnham from American Beauty. He spends the movie obsessing over a Fille Fatale girl who is the same age as his daughter. When he actually gets a chance with her, he stops once he finds out she's actually a virgin, and her suggestions of sexual prowess were made up.", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Straight Gay: The two Jims.  Col. Fitts, a raging homophobe who is actually deeply closeted, doesn't even realize they're gay at first.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "unhappy", 
+                    "desirable"
+                ], 
+                "role": "Done subtly in American Beauty with Jane and inverted with Angela. At the start of the film Thora Birch wears a lot of makeup to reflect how unhappy she is. As she starts dating Ricky and becomes a bit happier, she gradually wears less makeup as the film goes on. Mena Suvari then wears gradually more makeup as the film goes on, to reflect us finding out why she isn't so desirable.", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [
+                    "sexual"
+                ], 
+                "role": "Angela in American Beauty, played by Mena Suvari, is one of these \u2014  except she never actually did anything; the tales of her sexual conquests of older men were fabrications, and Lester gently turned her down upon learning she was still a virgin.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [
+                    "full"
+                ], 
+                "role": "Fille Fatale: Subverted, if not full on Deconstructed, with Angela.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [
+                    "Gaussian"
+                ], 
+                "role": "Gaussian Girl: Angela in Lester's fantasies about her.", 
+                "id": "GaussianGirl"
+            }, 
+            {
+                "adjectives": [
+                    "massive", 
+                    "romantic"
+                ], 
+                "role": "Lester's visions of Angela in American Beauty. Due to the massive age gap involved, it stops being romantic and comes across as Squicky.", 
+                "id": "GaussianGirl"
+            }, 
+            {
+                "adjectives": [
+                    "vapid", 
+                    "good", 
+                    "other"
+                ], 
+                "role": "In American Beauty both Jane and Angela are cheerleaders. While Angela is incredibly vapid and self obsessed, we get to see her Hidden Depths and she seems good natured enough. Jane in any other film would be a Cool Loser but is mentioned to genuinely care about cheerleading.", 
+                "id": "TheCheerleader"
+            }
+        ]
+    }, 
+    "imdbid": "tt0169547", 
+    "poster_url": "AmericanBeauty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GaussianGirl", 
+                "StraightGay", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "FilleFatale", 
+                "BeautifulAllAlong"
+            ], 
+            "shared_count": 2, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCheerleader", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFlintstones", 
+            "name": "The Flintstones", 
+            "poster_url": "TheFlintstones.jpg"
+        }
+    ], 
+    "id": "AmericanBeauty", 
+    "name": "American Beauty"
+}

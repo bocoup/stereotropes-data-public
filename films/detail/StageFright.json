@@ -1,0 +1,75 @@
+{
+    "plot": "Jonathan Cooper is wanted by the police who suspect him of killing his lover's husband. His friend Eve Gill offers to hide him and Jonathan explains to her that his lover, actress Charlotte Inwood is the real murderer. Eve decides to investigate for herself, but when she meets the detective in charge of the case, she starts to fall in love.", 
+    "genres": "Thriller", 
+    "release_year": "1950", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Dude: Jonathan. Wanted by the police and in desperate need of protection.", 
+                "id": "DistressedDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Charlotte Inwood. The 49-year-old Dietrich gives a sexier performance than Wyman.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0042994", 
+    "poster_url": "StageFright.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DistressedDude", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "FlashGordon", 
+            "name": "Flash Gordon", 
+            "poster_url": "FlashGordon.jpg"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWorldIsNotEnough", 
+            "name": "The World Is Not Enough", 
+            "poster_url": "TheWorldIsNotEnough.jpg"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "DickTracy", 
+            "name": "Dick Tracy", 
+            "poster_url": "DickTracy.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }
+    ], 
+    "id": "StageFright", 
+    "name": "Stage Fright"
+}

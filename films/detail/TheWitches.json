@@ -1,0 +1,90 @@
+{
+    "plot": "A young boy, recently orphaned, is taken to England by his grandmother. At a hotel in which they are staying, a group of witches have gathered to prepare a plot to rid England of all children.", 
+    "genres": "Adventure, Fantasy, Horror", 
+    "release_year": "1990", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "former"
+                ], 
+                "role": "Cool Old Lady: The grandmother is an awesome and wise former Witch Hunter who smokes cigars.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [
+                    "cigar-smoking", 
+                    "monster-hunter"
+                ], 
+                "role": "The grandmother from The Witches, a cigar-smoking retired monster-hunter.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: The Grand High Witch of All The World", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "different"
+                ], 
+                "role": "Wicked Witch: For the most part, although they are quite different as far as witches go.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0100944", 
+    "poster_url": "TheWitches.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFamilyThatPreys", 
+            "name": "The Family That Preys", 
+            "poster_url": "TheFamilyThatPreys.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "WickedWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "WickedWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "WickedWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "ParaNorman", 
+            "name": "ParaNorman", 
+            "poster_url": "ParaNorman.jpg"
+        }
+    ], 
+    "id": "TheWitches", 
+    "name": "The Witches"
+}

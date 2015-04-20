@@ -1,0 +1,88 @@
+{
+    "plot": "Business is slow for Terry Leather, a London car dealer, married with children. He's an artful dodger, so Martine, a former model with a thing for him, brings him her scheme: a bank's alarm is off for a couple weeks, so let's tunnel into the vault. He assembles a team, not realizing her real goal is a safe-deposit box with compromising photos of a royal: she needs the photos to trade for avoiding a jail sentence - and MI-5, or is it MI-6, is pulling the strings two steps removed. A Trinidadian thug, a high-end bordello owner, and a pornographer also have things stored in the vault, so the break-in threatens many a powerful personage. Is there any way these amateurs can pull it off?", 
+    "genres": "Crime, Drama, Thriller", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "criminal"
+                ], 
+                "role": "Angry Black Man: Michael X, though he's actually a sociopath who uses black activism as a cover for his criminal activities.", 
+                "id": "AngryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Martine.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Naughty Nurse Outfit (the porn film)", 
+                "id": "NaughtyNurseOutfit"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick - Martine", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0200465", 
+    "poster_url": "TheBankJob.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AngryBlackMan", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "AngryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "JesusChristSuperstar", 
+            "name": "Jesus Christ Superstar", 
+            "poster_url": "JesusChristSuperstar.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Red", 
+            "name": "Red", 
+            "poster_url": "Red.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "AngryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AnimalHouse", 
+            "name": "Animal House", 
+            "poster_url": "AnimalHouse.jpg"
+        }
+    ], 
+    "id": "TheBankJob", 
+    "name": "The Bank Job"
+}

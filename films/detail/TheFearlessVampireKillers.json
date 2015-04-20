@@ -1,0 +1,116 @@
+{
+    "plot": "The elderly bat researcher, professor Abronsius and his assistant, Alfred, go to a remote Transylvanian village looking for vampires. Alfred falls in love with the inn-keeper's young daughter Sarah. However, she has been spotted by the mysterious count Krolock who lives in a dark and creepy castle outside the village...", 
+    "genres": "Comedy, Horror", 
+    "release_year": "1967", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded", 
+                    "great"
+                ], 
+                "role": "Absent-Minded Professor: Abronsius is easily distracted by books, bats, and discoursing on how great a scholar he is.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Depraved Homosexual: Let's just say that Herbert is interested in sucking more than just Alfred's blood.", 
+                "id": "DepravedHomosexual"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Shagal.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "aware"
+                ], 
+                "role": "Distressed Damsel: Sarah, though she never seems aware of the danger she is in or shows any desire to be rescued.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Innocent Fanservice Girl: Sarah.", 
+                "id": "InnocentFanserviceGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Inverted in The Fearless Vampire Killers/Tanz der Vampire, in which Count Orlock's son, Herbert, is Flamboyant Gay and attempts to seduce Alfred.", 
+                "id": "LesbianVampire"
+            }, 
+            {
+                "adjectives": [
+                    "preferable"
+                ], 
+                "role": "Shiksa Goddess: Shagal for his blonde serving wench, though anything would be preferable to his wife.", 
+                "id": "ShiksaGoddess"
+            }, 
+            {
+                "adjectives": [
+                    "beautiful"
+                ], 
+                "role": "Yoine Shagal, the Jewish innkeeper of The Fearless Vampire Killers, is comically lusting after his Christian maidservant, the beautiful blonde Magda, though considering what his wife looks like he'll probably take anything.", 
+                "id": "ShiksaGoddess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0061655", 
+    "poster_url": "TheFearlessVampireKillers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "DirtyOldMan", 
+                "InnocentFanserviceGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "InnocentFanserviceGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAvengers1998", 
+            "name": "The Avengers ", 
+            "poster_url": "TheAvengers1998.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "LesbianVampire"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCelluloidCloset", 
+            "name": "The Celluloid Closet", 
+            "poster_url": "TheCelluloidCloset.jpg"
+        }
+    ], 
+    "id": "TheFearlessVampireKillers", 
+    "name": "The Fearless Vampire Killers"
+}

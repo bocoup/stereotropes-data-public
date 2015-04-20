@@ -1,0 +1,84 @@
+{
+    "plot": "Innocent people are being brutally murdered on the streets of New York City by a uniformed police officer. As the death toll rises and City Hall attempts a cover-up, Frank McCrae heads the investigation. A young cop, Jack Forrest, finds himself under arrest as the chief suspect, having been the victim of a set-up by the real killer and a mysterious woman phone-caller. Forrest, his girlfriend Theresa, and McCrae set out to solve the puzzle before the Maniac Cop can strike again.", 
+    "genres": "Action, Crime, Horror", 
+    "release_year": "1988", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Dirty Harriet: Theresa Mallory, Officer Forrest's girlfriend, works for vice squad and she is seen working undercover as a prostitute in the first movie.", 
+                "id": "DirtyHarriet"
+            }, 
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "second"
+                ], 
+                "role": "Disposable Sex Worker: Turkell's victims in the second movie are all strippers.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "Disposable"
+                ], 
+                "role": "Disposable Woman: Forrest's wife is killed off to advance the plot.", 
+                "id": "DisposableWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0095583", 
+    "poster_url": "ManiacCop.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DirtyHarriet", 
+                "DisposableSexWorker", 
+                "DisposableWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyHarriet", 
+                "DisposableWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "KamenRider", 
+            "name": "Kamen Rider"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }
+    ], 
+    "id": "ManiacCop", 
+    "name": "Maniac Cop"
+}

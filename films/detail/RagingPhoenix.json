@@ -1,0 +1,82 @@
+{
+    "plot": "A violent gang is abducting and killing women around Thailand. Sanim and his friends, having had loved ones abducted, have joined together to break the gang of kidnappers. In a botched kidnap attempt, Deu is saved by Sanim's crew. After learning their unique martial arts style, Deu helps lure the gang into an epic battle to save the women across Thailand.", 
+    "genres": "Action, Romance", 
+    "release_year": "2009", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Pai. Deu nearly became this, but Took a Level in Badass instead.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Little Miss Badass", 
+                "id": "LittleMissBadass"
+            }
+        ]
+    }, 
+    "imdbid": "tt1551621", 
+    "poster_url": "RagingPhoenix.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "ThreeNinjas", 
+            "name": "3 Ninjas", 
+            "poster_url": "ThreeNinjas.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }
+    ], 
+    "id": "RagingPhoenix", 
+    "name": "Raging Phoenix"
+}

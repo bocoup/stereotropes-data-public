@@ -1,0 +1,83 @@
+{
+    "plot": "A Sho in the Kalahari desert encounters technology for the first time--in the shape of a Coke bottle. He takes it back to his people, and they use it for many tasks. The people start to fight over it, so he decides to return it to the God--where he thinks it came from. Meanwhile, we are introduced to a school teacher assigned to a small village, a despotic revolutionary, and a clumsy biologist.", 
+    "genres": "Action, Comedy", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "close"
+                ], 
+                "role": "Disguised in Drag: Xi pretends to be one of the hostages so he can get close enough to tranquilize the terrorists.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [
+                    "tall", 
+                    "African"
+                ], 
+                "role": "Scary Black Man: An tall African zombie.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel out of Distress: Kate.", 
+                "id": "DamselOutOfDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0080801", 
+    "poster_url": "TheGodsMustBeCrazy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselOutOfDistress", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselOutOfDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "DamselOutOfDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Commando", 
+            "name": "Commando", 
+            "poster_url": "Commando.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "LupinIIIOperationReturnTheTreasure", 
+            "name": "Lupin III Operation Return The Treasure"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "KissOfTheSpiderWoman", 
+            "name": "Kiss of the Spider Woman", 
+            "poster_url": "KissOfTheSpiderWoman.jpg"
+        }
+    ], 
+    "id": "TheGodsMustBeCrazy", 
+    "name": "The Gods Must Be Crazy"
+}

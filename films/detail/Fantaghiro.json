@@ -1,0 +1,166 @@
+{
+    "plot": "N/A", 
+    "genres": "Animation", 
+    "release_year": "1999\u2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Dude: In every film, at least once.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Kim Rossi Stuart (Romualdo)\u25ca and Nicholas Rogers (Tarabas)\u25ca. The female viewers were divided between Team Tarabas and Team Romualdo.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Prince Charming: Romualdo.", 
+                "id": "PrinceCharming"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Fantaghir\u00f2. She only wears dresses when she's compelled to.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Black Magician Girl: The Dark Witch.", 
+                "id": "BlackMagicianGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Broken Bird:  Xellesia turns out to be one in movie 4.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "princess"
+                ], 
+                "role": "Everything's Better with Princesses: Not only Fantaghir\u00f2 and her older sisters, but also little princess Smeralda in film 3 and Angelica in film 4 (not to mention princes, like Romualdo).", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Xellesia to Tarabas, in movie 3.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Princess Classic: Caterina, Carolina and Angelica.", 
+                "id": "PrincessClassic"
+            }, 
+            {
+                "adjectives": [
+                    "Rebellious", 
+                    "Fantaghir\u00f2", 
+                    "first"
+                ], 
+                "role": "Rebellious Princess / Badass Princess: Fantaghir\u00f2 (It's even the title of the first movie). And Smeralda, as well: she often uses a slingshot and wears trousers like Fantaghir\u00f2. Both are Tomboy Princess.", 
+                "id": "RebelliousPrincess"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "full", 
+                    "later", 
+                    "short"
+                ], 
+                "role": "Sweet Polly Oliver: The three princesses in the first film, who are going to war as \"knights\" disguised in full armours. Then Romualdo gets Sweet on Polly Oliver. Fantaghir\u00f2 continues this in later films, wearing short hair and men's outfits. She's often mistaken for a guy. Surprisingly, children can tell her gender better than adults.", 
+                "id": "SweetPollyOliver"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Princess Fantaghiro.", 
+                "id": "TomboyPrincess"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Vain Sorceress: The best way to convince the Dark Witch to cooperate is to bank on this trope.", 
+                "id": "VainSorceress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White: The White Witch.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt1820922", 
+    "similar": [
+        {
+            "shared": [
+                "VainSorceress", 
+                "PrinceCharming", 
+                "EverythingsBetterWithPrincesses", 
+                "PrincessClassic", 
+                "WomanInWhite", 
+                "DistressedDude", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 8, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "VainSorceress", 
+                "EverythingsBetterWithPrincesses", 
+                "WomanInWhite", 
+                "TomboyPrincess", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 6, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "PrinceCharming", 
+                "RebelliousPrincess", 
+                "EverythingsBetterWithPrincesses", 
+                "TomboyPrincess", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 6, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharming", 
+                "EverythingsBetterWithPrincesses", 
+                "WomanInWhite", 
+                "DistressedDude", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 6, 
+            "id": "MirrorMirror", 
+            "name": "Mirror, Mirror"
+        }, 
+        {
+            "shared": [
+                "TomboyPrincess", 
+                "EverythingsBetterWithPrincesses", 
+                "RebelliousPrincess", 
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 5, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "Fantaghiro", 
+    "name": "Fantaghiro"
+}

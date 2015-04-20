@@ -1,0 +1,130 @@
+{
+    "plot": "One year after the death of Sidney Prescott's (Campbell) mother, two students turn up gutted. When a serial killer appears, Sidney begins to suspect whether her mother's death and the two new deaths are related. No one is safe, as the killer begins to pick everyone off one by one. Everyone's a suspect in this case.", 
+    "genres": "Horror, Mystery", 
+    "release_year": "1996", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Sidney, being a Final Girl, has her moments.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sidney Prescott from the Scream series.", 
+                "id": "BadassDamsel"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Damsel out of Distress: Sidney laughs at the Distressed Damsel trope!", 
+                "id": "DamselOutOfDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Final", 
+                    "close", 
+                    "perpetual", 
+                    "fourth"
+                ], 
+                "role": "Final Girl: Sidney and Gale are subversions; while they survive all three movies, neither of them (especially Gale) represents the ideals of purity that this trope upholds. Sidney evolves into a deconstruction of this trope as the series progresses, what with her life coming to be defined by the trauma suffered by her and those close to her thanks to her \"perpetual victimhood.\" Jill in the fourth film is arguably among the greatest subversions ever. She masterminded the killings and planned to frame someone else for it so that she could play this trope and get her 15 Minutes of Fame, much like her cousin Sidney did.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scoop: Gale.", 
+                "id": "HotScoop"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Sidney.", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "foul-tempered"
+                ], 
+                "role": "The Ingenue: Angelina. It's all just an act, though. Underneath this persona, she's actually a foul-tempered bitch who slept with the producer to get the role of Sidney in Stab 3.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "Lad-ette", 
+                    "snarky", 
+                    "tomboyish", 
+                    "first", 
+                    "timid"
+                ], 
+                "role": "The Lad-ette: Kirby, a brash, snarky, tomboyish horror buff who makes the first move on a timid boy she's into.", 
+                "id": "TheLadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0117571", 
+    "poster_url": "Scream.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheIngenue", 
+                "DamselOutOfDistress", 
+                "PluckyGirl", 
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 5, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette", 
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "PluckyGirl", 
+                "TheIngenue", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Tangled", 
+            "name": "Tangled", 
+            "poster_url": "Tangled.png"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "PluckyGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "BatmanAndMisterFreezeSubZero", 
+            "name": "Batman & Mr. Freeze: SubZero", 
+            "poster_url": "BatmanAndMisterFreezeSubZero.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette", 
+                "BadassDamsel", 
+                "DamselOutOfDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "RaidersOfTheLostArk", 
+            "name": "Raiders of the Lost Ark", 
+            "poster_url": "RaidersOfTheLostArk.jpg"
+        }
+    ], 
+    "id": "Scream", 
+    "name": "Scream"
+}

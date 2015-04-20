@@ -1,0 +1,80 @@
+{
+    "plot": "A woman who has an elaborate scheme to propose to her boyfriend on Leap Day, an Irish tradition which occurs every time the date February 29 rolls around, faces a major setback when bad weather threatens to derail her planned trip to Dublin. With the help of an innkeeper, however, her cross-country odyssey just might result in her getting engaged.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: Anna's father.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "klutzy"
+                ], 
+                "role": "Cute Clumsy Girl: Anna is more than a little klutzy.", 
+                "id": "CuteClumsyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1216492", 
+    "poster_url": "LeapYear.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "KikisDeliveryService", 
+            "name": "Kiki's Delivery Service"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "LeapYear", 
+    "name": "Leap Year"
+}

@@ -1,0 +1,103 @@
+{
+    "plot": "Free-thinking Johnny Case finds himself betrothed to a millionaire's daughter. When her family, with the exception of black-sheep Linda and drunken Ned, want Johnny to settle down to big business, he rebels, wishing instead to spend the early years of his life on \"holiday.\" With the help of his friends Nick and Susan Potter, he makes up his mind as to which is the better course, and the better mate.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1938", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "birth"
+                ], 
+                "role": "In Holiday, Linda and Julia's mother died some time after giving birth to their brother, Ned.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "birth"
+                ], 
+                "role": "Missing Mom: Mrs Seton died some time after giving birth to Ned.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Linda's cousin Seton Cram and his wife Laura in Holiday. Linda goes so far as to obliquely compare them to Nazis.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: The Crams", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spirited Young Lady: Linda. Duh.", 
+                "id": "SpiritedYoungLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Linda and Julia", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0030241", 
+    "poster_url": "Holiday.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MissingMom", 
+                "TomBoyAndGirlyGirl", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Bandidas", 
+            "name": "Bandidas", 
+            "poster_url": "Bandidas.jpg"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "TomBoyAndGirlyGirl", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }, 
+        {
+            "shared": [
+                "MissingMom", 
+                "TomBoyAndGirlyGirl", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheParentTrap", 
+            "name": "The Parent Trap", 
+            "poster_url": "TheParentTrap.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSisterhoodOfTheTravelingPants", 
+            "name": "The Sisterhood of the Traveling Pants", 
+            "poster_url": "TheSisterhoodOfTheTravelingPants.jpg"
+        }
+    ], 
+    "id": "Holiday", 
+    "name": "Holiday"
+}

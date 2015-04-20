@@ -1,0 +1,127 @@
+{
+    "plot": "Confidence man Harold Hill arrives at staid River City intending to cheat the community with his standard scam of offering to equip and train a boy's marching band, then skip town with the money since he has no music skill anyway. Things go awry when he falls for a librarian he tries to divert from exposing him while he inadvertently enriches the town with a love of music.", 
+    "genres": "Comedy, Musical, Romance", 
+    "release_year": "1962", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Marian"
+                ], 
+                "role": "Ladykiller in Love: Harold, with Marian.", 
+                "id": "LadyKillerInLove"
+            }, 
+            {
+                "adjectives": [
+                    "Marian"
+                ], 
+                "role": "The Charmer: Harold Hill, especially with Marian; he practically works Charm Person on her.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Amaryllis.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [
+                    "same"
+                ], 
+                "role": "Gossipy Hens: Mrs. Shinn's Ladies Classical Dance Group (AKA the \"pickalittle\" ladies). Their signature song even has them making birdlike sounds. Lampshaded in the movie with Robert Preston: after the ladies start singing (pick a little, talk a little, pick a little, talk a little, cheep cheep cheep, talk a lot, pick a little more), the camera switches to a view of their bobbing heads\u2014and then to a group of chickens with the same colors as the ladies\u2019 feathered hats.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [
+                    "ensemble", 
+                    "song", 
+                    "actual"
+                ], 
+                "role": "The women's committee from The Music Man, as shown in their ensemble song \"Pick a Little, Talk a Little.\" (The Movie interposes footage of actual chickens during this number.)", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grande Dame: Eulalie McKecknie Shinn.", 
+                "id": "GrandeDame"
+            }, 
+            {
+                "adjectives": [
+                    "Marian", 
+                    "librarian", 
+                    "first", 
+                    "last"
+                ], 
+                "role": "Marian the librarian in The Music Man with the first motive being her mother saying \"this might be your last chance\", although she presumably gets married at the end.", 
+                "id": "OldMaid"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Old Maid: Marian. Amaryllis also fears becoming one of these.", 
+                "id": "OldMaid"
+            }
+        ]
+    }, 
+    "imdbid": "tt0056262", 
+    "poster_url": "TheMusicMan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GrandeDame", 
+                "LadyKillerInLove", 
+                "TheCharmer", 
+                "GossipyHens"
+            ], 
+            "shared_count": 4, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyKillerInLove", 
+                "OldMaid", 
+                "TheCharmer"
+            ], 
+            "shared_count": 3, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame", 
+                "GossipyHens"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWomen", 
+            "name": "The Women", 
+            "poster_url": "TheWomen.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePictureOfDorianGray", 
+            "name": "The Picture of Dorian Gray", 
+            "poster_url": "ThePictureOfDorianGray.jpg"
+        }
+    ], 
+    "id": "TheMusicMan", 
+    "name": "The Music Man"
+}

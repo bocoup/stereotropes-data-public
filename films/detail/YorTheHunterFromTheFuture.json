@@ -1,0 +1,75 @@
+{
+    "plot": "Yor, an extremely blond prehistoric warrior, comes to question his origins, particularly with regard to a mysterious medallion he wears. When he learns of a desert goddess who supposedly wears the same medallion, Yor decides that he must find her and learn his true identity. Along the way, he encounters ape-men, dinosaurs, and a strange futuristic society.", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Pak", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Beard of Barbarism: Pak has one", 
+                "id": "BeardOfBarbarism"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Chick Magnet: Yor. He's the man.", 
+                "id": "ChickMagnet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0084935", 
+    "poster_url": "YorTheHunterFromTheFuture.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChickMagnet", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "DriveAngry", 
+            "name": "Drive Angry", 
+            "poster_url": "DriveAngry.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }
+    ], 
+    "id": "YorTheHunterFromTheFuture", 
+    "name": "Yor: The Hunter from the Future"
+}

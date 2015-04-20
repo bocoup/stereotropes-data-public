@@ -1,0 +1,84 @@
+{
+    "plot": "A bumbling professor accidently invents flying rubber, or \"Flubber\", an incredible material that gains energy every time it strikes a hard surface. It allows for the invention of shoes that can allow jumps of amazing heights and enables a modified Model-T to fly. Unfortunately, no one is interested in the material except for Alonzo Hawk, a corrupt businessman who wants to steal the material for himself.", 
+    "genres": "Comedy, Family, Sci-Fi", 
+    "release_year": "1961", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded"
+                ], 
+                "role": "Absent-Minded Professor: Naturally!", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [
+                    "Absent-Minded"
+                ], 
+                "role": "The Absent-Minded Professor. Of course.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [
+                    "nice"
+                ], 
+                "role": "Jerk Jock: Averted. Biff Hawk is the star player of the basketball team, but is actually quite a nice kid - especially when his father's not badgering him to help with the family business.", 
+                "id": "JerkJock"
+            }
+        ]
+    }, 
+    "imdbid": "tt0054594", 
+    "poster_url": "TheAbsentMindedProfessor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "JerkJock", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 2, 
+            "id": "OurTown", 
+            "name": "Our Town", 
+            "poster_url": "OurTown.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 2, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 2, 
+            "id": "HoneyIShrunkTheKids", 
+            "name": "Honey, I Shrunk the Kids", 
+            "poster_url": "HoneyIShrunkTheKids.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }
+    ], 
+    "id": "TheAbsentMindedProfessor", 
+    "name": "The Absent-Minded Professor"
+}

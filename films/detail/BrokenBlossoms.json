@@ -1,0 +1,78 @@
+{
+    "plot": "The spiritual and peace-loving Chen resides in London's Limehouse district, where he teaches and promotes peaceful Buddhist concepts. He is attracted to the beleaguered Lucy Burrows, whose prizefighter father beats her persistently. When Chen rescues Lucy from one of her father's attacks, the boxer sets out to avenge himself on the foreigner.", 
+    "genres": "Drama", 
+    "release_year": "1936", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "poor"
+                ], 
+                "role": "Broken Bird: Poor, poor Lucy.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "infant"
+                ], 
+                "role": "Missing Mom: Lucy's mother, who simply handed her over to Battling Burrows as an infant, and never came back.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0027400", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "HideAndSeek", 
+            "name": "Hide and Seek", 
+            "poster_url": "HideAndSeek.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }
+    ], 
+    "id": "BrokenBlossoms", 
+    "name": "Broken Blossoms"
+}

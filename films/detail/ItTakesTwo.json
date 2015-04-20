@@ -1,0 +1,106 @@
+{
+    "plot": "Alyssa (a rich girl) and Amanda (an orphan) are two little girls who are identical, but complete strangers, that accidentally meet one day. In an attempt to stop Alyssa's father from getting married to Clarice, a conceited, know-it-all, the girls get him to meet Amanda's Case Worker and switch lives to stop the wedding once and for all. Though things don't go exactly as planned when Alyssa gets adopted and Clarice moves up the wedding...", 
+    "genres": "Comedy, Family, Romance", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Vincenzo, like Diane, gets a moment of this near the end of the film.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Blondes are Evil: Clarice again.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Diane, particularly near the end of the film.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "much", 
+                    "main"
+                ], 
+                "role": "Tomboy and Girly Girl: The film almost gleefully beats you over the head with just how much Amanda and Alyssa are this, respectively. Amanda's tomboyishness is even stated to be a main reason she's having trouble getting adopted.", 
+                "id": "TomBoyAndGirlyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "It Takes Two has Clarice Kensington, who almost became one except that Alyssa's father called off the engagement.", 
+                "id": "WickedStepmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wicked Stepmother: Clarice is aiming to become one to Alyssa.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113442", 
+    "poster_url": "ItTakesTwo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "BlondesAreEvil", 
+                "TomBoyAndGirlyGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "WickedStepmother", 
+                "TomBoyAndGirlyGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "Hanna", 
+            "name": "Hanna", 
+            "poster_url": "Hanna.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "ClassOf1984", 
+            "name": "Class Of", 
+            "poster_url": "ClassOf1984.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }
+    ], 
+    "id": "ItTakesTwo", 
+    "name": "It Takes Two"
+}

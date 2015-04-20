@@ -1,0 +1,74 @@
+{
+    "plot": "Eva is a girl that is feeling left out and ignored when her new baby brother arrives. Nothing is going well for her, until she finds a new friend. Her new friend is Dodger, a monkey. Dodger and Eva become close friends and entertain crowds at the Boardwalk. That is, until Eva finds out that Dodger has a hidden talent - he's a trained thief.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1994", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Eva.", 
+                "id": "Tomboy"
+            }, 
+            {
+                "adjectives": [
+                    "Eva\u2019s", 
+                    "good", 
+                    "biological", 
+                    "fellow"
+                ], 
+                "role": "Wicked Stepfather: Averted with Eva\u2019s stepfather Tom who seems to be on good terms with her biological father Peter up to the point he has his fellow police officers look for Eva along with Peter and her mother Amy when the girl\u2019s kidnapped by Azro.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0110557", 
+    "poster_url": "MonkeyTrouble.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Tomboy"
+            ], 
+            "shared_count": 1, 
+            "id": "ElDorado", 
+            "name": "El Dorado", 
+            "poster_url": "ElDorado.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother"
+            ], 
+            "shared_count": 1, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PansLabyrinth", 
+            "name": "Pan's Labyrinth", 
+            "poster_url": "PansLabyrinth.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother"
+            ], 
+            "shared_count": 1, 
+            "id": "Belle", 
+            "name": "Belle", 
+            "poster_url": "Belle.jpg"
+        }
+    ], 
+    "id": "MonkeyTrouble", 
+    "name": "Monkey Trouble"
+}

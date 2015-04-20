@@ -1,0 +1,89 @@
+{
+    "plot": "N/A", 
+    "genres": "Drama", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first", 
+                    "cool", 
+                    "bad", 
+                    "exact", 
+                    "same"
+                ], 
+                "role": "Angry Black Man: One of the patrons in the first film who was actually quite cool and helped take action.  too bad he dies pretty early. The aerobics instructor in the sequel basically takes the exact same role, and is even played by the same actor.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "second"
+                ], 
+                "role": "Dumb Muscle: Some of the clients of the gym in the second film play this straight.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "first", 
+                    "sole"
+                ], 
+                "role": "Final Girl:  Gender flipped in the first movie: George is the sole survivor after Cheryl ends up being infected.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1774342", 
+    "similar": [
+        {
+            "shared": [
+                "AngryBlackMan", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TwentyOneJumpStreet", 
+            "name": "21 Jump Street", 
+            "poster_url": "TwentyOneJumpStreet.jpg"
+        }, 
+        {
+            "shared": [
+                "AngryBlackMan", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Devil", 
+            "name": "Devil"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }
+    ], 
+    "id": "Demoni", 
+    "name": "Demoni"
+}

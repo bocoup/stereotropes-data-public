@@ -1,0 +1,74 @@
+{
+    "plot": "Detective Mark McPherson investigates the killing of Laura, found dead on her apartment floor before the movie starts. McPherson builds a mental picture of the dead girl from the suspects whom he interviews. He is helped by the striking painting of the late lamented Laura hanging on her apartment wall. But who would have wanted to kill a girl with whom every man she met seemed to fall in love? To make matters worse, McPherson finds himself falling under her spell too. Then one night, halfway through his investigations, something seriously bizarre happens to make him re-think the whole case.", 
+    "genres": "Film-Noir, Mystery, Romance", 
+    "release_year": "1944", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Straight: Waldo.", 
+                "id": "CampStraight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0037008", 
+    "poster_url": "Laura.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampStraight", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TronLegacy", 
+            "name": "TRON: Legacy", 
+            "poster_url": "TronLegacy.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "BlazingSaddles", 
+            "name": "Blazing Saddles", 
+            "poster_url": "BlazingSaddles.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }
+    ], 
+    "id": "Laura", 
+    "name": "Laura"
+}

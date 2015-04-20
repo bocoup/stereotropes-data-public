@@ -1,0 +1,86 @@
+{
+    "plot": "Summer, 2008: John McCain secures the nomination, but polls behind Barack Obama. Strategist Steve Schmidt suggests a game changer: picking a conservative female with media savvy, unknown Alaska governor Sarah Palin, as vice president. She's an immediate hit and a quick study - the gap closes. Then, Tina Fey's impersonation, a raft of criticism, and missing her family send Palin into a near-catatonic state: she doesn't prepare for her Katie Couric interview and bombs. Schmidt searches for an answer: don't expect her to learn the issues, but give her a script. Palin does well in the debate with Biden; she finds her voice, goes off script, and goes rogue. A mistake?", 
+    "genres": "Biography, Drama, History", 
+    "release_year": "2012", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "upset", 
+                    "proud", 
+                    "baby-daddy"
+                ], 
+                "role": "Mama Bear: Palin gets especially upset when her family is bashed by the media, and she did not want to say she and Todd were \"proud to be grandparents\" after their teen daughter's pregnancy is revealed (she's not too thrilled about seeing baby-daddy Levi either: \"I see you cut off your mullet\").", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "great"
+                ], 
+                "role": "Manic Pixie Dream Girl: Rielle Hunter to Edwards. She was fascinated with New Age philosophy, astrology and reincarnation, and would announce to people she had just met that she was a witch. She also pumped Edwards up, claiming he could be as great a leader as MLK Jr. or Mahatma Gandhi.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ingenue / Naive New Comer: Palin (and Obama, although he's not the focus of the film).", 
+                "id": "TheIngenue"
+            }
+        ]
+    }, 
+    "imdbid": "tt1848902", 
+    "poster_url": "GameChange.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheIngenue", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WithoutAPaddle", 
+            "name": "Without A Paddle", 
+            "poster_url": "WithoutAPaddle.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Bridesmaids", 
+            "name": "Bridesmaids", 
+            "poster_url": "Bridesmaids.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }
+    ], 
+    "id": "GameChange", 
+    "name": "Game Change"
+}

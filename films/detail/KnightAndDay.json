@@ -1,0 +1,84 @@
+{
+    "plot": "June Havens finds her everyday life tangled with that of a secret agent who has realized he isn't supposed to survive his latest mission. As their campaign to stay alive stretches across the globe, they soon learn that all they can count on is each other.", 
+    "genres": "Action, Comedy, Romance", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl:  June, by the end of the movie.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "significant"
+                ], 
+                "role": "Adrenaline Makeover: Played straight and subverted; June Havens certainly Took a Level in Badass after significant bits of the plot, but up until the halfway point of the movie she got progressively more worn down as the action progressed.", 
+                "id": "AdrenalineMakeover"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Neutral Female: June, but not during the action sequences; she's actually this during much of the plot, being very decidedly on one side or the other when action breaks out.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt1013743", 
+    "poster_url": "KnightAndDay.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "AdrenalineMakeover", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TrueLies", 
+            "name": "True Lies", 
+            "poster_url": "TrueLies.jpg"
+        }, 
+        {
+            "shared": [
+                "AdrenalineMakeover", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "KnightAndDay", 
+    "name": "Knight and Day"
+}

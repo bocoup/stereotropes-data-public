@@ -1,0 +1,102 @@
+{
+    "plot": "The animated story of Bambi, a young deer hailed as the 'Prince of the Forest' at his birth. As Bambi grows, he makes friends with the other animals of the forest, learns the skills needed to survive, and even finds love. One day, however, the hunters come, and Bambi must learn to be as brave as his father if he is to lead the other deer to safety.", 
+    "genres": "Animation, Drama, Family", 
+    "release_year": "1942", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bambi and Faline's dance of love through the clouds is rudely interrupted by another stag, resulting in a savage fight.", 
+                "id": "CockFight"
+            }, 
+            {
+                "adjectives": [
+                    "important", 
+                    "later"
+                ], 
+                "role": "Bambi: The Prince of the Forest barely interacts with Bambi., only showing up at important moments when his son needs help. This is consistent with nature, as fawns typically are raised exclusively by their mothers.\n Bambi's father dropped the disappearing act and took over the parenting duties after the death of the mother, as confirmed years later in the midquel", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Prince of the Forest from Bambi is revered by everyone.", 
+                "id": "TheGoodKing"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "eponymous"
+                ], 
+                "role": "Bambi: The eponymous character's mother is killed by hunters.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "real", 
+                    "female"
+                ], 
+                "role": "In Bambi, Faline just stands against a rock wall and watches Bambi and Ronno fight over her. Justified as in real life, female deer would be fine with the bucks fighting over her.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0034492", 
+    "poster_url": "Bambi.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DisappearedDad", 
+                "CockFight"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DisappearedDad", 
+                "TheGoodKing"
+            ], 
+            "shared_count": 3, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CockFight", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheRescuers", 
+            "name": "The Rescuers", 
+            "poster_url": "TheRescuers.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }
+    ], 
+    "id": "Bambi", 
+    "name": "Bambi"
+}

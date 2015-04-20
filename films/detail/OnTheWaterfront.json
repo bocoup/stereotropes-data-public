@@ -1,0 +1,72 @@
+{
+    "plot": "Terry Malloy dreams about being a prize fighter, while tending his pigeons and running errands at the docks for Johnny Friendly, the corrupt boss of the dockers union. Terry witnesses a murder by two of Johnny's thugs, and later meets the dead man's sister and feels responsible for his death. She introduces him to Father Barry, who tries to force him to provide information for the courts that will smash the dock racketeers.", 
+    "genres": "Crime, Drama", 
+    "release_year": "1954", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "only"
+                ], 
+                "role": "Dirty Coward:  The only reason Terry lost the fight, was because Friendly called his guards to help him pry Terry off.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Troubled, but Cute: Terry.", 
+                "id": "TroubledButCute"
+            }
+        ]
+    }, 
+    "imdbid": "tt0047296", 
+    "poster_url": "OnTheWaterfront.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TroubledButCute", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "HeavyRain", 
+            "name": "Heavy Rain"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "Gunslinger", 
+            "name": "Gunslinger", 
+            "poster_url": "Gunslinger.gif"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "WomanInTheMoon", 
+            "name": "Woman in the Moon", 
+            "poster_url": "WomanInTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "TheKillerShrews", 
+            "name": "The Killer Shrews", 
+            "poster_url": "TheKillerShrews.jpg"
+        }
+    ], 
+    "id": "OnTheWaterfront", 
+    "name": "On The Waterfront"
+}

@@ -1,0 +1,75 @@
+{
+    "plot": "Shakes plods about his duties as party clown, and uses all of his free time getting seriously drunk. Binky, another clown, wins the spot on a local kiddie show, which depresses Shakes even more, and his boss threatens him with unemployment if he can't get his act under control. When someone murders Shakes' boss and makes it look like Shakes did it, he goes undercover, posing as a hated mime, and tries to find information that will clear his name.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "male", 
+                    "female", 
+                    "lesbian"
+                ], 
+                "role": "Camp Gay: The male mimes - particularly their leader, played by Robin Williams. (There's a female mime, too, but she comes off as a New Age kook rather than a lesbian.)", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: The rodeo clowns.", 
+                "id": "CorruptHick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102898", 
+    "poster_url": "ShakesTheClown.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "StirCrazy", 
+            "name": "Stir Crazy", 
+            "poster_url": "StirCrazy.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBoysInTheBand", 
+            "name": "The Boys in the Band", 
+            "poster_url": "TheBoysInTheBand.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "ILoveYouPhillipMorris", 
+            "name": "I Love You Phillip Morris", 
+            "poster_url": "ILoveYouPhillipMorris.jpg"
+        }
+    ], 
+    "id": "ShakesTheClown", 
+    "name": "Shakes The Clown"
+}

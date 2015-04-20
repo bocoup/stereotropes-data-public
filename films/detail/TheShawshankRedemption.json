@@ -1,0 +1,100 @@
+{
+    "plot": "Andy Dufresne is a young and successful banker whose life changes drastically when he is convicted and sentenced to life imprisonment for the murder of his wife and her lover. Set in the 1940's, the film shows how Andy, with the help of his friend Red, the prison entrepreneur, turns out to be a most unconventional prisoner.", 
+    "genres": "Crime, Drama", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "estranged", 
+                    "innocent"
+                ], 
+                "role": "The Shawshank Redemption: Andy Dufresne is serving life for murdering his estranged wife and the man she left him for, but he turns out to be an aversion to this trope, however, when it's discovered that he's innocent.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "particular", 
+                    "new", 
+                    "homosexual", 
+                    "general", 
+                    "wrong", 
+                    "physical", 
+                    "careful", 
+                    "actual"
+                ], 
+                "role": "Depraved Homosexual: The Sisters are a nasty prison gang with a particular love of raping new inmates. As Red puts it when Andy remarks to their gaze that he's not homosexual: In the DVD commentary the director details how the Sisters are supposed to represent the depravity of rape in general rather than homosexuality being wrong, seeing as rape in prison is more about domination than physical attraction. The Sisters are especially disgusting in this regard. In the book, Stephen King is careful to draw a distinction between heterosexuals who just 'come to an arrangement', actual homosexuals and the 'sisters', who are just depraved rapists.", 
+                "id": "DepravedHomosexual"
+            }, 
+            {
+                "adjectives": [
+                    "elderly", 
+                    "unable"
+                ], 
+                "role": "The Old Convict: Red, to an extent, but more certainly Brooks, an elderly man who finds he is unable to adjust to life outside prison walls. Brooks was in prison for so long, since 1905, that when he's released in the '50's, it's a world he can't recognize. For one thing Brooks remarks that when he went in, he'd only seen one car, when he was a boy.", 
+                "id": "TheOldConvict"
+            }, 
+            {
+                "adjectives": [
+                    "prison-savvy", 
+                    "obvious"
+                ], 
+                "role": "The Shawshank Redemption: Ellis Boyd \"Red\" Redding. Also Brooks, though he doesn't seem to be quite as prison-savvy as Red. Or at the very least, it's not as obvious.", 
+                "id": "TheOldConvict"
+            }
+        ]
+    }, 
+    "imdbid": "tt0111161", 
+    "poster_url": "TheShawshankRedemption.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "AMidsummerNightsDream", 
+            "name": "A Midsummer Night's Dream"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "MrsDoubtfire", 
+            "name": "Mrs. Doubtfire", 
+            "poster_url": "MrsDoubtfire.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "UnfaithfullyYours", 
+            "name": "Unfaithfully Yours", 
+            "poster_url": "UnfaithfullyYours.jpg"
+        }, 
+        {
+            "shared": [
+                "TheOldConvict"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }
+    ], 
+    "id": "TheShawshankRedemption", 
+    "name": "The Shawshank Redemption"
+}

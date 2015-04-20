@@ -1,0 +1,131 @@
+{
+    "plot": "A musical about teens in love in the 50's! It's California, 1959 and greaser Danny Zuko and Australian Sandy Olsson are in love. They spend time at the beach, but when they go back to school, what either of them don't know is that they both now attend Rydell High. Danny's the leader of the T-Birds, a group of black-jacket greasers while Sandy hangs with the Pink Ladies, a group of pink-wearing girls led by Rizzo. When they clash at Rydell's first pep rally, Danny isn't the same Danny at the beach. They try to be like each other so they can be together.", 
+    "genres": "Musical, Romance", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Chivalrous", 
+                    "Putzie/Roger", 
+                    "other", 
+                    "only"
+                ], 
+                "role": "Chivalrous Pervert: Putzie/Roger, who is ever-so charming to his beloved Jan despite his allurement to mooning. Lampshaded by his nickname (\"Putz\"/\"Rump\"). While the other T-Birds show an expression of shock or surprise at Sandy's wardrobe change, he is the only one who grins!", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Troubled, but Cute: The T-Birds. Especially Kenickie, who's generally a jerkass but who doesn't hesitate to take responsibility and try to do what he considers the right thing when he thinks he's gotten his girlfriend Rizzo pregnant.", 
+                "id": "TroubledButCute"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "typical", 
+                    "bad"
+                ], 
+                "role": "Alpha Bitch: Rizzo, with the Pink Ladies as her Girl Posse, except for Frenchy, who still befriends Sandy. Also a subversion, since Rizzo's not the typical cheerleader but a sexy and straightforward \"bad girl\".", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "assertive", 
+                    "school-aged"
+                ], 
+                "role": "Rizzo in Grease. She's a brutally honest and very sexually assertive school-aged Femme Fatale  with some traces of Broken Bird, actually", 
+                "id": "GoodBadGirl"
+            }, 
+            {
+                "adjectives": [
+                    "touch", 
+                    "attractive", 
+                    "athletic", 
+                    "sure-of-herself", 
+                    "All-American", 
+                    "overly-enthusiastic"
+                ], 
+                "role": "Patty Simcox in Grease is annoyingly Spoiled Sweet with just a touch of the Alpha Bitch. She is an attractive, athletic, sure-of-herself type of girl. Patty can be catty, but in an All-American Girl sort of way. She's overly-enthusiastic goody-two-shoes cheerleader, nominated for student council and helps set up the prom.", 
+                "id": "SpoiledSweet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Frenchy", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ingenue: Sandy.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grease: Rizzo.", 
+                "id": "TheLadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0077631", 
+    "poster_url": "Grease.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheLadette", 
+                "TheIngenue", 
+                "TheChick", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 4, 
+            "id": "Bridesmaids", 
+            "name": "Bridesmaids", 
+            "poster_url": "Bridesmaids.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "TroubledButCute", 
+                "TheChick", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 4, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "TheChick", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 3, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "TheChick", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "LemonadeMouth", 
+            "name": "Lemonade Mouth", 
+            "poster_url": "LemonadeMouth.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette", 
+                "TheIngenue"
+            ], 
+            "shared_count": 2, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }
+    ], 
+    "id": "Grease", 
+    "name": "Grease"
+}

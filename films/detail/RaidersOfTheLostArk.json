@@ -1,0 +1,128 @@
+{
+    "plot": "The year is 1936. A professor who studies archeology named Indiana Jones is venturing in the jungles in South America searching for a golden statue. Unfortunately, he sets off a deadly trap doing so, miraculously, he escapes. Then, Jones hears from a museum curator named Marcus Brody about a biblical artifact called The Ark of the Covenant, which can hold the key to humanly existence. Jones has to venture to vast places such as Nepal and Egypt to find this artifact. However, he will have to fight his enemy Renee Belloq and a band of Nazis in order to reach it.", 
+    "genres": "Action, Adventure", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Belloq in Raiders of the Lost Ark.", 
+                "id": "ManInWhite"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "blink-and-you'll-miss-it", 
+                    "Marian", 
+                    "few", 
+                    "large", 
+                    "brush"
+                ], 
+                "role": "There's a blink-and-you'll-miss-it moment in Raiders of the Lost Ark: If you look closely as they disembark from the submarine you'll notice that the Nazi soldier guarding Marian is heavily bandaged and he has an arm in a sling.\n Another Indiana Jones example in Temple Of Doom. While on the mine cart chase, a mook manages to down Indiana for a few seconds. Sick to death of being chased, Willie promptly slugs him so hard he goes flying off the cart.\n Subverted in another portion, where Willie grabs a large constrictor snake and flings it away into the brush, thinking it's the trunk of the elephant that's been irritating her all evening.", 
+                "id": "BadassDamsel"
+            }, 
+            {
+                "adjectives": [
+                    "separate"
+                ], 
+                "role": "Damsel in Distress: Marion Ravenwood, who is captured three separate times by the Nazis.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Marian"
+                ], 
+                "role": "Raiders of the Lost Ark: If you look closely as they disembark from the submarine you'll notice that the Nazi soldier guarding Marian is heavily bandaged and he has an arm in a sling.", 
+                "id": "DamselOutOfDistress"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "past", 
+                    "third", 
+                    "final"
+                ], 
+                "role": "Not to mention the fact that when they meet in the first movie, they've already had a past relationship,  making \"Kingdom\" the third and final(?) time they hook up!\"", 
+                "id": "GirlOfTheWeek"
+            }, 
+            {
+                "adjectives": [
+                    "Marian", 
+                    "rowdy", 
+                    "interested"
+                ], 
+                "role": "Marian Ravenwood from Raiders of the Lost Ark, consistently winning drinking contests with rowdy Tibetans. Though the story implies (and the novelization confirmed) that she's primarily interested in the money she makes winning drinking contests.", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Raiders of the Lost Ark: Marion Ravenwood. She can even drink men twice her size under the table.", 
+                "id": "TheLadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082971", 
+    "poster_url": "RaidersOfTheLostArk.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "GirlOfTheWeek", 
+                "ManInWhite", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 5, 
+            "id": "BatmanForever", 
+            "name": "Batman Forever", 
+            "poster_url": "BatmanForever.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette", 
+                "BadassDamsel", 
+                "DamselOutOfDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DamselOutOfDistress", 
+                "ManInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette", 
+                "BadassDamsel", 
+                "DamselOutOfDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "Scream", 
+            "name": "Scream", 
+            "poster_url": "Scream.jpg"
+        }
+    ], 
+    "id": "RaidersOfTheLostArk", 
+    "name": "Raiders of the Lost Ark"
+}

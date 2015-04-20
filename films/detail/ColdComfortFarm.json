@@ -1,0 +1,112 @@
+{
+    "plot": "In England in the early 1930's, 20 year old Flora Poste, recently orphaned and left with only 100 pounds a year, goes to stay with distant relatives on Cold Comfort Farm. Everyone on the gloomy farm is completely around the twist, but Flora tries to sort everything out...", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "cryptic", 
+                    "fair", 
+                    "cryptic"
+                ], 
+                "role": "Cold Comfort Farm has the dour and cryptic Adam Lambsbreath \u2014 although to be fair, his employers, the Starkadders, are mostly pretty dour and cryptic themselves.", 
+                "id": "CrustyCaretaker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crusty Caretaker", 
+                "id": "CrustyCaretaker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hunk: Seth.", 
+                "id": "Hunk"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Mrs. Smiling to Flora. Sort of. Flora to Elfine.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spirited Young Lady: Flora is a fine example.", 
+                "id": "SpiritedYoungLady"
+            }, 
+            {
+                "adjectives": [
+                    "green", 
+                    "cryptic", 
+                    "main", 
+                    "cute", 
+                    "normal"
+                ], 
+                "role": "Subverted with Elfine in Cold Comfort Farm by Stella Gibbons \u2014 Elfine runs around in a green cloak \"like a Pharisee of the woods\" (i.e., a faerie), making cryptic remarks, until the main character, Flora, gives her a makeover and sets her up with a cute guy. Then she's normal.", 
+                "id": "TheOphelia"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ophelia: Elfine, so she thinks.", 
+                "id": "TheOphelia"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112701", 
+    "poster_url": "ColdComfortFarm.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "SpiritedYoungLady", 
+                "Hunk"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "Hunk"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "SpiritedYoungLady"
+            ], 
+            "shared_count": 2, 
+            "id": "LittleWomen", 
+            "name": "Little Women", 
+            "poster_url": "LittleWomen.jpg"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "Hunk"
+            ], 
+            "shared_count": 2, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }
+    ], 
+    "id": "ColdComfortFarm", 
+    "name": "Cold Comfort Farm"
+}

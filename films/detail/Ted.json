@@ -1,0 +1,106 @@
+{
+    "plot": "John makes a Christmas miracle happen by bringing his one and only friend to life, his teddy bear. The two grow up together and John must then choose to stay with his girlfriend or keep his friendship with his crude and extremely inappropriate teddy bear, Ted.", 
+    "genres": "Comedy, Fantasy", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "numerous", 
+                    "attractive"
+                ], 
+                "role": "Kavorka Man: Ted had sex with numerous attractive women despite being, well, a teddy bear. With no penis.", 
+                "id": "KavorkaMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Guy from Ted.", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Guy is this, and possibly his boyfriend, or you know, whatever, I don't really know.", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Slacker: John and Ted.", 
+                "id": "TheSlacker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "rid", 
+                    "want", 
+                    "general", 
+                    "public"
+                ], 
+                "role": "Girls Love Stuffed Animals: Inverted in that Lori is the one who wants to get rid of Ted, while the people who want to kidnap him are male. The general public seems to be about even in their interest in a living teddy bear.", 
+                "id": "GirlsLoveStuffedAnimals"
+            }, 
+            {
+                "adjectives": [
+                    "close", 
+                    "many", 
+                    "live", 
+                    "own"
+                ], 
+                "role": "Subverted in Ted in that it is John who is very close to his magic teddy bear after so many years, while Lori, who does like Ted up to a point, wishes that the bear would move out and live his own life.", 
+                "id": "GirlsLoveStuffedAnimals"
+            }
+        ]
+    }, 
+    "imdbid": "tt1637725", 
+    "poster_url": "Ted.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheSlacker", 
+                "KavorkaMan", 
+                "StraightGay"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCommitments", 
+            "name": "The Commitments", 
+            "poster_url": "TheCommitments.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RedHill", 
+            "name": "Red Hill", 
+            "poster_url": "RedHill.jpg"
+        }
+    ], 
+    "id": "Ted", 
+    "name": "Ted"
+}

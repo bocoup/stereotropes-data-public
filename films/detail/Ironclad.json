@@ -1,0 +1,87 @@
+{
+    "plot": "It is the year 1215 and the rebel barons of England have forced their despised King John to put his royal seal to the Magna Carta, a noble, seminal document that upheld the rights of free-men. Yet within months of pledging himself to the great charter, the King reneged on his word and assembled a mercenary army on the south coast of England with the intention of bringing the barons and the country back under his tyrannical rule. Barring his way stood the mighty Rochester castle, a place that would become the symbol of the rebel's momentous struggle for justice and freedom.", 
+    "genres": "Action, Adventure, History", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Marshall and Tiberius are this.", 
+                "id": "AFatherToHisMen"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Justified and downplayed with Isabel and Agnes. Justified since women often helped in the defense during sieges by throwing things, cooking hot oil and sometimes fighting as well. Downplayed in that Marshall does not want them to learn how to fight, since he will supposedly protect them, but they still have to eventually. This while he is out for the count. When the castle is breached at the end, Agnes and Isabel each rack up a body count.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Plucky Girl: Lady Isabel, and the serving girl Agnes are good examples, even joining the men in helping to brace the gate from the Danish battering ram attack, and trying their best to fend them off when they break through.", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Guy - The Chick", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1233301", 
+    "poster_url": "Ironclad.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PluckyGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastStand", 
+            "name": "The Last Stand", 
+            "poster_url": "TheLastStand.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hausu", 
+            "name": "Hausu"
+        }
+    ], 
+    "id": "Ironclad", 
+    "name": "Ironclad"
+}

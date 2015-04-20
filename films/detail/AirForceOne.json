@@ -1,0 +1,91 @@
+{
+    "plot": "The President of the USA goes to Moscow and gives a stirring speech outlining the USA's new \"Zero-tolerance\" policy with respect to terrorism. On the flight home, terrorists take over Air Force One (the President's official plane) and take the passengers (including his wife and daughter) hostage. The terrorists plan to execute one hostage every half-hour unless/until their demands are met. However, the President is a former Medal of Honor winner, so the terrorists may be in for a surprise...", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Ivan Korshunov takes it very personally when Marshall kills Krasin. Arguably General Radek is this, too.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "other"
+                ], 
+                "role": "Beard of Evil: Korshunov, like many other villains portrayed by Gary Oldman.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Don't threaten President Marshall's staff. His loved ones. Or his baseball glove!", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "hot"
+                ], 
+                "role": "Glenn Close in Air Force One, as the Vice President, even if she's going for more \"handsome\" than \"hot.\"", 
+                "id": "HotChickInABadassSuit"
+            }
+        ]
+    }, 
+    "imdbid": "tt0118571", 
+    "poster_url": "AirForceOne.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHillsHaveEyes", 
+            "name": "The Hills Have Eyes", 
+            "poster_url": "TheHillsHaveEyes.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Soldier", 
+            "name": "Soldier", 
+            "poster_url": "Soldier.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Tank", 
+            "name": "Tank", 
+            "poster_url": "Tank.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }
+    ], 
+    "id": "AirForceOne", 
+    "name": "Air Force One"
+}

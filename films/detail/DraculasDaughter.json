@@ -1,0 +1,104 @@
+{
+    "plot": "Prof. Van Helsing is in danger of prosecution for the murder of Dracula...until a hypnotic woman steals the Count's body and cremates it. Bloodless corpses start appearing in London again, and Hungarian countess Marya Zaleska seeks the aid of Jeffrey Garth, psychiatrist, in freeing herself of a mysterious evil influence. The scene changes from foggy London back to that eerie road to the Borgo Pass...", 
+    "genres": "Drama, Fantasy, Horror", 
+    "release_year": "1936", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "final", 
+                    "third"
+                ], 
+                "role": "Damsel in Distress: Janet during the final third of the film.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Lesbian", 
+                    "original", 
+                    "cinematic", 
+                    "subtextual"
+                ], 
+                "role": "Lesbian Vampire: Probably the original cinematic example, but in a more subtextual sense.", 
+                "id": "LesbianVampire"
+            }, 
+            {
+                "adjectives": [
+                    "very", 
+                    "famous", 
+                    "lesbian", 
+                    "eponymous"
+                ], 
+                "role": "The 1936 film Dracula's Daughter, which is a sequel to the very famous 1931 Dracula movie, features much lesbian subtext from the eponymous character. One of its tag lines is even \"Save the women of London from Dracula's Daughter!\".", 
+                "id": "LesbianVampire"
+            }, 
+            {
+                "adjectives": [
+                    "actual", 
+                    "man-servant"
+                ], 
+                "role": "In Dracula's Daughter, the actual vampire Countess Marya Zaleska tries to play this role with Dr. Geoffrey Garth. This is lampshaded when the Head of Scotland Yard tells his man-servant that he is going hunting \"vampires\", to which the latter replies: \"But I always understood you went after them with chequebooks, sir.\"", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in Black: Marya.", 
+                "id": "WomanInBlack"
+            }
+        ]
+    }, 
+    "imdbid": "tt0027545", 
+    "poster_url": "DraculasDaughter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp", 
+                "LesbianVampire"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLairOfTheWhiteWorm", 
+            "name": "The Lair of the White Worm", 
+            "poster_url": "TheLairOfTheWhiteWorm.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirthOfANation", 
+            "name": "The Birth of a Nation", 
+            "poster_url": "TheBirthOfANation.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "DraculasDaughter", 
+    "name": "Dracula's Daughter"
+}

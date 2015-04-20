@@ -1,0 +1,104 @@
+{
+    "plot": "An inordinately complex man who has been labeled everything from hero, to charlatan, to sadist, Thomas Edward Lawrence blazed his way to glory in the Arabian desert, then sought anonymity as a common soldier under an assumed name. The story opens with the death of Lawrence in a motorcycle accident in Dorset at the age of 46, then flashbacks to recount his adventures: as a young intelligence officer in Cairo in 1916, he is given leave to investigate the progress of the Arab revolt against the Turks in World War I. In the desert, he organizes a guerrilla army and--for two years--leads the Arabs in harassing the Turks with desert raids, train-wrecking and camel attacks. Eventually, he leads his army northward and helps a British General destroy the power of the Ottoman Empire.", 
+    "genres": "Adventure, Biography, Drama", 
+    "release_year": "1962", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "dangerous"
+                ], 
+                "role": "A Father to His Men: Lawrence impresses the men under his command when he makes a dangerous trek back into the desert to save a straggler.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "servant", 
+                    "impossible"
+                ], 
+                "role": "Subverted in another instance. Lawrence's servant has to be given a Mercy Kill because it is impossible not to leave him behind.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "flashy"
+                ], 
+                "role": "Less flashy example in Lawrence of Arabia when Lawrence pinches out a burning match.", 
+                "id": "MachoMasochism"
+            }, 
+            {
+                "adjectives": [
+                    "white"
+                ], 
+                "role": "In Lawrence of Arabia, when T.E. Lawrence starts Going Native, he begins wearing a white robe and keffiyeh in the Bedouin style.", 
+                "id": "ManInWhite"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Omar Sharif and Peter O'Toole (somewhat averted by the latter's aversion to sex).", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "No Woman's Land: It is a World War One movie, but still - no women are shown on screen, except for a handful of veiled extras here and there, and some nurses. There are no women with speaking roles. (Ululating doesn't count.)", 
+                "id": "NoWomansLand"
+            }
+        ]
+    }, 
+    "imdbid": "tt0056172", 
+    "poster_url": "LawrenceOfArabia.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "MrFanservice", 
+                "NoWomansLand"
+            ], 
+            "shared_count": 3, 
+            "id": "Dune", 
+            "name": "Dune", 
+            "poster_url": "Dune.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "NoWomansLand"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "LawrenceOfArabia", 
+    "name": "Lawrence of Arabia"
+}

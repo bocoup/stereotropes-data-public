@@ -1,0 +1,67 @@
+{
+    "plot": "An animated adaptation of Richard Adams' novel, about a pair of dogs (Snitter and Rowf) who escape from a research laboratory and try to survive in the wild with the help of a cunning fox (The Tod). The lab director tries to keep the escape quiet, but as an increasing number of sheep are found killed, word leaks out, together with rumours that the dogs might be plague carriers...", 
+    "genres": "Animation, Adventure, Drama", 
+    "release_year": "1982", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "animal", 
+                    "dead"
+                ], 
+                "role": "Wicked Stepmother: Snitter's master's sister sells him to the animal testing lab, leaving Snitter to assume his master is dead.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0084509", 
+    "poster_url": "ThePlagueDogs.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WickedStepmother"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother"
+            ], 
+            "shared_count": 1, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PansLabyrinth", 
+            "name": "Pan's Labyrinth", 
+            "poster_url": "PansLabyrinth.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother"
+            ], 
+            "shared_count": 1, 
+            "id": "Belle", 
+            "name": "Belle", 
+            "poster_url": "Belle.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother"
+            ], 
+            "shared_count": 1, 
+            "id": "MonkeyTrouble", 
+            "name": "Monkey Trouble", 
+            "poster_url": "MonkeyTrouble.jpg"
+        }
+    ], 
+    "id": "ThePlagueDogs", 
+    "name": "The Plague Dogs"
+}

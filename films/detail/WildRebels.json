@@ -1,0 +1,76 @@
+{
+    "plot": "After one crash too many, race car driver Rod throws in the towel only to be recruited by a motorcycle gang to be a getaway driver for their next bank robbery.", 
+    "genres": "Crime, Drama", 
+    "release_year": "1967", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Linda", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High Heel-Face Turn: Linda, at the end.", 
+                "id": "HighHeelFaceTurn"
+            }
+        ]
+    }, 
+    "imdbid": "tt0062493", 
+    "poster_url": "WildRebels.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "UndercoverBrother", 
+            "name": "Undercover Brother", 
+            "poster_url": "UndercoverBrother.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIncredibles", 
+            "name": "The Incredibles"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }
+    ], 
+    "id": "WildRebels", 
+    "name": "Wild Rebels"
+}

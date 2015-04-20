@@ -1,0 +1,81 @@
+{
+    "plot": "Lucas is a Kindergarten teacher who takes great care of his students. Unfortunately for him, young Klara has a run-away imagination and concocts a lie about her teacher. Before Lucas is even able to understand the consequences, he has become the outcast of the town. The hunt is on to prove his innocence before it's taken from him for good.", 
+    "genres": "Drama", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "true"
+                ], 
+                "role": "Papa Wolf: Theo threatens to put a bullet in Lucas's brain if the rumors are proven true.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "ferocious"
+                ], 
+                "role": "Mama Bear: Klara's mother becomes ferocious when she thinks Lucas has molested her daughter, threatening to castrate him.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt2106476", 
+    "poster_url": "TheHunt.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "HomeAlone", 
+            "name": "Home Alone", 
+            "poster_url": "HomeAlone.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "ClassOf1984", 
+            "name": "Class Of", 
+            "poster_url": "ClassOf1984.jpg"
+        }
+    ], 
+    "id": "TheHunt", 
+    "name": "The Hunt"
+}

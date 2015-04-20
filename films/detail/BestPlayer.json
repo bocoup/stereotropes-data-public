@@ -1,0 +1,73 @@
+{
+    "plot": "Gamer Quincy is the master of games until he meets his match. A kid named \"Prodigy\" keeps beating him. Quincy falls in love with a woman but is frightened when he finds out her daughter is Prodigy. A.K.A Chris who just so happens to not approve of him.", 
+    "genres": "Comedy, Family", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Basement-Dweller"
+                ], 
+                "role": "Basement-Dweller: Quincy.", 
+                "id": "BasementDweller"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Gamer Chick: Chris.", 
+                "id": "GamerChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1535615", 
+    "similar": [
+        {
+            "shared": [
+                "GamerChick"
+            ], 
+            "shared_count": 1, 
+            "id": "BenX", 
+            "name": "Ben X", 
+            "poster_url": "BenX.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScore", 
+            "name": "The Score", 
+            "poster_url": "TheScore.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "WaynesWorld", 
+            "name": "Wayne's World", 
+            "poster_url": "WaynesWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "GamerChick"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWizard", 
+            "name": "The Wizard", 
+            "poster_url": "TheWizard.jpg"
+        }
+    ], 
+    "id": "BestPlayer", 
+    "name": "Best Player"
+}

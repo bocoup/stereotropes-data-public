@@ -1,0 +1,74 @@
+{
+    "plot": "A large box arrives for Donald on his birthday, three gifts inside. He unwraps one at a time, and each takes him on an adventure. The first is a movie projector with a film about the birds of South America; Donald watches two cartoons, one tells of a penguin who longs to live on a tropical isle and the other about a gaucho boy who hunts the wild ostrich. The second gift is a pop-up book about Brazil. Inside is Jose Carioca, who takes Donald to Brazil's Bahia for a mix of animation and live action: the two cartoon birds sing and dance with natives. The third gift is a pi\u00f1ata, accompanied by Panchito. A ride on a magic serape takes the three amigos singing and dancing across Mexico. \u00a1Ol\u00e9!", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "1944", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Keet: Panchito.", 
+                "id": "Keet"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Cookie-making"
+                ], 
+                "role": "Hello, Nurse!: \"She makes cookies my friends! Cookies!\" Cookie-making se\u00f1oritas, bathing beauties, dancing cactus and flower women - this one's got it all!", 
+                "id": "HelloNurse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0038166", 
+    "poster_url": "TheThreeCaballeros.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HelloNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "Keet"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "Keet"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "HulkVs", 
+            "name": "Hulk Vs.", 
+            "poster_url": "HulkVs.jpg"
+        }
+    ], 
+    "id": "TheThreeCaballeros", 
+    "name": "The Three Caballeros"
+}

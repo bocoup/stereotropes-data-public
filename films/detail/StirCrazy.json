@@ -1,0 +1,90 @@
+{
+    "plot": "Skip and Harry are framed for a bank robbery and end up in a western prison. The two eastern boys are having difficulty adjusting to the new life until the warden finds that Skip has a natural talent for riding broncos with the inter-prison rodeo coming up.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Rory (George Sanford Brown) who keeps calling Harry \"My dear\" and making passes at him.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: The warden and the head guard.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "light", 
+                    "first"
+                ], 
+                "role": "Scary Black Man: The prisoner wearing a cowboy hat who asks Skip and Harry for a light when they're first incarcerated.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "paralegal"
+                ], 
+                "role": "Averted in Stir Crazy. When a paralegal goes undercover at a strip joint, she does so as a waitress.", 
+                "id": "DirtyHarriet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0081562", 
+    "poster_url": "StirCrazy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AsGoodAsItGets", 
+            "name": "As Good As It Gets", 
+            "poster_url": "AsGoodAsItGets.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongestYard", 
+            "name": "The Longest Yard", 
+            "poster_url": "TheLongestYard.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }, 
+        {
+            "shared": [
+                "DirtyHarriet", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }
+    ], 
+    "id": "StirCrazy", 
+    "name": "Stir Crazy"
+}

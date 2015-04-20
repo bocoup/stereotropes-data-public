@@ -1,0 +1,77 @@
+{
+    "plot": "A father reminisces about his childhood when he and his younger brother moved to a new town with their mother, her new husband and their dog, Shane. When the younger brother is subjected to physical abuse at the hands of their brutal stepfather, Mike decides to convert their toy trolley, the \"Radio Flyer\", into a plane to fly him to safety.", 
+    "genres": "Drama", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "real"
+                ], 
+                "role": "Disappeared Dad: The boys' real father.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Wicked Stepfather", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0105211", 
+    "poster_url": "RadioFlyer.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "WickedStepmother"
+            ], 
+            "shared_count": 2, 
+            "id": "PansLabyrinth", 
+            "name": "Pan's Labyrinth", 
+            "poster_url": "PansLabyrinth.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "WickedStepmother"
+            ], 
+            "shared_count": 2, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "WickedStepmother"
+            ], 
+            "shared_count": 2, 
+            "id": "Tangled", 
+            "name": "Tangled", 
+            "poster_url": "Tangled.png"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }
+    ], 
+    "id": "RadioFlyer", 
+    "name": "Radio Flyer"
+}

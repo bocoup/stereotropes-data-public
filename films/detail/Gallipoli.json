@@ -1,0 +1,66 @@
+{
+    "plot": "The story of a group of young Australian men who leave their various backgrounds behind and sign up to join the ANZACs in World War I. They are sent to Gallipoli, where they encounter the resolute Turkish army whose ally Germany had organized the defenses along the peninsula, Kemal Ataturk comes to the fore during this campaign.", 
+    "genres": "Adventure, Drama, History", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "many"
+                ], 
+                "role": "Child Soldiers: Archy is underage, and there were many boys at Gallipoli all signing up for the \"glory\" of it. One was 14 and died a week after he arrived.", 
+                "id": "ChildSoldiers"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082432", 
+    "poster_url": "Gallipoli.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "TheStraightStory", 
+            "name": "The Straight Story", 
+            "poster_url": "TheStraightStory.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "SlaughterhouseFive", 
+            "name": "Slaughterhouse-Five", 
+            "poster_url": "SlaughterhouseFive.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "Soldier", 
+            "name": "Soldier", 
+            "poster_url": "Soldier.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }
+    ], 
+    "id": "Gallipoli", 
+    "name": "Gallipoli"
+}

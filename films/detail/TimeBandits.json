@@ -1,0 +1,75 @@
+{
+    "plot": "A young boy's wardrobe contains a time hole. Through this hole an assortment of short people (i.e. dwarfs) come while escaping from their master, the supreme being. They take Kevin with them on their adventures through time from Napoleonic times to the Middle Ages to the early 1900s, to the time of Legends and the Fortress of Ultimate Darkness where they confront Evil.", 
+    "genres": "Adventure, Comedy, Fantasy", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Agammemnon. He's a far better parent than Kevin's parents ever were.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "final", 
+                    "whole"
+                ], 
+                "role": "Knight in Shining Armor - Before the dwarfs turn up, a knight on horseback leaps through Kevin's closet. In the final battle, a whole group of them charge at the Evil Genius.", 
+                "id": "KnightInShiningArmor"
+            }
+        ]
+    }, 
+    "imdbid": "tt0081633", 
+    "poster_url": "TimeBandits.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "SevenSamurai", 
+            "name": "Seven Samurai", 
+            "poster_url": "SevenSamurai.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekNemesis", 
+            "name": "Star Trek: Nemesis", 
+            "poster_url": "StarTrekNemesis.jpg"
+        }
+    ], 
+    "id": "TimeBandits", 
+    "name": "Time Bandits"
+}

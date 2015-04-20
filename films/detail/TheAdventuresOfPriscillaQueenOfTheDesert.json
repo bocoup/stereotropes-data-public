@@ -1,0 +1,107 @@
+{
+    "plot": "Two drag-queens (Anthony/Mitzi and Adam/Felicia) and a transexual (Bernadette) contract to perform a drag show at a resort in Alice Springs, a resort town in the remote Australian desert. They head west from Sydney aboard their lavender bus, Priscilla. En route, it is discovered that the woman they've contracted with is Anthony's wife. Their bus breaks down, and is repaired by Bob, who travels on with them.", 
+    "genres": "Comedy, Music", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Agent Peacock", 
+                "id": "AgentPeacock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Priscilla Queen Of The Desert: When the Drag Queens are almost assaulted by a bunch of roughnecks, they scare them off.", 
+                "id": "AgentPeacock"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Camp Gay: Adam. And Tick as well, but much less so.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Adam's uncle in the flashback.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Tick.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Tick falls somewhere between this and Camp Gay.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Hecate Drag Queens. Tick is the girl, Felicia is the mother, Bernadette is the crone.", 
+                "id": "TheHecateSisters"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109045", 
+    "poster_url": "TheAdventuresOfPriscillaQueenOfTheDesert.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 3, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "StraightGay", 
+                "AgentPeacock"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CampGay", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheHecateSisters", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "TheHecateSisters", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }
+    ], 
+    "id": "TheAdventuresOfPriscillaQueenOfTheDesert", 
+    "name": "The Adventures of Priscilla, Queen of the Desert"
+}

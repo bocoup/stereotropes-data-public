@@ -1,0 +1,70 @@
+{
+    "plot": "Another spoof from the mind of Mel Brooks. This time he's out to poke fun at the Dracula myth. Basically, he took \"Bram Stoker's Dracula,\" gave it a new cast and a new script and made a big joke out of it. The usual, rich English are attacked by Dracula and Dr. Van Helsing is brought in to save the day.", 
+    "genres": "Comedy, Fantasy, Horror", 
+    "release_year": "1995", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Gag Boobs: Jonathan is British! But then, so are Lucy's boobs.", 
+                "id": "GagBoobs"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Dracula: Dead and Loving It, Jonathan is British. But then, so are Lucy's boobs!", 
+                "id": "GagBoobs"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112896", 
+    "poster_url": "DraculaDeadAndLovingIt.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GagBoobs"
+            ], 
+            "shared_count": 1, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "GagBoobs"
+            ], 
+            "shared_count": 1, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "GagBoobs"
+            ], 
+            "shared_count": 1, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }, 
+        {
+            "shared": [
+                "GagBoobs"
+            ], 
+            "shared_count": 1, 
+            "id": "GrizzlyPark", 
+            "name": "Grizzly Park", 
+            "poster_url": "GrizzlyPark.jpg"
+        }, 
+        {
+            "shared": [
+                "GagBoobs"
+            ], 
+            "shared_count": 1, 
+            "id": "BartokTheMagnificent", 
+            "name": "Bartok the Magnificent", 
+            "poster_url": "BartokTheMagnificent.jpg"
+        }
+    ], 
+    "id": "DraculaDeadAndLovingIt", 
+    "name": "Dracula: Dead and Loving It"
+}

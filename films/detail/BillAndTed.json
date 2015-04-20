@@ -1,0 +1,136 @@
+{
+    "plot": "Bill Sackter, a intellectually disabled man, ventures out into the world for the first time, having spent most of his life in a dreary inner city institution. He is taken in by a kind family and learns for the first time in his life what it means to love.", 
+    "genres": "Biography, Drama", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first", 
+                    "first", 
+                    "bad", 
+                    "first", 
+                    "military", 
+                    "full"
+                ], 
+                "role": "Drill Sergeant Nasty: Colonel Oats, the head and namesake of Oats Military Academy where Ted's dad is threatening to send him in the first movie. He's only mentioned in the first film. He first appears in the sequel and doesn't seem too bad initially. However, when the duo goes to hell, the first punishment they go through is being in military school with him where he's this trope in full force and demands that they \"get down and give me infinity\". Then again, they are in HELL...", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "titular", 
+                    "evil", 
+                    "trash"
+                ], 
+                "role": "In Bill And Ted's Bogus Journey, the titular duo's apartment starts off as a mild example of this trope. It gets worse once their evil robot doubles further trash the place.", 
+                "id": "MenCantKeepHouse"
+            }, 
+            {
+                "adjectives": [
+                    "second"
+                ], 
+                "role": "Men Can't Keep House: Bill and Ted's apartment in the second movie is a showcase of this trope.", 
+                "id": "MenCantKeepHouse"
+            }, 
+            {
+                "adjectives": [
+                    "quite", 
+                    "ocean"
+                ], 
+                "role": "Bill & Ted's Excellent Adventure: Bill S. Preston and Ted \"Theodore\" Logan speak with quite a lot of surfer slang, despite being metalheads instead of surfers. They're from San Dimas, which is in Southern California, but far from the ocean.", 
+                "id": "SurferDude"
+            }, 
+            {
+                "adjectives": [
+                    "So-Cal", 
+                    "fair"
+                ], 
+                "role": "Surfer Dudes: Bill and Ted are from Southern California, so their speech includes a lot of So-Cal surfer slang even though they're not surfers and San Dimas is a fair distance inland.", 
+                "id": "SurferDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "historical"
+                ], 
+                "role": "Bill & Ted have a time machine in which they can bag any historical babe they wanted. No points in guessing who they pick.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Everything's Better With Royal English Babes:", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Granola Girl: Missy.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [
+                    "funny"
+                ], 
+                "role": "Missing Mom: Neither of the boys' mothers are ever so much as mentioned, let alone explaining where they went. Possibly because digging into that would take the funny out of the running gag with Missy.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082075", 
+    "similar": [
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "MissingMom", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "MenCantKeepHouse", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "SurferDude", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }
+    ], 
+    "id": "BillAndTed", 
+    "name": "Bill & Ted"
+}

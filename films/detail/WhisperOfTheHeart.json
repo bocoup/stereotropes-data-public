@@ -1,0 +1,98 @@
+{
+    "plot": "A young girl finds that all the books she chooses in the library have been previously checked out by the same boy. Later she meets a very infuriating fellow... could it be her \"friend\" from the library? The boy's grandfather has a violin sales and service shop. The boy wants to be a violin maker like his grandfather.", 
+    "genres": "Animation, Drama, Family", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: You find out in the latter half of the film that Seiji had always admired Shizuku from afar and had borrowed all of the library books in an attempt to make her notice him.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "college-aged", 
+                    "little", 
+                    "bossy"
+                ], 
+                "role": "Cool Big Sis: Averted; Shizuku's college-aged sister Shiho obviously cares about her little sister, but she's very, very bossy.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [
+                    "present"
+                ], 
+                "role": "Missing Mom: Very mild case; Shizuku's mother is present, just distracted.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Shizuku, of course.", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113824", 
+    "poster_url": "WhisperOfTheHeart.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "DoggedNiceGuy", 
+                "PluckyGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "TheTwilightSamurai", 
+            "name": "The Twilight Samurai", 
+            "poster_url": "TheTwilightSamurai.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "PluckyGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "PluckyGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Kick-Ass", 
+            "name": "Kick-Ass", 
+            "poster_url": "Kick-Ass.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }
+    ], 
+    "id": "WhisperOfTheHeart", 
+    "name": "Whisper of the Heart"
+}

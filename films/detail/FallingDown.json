@@ -1,0 +1,94 @@
+{
+    "plot": "William (D-FENS) just wants to get home to see his daughter on her birthday. Unfortunately, nothing seems to be going right for him. First there's the traffic jam, then the unhelpful Korean shopkeeper who \"doesn't give change\". D-FENS begins to crack and starts to fight back against the every day \"injustices\" he encounters on his journey home. The film has a story running in parallel about a desk-bound cop who is about to retire. He's retiring for his wife's sake, and obviously isn't happy about it. The cop tracks down D-FENS and in the final scene.....", 
+    "genres": "Crime, Drama, Thriller", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "angry", 
+                    "main"
+                ], 
+                "role": "Falling Down has an angry black man shouting on a street corner about how he was laid off because he was \"not economically viable.\" His anger has a deep impact on the main character.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "black"
+                ], 
+                "role": "Armored Closet Gay: Nick the Nazi, who graphically fantasizes about Foster getting Prison Raped by a black man.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Prendergast.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Prendergast. This changes by the end.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "major"
+                ], 
+                "role": "The neo-Nazi freak hates homosexuals, but dresses as a Manly Gay and obviously goes through some major Foe Yay with Foster.", 
+                "id": "ManlyGay"
+            }
+        ]
+    }, 
+    "imdbid": "tt0106856", 
+    "poster_url": "FallingDown.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AngryBlackMan", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "AmericanHistoryX", 
+            "name": "American History X", 
+            "poster_url": "AmericanHistoryX.jpg"
+        }, 
+        {
+            "shared": [
+                "AngryBlackMan", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "AngryBlackMan", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 2, 
+            "id": "ChasingAmy", 
+            "name": "Chasing Amy", 
+            "poster_url": "ChasingAmy.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "OliverTwist", 
+            "name": "Oliver Twist"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "FallingDown", 
+    "name": "Falling Down"
+}

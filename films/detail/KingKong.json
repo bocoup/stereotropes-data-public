@@ -1,0 +1,115 @@
+{
+    "plot": "Carl Denham needs to finish his movie and has the perfect location; Skull Island. But he still needs to find a leading lady. This 'soon-to-be-unfortunate' soul is Ann Darrow. No one knows what they will encounter on this island and why it is so mysterious, but once they reach it, they will soon find out. Living on this hidden island is a giant gorilla and this beast now has Ann is its grasps. Carl and Ann's new love, Jack Driscoll must travel through the jungle looking for Kong and Ann, whilst avoiding all sorts of creatures and beasts. But Carl has another plan in mind.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "rear", 
+                    "later"
+                ], 
+                "role": "Dirty Coward: Tim, the sailor who tries to run when the natives notice them, comes off as this. He's also The Load, since he always brings up the rear of the rescue party later and is constantly falling behind (especially when they're running from the brontosaurus). He does, however, save Jimmy from drowning by helping him take off his backpack after the raft overturns.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "nibble", 
+                    "new"
+                ], 
+                "role": "Papa Silverback: If you're a Vastatosaurus, don't even think about sneaking a nibble from Kong's new surrogate child, Ann.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "original", 
+                    "subverted/deconstructed", 
+                    "later", 
+                    "Stockholm-esque/Koko-and-Kitten"
+                ], 
+                "role": "Damsel in Distress: Played straight in the original; subverted/deconstructed in the later films with the girl's Stockholm-esque/Koko-and-Kitten bonding with Kong.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "dim"
+                ], 
+                "role": "The Shaw Brothers King Kong rip off Mighty Peking Man (or Goliathon) featured a particularly dim witted version who was constantly on the verge of a nip slip.", 
+                "id": "JunglePrincess"
+            }, 
+            {
+                "adjectives": [
+                    "original", 
+                    "memorable", 
+                    "as-yet-unseen"
+                ], 
+                "role": "In the original King Kong, Fay Wray spent hours in the recording booth so she could scream in just the right way. It succeeded, producing one very memorable scream.\n In the Peter Jackson remake (in a scene deleted from the movie but used for the trailer) a fake movie scream by the actress gets an answering roar from the as-yet-unseen King Kong.", 
+                "id": "ScreamingWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0360717", 
+    "poster_url": "KingKong.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "TheRocketeer", 
+            "name": "The Rocketeer", 
+            "poster_url": "TheRocketeer.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "NextAvengersHeroesOfTomorrow", 
+            "name": "Next Avengers: Heroes of Tomorrow"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }
+    ], 
+    "id": "KingKong", 
+    "name": "King Kong"
+}

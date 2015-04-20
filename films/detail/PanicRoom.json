@@ -1,0 +1,77 @@
+{
+    "plot": "Recently divorced Meg Altman and her daughter Sarah have bought a new home in New York. On their tour around the mansion, they come across the panic room. A room so secure, that no one can get in. When three burglars break in, Meg makes a move to the panic room. But all her troubles don't stop there. The criminals know where she is, and what they require the most in the house is in that very room.", 
+    "genres": "Drama, Thriller", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Stephen Altman.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Meg.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0258000", 
+    "poster_url": "PanicRoom.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "HomeAlone", 
+            "name": "Home Alone", 
+            "poster_url": "HomeAlone.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "ClassOf1984", 
+            "name": "Class Of", 
+            "poster_url": "ClassOf1984.jpg"
+        }
+    ], 
+    "id": "PanicRoom", 
+    "name": "Panic Room"
+}

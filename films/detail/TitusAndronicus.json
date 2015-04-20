@@ -1,0 +1,95 @@
+{
+    "plot": "Having subdued the Goths, warrior Titus Andronicus returns to Rome to bury his sons, with Gothic Queen Tamora and her retinue as captives. The newly-dead Roman Emperor's two sons, Saturninus and Bassianus, are competing for their father's title. According to Roman custom, Titus sacrifices Tamora's eldest son to the Gods; having the deciding vote, he also chooses Saturninus as Emperor. Both acts have tragic consequences.", 
+    "genres": "Drama, Horror", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Aaron, after his son is born. Of course, since this is Aaron, his plan to protect his son mostly consists of murdering people.", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Scary Black Man: Aaron is somehow scarier than the other villains. And he's a Moor.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: Tamora", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "forth", 
+                    "other"
+                ], 
+                "role": "Mama Bear: Tamora. She will come after you and your children! Titus himself goes back and forth, he  kills one of his sons for dishonoring the family but goes into a Roaring Rampage of Revenge over his other children.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0090178", 
+    "poster_url": "TitusAndronicus.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "EvilMatriarch", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "FourBrothers", 
+            "name": "Four Brothers"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "CoachCarter", 
+            "name": "Coach Carter", 
+            "poster_url": "CoachCarter.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }
+    ], 
+    "id": "TitusAndronicus", 
+    "name": "Titus Andronicus"
+}

@@ -1,0 +1,155 @@
+{
+    "plot": "Kathryn makes a bet that her step-brother, Sebastian, won't be able to bed Annette (a virgin, who wants to wait until marriage) before the start of the school year. If he loses, Kathryn gets his Roadster, if he wins, he gets Kathryn", 
+    "genres": "Drama, Romance", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "heterosexual"
+                ], 
+                "role": "Annette's friend Greg in Cruel Intentions plays on the football team and makes himself out to be a heterosexual jock type. He isn't, which is taken advantage of by Sebastian.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [
+                    "heterosexual"
+                ], 
+                "role": "Armoured Closet Gay: Annette's friend Greg plays on the football team and makes himself out to be a heterosexual jock type. Of course he isn't, which is taken advantage of by Sebastian.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Blaine", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "Sebastian"
+                ], 
+                "role": "KidAnova: Sebastian", 
+                "id": "KidAnova"
+            }, 
+            {
+                "adjectives": [
+                    "Sebastian"
+                ], 
+                "role": "Ladykiller in Love: Sebastian", 
+                "id": "LadyKillerInLove"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "popular", 
+                    "happy", 
+                    "other"
+                ], 
+                "role": "Alpha Bitch: Deconstructed with Kathryn. She is the most popular girl in school and regularly abuses the privilege, but she is also a borderline recluse much of the time and confesses to Sebastian that she isn't really happy with her life. Honestly, her desire to want to humiliate other girls is more out of envy than pure sadism.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "drab", 
+                    "conservative"
+                ], 
+                "role": "Catholic School Girls Rule: Though their uniforms are more drab and conservative than is popularly portrayed.", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cruel Intentions: Both Sarah Michelle Gellar and Reese Witherspoon do the Catholic Schoolgirl thing.\n This is parodied by Mia Kirshner's character in Not Another Teen Movie.", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fille Fatale: Kathryn is the poster child of this trope.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Light Feminine and Dark Feminine: Annette and Kathryn.", 
+                "id": "LightFeminineAndDarkFeminine"
+            }, 
+            {
+                "adjectives": [
+                    "virginal", 
+                    "manipulative", 
+                    "sexual"
+                ], 
+                "role": "Cruel Intentions has the virginal Annette Hargrove contrasted with the manipulative and sexual Kathryn Merteuil.", 
+                "id": "MadonnaWhoreComplex"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kathryn in Cruel Intentions.", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0139134", 
+    "poster_url": "CruelIntentions.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "ArmouredClosetGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "FilleFatale", 
+                "CatholicSchoolGirlsRule", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 3, 
+            "id": "Trainspotting", 
+            "name": "Trainspotting", 
+            "poster_url": "Trainspotting.jpg"
+        }, 
+        {
+            "shared": [
+                "MadonnaWhoreComplex", 
+                "LightFeminineAndDarkFeminine", 
+                "WomanScorned"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine", 
+                "TheVamp", 
+                "CampGay"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "MadonnaWhoreComplex", 
+                "TheVamp", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }
+    ], 
+    "id": "CruelIntentions", 
+    "name": "Cruel Intentions"
+}

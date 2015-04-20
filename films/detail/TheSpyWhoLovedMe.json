@@ -1,0 +1,107 @@
+{
+    "plot": "James Bond is back again and his new mission is to find out how a Royal Navy Polaris submarine holding sixteen nuclear warheads simply disappears whilst on patrol. Bond joins Major Anya Amasova and takes on a a web-handed mastermind, known as Karl Stromberg, as well as his henchman Jaws, who has a mouthful of metal teeth. Bond must track down the location of the missing submarine before the warheads are fired.", 
+    "genres": "Action, Adventure, Crime", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "couch"
+                ], 
+                "role": "Dirty Old Man: Stromberg to Anya, while she's strapped to a couch.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Spy Who Loved Me. The harem girls who work for Bond's friend Hosein wear this garb.", 
+                "id": "BedlahBabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Naomi in The Spy Who Loved Me flies a helicopter wearing a shirt and a bikini.", 
+                "id": "BikerBabe"
+            }, 
+            {
+                "adjectives": [
+                    "Bad", 
+                    "numerous", 
+                    "particular", 
+                    "forcing", 
+                    "stupid"
+                ], 
+                "role": "Faux Action Girl: Anya Amasova. She's said to be a Bad Ass Soviet spy who has never failed a mission, but in the movie she wouldn't have survived any of the numerous perils without Bond's help, and she spends the finale tied to a chair by the villain, while Bond has to come and rescue her. Of particular note is that she holds a gun on Jaws and forces him to drop the microfilm McGuffin he is carrying, then instead of forcing him to back away, she is stupid enough to walk over to HIM, bend over right in front of him, and take her eyes off him to grab the McGuffin. He immediately kicks the gun out of her hand and would have almost certainly killed her had Bond not been there.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "gorgeous"
+                ], 
+                "role": "Ms. Fanservice: Naomi, Stromberg's gorgeous helicopter pilot/assassin.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Anya from The Spy Who Loved Me is a goody who starts off as the Sexpot type, but rapidly defrosts.", 
+                "id": "TheBaroness"
+            }
+        ]
+    }, 
+    "imdbid": "tt0076752", 
+    "poster_url": "TheSpyWhoLovedMe.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "DirtyOldMan", 
+                "BikerBabe"
+            ], 
+            "shared_count": 3, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "BedlahBabe", 
+                "MsFanservice", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }
+    ], 
+    "id": "TheSpyWhoLovedMe", 
+    "name": "The Spy Who Loved Me"
+}

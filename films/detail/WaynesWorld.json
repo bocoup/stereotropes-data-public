@@ -1,0 +1,107 @@
+{
+    "plot": "Wayne is still living at home. He has a world class collection of name tags from jobs he's tried, but he does have his own public access TV show. A local station decides to hire him and his sidekick, Garth, to do their show professionally and Wayne & Garth find that it is no longer the same. Wayne falls for a bass guitarist and uses his and Garth's Video contacts to help her career along, knowing that Ben Oliver, the sleazy advertising guy who is ruining their show will probably take her away from him if they fail.", 
+    "genres": "Comedy, Music", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Basement-Dweller", 
+                    "first", 
+                    "second", 
+                    "own"
+                ], 
+                "role": "Basement-Dweller: In the first movie Wayne lives in his parents' basement. By the second film he and Garth have gotten a place of their own.", 
+                "id": "BasementDweller"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Stacy, Wayne's psycho ex in Wayne's World", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "next", 
+                    "Gaussian"
+                ], 
+                "role": "Done for laughs in Wayne's World. When Wayne first sees Cassandra, she's on stage aggressively singing \"Let me stand next to your fire\". Wayne's view of her is in Gaussian and he hears \"Dream Weaver\".", 
+                "id": "GaussianGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wayne's World: Garth, another rare male example.", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [
+                    "gorgeous"
+                ], 
+                "role": "Ms. Fanservice: Honey Horne\u00e9, who is played by the gorgeous Kim Basinger and always dresses sexy. Also, Cassandra, of course.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Honey Horne\u00e9, who seduces Garth and then tries to get him to kill her husband.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0105793", 
+    "poster_url": "WaynesWorld.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp", 
+                "Meganekko", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "TransformersRevengeOfTheFallen", 
+            "name": "Transformers: Revenge of The Fallen", 
+            "poster_url": "TransformersRevengeOfTheFallen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "CoolWorld", 
+            "name": "Cool World", 
+            "poster_url": "CoolWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }
+    ], 
+    "id": "WaynesWorld", 
+    "name": "Wayne's World"
+}

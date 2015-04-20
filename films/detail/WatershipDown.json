@@ -1,0 +1,91 @@
+{
+    "plot": "Based upon Richard Adam's novel of the same title, this animated feature delves into the surprisingly violent world of a warren of rabbits as they seek to establish a new colony free of tyranny and human intervention. Frightening and bloody in some scenes. Not recommended for young children.", 
+    "genres": "Animation, Adventure, Drama", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Vervain, Played for Laughs.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "kind-hearted", 
+                    "other"
+                ], 
+                "role": "Bigwig in Watership Down when he wants to be. Yes, that\u2019s right. He's a rabbit and he pulls this off.\n Hazel actually criticises him here for going too far and making Hawkbit, Acorn and Speedwell feel threatened and biting one of them for arguing, but as Bigwig can also be a more kind-hearted Sergeant Rock when he wants to, he gets the job done one way or the other.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Granite.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Spartina. Bark also qualifies, as she reappears in the finale to fight Woundwort and the Darkhaven rabbits.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0078480", 
+    "poster_url": "WatershipDown.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DirtyCoward", 
+                "ActionGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "EdgeOfTomorrow", 
+            "name": "Edge of Tomorrow", 
+            "poster_url": "EdgeOfTomorrow.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "FreeBirds", 
+            "name": "Free Birds", 
+            "poster_url": "FreeBirds.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }
+    ], 
+    "id": "WatershipDown", 
+    "name": "Watership Down"
+}

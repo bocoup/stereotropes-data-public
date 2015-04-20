@@ -1,0 +1,89 @@
+{
+    "plot": "N/A", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "vigorous", 
+                    "Gun-ho", 
+                    "nervous", 
+                    "Joo-young"
+                ], 
+                "role": "The Loins Sleep Tonight: Vika and Gun-ho's formerly vigorous sex life comes to a halt when Gun-ho starts getting nervous about the upcoming wedding. This is why he goes to see Joo-young.", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Gun-ho"
+                ], 
+                "role": "Hello, Nurse!: Vika tends to attract attention from men, like when she's jogging through Seoul on her way to see Gun-ho.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [
+                    "Dae-bok", 
+                    "prospective", 
+                    "Yi-ra"
+                ], 
+                "role": "My Beloved Smother: Dae-bok's mom, who buys a lot of tacky furniture for his and Yi-ra's prospective home, assumes that she will live with them, assumes that Yi-ra's family will pay for the wedding, etc.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt3432886", 
+    "similar": [
+        {
+            "shared": [
+                "TheLoinsSleepTonight", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "SpaceJam", 
+            "name": "Space Jam", 
+            "poster_url": "SpaceJam.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "MarriageBlue", 
+    "name": "Marriage Blue"
+}

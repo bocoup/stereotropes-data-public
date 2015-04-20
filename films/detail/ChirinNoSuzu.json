@@ -1,0 +1,90 @@
+{
+    "plot": "A baby lamb named Chirin is living an idyllic life on a farm with many other sheep. Chirin is very adventurous and tends to get lost, so he wears a bell around his neck so that his mother can always find him. His mother warns Chirin that he must never venture beyond the fence surrounding the farm, because a huge black wolf lives in the mountains and loves to eat sheep. Chirin is too young and naive to take the advice to heart, until one night the wolf enters the barn and is prepared to kill Chirin, but at the last moment the lamb's mother throws herself in the way and is killed instead. The wolf leaves, and Chirin is horrified to see his mother's body. Unable to understand why his mother was killed, he becomes very angry and swears that he will go into the mountains and kill the wolf.", 
+    "genres": "Animation, Drama, Family", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Japanese", 
+                    "old"
+                ], 
+                "role": "Badass Grandpa: Wolf. The English version makes no hint of this. However, Chirin's mother in the Japanese version refers to Wolf as \"an old wolf\". Combine that with the scenes that show Wolf in action and you get this trope.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "entire"
+                ], 
+                "role": "Disappeared Dad: Chirin's father is not seen or mentioned anywhere in the film. As a matter of fact, the entire flock of sheep has no rams in it at all.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "Missing Mom: Interesting to note that this is one of the few films that show exactly how Mommy goes missing.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0306646", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BadassGrandpa", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BadassGrandpa", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BadassGrandpa", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }
+    ], 
+    "id": "ChirinNoSuzu", 
+    "name": "Chirin No Suzu"
+}

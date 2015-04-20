@@ -1,0 +1,99 @@
+{
+    "plot": "Something has gone wrong at a remote scientific research station on Mars. All research has ceased. Communication has failed. And the messages that do get through are less than comforting. It's a level 5 quarantine and the only souls allowed in or out are the Rapid Response Tactical Squad - hardened Marines armed to the teeth with enough firepower to neutralize the enemy...or so they think.", 
+    "genres": "Action, Adventure, Horror", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bald Black Leader Guy: Sarge.", 
+                "id": "BaldBlackLeaderGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Chivalrous"
+                ], 
+                "role": "Chivalrous Pervert: Duke.", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "Dirty Coward: Portman, though he has several moments of Lovable Coward, too. Also Pinky, given that he apparently flees through the Ark rather than destroy it and the hell knight attempting to get through it with a grenade, as he was ordered.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "rid"
+                ], 
+                "role": "When Andy complained about the violence in Jason's Doomathon 2 game, Jason convinced her to try the game herself. Andy becomes so addicted to the game Jason gets rid of it to get his computer back.", 
+                "id": "GamerChick"
+            }, 
+            {
+                "adjectives": [
+                    "final"
+                ], 
+                "role": "Yurei, the final opponent in the Doom 2 mod Ghoul's Forest 3.", 
+                "id": "StringyHairedGhostGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0419706", 
+    "poster_url": "Doom.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "ChivalrousPervert", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWarriors", 
+            "name": "The Warriors", 
+            "poster_url": "TheWarriors.jpg"
+        }, 
+        {
+            "shared": [
+                "ChivalrousPervert", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGreatRace", 
+            "name": "The Great Race", 
+            "poster_url": "TheGreatRace.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "Doom", 
+    "name": "Doom"
+}

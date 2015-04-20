@@ -1,0 +1,94 @@
+{
+    "plot": "Attack the Block follows an unlucky young woman and and a gang of tough inner-city kids who make an unlikely alliance to try to defend their turf against an invasion of savage alien creatures, turning a South London apartment complex into a war-zone.", 
+    "genres": "Action, Comedy, Sci-Fi", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Hi-Hatz", 
+                    "own", 
+                    "short", 
+                    "skinny", 
+                    "impulsive", 
+                    "trigger-happy", 
+                    "unable"
+                ], 
+                "role": "Scary Black Man: Subverted by Moses. Played straight with Hi-Hatz, who even frightens his own men. Not because of being imposing, seeing as he's rather short and skinny, but because he's so impulsive and trigger-happy, completely unable to cool down once he gets riled up.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "head-on"
+                ], 
+                "role": "Action Girl: Tia and Dimples, most definitely. Sam may count, though seeing as she snuck up the one alien she killed, whereas Tia and Dimples faced the one alien they killed head-on, Tia and Dimples may count as a better example. Lampshaded earlier by Moses.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick - Biggz... well he does spend half the movie hiding in a dumpster.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1478964", 
+    "poster_url": "AttackTheBlock.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "KungFuPanda", 
+            "name": "Kung Fu Panda", 
+            "poster_url": "KungFuPanda.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Predator", 
+            "name": "Predator", 
+            "poster_url": "Predator.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "AttackTheBlock", 
+    "name": "Attack the Block"
+}

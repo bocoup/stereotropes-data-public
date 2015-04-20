@@ -1,0 +1,91 @@
+{
+    "plot": "A film version of Genet's play. Two maids, Solange and Claire, hate their employers and, while they are out, take turns at dressing up as Madame and insulting her.", 
+    "genres": "Drama", 
+    "release_year": "1975", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "French"
+                ], 
+                "role": "French Maid: Just look at the title.", 
+                "id": "FrenchMaid"
+            }, 
+            {
+                "adjectives": [
+                    "whole"
+                ], 
+                "role": "The Maids, who take the whole Perverse Sexual Lust thing too far.", 
+                "id": "FrenchMaid"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Psycho Lesbian", 
+                "id": "PsychoLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "main", 
+                    "lesbian", 
+                    "titular", 
+                    "third", 
+                    "straight", 
+                    "sane"
+                ], 
+                "role": "The Maids (1975) is all about this. Well, it has just three main characters: two are psycho lesbian sisters (the titular maids), and the third is their mistress who doesn't look very straight or very sane.", 
+                "id": "PsychoLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0071798", 
+    "poster_url": "TheMaids.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PsychoLesbian"
+            ], 
+            "shared_count": 1, 
+            "id": "Barbarella", 
+            "name": "Barbarella", 
+            "poster_url": "Barbarella.jpg"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLinguiniIncident", 
+            "name": "The Linguini Incident", 
+            "poster_url": "TheLinguiniIncident.jpg"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian"
+            ], 
+            "shared_count": 1, 
+            "id": "ElTopo", 
+            "name": "El Topo", 
+            "poster_url": "ElTopo.jpg"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian"
+            ], 
+            "shared_count": 1, 
+            "id": "RedSonja", 
+            "name": "Red Sonja", 
+            "poster_url": "RedSonja.jpg"
+        }, 
+        {
+            "shared": [
+                "FrenchMaid"
+            ], 
+            "shared_count": 1, 
+            "id": "TheRockyHorrorPictureShow", 
+            "name": "The Rocky Horror Picture Show", 
+            "poster_url": "TheRockyHorrorPictureShow.jpg"
+        }
+    ], 
+    "id": "TheMaids", 
+    "name": "The Maids"
+}

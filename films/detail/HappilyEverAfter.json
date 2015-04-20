@@ -1,0 +1,129 @@
+{
+    "plot": "The Evil Queen is dead and Snow White is on her way to see the 7 dwarves when Lord Maliss, the Queen's brother, sees her in the looking glass. He attacks her in the form of a dragon, taking Snow White's prince to the Realm of Doom. Enlisting the aid of the dwarves' cousins, Snow White must embark on a quest to save her true love.", 
+    "genres": "Family, Animation, Musical", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "loose"
+                ], 
+                "role": "Distressed Dude: The thrust of the film's plot is the heroes storming Lord Maliss' castle to rescue the Prince.  Of course, since he's been turned into the Shadow Man, he's actually loose for most of the film.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [
+                    "Mysterious"
+                ], 
+                "role": "Mysterious Protector - The Shadow Man (a.k.a. The Prince)", 
+                "id": "MysteriousProtector"
+            }, 
+            {
+                "adjectives": [
+                    "Mysterious"
+                ], 
+                "role": "Mysterious Protector: The Shadow Man (a.k.a. The Prince)", 
+                "id": "MysteriousProtector"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "spine", 
+                    "other", 
+                    "many", 
+                    "few", 
+                    "good"
+                ], 
+                "role": "Action Girl: This Snow White has quite a bit more spine than other incarnations; many people regard this as one of the few good qualities of the movie.  Ultimately Thunderella too, in the climax, when Thunderella throws a lightning bolt at Lord Maliss and distracts him long enough for Snow White to finish him off.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Graceful Ladies Like Purple: Blossom.", 
+                "id": "GracefulLadiesLikePurple"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team Mom - Snow White", 
+                "id": "TeamMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team Mom: Snow White plays the part to the dwarfelles.", 
+                "id": "TeamMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick - Marina and Moonbeam", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Fashionista: Blossom.", 
+                "id": "TheFashionista"
+            }
+        ]
+    }, 
+    "imdbid": "tt0099733", 
+    "poster_url": "HappilyEverAfter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheFashionista", 
+                "DistressedDude", 
+                "ActionGirl", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 4, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "ActionGirl", 
+                "MysteriousProtector"
+            ], 
+            "shared_count": 3, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "HaloLegends", 
+            "name": "Halo Legends", 
+            "poster_url": "HaloLegends.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "ActionGirl", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 3, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "ActionGirl", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }
+    ], 
+    "id": "HappilyEverAfter", 
+    "name": "Happily Ever After"
+}

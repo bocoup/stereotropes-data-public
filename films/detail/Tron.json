@@ -1,0 +1,136 @@
+{
+    "plot": "Hacker/arcade owner Kevin Flynn is digitally broken down into a data stream by a villainous software pirate known as Master Control and reconstituted into the internal, 3-D graphical world of computers. It is there, in the ultimate blazingly colorful, geometrically intense landscapes of cyberspace, that Flynn joins forces with Tron to outmaneuver the Master Control Program that holds them captive in the equivalent of a gigantic, infinitely challenging computer game.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first", 
+                    "digital", 
+                    "interested", 
+                    "scientific", 
+                    "only", 
+                    "on-screen", 
+                    "new", 
+                    "snarky", 
+                    "sarcastic", 
+                    "certain"
+                ], 
+                "role": "In the first TRON film, Walter Gibbs and his digital counterpart Dumont fall into this territory. Gibbs was the guy who founded Encom, but was more interested in scientific development than money. He invented the laser that got it all started. He was also the only person on-screen who dared to tear Dillinger a new one to his face over the way things were run. His counterpart, Dumont, was the one who allowed Tron to get in contact with Alan via his tower and download the upgrade that eventually destroyed Master Control. Sark's forces eventually catch him, and he's remarkably snarky and sarcastic to them, even in the face of certain de-rez.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "interesting", 
+                    "stereotypical", 
+                    "thin", 
+                    "unremarkable", 
+                    "big"
+                ], 
+                "role": "Mr. Fanservice: Jeff Bridges as Flynn was quite the beast in his shirtless scene. In an interesting case of What Could Have Been, the filmmakers originally wanted an actor who looked more like a stereotypical nerd, very thin and unremarkable in build, the kind of person people might expect to be a computer programmer (probably someone more like Bruce Boxleitner, who played Alan/Tron), not a big, rugged, manly man like Jeff Bridges.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: In a movie that takes place mostly in a computer system where the characters are programs who technically aren't wearing clothes to begin with, they still managed to sneak one in.", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [
+                    "original"
+                ], 
+                "role": "In the original, Flynn (Hunter), Dillinger (Lord), and Walter (Prophet).", 
+                "id": "TheThreeFacesOfAdam"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "new", 
+                    "birth", 
+                    "slow", 
+                    "own", 
+                    "cast", 
+                    "last"
+                ], 
+                "role": "TRON fanfic, Through A Diamond Sky: The Iso scout Kanna is carrying a new \"spark\"  and gives birth on a Recognizer as the crew's making a run for it. This does not slow her down at all. She still holds her own with the rest of the cast in fighting off the Resource Hog Gang, including a chase on light-cycles and wielding a BFG. The last line of the story indicates her daughter turned out pretty badass herself.", 
+                "id": "PregnantBadass"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "At the end of TRON, Lora wore a white angora sweater, seen in the picture above.", 
+                "id": "SweaterGirl"
+            }, 
+            {
+                "adjectives": [
+                    "white", 
+                    "last"
+                ], 
+                "role": "Sweater Girl: Lara's white angora sweater in the last scene of the movie.", 
+                "id": "SweaterGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0084827", 
+    "poster_url": "Tron.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "PregnantBadass", 
+                "TheThreeFacesOfAdam", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 4, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "NinjaAssassin", 
+            "name": "Ninja Assassin", 
+            "poster_url": "NinjaAssassin.jpg"
+        }
+    ], 
+    "id": "Tron", 
+    "name": "TRON"
+}

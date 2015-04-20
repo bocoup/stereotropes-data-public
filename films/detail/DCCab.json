@@ -1,0 +1,77 @@
+{
+    "plot": "The tale of a hapless group of cabbies and a rundown cab company owned by Harold. Albert comes to town with a dream of starting his own cab company but needs to motivate Harold's employees to want to make something out of themselves. It is only when Albert is kidnapped that the cabbies must decide whether or not they are loyal to Albert and his cause.", 
+    "genres": "Comedy, Action", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "same", 
+                    "table"
+                ], 
+                "role": "Casanova Wannabe: Xavier. Dell is another one, repeatedly hitting on his boss Harold's wife Myrna in exceedingly vulgar fashion. While they're eating breakfast together at the same restaurant table.", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [
+                    "nice", 
+                    "awesome"
+                ], 
+                "role": "Henpecked Husband: Harold has shades of this, being an easygoing and all around nice guy. It makes the scene of him standing up to his domineering wife all the more awesome.", 
+                "id": "HenpeckedHusband"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085387", 
+    "poster_url": "DCCab.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuHustle", 
+            "name": "Kung Fu Hustle", 
+            "poster_url": "KungFuHustle.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "StarWreck", 
+            "name": "Star Wreck"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }
+    ], 
+    "id": "DCCab", 
+    "name": "DC Cab"
+}

@@ -1,0 +1,95 @@
+{
+    "plot": "Two researchers have come to San Francisco to compete for a research grant in Music. One seems a bit distracted, and that was before he meets her. A strange woman seems to have devoted her life to confusing and embarassing him. At the same time a woman has her jewels stolen and a government whistle blower arrives with his stolen top secret papers. All, of course have the same style and color overnight bag.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1972", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Howard.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ryan O'Neal's character in Whats Up Doc.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Grande Dame: Mrs. Van Hoskins", 
+                "id": "GrandeDame"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mrs. Van Hoskins in 1972's Whats Up Doc.", 
+                "id": "GrandeDame"
+            }, 
+            {
+                "adjectives": [
+                    "sociopathic"
+                ], 
+                "role": "Manic Pixie Dream Girl: Judy, although her actions border on sociopathic in ways that most MPDGs don't.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0069495", 
+    "poster_url": "WhatsUpDoc.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GrandeDame", 
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BringingUpBaby", 
+            "name": "Bringing Up Baby", 
+            "poster_url": "BringingUpBaby.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Titanic", 
+            "name": "Titanic", 
+            "poster_url": "Titanic.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Topper", 
+            "name": "Topper", 
+            "poster_url": "Topper.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "GreatExpectations", 
+            "name": "Great Expectations", 
+            "poster_url": "GreatExpectations.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HotTubTimeMachine", 
+            "name": "Hot Tub Time Machine", 
+            "poster_url": "HotTubTimeMachine.jpg"
+        }
+    ], 
+    "id": "WhatsUpDoc", 
+    "name": "What's Up, Doc?"
+}

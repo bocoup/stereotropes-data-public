@@ -1,0 +1,89 @@
+{
+    "plot": "In a 1950's mining town called Coalwood, Homer Hickam is a kid with only one future in sight, to work in the local coal mine like his father. However in October 1957, everything changes when the first artificial satellite, Sputnik goes into orbit. With that event, Homer becomes inspired to learn how to build rockets. With his friends and the local nerd, Homer sets to do just that by trial and a lot of error. Unfortunately, most of the town and especially Homer's father thinks that they are wasting their time. Only one teacher in the high school understands their efforts and lets them know that they could become contenders in the national science fair with college scholarships being the prize. Now the gang must learn to perfect their craft and overcome the many problems facing them as they shoot for the stars.", 
+    "genres": "Biography, Drama, Family", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Homer is this to Dorothy Plunk, who ends up dating his brother.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Homer Sr. subverts this trope by being the Papa Wolf to someone else's son when he sees Roy Lee being beaten by his stepfather.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "third", 
+                    "extra", 
+                    "emotional", 
+                    "last", 
+                    "climactic"
+                ], 
+                "role": "Ill Girl: The kind and encouraging schoolteacher, Miss Riley, who is revealed to suffer from Hodgkin's Disease during the third act of the film, giving the Rocket Boys that extra emotional push to pull off their last, climactic, rocket launch.", 
+                "id": "IllGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0132477", 
+    "poster_url": "OctoberSky.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }
+    ], 
+    "id": "OctoberSky", 
+    "name": "October Sky"
+}

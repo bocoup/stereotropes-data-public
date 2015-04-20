@@ -1,0 +1,78 @@
+{
+    "plot": "At age two, Gerald McLoy should be at the age where he says his first words. But when the first \"words\" that come out of his mouth sound more like a broken spring - \"boing boing\" - his nervous father is worried that Gerald will never speak properly and keep on making these unusual sounds. After his father calls in medical help, Gerald continues to keep making these and other unusual sounds as the doctor doesn't know what to do. And later, when Gerald's father sends him to school hoping that being around other children speaking and having teachers who can teach him will make him speak properly, Gerald still can only make these sounds. Is there any hope for Gerald or his exasperated parents?", 
+    "genres": "Animation, Short, Comedy", 
+    "release_year": "1950", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: Gerald's dad, who also doubles as a Bungling Inventor.", 
+                "id": "BumblingDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "Cool Big Bro: Jacob to his little sister.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Meganekko: Janine.", 
+                "id": "Meganekko"
+            }
+        ]
+    }, 
+    "imdbid": "tt0043581", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "DespicableMe", 
+            "name": "Despicable Me", 
+            "poster_url": "DespicableMe.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "SororityRow", 
+            "name": "Sorority Row", 
+            "poster_url": "SororityRow.jpg"
+        }, 
+        {
+            "shared": [
+                "Meganekko"
+            ], 
+            "shared_count": 1, 
+            "id": "BarbieAFashionFairytale", 
+            "name": "Barbie A Fashion Fairytale"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis"
+            ], 
+            "shared_count": 1, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }
+    ], 
+    "id": "GeraldMcBoingBoing", 
+    "name": "Gerald McBoing-Boing"
+}

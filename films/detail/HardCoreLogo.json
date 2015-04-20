@@ -1,0 +1,73 @@
+{
+    "plot": "Bruce Macdonald follows punk bank Hard Core Logo on a harrowing last-gasp reunion tour throughout Western Canada. As magnetic lead-singer Joe Dick holds the whole magilla together through sheer force of will, all the tensions and pitfalls of life on the road come bubbling to the surface.", 
+    "genres": "Comedy, Drama, Music", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Billy Tallent is just too pretty.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "usual"
+                ], 
+                "role": "Troubled, but Cute: Joe and Billy, although they're older and even more screwed up than usual for the trope.", 
+                "id": "TroubledButCute"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116488", 
+    "poster_url": "HardCoreLogo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TroubledButCute", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheOutsiders", 
+            "name": "The Outsiders", 
+            "poster_url": "TheOutsiders.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "Gunslinger", 
+            "name": "Gunslinger", 
+            "poster_url": "Gunslinger.gif"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "SaturdayNightFever", 
+            "name": "Saturday Night Fever", 
+            "poster_url": "SaturdayNightFever.jpg"
+        }
+    ], 
+    "id": "HardCoreLogo", 
+    "name": "Hard Core Logo"
+}

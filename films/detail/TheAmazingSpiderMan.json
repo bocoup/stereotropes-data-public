@@ -1,0 +1,143 @@
+{
+    "plot": "Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. Peter is also finding his way with his first high school crush, Gwen Stacy, and together, they struggle with love, commitment, and secrets. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance - leading him directly to Oscorp and the lab of Dr Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter-ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "violent", 
+                    "sympathy", 
+                    "Spider-Man"
+                ], 
+                "role": "Jerk Jock: Flash Thompson. Lovable Jock: While starting off as a Jerk Jock (and a pretty violent one), Flash shows sympathy to Peter after Uncle Ben dies. By the end of the movie, the two seem to have become friendlier and Flash has become an admirer of Spider-Man.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "three-dimensional", 
+                    "new", 
+                    "congenial", 
+                    "pleasant"
+                ], 
+                "role": "Like with most characters, his appearance in The Amazing Spider-Man injects some realism and three-dimensional traits. Sure, he starts off as an ass, with no qualms about beating Humiliating Peter and beating him up, but this subsides around the time Peter starts showing off his new powers. When Uncle Ben dies, he gives his sincere condolences to Peter. By the end of the film, their relationship has at the very least become fairly congenial, and they can hold a fairly pleasant conversation.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf:  Curt Connors toward Peter, eventually. In the mid-credits scene, he sees The Man In The Shadows, who makes a veiled threat against Peter. Connors' response is a snarled \"You should leave him alone!\".", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Bluebeard: Peter has a book titled Bluebeard on the shelf by his computer, perhaps as a hint to  Peter falling in love with and eventually (accidentally) killing Gwen.", 
+                "id": "TheBlueBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "behind"
+                ], 
+                "role": "The Amazing Spider-Man has their depiction of Gwen Stacy, even when Oscorp is evacuated to deal with The Lizard, she stays behind despite Peter's insistence to leave to synthesize an antidote. She even makes a makeshift flamethrower out of an alcohol burner and a spray can to defend herself when The Lizard breaks into the building.", 
+                "id": "BadassDamsel"
+            }, 
+            {
+                "adjectives": [
+                    "same", 
+                    "general", 
+                    "interested"
+                ], 
+                "role": "Damsel out of Distress : Gwen is not helpless. An intern at Oscorp's labs, she prepares the Lizard antidote there for Peter. When the Lizard himself is coming to the same lab she's in, she refuses to flee while the antidote is \"cooking\", even though Peter begs her to. She sets off the general evacuation alarm and uses a burner to set off the room's fire alarm, fogging it up and triggering the blast doors. She takes the dispersal device the Lizard is after and hides. When the Lizard finds her, she uses the burner and an aerosol can as a flamethrower. The Lizard is more interested in the device than her, so he just takes it and leaves her alone.", 
+                "id": "DamselOutOfDistress"
+            }, 
+            {
+                "adjectives": [
+                    "attractive"
+                ], 
+                "role": "Fanservice Extra: After gaining his powers, Peter accidentally rips the blouse off a random attractive woman in the subway, revealing her bra and midriff.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [
+                    "only"
+                ], 
+                "role": "In The Amazing Spider-Man, we have the highschool student Gwen Stacy acting as the head intern of one of the greatest scientist in the world. She is of course the only one wearing a mini lab coat allowing the viewers to appreciate her legs", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [
+                    "Self-Made", 
+                    "few", 
+                    "minor", 
+                    "direct"
+                ], 
+                "role": "Never a Self-Made Woman: Besides a few very minor characters, the women in this film exist only in direct relevance to Peter.", 
+                "id": "NeverASelfMadeWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0948470", 
+    "poster_url": "TheAmazingSpiderMan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "FanserviceExtra", 
+                "BadassDamsel", 
+                "NeverASelfMadeWoman", 
+                "JerkJock"
+            ], 
+            "shared_count": 5, 
+            "id": "TheAmazingSpider-Man", 
+            "name": "The Amazing Spider-Man", 
+            "poster_url": "TheAmazingSpider-Man.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "NeverASelfMadeWoman", 
+                "HotScientist"
+            ], 
+            "shared_count": 4, 
+            "id": "TheWorldIsNotEnough", 
+            "name": "The World Is Not Enough", 
+            "poster_url": "TheWorldIsNotEnough.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "HotScientist"
+            ], 
+            "shared_count": 3, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "JerkJock", 
+                "HotScientist"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "BadassDamsel", 
+                "DamselOutOfDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "AttackOfTheClones", 
+            "name": "Attack of the Clones"
+        }
+    ], 
+    "id": "TheAmazingSpiderMan", 
+    "name": "The Amazing Spider-Man"
+}

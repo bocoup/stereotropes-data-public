@@ -1,0 +1,100 @@
+{
+    "plot": "Everything is connected: an 1849 diary of an ocean voyage across the Pacific; letters from a composer to his lover; a thriller about a murder at a nuclear power plant; a farce about a publisher in a nursing home; a rebellious clone in futuristic Korea; and the tale of a tribe living in post-apocalyptic Hawaii, far in the future.", 
+    "genres": "Drama, Sci-Fi", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "right"
+                ], 
+                "role": "Lloyd Hooks from Cloud Atlas claims he doesn't take \"Women's lib seriously\" and says that right in front of Intrepid Reporter Luisa Rey.", 
+                "id": "StrawMisogynist"
+            }, 
+            {
+                "adjectives": [
+                    "desperate"
+                ], 
+                "role": "In Cloud Atlas, Robert Frobisher has to give his (borrowed from Sixsmith) up when he is desperate and broke.", 
+                "id": "WaistcoatOfStyle"
+            }, 
+            {
+                "adjectives": [
+                    "desperate"
+                ], 
+                "role": "Waistcoat of Style: In the film, Robert Frobisher has to give his (borrowed from Sixsmith) up when he is desperate and broke. Old Georgie in the film also wears an incredibly battered one, fitting as it takes place in a scavenger world.", 
+                "id": "WaistcoatOfStyle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "scary", 
+                    "Cavendish"
+                ], 
+                "role": "Battleaxe Nurse: A scary one runs the nursing home where Cavendish is confined.", 
+                "id": "BattleaxeNurse"
+            }, 
+            {
+                "adjectives": [
+                    "only"
+                ], 
+                "role": "The Chick: Veronica is the only lady of group and fits The Smurfette Principle, though she helps in taking the phone they need to kickstart their escape.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1371111", 
+    "poster_url": "CloudAtlas.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGamers", 
+            "name": "The Gamers", 
+            "poster_url": "TheGamers.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "WaistcoatOfStyle"
+            ], 
+            "shared_count": 2, 
+            "id": "Predators", 
+            "name": "Predators", 
+            "poster_url": "Predators.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "Misery", 
+            "name": "Misery", 
+            "poster_url": "Misery.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "CloudAtlas", 
+    "name": "Cloud Atlas"
+}

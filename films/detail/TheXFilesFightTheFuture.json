@@ -1,0 +1,66 @@
+{
+    "plot": "An exploration of how completely different the television series is from the film. The cast and filmmakers underwent quite a change in order to create the film X Files, The (1998). We are also given a breakdown of how the Texas explosion was conceived and put together. This is a fairly enjoyable piece to watch, what with several interesting and funny interviews with the cast and crew.", 
+    "genres": "Documentary, Sci-Fi, Short", 
+    "release_year": "1998", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "second"
+                ], 
+                "role": "Distressed Damsel: Scully. It'll be Mulder's turn to hold the Distress Ball in the second movie, though.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0365474", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "TheXFilesFightTheFuture", 
+    "name": "The X-Files: Fight the Future"
+}

@@ -1,0 +1,64 @@
+{
+    "plot": "A violent Hong Kong action film, this is the story of an assassin, Jeffrey Chow (aka Mickey Mouse) who takes one last job so he can retire and care for his girlfriend Jenny. When his employers betray him, he reluctantly joins forces with Inspector Lee (aka Dumbo), the cop who is pursuing him. Together, the new friends face the final confrontation of the gangsters out to kill them.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bash Brothers: Ah Jong and Inspector Li from the beach house shootout onwards.", 
+                "id": "BashBrothers"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097202", 
+    "poster_url": "TheKiller.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "KamenRider", 
+            "name": "Kamen Rider"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }
+    ], 
+    "id": "TheKiller", 
+    "name": "The Killer"
+}

@@ -1,0 +1,85 @@
+{
+    "plot": "John Kimble is a tough city cop who's been on the trail of drug dealer Cullen Crisp for years. He finally tracks Crisp down but it seems the only person that can testify against him is his ex-wife. The problem is she's disappeared and all Kimble knows is the name of the school in Oregon where her son attends. When things don't quite go to plan, Kimble finds he has to go undercover on his toughest assignment yet - Kindergarten teacher!", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Action Hero Babysitter: Arnold Schwarzenegger as a cop going undercover in a kindergarten.", 
+                "id": "ActionHeroBabysitter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kindergarten Cop with Arnold as a cop going undercover in a kindergarten. Hilarity Ensues.", 
+                "id": "ActionHeroBabysitter"
+            }, 
+            {
+                "adjectives": [
+                    "poor"
+                ], 
+                "role": "Papa Wolf: \"You hit the kid, I hit you.\" Kimble's showdown with Cullen, which includes him kidnapping poor Dominic and Kimble going after him.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Mama Cullen's overbearing behavior explains a lot about how her son turned out.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0099938", 
+    "poster_url": "KindergartenCop.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "BigBadWolves", 
+            "name": "Big Bad Wolves", 
+            "poster_url": "BigBadWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }
+    ], 
+    "id": "KindergartenCop", 
+    "name": "Kindergarten Cop"
+}

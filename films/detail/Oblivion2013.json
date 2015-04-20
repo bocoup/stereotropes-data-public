@@ -1,0 +1,113 @@
+{
+    "plot": "One of the few remaining drone repairmen assigned to Earth, its surface devastated after decades of war with the alien Scavs, discovers a crashed spacecraft with contents that bring into question everything he believed about the war, and may even put the fate of mankind in his hands.", 
+    "genres": "Action, Adventure, Mystery", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first", 
+                    "big"
+                ], 
+                "role": "Cool Old Guy: Malcolm Beech is this. His first scene is him smoking a big cigar and somewhat hammily interrogating and giving exposition to a captured Harper. He also mentions having fought on the war and having survived the devastation of Chicago. His biggest desire is down there in Foreshadowing.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Jack gets three (one is the Two-Person Pool Party scene mentioned below).", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "past", 
+                    "disposable", 
+                    "name\u2014but", 
+                    "willing"
+                ], 
+                "role": "Olga Kurylenko's character in Oblivion (2013) is one of these. She exists in the film solely for the purpose of getting Tom Cruise's character to remember his past and become a hero. She's so disposable that Morgan Freeman (oh right, his character has a name\u2014but face it, he's Morgan Freeman) is willing to leave her to be killed by robots, just to test whether or not Tom Cruise will decide to save her.", 
+                "id": "DisposableWoman"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Girl in a Box: Julia Rusakova  later Harper kicks things off when her escape capsule lands on Earth and Jack investigates.", 
+                "id": "GirlInABox"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Oblivion (2013): Julia Rusakova  later Harper kicks things off when her escape capsule lands on Earth and Jack investigates.", 
+                "id": "GirlInABox"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: Victoria doesn't betray Jack when he brings Julia back to the tower, but she does when she catches the two sharing a moment through the Bubble Ship's camera. When Jack explains that Julia is his wife, she rats them out to Sally.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt1483013", 
+    "poster_url": "Oblivion2013.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "WomanScorned", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman", 
+                "CoolOldGuy", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman", 
+                "CoolOldGuy", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 3, 
+            "id": "TopGun", 
+            "name": "Top Gun", 
+            "poster_url": "TopGun.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "GirlInABox", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman", 
+                "CoolOldGuy", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 3, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }
+    ], 
+    "id": "Oblivion2013", 
+    "name": "Oblivion "
+}

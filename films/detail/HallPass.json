@@ -1,0 +1,90 @@
+{
+    "plot": "A couple of married guys are always looking at other women. Their wives are fed up with their behavior, and grant them a 'hall pass': a week off their marriage allowing them to do anything. But the guys take their time and their week is almost up. What they don't realize is that at the same time their wives make connections of their own.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [
+                    "picking-up"
+                ], 
+                "role": "Cool Old Guy / Old Master: Coakley (Richard Jenkins), the Badass Grandpa who mentors Rick and Fred on the art of picking-up women.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "One of the guys who rescues Rick from drowning in the spa in Hall Pass. Rick inadvertently comes face to face with his penis in a spot of shock value Male Frontal Nudity.", 
+                "id": "GagPenis"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Leigh and maybe Paige as well.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0480687", 
+    "poster_url": "HallPass.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "WhenTimeRanOut", 
+            "name": "When Time Ran Out", 
+            "poster_url": "WhenTimeRanOut.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "GagPenis", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }
+    ], 
+    "id": "HallPass", 
+    "name": "Hall Pass"
+}

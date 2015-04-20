@@ -1,0 +1,71 @@
+{
+    "plot": "N/A", 
+    "genres": "Drama, History", 
+    "release_year": "1976", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Ivan's beard defies gravity. And boyars.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Knight in Shining Armor: Both Ivan and Andrey Kurbsky wear ornate, shining plate armor during the siege scene.", 
+                "id": "KnightInShiningArmor"
+            }
+        ]
+    }, 
+    "imdbid": "tt0076219", 
+    "poster_url": "IvanTheTerrible.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssBeard", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "AlexanderNevsky", 
+            "name": "Alexander Nevsky", 
+            "poster_url": "AlexanderNevsky.jpg"
+        }, 
+        {
+            "shared": [
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "Pirates", 
+            "name": "Pirates", 
+            "poster_url": "Pirates.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }
+    ], 
+    "id": "IvanTheTerrible", 
+    "name": "Ivan The Terrible"
+}

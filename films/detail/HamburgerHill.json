@@ -1,0 +1,71 @@
+{
+    "plot": "A very realistic interpretation of one of the bloodiest battles of the Vietnam War.", 
+    "genres": "Drama, War, Action", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "white"
+                ], 
+                "role": "Angry Black Man: Educated and very well spoken, Doc Johnson is constantly commenting on issues of race to his white squadmates though he's shown repeatedly risking his life to save anyone who falls regardless of color.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Realising you survived Bash Brothers partnership.", 
+                "id": "BashBrothers"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093137", 
+    "poster_url": "HamburgerHill.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "KamenRider", 
+            "name": "Kamen Rider"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }
+    ], 
+    "id": "HamburgerHill", 
+    "name": "Hamburger Hill"
+}

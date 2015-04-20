@@ -1,0 +1,92 @@
+{
+    "plot": "Follows a group of high school students growing up in southern California, based on the real-life adventures chronicled by Cameron Crowe. Stacy Hamilton and Mark Ratner are looking for a love interest, and are helped along by their older classmates, Linda Barrett and Mike Damone, respectively. The center of the film is held by Jeff Spicoli, a perpetually stoned surfer dude who faces off with the resolute Mr. Hand, who is convinced that everyone is on dope.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "real"
+                ], 
+                "role": "Casanova Wannabe: Damone sees himself as a real ladies' man, but we only actually see him with Stacy.", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Surfer Dude: Spicoli, again.", 
+                "id": "SurferDude"
+            }, 
+            {
+                "adjectives": [
+                    "shy"
+                ], 
+                "role": "Unlucky Everydude: Rat seems like this for most of the film, an awkward, shy dude with no idea how to get a girl's attention, and going to the worst person for advice. He wises up a bit.", 
+                "id": "UnluckyEveryDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "due", 
+                    "poor", 
+                    "athletic", 
+                    "hysterical"
+                ], 
+                "role": "The Cheerleader: Averted. The cheerleaders at Ridgemont are mocked openly at pep rallies due to the school's poor performance at athletic events, and perhaps the fact that they are cloyingly shrill, verging on the hysterical.", 
+                "id": "TheCheerleader"
+            }
+        ]
+    }, 
+    "imdbid": "tt0083929", 
+    "poster_url": "FastTimesAtRidgemontHigh.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCheerleader", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "ParaNorman", 
+            "name": "ParaNorman", 
+            "poster_url": "ParaNorman.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "SurferDude"
+            ], 
+            "shared_count": 2, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "StarWreck", 
+            "name": "Star Wreck"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "SlapShot", 
+            "name": "Slap Shot", 
+            "poster_url": "SlapShot.jpg"
+        }
+    ], 
+    "id": "FastTimesAtRidgemontHigh", 
+    "name": "Fast Times at Ridgemont High"
+}

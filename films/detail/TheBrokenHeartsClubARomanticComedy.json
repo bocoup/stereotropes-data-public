@@ -1,0 +1,103 @@
+{
+    "plot": "In the palm-shaded oasis of West Hollywood, we meet Dennis, a promising photographer. As he prepares to celebrate his twenty-eighth birthday, he laments, ' I can't decide if my friends are the best or worst thing that ever happened to me.' The gang includes Benji, the punkish innocent with a penchant for gym bodies; Howie, the psychology grad student who thinks too much and lives too little; Cole, the charismatic actor who accidentally keeps stealing everybody's guy; Patrick, the cynical quipster, and Taylor, resident drama queen, who, until recently, prided himself on his long-term relationship. Providing sage advice and steady work is Jack, the beloved patriarch whose restaurant is a haven for them all. When tragedy strikes the group, the friendships are put to the test.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Flamboyant Gay - Taylor", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gym Bunny - the men Benji's attracted to", 
+                "id": "GymBunny"
+            }, 
+            {
+                "adjectives": [
+                    "cast"
+                ], 
+                "role": "Straight Gay - most of the cast, but most noticeably Dennis, Cole, Patrick, and Jack", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [
+                    "Casanova/Chivalrous", 
+                    "certain", 
+                    "legendary", 
+                    "co-star"
+                ], 
+                "role": "The Casanova/Chivalrous Pervert - Cole to a certain extent. Though he's a relentless flirt, and his reputation for stealing boyfriends is legendary, he doesn't actually mean to do it. He's just so naturally charming guys can't help falling for him. He doesn't seem to realize how he hurts people  until he gets his heart broken by a deeply closeted co-star.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian - Anne and Leslie", 
+                "id": "LipstickLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0222850", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "CampGay", 
+                "LipstickLesbian", 
+                "GymBunny"
+            ], 
+            "shared_count": 4, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 3, 
+            "id": "FiredUp", 
+            "name": "Fired Up"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 3, 
+            "id": "ICantThinkStraight", 
+            "name": "I Can't Think Straight", 
+            "poster_url": "ICantThinkStraight.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 3, 
+            "id": "TheObjectOfMyAffection", 
+            "name": "The Object of My Affection", 
+            "poster_url": "TheObjectOfMyAffection.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 3, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }
+    ], 
+    "id": "TheBrokenHeartsClubARomanticComedy", 
+    "name": "The Broken Hearts Club: A Romantic Comedy"
+}

@@ -1,0 +1,84 @@
+{
+    "plot": "Tom Joad returns to his home after a jail sentence to find his family kicked out of their farm due to foreclosure. He catches up with them on his Uncles farm, and joins them the next day as they head for California and a new life... Hopefully.", 
+    "genres": "Drama", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Also, Connie is described as resembling a coyote.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ma Joad. Even the characters acknowledge she's the one that holds the \"fambly\" together.", 
+                "id": "ApronMatron"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Iron Lady: Ma Joad She exemplifies all the traits but, most importantly, manages to hold the family together through sheer force of will alone. Mellower than most examples, see below trope.", 
+                "id": "IronLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ma Joad from The Grapes of Wrath is an example of this trope. She exemplifies all the traits but, most importantly, manages to hold the family together through sheer force of will alone.", 
+                "id": "IronLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0032551", 
+    "poster_url": "TheGrapesOfWrath.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IronLady", 
+                "ApronMatron", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "ApronMatron", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "IronLady", 
+                "ApronMatron"
+            ], 
+            "shared_count": 2, 
+            "id": "BigJake", 
+            "name": "Big Jake", 
+            "poster_url": "BigJake.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "WomanInTheMoon", 
+            "name": "Woman in the Moon", 
+            "poster_url": "WomanInTheMoon.jpg"
+        }
+    ], 
+    "id": "TheGrapesOfWrath", 
+    "name": "The Grapes of Wrath"
+}

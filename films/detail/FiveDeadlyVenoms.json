@@ -1,0 +1,78 @@
+{
+    "plot": "A dying teacher instructs his final student to check on the activities of five former pupils, each of whom he taught a unique and special style of kung-fu to: The Centipede, Snake, Scorpion, Lizard, and Toad (hence the title). His final student, who knows a little of each style must team up with one of the other good students to destroy the evil ones if there are any. Greed and treachery ensue as the student discovers that some of the students are indeed evil. But which one can he trust enough to team up with?", 
+    "genres": "Action", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Number 1, aka Centipede, has this. It's even lampshaded by the witness.  Number 4, aka Lizard, aka Constable He just has a Badass Beard.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "open-fronted", 
+                    "final"
+                ], 
+                "role": "Shirtless Scene: Everyone wears open-fronted shirts, but Lizard is shirtless during the final battle.", 
+                "id": "ShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0077559", 
+    "poster_url": "FiveDeadlyVenoms.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathstalkerAndTheWarriorsFromHell", 
+            "name": "Deathstalker and the Warriors from Hell", 
+            "poster_url": "DeathstalkerAndTheWarriorsFromHell.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "GIJoeRetaliation", 
+            "name": "G.I. Joe: Retaliation", 
+            "poster_url": "GIJoeRetaliation.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "MiamiConnection", 
+            "name": "Miami Connection", 
+            "poster_url": "MiamiConnection.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "ManOfSteel", 
+            "name": "Man of Steel", 
+            "poster_url": "ManOfSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDarkKnightRises", 
+            "name": "The Dark Knight Rises", 
+            "poster_url": "TheDarkKnightRises.jpg"
+        }
+    ], 
+    "id": "FiveDeadlyVenoms", 
+    "name": "Five Deadly Venoms"
+}

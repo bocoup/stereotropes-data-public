@@ -1,0 +1,108 @@
+{
+    "plot": "Based on the comic book series \"The Brass Teapot\" about mid-twenty year old couple who, in these difficult economic times, finds a mysterious, magical brass teapot which makes them money but at a surprising price. After realizing the teapots powers, John and Alice must decide how far they will go to fulfill their dream.", 
+    "genres": "Comedy, Fantasy, Thriller", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Jaded", 
+                    "touchy", 
+                    "high"
+                ], 
+                "role": "Jaded Washout: Arnie is very touchy about the fact that he peaked in high school.", 
+                "id": "JadedWashout"
+            }, 
+            {
+                "adjectives": [
+                    "absurd", 
+                    "absolute", 
+                    "second", 
+                    "physical", 
+                    "tall", 
+                    "muscular"
+                ], 
+                "role": "In The Brass Teapot Arnie the Landlord is this, to an almost absurd degree. He\u2019s an absolute asshole every second he\u2019s on screen and he even fits to physical description of this trope to a t: tall, muscular, vulgar, blond and almost never seen without his football letterman jacket", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "absurd", 
+                    "absolute", 
+                    "second", 
+                    "physical", 
+                    "tall", 
+                    "hunky"
+                ], 
+                "role": "Jerk Jock: Arnie the Landlord to an almost absurd degree. He\u2019s an absolute asshole every second he\u2019s on screen and he even fits to physical description of this trope to a t: A tall, hunky and vulgar blond guy in the football letterman jacket", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "several", 
+                    "skimpy"
+                ], 
+                "role": "Ms. Fanservice: The movie focuses a lot on Alice\u2019s body and she spends several scenes in very skimpy outfits.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt1935902", 
+    "poster_url": "TheBrassTeapot.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "JadedWashout"
+            ], 
+            "shared_count": 2, 
+            "id": "YoungAdult", 
+            "name": "Young Adult", 
+            "poster_url": "YoungAdult.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "AllTheBoysLoveMandyLane", 
+            "name": "All the Boys Love Mandy Lane", 
+            "poster_url": "AllTheBoysLoveMandyLane.jpg"
+        }, 
+        {
+            "shared": [
+                "JadedWashout", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "CantHardlyWait", 
+            "name": "Can't Hardly Wait", 
+            "poster_url": "CantHardlyWait.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }
+    ], 
+    "id": "TheBrassTeapot", 
+    "name": "The Brass Teapot"
+}

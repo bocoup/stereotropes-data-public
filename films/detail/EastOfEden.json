@@ -1,0 +1,86 @@
+{
+    "plot": "In the Salinas Valley, in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother Aron for the love of their father Adam. Cal is frustrated at every turn, from his reaction to the war, to how to get ahead in business and in life, to how to relate to estranged mother.", 
+    "genres": "Drama", 
+    "release_year": "1955", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sensitive", 
+                    "similar"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Adam and Charles (who are actually described as having a relatonship more similar to that of a sister and a brother), Aron and Cal.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Played straight with Faye (and others, to a lesser extent), but subverted with Cathy, who pretends to be one.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "complete", 
+                    "such", 
+                    "heavy"
+                ], 
+                "role": "Kate from East of Eden is the complete inverse of this trope, the Hooker With A Heart of Pure Malice. Despite having written such a heavy subversion, John Steinbeck loved this trope, and put it to use elsewhere in East of Eden, as well as Cannery Row and its sequel Sweet Thursday.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0048028", 
+    "poster_url": "EastOfEden.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AStreetcarNamedDesire", 
+            "name": "A Streetcar Named Desire", 
+            "poster_url": "AStreetcarNamedDesire.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Purgatory", 
+            "name": "Purgatory", 
+            "poster_url": "Purgatory.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Django", 
+            "name": "Django", 
+            "poster_url": "Django.jpg"
+        }
+    ], 
+    "id": "EastOfEden", 
+    "name": "East of Eden"
+}

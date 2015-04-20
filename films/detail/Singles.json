@@ -1,0 +1,75 @@
+{
+    "plot": "Romantic comedy about six of Seattle's young people, most of whom live in the same apartment building and whose lives revolve around the city's ever-expanding music scene. The inter-related stories about each character's progress through the singles scene are intriguing and often very funny, and the soundtrack is a grunge fanatic's dream, with the likes of Soundgarden, Pearl Jam and Mudhoney.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "flat"
+                ], 
+                "role": "Beard of Sorrow: Steve, after  failing to get back together with Linda and after his \"Supertrain\" idea gets turned down flat (which possibly led to his leaving of work; the movie only suggests that he left his job afterwards).", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "early"
+                ], 
+                "role": "The Casanova: The Spanish Foreign Exchange Student Linda dates early in the movie cheats on her right away.", 
+                "id": "TheCasanova"
+            }
+        ]
+    }, 
+    "imdbid": "tt0105415", 
+    "poster_url": "Singles.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "TheCasanova"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "TheCasanova"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "TheCasanova"
+            ], 
+            "shared_count": 2, 
+            "id": "Nine", 
+            "name": "Nine", 
+            "poster_url": "Nine.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGreatBeauty", 
+            "name": "The Great Beauty", 
+            "poster_url": "TheGreatBeauty.jpg"
+        }
+    ], 
+    "id": "Singles", 
+    "name": "Singles"
+}

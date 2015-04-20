@@ -1,0 +1,75 @@
+{
+    "plot": "Hildy Johnson is the top reporter on a Chicago newspaper during the 1920s. Tired of the whole game he's determined to quit his job to get married. His scheming editor, Walter Burns, has other plans though. It's the day before guilty (but insane) murderer, Earl Williams, is due to go to the gallows and Burns tempts Johnson to stay and write the story.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1974", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Bensinger, the prissy Tribune reporter.", 
+                "id": "CampGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Mollie Malloy.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0071524", 
+    "poster_url": "TheFrontPage.gif", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "JesusChristSuperstar", 
+            "name": "Jesus Christ Superstar", 
+            "poster_url": "JesusChristSuperstar.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHangover", 
+            "name": "The Hangover", 
+            "poster_url": "TheHangover.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHouseOfTheSpirits", 
+            "name": "The House of the Spirits", 
+            "poster_url": "TheHouseOfTheSpirits.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "LostInParadise", 
+            "name": "Lost In Paradise"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Purgatory", 
+            "name": "Purgatory", 
+            "poster_url": "Purgatory.jpg"
+        }
+    ], 
+    "id": "TheFrontPage", 
+    "name": "The Front Page"
+}

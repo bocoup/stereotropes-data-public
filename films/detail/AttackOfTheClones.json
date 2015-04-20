@@ -1,0 +1,133 @@
+{
+    "plot": "N/A", 
+    "genres": "Short, Sci-Fi", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Yoda and Count Dooku.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "Bankrupt"
+                ], 
+                "role": "Morally Bankrupt Banker: A Planet of Hats of them in the Banking Clan.", 
+                "id": "MorallyBankruptBanker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Anakin after waking up from his nightmare.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "own", 
+                    "Obi-Wan"
+                ], 
+                "role": "Her own mother, Padme, was also like this in Attack of the Clones. As she faces execution alongside Anakin and Obi-Wan, she gets out of her handcuffs before the two Jedi and begins fighting back!", 
+                "id": "BadassDamsel"
+            }, 
+            {
+                "adjectives": [
+                    "Obi-Wan"
+                ], 
+                "role": "Attack of the Clones: When Padme faces execution alongside Anakin and Obi-Wan, she gets out of her handcuffs before the two Jedi and begins fighting back!", 
+                "id": "DamselOutOfDistress"
+            }, 
+            {
+                "adjectives": [
+                    "few", 
+                    "many", 
+                    "sexy"
+                ], 
+                "role": "Fanservice Extra: Aayla Secura. Although she has no lines and only appears briefly in a few scenes, in the days following the release of Attack of the Clones many Star Wars fans went online to find out who \"that sexy twi'lek Jedi girl\" was.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Kick Chick: On the Geonosis arena, a female Jedi is seen gracefully kicking down droids.", 
+                "id": "KickChick"
+            }, 
+            {
+                "adjectives": [
+                    "Padm\u00e9"
+                ], 
+                "role": "Ms. Fanservice: Padm\u00e9.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Attack of the Clones, Padme frees herself from capture by the Geonosians and takes part in defending the Jedi against the droid army attack and the pursuit of Count Dooku.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1871219", 
+    "similar": [
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "MsFanservice", 
+                "TheChick"
+            ], 
+            "shared_count": 4, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "MorallyBankruptBanker", 
+                "MsFanservice", 
+                "TheChick"
+            ], 
+            "shared_count": 4, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ShirtlessScene", 
+                "TheChick"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ShirtlessScene", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }
+    ], 
+    "id": "AttackOfTheClones", 
+    "name": "Attack of the Clones"
+}

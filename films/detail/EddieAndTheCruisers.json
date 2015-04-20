@@ -1,0 +1,79 @@
+{
+    "plot": "Maggie Foley is a television reporter who's interviewing the surviving members of a 1960s rock band whose music is being revived. Memories of the band's leader Eddie Wilson are being relived as Frank Ridgeway is reunited with the old members of the band. As the memories are relived on the screen, it becomes clear that someone is looking for the lost unpublished tapes of the band's final recording and that someone might be Eddie!", 
+    "genres": "Drama, Mystery, Music", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Badass Beard:  Eddie sports one at the end of the first film.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [
+                    "own", 
+                    "dual", 
+                    "first", 
+                    "alive", 
+                    "retrospective", 
+                    "big"
+                ], 
+                "role": "After staging his own death in Eddie and the Cruisers, Jersey rock-star-in-the-making Eddie Wilson is revealed in the sequel to have developed a cunning dual strategy for concealing his identity: (a) moving to Montreal and (b) growing a moustache.\n At the very end of the first film we see Eddie alive, watching a retrospective of his career on a TV in a shop window, with a big beard.", 
+                "id": "BeardnessProtectionProgram"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085475", 
+    "poster_url": "EddieAndTheCruisers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "Pirates", 
+            "name": "Pirates", 
+            "poster_url": "Pirates.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardnessProtectionProgram"
+            ], 
+            "shared_count": 1, 
+            "id": "DayOfTheWolves", 
+            "name": "Day of the Wolves", 
+            "poster_url": "DayOfTheWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardnessProtectionProgram"
+            ], 
+            "shared_count": 1, 
+            "id": "LuckyLuke", 
+            "name": "Lucky Luke", 
+            "poster_url": "LuckyLuke.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "KnockinOnHeavensDoor", 
+            "name": "Knockin' on Heaven's Door", 
+            "poster_url": "KnockinOnHeavensDoor.jpg"
+        }
+    ], 
+    "id": "EddieAndTheCruisers", 
+    "name": "Eddie And The Cruisers"
+}

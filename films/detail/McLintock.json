@@ -1,0 +1,77 @@
+{
+    "plot": "George Washington McLintock, \"GW\" to friends and foes alike, is a cattle baron and the richest man in the territory. He anxiously awaits the return of his daughter Becky who has been away at school for the last two years. He's also surprised to see that his wife Katherine has also returned. She had left him some years before without really explaining what he done but she does make the point of saying that she's returned to take their daughter back to the State Capitol with her. GW is highly respected by everyone around him including the farmers who are pouring into the territories with free grants of land and the Indians who are under threat of being relocated to another reservation. Between his wife, his headstrong daughter, the crooked land agent and the thieving government Indian agent, GW tries to keep the peace and do what is best for everyone.", 
+    "genres": "Comedy, Romance, Western", 
+    "release_year": "1963", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Southern Gentleman: Ol' Douglas Jr. tries to be this, but mostly comes across as a hapless geek.", 
+                "id": "SouthernGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Becky.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Determined Homesteader's Wife: Katie started out as this, then she became a stuffy Rich Bitch.", 
+                "id": "DeterminedHomesteadersWife"
+            }
+        ]
+    }, 
+    "imdbid": "tt0057298", 
+    "poster_url": "McLintock.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SouthernGentleman", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AnneFrankTheWholeStory", 
+            "name": "Anne Frank The Whole Story"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "OurTown", 
+            "name": "Our Town", 
+            "poster_url": "OurTown.jpg"
+        }, 
+        {
+            "shared": [
+                "SouthernGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }
+    ], 
+    "id": "McLintock", 
+    "name": "McLintock!"
+}

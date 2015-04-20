@@ -1,0 +1,99 @@
+{
+    "plot": "The cuddly Care Bears star in this charming feature-length adaption of the classic story of Alice in Wonderland. A young girl named Alice and the Care Bears travel together into the whimsical land of the Mad Hatter and the March Hare. In this magical story about friendship and trust, Alice and the Care Bears try to thwart an evil wizard's attempt to become the King of Wonderland.", 
+    "genres": "Animation, Comedy, Family", 
+    "release_year": "1987", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "captive"
+                ], 
+                "role": "Damsel in Distress: Turns out that the Wonderland princess is being held captive by the Jabberwocky.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: Wonderland didn't have a princess in the books. It does here.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Care Bears: Adventure in Wonderland was largely about saving the Princess of Heart.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "touch", 
+                    "revive"
+                ], 
+                "role": "In The Care Bears: Adventure in Wonderland, the Princess of Hearts is like this, to the point where the purity of her touch can revive withering flowers.", 
+                "id": "PrincessClassic"
+            }, 
+            {
+                "adjectives": [
+                    "true", 
+                    "normal"
+                ], 
+                "role": "Princess Classic: In Wonderland, a princess is so pure, there's a test for being a \"true princess\"... which a normal girl can apparently pass provided she fails by doing the right thing.", 
+                "id": "PrincessClassic"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092723", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "PrincessClassic", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 3, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "PrincessClassic", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 3, 
+            "id": "FelixTheCatTheMovie", 
+            "name": "Felix the Cat: The Movie", 
+            "poster_url": "FelixTheCatTheMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "PrincessClassic", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "PrincessClassic"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }
+    ], 
+    "id": "TheCareBearsAdventureInWonderland", 
+    "name": "The Care Bears: Adventure in Wonderland"
+}

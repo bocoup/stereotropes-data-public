@@ -1,0 +1,84 @@
+{
+    "plot": "A young Jewish prince seeks revenge after an old friend wrongly imprisons him and his family.", 
+    "genres": "Action, Drama", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Ben Hur was the first film to popularize this trope.", 
+                "id": "GalleySlave"
+            }, 
+            {
+                "adjectives": [
+                    "brutal"
+                ], 
+                "role": "Galley Slave: Trope Codifier. Chained rowers, brutal overseers with whips, and a drummer.", 
+                "id": "GalleySlave"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manly Gay: Messala (see above)", 
+                "id": "ManlyGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Charlton Heston and Stephen Boyd both get shirtless scenes.", 
+                "id": "MrFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt2009776", 
+    "similar": [
+        {
+            "shared": [
+                "MrFanservice", 
+                "ManlyGay"
+            ], 
+            "shared_count": 2, 
+            "id": "ParaNorman", 
+            "name": "ParaNorman", 
+            "poster_url": "ParaNorman.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "SaturdayNightFever", 
+            "name": "Saturday Night Fever", 
+            "poster_url": "SaturdayNightFever.jpg"
+        }, 
+        {
+            "shared": [
+                "GalleySlave"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }
+    ], 
+    "id": "BenHur", 
+    "name": "Ben Hur"
+}

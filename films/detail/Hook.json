@@ -1,0 +1,115 @@
+{
+    "plot": "Peter Pan (Williams) has grown up to be a cut-throat merger and acquisitions lawyer, and is married to Wendy's granddaughter. Captain Hook (Hoffman) kidnaps his children, and Peter returns to Never Land with Tinkerbell (Roberts). With the help of her and the Lost Boys, he must remember how to be Peter Pan again in order to save his children by battling with Captain Hook once again.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "final"
+                ], 
+                "role": "Bash Brothers: Peter and Rufio during the final battle.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [
+                    "absent"
+                ], 
+                "role": "Disappeared Dad: Peter Banning is the emotionally absent type who never does anything with his children, won't pay them any attention, and treats them like nuisances rather than beloved.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "workaholic", 
+                    "quick", 
+                    "future"
+                ], 
+                "role": "Papa Wolf: While Peter is a workaholic and a cynic. Not only does he care about his kids and wants to get them out of Neverland as quick as possible. What really sets him off is when Hook vows to threaten future generations of Pans/Bannings. Which eventually causes him to relent and fight Hook.", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: One pirate is this. He says \"boo hoo!\" as another pirate is dropping scorpions on Gutless.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "young", 
+                    "small"
+                ], 
+                "role": "Damsel in Distress: Maggie winds up serving as this; justified in that she's too young and small to help herself.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "green-haired"
+                ], 
+                "role": "The mermaids in Hook have seashells held in place with straps. Though the green-haired one's breasts are just barely covered.", 
+                "id": "SeashellBra"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102057", 
+    "poster_url": "Hook.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "ClashOfTheTitans", 
+            "name": "Clash of the Titans", 
+            "poster_url": "ClashOfTheTitans.jpg"
+        }
+    ], 
+    "id": "Hook", 
+    "name": "Hook"
+}

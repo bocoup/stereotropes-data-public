@@ -1,0 +1,97 @@
+{
+    "plot": "Seven young friends climb aboard a vintage RV headed for a fun-filled weekend in the woods when they encounter a night vision goggled, machete-wielding psychopath.", 
+    "genres": "Comedy, Horror", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Carpet of Virility: Jebediah, and Terry.", 
+                "id": "CarpetOfVirility"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Nick.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Sabrina (and Brooke and Benji).", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Melanie.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girls Love Stuffed Animals: Sabrina.", 
+                "id": "GirlsLoveStuffedAnimals"
+            }
+        ]
+    }, 
+    "imdbid": "tt0491063", 
+    "poster_url": "MotorHomeMassacre.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "GirlishPigtails", 
+                "GirlsLoveStuffedAnimals"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "CarpetOfVirility", 
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheMutilator", 
+            "name": "The Mutilator", 
+            "poster_url": "TheMutilator.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Gutterballs", 
+            "name": "Gutterballs", 
+            "poster_url": "Gutterballs.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCabinInTheWoods", 
+            "name": "The Cabin in the Woods", 
+            "poster_url": "TheCabinInTheWoods.jpg"
+        }
+    ], 
+    "id": "MotorHomeMassacre", 
+    "name": "Motor Home Massacre"
+}

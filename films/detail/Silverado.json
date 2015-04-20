@@ -1,0 +1,98 @@
+{
+    "plot": "In 1880, four men travel together to the city of Silverado. They come across with many dangers before they finally engage the \"bad guys\" and bring peace and equality back to the city.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jake in Silverado.", 
+                "id": "YoungGun"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Young Gun: Jake", 
+                "id": "YoungGun"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "eponymous", 
+                    "later", 
+                    "final"
+                ], 
+                "role": "Determined Widow: When introduced, Hannah's a Determined Homesteader's Wife, but he's Too Dumb to Live. An early love interest for Paden, until he meets Stella in the eponymous town. She later gets ship teased with Emmitt.  But she's with Paden in his final (and the movie's penultimate) scene.", 
+                "id": "DeterminedWidow"
+            }, 
+            {
+                "adjectives": [
+                    "'Midnight"
+                ], 
+                "role": "Miss Kitty: Stella, \"The 'Midnight Star' herself.\"", 
+                "id": "MissKitty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Stella: The Chick", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0090022", 
+    "poster_url": "Silverado.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "YoungGun"
+            ], 
+            "shared_count": 2, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }, 
+        {
+            "shared": [
+                "MissKitty", 
+                "YoungGun"
+            ], 
+            "shared_count": 2, 
+            "id": "YoungGuns", 
+            "name": "Young Guns", 
+            "poster_url": "YoungGuns.jpg"
+        }, 
+        {
+            "shared": [
+                "MissKitty", 
+                "DeterminedWidow"
+            ], 
+            "shared_count": 2, 
+            "id": "OnceUponATimeInTheWest", 
+            "name": "Once Upon a Time in the West", 
+            "poster_url": "OnceUponATimeInTheWest.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "YoungGun"
+            ], 
+            "shared_count": 2, 
+            "id": "RioBravo", 
+            "name": "Rio Bravo", 
+            "poster_url": "RioBravo.jpg"
+        }, 
+        {
+            "shared": [
+                "MissKitty", 
+                "YoungGun"
+            ], 
+            "shared_count": 2, 
+            "id": "AnAmericanTail", 
+            "name": "An American Tail", 
+            "poster_url": "AnAmericanTail.jpg"
+        }
+    ], 
+    "id": "Silverado", 
+    "name": "Silverado"
+}

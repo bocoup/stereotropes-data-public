@@ -1,0 +1,113 @@
+{
+    "plot": "Aspiring actress Eve Harrington maneuvers her way into the lives of Broadway star Margo Channing, playwright Lloyd Richards and director Bill Sampson. This classic story of ambition and betrayal has become part of American folklore. Bette Davis claims to have based her character on the persona of film actress Talullah Bankhead. Davis' line \"Fasten your seatbelts, it's going to be a bumpy night\" is legendary, but, in fact, all of the film's dialog sparkles with equal brilliance.", 
+    "genres": "Drama", 
+    "release_year": "1950", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Agent Peacock: Addison again.", 
+                "id": "AgentPeacock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Camp Straight: Addison.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Dandy: Addison.", 
+                "id": "TheDandy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Margo.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [
+                    "outright", 
+                    "explicit", 
+                    "one-scene", 
+                    "impossible", 
+                    "other"
+                ], 
+                "role": "Eve Harrington from All About Eve (1950). Not outright stated, but quite explicit for the era, including a one-scene Spear Carrier whose presence is all but impossible to explain any other way.", 
+                "id": "PsychoLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "clear", 
+                    "female"
+                ], 
+                "role": "Psycho Lesbian: Whatever her feelings for Margo (or Phoebe), it's about as clear as the Hays code would allow that Eve leans toward women, one scene even closing with her and a female cohort retiring arm in arm to their boudoir.", 
+                "id": "PsychoLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Margo.", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0042192", 
+    "poster_url": "AllAboutEve.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyDrunk", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "YouCantTakeItWithYou", 
+            "name": "You Can't Take It With You", 
+            "poster_url": "YouCantTakeItWithYou.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "TheDandy"
+            ], 
+            "shared_count": 2, 
+            "id": "UnderCapricorn", 
+            "name": "Under Capricorn", 
+            "poster_url": "UnderCapricorn.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "AgentPeacock"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Rebecca", 
+            "name": "Rebecca", 
+            "poster_url": "Rebecca.jpg"
+        }
+    ], 
+    "id": "AllAboutEve", 
+    "name": "All About Eve"
+}

@@ -1,0 +1,85 @@
+{
+    "plot": "Jessica Olsen goes to Los Angeles with nothing more in mind that visiting her grandparents while her sister tries to meet Christopher Wilde. One night she meets Christopher Wilde. They go an an adventure around Los Angeles and start to like each other. When Jessica returns home, Christopher, on national TV, says he doesn't know her, and never met her.", 
+    "genres": "Comedy, Family, Musical", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Alexis, to an extent.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fangirl: Jessica's sister Sarah, and pretty much every girl but Jessica.", 
+                "id": "Fangirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Christopher.", 
+                "id": "SpoiledSweet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Jessica and Sarah.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1579247", 
+    "poster_url": "Starstruck.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "TomBoyAndGirlyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "Fangirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Kickass2", 
+            "name": "Kick-Ass 2", 
+            "poster_url": "Kickass2.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "ShowMeLove", 
+            "name": "Show Me Love", 
+            "poster_url": "ShowMeLove.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "MementoMori", 
+            "name": "Memento Mori"
+        }
+    ], 
+    "id": "Starstruck", 
+    "name": "Starstruck"
+}

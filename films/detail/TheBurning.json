@@ -1,0 +1,122 @@
+{
+    "plot": "A janitor at a summer camp is accidently burned severely from a prank. Years later, he is released from an institute, and returns to the camp with a pair of hedge clippers to take revenge on the campers.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crusty Caretaker: Cropsy.", 
+                "id": "CrustyCaretaker"
+            }, 
+            {
+                "adjectives": [
+                    "murderous"
+                ], 
+                "role": "The murderous Cropsy in The Burning was one in a summer camp who hated kids, and after one burned him badly in a prank gone wrong, hates them even more.", 
+                "id": "CrustyCaretaker"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High School Hustler: Dave.", 
+                "id": "HighSchoolHustler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Leg Cling: After the raft is found and the remaining campers freak out, one of them is shown desperately clinging to another's leg.", 
+                "id": "LegCling"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "several", 
+                    "main"
+                ], 
+                "role": "After spending several years in the hospital's burn ward, The Burning's main antagonist Cropsy leaves it with only one thing on his mind: Murder. And he is glad to show it to the prostitute he meets on the streets.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "first"
+                ], 
+                "role": "Disposable Sex Worker: Cropsy's first victim is a prostitute he meets after leaving the hospital.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Leg Cling: After the raft is found and the remaining campers freak out, one of them is shown desperately clinging to another's leg.", 
+                "id": "LegCling"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Street Walker", 
+                "id": "Streetwalker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082118", 
+    "poster_url": "TheBurning.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Gutterballs", 
+            "name": "Gutterballs", 
+            "poster_url": "Gutterballs.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "EatenAlive", 
+            "name": "Eaten Alive", 
+            "poster_url": "EatenAlive.jpg"
+        }, 
+        {
+            "shared": [
+                "Streetwalker", 
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Nekromantik", 
+            "name": "Nekromantik", 
+            "poster_url": "Nekromantik.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "LegCling"
+            ], 
+            "shared_count": 2, 
+            "id": "EvilDead", 
+            "name": "Evil Dead", 
+            "poster_url": "EvilDead.jpg"
+        }
+    ], 
+    "id": "TheBurning", 
+    "name": "The Burning"
+}

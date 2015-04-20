@@ -1,0 +1,82 @@
+{
+    "plot": "Propaganda film that relates the story, as told by high school principal Dr. Carroll to parents at a PTA meeting, of the scourge of marijuana. The tale revolves around Mae and Jack, accomplices in the distribution of marijuana, who manage to entice the local high school kids to stop by Mae's apartment to smoke reefer. The lives of all who are involved with this menace are inevitably shattered. One man becomes so addicted to the killer weed that the guilt over framing a teen for murder causes a judge to order him to be committed for life to a mental hospital! Dr. Carroll closes by advising us to not incur the same tragedy.", 
+    "genres": "Drama", 
+    "release_year": "1936", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mary Lane of Reefer Madness, the ingenue of ingenues, takes one puff of \"marijewana,\" at which point... Some things just need to be seen.", 
+                "id": "SeeminglyWholesomeFiftiesGirl"
+            }, 
+            {
+                "adjectives": [
+                    "tight"
+                ], 
+                "role": "Sweater Girl: One scene shows Mary waiting for Bill at the tennis court in a tight sweater and shorts.", 
+                "id": "SweaterGirl"
+            }, 
+            {
+                "adjectives": [
+                    "musical"
+                ], 
+                "role": "Reefer Madness: Mary Lane. This is played for laughs in the musical and gives us the page quote.", 
+                "id": "TheIngenue"
+            }
+        ]
+    }, 
+    "imdbid": "tt0028346", 
+    "poster_url": "ReeferMadness.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SeeminglyWholesomeFiftiesGirl", 
+                "SweaterGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Christine", 
+            "name": "Christine", 
+            "poster_url": "Christine.jpg"
+        }, 
+        {
+            "shared": [
+                "SeeminglyWholesomeFiftiesGirl", 
+                "TheIngenue"
+            ], 
+            "shared_count": 2, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "SeeminglyWholesomeFiftiesGirl", 
+                "SweaterGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Pleasantville", 
+            "name": "Pleasantville", 
+            "poster_url": "Pleasantville.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue"
+            ], 
+            "shared_count": 1, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue"
+            ], 
+            "shared_count": 1, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }
+    ], 
+    "id": "ReeferMadness", 
+    "name": "Reefer Madness"
+}

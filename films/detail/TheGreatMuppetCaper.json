@@ -1,0 +1,83 @@
+{
+    "plot": "Kermit and Fozzie are newspaper reporters sent to London to interview Lady Holiday, a wealthy fashion designer whose priceless diamond necklace is stolen. Kermit meets and falls in love with her secretary, Miss Piggy. The jewel thieves strike again, and this time frame Miss Piggy. It's up to Kermit and Muppets to bring the real culprits to justice.", 
+    "genres": "Comedy, Crime, Family", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gentleman Thief", 
+                "id": "GentlemanThief"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "male"
+                ], 
+                "role": "Amazon Brigade: Nicky's gang. Which interestingly enough makes Nicky the male equivalent of the Smurfette Principle.", 
+                "id": "AmazonBrigade"
+            }, 
+            {
+                "adjectives": [
+                    "usual"
+                ], 
+                "role": "Granola Girl: Janice, as usual.", 
+                "id": "GranolaGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082474", 
+    "poster_url": "TheGreatMuppetCaper.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "GranolaGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDictator", 
+            "name": "The Dictator", 
+            "poster_url": "TheDictator.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "GranolaGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "JayAndSilentBobStrikeBack", 
+            "name": "Jay and Silent Bob Strike Back", 
+            "poster_url": "JayAndSilentBobStrikeBack.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmerica1990", 
+            "name": "Captain America ", 
+            "poster_url": "CaptainAmerica1990.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "TheGreatMuppetCaper", 
+    "name": "The Great Muppet Caper"
+}

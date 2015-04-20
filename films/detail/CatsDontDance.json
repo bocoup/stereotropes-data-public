@@ -1,0 +1,114 @@
+{
+    "plot": "Danny, an ambitious singing/dancing cat, goes to Hollywood and overcomes several obstacles to fulfill his dream of becoming a movie star.", 
+    "genres": "Animation, Comedy, Family", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Battle Butler: Darla's butler, Max.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "brutish"
+                ], 
+                "role": "Cats Don't Dance has Max, the brutish butler of spoiled child star Darla Dimple. A combination of Max from Sunset Boulevard and the Terminator.", 
+                "id": "BattleButler"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "electrified"
+                ], 
+                "role": "Adrenaline Makeover: Pudge and his electrified hairdo.", 
+                "id": "AdrenalineMakeover"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fille Fatale", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [
+                    "human-like", 
+                    "skinny", 
+                    "human"
+                ], 
+                "role": "Sawyer from Cats Don't Dance looks more human-like than Danny. While Danny's really, really skinny Sawyer's got Hartman Hips and a leg to body ratio closer to human.", 
+                "id": "HumanoidFemaleAnimal"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Darla Dimple from Cats Don't Dance, despite being just a child.", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Funnily and disturbingly enough, Darla. Fille Fatale", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Darla Dimple, the villain of Cats Don't Dance.", 
+                "id": "TinyTyrannicalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0118829", 
+    "poster_url": "CatsDontDance.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "DrMabuseTheGambler", 
+            "name": "Dr. Mabuse, the Gambler", 
+            "poster_url": "DrMabuseTheGambler.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "FilleFatale", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "FleshAndBlood", 
+            "name": "Flesh And Blood"
+        }, 
+        {
+            "shared": [
+                "FilleFatale", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "MildredPierce", 
+            "name": "Mildred Pierce", 
+            "poster_url": "MildredPierce.jpg"
+        }
+    ], 
+    "id": "CatsDontDance", 
+    "name": "Cats Don't Dance"
+}

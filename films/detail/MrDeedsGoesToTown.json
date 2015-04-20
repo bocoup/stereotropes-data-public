@@ -1,0 +1,66 @@
+{
+    "plot": "Longfellow Deeds lives in a small town, leading a small town kind of life - including playing the tuba in the town band. When a relative dies and leaves Deeds a fortune, Longfellow picks up his tuba and moves to the big city where he becomes an instant target for everyone from the greedy opera committee to the sensationist daily newspaper. Deeds outwits them all until Babe Bennett comes along. Babe is a hot-shot reporter who figures the best way to get close to Deeds is to pose as a damsel in distress. When small-town boy meets big-city girl anything can, and does, happen.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1936", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Decoy Damsel: Babe first pretends to be a Damsel in Distress in order to meet Deeds.", 
+                "id": "DecoyDamsel"
+            }
+        ]
+    }, 
+    "imdbid": "tt0027996", 
+    "poster_url": "MrDeedsGoesToTown.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DecoyDamsel"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DecoyDamsel"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DecoyDamsel"
+            ], 
+            "shared_count": 1, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DecoyDamsel"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGreatRace", 
+            "name": "The Great Race", 
+            "poster_url": "TheGreatRace.jpg"
+        }, 
+        {
+            "shared": [
+                "DecoyDamsel"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBookOfEli", 
+            "name": "The Book of Eli", 
+            "poster_url": "TheBookOfEli.jpg"
+        }
+    ], 
+    "id": "MrDeedsGoesToTown", 
+    "name": "Mr. Deeds Goes to Town"
+}

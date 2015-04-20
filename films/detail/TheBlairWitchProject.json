@@ -1,0 +1,65 @@
+{
+    "plot": "Three film students travel to Maryland to make a student film about a local urban legend... The Blair Witch. The three went into the woods on a two day hike to find the Blair Witch, and never came back. One year later, the students film and video was found in the woods. The footage was compiled and made into a movie. The Blair Witch Project.", 
+    "genres": "Horror, Mystery", 
+    "release_year": "1999", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "titular"
+                ], 
+                "role": "Wicked Witch: The titular witch.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0185937", 
+    "poster_url": "TheBlairWitchProject.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WickedWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWiz", 
+            "name": "The Wiz", 
+            "poster_url": "TheWiz.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "WickedWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "TalesFromMuppetlandTheFrogPrince", 
+            "name": "Tales From Muppetland The Frog Prince"
+        }, 
+        {
+            "shared": [
+                "WickedWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWonderfulWizardOfOz", 
+            "name": "The Wonderful Wizard of Oz", 
+            "poster_url": "TheWonderfulWizardOfOz.jpg"
+        }
+    ], 
+    "id": "TheBlairWitchProject", 
+    "name": "The Blair Witch Project"
+}

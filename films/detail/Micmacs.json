@@ -1,0 +1,94 @@
+{
+    "plot": "Avid movie-watcher and video store clerk Bazil has had his life all but ruined by weapons of war. His father was killed by a landmine in Morocco and one fateful night a stray bullet from a nearby shootout embeds itself in his skull, leaving him on the verge of instantaneous death. Losing his job and his home, Bazil wanders the streets until he meets Slammer, a pardoned convict who introduces him to a band of eccentric junkyard dealers including Calculator, a math expert and statistician, Buster, a record-holder in human cannonball feats, Tiny Pete, an artistic craftsman of automatons, and Elastic Girl, a sassy contortionist. When chance reveals to Bazil the two weapons manufacturers responsible for building the instruments of his destruction, he constructs a complex scheme for revenge that his newfound family is all too happy to help set in motion.", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first", 
+                    "African"
+                ], 
+                "role": "Scary Black Man: de Fenouillet employs one (he even says \"Boo!\" in his first scene). The African rebels also qualify. Remington is not, although he can impersonate one.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "old-time"
+                ], 
+                "role": "Slammer in Micmacs, who introduces himself by saying that he's been in prison for 3/4ths of his life. He uses his status as an old-time prisoner to distract some drug dealers long enough for Bazil to steal their heroin.", 
+                "id": "TheOldConvict"
+            }, 
+            {
+                "adjectives": [
+                    "old-time"
+                ], 
+                "role": "The Old Convict: Slammer, who introduces himself by saying that he's been in prison for 3/4ths of his life. He uses his status as an old-time prisoner to distract some drug dealers long enough for Bazil to steal their heroin.", 
+                "id": "TheOldConvict"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Lad-ette"
+                ], 
+                "role": "Lad-ette: The contortionist is irritated when Bazil seems to think she's one.", 
+                "id": "TheLadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt1149361", 
+    "poster_url": "Micmacs.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "TheOldConvict"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongestYard", 
+            "name": "The Longest Yard", 
+            "poster_url": "TheLongestYard.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "TheOldConvict"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathRace", 
+            "name": "Death Race", 
+            "poster_url": "DeathRace.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheColorOfMoney", 
+            "name": "The Color of Money", 
+            "poster_url": "TheColorOfMoney.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "KissOfTheSpiderWoman", 
+            "name": "Kiss of the Spider Woman", 
+            "poster_url": "KissOfTheSpiderWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }
+    ], 
+    "id": "Micmacs", 
+    "name": "Micmacs"
+}

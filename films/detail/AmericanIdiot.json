@@ -1,0 +1,73 @@
+{
+    "plot": "The music of Green Day weaves in and out of a story about three friends who grew up together in the same small town.", 
+    "genres": "Drama, Musical", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "full", 
+                    "cute"
+                ], 
+                "role": "Troubled, but Cute: Everyone. Johnny, writing to Will about Whatsername: \"She knows I'm full of shit but at least she thinks I'm cute.\"", 
+                "id": "TroubledButCute"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girlfriend", 
+                "id": "ActionGirlFriend"
+            }
+        ]
+    }, 
+    "imdbid": "tt1623740", 
+    "similar": [
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "Gunslinger", 
+            "name": "Gunslinger", 
+            "poster_url": "Gunslinger.gif"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirlFriend"
+            ], 
+            "shared_count": 1, 
+            "id": "MySuperExGirlfriend", 
+            "name": "My Super Ex Girlfriend"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWildOne", 
+            "name": "The Wild One", 
+            "poster_url": "TheWildOne.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }
+    ], 
+    "id": "AmericanIdiot", 
+    "name": "American Idiot"
+}

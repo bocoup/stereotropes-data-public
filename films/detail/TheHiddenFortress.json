@@ -1,0 +1,95 @@
+{
+    "plot": "The story follows two greedy peasants in feudal Japan, Tahei and Matashichi, who are returning home from a failed attempt to profit from a war between neighboring clans. En Route they encounter the remnants of the defeated tribe that consists, most notably, of a famous General and a Princess who are hiding out in a fortress in the mountains. General Rokurota Makabe and Princess Yuki need to escape into allied territory with their large supply of gold so that they can rebuild their shattered clan. To do this the Peasants are tricked into helping them, with the promise that they will receive a large share of the gold when the destination is reached. Along the way, the General's prowess is put to the test as he must guide the 4, and later 5 with the inclusion of a freed slave, through close encounters with the pursuing enemy, and out of difficult situations the bumbling peasants manage to get them into.", 
+    "genres": "Adventure, Drama", 
+    "release_year": "1958", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Samurai", 
+                "id": "Samurai"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Hidden Fortress, Makabe, Hyoe and bunches of bit players.", 
+                "id": "Samurai"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Rebellious"
+                ], 
+                "role": "Rebellious Princess: Princess Yuki", 
+                "id": "RebelliousPrincess"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Hidden Fortress Princess Yuki, who tries to talk like Toshiro Mifune and enjoys riding and hitting people with a stick.", 
+                "id": "TomboyPrincess"
+            }, 
+            {
+                "adjectives": [
+                    "only"
+                ], 
+                "role": "Tomboy Princess: Princess Yuki was an only child raised as a boy by her father. It shows.", 
+                "id": "TomboyPrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0051808", 
+    "poster_url": "TheHiddenFortress.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TomboyPrincess", 
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "TomboyPrincess", 
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 2, 
+            "id": "Fantaghiro", 
+            "name": "Fantaghiro"
+        }, 
+        {
+            "shared": [
+                "TomboyPrincess", 
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "TomboyPrincess", 
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBlackCauldron", 
+            "name": "The Black Cauldron", 
+            "poster_url": "TheBlackCauldron.jpg"
+        }, 
+        {
+            "shared": [
+                "Samurai", 
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 2, 
+            "id": "GhostDogTheWayOfTheSamurai", 
+            "name": "Ghost Dog: The Way of the Samurai", 
+            "poster_url": "GhostDogTheWayOfTheSamurai.jpg"
+        }
+    ], 
+    "id": "TheHiddenFortress", 
+    "name": "The Hidden Fortress"
+}

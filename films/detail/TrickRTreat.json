@@ -1,0 +1,101 @@
+{
+    "plot": "Five interwoven stories that occur on the same block, on the same night. A couple finds what happens when they blow a jack o' lantern out before midnight, a high school principal has a secret life as a serial killer, a college virgin might have met the right guy for her, a group of mean teens play a prank that they take too far, and a hermit is visited by a special trick or treater.", 
+    "genres": "Horror", 
+    "release_year": "2007", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Macy.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Final", 
+                    "many", 
+                    "symbolic"
+                ], 
+                "role": "Final Girl: Laurie has many aspects of this, being named, as she is, after the Final Girl in Halloween (1978). She's even got the Little Red Riding Hood costume, which is, of course, symbolic of virginity. In the end, however,  she and all her friends survive. And they were never really in any danger at all. She and her friends also kill the Serial Killer terrorising the town.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "cute", 
+                    "promiscuous", 
+                    "along"
+                ], 
+                "role": "Thoroughly subverted in Trick 'r Treat with Laurie, whose name is a reference to Jamie Lee Curtis' Final Girl in the Halloween films, a cute virgin dressed as Little Red Riding Hood who is surrounded by loud, promiscuous friends who want to get her laid.  However, none of them were in danger at all. It turns out that they're a pack of bloodthirsty werewolves, and that all along they were actually looking for a man so that Laurie could eat him.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "virginal", 
+                    "red-cloaked", 
+                    "cloaked", 
+                    "normal", 
+                    "serial", 
+                    "alive"
+                ], 
+                "role": "Trick 'r Treat has the innocent, virginal girl among her group of more experienced friends who've forced her to dress as Red Riding Hood. She's on her way to their party deep in the woods when she's attacked by, apparently, a vampire. The friends at the party hear her scream and see a red-cloaked body crash to the ground, but it turns out to be a subversion: the cloaked figure is the \"vampire\", who was a normal human, albeit a serial killer, and Red and her friends are lycanthropes (her \"virgin\" status comes from not having killed anyone yet). She then proceeds to eat him alive as he lies helpless and screaming, while she and her friends turn into werewolves.", 
+                "id": "LittleDeadRidingHood"
+            }
+        ]
+    }, 
+    "imdbid": "tt0862856", 
+    "poster_url": "TrickRTreat.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FinalGirl", 
+                "AlphaBitch", 
+                "LittleDeadRidingHood"
+            ], 
+            "shared_count": 3, 
+            "id": "Carrie", 
+            "name": "Carrie", 
+            "poster_url": "Carrie.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Shrooms", 
+            "name": "Shrooms", 
+            "poster_url": "Shrooms.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl", 
+                "LittleDeadRidingHood"
+            ], 
+            "shared_count": 2, 
+            "id": "InglouriousBasterds", 
+            "name": "Inglourious Basterds", 
+            "poster_url": "InglouriousBasterds.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hatchet", 
+            "name": "Hatchet", 
+            "poster_url": "Hatchet.jpg"
+        }
+    ], 
+    "id": "TrickRTreat", 
+    "name": "Trick 'r Treat"
+}

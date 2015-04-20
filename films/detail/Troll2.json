@@ -1,0 +1,102 @@
+{
+    "plot": "A young child is terrified to discover that a planned family trip is to be haunted by vile plant-eating monsters out of his worst nightmare. His attempt to save his beloved family is assisted by the spectre of his deceased grandfather. Also, there are NO trolls in this movie, only goblins.", 
+    "genres": "Fantasy, Horror", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "dead"
+                ], 
+                "role": "Badass Grandpa: Being dead doesn't stop Grandpa from stopping time, throwing lightning bolts, chopping goblins up with an axe or making molotov cocktails.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "evil"
+                ], 
+                "role": "Appears in Troll 2, with the added kicker that the evil townsfolk are also goblins in disguise.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: Goblins in disguise.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "Troll 2: \"If my father knew you were here, he'd cut off your little nuts and eat them. He can't stand you.\"", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "gawky", 
+                    "year-old", 
+                    "weird"
+                ], 
+                "role": "Ms. Fanservice: Creedence. Attempted with Holly, but she's a gawky sixteen year-old, so it's weird.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0105643", 
+    "poster_url": "Troll2.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "OverprotectiveDad", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "Battleship", 
+            "name": "Battleship", 
+            "poster_url": "Battleship.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }
+    ], 
+    "id": "Troll2", 
+    "name": "Troll 2"
+}

@@ -1,0 +1,111 @@
+{
+    "plot": "An eccentric professor invents wacky machinery, but can't seem to make ends meet. When he invents a revolutionary car, a foreign government becomes interested in it, and resorts to skulduggery to get their hands on it.", 
+    "genres": "Adventure, Family, Fantasy", 
+    "release_year": "1968", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "insane"
+                ], 
+                "role": "Gentleman Adventurer: Played with. Grandpa Potts thinks he's this trope, but he's really just insane.", 
+                "id": "GENTLEMANADVENTURER"
+            }, 
+            {
+                "adjectives": [
+                    "large", 
+                    "panic", 
+                    "give"
+                ], 
+                "role": "Miles Gloriosus: The Child Catcher; he can handle a couple at once (laughing evilly as he does), but a large group of them? That makes him scream in panic and give up without a fight.", 
+                "id": "MilesGloriosus"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Doll-on-a-Music"
+                ], 
+                "role": "The Doll-on-a-Music Box from Chitty Chitty Bang Bang.", 
+                "id": "RobotGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Chitty Chitty Bang Bang.", 
+                "id": "SwingLowSweetHarriet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Swing Low Sweet Harriet: Truly on her garden swing. Rrrrowrrr...", 
+                "id": "SwingLowSweetHarriet"
+            }, 
+            {
+                "adjectives": [
+                    "full"
+                ], 
+                "role": "Baroness Bombast Bomburst from Chitty Chitty Bang Bang, whilst dressing mostly in lace and frills, does have the German accent and a basement full of stolen children.", 
+                "id": "TheBaroness"
+            }, 
+            {
+                "adjectives": [
+                    "actual"
+                ], 
+                "role": "The Baroness: The Baroness. Unlike most examples, this Baroness is in fact an actual baroness. She is married to a baron and lives in the capital of a barony.", 
+                "id": "TheBaroness"
+            }
+        ]
+    }, 
+    "imdbid": "tt0062803", 
+    "poster_url": "ChittyChittyBangBang.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GENTLEMANADVENTURER", 
+                "MilesGloriosus"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "RobotGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 2, 
+            "id": "TheThirtyNineSteps", 
+            "name": "The 39 Steps", 
+            "poster_url": "TheThirtyNineSteps.jpg"
+        }, 
+        {
+            "shared": [
+                "MilesGloriosus"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCommitments", 
+            "name": "The Commitments", 
+            "poster_url": "TheCommitments.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "ChittyChittyBangBang", 
+    "name": "Chitty Chitty Bang Bang"
+}

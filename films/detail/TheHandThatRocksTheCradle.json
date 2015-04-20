@@ -1,0 +1,88 @@
+{
+    "plot": "Peyton Flanders seemed to be the perfect nanny, but secretly she was out to wreck the lives of the family she was supposed to be helping. Before becoming the nanny, Peyton had a miscarriage, and blamed it on Claire (the mother). Claire suspects nothing, having never met Peyton before.", 
+    "genres": "Drama, Thriller", 
+    "release_year": "1992", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Blondes are Evil: Peyton Mott, obviously. Also doubles as a Bitch in Sheep's Clothing.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "severe", 
+                    "inverted"
+                ], 
+                "role": "Ill Girl: Claire suffers from severe asthma and has repeated attacks throughout the film. Leads to an inverted Chekhov's Skill when she fakes an attack in order to throw Peyton off guard.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "full"
+                ], 
+                "role": "Mama Bear: Claire is this in full force once she discovers what Peyton really is. Strangely enough, Peyton shows signs of this too, when she attacks the kid who's been bullying Emma.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Fake Cutie: Peyton Mott.", 
+                "id": "TheFakeCutie"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104389", 
+    "poster_url": "TheHandThatRocksTheCradle.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "ClassOf1984", 
+            "name": "Class Of", 
+            "poster_url": "ClassOf1984.jpg"
+        }, 
+        {
+            "shared": [
+                "TheFakeCutie", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "TheFakeCutie", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "HomewardBoundTheIncredibleJourney", 
+            "name": "Homeward Bound: The Incredible Journey", 
+            "poster_url": "HomewardBoundTheIncredibleJourney.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "ItTakesTwo", 
+            "name": "It Takes Two", 
+            "poster_url": "ItTakesTwo.jpg"
+        }
+    ], 
+    "id": "TheHandThatRocksTheCradle", 
+    "name": "The Hand That Rocks the Cradle"
+}

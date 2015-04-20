@@ -1,0 +1,105 @@
+{
+    "plot": "This is the story of a nine-year-old boy named Hogarth Hughes who makes friends with an innocent alien giant robot that came from outer space. Meanwhile, a paranoid U.S. Government agent named Kent Mansley arrives in town, determined to destroy the giant at all costs. It's up to Hogarth to protect him by keeping him at Dean McCoppin's place in the junkyard.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "own", 
+                    "fellow", 
+                    "own"
+                ], 
+                "role": "Dirty Coward: Mansley, after dooming everyone in the town thanks to his own paranoia, tries to bolt out of town and leave his fellow citizens to die in favor of saving his own skin. He doesn't get far.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "nuclear", 
+                    "giant", 
+                    "entire", 
+                    "own"
+                ], 
+                "role": "Kent Mansley in The Iron Giant reveals himself as this when he unthinkingly has a nuclear missile launched at the giant...who happens to be standing fifty feet away. Upon realizing he's doomed the entire town, he immediately hijacks an army jeep and tries to drive away and save his own skin.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: The picture of Hogarth's father in a plane is intended to imply that his father was a pilot that died in the Korean War. The helmet and bomber jacket Hogarth puts on when he goes after the Giant in the beginning? Those are his father's.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Dean, the handsome artistically inclined beatnik with the voice of Harry Connick Jr.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Papa Wolf Thinking of harming Hogarth within Giant's eyesight? You're in for it. Dean's no slouch, either. His first reaction to seeing the Giant is to protect the kid. He also chews out the Giant after he (the Giant, not Dean) nearly vaporizes Hogarth by accident.", 
+                "id": "PapaWolf"
+            }
+        ]
+    }, 
+    "imdbid": "tt0129167", 
+    "poster_url": "TheIronGiant.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "ToKillAMockingbird", 
+            "name": "To Kill a Mockingbird", 
+            "poster_url": "ToKillAMockingbird.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MrFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Inception", 
+            "name": "Inception", 
+            "poster_url": "Inception.jpg"
+        }
+    ], 
+    "id": "TheIronGiant", 
+    "name": "The Iron Giant"
+}

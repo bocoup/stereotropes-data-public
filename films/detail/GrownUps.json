@@ -1,0 +1,144 @@
+{
+    "plot": "In 1978, five 12-year-olds win a CYO basketball championship. Thirty years later, they gather with their families for their coach's funeral and a weekend at a house on a lake where they used to party. By now, each is a grownup with problems and challenges: Marcus is alone and drinks too much. Rob, with three daughters he rarely sees, is always deeply in love until he turns on his next ex-wife. Eric is overweight and out of work. Kurt is a househusband, henpecked by wife and mother-in-law. Lenny is a successful Hollywood agent married to a fashion designer; their kids take privilege for granted. Can the outdoors help these grownups rediscover connections or is this chaos in the making?", 
+    "genres": "Comedy", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Chivalrous"
+                ], 
+                "role": "Chivalrous Pervert: Marcus.", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "second"
+                ], 
+                "role": "Jerk Jock: The posse in the first movie, and the college kids in the second movie.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kavorka Man: Marcus. The others may count as well, but Marcus stands out the most, because he is a ladies' man", 
+                "id": "KavorkaMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Marcus", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "muscular", 
+                    "other"
+                ], 
+                "role": "In Grown Ups 2, Beefcake Kitty is mocked by others for her muscular physique. There are some jokes implying she has a penis. They're usually made by other characters. But there was one implying she needed a jockstrap. However Marcus seems quite into her, but that was played for laughs couple of times.", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [
+                    "equal"
+                ], 
+                "role": "Granola Guy/Cloudcuckoolander: Rob is equal parts of both.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Salma Hayek as the Rich Bitch fashionista? Was the role intended for Eva Longoria?", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Becky on the other hand seems to be Spoiled Sweet", 
+                "id": "SpoiledSweet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Kurt", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Fashionista: Lenny's wife", 
+                "id": "TheFashionista"
+            }, 
+            {
+                "adjectives": [
+                    "hot"
+                ], 
+                "role": "The Ugly Guy's Hot Daughter: Rob's has two incredibly hot daughters.", 
+                "id": "TheUglyGuysHotDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt1375670", 
+    "poster_url": "GrownUps.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChivalrousPervert", 
+                "TheUglyGuysHotDaughter", 
+                "TheFashionista", 
+                "TheCasanova", 
+                "TheChick", 
+                "BrawnHilda"
+            ], 
+            "shared_count": 6, 
+            "id": "FairyTail", 
+            "name": "Fairy Tail"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "TheChick", 
+                "JerkJock", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 4, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "KavorkaMan", 
+                "TheChick", 
+                "BrawnHilda"
+            ], 
+            "shared_count": 4, 
+            "id": "TheFifthElement", 
+            "name": "The Fifth Element", 
+            "poster_url": "TheFifthElement.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "JerkJock", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 3, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "TheChick", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "OliverAndCompany", 
+            "name": "Oliver & Company"
+        }
+    ], 
+    "id": "GrownUps", 
+    "name": "Grown Ups"
+}

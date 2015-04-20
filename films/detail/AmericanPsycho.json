@@ -1,0 +1,140 @@
+{
+    "plot": "Patrick Bateman, a young, well to do man working on wall street at his father's company kills for no reason at all. As his life progresses his hatred for the world becomes more and more intense.", 
+    "genres": "Crime, Drama", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "main", 
+                    "banal", 
+                    "secondary"
+                ], 
+                "role": "In American Psycho, pretty much all of the main characters working as investment bankers fit the trope, although the banal greed and callousness of the secondary characters pales in comparison to the violent crimes of the protagonist, Patrick Bateman.", 
+                "id": "MorallyBankruptBanker"
+            }, 
+            {
+                "adjectives": [
+                    "entire", 
+                    "complete"
+                ], 
+                "role": "Mr. Fanservice: The entire cast. Intentional to highlight their vanity and the complete lack of identity among them.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "several"
+                ], 
+                "role": "Disposable Sex Worker: \"Christie\" in the movie, and Bateman murders several more prostitutes in the book.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "main", 
+                    "several", 
+                    "homeless", 
+                    "interested"
+                ], 
+                "role": "In American Psycho, the main character hires and brutally murders prostitutes after having sex with them. He does this several times, once in the apartment of another man he killed. He also preys on a homeless man, another convenient victim that society isn't very interested in.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "numerous", 
+                    "many", 
+                    "different"
+                ], 
+                "role": "American Psycho Several times, along with numerous Streetwalkers he kills, in many different ways.", 
+                "id": "HighClassCallGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Jean"
+                ], 
+                "role": "Jean in American Psycho.", 
+                "id": "PluckyOfficeGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Jean"
+                ], 
+                "role": "Plucky Office Girl: Jean.", 
+                "id": "PluckyOfficeGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Jean", 
+                    "expensive", 
+                    "inappropriate"
+                ], 
+                "role": "Sexy Secretary: Jean, who constantly tries to get Patrick's attention. Patrick notes in the book that the clothes she wears are \"improbably expensive and completely inappropriate\".", 
+                "id": "SexySecretary"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "\"Christie\" in American Psycho (also in the film adaptation).", 
+                "id": "Streetwalker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0144084", 
+    "poster_url": "AmericanPsycho.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Streetwalker", 
+                "MrFanservice", 
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "SexySecretary", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "SexySecretary", 
+                "PluckyOfficeGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }, 
+        {
+            "shared": [
+                "Streetwalker", 
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBurning", 
+            "name": "The Burning", 
+            "poster_url": "TheBurning.jpg"
+        }, 
+        {
+            "shared": [
+                "SexySecretary", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFlintstones", 
+            "name": "The Flintstones", 
+            "poster_url": "TheFlintstones.jpg"
+        }
+    ], 
+    "id": "AmericanPsycho", 
+    "name": "American Psycho"
+}

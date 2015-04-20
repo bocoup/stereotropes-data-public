@@ -1,0 +1,104 @@
+{
+    "plot": "The singing group, The Beatles, at the height of their popularity, made this cartoon of a land that is taken over by the Blue Meanies. They are recruited by an escapee to come and bring joy (and music) back to the land. The techniques are quite psychedelic in the cartoons and much care was taken to have the walks and mannerisms of the individual Beatles cartoons match the originals.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1968", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: The boss of the Blue Meanies.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Both Old Fred and Lord Mayor from Yellow Submarine.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Old Fred and the Lord Mayor.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Keet: The Chief Blue Meanie.", 
+                "id": "Keet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sissy Villain", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chief Blue Meanie in Yellow Submarine.", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Old Fred", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0063823", 
+    "poster_url": "YellowSubmarine.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Keet", 
+                "SissyVillain", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "SissyVillain", 
+                "CampGay"
+            ], 
+            "shared_count": 3, 
+            "id": "JesusChristSuperstar", 
+            "name": "Jesus Christ Superstar", 
+            "poster_url": "JesusChristSuperstar.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "SissyVillain", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "Keet", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieAndTheMagicOfPegasus", 
+            "name": "Barbie And The Magic Of Pegasus", 
+            "poster_url": "BarbieAndTheMagicOfPegasus.jpg"
+        }
+    ], 
+    "id": "YellowSubmarine", 
+    "name": "Yellow Submarine"
+}

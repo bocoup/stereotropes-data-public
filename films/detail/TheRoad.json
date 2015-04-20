@@ -1,0 +1,89 @@
+{
+    "plot": "A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind and water. It is cold enough to crack stones, and, when the snow falls it is gray. The sky is dark. Their destination is the warmer south, although they don't know what, if anything, awaits them there. They have nothing: just a pistol to defend themselves against the lawless cannibalistic bands that stalk the road, the clothes they are wearing, a rusting shopping cart of scavenged food--and each other.", 
+    "genres": "Adventure, Drama", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "few", 
+                    "main", 
+                    "ghoulish", 
+                    "small", 
+                    "only", 
+                    "adjective"
+                ], 
+                "role": "Beard of Barbarism: Averted and played straight. Averted by the father, whose unkempt beard is mentioned a few times (typically right before he has the chance to shave it off). Played straight when the two main characters stumbled upon the ghoulish larder of a small band of cannibals at one point. As they flee, they briefly glimpse the larder's owners, and the only adjective used to describe the men is \"bearded.\"", 
+                "id": "BeardOfBarbarism"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: The father.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: The mother gave up hope and left the family.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0898367", 
+    "poster_url": "TheRoad.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfBarbarism", 
+                "PapaWolf", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "HowToTrainYourDragon", 
+            "name": "How to Train Your Dragon", 
+            "poster_url": "HowToTrainYourDragon.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "NextAvengersHeroesOfTomorrow", 
+            "name": "Next Avengers: Heroes of Tomorrow"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }
+    ], 
+    "id": "TheRoad", 
+    "name": "The Road"
+}

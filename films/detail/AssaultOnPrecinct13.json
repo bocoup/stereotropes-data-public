@@ -1,0 +1,95 @@
+{
+    "plot": "On New Year's Eve, inside a police station that's about to be closed for good, officer Jake Roenick must cobble together a force made up cops and criminals to save themselves from a mob looking to kill mobster Marion Bishop.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Guys, it's Laurence Fishburne.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "Action Girl: Leigh. Even after getting shot in the arm, she still manages to take down several mooks.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Girlish", 
+                    "little"
+                ], 
+                "role": "Girlish Pigtails: Worn by the little girl who gets shot and killed after complaining that she wanted a vanilla twist.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sweater Girl: Leigh and Julie.", 
+                "id": "SweaterGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0398712", 
+    "poster_url": "AssaultOnPrecinct13.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "SweaterGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "AssaultOnPrecinct131976", 
+            "name": "Assault on Precinct 13 ", 
+            "poster_url": "AssaultOnPrecinct131976.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Kick-Ass", 
+            "name": "Kick-Ass", 
+            "poster_url": "Kick-Ass.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }
+    ], 
+    "id": "AssaultOnPrecinct13", 
+    "name": "Assault On Precinct 13"
+}

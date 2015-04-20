@@ -1,0 +1,76 @@
+{
+    "plot": "Virginia Cunningham finds herself in a state insane asylum...and can't remember how she got there. In flashback, her husband Robert relates their courtship, marriage, and her developing symptoms. The asylum staff are not demonized, but fear, ignorance and regimentation keep Virginia in a state of misery, as pipesmoking Dr. Mark Kik struggles through wheels within wheels to find the root of her problem. Then a relapse plunges Virginia back into the harrowing 'Snake Pit'...", 
+    "genres": "Drama", 
+    "release_year": "1948", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "helpful"
+                ], 
+                "role": "Battleaxe Nurse: While Dr. Kik is kindly and helpful, most of the nurses are mean. The worst is Nurse Davis, who obviously hates Virginia\u2014she has an unrequited crush on Dr. Kik and resents Virginia's closeness to her doctor. At one point Nurse Davis essentially provokes Virginia into a relapse.", 
+                "id": "BattleaxeNurse"
+            }, 
+            {
+                "adjectives": [
+                    "mean", 
+                    "petty", 
+                    "mental"
+                ], 
+                "role": "Nurse Davis from The Snake Pit is mean and petty and in one scene essentially proves the mental patient she hates into a relapse.", 
+                "id": "BattleaxeNurse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0040806", 
+    "poster_url": "TheSnakePit.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "Misery", 
+            "name": "Misery", 
+            "poster_url": "Misery.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "TheRightStuff", 
+            "name": "The Right Stuff", 
+            "poster_url": "TheRightStuff.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFlintstones", 
+            "name": "The Flintstones", 
+            "poster_url": "TheFlintstones.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "TheEnglishPatient", 
+            "name": "The English Patient", 
+            "poster_url": "TheEnglishPatient.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "FoxyBrown", 
+            "name": "Foxy Brown", 
+            "poster_url": "FoxyBrown.jpg"
+        }
+    ], 
+    "id": "TheSnakePit", 
+    "name": "The Snake Pit"
+}

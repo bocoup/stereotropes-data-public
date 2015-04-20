@@ -1,0 +1,118 @@
+{
+    "plot": "\u00c5m\u00e5l is a small insignificant town where nothing ever happens, where the latest trends are out of date when they get there. Young Elin has a bit of a bad reputation when it comes to guys, but the fact is that she has never done *it*. Another girl in her school, Agnes, is in love with her but is too shy to do anything about it. For a number of reasons, Elin ends up at Agnes' birthday party as the only guest. They have a girl's night out together but after that Elin desperately avoids Agnes, refusing to even consider her own feelings toward Agnes.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Jessica has to break up a fight between Markus and another boy who was trying to chat her up", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Johan.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Camilla.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Agnes.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian: Both girls fall under this somewhat.", 
+                "id": "LipstickLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Schoolgirl Lesbians: Agnes and Elin.", 
+                "id": "SchoolgirlLesbians"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Smitten Teenage Girl: Agnes and Elin barely know each other at the start of the film, but Agnes is still writing poetry about her and writing her name in her books.", 
+                "id": "SmittenTeenageGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Agnes and Elin.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0150662", 
+    "poster_url": "ShowMeLove.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "TomBoyAndGirlyGirl", 
+                "CrazyJealousGuy", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 4, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "LipstickLesbian", 
+                "TomBoyAndGirlyGirl", 
+                "SchoolgirlLesbians", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 4, 
+            "id": "MementoMori", 
+            "name": "Memento Mori"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "TomBoyAndGirlyGirl", 
+                "SchoolgirlLesbians", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 4, 
+            "id": "TheMothDiaries", 
+            "name": "The Moth Diaries", 
+            "poster_url": "TheMothDiaries.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "TomBoyAndGirlyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "TomBoyAndGirlyGirl", 
+                "SmittenTeenageGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }
+    ], 
+    "id": "ShowMeLove", 
+    "name": "Show Me Love"
+}

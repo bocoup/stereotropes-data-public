@@ -1,0 +1,65 @@
+{
+    "plot": "Shrek has rescued Princess Fiona, got married, and now is time to meet the parents. Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father. But not everyone is happy. Shrek and the King find it hard to get along, and there's tension in the marriage. It's not just the family who are unhappy. Prince Charming returns from a failed attempt at rescuing Fiona, and works alongside his mother, the Fairy Godmother, to try and find a way to get Shrek away from Fiona.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Prince Charmless: Prince Charming.", 
+                "id": "PrinceCharmless"
+            }
+        ]
+    }, 
+    "imdbid": "tt0298148", 
+    "poster_url": "Shrek2.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrinceCharmless"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharmless"
+            ], 
+            "shared_count": 1, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharmless"
+            ], 
+            "shared_count": 1, 
+            "id": "HappilyNEverAfter", 
+            "name": "Happily N'Ever After", 
+            "poster_url": "HappilyNEverAfter.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharmless"
+            ], 
+            "shared_count": 1, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharmless"
+            ], 
+            "shared_count": 1, 
+            "id": "TimeMasters", 
+            "name": "Time Masters", 
+            "poster_url": "TimeMasters.jpg"
+        }
+    ], 
+    "id": "Shrek2", 
+    "name": "Shrek 2"
+}

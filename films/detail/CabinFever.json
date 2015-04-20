@@ -1,0 +1,87 @@
+{
+    "plot": "An offbeat horror tale about a group of five college friends on vacation at a remote mountain cabin when one contracts a flesh-eating virus. As it spreads among the friends, their true feelings and personalities emerge as they struggle to survive the virus and each other.", 
+    "genres": "Comedy, Horror", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Old Man Cadwell who seems racist  but is actually Pretty Fly for a White Guy.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "midriff-baring", 
+                    "miniskirt-wearing", 
+                    "burst", 
+                    "early", 
+                    "flesh-eating", 
+                    "overall", 
+                    "top", 
+                    "''covered"
+                ], 
+                "role": "Cabin Fever 2 plays this trope for maximum squick in a scene featuring a stripper in a midriff-baring, miniskirt-wearing Catholic schoolgirl costume and bearing a burst coldsore (an early sign of the flesh-eating disease featured in the film, for those of you playing at home). Her performance goes overall fine, until she takes off her top and reveals that her breasts are ''covered'' in pustules. (One of her spectators indicates that he would still tap that.)", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Catholic School Girls Rule: Invoked by the stripper at the end.", 
+                "id": "CatholicSchoolGirlsRule"
+            }
+        ]
+    }, 
+    "imdbid": "tt0303816", 
+    "poster_url": "CabinFever.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWorldsEnd", 
+            "name": "The World's End", 
+            "poster_url": "TheWorldsEnd.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekNemesis", 
+            "name": "Star Trek: Nemesis", 
+            "poster_url": "StarTrekNemesis.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "CabinFever", 
+    "name": "Cabin Fever"
+}

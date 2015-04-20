@@ -1,0 +1,86 @@
+{
+    "plot": "In 689 A.D., the Empress Wu Zetian is building a 66 m high statue of Buddha for her inauguration as the first empress of China under the objections and conspiracy of the other clans. When the engineer responsible for the construction mysteriously dies by spontaneous combustion, the superstitious workers are afraid since the man removed the good luck charms from the main pillar. There is an investigation of Pei Donglai and another investigator that also dies after withdrawing the amulets. Empress Wu assigns her loyal assistant Shangguan Jing'er to release the exiled Detective Dee from his imprisonment to investigate with Donglai and Jing'er the mystery of the deaths. They ride in a mystic and epic adventure to unravel the mystery.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Jing'er", 
+                    "capable", 
+                    "entire"
+                ], 
+                "role": "Action Girl: Jing'er might just be the most capable fighter in the entire film.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: The Empress, particularly in her younger years, but she's still got it. Jing'er tries to be one.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "entire", 
+                    "big"
+                ], 
+                "role": "God Save Us from the Queen!: Although the entire movie hinges on Dee's efforts to protect the Empress, she is arguably as big of a villain as the assassins.", 
+                "id": "GodSaveUsFromTheQueen"
+            }
+        ]
+    }, 
+    "imdbid": "tt1123373", 
+    "poster_url": "DetectiveDee.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "DetectiveDee", 
+    "name": "Detective Dee"
+}

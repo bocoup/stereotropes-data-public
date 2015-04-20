@@ -1,0 +1,124 @@
+{
+    "plot": "In 1944 falangist Spain, a girl, fascinated with fairy-tales, is sent along with her pregnant mother to live with her new stepfather, a ruthless captain of the Spanish army. During the night, she meets a fairy who takes her to an old faun in the center of the labyrinth. He tells her she's a princess, but must prove her royalty by surviving three gruesome tasks. If she fails, she will never prove herself to be the the true princess and will never see her real father, the king, again.", 
+    "genres": "Drama, Fantasy, War", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Disappeared Dad: Captain Vidal's father was killed when his son was a boy, and it's implied that his death haunted Vidal all his life. Hence why he wants his own son so badly. Ofelia claims her father was a deceased tailor. The faun, however, tells her that he's actually king of the underworld and she meets him at the end.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "weak"
+                ], 
+                "role": "Mama Bear: Mercedes near the climax, even more than Carmen, who actually proves to be a fairly weak person.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Ofelia.", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ofelia of Pan's Labyrinth. Maybe...", 
+                "id": "TheOphelia"
+            }, 
+            {
+                "adjectives": [
+                    "young", 
+                    "sensitive", 
+                    "eager"
+                ], 
+                "role": "The Ophelia: Ofelia is very young, but shows signs of perhaps growing into this trope \u2014 she is keenly sensitive, adores stories and books, and is eager to chase after fantasies. To outsiders she may well look like a girl who is not all there.", 
+                "id": "TheOphelia"
+            }, 
+            {
+                "adjectives": [
+                    "evil"
+                ], 
+                "role": "Pan's Labyrinth has an evil stepfather. For Captain Vidal, \"wicked\" is putting it mildly.", 
+                "id": "WickedStepmother"
+            }, 
+            {
+                "adjectives": [
+                    "mild"
+                ], 
+                "role": "Wicked Stepmother: Father actually, Vidal to Ofelia. But \"wicked\" is a bit too mild.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0457430", 
+    "poster_url": "PansLabyrinth.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "WickedStepmother", 
+                "PluckyGirl", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 4, 
+            "id": "Tangled", 
+            "name": "Tangled", 
+            "poster_url": "Tangled.png"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EverythingsBetterWithPrincesses", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "EverythingsBetterWithPrincesses", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "PluckyGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EverythingsBetterWithPrincesses", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CastleInTheSky", 
+            "name": "Castle in the Sky", 
+            "poster_url": "CastleInTheSky.jpg"
+        }
+    ], 
+    "id": "PansLabyrinth", 
+    "name": "Pan's Labyrinth"
+}

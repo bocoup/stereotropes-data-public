@@ -1,0 +1,86 @@
+{
+    "plot": "An unlikely kind of friendship develops between Fergus, an Irish Republican Army volunteer, and Jody, a kidnapped British soldier lured into an IRA trap by Jude, another IRA member. When the hostage-taking ends up going horribly wrong, Fergus escapes and heads to London, where he seeks out Jody's lover, a hairdresser named Dil. Fergus adopts the name \"Jimmy\" and gets a job as a day laborer. He also starts seeing Dil, who knows nothing about Fergus' IRA background. But there are some things about Dil that Fergus doesn't know, either...", 
+    "genres": "Crime, Drama, Romance", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jaye Davidson.", 
+                "id": "DudeLooksLikeALady"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "black"
+                ], 
+                "role": "Jude (Miranda Richardson) in The Crying Game, though she changes her hair to a black bob halfway through the film.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "raven-haired"
+                ], 
+                "role": "Femme Fatale: Jude, especially when she goes raven-haired.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104036", 
+    "poster_url": "TheCryingGame.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DudeLooksLikeALady", 
+                "BlondesAreEvil", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "UndercoverBrother", 
+            "name": "Undercover Brother", 
+            "poster_url": "UndercoverBrother.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "CoolWorld", 
+            "name": "Cool World", 
+            "poster_url": "CoolWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "DoubleIndemnity", 
+            "name": "Double Indemnity", 
+            "poster_url": "DoubleIndemnity.jpg"
+        }
+    ], 
+    "id": "TheCryingGame", 
+    "name": "The Crying Game"
+}

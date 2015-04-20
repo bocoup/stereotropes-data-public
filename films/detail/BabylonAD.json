@@ -1,0 +1,105 @@
+{
+    "plot": "In a near future, the mercenary Toorop is hired by the powerful criminal Gorsky to take a woman named Aurora from a Noelite Convent in Central Asia to New York. In return, he will receive a large amount of money and a clear passport. Toorop joins Aurora and her guardian Sister Rebeka as they cross the dangerous Russian landscape chased by mercenaries that also want Aurora. On their journey, Toorop discovers that Aurora has special abilities and once in New York, they see on the news that the Noelite Convent has just been bombed. When Aurora discloses that she is a virgin and pregnant with twins, Toorop realizes that there is something sinister behind his mission and that he and Sister Rebeka are not part of Gorsky's plans.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2008", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "High", 
+                    "missile", 
+                    "modern"
+                ], 
+                "role": "Babylon A.D.: The High Priestess of the Neolite sect destroys the convent where Aurora was brought up in with a missile strike, presumably to destroy evidence of her past that would obscure her status as a modern 'miracle'.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "Matriarch/Corrupt", 
+                    "High"
+                ], 
+                "role": "Evil Matriarch/Corrupt Corporate Executive: The High Priestess of the Neolite sect.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "schizophrenic", 
+                    "meant"
+                ], 
+                "role": "The Ingenue: Aurora in the movie, but averted with Marie Zorn in the novel: a schizophrenic prostitute who was simply meant to be a courier for the babies. Unfortunately for the Neolites her Mysterious Past starts to complicate things.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "Ing\u00e9nue", 
+                    "schizophrenic", 
+                    "meant"
+                ], 
+                "role": "The Ing\u00e9nue: Aurora in the movie, but averted with Marie Zorn in the novel: a schizophrenic prostitute who was simply meant to be a courier for the babies. Unfortunately for the Neolites her Mysterious Past starts to complicate things.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "hysterical"
+                ], 
+                "role": "The Ophelia: Aurora has touches of this, though she's not mad. She does gets hysterical when she has visions, but that's because what she's seeing is not pretty.", 
+                "id": "TheOphelia"
+            }
+        ]
+    }, 
+    "imdbid": "tt0364970", 
+    "poster_url": "BabylonAD.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheIngenue", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "Sybil", 
+            "name": "Sybil", 
+            "poster_url": "Sybil.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "TheIngenue"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "TheIngenue"
+            ], 
+            "shared_count": 2, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMothDiaries", 
+            "name": "The Moth Diaries", 
+            "poster_url": "TheMothDiaries.jpg"
+        }
+    ], 
+    "id": "BabylonAD", 
+    "name": "Babylon A.D."
+}

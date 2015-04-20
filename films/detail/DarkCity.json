@@ -1,0 +1,92 @@
+{
+    "plot": "John Murdoch awakens alone in a strange hotel to find that he has lost his memory and is wanted for a series of brutal and bizarre murders. While trying to piece together his past, he stumbles upon a fiendish underworld controlled by a group of beings known as The Strangers who possess the ability to put people to sleep and alter the city and its inhabitants. Now Murdoch must find a way to stop them before they take control of his mind and destroy him.", 
+    "genres": "Mystery, Sci-Fi", 
+    "release_year": "1998", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "serial"
+                ], 
+                "role": "In Dark City, the Strangers attempt to make John Murdock a serial killer of prostitutes by implanting fake memories of the murders in his head. They themselves kill a woman to serve as his latest victim, though if she had been a prostitute, it was only because the Strangers put her in that role.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "Nice"
+                ], 
+                "role": "Femme Fatale: Subverted quickly with Emma. She's got the look, but she's a Nice Girl who wants to help John regain his memory.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dark City", 
+                "id": "GlamorousWartimeSinger"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Emma in Dark City, which is later revealed to be an implanted identity.", 
+                "id": "TheChanteuse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chanteuse: Emma.", 
+                "id": "TheChanteuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0118929", 
+    "similar": [
+        {
+            "shared": [
+                "TheChanteuse", 
+                "GlamorousWartimeSinger"
+            ], 
+            "shared_count": 2, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse", 
+                "GlamorousWartimeSinger"
+            ], 
+            "shared_count": 2, 
+            "id": "RedHotRidingHood", 
+            "name": "Red Hot Riding Hood"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "LemonadeJoe", 
+            "name": "Lemonade Joe", 
+            "poster_url": "LemonadeJoe.jpg"
+        }
+    ], 
+    "id": "DarkCity", 
+    "name": "Dark City"
+}

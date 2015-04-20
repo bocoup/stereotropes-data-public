@@ -1,0 +1,106 @@
+{
+    "plot": "N/A", 
+    "genres": "Short, Biography, Comedy", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded"
+                ], 
+                "role": "Absent-Minded Professor: Wallace. Oh, so much.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [
+                    "eccentric"
+                ], 
+                "role": "Wallace from Wallace & Gromit, though he's more \"eccentric\" than \"scattered\".", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [
+                    "iconic", 
+                    "villainous", 
+                    "comic", 
+                    "experimental", 
+                    "ping-pong"
+                ], 
+                "role": "The iconic 'stache was sported by the villainous Herr Doktor Count Baron Napoleon von Strudel (a.k.a. Bert Maudsley) in one Wallace & Gromit comic, who also had an Eyepatch of Power concealing an experimental ping-pong ball that would explode on contact with the ground. And yes, he did twirl the moustache at least once.", 
+                "id": "DastardlyWhiplash"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Piella Bakewell of Wallace & Gromit: A Matter of Loaf and Death, marries bakers, then kills them, to get a \"baker's dozen\". Naturally, she tries to kill Wallace.", 
+                "id": "BlackWidow"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl of the Week: All of Wallace's love interests.", 
+                "id": "GirlOfTheWeek"
+            }, 
+            {
+                "adjectives": [
+                    "Bake-O-Lite", 
+                    "Bake-O-Lite", 
+                    "heavy", 
+                    "broken-up"
+                ], 
+                "role": "Piella Bakewell from Wallace & Gromit: A Matter Of Loaf And Death. Wallace recognizes her as the spokeswoman for Bake-O-Lite Bread, but she was fired as the \"Bake-O-Lite Girl\" when she became too heavy to fly the balloon they used in advertising. She's more broken-up about this than she lets on, as Wallace and Gromit learn when she turns out to be the \"cereal killer\" who's been offing bakers all across town. Though given the content of the spoiler, one really does wonder if whether her version of events shouldn't be taken with a pinch of salt.", 
+                "id": "WhiteDwarfStarlet"
+            }
+        ]
+    }, 
+    "imdbid": "tt1818444", 
+    "similar": [
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "BlackWidow"
+            ], 
+            "shared_count": 2, 
+            "id": "AMatterOfLoafAndDeath", 
+            "name": "A Matter of Loaf and Death", 
+            "poster_url": "AMatterOfLoafAndDeath.jpg"
+        }, 
+        {
+            "shared": [
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExtraordinaryAdventuresOfAdeleBlancSec", 
+            "name": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec"
+        }, 
+        {
+            "shared": [
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 1, 
+            "id": "TheSatanBug", 
+            "name": "The Satan Bug", 
+            "poster_url": "TheSatanBug.jpg"
+        }
+    ], 
+    "id": "WallaceAndGromit", 
+    "name": "Wallace & Gromit"
+}

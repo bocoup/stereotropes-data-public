@@ -1,0 +1,80 @@
+{
+    "plot": "A bandit terrorizes a small Mexican farming village each year. Several of the village elders send three of the farmers into the United States to search for gunmen to defend them. They end up with 7, each of whom comes for a different reason. They must prepare the town to repulse an army of 40 bandits who will arrive wanting food. An Americanization of the film, Seven Samurai (1954)", 
+    "genres": "Action, Adventure, Western", 
+    "release_year": "1960", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Calvera", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Magnificent Seven is a Western adaptation of The Seven Samurai.", 
+                "id": "KnightErrant"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Chico from the movie The Magnificent Seven, the Western version of Katsushiro from Seven Samurai.", 
+                "id": "YoungGun"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Young Gun: Chico", 
+                "id": "YoungGun"
+            }
+        ]
+    }, 
+    "imdbid": "tt0054047", 
+    "poster_url": "TheMagnificentSeven.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "YoungGun"
+            ], 
+            "shared_count": 1, 
+            "id": "McCabeAndMrsMiller", 
+            "name": "McCabe & Mrs. Miller", 
+            "poster_url": "McCabeAndMrsMiller.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "YoungGun"
+            ], 
+            "shared_count": 1, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }
+    ], 
+    "id": "TheMagnificentSeven", 
+    "name": "The Magnificent Seven"
+}

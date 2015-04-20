@@ -1,0 +1,86 @@
+{
+    "plot": "A young girl rescues a mysterious cat from traffic and soon finds herself the unwelcome recipient of gifts and favors from the King of the Cats, who also wants her to marry his son, Prince Lune. With the assistance of a fat, grouchy real cat and a an elegant cat statuette come to life (both characters featured in Studio Ghibli's earlier anime \"Whisper of the Heart\"), the girl visits the Cat Kingdom and narrowly escapes again.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: The Cat King. Well, at least he tried to be one...\"babe.\"", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Haru lives with her mom, and no mention is made about a father.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "complete", 
+                    "much"
+                ], 
+                "role": "Plucky Girl: It's a Ghibli film, it wouldn't be complete without one, although not as much as her Miyazaki counterparts.", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0347618", 
+    "poster_url": "TheCatReturns.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "PluckyGirl", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "PluckyGirl", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "PluckyGirl", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }
+    ], 
+    "id": "TheCatReturns", 
+    "name": "The Cat Returns"
+}

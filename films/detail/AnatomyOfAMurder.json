@@ -1,0 +1,92 @@
+{
+    "plot": "Frederick Manion (Ben Gazzara), a lieutenant in the army, is arrested for the murder of a bartender, Barney Quill. He claims, in his defense, that the victim had raped and beaten up his wife Laura (Lee Remick). Although Laura supports her husband's story, the police surgeon can find no evidence that she has been raped. Manion is defended by Paul Biegler (James Stewart), a rather humble small-town lawyer. During the course of interviews, Biegler discovers that Manion is violently possessive and jealous, and also that his wife has a reputation for giving her favors to other men. Biegler realizes that the prosecution will try to make the court believe that Laura was the lover of the bartender and than Manion killed him and beat her up when he discovered them together. Manion pleads \"not guilty\" and Biegler, who knows that his case is weak, sets his assistants to try to find a witness who will save Manion.", 
+    "genres": "Crime, Drama, Mystery", 
+    "release_year": "1959", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Manion.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Sharp-Dressed"
+                ], 
+                "role": "Sharp-Dressed Man: Dancer.", 
+                "id": "SharpDressedMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "popular", 
+                    "topic"
+                ], 
+                "role": "Hello, Nurse!: Laura's sexiness is a popular topic of conversation.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Laura Manion.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0052561", 
+    "poster_url": "AnatomyOfAMurder.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "CrazyJealousGuy", 
+                "HelloNurse"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "RedHotRidingHood", 
+            "name": "Red Hot Riding Hood"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "HorribleBosses", 
+            "name": "Horrible Bosses", 
+            "poster_url": "HorribleBosses.jpg"
+        }
+    ], 
+    "id": "AnatomyOfAMurder", 
+    "name": "Anatomy of a Murder"
+}

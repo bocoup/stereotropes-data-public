@@ -1,0 +1,88 @@
+{
+    "plot": "Mitch is a middle aged big-city radio ads salesman. He and his friends Ed and Phil are having mid-life crisis. They decide the best birthday gift is to go on a two week holiday in the wild west driving cattle from New Mexico to Colorado. There they meet cowboy Curly who not only teaches them how to become real cowboys, but also one or two other things about life in the open air of the west.", 
+    "genres": "Comedy, Western", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Curly and Duke.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Ed is a womanizer who fears monogamy, and he's dating a model.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandma: According to Duke, he and Curly's mom was one of these.", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [
+                    "Granny:"
+                ], 
+                "role": "Never Mess with Granny:", 
+                "id": "NeverMessWithGranny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0101587", 
+    "poster_url": "CitySlickers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastStand", 
+            "name": "The Last Stand", 
+            "poster_url": "TheLastStand.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuHustle", 
+            "name": "Kung Fu Hustle", 
+            "poster_url": "KungFuHustle.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "Red", 
+            "name": "Red", 
+            "poster_url": "Red.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTripletsOfBelleville", 
+            "name": "The Triplets of Belleville"
+        }
+    ], 
+    "id": "CitySlickers", 
+    "name": "City Slickers"
+}

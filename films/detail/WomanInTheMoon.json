@@ -1,0 +1,80 @@
+{
+    "plot": "A scientist discovers that there's gold on the moon, he builds a rocket to fly there, but there's too much rivalry among the crew to have a sucessful expedition.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1929", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Hans Windegger, Friede's fiance, breaks down in fear when he loses the Lottery Of Doom. Helius then decides to stay behind instead, as he thinks Friede still loves Hans.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "real-life", 
+                    "later"
+                ], 
+                "role": "The Chick: Averted with Friede Venton, who is the title character and heroine of the tale; clearly inspired by real-life aviatrixes of the era. Impressive when you compare it to the later patronising view of women in science fiction (see Project Moonbase).", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0019901", 
+    "poster_url": "WomanInTheMoon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "JurassicPark", 
+            "name": "Jurassic Park", 
+            "poster_url": "JurassicPark.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Immortals", 
+            "name": "Immortals", 
+            "poster_url": "Immortals.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLandBeforeTime", 
+            "name": "The Land Before Time", 
+            "poster_url": "TheLandBeforeTime.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "IAmNumberFour", 
+            "name": "I Am Number Four", 
+            "poster_url": "IAmNumberFour.jpg"
+        }
+    ], 
+    "id": "WomanInTheMoon", 
+    "name": "Woman in the Moon"
+}

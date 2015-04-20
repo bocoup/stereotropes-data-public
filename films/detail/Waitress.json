@@ -1,0 +1,121 @@
+{
+    "plot": "Jenna is unhappily married, squirreling away money, and hoping to win a pie-baking contest so, with the prize money, she'll have enough cash to leave her husband Earl. She finds herself pregnant, which throws her plans awry. She bakes phenomenal pies at Joe's diner, listens to old Joe's wisdom, tolerates her sour boss Cal, is friends with Dawn and Becky (her fellow waitresses), and finds a mutual attraction with the new doctor in town. As the pregnancy advances, life with Earl seems less tolerable, a way out less clear, and the affair with the doctor complicated by his marriage. What options does a waitress have?", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Joe.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "jealous"
+                ], 
+                "role": "Crazy Jealous Guy: Earl is violently jealous.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Ogie states to be this.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pretty Boy: Dr. Pomatter, as pointed out by Dawn.", 
+                "id": "PrettyBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Jenna.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Emotionless Girl: Jenna starts as this.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: The film features a rare male example in Dr. Pomatter, although it's subverted in the end.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "convenient", 
+                    "personality-lite", 
+                    "bit-on-the-side", 
+                    "typical", 
+                    "main", 
+                    "last"
+                ], 
+                "role": "The film Waitress has a Spear Counterpart, Nathan Fillion plays Keri Russell's ridiculously convenient and personality-lite bit-on-the-side, otherwise fulfilling all the typical criteria of the MPDG. Interestingly enough, the main character fulfills this trope in the lives of just about everyone around her, if you were to write a film centering on Nathan Fillion's character, or Adrienne Sheely's character, or Jeremy Sisto's character, it's exactly the role she would play (though in the last case it would be very bluntly subverted).", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0473308", 
+    "poster_url": "Waitress.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrettyBoy", 
+                "BrokenBird", 
+                "CoolOldGuy", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "CrazyJealousGuy", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "BrokenBird", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "CoolOldGuy", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "MommasBoy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "SmokeSignals", 
+            "name": "Smoke Signals", 
+            "poster_url": "SmokeSignals.jpg"
+        }
+    ], 
+    "id": "Waitress", 
+    "name": "Waitress"
+}

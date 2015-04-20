@@ -1,0 +1,91 @@
+{
+    "plot": "A vigilante homeless man pulls into a new city and finds himself trapped in urban chaos, a city where crime rules and where the city's crime boss reigns. Seeing an urban landscape filled with armed robbers, corrupt cops, abused prostitutes and even a pedophile Santa, the Hobo goes about bringing justice to the city the best way he knows how - with a 20-gauge shotgun. Mayhem ensues when he tries to make things better for the future generation. Street justice will indeed prevail.", 
+    "genres": "Action, Comedy, Thriller", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: The hobo, of course.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The protagonist of Hobo With a Shotgun is a hobo who becomes a vigilante. With a shotgun.", 
+                "id": "Hobos"
+            }, 
+            {
+                "adjectives": [
+                    "serious"
+                ], 
+                "role": "No Woman's Land: to a serious degree.", 
+                "id": "NoWomansLand"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "due"
+                ], 
+                "role": "Hooker with a Heart of Gold: Abby, who apparently took to prostitution due to lack of opportunities in her crapsack town.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt1640459", 
+    "poster_url": "HoboWithAShotgun.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "NoWomansLand"
+            ], 
+            "shared_count": 2, 
+            "id": "Django", 
+            "name": "Django", 
+            "poster_url": "Django.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTown", 
+            "name": "The Town", 
+            "poster_url": "TheTown.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Unforgiven", 
+            "name": "Unforgiven", 
+            "poster_url": "Unforgiven.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "BrokenTrail", 
+            "name": "Broken Trail", 
+            "poster_url": "BrokenTrail.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }
+    ], 
+    "id": "HoboWithAShotgun", 
+    "name": "Hobo With a Shotgun"
+}

@@ -1,0 +1,118 @@
+{
+    "plot": "The film revolves around four gay teenagers: curious Andy, flamboyant Nico, jock Jarod, and geeky Griff. These four boys want to have sex, but can't find anyone to do it with. It's their graduation day and their lesbian friend Muffler's having her graduation party. The next morning, the boys make the pact to have sex before the end of the summer. Andy has his eye on the math teacher Mr. Puckov, Nico searches the Internet for a man, Jarod falls for a rival baseball player, and Griff is deciding within his crush on Jarod or his exercise teacher. In the tradition of \"American Pie\", \"Another Gay Movie\" will bring you hysterics.", 
+    "genres": "Comedy", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Nico, massively. His mom tells him \"Duh!\" when he comes out to her.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Jared. Andy and Griff veer towards this too.", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [
+                    "small", 
+                    "steampunk-looking"
+                ], 
+                "role": "In Another Gay Movie main character Jarod has a small penis. He finds an almost steampunk-looking penis enlarger in a friend's dad's bathroom and tries it out, resulting in a comically stretched out member.", 
+                "id": "TeenyWeenie"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Butch Lesbian: Muffler.", 
+                "id": "ButchLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Lesbian Jock: Muffler.", 
+                "id": "LesbianJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick \u2014 Nico", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Muffler in Another Gay Movie.", 
+                "id": "TokenLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Token Lesbian: Muffler.", 
+                "id": "TokenLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0443431", 
+    "poster_url": "AnotherGayMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ButchLesbian", 
+                "CampGay", 
+                "StraightGay", 
+                "LesbianJock"
+            ], 
+            "shared_count": 4, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "CampGay", 
+                "TokenLesbian"
+            ], 
+            "shared_count": 3, 
+            "id": "TheProducers", 
+            "name": "The Producers", 
+            "poster_url": "TheProducers.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 3, 
+            "id": "EatingOut", 
+            "name": "Eating Out", 
+            "poster_url": "EatingOut.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "JesusChristSuperstar", 
+            "name": "Jesus Christ Superstar", 
+            "poster_url": "JesusChristSuperstar.jpg"
+        }
+    ], 
+    "id": "AnotherGayMovie", 
+    "name": "Another Gay Movie"
+}

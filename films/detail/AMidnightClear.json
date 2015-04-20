@@ -1,0 +1,87 @@
+{
+    "plot": "Set in 1944 France, in the Ardennes forest region, an American Intelligence Squad locates a German platoon wishing to surrender rather than die in Germany's final war offensive. The two groups of men, isolated from the war at present, put aside their differences and share a Christmas celebration. The surrender plan includes a mock battle that turns bad when one of the soldiers is unaware of the surrender plan.", 
+    "genres": "Drama, War", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Will and the older German soldier are these (respectively).", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Dirty Coward: Major Griffin doesn't seem to want to spend much time near the front, let alone at it.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "messy", 
+                    "hard", 
+                    "busy"
+                ], 
+                "role": "Team Mom: Played straight by Will Knott and Father Mundy. Subverted with \"Mother\" Wilkins, he got the nickname because of his constant hounding of the squad for being unkempt, messy and litterbugs, but he spends most of the movie in a Heroic BSOD. Kind of hard to be a mother figure when you're too busy breaking down.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102443", 
+    "poster_url": "AMidnightClear.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TeamMom", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "WeWereSoldiers", 
+            "name": "We Were Soldiers", 
+            "poster_url": "WeWereSoldiers.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "WereTheMillers", 
+            "name": "We're the Millers", 
+            "poster_url": "WereTheMillers.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Centurion", 
+            "name": "Centurion", 
+            "poster_url": "Centurion.jpg"
+        }
+    ], 
+    "id": "AMidnightClear", 
+    "name": "A Midnight Clear"
+}

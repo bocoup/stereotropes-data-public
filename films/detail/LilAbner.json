@@ -1,0 +1,93 @@
+{
+    "plot": "As Sadie Hawkins Day approaches, Daisy Mae hopes to win the hand of Li'l Abner by catching him in the traditional race. A senator comes to visit to tell the residents of Dogpatch that their town is to be used as an atomic bomb testing ground, unless they can find *something* necessary about the town. Could Mammy Yokum's Yokumberry tonic (which Abner has taken every day since he was a baby) be the key?", 
+    "genres": "Comedy, Musical, Family", 
+    "release_year": "1959", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Posse: General Bullmoose's secretaries", 
+                "id": "GirlPosse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hello, Nurse!: Stupefyin' Jones, whose sex appeal is so devastating that she's classified as munitions.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [
+                    "musical", 
+                    "Li'l"
+                ], 
+                "role": "Stupefyin' Jones in the musical version of Li'l Abner, whose sex appeal is so devastating that she's classified as munitions.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [
+                    "musical", 
+                    "song", 
+                    "Past", 
+                    "old"
+                ], 
+                "role": "Parodied in the Lil Abner musical, which gives Daisy Mae the song \"I'm Past My Prime,\" lamenting that she's an old maid at 17. Apparently in the Deep South girls are supposed to be married at an even younger age.", 
+                "id": "OldMaid"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Apassionata von Climax", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0053001", 
+    "poster_url": "LilAbner.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HelloNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "Sunrise", 
+            "name": "Sunrise", 
+            "poster_url": "Sunrise.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "TheThreeCaballeros", 
+            "name": "The Three Caballeros", 
+            "poster_url": "TheThreeCaballeros.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "LilAbner", 
+    "name": "Li'l Abner"
+}

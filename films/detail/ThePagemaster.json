@@ -1,0 +1,80 @@
+{
+    "plot": "This is the story of a young boy named Richard Tyler, who spouts statistics about the possibility of accidents. So much so, he is scared to do anything that might endanger him, like riding his bike, or climbing into his treehouse. While riding his bike home, Richard finds shelter from a storm inside a nearby library. Richard slips and is knocked unconscious while exploring a rotunda in the library. Upon awakening, he is led on a journey through conflicts and events that resemble fictional stories, keeping him from finding the exit from the library.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sensitive"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Horror and Adventure.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Long", 
+                    "dangerous"
+                ], 
+                "role": "Action Girl: When the situation calls for it, like in the Long John Silver section, Fantasy can be one very dangerous book.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0110763", 
+    "poster_url": "ThePagemaster.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SuperSentai", 
+            "name": "Super Sentai"
+        }
+    ], 
+    "id": "ThePagemaster", 
+    "name": "The Pagemaster"
+}

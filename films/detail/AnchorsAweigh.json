@@ -1,0 +1,81 @@
+{
+    "plot": "Two sailors, one naive, the other experienced in the ways of the world, on liberty in Los Angeles, is the setting for this movie musical.", 
+    "genres": "Comedy, Fantasy, Musical", 
+    "release_year": "1945", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Socialite: Susan", 
+                "id": "Socialite"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Susan in Anchors Aweigh wants to be a singer.", 
+                "id": "Socialite"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Susan Abbott wears a purple fuzzy sweater in Anchors Aweigh.", 
+                "id": "SweaterGirl"
+            }, 
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "Sweater Girl: Susan wears a purple fuzzy sweater in a few scenes.", 
+                "id": "SweaterGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0037514", 
+    "poster_url": "AnchorsAweigh.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Socialite"
+            ], 
+            "shared_count": 1, 
+            "id": "UnfaithfullyYours", 
+            "name": "Unfaithfully Yours", 
+            "poster_url": "UnfaithfullyYours.jpg"
+        }, 
+        {
+            "shared": [
+                "SweaterGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "SweaterGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Election", 
+            "name": "Election", 
+            "poster_url": "Election.jpg"
+        }, 
+        {
+            "shared": [
+                "SweaterGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "Socialite"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "AnchorsAweigh", 
+    "name": "Anchors Aweigh"
+}

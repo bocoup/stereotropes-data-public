@@ -1,0 +1,108 @@
+{
+    "plot": "Maverick is a hot pilot. When he encounters a pair of MiGs over the Persian Gulf, his wingman is clearly outflown and freaks. On almost no fuel, Maverick is able to talk him back down to the Carrier. When his wingman turns in his wings, Maverick is moved up in the standings and sent to the Top Gun Naval Flying School. There he fights the attitudes of the other pilots and an old story of his father's death in combat that killed others due to his father's error. Maverick struggles to be the best pilot, stepping on the toes of his other students and in a different way to Charlie, a civilian instructor to whom he is strongly attracted.", 
+    "genres": "Action, Drama, Romance", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Goose and Viper.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Viper.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "'Nam"
+                ], 
+                "role": "Disappeared Dad: Maverick's father, who went down over 'Nam.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty: Averted by the instructors at Top Gun; while they may be stern taskmasters at times, they never raise their voices very much and really have their students' best interests in mind.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Beach volleyball.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Dead"
+                ], 
+                "role": "Parodied in the Top Gun spoof Hot Shots!! with the character whose call sign is \"Dead Meat\".", 
+                "id": "DisposableWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092099", 
+    "poster_url": "TopGun.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ShirtlessScene", 
+                "CoolOldGuy", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 4, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BadAssMustache", 
+                "CoolOldGuy", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 4, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ShirtlessScene", 
+                "DisposableWoman", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 4, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "DisposableWoman", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ShirtlessScene", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "TopGun", 
+    "name": "Top Gun"
+}

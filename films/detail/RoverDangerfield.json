@@ -1,0 +1,86 @@
+{
+    "plot": "Rover, a street-smart dog owned by a Las Vegas showgirl is dumped off Hoover Dam by the showgirl's boyfriend. Rather than drowning, Rover winds up in your basic idyllic farm in a classic city-boy-in-country shtick.", 
+    "genres": "Animation, Family, Comedy", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe: Rover.", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Rover from Rover Dangerfield.", 
+                "id": "CasanovaWannabe"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "opposite"
+                ], 
+                "role": "Humanoid Female Animal: Inverted; the film provides a rare example of the opposite!", 
+                "id": "HumanoidFemaleAnimal"
+            }, 
+            {
+                "adjectives": [
+                    "comedic", 
+                    "real"
+                ], 
+                "role": "Inverted (!) in Rover Dangerfield, where the character of Rover is humanized quite a bit (he can even stand on his hind legs while doing comedic bits), while the canine love interest looks like a real dog.", 
+                "id": "HumanoidFemaleAnimal"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102813", 
+    "poster_url": "RoverDangerfield.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "StarWreck", 
+            "name": "Star Wreck"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "SlapShot", 
+            "name": "Slap Shot", 
+            "poster_url": "SlapShot.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "JohnDiesAtTheEnd", 
+            "name": "John Dies at the End", 
+            "poster_url": "JohnDiesAtTheEnd.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }
+    ], 
+    "id": "RoverDangerfield", 
+    "name": "Rover Dangerfield"
+}

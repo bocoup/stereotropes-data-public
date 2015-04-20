@@ -1,0 +1,87 @@
+{
+    "plot": "Beth, Calvin, and their son Conrad are living in the aftermath of the death of the other son. Conrad is overcome by grief and misplaced guilt to the extent of a suicide attempt. He is in therapy. Beth had always preferred his brother and is having difficulty being supportive to Conrad. Calvin is trapped between the two trying to hold the family together.", 
+    "genres": "Drama", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jocks: Conrad's swim team friends. No wonder he decides to quit. Again.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Beth Jarrett in Ordinary People.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Beth", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: Deconstructed; Beth tries to put on this facade in the wake of Buck's death, but that soon crumbles.", 
+                "id": "EvilMatriarch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0081283", 
+    "poster_url": "OrdinaryPeople.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Sybil", 
+            "name": "Sybil", 
+            "poster_url": "Sybil.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBreakfastClub", 
+            "name": "The Breakfast Club", 
+            "poster_url": "TheBreakfastClub.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheNeverendingStory", 
+            "name": "The NeverEnding Story", 
+            "poster_url": "TheNeverendingStory.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "IAmNumberFour", 
+            "name": "I Am Number Four", 
+            "poster_url": "IAmNumberFour.jpg"
+        }
+    ], 
+    "id": "OrdinaryPeople", 
+    "name": "Ordinary People"
+}

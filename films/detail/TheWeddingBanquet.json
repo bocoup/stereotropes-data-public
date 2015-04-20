@@ -1,0 +1,67 @@
+{
+    "plot": "Simon and Wei-Tung are a gay couple living together in Manhattan. To defer the suspicions of Wei-Tung's parents, Simon suggests a marriage of convenience between Wei-Tung and Wei-Wei, an immigrant in need of a green card. When Wei-Tung's parents come to America for the wedding, they insist upon an elaborate banquet, resulting in several complications.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Wai-Tung", 
+                    "well-kept"
+                ], 
+                "role": "Men Can't Keep House: Averted. Wei-wei's place is a mess, while Simon and Wai-Tung's place is well-kept.", 
+                "id": "MenCantKeepHouse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107156", 
+    "poster_url": "TheWeddingBanquet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MenCantKeepHouse"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse"
+            ], 
+            "shared_count": 1, 
+            "id": "BeWithYou", 
+            "name": "Be With You", 
+            "poster_url": "BeWithYou.jpg"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse"
+            ], 
+            "shared_count": 1, 
+            "id": "OneHundredAndOneDalmatians", 
+            "name": "101 Dalmatians", 
+            "poster_url": "OneHundredAndOneDalmatians.jpg"
+        }
+    ], 
+    "id": "TheWeddingBanquet", 
+    "name": "The Wedding Banquet"
+}

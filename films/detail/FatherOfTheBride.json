@@ -1,0 +1,94 @@
+{
+    "plot": "In this remake of the Spencer Tracy classic, George and Nina Banks are the parents of young soon-to-be-wed Annie. George is a nervous father unready to face the fact that his little girl is now a woman. The preparations for the extravagant wedding provide additional comic moments.", 
+    "genres": "Comedy", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: George, and to some extent Bryan's dad, John.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective"
+                ], 
+                "role": "Overprotective Dad", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "cute", 
+                    "little"
+                ], 
+                "role": "Daddy's Girl: Annie, and it is implied at the end of Part II that Megan will fill that role once Annie leaves for Boston. In the first film, we even see Annie as she appears to her dad, a cute little girl in pigtails. This quote sums up this trope:", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "different"
+                ], 
+                "role": "Team Mom: Nina, we can see their different points of view in the arguments that they have through the films.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0101862", 
+    "poster_url": "FatherOfTheBride.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TeamMom", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFlintstones", 
+            "name": "The Flintstones", 
+            "poster_url": "TheFlintstones.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "District9", 
+            "name": "District 9", 
+            "poster_url": "District9.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "DespicableMe", 
+            "name": "Despicable Me", 
+            "poster_url": "DespicableMe.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }
+    ], 
+    "id": "FatherOfTheBride", 
+    "name": "Father Of The Bride"
+}

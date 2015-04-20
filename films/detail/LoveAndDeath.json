@@ -1,0 +1,87 @@
+{
+    "plot": "In Russia, Boris Grushenko is in love with his pseudo-intellectual cousin Sonja, who loves him since he too is a pseudo-intellectual, but she is not in love with him. Instead she is in love with his brother Ivan. But as Ivan doesn't seem to return her affections, she is determined to marry someone - anyone - except Boris. If that person isn't the perfect husband, then she has to find a suitable lover in addition. Boris' pursuit of Sonja has to take a back seat in his life when he, a pacifist and coward, is forced to join the Russian Army to battle Napoleon's forces which have just invaded Austria. Despite Sonja not being in the picture while he's away at war, Boris' thoughts do not stray totally from women. Although they take these two divergent paths in their lives, those paths cross once again as they, together, both try to find the perfect spouse and lover, and try to assassinate Napoleon.", 
+    "genres": "Comedy, War", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "black", 
+                    "Ethopian"
+                ], 
+                "role": "Drill Sergeant Nasty: Boris has to deal with one when he joins the army. An African-American one. In Imperial Russia. Well, Pushkin's grandfather was a black Ethopian mercenary who fought under Peter the Great, but in this case, it was probably to fulfill two tropes. Ironically, it predates the performance by Louis Gossett, Jr. in An Officer and a Gentleman.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "black"
+                ], 
+                "role": "This idea was spoofed in one scene of the Woody Allen movie Love And Death; the movie takes place in Russia during the Napoleonic wars, but when Woody's character Boris is forced to enlist he and his fellow recruits are trained by a black drill sergeant who fits this trope exactly.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "black", 
+                    "Ethopian"
+                ], 
+                "role": "Well, Pushkin's grandfather was a black Ethopian mercenary who fought under Peter the Great, but in this case, it was probably to fulfill two tropes.", 
+                "id": "ScaryBlackMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0073312", 
+    "poster_url": "LoveAndDeath.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Basic", 
+            "name": "Basic", 
+            "poster_url": "Basic.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "ForrestGump", 
+            "name": "Forrest Gump", 
+            "poster_url": "ForrestGump.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "AnOfficerAndAGentleman", 
+            "name": "An Officer and a Gentleman", 
+            "poster_url": "AnOfficerAndAGentleman.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "LoveAndDeath", 
+    "name": "Love And Death"
+}

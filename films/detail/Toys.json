@@ -1,0 +1,87 @@
+{
+    "plot": "An eccentric toymaker's last wish is that his brother takes over the running of the business. The brother is a military General, and is out of touch with toymaking, and out of touch with reality too. The business should really have been given to Leslie, who was much more like his toymaking father. When the General starts making weapons instead of toys, Leslie decides to take action.", 
+    "genres": "Comedy, Drama, Family", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "It was the plot of Toys. What else was Leland going to do with the kids?", 
+                "id": "ChildSoldiers"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "romantic"
+                ], 
+                "role": "Manic Pixie Dream Girl: Gwen would be one, except that her romantic partner is Leslie", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Toys, Alsatia (Joan Cusack) is revealed to be a robot at the end of the movie.", 
+                "id": "RobotGirl"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Robot Girl: Part of a reveal later on in the movie.", 
+                "id": "RobotGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0105629", 
+    "poster_url": "Toys.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ComeAndSee", 
+            "name": "Come and See", 
+            "poster_url": "ComeAndSee.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AfterHours", 
+            "name": "After Hours", 
+            "poster_url": "AfterHours.jpg"
+        }, 
+        {
+            "shared": [
+                "RobotGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }
+    ], 
+    "id": "Toys", 
+    "name": "Toys"
+}

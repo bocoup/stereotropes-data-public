@@ -1,0 +1,76 @@
+{
+    "plot": "In 1944, upper class boy Julien Quentin and his brother Fran\u00e7ois travel to Catholic boarding school in the countryside after vacations. Julien is a leader and good student and when the new student Jean Bonnet arrives in the school, they have friction in their relationship. However, Julien learns to respect Jean and discovers that he is Jewish and the priests are hiding him from the Nazis. They become best friends and Julien keeps the secret. When the priest Jean discovers that the servant Joseph is stealing supplies from the school to sell in the black market, he fires the youth. Sooner the Gestapo arrives at school to investigate the students and the priests that run and work in the boarding school.", 
+    "genres": "Biography, Drama, War", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy : Julien. When he isn't saying he hates her for sending him to boarding school...", 
+                "id": "MommasBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Jean"
+                ], 
+                "role": "Missing Mom : Jean hasn't heard from his mother in three months.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092593", 
+    "poster_url": "AuRevoirLesEnfants.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MommasBoy", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessAndTheGoblin", 
+            "name": "The Princess And The Goblin", 
+            "poster_url": "ThePrincessAndTheGoblin.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Pokemon3", 
+            "name": "Pok\u00e9mon 3"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "AuRevoirLesEnfants", 
+    "name": "Au Revoir Les Enfants"
+}

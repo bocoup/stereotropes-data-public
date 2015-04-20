@@ -1,0 +1,105 @@
+{
+    "plot": "Six friends are on their way to a football game. They decide to camp out for the night and continue driving the next day. The next day the friends find that they're having car troubles, so two of the friends accept a stranger's ride into a small town named Ambrose. The main attraction in Ambrose is the House of Wax. Except something is not right in this town, the wax figures are so realistic and the whole town is deserted - except for two murderous twin brothers. The six friends must fight to survive and escape from being the next exhibits in the House of Wax.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "jealous", 
+                    "other", 
+                    "obvious", 
+                    "creepy", 
+                    "good", 
+                    "few", 
+                    "last"
+                ], 
+                "role": "Crazy Jealous Guy: Wade is pretty damn jealous whenever other guys show an obvious attraction to Carly. From Dalton, who uses his camera as an excuse to be a pervert, to the truck driver, who is damn creepy, and Bo, who takes a good few seconds of what Wade thinks is Love at First Sight between the two.  Fair enough with that last one, as after Wade is left for Vincent to kill, Bo kidnaps Carly to have \"fun\" with her.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene: Nick and Blake", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Carly,  she kills both of the villains.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0397065", 
+    "poster_url": "HouseOfWax.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CrazyJealousGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CrazyJealousGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScreamingWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CrazyJealousGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CrazyJealousGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "StreetsOfFire", 
+            "name": "Streets of Fire", 
+            "poster_url": "StreetsOfFire.jpg"
+        }
+    ], 
+    "id": "HouseOfWax", 
+    "name": "House of Wax"
+}

@@ -1,0 +1,72 @@
+{
+    "plot": "Seventeen year old slacker Anton Tobias wakes up one Halloween morning to discover that both of his parents have been turned into two headless Halloween decorations. After speaking to his equally irresponsible friends, Mick and Pnub, he discovers that his right hand has a blood-thirsty mind of its own and is hell-bent on wreaking havoc whether he likes it or not.", 
+    "genres": "Comedy, Horror, Thriller", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Slacker: Anton at the start of the movie.", 
+                "id": "TheSlacker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Idle Hands: Debi LeCure (played by Vivica A. Fox).", 
+                "id": "TheLadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0138510", 
+    "poster_url": "IdleHands.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheLadette", 
+                "TheSlacker"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheLadette"
+            ], 
+            "shared_count": 1, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette"
+            ], 
+            "shared_count": 1, 
+            "id": "RaidersOfTheLostArk", 
+            "name": "Raiders of the Lost Ark", 
+            "poster_url": "RaidersOfTheLostArk.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RedHill", 
+            "name": "Red Hill", 
+            "poster_url": "RedHill.jpg"
+        }
+    ], 
+    "id": "IdleHands", 
+    "name": "Idle Hands"
+}

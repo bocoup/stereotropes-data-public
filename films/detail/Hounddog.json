@@ -1,0 +1,64 @@
+{
+    "plot": "A drama set in the American South, where a precocious, troubled girl finds a safe haven in the music and movement of Elvis Presley.", 
+    "genres": "Drama, Music", 
+    "release_year": "2007", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "In Hound Dog, Lewellen also has no mother.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0415856", 
+    "poster_url": "Hounddog.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekInsurrection", 
+            "name": "Star Trek: Insurrection", 
+            "poster_url": "StarTrekInsurrection.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "Hounddog", 
+    "name": "Hounddog"
+}

@@ -1,0 +1,85 @@
+{
+    "plot": "A friendly troll with a magic green thumb grows one flower too many for the queen, whose laws require all trolls to act meanly, be ugly and scare humans whenever possible. As a punishment, he is exiled to a world of concrete, where he should live a life of proper trolldom: Manhattan. But of all places, his pod lands in Central Park, where he feels right at home. He befriends a young brother and sister, out for the day unknown to their parents, and must immediately protect them from the queen's attack. This is an adventure that teaches the importance of love and responsibility.", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "outright"
+                ], 
+                "role": "Dirty Coward: Gus accuses Stanley of being this when he refuses to help Gus save Rosie from Gnorga, out of fear of being stoned, soon leading to him to outright calling him one in his Reason You Suck Speech.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Llort, the King of the Trolls.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "sadistic"
+                ], 
+                "role": "God Save Us from the Queen!: Gnorga, who is umambigulously portrayed as a sadistic tyrant. Even her husband celebrates her defeat.", 
+                "id": "GodSaveUsFromTheQueen"
+            }
+        ]
+    }, 
+    "imdbid": "tt0108395", 
+    "poster_url": "ATrollInCentralPark.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGreatRace", 
+            "name": "The Great Race", 
+            "poster_url": "TheGreatRace.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "Ran", 
+            "name": "Ran", 
+            "poster_url": "Ran.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "OliverTwist", 
+            "name": "Oliver Twist"
+        }
+    ], 
+    "id": "ATrollInCentralPark", 
+    "name": "A Troll in Central Park"
+}

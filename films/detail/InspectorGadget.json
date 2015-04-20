@@ -1,0 +1,121 @@
+{
+    "plot": "A remake of the television series, Matthew Broderick stars as Gadget, who suffers an accident at the beginning of the film, and befriends Brenda, a robotic surgeon who repairs Gadget so that he can defeat the villain Claw. In the meantime, Gadget and Brenda fall in love.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "pedestal"
+                ], 
+                "role": "The Inspector Gadget movie has Gadget crush a guru's testicles when told to \"reach out and grab the balls\" (meaning the marbles on a pedestal). The guru's reduced to squealing \"TURN IT OFF! TURN IT OFF!\" in a voice like a little girl's.", 
+                "id": "InstantSoprano"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "great", 
+                    "detective"
+                ], 
+                "role": "Overprotective Uncle: Gadget goes to great pains to keep Penny away from detective work in the sequel.", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "final", 
+                    "first", 
+                    "final", 
+                    "second"
+                ], 
+                "role": "Damsel in Distress: Brenda in the final act of the first film and Penny in the final act of the second film.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Brenda.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [
+                    "wrongful", 
+                    "bear", 
+                    "few"
+                ], 
+                "role": "Badass Grandma: Chief Quimby's mother after her wrongful arrest for reckless driving at the start of 2. Gadget and Quimby (who came to pick her up) bear witness to her badassery as she clobbers a few punks in her cell.", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Robot Girl: G2 Robo-Brenda..!", 
+                "id": "RobotGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Cheerleader: For some reason, Robo-Brenda is this.", 
+                "id": "TheCheerleader"
+            }
+        ]
+    }, 
+    "imdbid": "tt0141369", 
+    "poster_url": "InspectorGadget.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "NeverMessWithGranny", 
+                "HotScientist"
+            ], 
+            "shared_count": 3, 
+            "id": "TheAvengers1998", 
+            "name": "The Avengers ", 
+            "poster_url": "TheAvengers1998.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "InstantSoprano", 
+                "HotScientist"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanForever", 
+            "name": "Batman Forever", 
+            "poster_url": "BatmanForever.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "Paul", 
+            "name": "Paul", 
+            "poster_url": "Paul.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "InspectorGadget", 
+    "name": "Inspector Gadget"
+}

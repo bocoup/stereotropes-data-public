@@ -1,0 +1,72 @@
+{
+    "plot": "N/A", 
+    "genres": "Drama, Romance", 
+    "release_year": "2001", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Slacker: Feng.", 
+                "id": "TheSlacker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Good Bad Girl: Yili.", 
+                "id": "GoodBadGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0275902", 
+    "poster_url": "BetelnutBeauty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GoodBadGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowCake", 
+            "name": "Snow Cake", 
+            "poster_url": "SnowCake.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RedHill", 
+            "name": "Red Hill", 
+            "poster_url": "RedHill.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "MainHoonNa", 
+            "name": "Main Hoon Na", 
+            "poster_url": "MainHoonNa.jpg"
+        }, 
+        {
+            "shared": [
+                "GoodBadGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Kids", 
+            "name": "Kids", 
+            "poster_url": "Kids.jpg"
+        }, 
+        {
+            "shared": [
+                "GoodBadGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }
+    ], 
+    "id": "BetelnutBeauty", 
+    "name": "Betelnut Beauty"
+}

@@ -1,0 +1,120 @@
+{
+    "plot": "Three students and a school teacher disappear on an excursion to Hanging Rock, in Victoria, on Valentine's Day, 1900. Widely (and incorrectly) regarded as being based on a true story, the movie follows those that disappeared, and those that stayed behind, but it delights in the asking of questions, not the answering of them.", 
+    "genres": "Drama, Mystery", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Noble"
+                ], 
+                "role": "Noble Male, Roguish Male: Michael and Albert.", 
+                "id": "NobleMaleRoguishMale"
+            }, 
+            {
+                "adjectives": [
+                    "noble-born", 
+                    "British", 
+                    "dark"
+                ], 
+                "role": "In Picnic at Hanging Rock Mike is the blond, noble-born and British youngman while is Aussie valet and friend Albert is dark, sooo manly and outspoken.", 
+                "id": "NobleMaleRoguishMale"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Even the Girls Want Her; Miranda, in spades", 
+                "id": "EvenTheGirlsWantHer"
+            }, 
+            {
+                "adjectives": [
+                    "immune"
+                ], 
+                "role": "Fat Girl: Edith. Of the four girls that go climbing, the three pretty ones are somehow absorbed by Hanging Rock, while Edith is immune.", 
+                "id": "FatGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Hinted with Mrs. Appleyard.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [
+                    "last", 
+                    "only"
+                ], 
+                "role": "Lady in Red: Irma when she last visits the school. Whatever happens at Hanging Rock seems to have something to do with the girls' blooming sexuality. Irma, the only one of the four to be found, wears a scarlet dress upon her return, in contrast to the drab outfits of the girls that study there.", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ophelia: The disappeared girls have all shades of this but Miranda and Sara most of all.", 
+                "id": "TheOphelia"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White: All of the girls wear pure white dresses...except for Sara.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0073540", 
+    "poster_url": "PicnicAtHangingRock.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyInRed", 
+                "WomanInWhite", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "LadyDrunk", 
+                "NobleMaleRoguishMale"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 2, 
+            "id": "Bound", 
+            "name": "Bound", 
+            "poster_url": "Bound.jpg"
+        }
+    ], 
+    "id": "PicnicAtHangingRock", 
+    "name": "Picnic at Hanging Rock"
+}

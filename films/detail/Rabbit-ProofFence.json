@@ -1,0 +1,84 @@
+{
+    "plot": "Western Australia, 1931. Government policy includes taking half-caste children from their Aboriginal mothers and sending them a thousand miles away to what amounts to indentured servitude, \"to save them from themselves.\" Molly, Daisy, and Grace (two sisters and a cousin who are 14, 10, and 8) arrive at their Gulag and promptly escape, under Molly's lead. For days they walk north, following a fence that keeps rabbits from settlements, eluding a native tracker and the regional constabulary. Their pursuers take orders from the government's \"chief protector of Aborigines,\" A.O. Neville, blinded by Anglo-Christian certainty, evolutionary world view and conventional wisdom. Can the girls survive?", 
+    "genres": "Adventure, Biography, Drama", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: The children's fathers are mentioned but is nowhere to be found in this film.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "spear"
+                ], 
+                "role": "Mama Bear: Molly and Daisy's mother scares Riggs off at the end by simply walking towards him with a spear.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team Mom: Molly Nina (The oldest of the girls at Moore River) might count as one for the Moore River children.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0252444", 
+    "poster_url": "Rabbit-ProofFence.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TeamMom"
+            ], 
+            "shared_count": 2, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "RookieOfTheYear", 
+            "name": "Rookie of the Year", 
+            "poster_url": "RookieOfTheYear.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "ACatInParis", 
+            "name": "A Cat in Paris", 
+            "poster_url": "ACatInParis.jpg"
+        }
+    ], 
+    "id": "Rabbit-ProofFence", 
+    "name": "Rabbit-Proof Fence"
+}

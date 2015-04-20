@@ -1,0 +1,90 @@
+{
+    "plot": "Dr. Mabuse and his organization of criminals are in the process of completing their latest scheme, a theft of information that will allow Mabuse to make huge profits on the stock exchange. Afterwards, Mabuse disguises himself and attends the Folies Berg\u00e8res show, where Cara Carozza, the main attraction of the show, passes him information on Mabuse's next intended victim, the young millionaire Edgar Hull. Mabuse then uses psychic manipulation to lure Hull into a card game where he loses heavily. When Police Commissioner von Wenk begins an investigation of this mysterious crime spree, he has little to go on, and he needs to find someone who can help him.", 
+    "genres": "Crime, Mystery, Thriller", 
+    "release_year": "1922", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Battle Butler: Some of Mabuse's henchmen.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Georg and Petsch, Dr. Mabuse's henchmen from Dr. Mabuse, the Gambler\t.", 
+                "id": "BattleButler"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "eponymous"
+                ], 
+                "role": "Cara Carozza from Dr. Mabuse, the Gambler\t, but she isn't just a mistress for eponymous Dr. Mabuse, but also is his henchwoman, and resident vamp.", 
+                "id": "DarkMistress"
+            }, 
+            {
+                "adjectives": [
+                    "evil", 
+                    "evil"
+                ], 
+                "role": "The Vamp; Subverted with Mabuse's lover, dancer Cara Carozza. She seduces men for evil goals, but not because she is evil herself, but for Mabuse, because she loves him.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0013086", 
+    "poster_url": "DrMabuseTheGambler.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "DarkMistress"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "CatsDontDance", 
+            "name": "Cats Don't Dance", 
+            "poster_url": "CatsDontDance.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }
+    ], 
+    "id": "DrMabuseTheGambler", 
+    "name": "Dr. Mabuse, the Gambler"
+}

@@ -1,0 +1,93 @@
+{
+    "plot": "A 2008 romance film adapted from a same name novel about a London-based Jordanian of Palestinian descent, Tala, who is preparing for an elaborate wedding. A turn of events causes her to have an affair and subsequently fall in love with another woman, Leyla, a British Indian.", 
+    "genres": "Drama, Romance", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Flamboyant Gay: Sami.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Uncle Ramzi.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cute Clumsy Girl: Leyla.", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gossipy Hens: Zina and Lamia", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian: Tala and Leyla.", 
+                "id": "LipstickLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0830570", 
+    "poster_url": "ICantThinkStraight.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 3, 
+            "id": "FiredUp", 
+            "name": "Fired Up"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBrokenHeartsClubARomanticComedy", 
+            "name": "The Broken Hearts Club: A Romantic Comedy"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 3, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }
+    ], 
+    "id": "ICantThinkStraight", 
+    "name": "I Can't Think Straight"
+}

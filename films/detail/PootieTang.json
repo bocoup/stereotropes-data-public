@@ -1,0 +1,86 @@
+{
+    "plot": "Pootie Tang, the musician/actor/folk hero of the ghetto, is chronicled from his early childhood to his battles against the evil Corporate America, who try to steal his magic belt and make him sell out by endorsing addictive products to his people. Pootie must learn to find himself and defeat the evil corporation for all the young black children of America, supatime.", 
+    "genres": "Comedy, Musical, Adventure", 
+    "release_year": "2001", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Pootie Tang. Even when he was a child.", 
+                "id": "AccidentalPornomancer"
+            }, 
+            {
+                "adjectives": [
+                    "magical"
+                ], 
+                "role": "Pootie Tang: For the viewers, he's a Kavorka Man, but none of the women in the film can (or want to) resist him. He rejects their affections until being tricked into losing his magical belt.", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: Subverted with the sheriff.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kavorka Man: To the viewers, it makes no sense that Pootie is so beloved by the ladies.", 
+                "id": "KavorkaMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0258038", 
+    "poster_url": "PootieTang.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChickMagnet", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "ChickMagnet"
+            ], 
+            "shared_count": 2, 
+            "id": "TheOtherGuys", 
+            "name": "The Other Guys", 
+            "poster_url": "TheOtherGuys.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfIchabodAndMrToad", 
+            "name": "The Adventures of Ichabod and Mr. Toad", 
+            "poster_url": "TheAdventuresOfIchabodAndMrToad.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "Casino", 
+            "name": "Casino", 
+            "poster_url": "Casino.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }
+    ], 
+    "id": "PootieTang", 
+    "name": "Pootie Tang"
+}

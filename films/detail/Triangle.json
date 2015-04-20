@@ -1,0 +1,84 @@
+{
+    "plot": "When Jess sets sail on a yacht with a group of friends, she cannot shake the feeling that there is something wrong. Her suspicions are realized when the yacht hits a storm and the group is forced to board a passing ocean liner to get to safety, a ship Jess is convinced she's been on before. The ship appears deserted, the clock on board has stopped, but they are not alone... Someone is intent on hunting them down, one by one. And Jess unknowingly holds the key to end the terror.", 
+    "genres": "Mystery, Thriller", 
+    "release_year": "2009", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Sally, to an extent.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Jess... sort of.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "willing", 
+                    "third"
+                ], 
+                "role": "Mama Bear: To save her son Jess is willing to  kill her best friend and everyone else on the yacht. And when she comes across a third Jess mistreating him she murders her.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt1187064", 
+    "poster_url": "Triangle.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Shrooms", 
+            "name": "Shrooms", 
+            "poster_url": "Shrooms.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBaby", 
+            "name": "The Baby"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "WhatAGirlWants", 
+            "name": "What a Girl Wants", 
+            "poster_url": "WhatAGirlWants.jpg"
+        }
+    ], 
+    "id": "Triangle", 
+    "name": "Triangle"
+}

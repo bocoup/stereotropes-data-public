@@ -1,0 +1,74 @@
+{
+    "plot": "Famous detective Hercule Poirot is on the Orient Express, but the train is caught in the snow. When one of the passengers is discovered murdered, Poirot immediately starts investigating.", 
+    "genres": "Mystery", 
+    "release_year": "1974", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "In Murder on the Orient Express, Mrs. Hubbard goes through this a few times. First is when the supposed murderer escapes into her room after murdering Mr. Ratchett, then when she discovers the murder weapon in her sponge bag.  It's an act.", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [
+                    "Proper"
+                ], 
+                "role": "Proper Lady: Mary Debenham.", 
+                "id": "ProperLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0071877", 
+    "poster_url": "MurderOnTheOrientExpress.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HystericalWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFog", 
+            "name": "The Fog", 
+            "poster_url": "TheFog.jpg"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "QueenOfOuterSpace", 
+            "name": "Queen Of Outer Space", 
+            "poster_url": "QueenOfOuterSpace.jpg"
+        }, 
+        {
+            "shared": [
+                "ProperLady"
+            ], 
+            "shared_count": 1, 
+            "id": "FiddlerOnTheRoof", 
+            "name": "Fiddler on the Roof", 
+            "poster_url": "FiddlerOnTheRoof.jpg"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "DrumsAlongTheMohawk", 
+            "name": "Drums Along The Mohawk", 
+            "poster_url": "DrumsAlongTheMohawk.jpg"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "BattleOfBritain", 
+            "name": "Battle of Britain", 
+            "poster_url": "BattleOfBritain.jpg"
+        }
+    ], 
+    "id": "MurderOnTheOrientExpress", 
+    "name": "Murder on the Orient Express"
+}

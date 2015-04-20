@@ -1,0 +1,156 @@
+{
+    "plot": "James Bond's mission is to find out who has been smuggling diamonds, which are not re-appearing. He adopts another identity in the form of Peter Franks. He joins up with Tiffany Case, and acts as if he is smuggling the diamonds, but everyone is hungry for these diamonds. He also has to avoid Mr. Wint and Mr. Kidd, the dangerous couple who does not leave anyone in their way. Ernst Stavro Blofeld isn't out of the question. He may have changed his looks, but is he linked with the heist? And if he is, can Bond finally defeat his ultimate enemy.", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1971", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Mr. Wint and Mr. Kidd.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "portrayal", 
+                    "previous"
+                ], 
+                "role": "Camp Straight: Charles Gray's portrayal of Blofeld is decidedly more Camp than in previous films. He's even in drag at one point in the film.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [
+                    "homosexual"
+                ], 
+                "role": "In Diamonds Are Forever, Blofeld's two chief assassins, Mr. Wint and Mr. Kidd, are heavily implied to be in a homosexual relationship.", 
+                "id": "DepravedHomosexual"
+            }, 
+            {
+                "adjectives": [
+                    "old", 
+                    "adversary"
+                ], 
+                "role": "Diamonds Are Forever has Blofeld leaving his casino/hotel base disguised as an old lady.\n Thunderball opens with Colonel Bouvar, an adversary of Bond's, faking his death and dressing as his widow.\n Pretty much the inspiration for Austin Powers spotting a club employee as one of Dr. Evil's mooks in drag.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [
+                    "same", 
+                    "dabble"
+                ], 
+                "role": "Diamonds Are Forever\n Mr. Wint and Mr. Kidd\n Blofeld from the same movie got quite the upgrade in fabulousness, as well. He even got to dabble in Creepy Crossdressing.", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [
+                    "swishy", 
+                    "un-flamboyant"
+                ], 
+                "role": "Straight Gay: While Mr. Wint could be said to be vaguely swishy (though not really for the time), Mr. Kidd is so un-flamboyant, you'd never guess he's gay if not for the \"For a lady\" scene.", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [
+                    "swishy", 
+                    "un-flamboyant"
+                ], 
+                "role": "The two henchman from Diamonds Are Forever; while Mr. Wint could be said to be vaguely swishy(though not really for the time), Mr. Kidd is so un-flamboyant, you'd never guess he's gay if not for the \"For a lady\" scene.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Bodyguard Babes: Bambi and Thumper. No, really, those are their names.", 
+                "id": "BodyguardBabes"
+            }, 
+            {
+                "adjectives": [
+                    "reclusive", 
+                    "rescue", 
+                    "beautiful", 
+                    "under-clad", 
+                    "young"
+                ], 
+                "role": "The reclusive millionaire in Diamonds Are Forever, is guarded (from rescue or escape) by two beautiful and under-clad young women named Bambi and Thumper. Bond is forced to beat them.", 
+                "id": "BodyguardBabes"
+            }, 
+            {
+                "adjectives": [
+                    "High", 
+                    "only", 
+                    "alive"
+                ], 
+                "role": "High Heel-Face Turn: Diamond smuggler Tiffany Case after she falls in love with Bond. It's the only thing that keeps her alive and out of prison.", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Tiffany Case and Plenty O'Toole. Justified since it is a James Bond movie.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0066995", 
+    "poster_url": "DiamondsAreForever.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampStraight", 
+                "CampGay", 
+                "MsFanservice", 
+                "StraightGay", 
+                "SissyVillain"
+            ], 
+            "shared_count": 5, 
+            "id": "BlazingSaddles", 
+            "name": "Blazing Saddles", 
+            "poster_url": "BlazingSaddles.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "MsFanservice", 
+                "BodyguardBabes", 
+                "SissyVillain"
+            ], 
+            "shared_count": 4, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "BodyguardBabes", 
+                "CampGay", 
+                "SissyVillain", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "DepravedHomosexual", 
+                "SissyVillain"
+            ], 
+            "shared_count": 3, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CampGay", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }
+    ], 
+    "id": "DiamondsAreForever", 
+    "name": "Diamonds Are Forever"
+}

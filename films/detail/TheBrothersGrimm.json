@@ -1,0 +1,112 @@
+{
+    "plot": "Folklore collectors and con artists, Jake and Will Grimm, travel from village to village pretending to protect townsfolk from enchanted creatures and performing exorcisms. They are put to the test, however, when they encounter a real magical curse in a haunted forest with real magical beings, requiring genuine courage.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Angelika's father was killed by wolves. Actually he's the Woodsman and he can turn into a wolf.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "late"
+                ], 
+                "role": "Papa Wolf: It happens too late to save him but soon after the spell on the Woodsman breaks:", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Used", 
+                    "local", 
+                    "evil"
+                ], 
+                "role": "Sweet Polly Oliver: Used to conceal the daughters of a local village from being kidnapped by an evil sorceress. It doesn't help.", 
+                "id": "SweetPollyOliver"
+            }, 
+            {
+                "adjectives": [
+                    "villainous", 
+                    "desperate", 
+                    "beautiful", 
+                    "plague", 
+                    "ravaged", 
+                    "later", 
+                    "bedridden", 
+                    "old", 
+                    "hypnotized", 
+                    "twelve", 
+                    "young", 
+                    "nearby", 
+                    "ritual", 
+                    "magic", 
+                    "key", 
+                    "other", 
+                    "final"
+                ], 
+                "role": "In The Brothers Grimm, the villainous Mirror Queen (Monica Bellucci) was so desperate to remain beautiful and unsullied as plague ravaged her lands that she cast a spell on herself to live forever. Unfortunately, the spell didn't keep her from aging. Several centuries later, she's a bedridden old crone who sends out a hypnotized henchman to kidnap twelve young girls from a nearby village to prepare a ritual that will restore her beauty at the cost of the girls' lives. Her eternally-youthful reflection in a magic mirror is key to putting other people under her power. She succeeds in regaining her youth, but Jacob smashes the mirror and she shatters, though the final shot reveals she may not be completely dead. At least the girls are rescued.", 
+                "id": "VainSorceress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0355295", 
+    "poster_url": "TheBrothersGrimm.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "TheBrothersGrimm", 
+    "name": "The Brothers Grimm"
+}

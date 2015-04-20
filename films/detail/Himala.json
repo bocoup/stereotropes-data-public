@@ -1,0 +1,74 @@
+{
+    "plot": "Elsa saw the blessed Virgin Mary who had changed her life and caused a hysteria in a poor isolated village.", 
+    "genres": "Drama", 
+    "release_year": "1982", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Mysterious", 
+                    "titular", 
+                    "adoptive", 
+                    "later"
+                ], 
+                "role": "Mysterious Waif: Elsa is found on the titular hill as a baby by her adoptive mother. Waif Prophet: She becomes this later on.", 
+                "id": "MysteriousWaif"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Women in White", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0125144", 
+    "poster_url": "Himala.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "TheInnocents", 
+            "name": "The Innocents", 
+            "poster_url": "TheInnocents.jpg"
+        }
+    ], 
+    "id": "Himala", 
+    "name": "Himala"
+}

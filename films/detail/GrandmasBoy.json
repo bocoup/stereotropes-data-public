@@ -1,0 +1,79 @@
+{
+    "plot": "When his roommate spends the rent money on hookers, Alex, a 35 year old video game tester has to find a new place to live. After an \"encounter\" with his friend's mom, Alex is forced to move in with his grandmother. Trying to save face with his younger co-workers, Alex says that \"a really cute chick said I could sleep with her and her two crazy girlfriends\" (meaning his grandmother and her two roommates).", 
+    "genres": "Comedy", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Slacker: Alex", 
+                "id": "TheSlacker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The characters from Grandma's Boy.", 
+                "id": "TheSlacker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "professional"
+                ], 
+                "role": "Averted in Grandma's Boy. The Chick is something of a professional Nerd Nanny, its her job to get video games which are behind on development finished on time (it helps that all the nerdy testers want to impress her so they stop goofing around and work diligently). But it turns out to be an aversion when she reveals she also smokes pot, drinks, and even plays video games as well as they do.", 
+                "id": "NerdNanny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0456554", 
+    "poster_url": "GrandmasBoy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RedHill", 
+            "name": "Red Hill", 
+            "poster_url": "RedHill.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "MainHoonNa", 
+            "name": "Main Hoon Na", 
+            "poster_url": "MainHoonNa.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "IVitelloni", 
+            "name": "I Vitelloni", 
+            "poster_url": "IVitelloni.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "TrueRomance", 
+            "name": "True Romance", 
+            "poster_url": "TrueRomance.jpg"
+        }
+    ], 
+    "id": "GrandmasBoy", 
+    "name": "Grandma's Boy"
+}

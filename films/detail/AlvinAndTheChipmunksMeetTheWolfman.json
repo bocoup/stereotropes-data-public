@@ -1,0 +1,78 @@
+{
+    "plot": "It's the Chipmunks' third and final full-length feature! Alvin is struggling with nightmares of werewolves. Alvin believes that the new next-door neighbor Mr. Talbot is a werewolf. Of course, no one believes him. Meanwhile, the boys are working on the school production of Dr. Jekyll & Mr. Hyde. When Alvin blows up the school auditorium, he is expelled from the production. Theodore is put in to rise his lack of confidence. Alvin and Simon are trying to discover the secret of Mr. Talbot. Will the play go as planned or will the Chipmunks mess it up?! And is Mr. Talbot a werewolf?", 
+    "genres": "Animation, Horror, Family", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sharp-Dressed", 
+                    "new"
+                ], 
+                "role": "Sharp-Dressed Man: The Chipmunks' new neighbor, Mr. Talbot.", 
+                "id": "SharpDressedMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Eleanor near the end of the film.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0252227", 
+    "poster_url": "AlvinAndTheChipmunksMeetTheWolfman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolfMan1941", 
+            "name": "The Wolf Man ", 
+            "poster_url": "TheWolfMan1941.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "DrNo", 
+            "name": "Dr. No", 
+            "poster_url": "DrNo.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }
+    ], 
+    "id": "AlvinAndTheChipmunksMeetTheWolfman", 
+    "name": "Alvin and the Chipmunks Meet the Wolfman"
+}

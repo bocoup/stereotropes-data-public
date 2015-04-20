@@ -1,0 +1,75 @@
+{
+    "plot": "1937, Spain is in the midst of the brutal Spanish Civil War. A \"Happy\" circus clown is interrupted mid-performance and forcibly recruited by a militia. Still in his costume, he is handed a machete and led into battle against National soldiers, where he single handedly massacres an entire platoon. Fast forward to 1973, the tail end of the Franco regime. Javier, the son of the clown, dreams of following in his father's career footsteps, but has seen too much tragedy in his life-he's simply not funny and is only equipped to play the role of the Sad Clown. He finds work in a circus where he befriends an outlandish cast of characters, but as the Sad Clown he must take the abuse of the brutish Happy Clown Sergio, who humiliates Javier daily in the name of entertainment. It is here that he meets Natalia, a gorgeous acrobat, and abused wife of Sergio. Javier falls deeply in love with Natalia and tries to rescue her from her cruel and violent husband, unleashing Sergio's jealousy. But Natalia is torn between her affection towards Javier and her lust for Sergio.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Bastard Boyfriend: Sergio. Oh so very much.", 
+                "id": "BastardBoyfriend"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Natalia. There is a slight hint of self-indulgence in the way she sets Javier and Sergio against each other. It does NOT end well for her, though.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt1572491", 
+    "poster_url": "TheLastCircus.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BastardBoyfriend", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "NeverSayNeverAgain", 
+            "name": "Never Say Never Again", 
+            "poster_url": "NeverSayNeverAgain.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }
+    ], 
+    "id": "TheLastCircus", 
+    "name": "The Last Circus"
+}

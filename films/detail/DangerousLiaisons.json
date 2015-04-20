@@ -1,0 +1,101 @@
+{
+    "plot": "In 18th century France, the Marquise de Merteuil and the Vicomte de Valmont play a dangerous game of seduction. Valmont is someone who measures success by the number of his conquests and Merteuil challenges him to seduce the soon to be married Cecile de Volanges and provide proof in writing of his success. His reward for doing so will be to spend the night with Merteuil. He has little difficulty seducing Cecile but what he really wants is to seduce Madame de Tourvel. When Merteuil learns that he has actually fallen in love with her, she refuses to let him claim his reward for seducing Cecile. Death soon follows.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Ladykiller in Love: Valmont, though he is so jaded he doesn't notice he is in love until it's pointed out to him.", 
+                "id": "LadyKillerInLove"
+            }, 
+            {
+                "adjectives": [
+                    "classic", 
+                    "literary"
+                ], 
+                "role": "Valmont and Madame Merteuil of Les Liaisons Dangereuses are classic literary examples.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "main", 
+                    "female"
+                ], 
+                "role": "Lipstick and Load Montage: The opening credits to the film has a montage featuring both the main male and female characters. It looks like they are dressing for battle, and they were.", 
+                "id": "LipstickAndLoadMontage"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "The Ingenue: Cecile. So very much.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Merteuil when around Valmont.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094947", 
+    "poster_url": "DangerousLiaisons.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "TheIngenue", 
+                "TheVamp"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "TheVamp", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 3, 
+            "id": "MansfieldPark", 
+            "name": "Mansfield Park", 
+            "poster_url": "MansfieldPark.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 2, 
+            "id": "HeavenCanWait", 
+            "name": "Heaven Can Wait", 
+            "poster_url": "HeavenCanWait.jpg"
+        }
+    ], 
+    "id": "DangerousLiaisons", 
+    "name": "Dangerous Liaisons"
+}

@@ -1,0 +1,91 @@
+{
+    "plot": "A medical student and his girlfriend become involved in a bizarre experiment into reanimating the dead conducted by the student's incorrigible housemate in this campy sendup of an H.P. Lovecraft story. The emphasis is on humour but once the dead walk, there is gore aplenty.", 
+    "genres": "Comedy, Horror, Sci-Fi", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "due"
+                ], 
+                "role": "Gag Penis: The Warden's severed penis which comes to life due to West's serum in Beyond.", 
+                "id": "GagPenis"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scoop: Laura in Beyond.", 
+                "id": "HotScoop"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Meg, Francesca, Laura, Nurse Vanessa.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089885", 
+    "poster_url": "ReAnimator.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "GagPenis"
+            ], 
+            "shared_count": 2, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotScoop"
+            ], 
+            "shared_count": 2, 
+            "id": "CrocodileDundee", 
+            "name": "Crocodile Dundee", 
+            "poster_url": "CrocodileDundee.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotScoop"
+            ], 
+            "shared_count": 2, 
+            "id": "MarsAttacks", 
+            "name": "Mars Attacks!", 
+            "poster_url": "MarsAttacks.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "GagPenis"
+            ], 
+            "shared_count": 2, 
+            "id": "SilentMovie", 
+            "name": "Silent Movie", 
+            "poster_url": "SilentMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "ParaNorman", 
+            "name": "ParaNorman", 
+            "poster_url": "ParaNorman.jpg"
+        }
+    ], 
+    "id": "ReAnimator", 
+    "name": "Re-Animator"
+}

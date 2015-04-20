@@ -1,0 +1,95 @@
+{
+    "plot": "When Jake LaMotta steps into a boxing ring and obliterates his opponent, he's a prizefighter. But when he treats his family and friends the same way, he's a ticking time bomb, ready to go off at any moment. Though LaMotta wants his family's love, something always seems to come between them. Perhaps it's his violent bouts of paranoia and jealousy. This kind of rage helped make him a champ, but in real life, he winds up in the ring alone.", 
+    "genres": "Biography, Drama, Sport", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "future", 
+                    "good", 
+                    "No-Holds-Barred"
+                ], 
+                "role": "Crazy Jealous Guy: Again, Jake. His jealousy fits often (if not always) came out of nowhere and from the slightest persuasions. In the words of his brother, he's \"crackin' up.\" How crazy is he? His wife mentions off hand that one of his future opponents is \"pretty good looking.\" Jake's response? Give him a No-Holds-Barred Beatdown and specifically breaking his nose so he won't be so pretty anymore.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "obsessive"
+                ], 
+                "role": "Jake La Motta, whose obsessive jealousy of his wife was made into the film Raging Bull.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: It's about a boxer.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "major"
+                ], 
+                "role": "Jake LaMotta suffers from a major case of this in Raging Bull, though slightly more subtly - he can't believe she's with him, so she must be cheating, so be beats her...", 
+                "id": "MadonnaWhoreComplex"
+            }
+        ]
+    }, 
+    "imdbid": "tt0081398", 
+    "poster_url": "RagingBull.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MadonnaWhoreComplex", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "SaturdayNightFever", 
+            "name": "Saturday Night Fever", 
+            "poster_url": "SaturdayNightFever.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "MadonnaWhoreComplex", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCabinInTheWoods", 
+            "name": "The Cabin in the Woods", 
+            "poster_url": "TheCabinInTheWoods.jpg"
+        }, 
+        {
+            "shared": [
+                "MadonnaWhoreComplex", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGrudge", 
+            "name": "The Grudge", 
+            "poster_url": "TheGrudge.jpg"
+        }
+    ], 
+    "id": "RagingBull", 
+    "name": "Raging Bull"
+}

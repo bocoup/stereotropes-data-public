@@ -1,0 +1,130 @@
+{
+    "plot": "In Victorian London, England, a little mouse girl's toymaker father is abducted by a peglegged bat. She enlists the aid of Basil of Baker Street, the rodent world's answer to Sherlock Holmes. The case expands as Basil uncovers the crime's link to a plot against the Crown itself.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "psychotic", 
+                    "feral", 
+                    "cold-blooded", 
+                    "fabric", 
+                    "fashionable"
+                ], 
+                "role": "Sissy Villain: Ratigan (before he turns into a psychotic, feral rat at the end) is quite possibly one of Disney's most cold-blooded villains... and yet he surrounds himself with pink and purple fabric, fashionable capes, and sings songs while being carried around by his hired boys.", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [
+                    "big", 
+                    "broad", 
+                    "wide", 
+                    "overall", 
+                    "muscular", 
+                    "upper", 
+                    "short", 
+                    "triangle", 
+                    "small"
+                ], 
+                "role": "Rattigan from The Great Mouse Detective has this build. Being a...um...big mouse  RAT!!! he has very broad shoulders, a wide chest, and overall is extremely muscular in the upper body. However, he has a teeny tiny waist and very short legs, easily fitting into a triangle shape. His head is also quite small compared to his shoulder width, despite his genius IQ.", 
+                "id": "TopHeavyGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Miss Kitty: Miss Kitty Mouse.", 
+                "id": "MissKitty"
+            }, 
+            {
+                "adjectives": [
+                    "dead"
+                ], 
+                "role": "In The Great Mouse Detective, Olivia is trying to get Basil to help her find her father. He says \"Surely your mother knows where he is\" and she says \"I don't have a mother.\" The implication is that Mom is dead.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Olivia doesn't have one, as she rather bluntly tells Basil.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Miss Kitty.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Olivia Flaversham from The Great Mouse Detective.", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Olivia shows shades of this near the climax of the film.", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0091149", 
+    "poster_url": "TheGreatMouseDetective.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MissKitty", 
+                "PluckyGirl", 
+                "SissyVillain", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "MsFanservice", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl", 
+                "SissyVillain", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl", 
+                "MsFanservice", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "MsFanservice", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }
+    ], 
+    "id": "TheGreatMouseDetective", 
+    "name": "The Great Mouse Detective"
+}

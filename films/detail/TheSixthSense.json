@@ -1,0 +1,82 @@
+{
+    "plot": "Malcom Crowe is a child psychologist who receives an award on the same night that he is visited by a very unhappy ex-patient. After this encounter, Crowe takes on the task of curing a young boy with the same ills as the ex-patient. This boy \"sees dead people\". Crowe spends a lot of time with the boy (Cole) much to the dismay of his wife. Cole's mom is at her wit's end with what to do about her son's increasing problems. Crowe is the boy's only hope.", 
+    "genres": "Drama, Mystery, Thriller", 
+    "release_year": "1999", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cute Ghost Girl: The poisoning victim.", 
+                "id": "CuteGhostGirl"
+            }, 
+            {
+                "adjectives": [
+                    "wrong"
+                ], 
+                "role": "Mama Bear: Lynn has no idea what's wrong with her son, just that something is seriously off with him. And yet, during a nightmare, she begs Cole to tell her if someone is hurting him so she can kick their asses. Lynn also calls up the mother of one of the boys from the party and tells her to keep her son away from Cole.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Malcolm's wife's friend on their wedding video. It's a bit jarring.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0167404", 
+    "poster_url": "TheSixthSense.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFoxAndTheHound", 
+            "name": "The Fox and the Hound", 
+            "poster_url": "TheFoxAndTheHound.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteGhostGirl", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "ParaNorman", 
+            "name": "ParaNorman", 
+            "poster_url": "ParaNorman.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "AustinPowers", 
+            "name": "Austin Powers", 
+            "poster_url": "AustinPowers.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Obsessed", 
+            "name": "Obsessed", 
+            "poster_url": "Obsessed.jpg"
+        }
+    ], 
+    "id": "TheSixthSense", 
+    "name": "The Sixth Sense"
+}

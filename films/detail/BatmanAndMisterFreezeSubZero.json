@@ -1,0 +1,111 @@
+{
+    "plot": "Gotham City: dark, dangerous, 'protected' only by a mostly corrupt police department. Despite the best efforts of D.A. Harvey Dent and police commissioner Jim Gordon, the city becomes increasingly unsafe...until a Dark Knight arises. We all know criminals are a superstitious, cowardly lot...so his disguise must be able to strike terror into their hearts. He becomes a bat. Enter Vicky Vale, a prize-winning photo journalist who wants to uncover the secret of the mysterious \"bat-man\". And enter Jack Napier, one-time enforcer for Boss Grissom, horribly disfigured after a firefight in a chemical factory...who, devoid of the last vestiges of sanity, seizes control of Gotham's underworld as the psychotic, unpredictable Clown Prince of Crime...the Joker. Gotham's only hope, it seems, lies in this dark, brooding vigilante. And just how does billionaire playboy Bruce Wayne fit into all of this?", 
+    "genres": "Action, Adventure", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Dirty Coward: Belson leaves Freeze to die out of fear for his own safety. The heroes then risk their lives to save him while Belson gets fatally smacked with karma.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Barbara, obviously.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "same", 
+                    "able", 
+                    "later"
+                ], 
+                "role": "Again, Barbara Gordon: in Batman and Mr. Freeze: SubZero is the most badass damsel ever. She talks back to Mr. Freeze when he kidnaps her, attacks him with the same chains she's shackled with, tries to reason with him once she learns about his Ill Girl wife Nora (so she'll be able to help him save her without losing her organs  and later it turns out her blood is enough), saves his Kid Sidekick, tries to save him too...", 
+                "id": "BadassDamsel"
+            }, 
+            {
+                "adjectives": [
+                    "same", 
+                    "able", 
+                    "later"
+                ], 
+                "role": "Batman & Mr. Freeze: SubZero Barbara Gordon talks back to Mr. Freeze when he kidnaps her, attacks him with the same chains she's shackled with, tries to reason with him once she learns about his Ill Girl wife Nora (so she'll be able to help him save her without losing her organs  and later it turns out her blood is enough), saves his Kid Sidekick, tries to save him too...", 
+                "id": "DamselOutOfDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Barbara", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0096895", 
+    "poster_url": "BatmanAndMisterFreezeSubZero.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "ActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "PluckyGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Scream", 
+            "name": "Scream", 
+            "poster_url": "Scream.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "PluckyGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "PluckyGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "DamselOutOfDistress", 
+                "ActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }
+    ], 
+    "id": "BatmanAndMisterFreezeSubZero", 
+    "name": "Batman & Mr. Freeze: SubZero"
+}

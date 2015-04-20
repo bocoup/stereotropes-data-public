@@ -1,0 +1,67 @@
+{
+    "plot": "A UFO is stranded on earth and impounded by the US government. Its pilot, a cat with a collar that has special powers, including the ability to allow the cat to communicate with humans, has eluded the authorities and needs the help of a man named Frank in order to reclaim and repair his ship to get back home.", 
+    "genres": "Comedy, Sci-Fi", 
+    "release_year": "1978", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Liz", 
+                "id": "HotScientist"
+            }
+        ]
+    }, 
+    "imdbid": "tt0077305", 
+    "poster_url": "TheCatFromOuterSpace.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AgentForHARM", 
+            "name": "Agent for H.A.R.M.", 
+            "poster_url": "AgentForHARM.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Sphere", 
+            "name": "Sphere", 
+            "poster_url": "Sphere.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }
+    ], 
+    "id": "TheCatFromOuterSpace", 
+    "name": "The Cat From Outer Space"
+}

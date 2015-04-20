@@ -1,0 +1,68 @@
+{
+    "plot": "After a young actress unknowingly eats her roommate's Marijuana cupcakes, her day becomes a series of misadventures.", 
+    "genres": "Comedy", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "afraid", 
+                    "comfy"
+                ], 
+                "role": "Jane from Smiley Face. A lot of the plot happens because she's afraid her dealer will take her really comfy bed to pay off her debt to him. Also The Stoner, obviously.", 
+                "id": "TheSlacker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0780608", 
+    "poster_url": "SmileyFace.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RedHill", 
+            "name": "Red Hill", 
+            "poster_url": "RedHill.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "MainHoonNa", 
+            "name": "Main Hoon Na", 
+            "poster_url": "MainHoonNa.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "IVitelloni", 
+            "name": "I Vitelloni", 
+            "poster_url": "IVitelloni.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "TrueRomance", 
+            "name": "True Romance", 
+            "poster_url": "TrueRomance.jpg"
+        }
+    ], 
+    "id": "SmileyFace", 
+    "name": "Smiley Face"
+}

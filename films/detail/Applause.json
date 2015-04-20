@@ -1,0 +1,77 @@
+{
+    "plot": "This early example of the \"backstage\" musical genre tells the story of Kitty Darling, a fading burlesque star who tries to save her convent-educated daughter April from following in Mom's footsteps.", 
+    "genres": "Drama, Musical", 
+    "release_year": "1929", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Thea, the title character of Applause.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [
+                    "lit", 
+                    "appear", 
+                    "enough", 
+                    "old"
+                ], 
+                "role": "It's strongly implied that Margo in Applause is headed in this direction, lampshaded by a review which describes her as \"discreetly lit by all the pink gelatin on Broadway.\" (Light filtered through pink \"gels\" can make people appear younger; if a production uses enough of them for you to notice, it's a sign that one of the actors is too old to play the role they're in.)", 
+                "id": "WhiteDwarfStarlet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0019644", 
+    "poster_url": "Applause.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "LadyDrunk"
+            ], 
+            "shared_count": 2, 
+            "id": "BulletsOverBroadway", 
+            "name": "Bullets Over Broadway", 
+            "poster_url": "BulletsOverBroadway.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "LadyDrunk"
+            ], 
+            "shared_count": 2, 
+            "id": "WhatEverHappenedToBabyJane", 
+            "name": "What Ever Happened to Baby Jane?", 
+            "poster_url": "WhatEverHappenedToBabyJane.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "AuntieMame", 
+            "name": "Auntie Mame", 
+            "poster_url": "AuntieMame.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet"
+            ], 
+            "shared_count": 1, 
+            "id": "DinnerAtEight", 
+            "name": "Dinner At Eight", 
+            "poster_url": "DinnerAtEight.jpg"
+        }
+    ], 
+    "id": "Applause", 
+    "name": "Applause"
+}

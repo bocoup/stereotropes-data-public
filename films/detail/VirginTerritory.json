@@ -1,0 +1,88 @@
+{
+    "plot": "Young Florentines regale one another in the Italian countryside while the black plague decimates their city.", 
+    "genres": "Adventure, Comedy, History", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bigger Is Better in Bed: invoked by Melissa and Filomena in the trick which they conceived in order to escape from the bandits' camp.", 
+                "id": "BiggerIsBetterInBed"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bigger is Better in Bed: invoked by Melissa and Filomena in the trick which they conceived in order to escape from the bandits' camp.", 
+                "id": "BiggerIsBetterInBed"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Lorenzo.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "numerous"
+                ], 
+                "role": "Shirtless Scene: numerous times, with Lorenzo.", 
+                "id": "ShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0437954", 
+    "poster_url": "VirginTerritory.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice", 
+                "BiggerIsBetterInBed"
+            ], 
+            "shared_count": 3, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "SaturdayNightFever", 
+            "name": "Saturday Night Fever", 
+            "poster_url": "SaturdayNightFever.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "MagicMike", 
+            "name": "Magic Mike", 
+            "poster_url": "MagicMike.jpg"
+        }
+    ], 
+    "id": "VirginTerritory", 
+    "name": "Virgin Territory"
+}

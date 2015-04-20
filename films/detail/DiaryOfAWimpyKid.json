@@ -1,0 +1,129 @@
+{
+    "plot": "To Greg Heffley, middle school is the dumbest idea ever invented. It's a place rigged with hundreds of social landmines, not the least of which are morons, wedgies, swirlies, bullies, lunchtime banishment to the cafeteria floor - and a festering piece of cheese with nuclear cooties. To survive the never-ending ordeal and attain the recognition and status he feels he so richly deserves, Greg devises an endless series of can't-miss schemes, all of which, of course, go awry. And he's getting it all down on paper, via a diary - \"it's NOT a diary, it's a journal!\" Greg insists, preferring the less-sissyfied designation - filled with his opinions, thoughts, tales of family trials and tribulations, and (would-be) schoolyard triumphs. \"One day when I'm famous,\" writes Greg, \"I'll have better things to do than answer people's stupid questions all day.\" So was born the Wimpy Kid's diary.", 
+    "genres": "Comedy, Family", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bish\u014dnen", 
+                    "favorite", 
+                    "only"
+                ], 
+                "role": "Bish\u014dnen: Rowley's favorite singer, Joshie, is more or less described as being one of the sort. Emphasized in The Ugly Truth when Rowley goes to a Joshie concert and notices that he is the only boy in the audience.", 
+                "id": "Bishonen"
+            }, 
+            {
+                "adjectives": [
+                    "old", 
+                    "Li'l"
+                ], 
+                "role": "Bumbling Dad: The father seems to act rather old for his age...and we mean like an 80-year-old. Except for the fact that he hates Li'l Cutie.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "webcomic", 
+                    "phobic", 
+                    "drive-thrus"
+                ], 
+                "role": "Frank Heffley in Diary of a Wimpy Kid is a bumbling dad. He acts like he's in his 80s. Not only does he regularly yell \"Dagnabbed rotten teenagers!\", but in the webcomic, he tries to get Classical music playing throughout the town to scare the teenagers away, is apparently teenager phobic, can't figure out how Gregory's game system is even hooked up to the TV, and says people at drive-thrus are idiots...yet he tries to place his order through a garbage can.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "Third", 
+                    "push"
+                ], 
+                "role": "Greg himself has his moments... a lot of moments. However, his frequent crushes on girls, not to mention the events of The Third Wheel, push him safely into Camp Straight territory.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [
+                    "real"
+                ], 
+                "role": "Jerk Jock: Kenny Keith seems to fit the description. However, Greg is a jerk to Kenny whenever he gets the chance and we don't see how Kenny acts around people he actually gets along with. Subverted with Bryce Anderson. Greg tries his best to make him seem like one, but so far there's no real evidence that Bryce is one of these.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Rodrick, in the movies.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "justified"
+                ], 
+                "role": "Greg himself. When he and Rowley often try to accomplish tasks together, he usually makes him do all of the work. Also, there's his treatment of Chirag Gupta and pelting Patty Farrell with apples. (The movie makes this a little more justified, by portraying Patty Farrell as an Alpha Bitch who is stuck on an insult he did in kindergarten.)", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "oblivious", 
+                    "hide"
+                ], 
+                "role": "In Diary of a Wimpy Kid, Greg's mother is gleefully oblivious to Greg's unhappiness to any inconvenience she causes him, from inviting Fregley over to play hide n' seek, to making him participate in the school play of The Wizard of Oz, to joining in Greg's \"Magick and Monsters\" game and completely ignoring the \"kill and level up\" nature of the game. Justified, because she used to be a preschool teacher.", 
+                "id": "MisplacedKindergartenTeacher"
+            }
+        ]
+    }, 
+    "imdbid": "tt1196141", 
+    "poster_url": "DiaryOfAWimpyKid.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampStraight", 
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "Bishonen", 
+                "CampStraight", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRageCarrie2", 
+            "name": "The Rage: Carrie 2"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }
+    ], 
+    "id": "DiaryOfAWimpyKid", 
+    "name": "Diary of a Wimpy Kid"
+}

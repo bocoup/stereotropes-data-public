@@ -1,0 +1,87 @@
+{
+    "plot": "Mycroft Holmes hands Sherlock Holmes the case of the Master Blackmailer.", 
+    "genres": "Crime, Mystery", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "eccentric"
+                ], 
+                "role": "Gentleman Detective: Holmes, of course, in an eccentric sort of way.", 
+                "id": "GentlemanDetective"
+            }, 
+            {
+                "adjectives": [
+                    "easy", 
+                    "handsome", 
+                    "dapper", 
+                    "own"
+                ], 
+                "role": "Mr. Fanservice: Vitaly Solomin's Watson is quite easy on the eyes if you like boyishly handsome blond men in tweed, and Holmes is rather dapper in his own way.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Lady: Mrs. Hudson.", 
+                "id": "CoolOldLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0459944", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFullMonty", 
+            "name": "The Full Monty", 
+            "poster_url": "TheFullMonty.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "ParaNorman", 
+            "name": "ParaNorman", 
+            "poster_url": "ParaNorman.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheProposal", 
+            "name": "The Proposal", 
+            "poster_url": "TheProposal.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }
+    ], 
+    "id": "TheAdventuresOfSherlockHolmesAndDoctorWatson", 
+    "name": "The Adventures of Sherlock Holmes and Doctor Watson"
+}

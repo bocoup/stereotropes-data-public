@@ -1,0 +1,102 @@
+{
+    "plot": "Mike Lane is a thirty-year old living in Tampa,Florida. By day he works as a roofer whilst at night, as Magic Mike, he is the star attraction of the Kings of Tampa, a group of male strippers. Secretly he wants out in order to further a projected furniture-making business but his credit rating precludes a bank loan for this despite his considerable savings. One night Adam, a teen-aged work-mate of Mike, follows him to the club and, when one of the acts is unable to go on,he is prevailed upon to strip - becoming a huge hit. However success goes to his head and his foolish actions not only threaten to jeopardize his sister Brooke's relationship with Mike but Mike's ambitions as well.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Chippendales Dancers", 
+                "id": "ChippendalesDancers"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Firemen Are Hot: Yes features.", 
+                "id": "FiremenAreHot"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Killer In Love: Mike decides to change his ways.", 
+                "id": "LadyKillerInLove"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Basically, the film version of this trope.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "male"
+                ], 
+                "role": "Shirtless Scene: In a film about male strippers?!", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mike in Magic Mike.  All he wants to do is make furniture on a beach somewhere. He also  bails out his coworker with his life savings.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt1915581", 
+    "poster_url": "MagicMike.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "LadyKillerInLove", 
+                "MrFanservice", 
+                "FiremenAreHot"
+            ], 
+            "shared_count": 4, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "ChippendalesDancers", 
+                "ShirtlessScene", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "HookerWithAHeartOfGold", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "PrincessMononoke", 
+            "name": "Princess Mononoke", 
+            "poster_url": "PrincessMononoke.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "MagicMike", 
+    "name": "Magic Mike"
+}

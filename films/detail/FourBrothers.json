@@ -1,0 +1,114 @@
+{
+    "plot": "Four adopted brothers come to avenge their mother's death in what appears to be a random killing in a grocery store robbery. However, the boys' investigation of the death reveals more nefarious activities involving the one brother's business dealings with a notorious local hoodlum. Two cops who are trying to solve the case may also not be what they seem.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Jeremiah slowly gets to this in the end.", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Angel likes to use this stereotype to intimidate people during interrogations.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "questionable"
+                ], 
+                "role": "The Casanova: Angel certainly acts like one, although the results can be questionable at times.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Mom: Jeremiah's wife, Camille. Evelyn is also heavily implied to be this.", 
+                "id": "HotMom"
+            }, 
+            {
+                "adjectives": [
+                    "general", 
+                    "evident"
+                ], 
+                "role": "Mama Bear: Evelyn in general,  but especially evident when she goes to the police after finding out that Victor Sweet was trying to illegally shut down Jeremiah's development project.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "again-off"
+                ], 
+                "role": "Spicy Latina: Angel's on again-off again girlfriend, Sofi.", 
+                "id": "SpicyLatina"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Cutie: Jack.", 
+                "id": "TheCutie"
+            }
+        ]
+    }, 
+    "imdbid": "tt0430105", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TitusAndronicus", 
+            "name": "Titus Andronicus", 
+            "poster_url": "TitusAndronicus.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "TheCasanova", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "AustinPowers", 
+            "name": "Austin Powers", 
+            "poster_url": "AustinPowers.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ScaryBlackMan", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "CoachCarter", 
+            "name": "Coach Carter", 
+            "poster_url": "CoachCarter.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }
+    ], 
+    "id": "FourBrothers", 
+    "name": "Four Brothers"
+}

@@ -1,0 +1,77 @@
+{
+    "plot": "Angelo \"Snaps\" Provolone made his dying father a promise on his deathbed: he would leave the world of crime and become an honest businessman. Despite having no experience in making money in a legal fashion, Snaps sets about to keep his promise. He is faced with numerous problems: henchmen who know nothing but crime, the police who are convinced he is hatching a master plan, and Oscar, who has just got his daughter pregnant.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "pregnant"
+                ], 
+                "role": "Overprotective Dad: Snaps, who already has a marriage set up for Lisa whether she likes it or not, and resorts to deception, blackmail, threats, and bribery to get her a husband when he thinks that she's pregnant.", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "possessive"
+                ], 
+                "role": "My Beloved Smother: Thornton identifies with Lisa wanting to get out of the house, since his mother \"can be so possessive\".", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102603", 
+    "poster_url": "Oscar.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Coneheads", 
+            "name": "Coneheads", 
+            "poster_url": "Coneheads.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Paul", 
+            "name": "Paul", 
+            "poster_url": "Paul.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TuckEverlasting", 
+            "name": "Tuck Everlasting", 
+            "poster_url": "TuckEverlasting.jpg"
+        }
+    ], 
+    "id": "Oscar", 
+    "name": "Oscar"
+}

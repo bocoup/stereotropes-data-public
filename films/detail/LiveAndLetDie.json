@@ -1,0 +1,91 @@
+{
+    "plot": "Several British agents have been murdered and James Bond is sent to New Orleans, to investigate these mysterious deaths. Mr. Big comes to his knowledge, who is self-producing heroin. Along his journeys he meets Tee Hee who has a claw for a hand, Baron Samedi the voodoo master and Solitaire and her tarot cards. Bond must travel deep inside New Orleans, through marshy grass and on water as he completes his mission.", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Tee Hee (the dude with the claw), Baron Samedi, Mr. Big.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cute Clumsy Girl: Rosie Carver, though this could be at least partially an act.", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Live", 
+                    "loyal", 
+                    "female"
+                ], 
+                "role": "Live and Let Die: while Kananga's men are loyal to the death, his female fortune teller Solitaire is won over by Bond's charms, even going so far as to lose her virginity - and with it her ability to predict the future! - to him.", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Innocent Fan Service Girl: Miss Caruso in the post-credits opening. Solitaire herself.", 
+                "id": "InnocentFanserviceGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070328", 
+    "poster_url": "LiveAndLetDie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "InnocentFanserviceGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "XMen", 
+            "name": "X-Men", 
+            "poster_url": "XMen.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "CuteClumsyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Superman", 
+            "name": "Superman", 
+            "poster_url": "Superman.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "MississippiBurning", 
+            "name": "Mississippi Burning", 
+            "poster_url": "MississippiBurning.jpg"
+        }
+    ], 
+    "id": "LiveAndLetDie", 
+    "name": "Live and Let Die"
+}

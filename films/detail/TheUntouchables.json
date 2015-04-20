@@ -1,0 +1,75 @@
+{
+    "plot": "Federal agent Elliot Ness assembles a personal team of mob fighters to bring Chicago crime boss Al Capone to justice using unconventional means during the mob wars of the 1920s. This fictionalized account of the arrest of Al Capone is heavy on style and gunfire. The end shootout combines a baby carriage and stairs with a nod to Eisenstein's _The Battleship Potemkin_.", 
+    "genres": "Crime, Drama, Thriller", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Frank Nitti in The Untouchables.", 
+                "id": "ManInWhite"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "silent"
+                ], 
+                "role": "A woman's scream starts off the staircase shootout in The Untouchables, when she sees Elliot Ness take a shotgun out from under his Badass Longcoat. After that her screams are all silent with only the gunshots and the wheels of the Baby Carriage bumping down the stairs being heard.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094226", 
+    "poster_url": "TheUntouchables.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ManInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "RaidersOfTheLostArk", 
+            "name": "Raiders of the Lost Ark", 
+            "poster_url": "RaidersOfTheLostArk.jpg"
+        }, 
+        {
+            "shared": [
+                "ManInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "CapeFear", 
+            "name": "Cape Fear", 
+            "poster_url": "CapeFear.jpg"
+        }, 
+        {
+            "shared": [
+                "ManInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "TheManInTheWhiteSuit", 
+            "name": "The Man In The White Suit", 
+            "poster_url": "TheManInTheWhiteSuit.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Lajja", 
+            "name": "Lajja", 
+            "poster_url": "Lajja.jpg"
+        }
+    ], 
+    "id": "TheUntouchables", 
+    "name": "The Untouchables"
+}

@@ -1,0 +1,82 @@
+{
+    "plot": "America's 7th Best Superhero Team, the Specials, are a group of geeks and oddballs. We get to see one day in their lives as fan and new member Nightbird joins the group, just in time for the group to get a new line of action figures. But the members' extreme personalities and personal issues threaten to rip the group apart.", 
+    "genres": "Action, Comedy, Fantasy", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: U.S. Bill \u2014 who is not just dumb, but clearly mentally disabled.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Butch Lesbian: Power Chick. Somehow Amok manages to miss this until she has to tell him outright.", 
+                "id": "ButchLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "perky"
+                ], 
+                "role": "Perky Goth: Mostly averted. Deadly Girl is only seen to be perky when she's insulting someone, or after her tryst with Minute Man.", 
+                "id": "PerkyGoth"
+            }
+        ]
+    }, 
+    "imdbid": "tt0181836", 
+    "poster_url": "TheSpecials.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ButchLesbian", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "DoubleImpact", 
+            "name": "Double Impact", 
+            "poster_url": "DoubleImpact.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "FreeBirds", 
+            "name": "Free Birds", 
+            "poster_url": "FreeBirds.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "FourLions", 
+            "name": "Four Lions", 
+            "poster_url": "FourLions.jpg"
+        }
+    ], 
+    "id": "TheSpecials", 
+    "name": "The Specials"
+}

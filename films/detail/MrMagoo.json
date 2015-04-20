@@ -1,0 +1,91 @@
+{
+    "plot": "Mr.Magoo is an eccentric millionaire with very bad eyesight who refuses to use eyeglasses and therefore always gets into trouble. During the museum robbery he accidentally gets a priceless gem called the Star of Kurdistan, and begins to trace the way for the arch-criminals whose idea was to steal the gem - Austin Cloquet and Ortega \"The Piranha\" Peru, while two federal agents Stupak and Anders lead the manhunt for Mr.Magoo himself.", 
+    "genres": "Family, Comedy, Adventure", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "old", 
+                    "short", 
+                    "incredible", 
+                    "real"
+                ], 
+                "role": "Badass Grandpa: He's old, short and visually impaired. He still can go on adventures, perform incredible feats for a man of his age and mop the floor with whoever who tries to mess with him for real.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "feature-length", 
+                    "much", 
+                    "same", 
+                    "few", 
+                    "later", 
+                    "traditional", 
+                    "European-style"
+                ], 
+                "role": "The princess in the feature-length Mr. Magoo cartoon 1001 Arabian Nights (despite its title, actually a retelling of Aladdin) wears much the same top as her Disney counterpart from a few decades later, although her dress is longer and closer to the traditional European-style fairy tale princess.", 
+                "id": "BedlahBabe"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119718", 
+    "poster_url": "MrMagoo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "ArthurChristmas", 
+            "name": "Arthur Christmas", 
+            "poster_url": "ArthurChristmas.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Up", 
+            "name": "Up", 
+            "poster_url": "Up.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Kagemusha", 
+            "name": "Kagemusha", 
+            "poster_url": "Kagemusha.jpg"
+        }
+    ], 
+    "id": "MrMagoo", 
+    "name": "Mr. Magoo"
+}

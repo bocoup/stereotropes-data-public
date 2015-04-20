@@ -1,0 +1,107 @@
+{
+    "plot": "Teenager Andie is one of the not-so-popular girls in high school. She usually hangs out with her friends Iona or Duckie. Duckie has always had a crush on her, but now she has met a new guy at school, Blane. He's one of the rich and popular guys but can the two worlds meet?", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Straight: Ducky dresses as extravagantly as Andie.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [
+                    "likely", 
+                    "intentional"
+                ], 
+                "role": "Not likely intentional, but Duckie from Pretty in Pink.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Ducky, to Andie.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "mean", 
+                    "bad"
+                ], 
+                "role": "Steff in Pretty in Pink, who is also the epitome of a Manipulative Bastard. His girlfriend, Bennie, was also blonde and mean, but not quite as bad as him.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Pretty in Pink, Andie's mom abandoned Andie and her dad sometime before the movie started. The two of them coming to terms with it is addressed.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0091790", 
+    "poster_url": "PrettyInPink.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampStraight", 
+                "BlondesAreEvil", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "BlondesAreEvil", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }
+    ], 
+    "id": "PrettyInPink", 
+    "name": "Pretty in Pink"
+}

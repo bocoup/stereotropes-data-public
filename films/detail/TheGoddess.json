@@ -1,0 +1,103 @@
+{
+    "plot": "Devi focuses on a young woman, who is deemed a goddess when her father-in-law, a rich feudal landlord, envisions her as the Goddess Kali.", 
+    "genres": "Drama", 
+    "release_year": "1960", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: The woman tells the school that her son's father is dead. No backstory is provided to explain who the boy's father is or how the woman even wound up living the life of a streetwalker.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: She certainly deserves better than the life she got.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "Chinese", 
+                    "young"
+                ], 
+                "role": "The title character of The Goddess (played by Ruan Lingyu, Chinese movie star of the 1930s) is a woman who engages in prostitution in order to support her young son.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Single Mom Stripper: The woman is hooking to support her boy.", 
+                "id": "SingleMomStripper"
+            }, 
+            {
+                "adjectives": [
+                    "Chinese"
+                ], 
+                "role": "1934 Chinese film The Goddess is a remarkably frank portrayal of the depressing life of a streetwalker in Shanghai.", 
+                "id": "Streetwalker"
+            }, 
+            {
+                "adjectives": [
+                    "short"
+                ], 
+                "role": "Streetwalker: How the woman earns a living. There is one intriguing scene that opens out on the street with a view of the woman's lower legs and feet, as she taps her foot impatiently. The feet of a man wearing nice shoes come into frame. After a short pause, her feet and his feet walk out of camera frame together.", 
+                "id": "Streetwalker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0053765", 
+    "poster_url": "TheGoddess.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "SingleMomStripper"
+            ], 
+            "shared_count": 2, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "Streetwalker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "ManOfLaMancha", 
+            "name": "Man Of La Mancha", 
+            "poster_url": "ManOfLaMancha.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "SingleMomStripper"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHangover", 
+            "name": "The Hangover", 
+            "poster_url": "TheHangover.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "PrincessMononoke", 
+            "name": "Princess Mononoke", 
+            "poster_url": "PrincessMononoke.jpg"
+        }
+    ], 
+    "id": "TheGoddess", 
+    "name": "The Goddess"
+}

@@ -1,0 +1,120 @@
+{
+    "plot": "It's the last day of school, and Max wants to catch the eye of Roxanne, one of the more attractive girls in school. But how can you be cool when your dad's Goofy? Stage an impromptu concert at the final assembly, that's how! Or at least it sounded good until Principal Mazer found out. Goofy finds out about his son's antics (sort of), and decides a fishing trip, like his dad took him on, is the solution. Of course, he doesn't know that Max finally lands a date with Roxanne for a party thrown by the class valedictorian. Through the movie, Goofy tries to bring Max out of his shell, while Max resents being taken away, and lying to Roxanne about the trip (he tells her he & his dad will be appearing on TV at the PowerLine concert in LA). Will Max sink or swim? Will Goofy goof up his son's first shot at romance? Will Bigfoot step back? And what about those nuns?", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "brutish", 
+                    "hostile"
+                ], 
+                "role": "Roxanne's brutish father who does not have any lines in the two scenes he appears in, but is incredibly hostile to Max while adoring to his daughter.", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Beauty Mark: Roxanne has one.", 
+                "id": "BeautyMark"
+            }, 
+            {
+                "adjectives": [
+                    "male", 
+                    "minor", 
+                    "materialistic", 
+                    "envy", 
+                    "cool", 
+                    "good"
+                ], 
+                "role": "Max Goof from A Goofy Movie and An Extremely Goofy Movie, as well as on occasion on Goof Troop, qualifies as a male example. He cares about his popularity and image, loudly complains about minor inconveniences, and is somewhat materialistic, as shown when he expresses envy for his friend who has cool stuff but not a good home life. Most of the time this shows up, however, he learns to appreciate what he has... for now.", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "likely", 
+                    "birth", 
+                    "removed"
+                ], 
+                "role": "Missing Mom: Like in Goof Troop, we have no clue, nor ever a mention of Max's mother - whoever she was, if she's either divorced from Goofy or died. It is more likely than not that she died giving birth to Max though no specifics were ever made to give clarity to that. Moreover, we never really see the mothers of Max's friends who are never really mentioned, either (including the removed Peg) - we only see their fathers (Pete and Roxanne's growling father).", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Goofy Movies and Goof Troop indicate Max Goof's mother is dead. The movies disposed of PJ's mom, Peg. She's not seen or even mentioned.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "short", 
+                    "curvy", 
+                    "young", 
+                    "large", 
+                    "mean", 
+                    "overweight"
+                ], 
+                "role": "The Ugly Guy's Hot Daughter: Roxanne, a short, curvy, pretty young girl, has an extremely large, hairy, mean, overweight Overprotective Dad.", 
+                "id": "TheUglyGuysHotDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113198", 
+    "poster_url": "AGoofyMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeautyMark", 
+                "OverprotectiveDad", 
+                "TheUglyGuysHotDaughter", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "BrattyTeenageDaughter", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Super8", 
+            "name": "Super 8", 
+            "poster_url": "Super8.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "BrattyTeenageDaughter", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Clueless", 
+            "name": "Clueless"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheUglyGuysHotDaughter", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "FernGullyTheLastRainforest", 
+            "name": "FernGully: The Last Rainforest", 
+            "poster_url": "FernGullyTheLastRainforest.jpg"
+        }
+    ], 
+    "id": "AGoofyMovie", 
+    "name": "A Goofy Movie"
+}

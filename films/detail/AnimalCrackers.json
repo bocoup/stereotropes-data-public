@@ -1,0 +1,78 @@
+{
+    "plot": "Mayhem and zaniness ensue when a valuable painting goes missing during a party in honor of famed African explorer Captain Spaulding.", 
+    "genres": "Comedy, Musical", 
+    "release_year": "1930", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Great White Hunter: Captain Spaulding is a parody of this trope.", 
+                "id": "GreatWhiteHunter"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "other", 
+                    "similar", 
+                    "various", 
+                    "many", 
+                    "spiritual"
+                ], 
+                "role": "Mrs. Rittenhouse in Animal Crackers, Mrs. Teasdale in Duck Soup, Mrs. Claypool in A Night at the Opera and other similar roles in various Marx Brothers films were gloriously sustained by Margaret Dumont, who may be considered the Trope Codifier and the best example of this trope.\n Especially because many reports paint her exactly this way off stage. (But see Real Life, below.)\n There is also Mrs. Claypool's spiritual successor, Lillian Oglethorpe (Nancy Marchand), in the 1992 remake of A Night at the Opera, Brain Donors.", 
+                "id": "GrandeDame"
+            }
+        ]
+    }, 
+    "imdbid": "tt0020640", 
+    "poster_url": "AnimalCrackers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GrandeDame", 
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 2, 
+            "id": "BringingUpBaby", 
+            "name": "Bringing Up Baby", 
+            "poster_url": "BringingUpBaby.jpg"
+        }, 
+        {
+            "shared": [
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExtraordinaryAdventuresOfAdeleBlancSec", 
+            "name": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec"
+        }, 
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScarletPimpernel", 
+            "name": "The Scarlet Pimpernel", 
+            "poster_url": "TheScarletPimpernel.jpg"
+        }
+    ], 
+    "id": "AnimalCrackers", 
+    "name": "Animal Crackers"
+}

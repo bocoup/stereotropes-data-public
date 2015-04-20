@@ -1,0 +1,95 @@
+{
+    "plot": "Weary of the conventions of Parisian society, a rich playboy and a youthful courtesan-in-training enjoy a platonic friendship, but it may not stay platonic for long. Gaston, the scion of a wealthy Parisian family finds emotional refuge from the superficial lifestyle of upper class Parisian 1900s society with the former mistress of his uncle and her outgoing, tomboy granddaughter, Gigi. When Gaston becomes aware that Gigi has matured into a woman, her grandmother and aunt, who have educated Gigi to be a wealthy man's mistress, urge the pair to act out their roles but love adds a surprise twist to this delightful turn-of-the 20th century Cinderella story.", 
+    "genres": "Comedy, Musical, Romance", 
+    "release_year": "1958", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Honore.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Gigi's father.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ladykiller In Love: Gaston.", 
+                "id": "LadyKillerInLove"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "High", 
+                    "such"
+                ], 
+                "role": "High Class Call Girl: Mamita would prefer that you not use such words, but Gigi is being raised to become just this.", 
+                "id": "HighClassCallGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spirited Young Lady: Gigi.", 
+                "id": "SpiritedYoungLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0051658", 
+    "poster_url": "Gigi.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyKillerInLove", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "HeavenCanWait", 
+            "name": "Heaven Can Wait", 
+            "poster_url": "HeavenCanWait.jpg"
+        }
+    ], 
+    "id": "Gigi", 
+    "name": "Gigi"
+}

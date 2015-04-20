@@ -1,0 +1,89 @@
+{
+    "plot": "In 1948 Los Angeles, everyone uses magic- everyone except hard-boiled private detective H. Phillip Lovecraft, who refuses for \"personal reasons.\" Lovecraft is hired by a mysterious rich man to recover a stolen book, the Necronomicon. Investigating, he finds that the book holds the key to taking over the world by magical means, releasing the \"Old Ones\". (Contains several in-jokes to H.P. Lovecraft's horror fiction and also the hard-boiled detective genre.)", 
+    "genres": "Comedy, Fantasy, Horror", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Being a zombie makes it even worse.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Witch: Hypolita Kropotkin", 
+                "id": "HotWitch"
+            }, 
+            {
+                "adjectives": [
+                    "song"
+                ], 
+                "role": "Cast a Deadly Spell. When we first see Connie Stone (Julianne Moore), she's singing a song in Harry Bordon's nightclub. You can watch her performance here.", 
+                "id": "TheChanteuse"
+            }, 
+            {
+                "adjectives": [
+                    "song"
+                ], 
+                "role": "The Chanteuse: When we first see Connie Stone, she's singing a song in Harry Bordon's nightclub. Here's a video of the scene.", 
+                "id": "TheChanteuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0101550", 
+    "poster_url": "CastADeadlySpell.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChanteuse", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }, 
+        {
+            "shared": [
+                "HotWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "KissOfTheSpiderWoman", 
+            "name": "Kiss of the Spider Woman", 
+            "poster_url": "KissOfTheSpiderWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }
+    ], 
+    "id": "CastADeadlySpell", 
+    "name": "Cast a Deadly Spell"
+}

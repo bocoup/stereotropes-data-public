@@ -1,0 +1,96 @@
+{
+    "plot": "When a mutual friend is killed by a mob boss, two con men, one experienced and one young try to get even by pulling off the big con on the mob boss. The story unfolds with several twists and last minute alterations.", 
+    "genres": "Comedy, Crime, Drama", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "old", 
+                    "old"
+                ], 
+                "role": "An old Burlesque joke, which shows up in The Sting, told by Leonard Barr, an old Burlesque comic. The punchline is, \"Yeah, but this one's eating my popcorn!\"", 
+                "id": "GagPenis"
+            }, 
+            {
+                "adjectives": [
+                    "old", 
+                    "comic"
+                ], 
+                "role": "Gag Penis: An old burlesque joke told by burlesque comic Leonard Barr. The punchline is, \"Yeah, but this one's eating my popcorn!\"", 
+                "id": "GagPenis"
+            }, 
+            {
+                "adjectives": [
+                    "weary", 
+                    "big", 
+                    "up-and-coming"
+                ], 
+                "role": "The Loins Sleep Tonight: The weary Gondorff the night before the big con. Used as counterpoint to the up-and-coming Hooker, who scores a one night stand.", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Billie, the madam who runs a whorehouse and carousel is Gondorf's girlfriend, who apparently loves him.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070735", 
+    "poster_url": "TheSting.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "MidnightCowboy", 
+            "name": "Midnight Cowboy", 
+            "poster_url": "MidnightCowboy.jpg"
+        }, 
+        {
+            "shared": [
+                "GagPenis", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "GagPenis"
+            ], 
+            "shared_count": 2, 
+            "id": "Unforgiven", 
+            "name": "Unforgiven", 
+            "poster_url": "Unforgiven.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "Pusher", 
+            "name": "Pusher"
+        }, 
+        {
+            "shared": [
+                "GagPenis", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "Nekromantik", 
+            "name": "Nekromantik", 
+            "poster_url": "Nekromantik.jpg"
+        }
+    ], 
+    "id": "TheSting", 
+    "name": "The Sting"
+}

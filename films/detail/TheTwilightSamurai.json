@@ -1,0 +1,161 @@
+{
+    "plot": "Seibei Iguchi, a low-ranking samurai, leads a life without glory as a bureaucrat in the mid-XIX century Japan. A widower, he has charge of two daughters (whom he adores) and a senile mother; he must therefore work in the fields and accept piecework to make ends meet. New prospects seem to open up when Tomoe, his long-time love, divorces a brutal husband. However, even as the Japanese feudal system is unraveling, Seibei remains bound by the code of honour of the samurai and by his own sense of social precedences. The consequences are cruel.", 
+    "genres": "Drama, Romance", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy -  Tomoe.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock - Captain Koda. Or at least the samurai equivalent. See Jerk Ass, above.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "few", 
+                    "major", 
+                    "vast"
+                ], 
+                "role": "Samurai - Except for a few servants, peasants, villagers, and nobleman \u2014 none of them major characters \u2014 all the males in the film are {{samurai} but the vast majority of them are bureaucrats more than soldiers.", 
+                "id": "Samurai"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "late", 
+                    "different", 
+                    "different"
+                ], 
+                "role": "Alpha Bitch - Arguably Iinuma's wife, at least at times. Not so much how she is as how we get to see her \u2014 namely, meddling. Possibly Seibei's late wife. Difficult to know, since we never see her alive and different people project different things on her.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomoe is a doting substitute parent \u2014 crossed with a Cool Big Sis.  By the end of the film, we learn from the narrator, she has also been a doting stepparent.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel - Tomoe.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl - Admittedly, Tomoe but she's an older and wiser Manic Pixie Dream Girl.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "sick", 
+                    "infectious"
+                ], 
+                "role": "Missing Mom - In the opening seconds of the film, Seibei's daughters, Kayano and Ito, lose their mother to tuberculosis. Actually, because she had been so sick and so infectious, in a way they had already lost her three years earlier.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "ordinary", 
+                    "little"
+                ], 
+                "role": "If you listen to the dialogue, both Seibei's daughters are addressed as Ojou because they are of the Samurai class. In practice though, they are just ordinary little girls.", 
+                "id": "Ojou"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl - Tomoe.", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "awful", 
+                    "sad", 
+                    "serious"
+                ], 
+                "role": "Tomboy - Tomoe, when she was a child. She indicates this in the scene where she teases Seibei (and also, subtly, flirts with him) by telling his daughters Kayano and Ito right in front of him how awful it is to be a girl, and how sad she was when she reached Kayano's age and had to give up climbing trees and playing with boys and exchange it for being ladylike and learning to sew kimono. In spite of her faintly mocking tone, she's clearly serious.", 
+                "id": "Tomboy"
+            }, 
+            {
+                "adjectives": [
+                    "lady-like", 
+                    "'doormat", 
+                    "bad"
+                ], 
+                "role": "Yamato Nadeshiko: Discussed by Tomoe with Seibei's daughters: women are supposed to be lady-like and sew and are not supposed to climb trees. This does not mean 'doormat' as Tomoe herself left a bad husband rather than stay there and exploits his return to net herself a better one.", 
+                "id": "YamatoNadeshiko"
+            }
+        ]
+    }, 
+    "imdbid": "tt0351817", 
+    "poster_url": "TheTwilightSamurai.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "DamselInDistress", 
+                "PluckyGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "PluckyGirl", 
+                "YamatoNadeshiko", 
+                "Ojou"
+            ], 
+            "shared_count": 4, 
+            "id": "StreetFighter", 
+            "name": "Street Fighter", 
+            "poster_url": "StreetFighter.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "DoggedNiceGuy", 
+                "PluckyGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MissingMom", 
+                "PluckyGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "PluckyGirl", 
+                "JerkJock", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "LittleGiants", 
+            "name": "Little Giants", 
+            "poster_url": "LittleGiants.jpg"
+        }
+    ], 
+    "id": "TheTwilightSamurai", 
+    "name": "The Twilight Samurai"
+}

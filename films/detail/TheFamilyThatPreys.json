@@ -1,0 +1,95 @@
+{
+    "plot": "Alice Pratt, a hard working Christian woman, raised her two daughters while managing a simple diner of her own. Her snobbish and arrogant daughter Andrea graduated in Economic Science and works in a construction corporation while her sister Pam stayed with Alice and worked in the diner. Andrea is married to construction worker Chris, who works in the same corporation as his wife but dreams of starting up his own business. However she is being unfaithful to him - with their boss William Cartwright. William is the son of Alice's best friend, the wealthy Charlotte Cartwright. While Alice travels with Charlotte on a road trip, the ambition and infidelity of William triggers a series of events that will affect relationships in both families.", 
+    "genres": "Drama", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "single"
+                ], 
+                "role": "Henpecked Husband: Andrea's husband, and it is not Played for Laughs. She emasculates him at every single opportunity and viciously shoots down any attempts of his to be a loving man towards her.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "nice", 
+                    "bad"
+                ], 
+                "role": "Cool Old Lady: Charlotte isn't a nice woman, but she's definitely a bad ass.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: Played with in the character Charlotte, but ultimately averted.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Andrea, in spades.", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt1142798", 
+    "poster_url": "TheFamilyThatPreys.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "CoolOldLady", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWitchesOfEastwick", 
+            "name": "The Witches of Eastwick", 
+            "poster_url": "TheWitchesOfEastwick.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "WhatAGirlWants", 
+            "name": "What a Girl Wants", 
+            "poster_url": "WhatAGirlWants.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRef", 
+            "name": "The Ref", 
+            "poster_url": "TheRef.jpg"
+        }
+    ], 
+    "id": "TheFamilyThatPreys", 
+    "name": "The Family That Preys"
+}

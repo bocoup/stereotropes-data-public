@@ -1,0 +1,88 @@
+{
+    "plot": "Queen Elizabeth is running this show. The men in her court should be thinking about how to add to the glory of the Elizabethan Age and how to foil those pesky Spanish who got far too much influence in England when her older sister Mary was on the throne after their father Henry VIII was succeeded by their sickly half brother. Elizabeth thinks Michael Ingolby can do great things. Michael is mostly thinking about one of Elizabeth's ladies in waiting, Cynthia. Soon his mind is on survival when Elizabeth sends him on a voyage to Spain.", 
+    "genres": "Adventure, History, Romance", 
+    "release_year": "1937", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Ele\u00f1a", 
+                    "due\u00f1a", 
+                    "English-style"
+                ], 
+                "role": "Grande Dame: Ele\u00f1a's due\u00f1a, who is scandalized by the girl's \"mannerless\" English-style behaviour.", 
+                "id": "GrandeDame"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "The High Queen: Elizabeth", 
+                "id": "TheHighQueen"
+            }, 
+            {
+                "adjectives": [
+                    "own", 
+                    "future"
+                ], 
+                "role": "The Woman Wearing the Queenly Mask: Elizabeth, who is riddled with fears for her country's and her own future, regrets for her lost beauty, jealousy of Cynthia's youth, beauty, and relationship with Michael, and guilt for her execution of Mary, Queen of Scots.", 
+                "id": "TheWomanWearingTheQueenlyMask"
+            }
+        ]
+    }, 
+    "imdbid": "tt0028872", 
+    "poster_url": "FireOverEngland.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheWomanWearingTheQueenlyMask", 
+                "GrandeDame", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 3, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "TheWomanWearingTheQueenlyMask", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }, 
+        {
+            "shared": [
+                "TheWomanWearingTheQueenlyMask", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "Elizabeth", 
+            "name": "Elizabeth", 
+            "poster_url": "Elizabeth.jpg"
+        }, 
+        {
+            "shared": [
+                "TheWomanWearingTheQueenlyMask", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "KingdomOfHeaven", 
+            "name": "Kingdom of Heaven", 
+            "poster_url": "KingdomOfHeaven.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "AnimalCrackers", 
+            "name": "Animal Crackers", 
+            "poster_url": "AnimalCrackers.jpg"
+        }
+    ], 
+    "id": "FireOverEngland", 
+    "name": "Fire Over England"
+}

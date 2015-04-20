@@ -1,0 +1,101 @@
+{
+    "plot": "A gangster boss (Ice-T) has a list of about 100 people who have screwed up at one point or another. Rather than outright killing them, he decides to have a little fun by putting all of them together in a high security prison, unarmed, and dumping bucketfulls of guns, ammo, and baseball bats on them and letting them kill each other. The final three who survive are given a prize of 10 million dollars. Let chaos reign.", 
+    "genres": "Action, Crime, Thriller", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Lou.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: D", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "main", 
+                    "much"
+                ], 
+                "role": "Faux Action Girl: Cam, random witness thrown in the game. She tries to kill, but fails, though she's the only one from four main characters who survives in the end. Yet another is Barbie, who kills some people but very unprofessionally, though she's much better with it near the end of the movie.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "harmless", 
+                    "sexy", 
+                    "stupid", 
+                    "Manipulative", 
+                    "first"
+                ], 
+                "role": "Ms. Fanservice: Deconstructed with Barbie. She's a relatively harmless woman who knows she's sexy, and she knows all the men around her are too stupid to do the smart thing and just shoot her, so she distracts/teases them with her sexiness and turns into a Manipulative Bitch who will say and do anything to please the men around her. And then she'll stab them in the back or escape the first chance she gets.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119642", 
+    "poster_url": "MeanGuns.gif", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Sharknado", 
+            "name": "Sharknado"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "JohnCarter", 
+            "name": "John Carter", 
+            "poster_url": "JohnCarter.jpg"
+        }
+    ], 
+    "id": "MeanGuns", 
+    "name": "Mean Guns"
+}

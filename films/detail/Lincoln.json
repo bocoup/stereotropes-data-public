@@ -1,0 +1,94 @@
+{
+    "plot": "In 1865, as the American Civil War winds inexorably toward conclusion, U.S. president Abraham Lincoln endeavors to achieve passage of the landmark constitutional amendment which will forever ban slavery from the United States. However, his task is a race against time, for peace may come at any time, and if it comes before the amendment is passed, the returning southern states will stop it before it can become law. Lincoln must, by almost any means possible, obtain enough votes from a recalcitrant Congress before peace arrives and it is too late. Yet the president is torn, as an early peace would save thousands of lives. As the nation confronts its conscience over the freedom of its entire population, Lincoln faces his own crisis of conscience -- end slavery or end the war.", 
+    "genres": "Biography, Drama, History", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "cold", 
+                    "clear"
+                ], 
+                "role": "A Father to His Men: While Congress may have a cold attitude towards him, it's clear Lincoln loves and is loved by his soldiers.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Secretary of the Navy Gideon Welles, who keeps things going when Stanton has a temper tantrum.", 
+                "id": "FatherNeptune"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Mary, who has suffered the loss of two children, worries about her husband's safety, and fears (sadly, quite correctly) that history will remember her as a crazy woman who ruined Lincoln's happiness.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "goat", 
+                    "good-natured", 
+                    "little", 
+                    "delicious"
+                ], 
+                "role": "Spoiled Sweet: Tad has the run of the White House, wears a Union uniform, and drives a goat cart through the hallways, but he's a very good-natured little boy. A delicious bit of stage business happens when Bilbo arrives at Lincoln's office, out of breath, with the message that the House has found out about the peace delegation from the Confederacy. As Lincoln reads it, Tad runs in, hugs his dad, grabs a couple of pencils and leaves. Lincoln takes it completely in stride and goes right on with what he is doing.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0443272", 
+    "poster_url": "Lincoln.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TroopBeverlyHills", 
+            "name": "Troop Beverly Hills", 
+            "poster_url": "TroopBeverlyHills.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinAndMarian", 
+            "name": "Robin and Marian", 
+            "poster_url": "RobinAndMarian.jpg"
+        }
+    ], 
+    "id": "Lincoln", 
+    "name": "Lincoln"
+}

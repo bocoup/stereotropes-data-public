@@ -1,0 +1,82 @@
+{
+    "plot": "A runaway train carrying a cargo of toxic chemicals puts an engineer and his conductor in a race against time. They're chasing the runaway train in a separate locomotive and need to bring it under control before it derails on a curve and causes a toxic spill that will decimate a town.", 
+    "genres": "Action, Thriller", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Frank.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Chris Pine and Denzel Washington sharing a screen? Yes, please.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Bratty Teenage Daughter: Nicole is this for Frank.", 
+                "id": "BrattyTeenageDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0477080", 
+    "poster_url": "Unstoppable.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "AmericanHistoryX", 
+            "name": "American History X", 
+            "poster_url": "AmericanHistoryX.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Unknown", 
+            "name": "Unknown", 
+            "poster_url": "Unknown.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }
+    ], 
+    "id": "Unstoppable", 
+    "name": "Unstoppable"
+}

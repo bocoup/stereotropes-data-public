@@ -1,0 +1,64 @@
+{
+    "plot": "A tone deaf band (P&P) stalks their audience after their jam session in hopes to convert them as loyal fans.", 
+    "genres": "Short, Comedy", 
+    "release_year": "2013", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Emotionless Girl: Sa5m", 
+                "id": "EmotionlessGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt3257136", 
+    "similar": [
+        {
+            "shared": [
+                "EmotionlessGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLastUnicorn", 
+            "name": "The Last Unicorn", 
+            "poster_url": "TheLastUnicorn.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }
+    ], 
+    "id": "BandSlam", 
+    "name": "Band Slam"
+}

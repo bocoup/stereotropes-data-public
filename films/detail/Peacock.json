@@ -1,0 +1,72 @@
+{
+    "plot": "John Skillpa, a quiet bank clerk living in tiny Peacock, Nebraska, prefers to live an invisible life. This might have to do with John's secret: he has another personality no one knows about, a woman who each morning does his chores and cooks him breakfast before he starts his day. Then, in a moment, everything changes...", 
+    "genres": "Drama, Thriller", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: John's mom passed away a year prior to the movie, and people assume that John's isolation and awkwardness is because of this.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Implied with John's mother.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt1188113", 
+    "poster_url": "Peacock.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MissingMom", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }
+    ], 
+    "id": "Peacock", 
+    "name": "Peacock"
+}

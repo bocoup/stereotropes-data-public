@@ -1,0 +1,151 @@
+{
+    "plot": "After its victory over Leonidas' 300, the Persian Army under the command of Xerxes marches towards the major Greek city-states. The Democratic city of Athens, first on the path of Xerxes' army, bases its strength on its fleet, led by admiral Themistocles. Themistocles is forced to an unwilling alliance with the traditional rival of Athens, oligarchic Sparta whose might lies with its superior infantry troops. But Xerxes still reigns supreme in numbers over sea and land.", 
+    "genres": "Action, Drama, Fantasy", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "God-King"
+                ], 
+                "role": "Beard of Evil: Inverted. Xerxes initially has a beard, but it's gone when he becomes a God-King. His transition to God-King is however when Bald of Evil shows up.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "8-year-old"
+                ], 
+                "role": "Dirty Old Man: The guy who raped the then 8-year-old Artemesia.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "free", 
+                    "ancient", 
+                    "contrary", 
+                    "popular", 
+                    "free"
+                ], 
+                "role": "Galley Slaves: The Greek rowers don't seem to be particularly well treated, though they don't complain. They might be free men however, as ancient Greeks didn't use slaves to row in their triremes, contrary to popular belief. In contrast, the Persian rowers are slaves, chained to their posts and whipped to continue. The Greek rowers are free men, as the one time we see them they are unchained.", 
+                "id": "GalleySlave"
+            }, 
+            {
+                "adjectives": [
+                    "egalitarian", 
+                    "Dragon-in-Chief"
+                ], 
+                "role": "Subverted in 300: Rise of an Empire, in which the Persian Empire is portrayed as egalitarian enough to have the Amazonian Dark Action Girl Queen Artemisia as Emperor Xerxes's Dragon-in-Chief and leading their fleet against the Athenians.", 
+                "id": "NoWomansLand"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "able"
+                ], 
+                "role": "Action Girl: Queen Gorgo shows she's able to kill multiple Persian warriors armed with her husband's sword, and wearing a gown to boot.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "dead", 
+                    "single", 
+                    "able"
+                ], 
+                "role": "Dark Action Girl: Artemisia was trained by Persia's finest warriors until she surpassed them. Themistocles believes if he is dead, not a single man amongst the Greeks will be able to match her skill. It's proven when she cuts down multiple Greeks without breaking a sweat.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "effective"
+                ], 
+                "role": "Femme Fatale: Artemesia planned to seduce Themistocles into joining her side. While the method proves effective, things still didn't go as planned.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "sizable"
+                ], 
+                "role": "Lady of War: Artemisia and Gorgo, both of whom actually fight at Salamis and get a sizable body count.", 
+                "id": "LadyOfWar"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in Black: Artemesia. Also Queen Gorgo by the end of the film.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: Artemisia does not take kindly to Themistocles refusing to join her.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt1253863", 
+    "poster_url": "ThreeHundredRiseOfAnEmpire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DarkActionGirl", 
+                "BeardOfEvil", 
+                "WomanInBlack", 
+                "LadyOfWar", 
+                "WomanScorned", 
+                "ActionGirl"
+            ], 
+            "shared_count": 6, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "LadyOfWar", 
+                "ActionGirl", 
+                "DarkActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 5, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "LadyOfWar", 
+                "DirtyOldMan", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "LadyOfWar", 
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "LegendOfTheSeeker", 
+            "name": "Legend of the Seeker"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "ActionGirl", 
+                "DarkActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 4, 
+            "id": "StrangeDays", 
+            "name": "Strange Days", 
+            "poster_url": "StrangeDays.jpg"
+        }
+    ], 
+    "id": "ThreeHundredRiseOfAnEmpire", 
+    "name": "300: Rise of an Empire"
+}

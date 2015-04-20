@@ -1,0 +1,111 @@
+{
+    "plot": "Martin Riggs is an L.A. cop with suicidal tendencies and Roger Murtaugh is the unlucky police officer with whom Riggs is assigned. Together they uncover a huge drug-smuggling operation, and as their success rate grows so does their friendship.", 
+    "genres": "Action, Thriller", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "final", 
+                    "fourth"
+                ], 
+                "role": "Bash Brothers: Riggs and Murtaugh don't embody this trope until the final fight against Ku in the fourth movie.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gary Busey's character in Lethal Weapon holds his hand in a lighter flame until it sizzles, as a demonstration of Badass Loyalty because his boss tells him to.", 
+                "id": "MachoMasochism"
+            }, 
+            {
+                "adjectives": [
+                    "protective", 
+                    "drunk", 
+                    "protective"
+                ], 
+                "role": "Papa Wolf: Murtaugh is fiercely protective of his family, but particularly his daughter Rianne. He even punches Riggs right in the face (and overboard) after Riggs says \"I think I may have slept with someone I shouldn't have,\" leading Murtaugh to assume he was talking about Rianne. He was talking about Lorna. Granted, he was drunk at the time. This is the culmination of three films worth of tension. Murtaugh has always been protective of Rianne, and has worried that Riggs might \"go for her\".", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Lorna Cole.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "brilliant", 
+                    "different"
+                ], 
+                "role": "A brilliant parody of this trope is used in the Lethal Weapon spoof Loaded Weapon 1. A plain, dowdy woman takes off her glasses, bends over and shakes out her hair, and when she looks back up, she's a completely different actress \u2014 supermodel Kathy Ireland, in fact.", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Rene Russo's character in Lethal Weapon 4.", 
+                "id": "PregnantBadass"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093409", 
+    "poster_url": "LethalWeapon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "PregnantBadass", 
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 4, 
+            "id": "PacificRim", 
+            "name": "Pacific Rim", 
+            "poster_url": "PacificRim.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BeautifulAllAlong", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BeautifulAllAlong", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MachoMasochism", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "Predator", 
+            "name": "Predator", 
+            "poster_url": "Predator.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "LethalWeapon", 
+    "name": "Lethal Weapon"
+}

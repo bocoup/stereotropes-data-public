@@ -1,0 +1,80 @@
+{
+    "plot": "In the last moments of World War II, a secret Nazi space program evaded destruction by fleeing to the Dark Side of the Moon. During 70 years of utter secrecy, the Nazis construct a gigantic space fortress with a massive armada of flying saucers.", 
+    "genres": "Action, Comedy, Sci-Fi", 
+    "release_year": "2012", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High Heel-Face Turn: Renate realizes the horror of the Nazis and decides to reeducate the survivors on the Moon.", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mad Scientist's Beautiful Daughter: Renate.", 
+                "id": "MadScientistsBeautifulDaughter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: Do not ever piss off Vivian. She even quotes the preceding line of the poem (Hell hath no fury).", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt1034314", 
+    "poster_url": "IronSky.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRockyHorrorPictureShow", 
+            "name": "The Rocky Horror Picture Show", 
+            "poster_url": "TheRockyHorrorPictureShow.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "FlashGordon", 
+            "name": "Flash Gordon", 
+            "poster_url": "FlashGordon.jpg"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMouseThatRoared", 
+            "name": "The Mouse That Roared", 
+            "poster_url": "TheMouseThatRoared.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "IronSky", 
+    "name": "Iron Sky"
+}

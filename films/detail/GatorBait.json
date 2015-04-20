@@ -1,0 +1,82 @@
+{
+    "plot": "Desiree lives deep in the swamp and supports herself and her siblings by poaching. Ben and deputy Billy hope to get a little sexual comfort from the \"Cajun swamp rat\" when they catch Desiree trapping 'gators, and give chase. Desiree outsmarts them but Billy accidentally shoots Ben and tells his sheriff dad that Desiree did it. Ben's dad and sons join them in the search party and quickly get out of control. Soon the hunters become the hunted as Desiree exacts her revenge for their violence against her family.", 
+    "genres": "Action, Drama, Thriller", 
+    "release_year": "1974", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: Billy Boy.", 
+                "id": "CorruptHick"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "capable"
+                ], 
+                "role": "Action Girl: Desiree is easily the most capable character in the film.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "You could make the argument that Claudia Jennings played one in the trash film Gator Bait, just switch the jungle for the Louisiana bayou.", 
+                "id": "JunglePrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0074080", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "RockADoodle", 
+            "name": "Rock-A-Doodle", 
+            "poster_url": "RockADoodle.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FoxyBrown", 
+            "name": "Foxy Brown", 
+            "poster_url": "FoxyBrown.jpg"
+        }
+    ], 
+    "id": "GatorBait", 
+    "name": "Gator Bait"
+}

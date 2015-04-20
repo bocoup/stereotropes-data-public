@@ -1,0 +1,114 @@
+{
+    "plot": "In a dystopian future, the totalitarian nation of Panem is divided into 12 districts and the Capitol. Each year two young representatives from each district are selected by lottery to participate in The Hunger Games. Part entertainment, part brutal retribution for a past rebellion, the televised games are broadcast throughout Panem. The 24 participants are forced to eliminate their competitors while the citizens of Panem are required to watch. When 16-year-old Katniss' young sister, Prim, is selected as District 12's female representative, Katniss volunteers to take her place. She and her male counterpart, Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives.", 
+    "genres": "Adventure, Sci-Fi", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "opulent"
+                ], 
+                "role": "Beard of Evil: Seneca wears a Weird Beard with immaculately trimmed curlicues that is opulent, silly and sinister all at once.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "due", 
+                    "likely", 
+                    "other"
+                ], 
+                "role": "Jerk Jock: Careers, the Tributes from Districts 1 and 2, come off this way due to their district's practice of training children specifically to volunteer for the Hunger Games. As a result, they are far more likely to win than Tributes from other districts. Although, their arrogance is a flaw that can be used against them.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Also, Clove, just before Thresh grabs her and brutally kills her with his bare hands.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Waistcoat of Style: Seneca Crane.", 
+                "id": "WaistcoatOfStyle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Girlish", 
+                    "other"
+                ], 
+                "role": "Girlish Pigtails: Foxface and Prim. Peeta also recalls Katniss as a child with two braids instead of the one she wears now. Inverted with Glimmer who still manages to be pretty intimidating despite having them though hers are worn looser than the other two.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Katniss Everdeen from The Hunger Games is mentioned as having hairy legs, though it's more of a downplayed example given that it comes up only for the sake of a Painful Body Waxing scene.", 
+                "id": "HairyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "tall", 
+                    "healthy-looking", 
+                    "own"
+                ], 
+                "role": "Katniss, from The Hunger Games, is rather tall and healthy-looking for someone who nearly died of starvation as a child and hunts and kills her own food to survive.", 
+                "id": "NubileSavage"
+            }
+        ]
+    }, 
+    "imdbid": "tt1392170", 
+    "poster_url": "TheHungerGames.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "WaistcoatOfStyle", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }, 
+        {
+            "shared": [
+                "NubileSavage", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "HorribleBosses", 
+            "name": "Horrible Bosses", 
+            "poster_url": "HorribleBosses.jpg"
+        }
+    ], 
+    "id": "TheHungerGames", 
+    "name": "The Hunger Games"
+}

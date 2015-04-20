@@ -1,0 +1,62 @@
+{
+    "plot": "Comedy about two high school girls who wander off during a class trip to the White House and meet President Richard Nixon. They become the official dog walkers for Nixon's dog Checkers, and become his secret advisors during the Watergate scandal.", 
+    "genres": "Comedy", 
+    "release_year": "1999", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Smitten Teenage Girl: Arlene becomes infatuated with Nixon.", 
+                "id": "SmittenTeenageGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0144168", 
+    "poster_url": "Dick.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SmittenTeenageGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCrush", 
+            "name": "The Crush", 
+            "poster_url": "TheCrush.jpg"
+        }, 
+        {
+            "shared": [
+                "SmittenTeenageGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBachelorAndTheBobbySoxer", 
+            "name": "The Bachelor And The Bobby Soxer"
+        }, 
+        {
+            "shared": [
+                "SmittenTeenageGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ShowMeLove", 
+            "name": "Show Me Love", 
+            "poster_url": "ShowMeLove.jpg"
+        }, 
+        {
+            "shared": [
+                "SmittenTeenageGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIncredibles", 
+            "name": "The Incredibles"
+        }, 
+        {
+            "shared": [
+                "SmittenTeenageGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }
+    ], 
+    "id": "Dick", 
+    "name": "Dick"
+}

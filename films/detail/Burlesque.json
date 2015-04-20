@@ -1,0 +1,115 @@
+{
+    "plot": "The Burlesque Lounge has its best days behind it. Tess, a retired dancer and owner of the venue, struggles to keep the aging theater alive, facing all kinds of financial and artistic challenges. With the Lounge's troupe members becoming increasingly distracted by personal problems and a threat coming from a wealthy businessman's quest to buy the spot from Tess, the good fortune seems to have abandoned the club altogether. Meanwhile, the life of Ali, a small-town girl from Iowa, is about to change dramatically. Hired by Tess as a waitress at the Lounge, Ali escapes a hollow past and quickly falls in love with the art of burlesque. Backed by newfound friends amongst the theater's crew, she manages to fulfill her dreams of being on stage herself. Things take a dramatic turn though when Ali's big voice makes her become the main attraction of the revue.", 
+    "genres": "Drama, Musical, Romance", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sean"
+                ], 
+                "role": "Camp Gay: Sean.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "cautious", 
+                    "uncomfortable", 
+                    "sudden"
+                ], 
+                "role": "Dogged Nice Guy: Marcus. Ali does slowly warm up to him, but she remains cautious (and very uncomfortable about his relationship with Nikki, when all of a sudden they are Just Friends).", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Jack. Oh, Jack.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "May share the spot for Alpha Bitch with Nikki considering what we learn about her.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Nikki.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Should be expected, given the film's title and plot.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "Sean", 
+                    "disciplinarian"
+                ], 
+                "role": "Team Mom/Team Dad: Sean and Tess - but not in the way you'd first assume. Tess is the disciplinarian, the one who calls the shots and keeps the club going, making her better fit the Team Dad role. While Sean is the one to fuss over the girls and support them, making him more like a Team Mom.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt1126591", 
+    "poster_url": "Burlesque.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "CampGay", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "MrFanservice", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "PitchPerfect", 
+            "name": "Pitch Perfect", 
+            "poster_url": "PitchPerfect.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "MsFanservice", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "JustGoWithIt", 
+            "name": "Just Go With It", 
+            "poster_url": "JustGoWithIt.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoysInTheBand", 
+            "name": "The Boys in the Band", 
+            "poster_url": "TheBoysInTheBand.jpg"
+        }
+    ], 
+    "id": "Burlesque", 
+    "name": "Burlesque"
+}

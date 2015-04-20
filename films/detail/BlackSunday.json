@@ -1,0 +1,86 @@
+{
+    "plot": "A vengeful witch and her fiendish servant return from the grave and begin a bloody campaign to possess the body of the witch's beautiful look-alike descendant. Only the girl's brother and a handsome doctor stand in her way.", 
+    "genres": "Horror", 
+    "release_year": "1960", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Witch: Asa, who uses her beauty to try and lure in unsuspecting mortals to be her servant.", 
+                "id": "HotWitch"
+            }, 
+            {
+                "adjectives": [
+                    "sure", 
+                    "various", 
+                    "evil"
+                ], 
+                "role": "Wicked Witch: Asa, who, though pretty, does sure her enemies and uses her powers for various, evil purposes.", 
+                "id": "WickedWitch"
+            }, 
+            {
+                "adjectives": [
+                    "long", 
+                    "long"
+                ], 
+                "role": "Black Sunday: Princess Asa Vajda. She wears a long black gown and cape, and seduces and zombifies her victims. Averted with her descendent Princess Katia, who also wears a long black gown and cape but is the innocent heroine.", 
+                "id": "WomanInBlack"
+            }
+        ]
+    }, 
+    "imdbid": "tt0054067", 
+    "poster_url": "BlackSunday.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInBlack", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "WickedWitch", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWizardOfOz", 
+            "name": "The Wizard of Oz", 
+            "poster_url": "TheWizardOfOz.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "WickedWitch", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepyHollow", 
+            "name": "Sleepy Hollow", 
+            "poster_url": "SleepyHollow.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }
+    ], 
+    "id": "BlackSunday", 
+    "name": "Black Sunday"
+}

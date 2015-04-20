@@ -1,0 +1,80 @@
+{
+    "plot": "BELLE is inspired by the true story of Dido Elizabeth Belle (Gugu Mbatha-Raw), the illegitimate mixed race daughter of a Royal Navy Captain. Raised by her aristocratic great-uncle Lord Mansfield (Tom Wilkinson) and his wife (Emily Watson), Belle's lineage affords her certain privileges, yet the color of her skin prevents her from fully participating in the traditions of her social standing. Left to wonder if she will ever find love, Belle falls for an idealistic young vicar's son bent on change who, with her help, shapes Lord Mansfield's role as Lord Chief Justice to end slavery in England.", 
+    "genres": "Drama", 
+    "release_year": "2013", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Lady: Lady Mary, the girls' Maiden Aunt.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Elizabeth and Dido.", 
+                "id": "SpoiledSweet"
+            }, 
+            {
+                "adjectives": [
+                    "new"
+                ], 
+                "role": "Wicked Stepmother: Elizabeth's. Her father remarries and her new stepmother's child inherits, leaving her penniless and without a dowry to attract suitors.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt2404181", 
+    "poster_url": "Belle.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WickedStepmother", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "WickedStepmother"
+            ], 
+            "shared_count": 2, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "WickedStepmother"
+            ], 
+            "shared_count": 2, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "TheNightOfTheHunter", 
+            "name": "The Night of the Hunter", 
+            "poster_url": "TheNightOfTheHunter.jpg"
+        }
+    ], 
+    "id": "Belle", 
+    "name": "Belle"
+}

@@ -1,0 +1,93 @@
+{
+    "plot": "N/A", 
+    "genres": "Horror", 
+    "release_year": "2012\u2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "In Dead Man, Xebeche quotes lots of William Blake.", 
+                "id": "CulturedBadass"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "former", 
+                    "ex-lover"
+                ], 
+                "role": "In Dead Man, the former prostitute Thel barely makes it to five minutes of screen time before she's murdered by an ex-lover, creating a I Let Gwen Stacy Die situation.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "bad"
+                ], 
+                "role": "Hooker with a Heart of Gold: Thel is an ex-hooker turned paper flower maker, and takes Blake in when he has nowhere to go. It turns out to be a bad idea for both of them.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "sweet", 
+                    "young"
+                ], 
+                "role": "Thel Russel from Dead Man, a sweet and abused young woman who makes paper flowers and gets murdered at the beginning of the film.", 
+                "id": "InnocentFlowerGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt2034925", 
+    "similar": [
+        {
+            "shared": [
+                "CulturedBadass", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Unforgiven", 
+            "name": "Unforgiven", 
+            "poster_url": "Unforgiven.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Pusher", 
+            "name": "Pusher"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "TotalRecall1990", 
+            "name": "Total Recall ", 
+            "poster_url": "TotalRecall1990.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "LeavingLasVegas", 
+            "name": "Leaving Las Vegas", 
+            "poster_url": "LeavingLasVegas.jpg"
+        }
+    ], 
+    "id": "Deadman", 
+    "name": "Deadman"
+}

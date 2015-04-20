@@ -1,0 +1,81 @@
+{
+    "plot": "Young student finds himself being transformed to a vampire after a night with a quite attractive female vampire. First, he does not quite believe it himself, but with the help of a 300 year old teacher and the handbook \"vampirism - a guide to an alternative lifestyle\", he finds out that blood does not taste as bad as he expected. Of course, he does not bite women, as a good guy he sticks to pig blood which is offered by the local butcher as a special offer for vampires. Trouble rises when a vampire hunter tries to track him down with wooden sticks and silver bullets...", 
+    "genres": "Comedy, Horror, Romance", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe: Jeremy's friend Ralph.", 
+                "id": "CasanovaWannabe"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Beautiful All Along: Darla, the band nerd.", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Nora.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0095684", 
+    "poster_url": "MyBestFriendIsAVampire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveActually", 
+            "name": "Love Actually", 
+            "poster_url": "LoveActually.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Clue", 
+            "name": "Clue", 
+            "poster_url": "Clue.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSpirit", 
+            "name": "The Spirit", 
+            "poster_url": "TheSpirit.jpg"
+        }
+    ], 
+    "id": "MyBestFriendIsAVampire", 
+    "name": "My Best Friend is a Vampire"
+}

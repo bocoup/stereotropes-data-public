@@ -1,0 +1,76 @@
+{
+    "plot": "In a world filled with Mad Scientists and Evil Inventions, one talented evil scientist's hunch-backed lab assistant has big dreams of becoming a Mad Scientist himself and winning the annual Evil Science Fair.", 
+    "genres": "Animation, Comedy, Family", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "campy", 
+                    "straight"
+                ], 
+                "role": "Camp Straight: Dr. Schadenfreude can be rather campy, but he is definitely straight.", 
+                "id": "CampStraight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Jaclyn.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0465502", 
+    "poster_url": "Igor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampStraight", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWickerMan", 
+            "name": "The Wicker Man"
+        }, 
+        {
+            "shared": [
+                "CampStraight"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "Sunrise", 
+            "name": "Sunrise", 
+            "poster_url": "Sunrise.jpg"
+        }
+    ], 
+    "id": "Igor", 
+    "name": "Igor"
+}

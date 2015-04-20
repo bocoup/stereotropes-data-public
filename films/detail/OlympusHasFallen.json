@@ -1,0 +1,81 @@
+{
+    "plot": "When the White House (Secret Service Code: \"Olympus\") is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential Secret Service Agent Mike Banning finds himself trapped within the building. As our national security team scrambles to respond, they are forced to rely on Banning's inside knowledge to help retake the White House, save the President and avert an even bigger disaster.", 
+    "genres": "Action, Thriller", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Baritone: Kang.", 
+                "id": "BadassBaritone"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Waistcoat of Style: Kang wears one.", 
+                "id": "WaistcoatOfStyle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "give", 
+                    "poor"
+                ], 
+                "role": "Disposable Woman:  Ashley Judd's character is pretty much only in the movie to get killed and give Banning motivation to become a brooding Bad Ass. Also the poor unnamed intern who was shot as an example in front of the hostages to ensure their cooperation.", 
+                "id": "DisposableWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt2302755", 
+    "poster_url": "OlympusHasFallen.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisposableWoman", 
+                "BadassBaritone"
+            ], 
+            "shared_count": 2, 
+            "id": "PacificRim", 
+            "name": "Pacific Rim", 
+            "poster_url": "PacificRim.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "KamenRider", 
+            "name": "Kamen Rider"
+        }, 
+        {
+            "shared": [
+                "WaistcoatOfStyle"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "WaistcoatOfStyle"
+            ], 
+            "shared_count": 1, 
+            "id": "Jabberwocky", 
+            "name": "Jabberwocky", 
+            "poster_url": "Jabberwocky.jpg"
+        }
+    ], 
+    "id": "OlympusHasFallen", 
+    "name": "Olympus Has Fallen"
+}

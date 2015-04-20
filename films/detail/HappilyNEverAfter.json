@@ -1,0 +1,88 @@
+{
+    "plot": "As the story begins, an alliance of evil fairy tale-doers, led by Frieda, looks to take over Fairy Tale Land and take control of. But when Ella A.K.A. Cinderella realizes her own evil stepmother is out to ruin her storybook existence, she takes a dramatic turn and blossoms into the leader of the resistance effort.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Prince Charmless: Prince Humperdink.", 
+                "id": "PrinceCharmless"
+            }, 
+            {
+                "adjectives": [
+                    "happy"
+                ], 
+                "role": "The prince from Happily N'Ever After, no wonder Cinderella  married a commoner.\n Somewhat subverted in that he is  actually happy for the couple.", 
+                "id": "PrinceCharmless"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Blondes are Evil: The Stepmother.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Played with. Prince Humperdink hopes Ella is one, but in the end she kicks more ass than he does.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0308353", 
+    "poster_url": "HappilyNEverAfter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrinceCharmless", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharmless", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMask", 
+            "name": "The Mask", 
+            "poster_url": "TheMask.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "IndianaJonesAndTheLastCrusade", 
+            "name": "Indiana Jones and the Last Crusade", 
+            "poster_url": "IndianaJonesAndTheLastCrusade.jpg"
+        }
+    ], 
+    "id": "HappilyNEverAfter", 
+    "name": "Happily N'Ever After"
+}

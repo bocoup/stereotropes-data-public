@@ -1,0 +1,84 @@
+{
+    "plot": "Tells the story of a vampire relic with occult powers that falls into the hands of a grief-stricken young woman who will do anything to contact her dead brother.", 
+    "genres": "Horror", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Lesbian Vampire:  Rebecca and Angie.", 
+                "id": "LesbianVampire"
+            }, 
+            {
+                "adjectives": [
+                    "good", 
+                    "dead", 
+                    "smile", 
+                    "level-headed", 
+                    "entire"
+                ], 
+                "role": "Jill from The Dead Matter, who loves nothing more than a good seance, and calls dead spirits with a smile! She's also the most level-headed of the entire group when it comes to logically dealing with the Zombie Apocalypse.", 
+                "id": "PerkyGoth"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Perky Goth: Jill.", 
+                "id": "PerkyGoth"
+            }
+        ]
+    }, 
+    "imdbid": "tt1055363", 
+    "poster_url": "TheDeadMatter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PerkyGoth", 
+                "LesbianVampire"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheNight", 
+            "name": "We Are the Night", 
+            "poster_url": "WeAreTheNight.jpg"
+        }, 
+        {
+            "shared": [
+                "LesbianVampire"
+            ], 
+            "shared_count": 1, 
+            "id": "RazorBladeSmile", 
+            "name": "Razor Blade Smile", 
+            "poster_url": "RazorBladeSmile.jpg"
+        }, 
+        {
+            "shared": [
+                "LesbianVampire"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLairOfTheWhiteWorm", 
+            "name": "The Lair of the White Worm", 
+            "poster_url": "TheLairOfTheWhiteWorm.jpg"
+        }, 
+        {
+            "shared": [
+                "PerkyGoth"
+            ], 
+            "shared_count": 1, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "PerkyGoth"
+            ], 
+            "shared_count": 1, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }
+    ], 
+    "id": "TheDeadMatter", 
+    "name": "The Dead Matter"
+}

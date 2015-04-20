@@ -1,0 +1,78 @@
+{
+    "plot": "Jennifer Corvino, the daughter of a famous actor, has had trouble with sleepwalking for some time. Her doctor said that it can develop a split personality. She discovers her alternate personality when she stays at a boarding school that was once the home a Richard Wagner. But someone has been killing the students, and it relates only indirectly to the criminal sanitorium nearby. So it's up to \"the two greatest detectives the world has ever known, or should I say, unknown\"", 
+    "genres": "Horror, Mystery", 
+    "release_year": "1985", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "sinister"
+                ], 
+                "role": "Mama Bear: Frau Br\u00fcckner is a sinister version.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "iconic"
+                ], 
+                "role": "Woman in White: Jennifer in the most iconic scenes.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087909", 
+    "poster_url": "Phenomena.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MamaBear", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRing", 
+            "name": "The Ring", 
+            "poster_url": "TheRing.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteATaleOfTerror", 
+            "name": "Snow White: A Tale of Terror", 
+            "poster_url": "SnowWhiteATaleOfTerror.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }
+    ], 
+    "id": "Phenomena", 
+    "name": "Phenomena"
+}

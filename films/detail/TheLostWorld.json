@@ -1,0 +1,70 @@
+{
+    "plot": "Explorer Professor Challenger is taking quite a beating in the London press thanks to his claim that living dinosaurs exist in the far reaches of the Amazon. Newspaper reporter Edward Malone learns that this claim originates from a diary given to him by fellow explorer Maple White's daughter, Paula. Malone's paper funds an expedition to rescue Maple White, who has been marooned at the top of a high plateau. Joined by renowned hunter John Roxton, and others, the group goes to South America, where they do indeed find a plateau inhabited by pre-historic creatures, one of which they even manage to bring back to London with them.", 
+    "genres": "Adventure, Fantasy", 
+    "release_year": "1925", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beast Man: Apeman.", 
+                "id": "BeastMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gentleman Adventurer: Sir John Roxton", 
+                "id": "GENTLEMANADVENTURER"
+            }
+        ]
+    }, 
+    "imdbid": "tt0016039", 
+    "poster_url": "TheLostWorld.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScarletPimpernel", 
+            "name": "The Scarlet Pimpernel", 
+            "poster_url": "TheScarletPimpernel.jpg"
+        }, 
+        {
+            "shared": [
+                "BeastMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }, 
+        {
+            "shared": [
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 1, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }, 
+        {
+            "shared": [
+                "BeastMan"
+            ], 
+            "shared_count": 1, 
+            "id": "XMen", 
+            "name": "X-Men", 
+            "poster_url": "XMen.jpg"
+        }
+    ], 
+    "id": "TheLostWorld", 
+    "name": "The Lost World"
+}

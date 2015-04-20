@@ -1,0 +1,129 @@
+{
+    "plot": "The lives of an eclectic group of men who live in an affluent Detroit suburb in the '70s are forever changed by their obsession with five sisters.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "crush", 
+                    "elusive", 
+                    "further"
+                ], 
+                "role": "Lady Killer In Love: Trip develops a intense and passionate crush on the elusive Lux, having previously never had more than a passing interest in any girl. However, after they have sex on the football field he \"just gets sick of her right then and there\", leaves, and the two of them have no further contact.", 
+                "id": "LadyKillerInLove"
+            }, 
+            {
+                "adjectives": [
+                    "weak", 
+                    "ineffectual"
+                ], 
+                "role": "Standard '50s Father: Subverted with the weak and ineffectual Mr. Lisbon. Any attempt he makes in being this is to no use as his family crumbles around him.", 
+                "id": "StandardFiftiesFather"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Charmer: Trip Fontaine has shades of this. He is generally quite gentlemanly about his conquests.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: Mrs. Lisbon. Oh God Mrs. Lisbon... Knight Templar Parent: Ultimately though, she just wants to protect the girls. She just gets a little nuts about it.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "second", 
+                    "old", 
+                    "only", 
+                    "sexual"
+                ], 
+                "role": "Lux Lisbon in The Virgin Suicides, she's the second youngest (14 years old)  and the only one who had sexual intercourses among her sisters.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [
+                    "hard-to-approach"
+                ], 
+                "role": "Girl Next Door: The Lisbon girls, though they are of a particularly hard-to-approach variety.", 
+                "id": "GirlNextDoor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Mrs. Lisbon. Dear god Mrs. Lisbon.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: The Lisbon sisters represent a more subdued type to the narrators.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Virgin Suicides, commented on in the movie.", 
+                "id": "TheUglyGuysHotDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0159097", 
+    "poster_url": "TheVirginSuicides.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyKillerInLove", 
+                "TheCharmer", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "LadyKillerInLove", 
+                "TheCharmer"
+            ], 
+            "shared_count": 3, 
+            "id": "MansfieldPark", 
+            "name": "Mansfield Park", 
+            "poster_url": "MansfieldPark.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyKillerInLove", 
+                "TheCharmer", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }
+    ], 
+    "id": "TheVirginSuicides", 
+    "name": "The Virgin Suicides"
+}

@@ -1,0 +1,68 @@
+{
+    "plot": "The impressionistic story of a Texas family in the 1950s. The film follows the life journey of the eldest son, Jack, through the innocence of childhood to his disillusioned adult years as he tries to reconcile a complicated relationship with his father (Brad Pitt). Jack (played as an adult by Sean Penn) finds himself a lost soul in the modern world, seeking answers to the origins and meaning of life while questioning the existence of faith.", 
+    "genres": "Drama, Fantasy", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "grim", 
+                    "active"
+                ], 
+                "role": "Standard '50s Father: A rather grim example, also including elements of Dad the Veteran (although he is still in active service during the movie, it seems) and Tough Love.", 
+                "id": "StandardFiftiesFather"
+            }
+        ]
+    }, 
+    "imdbid": "tt0478304", 
+    "poster_url": "TheTreeOfLife.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StandardFiftiesFather"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWoman", 
+            "name": "The Woman", 
+            "poster_url": "TheWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "StandardFiftiesFather"
+            ], 
+            "shared_count": 1, 
+            "id": "VanillaSky", 
+            "name": "Vanilla Sky", 
+            "poster_url": "VanillaSky.jpg"
+        }, 
+        {
+            "shared": [
+                "StandardFiftiesFather"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDish", 
+            "name": "The Dish", 
+            "poster_url": "TheDish.jpg"
+        }, 
+        {
+            "shared": [
+                "StandardFiftiesFather"
+            ], 
+            "shared_count": 1, 
+            "id": "ItsAWonderfulLife", 
+            "name": "It's a Wonderful Life", 
+            "poster_url": "ItsAWonderfulLife.jpg"
+        }, 
+        {
+            "shared": [
+                "StandardFiftiesFather"
+            ], 
+            "shared_count": 1, 
+            "id": "TheStepfather", 
+            "name": "The Stepfather", 
+            "poster_url": "TheStepfather.jpg"
+        }
+    ], 
+    "id": "TheTreeOfLife", 
+    "name": "The Tree of Life"
+}

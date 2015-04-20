@@ -1,0 +1,80 @@
+{
+    "plot": "Lana Turner is a female American journalist who has an affair with BBC war correspondent, Sean Connery, during WWII. When Connery is killed in action, Turner returns to his hometown to console his wife.", 
+    "genres": "Drama, Romance, War", 
+    "release_year": "1958", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "initial"
+                ], 
+                "role": "Luigi in Another Time, Another Place is a bit of a graceless sleazebag, but at least he does take Janie's initial rejections gracefully and he doesn't browbeat her about it.", 
+                "id": "ChivalrousPervert"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "The female villagers in Another Time, Another Place.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Janie from Another Time, Another Place, but out of necessity rather than preference.", 
+                "id": "OutdoorsyGal"
+            }
+        ]
+    }, 
+    "imdbid": "tt0051364", 
+    "similar": [
+        {
+            "shared": [
+                "GossipyHens"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "GossipyHens"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }
+    ], 
+    "id": "AnotherTimeAnotherPlace", 
+    "name": "Another Time, Another Place"
+}

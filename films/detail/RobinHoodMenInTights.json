@@ -1,0 +1,136 @@
+{
+    "plot": "The standard story of Robin Hood: Evil Prince John is oppressing the people while good King Richard is away on the Crusades. Robin steals from the tax collectors, wins an archery contest, defeats the Sheriff, and rescues Maid Marian. In this version, however, Mel Brooks adds his own personal touch, parodying traditional adventure films, romance films, and the whole idea of men running around the woods in tights.", 
+    "genres": "Adventure, Comedy, Musical", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "complimentary"
+                ], 
+                "role": "Beard of Sorrow: They're complimentary at the Khalil Prison, so everyone fits in.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "popular", 
+                    "much"
+                ], 
+                "role": "Occurs as a throwaway gag in Robin Hood: Men in Tights: Rabbi Tuckman (Mel Brooks) offers the procedure to the Merry Men, claiming that it will make them more popular with the ladies. When they find out that his method takes away much more than just the foreskin (and employs a miniature guillotine) they quickly decline.", 
+                "id": "CircumcisionAngst"
+            }, 
+            {
+                "adjectives": [
+                    "suggestive", 
+                    "spontaneous"
+                ], 
+                "role": "Gag Penis: By way of a suggestive shadow puppet and a scabbard. It makes the Merry Men burst into spontaneous applause.", 
+                "id": "GagPenis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pretty Boy: Will Scarlet O'Hara.", 
+                "id": "PrettyBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "In Robin Hood: Men in Tights, Prince John's mole moves around his face, seemingly at random.", 
+                "id": "BeautyMark"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Brawn Hilda: Broomhilde.", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [
+                    "unattractive"
+                ], 
+                "role": "Robin Hood: Men in Tights parodies Maid Marian's lady in waiting in Robin Hood: Prince of Thieves; she's even named \"Broomhilde.\" Little John, however, definitely doesn't see her as unattractive...", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Godiva Hair: Maid Marian coming out of the bath.", 
+                "id": "GodivaHair"
+            }, 
+            {
+                "adjectives": [
+                    "Marian", 
+                    "primary"
+                ], 
+                "role": "In Robin Hood: Men in Tights, when Marian steps out of the bath. The camera's primary attention may be on her chastity belt, but her (awful) wig provides Godiva Hair coverage for her breasts.", 
+                "id": "GodivaHair"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Matron Chaperone: Brumhilde. Her entire job is to ensure that Maid Marian stays that way.", 
+                "id": "MatronChaperone"
+            }, 
+            {
+                "adjectives": [
+                    "Marian", 
+                    "painful"
+                ], 
+                "role": "Neutral Female: Marian to a painful extent during the swordfight between Robin and the Sheriff. She doesn't even try to get off the bed.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107977", 
+    "poster_url": "RobinHoodMenInTights.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "GagPenis", 
+                "GodivaHair"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "BrawnHilda", 
+                "GodivaHair"
+            ], 
+            "shared_count": 3, 
+            "id": "FairyTail", 
+            "name": "Fairy Tail"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "BrawnHilda"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "GodivaHair"
+            ], 
+            "shared_count": 2, 
+            "id": "SpaceMutiny", 
+            "name": "Space Mutiny"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BeautyMark"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "RobinHoodMenInTights", 
+    "name": "Robin Hood: Men in Tights"
+}

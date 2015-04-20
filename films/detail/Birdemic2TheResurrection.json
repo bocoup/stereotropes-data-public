@@ -1,0 +1,63 @@
+{
+    "plot": "A platoon of eagles and vultures attack Hollywood, California. Why did the eagles and vultures attack? Who will survive?", 
+    "genres": "Action, Comedy, Horror", 
+    "release_year": "2013", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Natahlie sure does show off her fancy gun work and punching abilities against those birds!", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1674047", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ToTheLimit", 
+            "name": "To The Limit", 
+            "poster_url": "ToTheLimit.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExtraordinaryAdventuresOfAdeleBlancSec", 
+            "name": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec"
+        }
+    ], 
+    "id": "Birdemic2TheResurrection", 
+    "name": "Birdemic 2: The Resurrection"
+}

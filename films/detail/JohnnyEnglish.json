@@ -1,0 +1,89 @@
+{
+    "plot": "Rowan plays the eponymous lead character in a spoof spy thriller. During the course of the story we follow our hero as he attempts to single-handedly save the country from falling into the hands of a despot.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "stubble", 
+                    "fast"
+                ], 
+                "role": "Beard of Sorrow: The stubble kicks in fast when Johnny is suspended from duty.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "legitimate", 
+                    "distant", 
+                    "British"
+                ], 
+                "role": "The Evil Prince: Sauvage's family used to have a legitimate, if distant, claim to the British throne, which he views as taken from him unfairly.", 
+                "id": "TheEvilPrince"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Lorna Campbell", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0274166", 
+    "poster_url": "JohnnyEnglish.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "TheEvilPrince", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "TheEvilPrince", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }
+    ], 
+    "id": "JohnnyEnglish", 
+    "name": "Johnny English"
+}

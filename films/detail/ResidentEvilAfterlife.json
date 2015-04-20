@@ -1,0 +1,77 @@
+{
+    "plot": "In a world ravaged by a virus infection, turning its victims into the Undead, Alice (Jovovich), continues on her journey to find survivors and lead them to safety. Her deadly battle with the Umbrella Corporation reaches new heights, but Alice gets some unexpected help from an old friend. A new lead that promises a safe haven from the Undead takes them to Los Angeles, but when they arrive the city is overrun by thousands of Undead - and Alice and her comrades are about to step into a deadly trap.", 
+    "genres": "Action, Adventure, Horror", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bald Black Leader Guy: Luther West seems to serve as the de facto leader of the survivors.", 
+                "id": "BaldBlackLeaderGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Alice. Also Claire.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1220634", 
+    "poster_url": "ResidentEvilAfterlife.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheScorpionKing", 
+            "name": "The Scorpion King", 
+            "poster_url": "TheScorpionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ReignOfFire", 
+            "name": "Reign of Fire", 
+            "poster_url": "ReignOfFire.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "GIJoeRetaliation", 
+            "name": "G.I. Joe: Retaliation", 
+            "poster_url": "GIJoeRetaliation.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMatrix", 
+            "name": "The Matrix", 
+            "poster_url": "TheMatrix.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFifthElement", 
+            "name": "The Fifth Element", 
+            "poster_url": "TheFifthElement.jpg"
+        }
+    ], 
+    "id": "ResidentEvilAfterlife", 
+    "name": "Resident Evil: Afterlife"
+}

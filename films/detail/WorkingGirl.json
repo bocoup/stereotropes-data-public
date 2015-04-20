@@ -1,0 +1,98 @@
+{
+    "plot": "Tess McGill is a frustrated secretary, struggling to forge ahead in the world of big business in New York. She gets her chance when her boss breaks her leg on a skiing holiday. McGill takes advantage of her absence to push ahead with her career. She teams up with investment broker Jack Trainer to work on a big deal. The situation is complicated after the return of her boss.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sharp-Dressed"
+                ], 
+                "role": "Sharp-Dressed Man: Jack Trainer.", 
+                "id": "SharpDressedMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Harrison Ford provides Fanservice to his typing pool. Alec Baldwin also has a couple, showing off his Carpet of Virility.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "due"
+                ], 
+                "role": "Broken Bird: Jack Trainer, due to his Back Story.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Office Girl: Tess McGill is one of the trope namers.", 
+                "id": "PluckyOfficeGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tess McGill, Melanie Griffith's character in Working Girl.", 
+                "id": "PluckyOfficeGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0096463", 
+    "poster_url": "WorkingGirl.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "ShirtlessScene", 
+                "BrokenBird"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "ShirtlessScene", 
+                "BrokenBird"
+            ], 
+            "shared_count": 3, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "WorkingGirl", 
+    "name": "Working Girl"
+}

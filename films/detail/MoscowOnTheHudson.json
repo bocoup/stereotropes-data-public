@@ -1,0 +1,77 @@
+{
+    "plot": "A Russian circus visits the US. A clown wants to defect, but doesn't have the nerve. His saxophone playing friend however comes to the decision to defect in the middle of Bloomingdales. He is befriended by the black security guard and falls in love with the Italian immigrant from behind the perfume counter. We follow his life as he works his way through the American dream and tries to find work as a musician.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "dangerous", 
+                    "anti-Soviet"
+                ], 
+                "role": "Badass Grandpa: In Russia, Vladimir is a buffer between the KGB and his crazy grandfather, who has a dangerous habit of defiantly shouting anti-Soviet invectives out the window.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene", 
+                "id": "WalkingShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087747", 
+    "poster_url": "MoscowOnTheHudson.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheDarkKnightReturns", 
+            "name": "Batman: The Dark Knight Returns", 
+            "poster_url": "BatmanTheDarkKnightReturns.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "Bloodsport", 
+            "name": "Bloodsport", 
+            "poster_url": "Bloodsport.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "LegendOfTheSeeker", 
+            "name": "Legend of the Seeker"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuPanda", 
+            "name": "Kung Fu Panda", 
+            "poster_url": "KungFuPanda.jpg"
+        }
+    ], 
+    "id": "MoscowOnTheHudson", 
+    "name": "Moscow On The Hudson"
+}

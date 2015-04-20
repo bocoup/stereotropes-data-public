@@ -1,0 +1,79 @@
+{
+    "plot": "Prince Ahmad is the rightful King of Bagdad but he has been blinded and cast out as a beggar. Now a captive of the wicked Grand Vizier Jaffar he is cast into a dungeon where he meets Abu, the best thief in all Bagdad. Together they escape and set about a series of adventures that involve a Djinni in a bottle, a mechanical flying horse, an all-seeing magic jewel, a flying carpet and a beautiful princess.", 
+    "genres": "Adventure, Family, Fantasy", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene: Douglas Fairbanks is shirtless for most of the movie.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "evil"
+                ], 
+                "role": "Distressed Damsel: The princess, who is poisoned or threatened by evil Mongols from time to time.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0033152", 
+    "poster_url": "TheThiefOfBagdad1924.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "ClashOfTheTitans", 
+            "name": "Clash of the Titans", 
+            "poster_url": "ClashOfTheTitans.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Tarzan", 
+            "name": "Tarzan", 
+            "poster_url": "Tarzan.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "HouseOfWax", 
+            "name": "House of Wax", 
+            "poster_url": "HouseOfWax.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "ShowdownInLittleTokyo", 
+            "name": "Showdown in Little Tokyo", 
+            "poster_url": "ShowdownInLittleTokyo.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }
+    ], 
+    "id": "TheThiefOfBagdad1924", 
+    "name": "The Thief Of Bagdad"
+}

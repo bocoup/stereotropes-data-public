@@ -1,0 +1,90 @@
+{
+    "plot": "Bruce Nolan, a television reporter in Buffalo, N.Y., is discontented with almost everything in life despite his popularity and the love of his girlfriend Grace . At the end of the worst day of his life, Bruce angrily ridicules and rages against God and God responds. God appears in human form and, endowing Bruce with divine powers, challenges Bruce to take on the big job to see if he can do it any better.", 
+    "genres": "Comedy, Drama, Fantasy", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Man in White: God is depicted this way.", 
+                "id": "ManInWhite"
+            }, 
+            {
+                "adjectives": [
+                    "straightforward"
+                ], 
+                "role": "The trope image comes from Bruce Almighty, where, in a slightly more straightforward Light is Good example, God dons a pristine white suit.", 
+                "id": "ManInWhite"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "blue", 
+                    "on-screen", 
+                    "good"
+                ], 
+                "role": "Bruce Almighty. The girl in the blue sundress is on-screen for all of 5 seconds, during which Bruce (on whom God has bestowed all His powers) uses his powers to blow up her dress to do a panty check. Actress Rina Fernandez gets 32nd billing in the movie as \"Beautiful Woman\" , and we never even get a good look at her face.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Bruce Almighty, it's implied that Bruce uses his newfound God powers to increase his girlfriend's boob size.", 
+                "id": "GagBoobs"
+            }
+        ]
+    }, 
+    "imdbid": "tt0315327", 
+    "poster_url": "BruceAlmighty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "GagBoobs"
+            ], 
+            "shared_count": 2, 
+            "id": "LiarLiar", 
+            "name": "Liar Liar", 
+            "poster_url": "LiarLiar.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "GagBoobs"
+            ], 
+            "shared_count": 2, 
+            "id": "HaroldAndKumarEscapeFromGuantanamoBay", 
+            "name": "Harold & Kumar Escape from Guantanamo Bay", 
+            "poster_url": "HaroldAndKumarEscapeFromGuantanamoBay.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekIIITheSearchForSpock", 
+            "name": "Star Trek III: The Search for Spock", 
+            "poster_url": "StarTrekIIITheSearchForSpock.jpg"
+        }, 
+        {
+            "shared": [
+                "ManInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "RaidersOfTheLostArk", 
+            "name": "Raiders of the Lost Ark", 
+            "poster_url": "RaidersOfTheLostArk.jpg"
+        }, 
+        {
+            "shared": [
+                "ManInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "CapeFear", 
+            "name": "Cape Fear", 
+            "poster_url": "CapeFear.jpg"
+        }
+    ], 
+    "id": "BruceAlmighty", 
+    "name": "Bruce Almighty"
+}

@@ -1,0 +1,83 @@
+{
+    "plot": "Vada Sultenfuss is obsessed with death. Her mother is dead, and her father runs a funeral parlor. She is also in love with her English teacher, and joins a poetry class over the summer just to impress him. Thomas J., her best friend, is \"allergic to everything\", and sticks with Vada despite her hangups. When Vada's father hires Shelly, a makeup expert, in his funeral parlor, and begins to fall in love with her, Vada is outraged and does everything in her power to split them up.", 
+    "genres": "Drama, Family, Romance", 
+    "release_year": "1991", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "creative"
+                ], 
+                "role": "Granola Girl: The creative writing class has granola girls AND guys. Then again, it is set in 1972.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [
+                    "aware", 
+                    "late"
+                ], 
+                "role": "Ill Boy: Thomas J.  This includes an allergy to bee stings, something nobody was aware of until it's too late.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102492", 
+    "poster_url": "MyGirl.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "CMeDance", 
+            "name": "C Me Dance", 
+            "poster_url": "CMeDance.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BillAndTed", 
+            "name": "Bill & Ted"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Chronicle", 
+            "name": "Chronicle", 
+            "poster_url": "Chronicle.jpg"
+        }
+    ], 
+    "id": "MyGirl", 
+    "name": "My Girl"
+}

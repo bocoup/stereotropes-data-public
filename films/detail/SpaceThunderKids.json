@@ -1,0 +1,65 @@
+{
+    "plot": "Three children pilots fight against the Dark Empire on their mission to destroy the universe.", 
+    "genres": "Animation, Action, Family", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "Child Soldiers: The main characters.", 
+                "id": "ChildSoldiers"
+            }
+        ]
+    }, 
+    "imdbid": "tt1910621", 
+    "similar": [
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "TheStraightStory", 
+            "name": "The Straight Story", 
+            "poster_url": "TheStraightStory.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "SlaughterhouseFive", 
+            "name": "Slaughterhouse-Five", 
+            "poster_url": "SlaughterhouseFive.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "Soldier", 
+            "name": "Soldier", 
+            "poster_url": "Soldier.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }
+    ], 
+    "id": "SpaceThunderKids", 
+    "name": "Space Thunder Kids"
+}

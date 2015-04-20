@@ -1,0 +1,77 @@
+{
+    "plot": "Vic Brady draws young Don Gregor into a life of crime. He then blackmails Gregor's plastic surgeon father into fixing up his face so he can evade the cops.", 
+    "genres": "Crime, Film-Noir, Thriller", 
+    "release_year": "1954", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "cold-blooded", 
+                    "passionate", 
+                    "last", 
+                    "only", 
+                    "ready"
+                ], 
+                "role": "Dark Mistress: Vic Brady is a cold-blooded killer, but is passionate about his girlfriend Loretta (Theodora Thurman). He is the one who lifted her from poverty and provided her with a decent house. He warns her to never walk out on him, or it will be the last thing she does. Loretta genuinely loves him, serves as his only confidante, and is quite ready to defend him: with a gun in her hand.", 
+                "id": "DarkMistress"
+            }, 
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Missing Mom: Boris briefly mentions his dead wife. He seems to have raised his children on his own.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0047127", 
+    "poster_url": "JailBait.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekInsurrection", 
+            "name": "Star Trek: Insurrection", 
+            "poster_url": "StarTrekInsurrection.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "JailBait", 
+    "name": "Jail Bait"
+}

@@ -1,0 +1,75 @@
+{
+    "plot": "The Fighter is a drama about boxer \"Irish\" Micky Ward's unlikely road to the world light welterweight title. His Rocky-like rise was shepherded by half-brother Dicky, a boxer-turned-trainer on the verge of being KO'd by drugs and crime.", 
+    "genres": "Biography, Drama, Sport", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "long"
+                ], 
+                "role": "My Beloved Smother: Seriously, Micky is a saint for putting up with his mother for as long as he did.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Stage Mom: Alice's business is managing her kids.", 
+                "id": "StageMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0964517", 
+    "poster_url": "TheFighter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MyBelovedSmother", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Hairspray", 
+            "name": "Hairspray", 
+            "poster_url": "Hairspray.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Gypsy", 
+            "name": "Gypsy", 
+            "poster_url": "Gypsy.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }
+    ], 
+    "id": "TheFighter", 
+    "name": "The Fighter"
+}

@@ -1,0 +1,75 @@
+{
+    "plot": "A depiction of the brutal battle of Stalingrad, the Third Reich's 'high water mark', as seen through the eyes of German officer Hans von Witzland and his battalion.", 
+    "genres": "Drama, War", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "former"
+                ], 
+                "role": "Badass Baritone: Nikiforov is a former tenor and a very skilled soldier.", 
+                "id": "BadassBaritone"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Team Mom: Katya looks after the squad defending her building.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0108211", 
+    "poster_url": "Stalingrad2013.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TeamMom", 
+                "BadassBaritone"
+            ], 
+            "shared_count": 2, 
+            "id": "MirrorMirror", 
+            "name": "Mirror, Mirror"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "BadassBaritone"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHobbit", 
+            "name": "The Hobbit", 
+            "poster_url": "TheHobbit.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom"
+            ], 
+            "shared_count": 1, 
+            "id": "ALeagueOfTheirOwn", 
+            "name": "A League of Their Own", 
+            "poster_url": "ALeagueOfTheirOwn.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom"
+            ], 
+            "shared_count": 1, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom"
+            ], 
+            "shared_count": 1, 
+            "id": "EightBelow", 
+            "name": "Eight Below", 
+            "poster_url": "EightBelow.jpg"
+        }
+    ], 
+    "id": "Stalingrad2013", 
+    "name": "Stalingrad"
+}

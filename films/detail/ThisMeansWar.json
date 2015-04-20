@@ -1,0 +1,121 @@
+{
+    "plot": "Two CIA agents, Tuck and Frank who are also best friends, have been benched because someone's after them. Tuck is divorced with a son whom he's not close to and Frank is a ladies man. Tuck decides to try and find someone so he places his profile on a dating website. Lauren, a woman also looking for a guy sees Tuck's profile and goes with him. She later bumps into Frank and he hits on her and she goes out with him. She's intrigued by both of them. When they learn that they're dating the same girl, they agree to let her choose. But both can't help but use their skills to keep tabs on her and each other. And also sabotage each other's dates with her.", 
+    "genres": "Action, Comedy, Romance", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bash Brothers: FDR and Tuck.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [
+                    "fist"
+                ], 
+                "role": "Cock Fight: Tuck and FDR try to avoid this for the most part, but the more emotionally invested they become in Lauren, the more they argue  and eventually get into a fist fight.", 
+                "id": "CockFight"
+            }, 
+            {
+                "adjectives": [
+                    "Fire-Forged", 
+                    "same", 
+                    "dangerous", 
+                    "international", 
+                    "distant", 
+                    "secondary"
+                ], 
+                "role": "This Means War is about two CIA agents and Fire-Forged Friends, Tuck and FDR, using all of the resources at their disposal trying win over Lauren, a woman they both happened to meet on the same night. The fact that there is a very dangerous international terrorist seeking revenge on them for the death of his brother is actually a distant secondary plotline in comparison for most of the movie.", 
+                "id": "CockFight"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Tom Hardy. Chris Pine. In one movie. AT THE SAME TIME.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Chris Pine has a couple, but oddly, Tom Hardy does not.", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [
+                    "gorgeous", 
+                    "flirtatious", 
+                    "much"
+                ], 
+                "role": "The Charmer: FDR. Tuck is gorgeous, but not as flirtatious as FDR so he doesn't get noticed as much.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "same"
+                ], 
+                "role": "Distressed Damsel:  Lauren when Heinrich catches up to her. Trish too because she happens to be in the same car at the time of the kidnapping.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt1596350", 
+    "poster_url": "ThisMeansWar.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ShirtlessScene", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ShirtlessScene", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice", 
+                "CockFight"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "TheCharmer", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }
+    ], 
+    "id": "ThisMeansWar", 
+    "name": "This Means War!"
+}

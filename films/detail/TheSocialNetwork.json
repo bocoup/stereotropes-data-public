@@ -1,0 +1,130 @@
+{
+    "plot": "On a fall night in 2003, Harvard undergrad and computer programming genius Mark Zuckerberg sits down at his computer and heatedly begins working on a new idea. In a fury of blogging and programming, what begins in his dorm room soon becomes a global social network and a revolution in communication. A mere six years and 500 million friends later, Mark Zuckerberg is the youngest billionaire in history... but for this entrepreneur, success leads to both personal and legal complications.", 
+    "genres": "Biography, Drama", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sean", 
+                    "sissy"
+                ], 
+                "role": "Dirty Coward: Sean flinches like a sissy when Eduardo fakes like he's going to hit him after Sean and Mark screwed him out of the company. For a moment Eduardo gets to grin like a smug bastard, commenting that Sean's cowardice makes him feel \"tough\".", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "Sean", 
+                    "first", 
+                    "much", 
+                    "one-night", 
+                    "first"
+                ], 
+                "role": "Sean is first introduced as he's waking up in a much younger college student's bed after a one-night stand with her. His first lines have him listing off every detail about said college student from memory, just to prove that he didn't, in fact, forget her name.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Asian"
+                ], 
+                "role": "Her character in The Social Network is basically an Asian Airhead with Cute and Psycho tendencies.", 
+                "id": "AsianAirhead"
+            }, 
+            {
+                "adjectives": [
+                    "Social", 
+                    "big"
+                ], 
+                "role": "Christy from The Social Network. She flipped out on Eduardo for not replying to her text messages that he came back from California and for having his Facebook status as single. And she sets his gift for her on fire in a trash bin and knocks it over his bed. Then she has the audacity to ask if he's going back to California - completed with a pouty face and big puppy eyes.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "single", 
+                    "great", 
+                    "big", 
+                    "puppy-dog"
+                ], 
+                "role": "Clingy Jealous Girl: Christy. Made evident when she questions Eduardo having his Facebook relationship status as \"single\" and then sets his gift for her -- a silk scarf -- on fire in a trash bin and drops it on his bed. And then she has the audacity to ask him if he's going back already \u2014 with a pouty face and great big puppy-dog eyes. Yikes, Eduardo wasn't kidding when he told Mark she was nuts.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Jewish", 
+                    "Asian", 
+                    "Asian"
+                ], 
+                "role": "In The Social Network, a Jewish character states that Jews like Asian girls because they're smart and not Jewish. The Jewish fraternity party seems to be entirely populated by Jewish guys and Asian girls.", 
+                "id": "ShiksaGoddess"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shiksa Goddess:", 
+                "id": "ShiksaGoddess"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: Christy.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt1285016", 
+    "poster_url": "TheSocialNetwork.gif", 
+    "similar": [
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "TheCharmer", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "AsianAirhead", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "TheCharmer", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "MySuperExGirlfriend", 
+            "name": "My Super Ex Girlfriend"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRockyHorrorPictureShow", 
+            "name": "The Rocky Horror Picture Show", 
+            "poster_url": "TheRockyHorrorPictureShow.jpg"
+        }
+    ], 
+    "id": "TheSocialNetwork", 
+    "name": "The Social Network"
+}

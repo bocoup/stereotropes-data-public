@@ -1,0 +1,78 @@
+{
+    "plot": "A deaf and dumb accountant suffers from a psychic trauma in his childhood. He is collecting puppets and mutilates female bodies in the mortuary. After his secret love died by an accident he starts to kill.", 
+    "genres": "Horror", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Non-Action Guy: Pete the Nerdy Nerd", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Zig-zagged", 
+                    "much"
+                ], 
+                "role": "Action Girl: Zig-zagged; Betty can flip an attacker effortlessly so long as there's a conveniently uncovered vat of acid for him to land in, but she spends just as much time acting the Distressed Damsel.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0074920", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LupinIIIThePursuitOfHarimaosTreasure", 
+            "name": "Lupin III: The Pursuit Of Harimao's Treasure"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Arrietty", 
+            "name": "Arrietty", 
+            "poster_url": "Arrietty.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Bandidas", 
+            "name": "Bandidas", 
+            "poster_url": "Bandidas.jpg"
+        }
+    ], 
+    "id": "Bloodlust", 
+    "name": "Bloodlust"
+}

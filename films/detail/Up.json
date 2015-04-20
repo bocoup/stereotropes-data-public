@@ -1,0 +1,155 @@
+{
+    "plot": "A young Carl Fredrickson meets a young adventure-spirited girl named Ellie. They both dream of going to a lost land in South America. 70 years later, Ellie has died. Carl remembers the promise he made to her. Then, when he inadvertently hits a construction worker, he is forced to go to a retirement home. But before they can take him, he and his house fly away. However, he has a stowaway aboard: an 8-year-old boy named Russell, who's trying to get an Assisting the Elderly badge. Together, they embark on an adventure, where they encounter talking dogs, an evil villain and a rare bird named Kevin.", 
+    "genres": "Animation, Adventure, Drama", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Baritone: Alpha, but only when his collar is working properly.", 
+                "id": "BadassBaritone"
+            }, 
+            {
+                "adjectives": [
+                    "certain"
+                ], 
+                "role": "Badass Grandpa: Carl, after a certain point in the story.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "Carl Frederickson from Up crosses into this territory near the end, even though he starts out in Grumpy Old Man territory, even going into Badass Grandpa territory. Though it might not apply because he's the main character.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "own", 
+                    "other", 
+                    "same", 
+                    "physical"
+                ], 
+                "role": "Cool Old Guy: CHARLES. MUNTZ. Seriously, the guy's well over 100 and he can still hold his own in a sword fight. And, of course, Carl Fredricksen for being a Badass Grandpa. Of course, they're fighting each other, so they're in roughly the same physical condition.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "final", 
+                    "second-to-last", 
+                    "redemption/family"
+                ], 
+                "role": "It's hinted that Russell's Disappeared Dad will finally show up at the ceremony if Russell gets his final Wilderness Explorer badge, but when Russell is at the ceremony in the second-to-last scene, right when we're all set to see a heartwarming redemption/family bonding scene... his dad still never shows. Carl comes up to do it instead.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "dead", 
+                    "unfulfilled"
+                ], 
+                "role": "Carl Frederickson from Up. He's grumpy and crotchety because his beloved wife is dead, and because he feels overwhelming guilt from an unfulfilled promise he made to her.", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: Carl Fredricksen", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Carl, immediately after his Adrenaline Makeover.", 
+                "id": "AdrenalineMakeover"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "bird", 
+                    "colorfully-feathered", 
+                    "classic", 
+                    "male", 
+                    "monal", 
+                    "male", 
+                    "several", 
+                    "bird", 
+                    "male"
+                ], 
+                "role": "Everyone assumes that Kevin is a boy bird in Up.\n Not unjustifiably\u2014 with many bird species the colorfully-feathered one is the male. (Peacocks are the classic example.) Kevin's plumage is modeled on a (sadly recently deceased) male Himalayan monal from the Sacramento Zoo.\n Kevin could still be male, even if he's raising babies, as there are several species of bird where the male does the childrearing.", 
+                "id": "FemaleMonsterSurprise"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ellie in Up. Interesting in that she only shows up in the prologue as Carl's beloved (deceased) wife. She is a catalyst for the movie's action, as Carl takes off for Paradise Falls in order to posthumously fulfill his promise to her.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Ellie as a kid. One could also say she still was one as an adult.", 
+                "id": "Tomboy"
+            }
+        ]
+    }, 
+    "imdbid": "tt1049413", 
+    "poster_url": "Up.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ManicPixieDreamGirl", 
+                "CoolOldGuy", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 4, 
+            "id": "LiberalArts", 
+            "name": "Liberal Arts", 
+            "poster_url": "LiberalArts.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CoolOldGuy", 
+                "BadassBaritone", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "AdrenalineMakeover", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "BadassBaritone", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }
+    ], 
+    "id": "Up", 
+    "name": "Up"
+}

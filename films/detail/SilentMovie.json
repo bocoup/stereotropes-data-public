@@ -1,0 +1,89 @@
+{
+    "plot": "Aspiring filmmakers Mel Funn, Marty Eggs and Dom Bell go to a financially troubled studio with an idea for a silent movie. In an effort to make the movie more marketable, they attempt to recruit a number of big name stars to appear, while the studio's creditors attempt to thwart them. The film contains only one word of dialogue, spoken by an unlikely source.", 
+    "genres": "Comedy", 
+    "release_year": "1976", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Silent Movie, the board of directors of Engulf and Devour is shown a picture of Velma Kaplan, the sexiest woman in the world, and the table starts rising.", 
+                "id": "GagPenis"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Vilma Kaplan was hired by Engulf & Devour to seduce Mel.  She gets a Sex Face Turn and falls in love with him, though.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hello, Nurse!: Bernadette Peters. Yummy.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Bernadette Peters as Vilma Kaplan.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0075222", 
+    "poster_url": "SilentMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "Clue", 
+            "name": "Clue", 
+            "poster_url": "Clue.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "GagPenis"
+            ], 
+            "shared_count": 2, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }
+    ], 
+    "id": "SilentMovie", 
+    "name": "Silent Movie"
+}

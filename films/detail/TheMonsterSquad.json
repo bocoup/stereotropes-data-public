@@ -1,0 +1,84 @@
+{
+    "plot": "Dracula is alive. In fact, he plans to rule the world and that is why he seeks the help of other legendary monsters. However, a bunch of kids regarded by their peers as losers uncover the devious plan and prepare for a counter strike.", 
+    "genres": "Action, Comedy, Fantasy", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Scary German Guy is bitchin'!", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Sean"
+                ], 
+                "role": "Papa Wolf: Sean's father gets a call that Sean is in danger, and immediately leaps into action, eventually even shooting Dracula in bat form out of the sky!", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Phoebe", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093560", 
+    "poster_url": "TheMonsterSquad.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "TheChick", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Sharknado", 
+            "name": "Sharknado"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }
+    ], 
+    "id": "TheMonsterSquad", 
+    "name": "The Monster Squad"
+}

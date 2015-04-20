@@ -1,0 +1,87 @@
+{
+    "plot": "A Californian family inherits a castle in Romania. This is especially exciting to the son, who is obsessed with monsters. And he is not disappointed.", 
+    "genres": "Comedy, Family", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Blondes are Evil: Paulina.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "entire", 
+                    "comfortable", 
+                    "due"
+                ], 
+                "role": "Manic Pixie Dream Girl: Paulina's entire personality toward David. Of course, it's all an act to mask her vampirism, and make David more comfortable selling the mansion to her. Subverted with Goran, the Romanian boy who falls in love with Jordan. After she becomes a version of this due to The Mind Is a Plaything of the Body, he becomes rather freaked out by her.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Meganekko: Jordan, Jordan, Jordan. Pre-werewolf, anyway.", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt1451423", 
+    "poster_url": "TheBoyWhoCriedWerewolf.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Meganekko", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanBegins", 
+            "name": "Batman Begins", 
+            "poster_url": "BatmanBegins.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHouseBunny", 
+            "name": "The House Bunny", 
+            "poster_url": "TheHouseBunny.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Amelie", 
+            "name": "Am\u00e9lie"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "UndercoverBrother", 
+            "name": "Undercover Brother", 
+            "poster_url": "UndercoverBrother.jpg"
+        }
+    ], 
+    "id": "TheBoyWhoCriedWerewolf", 
+    "name": "The Boy Who Cried Werewolf"
+}

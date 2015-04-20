@@ -1,0 +1,82 @@
+{
+    "plot": "On Elm Street, Nancy Thompson and a group of her friends including Tina Gray, Rod Lane and Glen Lantz are being tormented by a clawed killer in their dreams named Freddy Krueger. Nancy must think quickly, as Freddy tries to pick off his victims one by one. When he has you in your sleep, who is there to save you?", 
+    "genres": "Horror", 
+    "release_year": "1984", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Nancy Thompson.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "accessible"
+                ], 
+                "role": "Girl Next Door: Nancy Thompson lives across the street from her boyfriend Glen. Wes Craven noted he cast the actress specifically because of her accessible, wholesome appeal.", 
+                "id": "GirlNextDoor"
+            }, 
+            {
+                "adjectives": [
+                    "due"
+                ], 
+                "role": "Lady Drunk: Marge Thompson starts hitting the bottle due to the stress of dealing with Nancy.", 
+                "id": "LadyDrunk"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087800", 
+    "poster_url": "ANightmareOnElmStreet1984.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyDrunk", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackChristmas1974", 
+            "name": "Black Christmas ", 
+            "poster_url": "BlackChristmas1974.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "AuntieMame", 
+            "name": "Auntie Mame", 
+            "poster_url": "AuntieMame.jpg"
+        }
+    ], 
+    "id": "ANightmareOnElmStreet1984", 
+    "name": "A Nightmare on Elm Street "
+}

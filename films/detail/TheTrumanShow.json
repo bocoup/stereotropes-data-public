@@ -1,0 +1,32 @@
+{
+    "plot": "In this movie, Truman is a man whose life is a fake one... The place he lives is in fact a big studio with hidden cameras everywhere, and all his friends and people around him, are actors who play their roles in the most popular TV-series in the world: The Truman Show. Truman thinks that he is an ordinary man with an ordinary life and has no idea about how he is exploited. Until one day... he finds out everything. Will he react?", 
+    "genres": "Drama", 
+    "release_year": "1998", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "photographic", 
+                    "mosaic"
+                ], 
+                "role": "Hero's Muse: Truman's motivation for leaving Seahaven and going to \"Fiji\", he longs to see Sylvia again. He was only with her for one day and night, yet manages to make a photographic mosaic of her face from womens' magazines, much to the watching Sylvia's joy.", 
+                "id": "HerosMuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120382", 
+    "poster_url": "TheTrumanShow.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HerosMuse"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "TheTrumanShow", 
+    "name": "The Truman Show"
+}

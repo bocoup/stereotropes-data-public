@@ -1,0 +1,97 @@
+{
+    "plot": "Freelance covert operative Mallory Kane is hired out by her handler to various global entities to perform jobs which governments can't authorize and heads of state would rather not know about. After a mission to rescue a hostage in Barcelona, Mallory is quickly dispatched on another mission to Dublin. When the operation goes awry and Mallory finds she has been double crossed, she needs to use all of her skills, tricks and abilities to escape an international manhunt, make it back to the United States, protect her family, and exact revenge on those that have betrayed her.", 
+    "genres": "Action, Thriller", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "notable", 
+                    "female"
+                ], 
+                "role": "Action Girl: Mallory, of course. The movie is very notable for being a relatively mainstream gritty action flick with a female lead in the style of Bourne (as opposed to She-Fu or Bullet Time style action girls).", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Amazonian", 
+                    "certain", 
+                    "powerful"
+                ], 
+                "role": "Amazonian Beauty: Mallory cleans up nicely at certain points in the film, but there is no mistaking she is physically very powerful.", 
+                "id": "AmazonianBeauty"
+            }, 
+            {
+                "adjectives": [
+                    "entire", 
+                    "main", 
+                    "other", 
+                    "intense"
+                ], 
+                "role": "Pretty much the entire point of Haywire was to showcase the main character, Mallory Kane, beat up all the other guys in the movie. Especially in the hotel fight she is in a cocktail dress while doing so, with her arms and legs exposed while doing some rather intense choke holds.", 
+                "id": "AmazonianBeauty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kicking Ass in All Her Finery: The hotel room fight scene.", 
+                "id": "KickingAssInAllHerFinery"
+            }
+        ]
+    }, 
+    "imdbid": "tt1506999", 
+    "poster_url": "Haywire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KickingAssInAllHerFinery", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "KickingAssInAllHerFinery", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "KickingAssInAllHerFinery", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "KickingAssInAllHerFinery", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MelodyTime", 
+            "name": "Melody Time", 
+            "poster_url": "MelodyTime.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonianBeauty", 
+                "KickingAssInAllHerFinery"
+            ], 
+            "shared_count": 2, 
+            "id": "StreetFighter", 
+            "name": "Street Fighter", 
+            "poster_url": "StreetFighter.jpg"
+        }
+    ], 
+    "id": "Haywire", 
+    "name": "Haywire"
+}

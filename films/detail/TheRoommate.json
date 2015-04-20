@@ -1,0 +1,99 @@
+{
+    "plot": "Fresh from Des Moines, Iowa, Sara Matthews has just landed in Los Angeles as a college freshman studying fashion design. She meets handsome Stephen, party-lover Tracy, and roommate Rebecca. Rebecca is nice, sweet and ready to share everything with Sara. It could be the beginning of a beautiful friendship. But Tracy is convinced that there's something seriously wrong with Rebecca and bad things start happening to everyone close to Sara. If Sara is to have a normal college experience, she's going to have to get to the bottom of what's up with Rebecca and quickly get out of her clutches.", 
+    "genres": "Drama, Horror, Thriller", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "slouch"
+                ], 
+                "role": "Action Girl: Sara in the climax. Dark Action Girl: Rebecca is no slouch herself.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "slouch"
+                ], 
+                "role": "Dark Action Girl: Rebecca is no slouch herself.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "nice", 
+                    "kind", 
+                    "much"
+                ], 
+                "role": "Good Bad Girl: Tracy is really nice, she's just kind of flighty. Rebecca disapproves of this, very much.", 
+                "id": "GoodBadGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian: Irene.", 
+                "id": "LipstickLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Rebecca (played by Leighton Meester) from The Roommate, which is essentially a remake of Single White Female.", 
+                "id": "PsychoLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt1265990", 
+    "poster_url": "TheRoommate.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PsychoLesbian", 
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendOfTheSeeker", 
+            "name": "Legend of the Seeker"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian", 
+                "DarkActionGirl", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 3, 
+            "id": "LadySnowblood", 
+            "name": "Lady Snowblood", 
+            "poster_url": "LadySnowblood.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }
+    ], 
+    "id": "TheRoommate", 
+    "name": "The Roommate"
+}

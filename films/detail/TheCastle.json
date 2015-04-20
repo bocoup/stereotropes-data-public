@@ -1,0 +1,66 @@
+{
+    "plot": "A Melbourne family is very happy living where they do, near the Melbourne airport (according to Jane Kennedy, it's \"practically their back yard\"). However, they are forced to leave their beloved home, by the Government and airport authorities. 'The Castle' is the story of how they fight to remain in their house, taking their case as far as the High Court.", 
+    "genres": "Comedy", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "such", 
+                    "light"
+                ], 
+                "role": "Mr. Fixit: Steve invents such wonders as the \"motorcycle helmet with brake light in the back\" and the \"cleaning brush with a hose attached\".", 
+                "id": "MrFixit"
+            }
+        ]
+    }, 
+    "imdbid": "tt0118826", 
+    "poster_url": "TheCastle.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MrFixit"
+            ], 
+            "shared_count": 1, 
+            "id": "MysteryMen", 
+            "name": "Mystery Men", 
+            "poster_url": "MysteryMen.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFixit"
+            ], 
+            "shared_count": 1, 
+            "id": "SesameStreet", 
+            "name": "Sesame Street"
+        }, 
+        {
+            "shared": [
+                "MrFixit"
+            ], 
+            "shared_count": 1, 
+            "id": "BettyBoop", 
+            "name": "Betty Boop"
+        }, 
+        {
+            "shared": [
+                "MrFixit"
+            ], 
+            "shared_count": 1, 
+            "id": "District9", 
+            "name": "District 9", 
+            "poster_url": "District9.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFixit"
+            ], 
+            "shared_count": 1, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }
+    ], 
+    "id": "TheCastle", 
+    "name": "The Castle"
+}

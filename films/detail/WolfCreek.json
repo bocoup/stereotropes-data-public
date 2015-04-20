@@ -1,0 +1,76 @@
+{
+    "plot": "Three backpackers travel into the Australian Outback, only to find themselves stranded at Wolf Creek crater. Once there they are encountered by a bushman, Mick Taylor, who offers them a ride back to his place. Little do the three know that their adventure into the Outback, would be a complete nightmare after the backpackers find a way to escape.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2005", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Both of them, though Liz a bit more than Kristy.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Inverted gender-wise. Both girls die. Ben survives.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0416315", 
+    "poster_url": "WolfCreek.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hausu", 
+            "name": "Hausu"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Scream", 
+            "name": "Scream", 
+            "poster_url": "Scream.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Madman", 
+            "name": "Madman", 
+            "poster_url": "Madman.jpg"
+        }
+    ], 
+    "id": "WolfCreek", 
+    "name": "Wolf Creek"
+}

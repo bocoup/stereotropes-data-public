@@ -1,0 +1,66 @@
+{
+    "plot": "The film begins with the return home of a wwII veteran who was the recipient of a \"Dear John Letter\". After swiftly dispatching a courting couple in a Gazebo we leap to present day where a college celebration becomes the hunting ground for a uniform clad killer.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "1981", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Pam.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082951", 
+    "poster_url": "TheProwler.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "NineDead", 
+            "name": "Nine Dead", 
+            "poster_url": "NineDead.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "FridayThe13thPartVANewBeginning", 
+            "name": "Friday the 13th Part V: A New Beginning"
+        }
+    ], 
+    "id": "TheProwler", 
+    "name": "The Prowler"
+}

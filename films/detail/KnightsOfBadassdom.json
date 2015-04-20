@@ -1,0 +1,72 @@
+{
+    "plot": "Live-action role players conjure up a demon from Hell by mistake and they must deal with the consequences.", 
+    "genres": "Comedy, Fantasy, Horror", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: The paintballers.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "full"
+                ], 
+                "role": "Prince Charming Wannabe: Ronny tries to hit on Gwen early on, putting on his full reparte of Ye Olde Butcherede Englishe, which actually turns her off.", 
+                "id": "PrinceCharmingWannabe"
+            }
+        ]
+    }, 
+    "imdbid": "tt1545660", 
+    "poster_url": "KnightsOfBadassdom.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "JerkJock", 
+                "PrinceCharmingWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "OurTown", 
+            "name": "Our Town", 
+            "poster_url": "OurTown.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "TheRageCarrie2", 
+            "name": "The Rage: Carrie 2"
+        }
+    ], 
+    "id": "KnightsOfBadassdom", 
+    "name": "Knights Of Badassdom"
+}

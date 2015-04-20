@@ -1,0 +1,113 @@
+{
+    "plot": "Shakespeare's intertwined love polygons begin to get complicated from the start--Demetrius and Lysander both want Hermia but she only has eyes for Lysander. Bad news is, Hermia's father wants Demetrius for a son-in-law. On the outside is Helena, whose unreturned love burns hot for Demetrius. Hermia and Lysander plan to flee from the city under cover of darkness but are pursued by an enraged Demetrius (who is himself pursued by an enraptured Helena). In the forest, unbeknownst to the mortals, Oberon and Titania (King and Queen of the faeries) are having a spat over a servant boy. The plot twists up when Oberon's head mischief-maker, Puck, runs loose with a flower which causes people to fall in love with the first thing they see upon waking. Throw in a group of labourers preparing a play for the Duke's wedding (one of whom is given a donkey's head and Titania for a lover by Puck) and the complications become fantastically funny.", 
+    "genres": "Comedy, Fantasy, Romance", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Amazon Chaser: Thesus to Hippolyta. Her courtship with Thesus was based on fighting and one of his first lines is how his marriage proposal was their duel.", 
+                "id": "AmazonChaser"
+            }, 
+            {
+                "adjectives": [
+                    "spell-induced"
+                ], 
+                "role": "Demetrius and Lysander suffer a spell-induced version in A Midsummer Night's Dream.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "similar", 
+                    "forcing", 
+                    "close"
+                ], 
+                "role": "A similar interpretation has been applied to Hermia's father in A Midsummer Night's Dream, who is unusually...determined to see her married off to the guy he wants. A lot of people believe that he was actually in love with Lysander himself and forcing Hermia to marry him (with threats of imprisonment in a convent and death) was as close as he could get.\n Well, Shakespeare opened that door himself. You have her father's love, Demetrius; let me have Hermia's; do you marry him. Especially the way Dick Powell delivers that line.", 
+                "id": "DepravedHomosexual"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Clingy Jealous Girl: Helena", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Helena in A Midsummer Night's Dream, though to what extent is determined by the actress playing her. Some tug the heartstrings and others are just annoying. Though Shakespeare establishes that Demetrius definitely led her on, and other characters in the play call him out on courting her and then dropping her for her best friend.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Third", 
+                    "fourth"
+                ], 
+                "role": "In A Midsummer Night's Dream, Theseus offers this option to Hermia as an alternative to being executed or marrying Demetrius. She decides to Take A Third -- well, fourth -- Option and elope with Lysander instead.", 
+                "id": "TakingTheVeil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Taking the Veil: Offered to, and rejected by, Hermia.", 
+                "id": "TakingTheVeil"
+            }
+        ]
+    }, 
+    "imdbid": "tt0140379", 
+    "similar": [
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "AmazonChaser"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheShawshankRedemption", 
+            "name": "The Shawshank Redemption", 
+            "poster_url": "TheShawshankRedemption.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "MrsDoubtfire", 
+            "name": "Mrs. Doubtfire", 
+            "poster_url": "MrsDoubtfire.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonChaser"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "AMidsummerNightsDream", 
+    "name": "A Midsummer Night's Dream"
+}

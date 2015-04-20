@@ -1,0 +1,83 @@
+{
+    "plot": "In this fable-morality subtitled \"A Song of Two Humans\", the \"evil\" temptress is a city woman who bewitches farmer Anses and tries to convince him to murder his neglected wife, Indre.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1927", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Light Feminine and Dark Feminine: The Woman from The City is the Dark Feminine (hedonist, cheater), while The Wife is the Light Feminine (good all the way through).", 
+                "id": "LightFeminineAndDarkFeminine"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sunrise: The Woman from The City is the Dark Feminine (hedonist, cheater), while The Wife is the Light Feminine (goody-goody all the way through).", 
+                "id": "LightFeminineAndDarkFeminine"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: The Woman from the City, who likes adultery and wants to graduate to murder.", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [
+                    "classic"
+                ], 
+                "role": "The woman from the city in silent classic Sunrise.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0018455", 
+    "poster_url": "Sunrise.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "LordOfTheDance1997", 
+            "name": "Lord Of The Dance", 
+            "poster_url": "LordOfTheDance1997.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "CruelIntentions", 
+            "name": "Cruel Intentions", 
+            "poster_url": "CruelIntentions.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }
+    ], 
+    "id": "Sunrise", 
+    "name": "Sunrise"
+}

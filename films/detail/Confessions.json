@@ -1,0 +1,49 @@
+{
+    "plot": "A psychological thriller of a grieving mother turned cold-blooded avenger with a twisty master plan to pay back those who were responsible for her daughter's death.", 
+    "genres": "Drama, Mystery, Thriller", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "new"
+                ], 
+                "role": "Misplaced Kindergarten Teacher: Deconstructed. The new teacher actually makes the situation even worse. He is misguided by Yuko.", 
+                "id": "MisplacedKindergartenTeacher"
+            }
+        ]
+    }, 
+    "imdbid": "tt1590089", 
+    "poster_url": "Confessions.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MisplacedKindergartenTeacher"
+            ], 
+            "shared_count": 1, 
+            "id": "BadTeacher", 
+            "name": "Bad Teacher", 
+            "poster_url": "BadTeacher.jpg"
+        }, 
+        {
+            "shared": [
+                "MisplacedKindergartenTeacher"
+            ], 
+            "shared_count": 1, 
+            "id": "ToKillAMockingbird", 
+            "name": "To Kill a Mockingbird", 
+            "poster_url": "ToKillAMockingbird.jpg"
+        }, 
+        {
+            "shared": [
+                "MisplacedKindergartenTeacher"
+            ], 
+            "shared_count": 1, 
+            "id": "DiaryOfAWimpyKid", 
+            "name": "Diary of a Wimpy Kid", 
+            "poster_url": "DiaryOfAWimpyKid.jpg"
+        }
+    ], 
+    "id": "Confessions", 
+    "name": "Confessions"
+}

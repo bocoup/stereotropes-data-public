@@ -1,0 +1,66 @@
+{
+    "plot": "Lewis and Clark were famous comedians during the vaudeville era; off-stage, though, they couldn't stand each other and haven't spoken in over 20 years. Ben, Willy Clark's nephew, is the producer of a variety show that wants to feature a reunion of the classic duo. How will Ben convince the crotchety old comedians to put aside their differences before the big show?", 
+    "genres": "Comedy", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "cantankerous"
+                ], 
+                "role": "Grumpy Old Man: Al and Willy. Willy is especially cantankerous to everyone around him, including Ben.", 
+                "id": "GrumpyOldMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0073766", 
+    "poster_url": "TheSunshineBoys.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "MonsterHouse", 
+            "name": "Monster House", 
+            "poster_url": "MonsterHouse.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Balto", 
+            "name": "Balto", 
+            "poster_url": "Balto.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AttackOfTheEyeCreatures", 
+            "name": "Attack of the Eye Creatures"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "MorningGlory", 
+            "name": "Morning Glory", 
+            "poster_url": "MorningGlory.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "SpacedInvaders", 
+            "name": "Spaced Invaders", 
+            "poster_url": "SpacedInvaders.jpg"
+        }
+    ], 
+    "id": "TheSunshineBoys", 
+    "name": "The Sunshine Boys"
+}

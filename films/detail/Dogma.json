@@ -1,0 +1,94 @@
+{
+    "plot": "An abortion clinic worker with a special heritage is enlisted to prevent two angels from reentering Heaven and thus undoing the fabric of the universe. Along the way, she is aided by two prophets, Jay and Silent Bob. With the help of Rufus, the 13th Apostle, they must stop those who stand in their way and prevent the angels from entering Heaven.", 
+    "genres": "Adventure, Comedy, Fantasy", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Azrael in Dogma", 
+                "id": "ManInWhite"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Man in White: Azrael.", 
+                "id": "ManInWhite"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Dogma: Salma Hayek as Serendipity is wearing a schoolgirl uniform and working as a stripper when the protagonists first meet her.", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Jay", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [
+                    "literal", 
+                    "magical", 
+                    "happy"
+                ], 
+                "role": "There's a literal muse in Dogma, a magical stripper played by Salma Hayek.\n And she will not be happy if you try to credit her with Home Alone.", 
+                "id": "TheMuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120655", 
+    "poster_url": "Dogma.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "JurassicPark", 
+            "name": "Jurassic Park", 
+            "poster_url": "JurassicPark.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWorldsEnd", 
+            "name": "The World's End", 
+            "poster_url": "TheWorldsEnd.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTransporter", 
+            "name": "The Transporter", 
+            "poster_url": "TheTransporter.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }
+    ], 
+    "id": "Dogma", 
+    "name": "Dogma"
+}

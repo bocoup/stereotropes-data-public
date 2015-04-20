@@ -1,0 +1,82 @@
+{
+    "plot": "Marcus Luttrell, a Navy Seal, and his team set out on a mission to capture or kill notorious Taliban leader Ahmad Shah, in late June 2005. After running into mountain herders and capturing them, they were left with no choice but to follow their rules of engagement or be imprisoned. Now Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.", 
+    "genres": "Action, Biography, Drama", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Again, the SEALs. In the film adaptation, at least. Truthin Television: Most of the pictures of SEALs who participated in Operation Red Wings, show them with beards.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Taylor Kitsch gets one in the beginning of the film.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Lady's Favour: Dietz's girlfriend wants him to return in one piece so they can remodel their home together.", 
+                "id": "TheLadysFavour"
+            }
+        ]
+    }, 
+    "imdbid": "tt1091191", 
+    "poster_url": "LoneSurvivor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLEGOMovie", 
+            "name": "The LEGO Movie", 
+            "poster_url": "TheLEGOMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "Argo", 
+            "name": "Argo", 
+            "poster_url": "Argo.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "DontGoInTheWoods", 
+            "name": "Don't Go in the Woods", 
+            "poster_url": "DontGoInTheWoods.jpg"
+        }
+    ], 
+    "id": "LoneSurvivor", 
+    "name": "Lone Survivor"
+}

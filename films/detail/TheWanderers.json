@@ -1,0 +1,74 @@
+{
+    "plot": "Set against the urban jungle of 1963 New York's gangland subculture, this coming of age teenage movie is set around the Italian gang the Wanderers. Slight comedy, slight High School angst and every bit entertaining with its classic 1950's Rock n' Roll soundtrack such as \"Walk Like a Man\", \"Big Girls Don't Cry\" by The Four Seasons and \"My Boyfriend's Back\" by The Angels. Focusing around a football game where the different gangs play with and against each other, then at its grand finale, come together in a mass of union to defend their honour and their turf. Nostalgic stuff and above all a Rock n' Roll retrospective on a grand musical era. Timeless.", 
+    "genres": "Drama", 
+    "release_year": "1979", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: The Wanderers and Del-Bombers who split before the fight with the Ducky Boys. Averted by members of the Wongs, who join in with the remaining Wanderers and Del-Bombers even when it wasn't their fight.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "One of the Boys: Peewee", 
+                "id": "OneOfTheBoys"
+            }
+        ]
+    }, 
+    "imdbid": "tt0080117", 
+    "poster_url": "TheWanderers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OneOfTheBoys", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "ToKillAMockingbird", 
+            "name": "To Kill a Mockingbird", 
+            "poster_url": "ToKillAMockingbird.jpg"
+        }, 
+        {
+            "shared": [
+                "OneOfTheBoys", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "StreetsOfFire", 
+            "name": "Streets of Fire", 
+            "poster_url": "StreetsOfFire.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "WomanInTheMoon", 
+            "name": "Woman in the Moon", 
+            "poster_url": "WomanInTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "TheKillerShrews", 
+            "name": "The Killer Shrews", 
+            "poster_url": "TheKillerShrews.jpg"
+        }
+    ], 
+    "id": "TheWanderers", 
+    "name": "The Wanderers"
+}

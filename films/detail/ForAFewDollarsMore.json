@@ -1,0 +1,95 @@
+{
+    "plot": "Monco is a bounty killer chasing El Indio and his gang. During his hunting, he meets Col. Douglas Mortimer, another bounty killer, and they decide to make a partnership, chase the bad guys together and split the reward. During their enterprise, there will be lots of bullets and funny situations. In the end, one of the bounty hunters shows the real intention of his hunting.", 
+    "genres": "Western", 
+    "release_year": "1965", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bad"
+                ], 
+                "role": "Bad Ass Beard: Indio.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [
+                    "Bad"
+                ], 
+                "role": "Bad Ass Mustache: Colonel Mortimer.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Knight Errant: Manco.", 
+                "id": "KnightErrant"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Few", 
+                    "little"
+                ], 
+                "role": "In For a Few Dollars More, the little sister might well have survived if she'd shot her rapist instead of herself.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0059578", 
+    "poster_url": "ForAFewDollarsMore.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KnightErrant", 
+                "BadAssMustache", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 3, 
+            "id": "AFistfulOfDollars", 
+            "name": "A Fistful of Dollars", 
+            "poster_url": "AFistfulOfDollars.jpg"
+        }, 
+        {
+            "shared": [
+                "KnightErrant", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "LuckyLuke", 
+            "name": "Lucky Luke", 
+            "poster_url": "LuckyLuke.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "HarleyDavidsonAndTheMarlboroMan", 
+            "name": "Harley Davidson and the Marlboro Man", 
+            "poster_url": "HarleyDavidsonAndTheMarlboroMan.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "FlashGordon", 
+            "name": "Flash Gordon", 
+            "poster_url": "FlashGordon.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "KnightErrant"
+            ], 
+            "shared_count": 2, 
+            "id": "Serenity", 
+            "name": "Serenity", 
+            "poster_url": "Serenity.jpg"
+        }
+    ], 
+    "id": "ForAFewDollarsMore", 
+    "name": "For a Few Dollars More"
+}

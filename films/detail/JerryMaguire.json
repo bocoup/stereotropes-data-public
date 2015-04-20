@@ -1,0 +1,85 @@
+{
+    "plot": "Jerry Maguire (Tom Cruise) is a successful sports agent. The biggest clients, the respect, a beautiful fianc\u00e9e, he has it all. Until one night he questions his purpose. His place in the world, and finally comes to terms with what's wrong with his career and life. Recording all his thoughts in a mission statement Jerry feels he has a new lease on life. Unfortunately his opinions aren't met with enthusiasm from his superiors and after dishonorably being stripped of his high earning clients and elite status within the agency Jerry steps out into the sports business armed with only one volatile client (Cuba Gooding Jr.) and the only person with belief in his abilities (Ren\u00e9e Zellweger) with the impossible task of rebuilding what he once had. Along the way he faces the harsh truths which he'd ignored in the past and a host of hardships that he'd never faced before.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Angry Black Man: Rod Tidwell.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "good", 
+                    "few"
+                ], 
+                "role": "Shirtless Scene: Cuba Gooding Jr., who got into extremely good shape for his role, has a few.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Marcy.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116695", 
+    "poster_url": "JerryMaguire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGuyFromHarlem", 
+            "name": "The Guy From Harlem", 
+            "poster_url": "TheGuyFromHarlem.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "AngryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "AngryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TwentyOneJumpStreet", 
+            "name": "21 Jump Street", 
+            "poster_url": "TwentyOneJumpStreet.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TeenBeachMovie", 
+            "name": "Teen Beach Movie", 
+            "poster_url": "TeenBeachMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "PsychoBeachParty", 
+            "name": "Psycho Beach Party", 
+            "poster_url": "PsychoBeachParty.jpg"
+        }
+    ], 
+    "id": "JerryMaguire", 
+    "name": "Jerry Maguire"
+}

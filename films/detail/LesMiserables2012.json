@@ -1,0 +1,79 @@
+{
+    "plot": "Jean Valjean, convicted of stealing bread, is hounded for decades by the relentless and cruel policeman Javert.", 
+    "genres": "Drama, History", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "musical", 
+                    "actual"
+                ], 
+                "role": "The \"Work Song\" features the convicts pulling a ship into a drydock, which may be a reference to some earlier adaptations (including at least one production of the musical) which depicted the convicts as actual Galley Slaves.", 
+                "id": "GalleySlave"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Enjolras\u00d7Grantaire", 
+                    "noticable", 
+                    "song", 
+                    "E/R"
+                ], 
+                "role": "George Blagden, who played Grantaire in the 2012 film adaptation if Les Mis\u00e9rables seems VERY fond of the Enjolras\u00d7Grantaire ship. This became very noticable when he uploaded a video onto his youtube channel of him covering the song Hallelujiah (which can be interpreted as being sung from the POV of a man who fell in love with another man) and then I Will Follow You Into the Dark and changing some lyrics so it was blatantly about E/R", 
+                "id": "YaoiFangirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0077936", 
+    "poster_url": "LesMiserables2012.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GalleySlave"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "GalleySlave"
+            ], 
+            "shared_count": 1, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "YaoiFangirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheInternship", 
+            "name": "The Internship", 
+            "poster_url": "TheInternship.jpg"
+        }, 
+        {
+            "shared": [
+                "GalleySlave"
+            ], 
+            "shared_count": 1, 
+            "id": "TheSeaHawk", 
+            "name": "The Sea Hawk", 
+            "poster_url": "TheSeaHawk.jpg"
+        }, 
+        {
+            "shared": [
+                "YaoiFangirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AndTheBandPlayedOn", 
+            "name": "And The Band Played On", 
+            "poster_url": "AndTheBandPlayedOn.jpg"
+        }
+    ], 
+    "id": "LesMiserables2012", 
+    "name": "Les Miserables "
+}

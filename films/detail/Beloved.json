@@ -1,0 +1,84 @@
+{
+    "plot": "After Paul D. finds his old slave friend Sethe in Ohio and moves in with her and her daughter Denver, a strange girl comes along by the name of \"Beloved\". Sethe and Denver take her in and then strange things start to happen...", 
+    "genres": "Drama, History, Horror", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Halle", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "non-romantic"
+                ], 
+                "role": "Clingy Jealous Girl: In a non-romantic way, Denver for her mother.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Played very darkly.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120603", 
+    "poster_url": "Beloved.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "RookieOfTheYear", 
+            "name": "Rookie of the Year", 
+            "poster_url": "RookieOfTheYear.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "ACatInParis", 
+            "name": "A Cat in Paris", 
+            "poster_url": "ACatInParis.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }
+    ], 
+    "id": "Beloved", 
+    "name": "Beloved"
+}

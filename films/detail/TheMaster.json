@@ -1,0 +1,76 @@
+{
+    "plot": "Returning from Navy service in World War II, Freddie Quell drifts through a series of breakdowns. Finally he stumbles upon a cult which engages in exercises to clear emotions and he becomes deeply involved with them.", 
+    "genres": "Drama", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Kavorka Man: Freddie has no trouble getting female attention, despite being a drunken weirdo.", 
+                "id": "KavorkaMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "big"
+                ], 
+                "role": "Lady Macbeth: Dodd's wife Peggy (Amy Adams) is this in a big way.", 
+                "id": "LadyMacBeth"
+            }
+        ]
+    }, 
+    "imdbid": "tt1560747", 
+    "poster_url": "TheMaster.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCommitments", 
+            "name": "The Commitments", 
+            "poster_url": "TheCommitments.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }
+    ], 
+    "id": "TheMaster", 
+    "name": "The Master"
+}

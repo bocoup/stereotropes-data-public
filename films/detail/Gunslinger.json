@@ -1,0 +1,81 @@
+{
+    "plot": "After her husband is gunned down, Rose Hood takes his place temporarily as marshal of a small Western town.", 
+    "genres": "Western", 
+    "release_year": "1956", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Troubled, but Cute: Cane.", 
+                "id": "TroubledButCute"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Rose.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Determined Widow: Rose", 
+                "id": "DeterminedWidow"
+            }
+        ]
+    }, 
+    "imdbid": "tt0049287", 
+    "poster_url": "Gunslinger.gif", 
+    "similar": [
+        {
+            "shared": [
+                "TroubledButCute", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DeterminedWidow", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Terminator2JudgmentDay", 
+            "name": "Terminator 2: Judgment Day", 
+            "poster_url": "Terminator2JudgmentDay.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BeyondTheValleyOfTheDolls", 
+            "name": "Beyond The Valley Of The Dolls", 
+            "poster_url": "BeyondTheValleyOfTheDolls.jpg"
+        }, 
+        {
+            "shared": [
+                "DeterminedWidow", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSecretOfNIMH", 
+            "name": "The Secret of NIMH", 
+            "poster_url": "TheSecretOfNIMH.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ToTheLimit", 
+            "name": "To The Limit", 
+            "poster_url": "ToTheLimit.jpg"
+        }
+    ], 
+    "id": "Gunslinger", 
+    "name": "Gunslinger"
+}

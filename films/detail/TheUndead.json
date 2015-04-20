@@ -1,0 +1,75 @@
+{
+    "plot": "Two psychical researchers procure the services of a lady of the night and send her back in time under hypnosis. She finds herself in the body of a past existence - a woman in medieval times waiting to be beheaded as a witch. By avoiding this fate she unwittingly starts to alter history.", 
+    "genres": "Fantasy, Horror", 
+    "release_year": "1957", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hot", 
+                    "awhile"
+                ], 
+                "role": "Hot Witch: Livia. According to Meg, she was one of these for awhile, but she lost her youth and beauty when she tricked her soul back from Satan.", 
+                "id": "HotWitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Livia, who constantly tries to seduce Pendragon into either loving her or into selling his soul.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0051128", 
+    "poster_url": "TheUndead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepyHollow", 
+            "name": "Sleepy Hollow", 
+            "poster_url": "SleepyHollow.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Tamara", 
+            "name": "Tamara", 
+            "poster_url": "Tamara.jpg"
+        }, 
+        {
+            "shared": [
+                "HotWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "HotWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWitchesOfOz", 
+            "name": "The Witches Of Oz", 
+            "poster_url": "TheWitchesOfOz.jpg"
+        }
+    ], 
+    "id": "TheUndead", 
+    "name": "The Undead"
+}

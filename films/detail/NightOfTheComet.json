@@ -1,0 +1,102 @@
+{
+    "plot": "Two pretty high school girls (one a cheerleader!) don't like their stepmother or her new boyfriend (\"Daddy would have gotten us Uzis!\"). One morning, they wake up to find that everybody in Los Angeles has been turned to dust by a Comet except them, a guy who looks like Erik Estrada, some zombies and the occupants of a secret underground government installation.", 
+    "genres": "Comedy, Horror, Sci-Fi", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Regina 'Reggie' Belmont, heroine of cult 80's movie Night of the Comet is another female example.", 
+                "id": "TheSlacker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Slacker: Regina 'Reggie' Belmont", 
+                "id": "TheSlacker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "aggressive", 
+                    "resourceful", 
+                    "major"
+                ], 
+                "role": "Distressed Damsel: Averted hard. As noted, these are Action Girls, aggressive, resourceful, and expert at handling weapons. Even when one of the girls is captured, her sister is a major part of the rescue plan.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Gamer Chick: Reggie's first scene has her playing an arcade game rather than working.", 
+                "id": "GamerChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Samantha from Night of the Comet. Her only concern throughout The End of the World as We Know It is whether or not she'll get laid.", 
+                "id": "ValleyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Valley Girl: Samantha", 
+                "id": "ValleyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087799", 
+    "poster_url": "NightOfTheComet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ValleyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker", 
+                "ValleyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }
+    ], 
+    "id": "NightOfTheComet", 
+    "name": "Night of the Comet"
+}

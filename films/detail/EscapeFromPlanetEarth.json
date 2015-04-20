@@ -1,0 +1,119 @@
+{
+    "plot": "The story takes place on planet Baab where admired astronaut Scorch Supernova (Brendan Fraser) is a national hero to the blue alien population. A master of daring rescues, Scorch pulls off astonishing feats with the quiet aid of his nerdy brother, Gary (Rob Corddry), head of mission control at BASA.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "other", 
+                    "live"
+                ], 
+                "role": "Chick Magnet: Implied with Scorch when Gabby (his girlfriend) warned other women to stay from him on live TV.", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Scorch, the arrogant muscle bound heroic twit.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [
+                    "Lampshaded"
+                ], 
+                "role": "Momma's Boy: Lampshaded by Scorch to Gary.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manly Man and Sensitive Guy: Scorch is the Manly Man to Gary's Sensitive Guy.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "many"
+                ], 
+                "role": "Action Girl: Gary's wife Kira, who mentions that she was a test pilot for many years.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Action Mom: Kira Supernova.", 
+                "id": "ActionMom"
+            }, 
+            {
+                "adjectives": [
+                    "Hot", 
+                    "later"
+                ], 
+                "role": "Hot Scoop: Gabby Babblerbrook, Scorch's girlfriend and  later wife.", 
+                "id": "HotScoop"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Kira.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0765446", 
+    "poster_url": "EscapeFromPlanetEarth.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionMom", 
+                "SensitiveGuyAndManlyMan", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "TheChick", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "SensitiveGuyAndManlyMan", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SuperSentai", 
+            "name": "Super Sentai"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "SensitiveGuyAndManlyMan", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "SensitiveGuyAndManlyMan", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }
+    ], 
+    "id": "EscapeFromPlanetEarth", 
+    "name": "Escape From Planet Earth"
+}

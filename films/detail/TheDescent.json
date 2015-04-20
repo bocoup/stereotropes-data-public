@@ -1,0 +1,124 @@
+{
+    "plot": "A woman goes on vacation with her friends after her husband and daughter encounter a tragic accident. One year later she goes hiking with her friends and they get trapped in the cave. With a lack of supply, they struggle to survive and they meet strange blood thirsty creatures.", 
+    "genres": "Adventure, Horror", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Sheriff Vaines gets a jump scare with a Crawler leaping out screaming. His reaction? Punch it in the face and knock it down.", 
+                "id": "BadassGrandpa"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "entire", 
+                    "possible"
+                ], 
+                "role": "Action Girl: Pretty much the entire group, with the possible exception of Holly and Beth, who are killed before they have the chance to kick some ass.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "female", 
+                    "fantasy"
+                ], 
+                "role": "Averted in The Descent. The cast of female spelunkers gets whittled down one by one, but ultimately the Final Girl crosses a Moral Event Horizon, losing audience sympathy. In the end, she seems to escape, but the scene cuts to reveal that it was just a fantasy and she's irrevocably trapped in the cave. Due to Executive Meddling, the Final Girl trope is upheld in the American version, and she escapes.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Elen", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "dead", 
+                    "sad"
+                ], 
+                "role": "Mama Bear: The first female Crawler seen in the film appears shortly after Sarah kills the Crawler's child. Upon learning that her child is dead (after a surprisingly sad moment of the Crawler desperately and pitifully nudging the body), she immediately goes berserk.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "tight", 
+                    "top", 
+                    "hot"
+                ], 
+                "role": "Ms. Fanservice: Juno spends most of the film in a tight red climbing top, unzipped to reveal a hint of cleavage, and still looks hot when covered in sweat, dirt and blood. Being played by Natalie Mendoza helps.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "sure"
+                ], 
+                "role": "Team Mom: While Juno leads the group, it's Becca who reassures them and makes sure they're doing everything safely.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0435625", 
+    "poster_url": "TheDescent.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "HaloLegends", 
+            "name": "Halo Legends", 
+            "poster_url": "HaloLegends.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }
+    ], 
+    "id": "TheDescent", 
+    "name": "The Descent"
+}

@@ -1,0 +1,106 @@
+{
+    "plot": "A group of young adults attend an all-night rave only to discover that it's a trap for a satanic cult that requires flesh for bloody sacrifices.After a night of being chased by masked members, the would-be victims find sanctuary", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2001", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "bitchy", 
+                    "rich", 
+                    "trouble"
+                ], 
+                "role": "Alpha Bitch: Sam could count as a deconstruction. While she fits the bill \u2014 blonde, bitchy, rich father \u2014 she breaks down in the film and says that her father never pays any attention to her except when she's got herself in trouble and she says that she doesn't want to end up like her parents.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "real", 
+                    "brunette"
+                ], 
+                "role": "Blondes are Evil: Sam though she's just a bitch really.  The real evil chick in the film is brunette.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "Final", 
+                    "first"
+                ], 
+                "role": "Final Girl: We can pretty much guess who will live within the first five minutes.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in Black:  Fawn after her Face-Heel Turn.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [
+                    "covered"
+                ], 
+                "role": "Woman in White: Fawn, when they first find her. She's covered in blood though.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0245866", 
+    "poster_url": "DevilsPrey.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "AlphaBitch", 
+                "WomanInWhite", 
+                "FinalGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "TheGrudge", 
+            "name": "The Grudge", 
+            "poster_url": "TheGrudge.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "BlondesAreEvil", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "AlphaBitch", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "CoolWorld", 
+            "name": "Cool World", 
+            "poster_url": "CoolWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "AlphaBitch", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "AlphaBitch", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "Rebecca", 
+            "name": "Rebecca", 
+            "poster_url": "Rebecca.jpg"
+        }
+    ], 
+    "id": "DevilsPrey", 
+    "name": "Devil's Prey"
+}

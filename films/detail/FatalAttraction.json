@@ -1,0 +1,89 @@
+{
+    "plot": "Happily married New York lawyer Dan Callagher has an affair with his colleague Alex, and the two enjoy a love weekend while Dan's wife and kid are away. But Alex will not let go of him, and she will stop at nothing to have him for herself. Just how far will she go to get what she wants?.", 
+    "genres": "Drama, Thriller", 
+    "release_year": "1987", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "ill", 
+                    "evil"
+                ], 
+                "role": "Alex Forrest (Glenn Close) in Fatal Attraction, though she was arguably more ill than evil.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Blondes are Evil: Again, Alex.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear/Papa Wolf: Beth and Dan, given their reactions to the threats against Ellen.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: Alex, especially near the end.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093010", 
+    "poster_url": "FatalAttraction.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "WomanScorned", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "WomanScorned", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "ClassOf1984", 
+            "name": "Class Of", 
+            "poster_url": "ClassOf1984.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "ItTakesTwo", 
+            "name": "It Takes Two", 
+            "poster_url": "ItTakesTwo.jpg"
+        }
+    ], 
+    "id": "FatalAttraction", 
+    "name": "Fatal Attraction"
+}

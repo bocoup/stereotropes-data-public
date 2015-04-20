@@ -1,0 +1,90 @@
+{
+    "plot": "Biopic of J. Edgar Hoover told by Hoover as he recalls his career for a biography. Early in his career, Hoover fixated on Communists, anarchists and any other revolutionary taking action against the U.S. government. He slowly builds the agency's reputation, becoming the sole arbiter of who gets hired and fired. One of his hires is Clyde Tolson who is quickly promoted to Assistant Director and would be Hoover's confidant and companion for the rest of Hoover's life. Hoover's memories have him playing a greater role in the many high profile cases the FBI was involved in - the Lindbergh baby kidnapping, the arrest of bank robbers like John Dillinger - and also show him to be quite adept at manipulating the various politicians he's worked with over his career, thanks in large part to his secret files.", 
+    "genres": "Biography, Crime, Drama", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [
+                    "Sharp-Dressed", 
+                    "other"
+                ], 
+                "role": "Sharp-Dressed Man: J Edgar and Tolson obsess about other agents' fashion choices and are generally conservatively, but very well dressed themselves.", 
+                "id": "SharpDressedMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Almost the premise of J. Edgar.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Anna Hoover.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt1616195", 
+    "poster_url": "JEdgar.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionInWinter", 
+            "name": "The Lion in Winter", 
+            "poster_url": "TheLionInWinter.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "ThrowMommaFromTheTrain", 
+            "name": "Throw Momma from the Train", 
+            "poster_url": "ThrowMommaFromTheTrain.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "Notorious", 
+            "name": "Notorious", 
+            "poster_url": "Notorious.jpg"
+        }
+    ], 
+    "id": "JEdgar", 
+    "name": "J. Edgar"
+}

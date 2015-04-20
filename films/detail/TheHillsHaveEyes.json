@@ -1,0 +1,84 @@
+{
+    "plot": "Wes Craven produces this remake of his 1977 classic of the same name, about the Carters, an idyllic American family travelling through the great American southwest. But their trip takes a detour into an area closed off from the public, but more importantly from society. An area originally used by the U.S. Government for nuclear testing that was intended to be empty...or so they thought? When the Carter's car breaks down at the old site, they're stranded...or are they? As the Carters may soon realize that what seemed like a car casually breaking down, might actually be a trap. This trap might be perpetrated by the inhabitants of the site who aren't pulling a prank, but are out to set up a gruesome massacre.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil - Papa Jupiter in the '77 version.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Doug", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "few", 
+                    "serious"
+                ], 
+                "role": "The remake of The Hills Have Eyes, when the nerdy pacifist protagonist shed a few layers of clothing, broke out the weaponry, and stomped off to avenge his family and cause some serious mutant pain.", 
+                "id": "AdrenalineMakeover"
+            }
+        ]
+    }, 
+    "imdbid": "tt0454841", 
+    "poster_url": "TheHillsHaveEyes.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "AdrenalineMakeover"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "AdrenalineMakeover"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIncredibles", 
+            "name": "The Incredibles"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "AirForceOne", 
+            "name": "Air Force One", 
+            "poster_url": "AirForceOne.jpg"
+        }, 
+        {
+            "shared": [
+                "AdrenalineMakeover", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "LastActionHero", 
+            "name": "Last Action Hero", 
+            "poster_url": "LastActionHero.jpg"
+        }
+    ], 
+    "id": "TheHillsHaveEyes", 
+    "name": "The Hills Have Eyes"
+}

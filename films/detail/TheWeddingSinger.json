@@ -1,0 +1,92 @@
+{
+    "plot": "Robbie Hart is singing the hits of the 1980s at weddings and other celebrations. He also can keep the party going in good spirit, he knows what to say and when to say it. Julia is a waitress at the events where Robbie performs. When both of them find someone to marry and prepare for their weddings, it becomes clear that they've chosen wrong partners.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "happy"
+                ], 
+                "role": "The Casanova: Sammy admits in the opening act that he wants to be like Fonzie. Glenn is also one of these, and doesn't plan to stop even after he gets married. Later, however, Sammy admits to Robbie that he's not at all happy with his lifestyle.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "shallow"
+                ], 
+                "role": "Julia's shallow Rich Bitch mother.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team Mom: Grandma", 
+                "id": "TeamMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Holly", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120888", 
+    "poster_url": "TheWeddingSinger.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "TheChick", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "TeamMom", 
+                "TheChick"
+            ], 
+            "shared_count": 3, 
+            "id": "FairyTail", 
+            "name": "Fairy Tail"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "EightBelow", 
+            "name": "Eight Below", 
+            "poster_url": "EightBelow.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }
+    ], 
+    "id": "TheWeddingSinger", 
+    "name": "The Wedding Singer"
+}

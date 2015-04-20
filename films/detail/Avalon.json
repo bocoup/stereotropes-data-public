@@ -1,0 +1,96 @@
+{
+    "plot": "In a future world, young people are increasingly becoming addicted to an illegal (and potentially deadly) battle simulation game called Avalon. When Ash, a star player, hears of rumors that a more advanced level of the game exists somewhere, she gives up her loner ways and joins a gang of explorers. Even if she finds the gateway to the next level, will she ever be able to come back to reality?", 
+    "genres": "Action, Drama, Fantasy", 
+    "release_year": "2001", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Ash", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Ash", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "This is also a Cute Ghost Girl.", 
+                "id": "CuteGhostGirl"
+            }, 
+            {
+                "adjectives": [
+                    "clear"
+                ], 
+                "role": "Gamer Chick: Ash. Although not shown, it is clear that she is well known and plays for the audience in the lobby. Also an Emotionless Girl and Girls with Guns.", 
+                "id": "GamerChick"
+            }, 
+            {
+                "adjectives": [
+                    "Mysterious", 
+                    "similar"
+                ], 
+                "role": "Mysterious Waif: The ghost which appears in-game similar to a glitch in the matrix. But also  in Ash's base reality. This is also a Cute Ghost Girl. And a Portal Door, once you manage to shoot it.", 
+                "id": "MysteriousWaif"
+            }
+        ]
+    }, 
+    "imdbid": "tt0267287", 
+    "poster_url": "Avalon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "ActionGirl", 
+                "GamerChick"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }
+    ], 
+    "id": "Avalon", 
+    "name": "Avalon"
+}

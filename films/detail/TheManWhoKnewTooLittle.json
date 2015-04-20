@@ -1,0 +1,117 @@
+{
+    "plot": "An American gets a ticket for an audience participation game in London, then gets involved in a case of mistaken identity. As an international plot unravels around him, he thinks it's all part of the act.", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "brutal", 
+                    "literal", 
+                    "much", 
+                    "little"
+                ], 
+                "role": "Boris the Butcher from the film The Man Who Knew Too Little is something of a parody. He's certainly a brutal and ruthless Professional Killer (we're told that he once decapitated a man). He's also a literal butcher as his day job, and much prefers running his little butcher's shop with his wife to moonlighting as a hitman.", 
+                "id": "TheButcher"
+            }, 
+            {
+                "adjectives": [
+                    "dual", 
+                    "spy/hitman", 
+                    "brutal", 
+                    "messy"
+                ], 
+                "role": "The Butcher: Boris Blavasky. In this case, it has a dual meaning- \"Butcher\" because his work as a spy/hitman is so brutal and messy, but also because \"butcher\" is actually his day job.", 
+                "id": "TheButcher"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "French"
+                ], 
+                "role": "French Maid: Lori's costume in her introductory scene.", 
+                "id": "FrenchMaid"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Lori, though she insists she's not a call-girl. Even though she accepted money for sex with the Minister of Defense.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "superficial", 
+                    "evil", 
+                    "particular", 
+                    "first"
+                ], 
+                "role": "The Baroness: Dr. Ludmilla Kropotkin averts the superficial aspects of the \"evil torturer lady\" stereotype. But Wallace's familiarity with that particular trope leads him to mistake the first septuagenerian dominatrix he meets for Dr. Kropotkin.", 
+                "id": "TheBaroness"
+            }, 
+            {
+                "adjectives": [
+                    "evil", 
+                    "septuagenarian", 
+                    "real", 
+                    "schoolteacher\u2014though", 
+                    "true"
+                ], 
+                "role": "The Man Who Knew Too Little plays with this trope. Upon learning from his captors that he's going to be interrogated by Dr. Ludmilla Kropotkin, Wallace Ritchie replies, \"The evil torturer lady? Bring her on!\" After escaping, Wallace runs into a septuagenarian dominatrix (don't ask) and assumes that she is Dr. Kropotkin. By contrast, the real Dr. Kropotkin looks like a schoolteacher\u2014though she certainly has the personality of a true Baroness.", 
+                "id": "TheBaroness"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120483", 
+    "poster_url": "TheManWhoKnewTooLittle.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "TheButcher"
+            ], 
+            "shared_count": 2, 
+            "id": "RustlersRhapsody", 
+            "name": "Rustlers' Rhapsody", 
+            "poster_url": "RustlersRhapsody.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "TheButcher"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Purgatory", 
+            "name": "Purgatory", 
+            "poster_url": "Purgatory.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "TheManWhoKnewTooLittle", 
+    "name": "The Man Who Knew Too Little"
+}

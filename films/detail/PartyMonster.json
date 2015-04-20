@@ -1,0 +1,100 @@
+{
+    "plot": "Set in the New York club scene of the late 1980's thru the 1990's, a tale which chronicles the rise and fall of club-kid promoter Michael Alig, a party organizer, whose extravagant life was sent spiralling downward when he boasted on television that he had killed his friend, roommate, and drug dealer, Angel Melendez. Originally from Indiana, Alig moved to New York, and came to be an underground legend, known for his excessive drug use and outrageous behavior in the club world. At his peak, he had his own record label, and magazine, and hosted Disco 2000, one of the biggest club nights in New York in the '90s. He was doing a lot of drugs, and as his addiction got worse, his party themes became darker and more twisted. Alig's saga reached its tragic crescendo when he viciously murdered his drug dealer, Angel, by injecting him with Drano and throwing him in the East River. The power he wielded on the club scene made him feel untouchable, so he didn't hestitate to boast of the murder. The press thought it was a publicity stunt--until Angel's body washed ashore.", 
+    "genres": "Biography, Crime, Drama", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: James St. James.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "Non-White", 
+                    "childish", 
+                    "exploitative"
+                ], 
+                "role": "Scary Non-White Man: Angel is not one of these at all, despite filling the role of Michael's drug dealer and occasionally having to show up to shake him and his friends down for payment. He comes across as a rather disillusioned Only Sane Man thrust among childish, exploitative addicts.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "new", 
+                    "straight", 
+                    "first", 
+                    "volatile"
+                ], 
+                "role": "Manic Pixie Dream Boy: Michael is this, declaring Keoki his new boyfriend on the spot despite protests that he's straight, dubbing him no longer a baggage handler but DJ Superstar Keoki, hauling him on a stolen taxi ride and ensuing chase across town, and sharing their first kiss (or more) in a dumpster, all on one night. Unfortunately, he's also a little volatile.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "recent", 
+                    "subsequent", 
+                    "surgical", 
+                    "collective"
+                ], 
+                "role": "Naughty Nurse Outfit: Michael memorably wears one of these at a party inspired by his most recent OD and subsequent trip to the hospital. It's constructed mostly out of surgical masks and held on by the audience's collective desire not to see the kid from Home Alone naked.", 
+                "id": "NaughtyNurseOutfit"
+            }
+        ]
+    }, 
+    "imdbid": "tt0320244", 
+    "poster_url": "PartyMonster.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NaughtyNurseOutfit", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AsGoodAsItGets", 
+            "name": "As Good As It Gets", 
+            "poster_url": "AsGoodAsItGets.jpg"
+        }, 
+        {
+            "shared": [
+                "NaughtyNurseOutfit", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FerrisBuellersDayOff", 
+            "name": "Ferris Bueller's Day Off", 
+            "poster_url": "FerrisBuellersDayOff.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongestYard", 
+            "name": "The Longest Yard", 
+            "poster_url": "TheLongestYard.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }
+    ], 
+    "id": "PartyMonster", 
+    "name": "Party Monster"
+}

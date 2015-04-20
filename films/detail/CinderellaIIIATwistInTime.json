@@ -1,0 +1,88 @@
+{
+    "plot": "Lady Tremaine gets her hands on the Fairy Godmother's wand, then turns back time to the day Cinderella tried on the glass slipper. She enlarges the slipper to fit one of the stepsisters, Anastasia, then erases Prince Charming's memories of meeting Cinderella. Now, Cinderella must foil Lady Tremaine's scheme and win back her prince.", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "serious"
+                ], 
+                "role": "Given even more credibility in the surprisingly-good Cinderella III: A Twist in Time. Once the Prince decides he's going after Cinderella, there is nothing his father can say to stop him. (The King, to his credit, lets him go once he realizes how serious the Prince is about it.)", 
+                "id": "RebelPrince"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Rebel Prince: Once Charming decides to do something, there's absolutely nothing his father can do to stop him.", 
+                "id": "RebelPrince"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Friday: Prudence.", 
+                "id": "GirlFriday"
+            }, 
+            {
+                "adjectives": [
+                    "magic"
+                ], 
+                "role": "Plucky Girl: Cinderella. Now that magic is being used against her, she decides to fight back...", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0465940", 
+    "poster_url": "CinderellaIIIATwistInTime.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "RebelPrince", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelPrince", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlFriday"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }
+    ], 
+    "id": "CinderellaIIIATwistInTime", 
+    "name": "Cinderella III: A Twist in Time"
+}

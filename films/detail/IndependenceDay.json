@@ -1,0 +1,120 @@
+{
+    "plot": "On July 2nd, communications systems worldwide are sent into chaos by a strange atmospheric interference. It is soon learned by the military that a number of enormous objects are on a collision course with Earth. At first thought to be meteors, they are later revealed to be gigantic spacecraft, piloted by a mysterious alien species. After attempts to communicate with the aliens go nowhere, David Levinson, an ex-scientist turned cable technician, discovers that the aliens are going to attack major points around the globe in less than a day. On July 3rd, the aliens all but obliterate New York, Los Angeles, and Washington, as well as Paris, London, Houston and Moscow. The survivors set out in convoys towards Area 51, a strange government testing ground where it is rumored the military has a captured alien spacecraft of their own. The survivors devise a plan to fight back against the enslaving aliens, and July 4th becomes the day humanity will fight for its freedom. July 4th is their Independence Day...", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded"
+                ], 
+                "role": "Absent-Minded Professor: Dr. Brackish Okun, head of the alien lab at Area 51.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: The father of Jasmine's son has been out of the picture for some time.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "potential"
+                ], 
+                "role": "Independence Day: Jasmine's son Dylan's father is not Steve Hiller, but Jasmine hopes he wants the job. We're not informed specifically what the deal is with Dylan, but given Jazz is a stripper, the potential exists that he ran out on her.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "David Levinson of Independence Day. He's played by Jeff Goldblum.", 
+                "id": "NiceJewishBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "chronic", 
+                    "same"
+                ], 
+                "role": "Independence Day: Russell Case is raising his kids alone. By a comment he makes, she probably died of a chronic illness, possibly the same one his child suffers from.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: David Levinson. The Casse kids. The President's daughter, presumably, after the events of the movie.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "good", 
+                    "sympathetic"
+                ], 
+                "role": "Jasmine from Independence Day. Unlike most examples however, she has no regrets about the work (\"It's good money. Besides, my baby's worth it.\"), and the film deserves credit for not making her any less sympathetic.", 
+                "id": "SingleMomStripper"
+            }, 
+            {
+                "adjectives": [
+                    "worth"
+                ], 
+                "role": "Single Mom Stripper: Jasmine. She's not at all ashamed of her line of work, declaring simply that her son is worth it.", 
+                "id": "SingleMomStripper"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116629", 
+    "poster_url": "IndependenceDay.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "AbsentMindedProfessor", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "AbsentMindedProfessor", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "StarTrekInsurrection", 
+            "name": "Star Trek: Insurrection", 
+            "poster_url": "StarTrekInsurrection.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }
+    ], 
+    "id": "IndependenceDay", 
+    "name": "Independence Day"
+}

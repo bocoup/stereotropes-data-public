@@ -1,0 +1,71 @@
+{
+    "plot": "Ray Breslin is the world's foremost authority on structural security. After analyzing every high security prison and learning a vast array of survival skills so he can design escape-proof prisons, his skills are put to the test. He's framed and incarcerated in a master prison he designed himself. He needs to escape and find the person who put him behind bars.", 
+    "genres": "Action, Mystery, Thriller", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Both Breslin and Rottmayer.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crusading Widower: Breslin was a lawyer, but when his wife and son were killed by a man who had broken out of prison after Breslin sent him there, he dedicated his life to breaking out of prisons so any flaws could be found and repaired.", 
+                "id": "CrusadingWidower"
+            }
+        ]
+    }, 
+    "imdbid": "tt1211956", 
+    "poster_url": "EscapePlan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CrusadingWidower"
+            ], 
+            "shared_count": 2, 
+            "id": "DawnOfThePlanetOfTheApes", 
+            "name": "Dawn Of The Planet Of The Apes", 
+            "poster_url": "DawnOfThePlanetOfTheApes.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CrusadingWidower"
+            ], 
+            "shared_count": 2, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Kagemusha", 
+            "name": "Kagemusha", 
+            "poster_url": "Kagemusha.jpg"
+        }
+    ], 
+    "id": "EscapePlan", 
+    "name": "Escape Plan"
+}

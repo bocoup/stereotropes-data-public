@@ -1,0 +1,86 @@
+{
+    "plot": "The third thrilling saga of Deathstalker pits him against the evil wizard and ruler of the Southland, Troxartes, and his band of undead warriors. Dashing Deathstalker is entrusted by the beautiful Princess Carissa to protect an enchanted Jewel one of three which together hold the key to the lost city of treasure, Erendor. The missing pair of gems are stashed all too safely in the heavily guarded castle of the wicked Troxartes. His mission clear, Deathstalker rouses his troops and storms the fortress with the power of lightning. And in this fateful battle, one man will survive to witness the magical secrets of Erendor.", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Troxartas' head mook.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Troxartas and Deathstalker both have one.", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wizard Beard: Nicias", 
+                "id": "WizardBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: We have two princesses, though one dies early on.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097174", 
+    "poster_url": "DeathstalkerAndTheWarriorsFromHell.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Nemo", 
+            "name": "Nemo"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "GIJoeRetaliation", 
+            "name": "G.I. Joe: Retaliation", 
+            "poster_url": "GIJoeRetaliation.jpg"
+        }
+    ], 
+    "id": "DeathstalkerAndTheWarriorsFromHell", 
+    "name": "Deathstalker and the Warriors from Hell"
+}

@@ -1,0 +1,84 @@
+{
+    "plot": "A persiflage on the protest movements of the 60s. Its hero is the bold and sex-obsessed tom-cat Fritz the Cat, as created by the legendary underground artist Robert Crumb. Quitting university Fritz the Cat wanders through the hash, Black Panther and Hell's Angels scenes to find to himself.", 
+    "genres": "Animation, Comedy", 
+    "release_year": "1972", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Camp Gay: The first crow to appear in the film.", 
+                "id": "CampGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "song"
+                ], 
+                "role": "Femme Fatale: Winston Schwartz, as evidenced by the song which introduces her:", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Winston Schwartz from Fritz the Cat was intended to be this by Ralph Bakshi.", 
+                "id": "JewishAmericanPrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0068612", 
+    "poster_url": "FritzTheCat.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "JewishAmericanPrincess"
+            ], 
+            "shared_count": 2, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "AbsoluteBeginners", 
+            "name": "Absolute Beginners", 
+            "poster_url": "AbsoluteBeginners.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TemptationIsland", 
+            "name": "Temptation Island"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBigLebowski", 
+            "name": "The Big Lebowski", 
+            "poster_url": "TheBigLebowski.jpg"
+        }
+    ], 
+    "id": "FritzTheCat", 
+    "name": "Fritz the Cat"
+}

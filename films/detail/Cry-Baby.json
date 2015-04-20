@@ -1,0 +1,120 @@
+{
+    "plot": "Allison is a \"square\" good girl who has decided she wants to be bad and falls hard for Cry-Baby Walker, a Greaser (or \"Drape\" in John Waters parlance). Spoofing Elvis movies and Juvenile Delinquency scare films of the '50s, this movie follows the adventures of Cry-Baby who, though he is sent to juvie, is determined to cross class (and taste) boundaries to get Allison back.", 
+    "genres": "Comedy, Musical", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Cry-Baby"
+                ], 
+                "role": "Chick Magnet: Cry-Baby, of course.", 
+                "id": "ChickMagnet"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "skin-tight"
+                ], 
+                "role": "Adrenaline Makeover: What the drapettes do for Allison. It mainly involves Letting Her Hair Down, and giving her a pair of skin-tight pedal-pushers and a bustier top.", 
+                "id": "AdrenalineMakeover"
+            }, 
+            {
+                "adjectives": [
+                    "Cry-Baby"
+                ], 
+                "role": "Girl Posse: The Cry-Baby girls, to a degree.", 
+                "id": "GirlPosse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Grandma: Ramona Rickets and, eventually, Mrs. Vernon-Williams.", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [
+                    "Cry-Baby", 
+                    "black", 
+                    "perky", 
+                    "optimistic", 
+                    "surly"
+                ], 
+                "role": "A 1950s example: the title character in Cry-Baby, who has a tattoo of a black teardrop dripping from his eye. He's not exactly \"perky,\" but he's generally optimistic despite his surly attitude.", 
+                "id": "PerkyGoth"
+            }, 
+            {
+                "adjectives": [
+                    "conservative"
+                ], 
+                "role": "Seemingly Wholesome '50s Girl: Allison eventually develops into one of these. She remains more or less her sweet self, but now she's a delinquent's girlfriend, and more inclined to less conservative outfits.", 
+                "id": "SeeminglyWholesomeFiftiesGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Allison.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0099329", 
+    "poster_url": "Cry-Baby.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChickMagnet", 
+                "AdrenalineMakeover", 
+                "NeverMessWithGranny", 
+                "SpoiledSweet", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "GirlPosse"
+            ], 
+            "shared_count": 6, 
+            "id": "CryBaby", 
+            "name": "Cry-Baby", 
+            "poster_url": "CryBaby.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "ChickMagnet", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "AdrenalineMakeover"
+            ], 
+            "shared_count": 2, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "ChickMagnet"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }
+    ], 
+    "id": "Cry-Baby", 
+    "name": "Cry-Baby"
+}

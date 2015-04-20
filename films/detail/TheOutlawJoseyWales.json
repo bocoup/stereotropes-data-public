@@ -1,0 +1,86 @@
+{
+    "plot": "Josey Wales makes his way west after the Civil War, determined to live a useful and helpful life. He joins up with a group of settlers who need the protection that a man as tough and experienced as he is can provide. Unfortunately, the past has a way of catching up with you, and Josey is a wanted man.", 
+    "genres": "Western", 
+    "release_year": "1976", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard / Beard of Sorrow: Josey grows one during the war.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Lone Watie", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Also doubles as a Beard of Sorrow.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The two mountain men are interrupted while attempting to rape Little Moonlight.", 
+                "id": "MountainMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0075029", 
+    "poster_url": "TheOutlawJoseyWales.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BadassGrandpa", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BadassGrandpa", 
+                "MountainMan"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendsOfTheFall", 
+            "name": "Legends Of The Fall"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "MountainMan", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "JeremiahJohnson", 
+            "name": "Jeremiah Johnson", 
+            "poster_url": "JeremiahJohnson.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }
+    ], 
+    "id": "TheOutlawJoseyWales", 
+    "name": "The Outlaw Josey Wales"
+}

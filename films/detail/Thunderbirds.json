@@ -1,0 +1,82 @@
+{
+    "plot": "The year is 2010. Teenager Alan Tracy, sent off to a distant boarding school, is the youngest of the sons of Jeff Tracy, a retired American astronaut. Jeff, a widower, has formed International Rescue, and raised his sons to act as a secret, volunteer organization which uses highly advanced technology to save lives worldwide. Jeff and his older sons John, Virgil, Scott, and Gordon, who like Alan were named after the Mercury Seven astronauts are joined in this effort by Lady Penelope and her butler/chauffeur Parker. Their futuristic hardware is largely developed by a genius scientist known as Brains, who lives at the International Rescue base on Tracy Island, somewhere in the Pacific.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "2004", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl Lady Penelope, even more than in the series. Tin-Tin, unlike in the series.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "form-fitting", 
+                    "Painted-On", 
+                    "complete"
+                ], 
+                "role": "Butter Face: Transom's introduction has her climbing down a ladder in some very form-fitting Painted-On Pants, complete with Male Gaze... Then she turns around.", 
+                "id": "ButterFace"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Penelope in the live-action Thunderbirds movie. Her character introduction is being greeted by a crowd of prepubescent boys as she arrives to pick Alan up. And of course she has to say \"Hello boys\".", 
+                "id": "HelloNurse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0167456", 
+    "poster_url": "Thunderbirds.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HelloNurse", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ButterFace", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }, 
+        {
+            "shared": [
+                "ButterFace", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Lucifer", 
+            "name": "Lucifer"
+        }, 
+        {
+            "shared": [
+                "HelloNurse", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }
+    ], 
+    "id": "Thunderbirds", 
+    "name": "Thunderbirds"
+}

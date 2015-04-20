@@ -1,0 +1,116 @@
+{
+    "plot": "While filming a horror movie of mummy in a forest, the students and their professor of the University of Pittsburgh hear on the TV the news that the dead are awaking and walking. Ridley and Francine decide to leave the group, while Jason heads to the dormitory of his girlfriend Debra Monahan. She does not succeed in contacting her family and they travel in Mary's van to the house of Debra's parents in Scranton, Pennsylvania. While driving her van, Mary sees a car accident and runs over a highway patrolman and three other zombies trying to escape from them. Later the religious Mary is depressed, questioning whether the victims where really dead, and tries to commit suicide, shooting herself with a pistol. Her friends take her to a hospital where they realize that the dead are indeed awaking and walking and they need to fight to survive while traveling to Debra's parents house.", 
+    "genres": "Horror", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: The Professor starts off drunk and looking pretty feeble. He turns out to be a war veteran and a crack archer. Also Samuel, the mute Amish toting sticks of dynamite. And a scythe.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "appear", 
+                    "black", 
+                    "softly-spoken", 
+                    "Bad", 
+                    "nervous", 
+                    "only", 
+                    "entire", 
+                    "ex-National", 
+                    "aggressive", 
+                    "white", 
+                    "previous", 
+                    "scary"
+                ], 
+                "role": "Diary of the Dead. The teenaged protagonists are captured by what appear to be black gang members led by a softly-spoken Bad Ass who is the embodiment of this trope. The group are visibly nervous, with the Ms. Fanservice of the group pulling her coat across her cleavage for the only time in the entire movie. It turns out they're ex-National Guard who end up (after some aggressive negotiating) giving them the supplies they need \u2014 which ironically enough are stolen by a group of white National Guardsmen.\n Romero's previous outing, Land of the Dead, had Eugene Clark as a scary black dead man.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "female", 
+                    "paramedic"
+                ], 
+                "role": "Action Girl / Badass Bystander / Heroic Bystander: In the opening scene, a female paramedic karate-kicks a zombie in the head.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: First played straight then subverted.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Final", 
+                    "much"
+                ], 
+                "role": "Final Girl:  Not played entirely straight. Debra is the narrator and protagonist (and survives) but while she isn't The Millstone she doesn't actually contribute much to killing zombies or keeping the group safe (even her quick thinking use of a defibrillator doesn't truly finish off a zombie).", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0848557", 
+    "poster_url": "DiaryOfTheDead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }
+    ], 
+    "id": "DiaryOfTheDead", 
+    "name": "Diary of the Dead"
+}

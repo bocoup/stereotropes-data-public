@@ -1,0 +1,159 @@
+{
+    "plot": "The LEGO Movie is a 3D animated film which follows lead character, Emmet a completely ordinary LEGO mini-figure who is identified as the most \"extraordinary person\" and the key to saving the Lego universe. Emmet and his friends go on an epic journey to stop the evil tyrant, Lord Business.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Touch"
+                ], 
+                "role": "Archnemesis Dad: \"The Man Upstairs\" is this to Finn, who scolds him for playing with his figures and universe, as well as puts up \"Do Not Touch\" signs in his basement.", 
+                "id": "ArchnemesisDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Metal Beard has one made of... well... metal. Appropriate for a character played by Nick Offerman.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Vitruvius.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Dude: Emmet when captured by Bad Cop/Good Cop.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Shirtless Scene: In a behind the scenes feature, President Business listed other people who could have voiced him, including Ryan Gosling. Just at that moment, Business had his shirt off and had a ripped torso.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Wyldstyle.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "different", 
+                    "giant"
+                ], 
+                "role": "Crazy Cat Lady: Mrs. Scratchen-Post, who owns over a dozen cats, all with different names. At the climax of the film, she builds a giant sled pulled by them.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [
+                    "Uni-Kitty"
+                ], 
+                "role": "Everything's Better with Princesses: Uni-Kitty.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "Stable", 
+                    "Regular"
+                ], 
+                "role": "Manic Pixie Dream Girl: Wyldstyle, to an extent, though it can be argued that Emmet is a Stable Regular Dream Guy for her...", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Wyldstyle, Action Girl variety.", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [
+                    "Uni-Kitty"
+                ], 
+                "role": "The Cutie: Uni-Kitty.", 
+                "id": "TheCutie"
+            }, 
+            {
+                "adjectives": [
+                    "Uni-Kitty"
+                ], 
+                "role": "Tomboy and Girly Girl: Wyldstyle is the Tomboy to Uni-Kitty's Girly Girl.", 
+                "id": "TomBoyAndGirlyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wrench Wench: Wyldstyle likes to build cars in her spare time.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt1490017", 
+    "poster_url": "TheLEGOMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DistressedDude", 
+                "EverythingsBetterWithPrincesses", 
+                "TomBoyAndGirlyGirl", 
+                "ActionGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 5, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ShirtlessScene", 
+                "BadAssBeard", 
+                "ActionGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 5, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ShirtlessScene", 
+                "ActionGirl", 
+                "TheChick"
+            ], 
+            "shared_count": 4, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DistressedDude", 
+                "WrenchWench", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ShirtlessScene", 
+                "BadAssBeard", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }
+    ], 
+    "id": "TheLEGOMovie", 
+    "name": "The LEGO Movie"
+}

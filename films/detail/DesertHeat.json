@@ -1,0 +1,91 @@
+{
+    "plot": "Eddie Lomax (Van Damme) is a vetern soldier sick of life, wandering the desert looking for a reason to die. An incident with a few thugs from the nearby town who steal Eddies motorbike and beat him almost to death, starts in Eddie a flame for revenge. Helped by Mr. Early, and some other good fellows, Eddie is out for vengeance.", 
+    "genres": "Action, Drama, Romance", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: The Hogans.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Desert Heat has a family of these, the Hogans, who are one of two gangs in the film.", 
+                "id": "CorruptHick"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Dirty Old Woman: Dear old Rose Delvecchio seems pleased as punch to watch Eddie have loud sex with two blonds while sipping her liquor straight from the bottle with a straw.", 
+                "id": "DirtyOldWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Rose Delvecchio in Desert Heat enjoys peeping on threesomes through windows, shooting liquor straight from the bottle, and praising the lord.", 
+                "id": "DirtyOldWoman"
+            }, 
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "subsequent"
+                ], 
+                "role": "Disposable Women: The two women Eddie Lomax saves exist solely for their rescue, and subsequent sex, scene.", 
+                "id": "DisposableWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0139151", 
+    "poster_url": "DesertHeat.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "KamenRider", 
+            "name": "Kamen Rider"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "ElectricDreams", 
+            "name": "Electric Dreams", 
+            "poster_url": "ElectricDreams.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }
+    ], 
+    "id": "DesertHeat", 
+    "name": "Desert Heat"
+}

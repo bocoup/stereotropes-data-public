@@ -1,0 +1,75 @@
+{
+    "plot": "Earl is engaged to his step-sister Baby. Baby has entrusted him to take care of her misfit cousin Junior. Baby is also intent on leaving Texas for LA on Tuesday. When Junior and his recently released ex-con friend Tinker rob a pizza delivery boy and end up with $20,000 of drug money Earl is forced onto the scene, giving up his and Baby's LA money to save Juniors limbs.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "polite", 
+                    "good", 
+                    "mechanic", 
+                    "entire"
+                ], 
+                "role": "Gay Cowboy: Jimbo. He's polite as can be, good with a shotgun, and rather worried about keeping his mechanic uniform clean. Also looking for a date the entire film.", 
+                "id": "GayCowboy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Jimbo.", 
+                "id": "StraightGay"
+            }
+        ]
+    }, 
+    "imdbid": "tt0269483", 
+    "poster_url": "LoneStarStateOfMind.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GayCowboy"
+            ], 
+            "shared_count": 1, 
+            "id": "MidnightCowboy", 
+            "name": "Midnight Cowboy", 
+            "poster_url": "MidnightCowboy.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionInWinter", 
+            "name": "The Lion in Winter", 
+            "poster_url": "TheLionInWinter.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "ValentinesDay", 
+            "name": "Valentine's Day", 
+            "poster_url": "ValentinesDay.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay"
+            ], 
+            "shared_count": 1, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }
+    ], 
+    "id": "LoneStarStateOfMind", 
+    "name": "Lone Star State of Mind"
+}

@@ -1,0 +1,72 @@
+{
+    "plot": "Mortimer Brewster is a newspaperman and author known for his diatribes against marriage. We watch him being married at city hall in the opening scene. Now all that is required is a quick trip home to tell Mortimer's two maiden aunts. While trying to break the news, he finds out his aunts' hobby; killing lonely old men and burying them in the cellar. It gets worse.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "1944", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "special", 
+                    "cordial", 
+                    "special"
+                ], 
+                "role": "Aunt Abby and Aunt Martha Brewster in the play and movie Arsenic and Old Lace. Their special cordial is extremely special.", 
+                "id": "MaidenAunt"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Maiden Aunt: Abby and Martha never married, but they seem to have raised both Jonathan and Mortimer.", 
+                "id": "MaidenAunt"
+            }
+        ]
+    }, 
+    "imdbid": "tt0036613", 
+    "poster_url": "ArsenicAndOldLace.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MaidenAunt"
+            ], 
+            "shared_count": 1, 
+            "id": "AuntieMame", 
+            "name": "Auntie Mame", 
+            "poster_url": "AuntieMame.jpg"
+        }, 
+        {
+            "shared": [
+                "MaidenAunt"
+            ], 
+            "shared_count": 1, 
+            "id": "Hausu", 
+            "name": "Hausu"
+        }, 
+        {
+            "shared": [
+                "MaidenAunt"
+            ], 
+            "shared_count": 1, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }, 
+        {
+            "shared": [
+                "MaidenAunt"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMiracleWorker", 
+            "name": "The Miracle Worker", 
+            "poster_url": "TheMiracleWorker.jpg"
+        }, 
+        {
+            "shared": [
+                "MaidenAunt"
+            ], 
+            "shared_count": 1, 
+            "id": "TheHouseOfTheSpirits", 
+            "name": "The House of the Spirits", 
+            "poster_url": "TheHouseOfTheSpirits.jpg"
+        }
+    ], 
+    "id": "ArsenicAndOldLace", 
+    "name": "Arsenic and Old Lace"
+}

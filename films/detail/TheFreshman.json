@@ -1,0 +1,72 @@
+{
+    "plot": "Clark Kellogg is a young man starting his first year at film school in New York City. After a small time crook steals all his belongings, Clark meets Carmine \"Jimmy the Toucan\" Sabatini, an \"importer\" bearing a startling resemblance to a certain cinematic godfather. When Sabatini makes Clark an offer he can't refuse, he finds himself caught up in a caper involving endangered species and fine dining.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Big Man on Campus: Harold desperately wants to be this, and at the end he succeeds.", 
+                "id": "BigManOnCampus"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Penelope Ann-Miller's character in The Freshman.", 
+                "id": "MafiaPrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0099615", 
+    "poster_url": "TheFreshman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MafiaPrincess"
+            ], 
+            "shared_count": 1, 
+            "id": "OnTheJob", 
+            "name": "On The Job", 
+            "poster_url": "OnTheJob.jpg"
+        }, 
+        {
+            "shared": [
+                "BigManOnCampus"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBestMan", 
+            "name": "The Best Man", 
+            "poster_url": "TheBestMan.jpg"
+        }, 
+        {
+            "shared": [
+                "BigManOnCampus"
+            ], 
+            "shared_count": 1, 
+            "id": "DeadPoetsSociety", 
+            "name": "Dead Poets Society", 
+            "poster_url": "DeadPoetsSociety.jpg"
+        }, 
+        {
+            "shared": [
+                "MafiaPrincess"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }, 
+        {
+            "shared": [
+                "BigManOnCampus"
+            ], 
+            "shared_count": 1, 
+            "id": "FerrisBuellersDayOff", 
+            "name": "Ferris Bueller's Day Off", 
+            "poster_url": "FerrisBuellersDayOff.jpg"
+        }
+    ], 
+    "id": "TheFreshman", 
+    "name": "The Freshman"
+}

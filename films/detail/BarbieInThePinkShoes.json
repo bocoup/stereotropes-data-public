@@ -1,0 +1,91 @@
+{
+    "plot": "Dance your way to a magical adventure with Barbie(TM) as Kristyn(TM), a ballerina with big dreams! When she tries on a pair of sparkling pink shoes, she and her best friend, Hailey(TM), are whisked away to a fantastical ballet world. There, Kristyn(TM) discovers she must dance in her favorite ballets in order to defeat an evil Snow Queen. With performances to the legendary Giselle and Swan Lake ballets, it's a wonderful journey where if you dance with your heart, dreams come true!", 
+    "genres": "Animation, Family", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Sissy Villain: Rothbart.", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Tara.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Daddy's Little Villain: Odile.", 
+                "id": "DaddysLittleVillain"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: In the climax, Hailey gets kidnapped by the Snow Queen and is held hostage as a frozen statue in her palace, and Kristyn has to go off with Albrecht and Hilarion to rescue her.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Meganekko: Hailey and Madame Katerina.", 
+                "id": "Meganekko"
+            }
+        ]
+    }, 
+    "imdbid": "tt2630134", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "Meganekko", 
+                "SissyVillain"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "LaserMission", 
+            "name": "Laser Mission", 
+            "poster_url": "LaserMission.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "DaddysLittleVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieOfSwanLake", 
+            "name": "Barbie of Swan Lake", 
+            "poster_url": "BarbieOfSwanLake.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }
+    ], 
+    "id": "BarbieInThePinkShoes", 
+    "name": "Barbie In The Pink Shoes"
+}

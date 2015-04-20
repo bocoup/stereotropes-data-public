@@ -1,0 +1,65 @@
+{
+    "plot": "Val and Aqua are two household servant robots who start feeling emotions for each other. After falling in love, they decide to escape from their servitude and attempt to start a family of their own.", 
+    "genres": "Sci-Fi, Comedy", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Robot: Catskil", 
+                "id": "CoolOldGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082507", 
+    "poster_url": "Heartbeeps.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekNemesis", 
+            "name": "Star Trek: Nemesis", 
+            "poster_url": "StarTrekNemesis.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }
+    ], 
+    "id": "Heartbeeps", 
+    "name": "Heartbeeps"
+}

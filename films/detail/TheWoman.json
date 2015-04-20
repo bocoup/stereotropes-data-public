@@ -1,0 +1,97 @@
+{
+    "plot": "When a successful country lawyer captures and attempts to \"civilize\" the last remaining member of a violent clan that has roamed the Northeast coast for decades, he puts the lives of his family in jeopardy.", 
+    "genres": "Crime, Drama, Horror", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "He-Man"
+                ], 
+                "role": "He-Man Woman Hater: Chris.", 
+                "id": "HeManWomanHater"
+            }, 
+            {
+                "adjectives": [
+                    "dark"
+                ], 
+                "role": "Chris in The Woman seems to think that he's one of these, but is in fact a very dark subversion.", 
+                "id": "StandardFiftiesFather"
+            }, 
+            {
+                "adjectives": [
+                    "dark"
+                ], 
+                "role": "Standard '50s Father: Chris is a very dark subversion.", 
+                "id": "StandardFiftiesFather"
+            }, 
+            {
+                "adjectives": [
+                    "feral", 
+                    "first"
+                ], 
+                "role": "Straw Misogynist: Chris. His claim that he's trying to \"civilize\" the feral woman is merely an attempt to justify his misogyny, and is played alongside his abuse of the women around him. This is made explicit during the climax, where we see that this isn't the first time he's done this.", 
+                "id": "StrawMisogynist"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Housewife: Belle.", 
+                "id": "HouseWife"
+            }
+        ]
+    }, 
+    "imdbid": "tt1714208", 
+    "poster_url": "TheWoman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "HeManWomanHater"
+            ], 
+            "shared_count": 2, 
+            "id": "AnatomyOfHell", 
+            "name": "Anatomy of Hell", 
+            "poster_url": "AnatomyOfHell.jpg"
+        }, 
+        {
+            "shared": [
+                "StandardFiftiesFather", 
+                "HouseWife"
+            ], 
+            "shared_count": 2, 
+            "id": "LeaveItToBeaver", 
+            "name": "Leave It to Beaver"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "HeManWomanHater"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist"
+            ], 
+            "shared_count": 1, 
+            "id": "FiftyFifty", 
+            "name": "50/50", 
+            "poster_url": "FiftyFifty.jpg"
+        }
+    ], 
+    "id": "TheWoman", 
+    "name": "The Woman"
+}

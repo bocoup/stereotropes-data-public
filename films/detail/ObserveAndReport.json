@@ -1,0 +1,100 @@
+{
+    "plot": "Ronnie Barnhardt lives with his alcoholic mother. He's chief security guard at Forest Ridge Mall, where he's in love with Brandi, a cosmetic sales clerk, and gets a free coffee each day from Nell, a cheery clerk in the food court. A flasher haunts the mall's parking lot, and at night, thefts occur. Ronnie is intent on catching the criminals but has no investigative skills, is delusional about his abilities, and makes mad accusations. His b\u00eate noire is Detective Harrison, the city cop sent to investigate. Ronnie thinks he could be an officer, thinks he stands a chance with Brandi, and slowly loses his self control. Will reality set in? What about redemption?", 
+    "genres": "Comedy, Crime, Drama", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Curb-Stomp"
+                ], 
+                "role": "Miles Gloriosus: Subverted. Ronnie appears to be an example, until he unleashes a Curb-Stomp Battle on some hoods.", 
+                "id": "MilesGloriosus"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Ronnie. Never really explained whether he lives with his mom or she with him.", 
+                "id": "MommasBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Brandi through and through.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: What Ronnie considers Brandi. Nell is also in need of some manly backup.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Hysterical"
+                ], 
+                "role": "Hysterical Woman: Brandi after the flasher exposes himself to her", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Ronnie's mom.", 
+                "id": "LadyDrunk"
+            }
+        ]
+    }, 
+    "imdbid": "tt1197628", 
+    "poster_url": "ObserveAndReport.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyDrunk", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Detention", 
+            "name": "Detention", 
+            "poster_url": "Detention.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "HystericalWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "BrideOfFrankenstein", 
+            "name": "Bride of Frankenstein"
+        }, 
+        {
+            "shared": [
+                "MilesGloriosus", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Rango", 
+            "name": "Rango", 
+            "poster_url": "Rango.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "AnimalHouse", 
+            "name": "Animal House", 
+            "poster_url": "AnimalHouse.jpg"
+        }
+    ], 
+    "id": "ObserveAndReport", 
+    "name": "Observe and Report"
+}

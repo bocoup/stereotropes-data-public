@@ -1,0 +1,109 @@
+{
+    "plot": "McMurphy has a criminal past and has once again gotten himself into trouble and is sentenced by the court. To escape labor duties in prison, McMurphy pleads insanity and is sent to a ward for the mentally unstable. Once here, McMurphy both endures and stands witness to the abuse and degradation of the oppressive Nurse Ratched, who gains superiority and power through the flaws of the other inmates. McMurphy and the other inmates band together to make a rebellious stance against the atrocious Nurse.", 
+    "genres": "Drama", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "abusive"
+                ], 
+                "role": "Scary Black Men: The three aides, Warren, Washington, and Williams, are horribly abusive to the patients. Warren at least has the excuse of having seen his mother raped by whites as a child.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "As mentioned above, Nurse Ratched in One Flew Over The Cuckoo's Nest.", 
+                "id": "BattleaxeNurse"
+            }, 
+            {
+                "adjectives": [
+                    "famous"
+                ], 
+                "role": "Battleaxe Nurse: Miss Ratched, one of the most famous in literature or film.", 
+                "id": "BattleaxeNurse"
+            }, 
+            {
+                "adjectives": [
+                    "several", 
+                    "such"
+                ], 
+                "role": "Gag Boobs: Nurse Ratched. The book makes several references to the Big Nurse's \"oversized badges of femininity\", and McMurphy kids her about them multiple times, knowing that she resents having such a prominent set of breasts.", 
+                "id": "GagBoobs"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Candy and Sandy.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jail Bait: Why McMurphy was incarcerated to begin with.", 
+                "id": "Jailbait"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Billy Bibbit is terrified of his mother, though we don't know why as we don't even hear from her or see her.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0073486", 
+    "poster_url": "OneFlewOverTheCuckoosNest.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GagBoobs", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Defendor", 
+            "name": "Defendor", 
+            "poster_url": "Defendor.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMachinist", 
+            "name": "The Machinist", 
+            "poster_url": "TheMachinist.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "HardEight", 
+            "name": "Hard Eight", 
+            "poster_url": "HardEight.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleaxeNurse", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "FoxyBrown", 
+            "name": "Foxy Brown", 
+            "poster_url": "FoxyBrown.jpg"
+        }
+    ], 
+    "id": "OneFlewOverTheCuckoosNest", 
+    "name": "One Flew Over The Cuckoo's Nest"
+}

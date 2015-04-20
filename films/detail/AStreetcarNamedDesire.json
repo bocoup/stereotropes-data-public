@@ -1,0 +1,92 @@
+{
+    "plot": "Blanche is in real need of a protector at this stage in her life when circumstances lead her into paying a visit to her younger sister Stella in New Orleans. She doesn't understand how Stella, who is expecting her first child, could have picked a husband so lacking in refinement. Stanley Kowalski's buddies come over to the house to play cards and one of them, Mitch, finds Blanche attractive until Stanley tells him about what kind of a woman Blanche really is. What will happen when Stella goes to the hospital to have her baby and just Blanche and her brother-in-law are in the house?", 
+    "genres": "Drama", 
+    "release_year": "1951", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Mitch.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Marlon Brando. How much so? Brando caused tee shirt sales to spike astronomically.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "Sensitive"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Mitch and Stanley.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "flesh", 
+                    "sarcastic", 
+                    "angry"
+                ], 
+                "role": "Hooker with a Heart of Gold: Blanche, though the play and movie subvert it by having Blanche compare her time as a hooker to being a tarantula, preying on the flesh of men. She was being sarcastic, because she was angry at Mitch.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0044081", 
+    "poster_url": "AStreetcarNamedDesire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "SensitiveGuyAndManlyMan", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "MagicMike", 
+            "name": "Magic Mike", 
+            "poster_url": "MagicMike.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "MommasBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }
+    ], 
+    "id": "AStreetcarNamedDesire", 
+    "name": "A Streetcar Named Desire"
+}

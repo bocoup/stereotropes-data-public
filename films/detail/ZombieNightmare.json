@@ -1,0 +1,66 @@
+{
+    "plot": "Tony Washington is killed by a gang of rampant trendy teenagers. Molly Mokembe is a voodoo lady who brings him back from the dead to seek revenge on his killers so he can rest in peace.", 
+    "genres": "Horror", 
+    "release_year": "1987", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "only", 
+                    "brutal"
+                ], 
+                "role": "Neutral Female: The lead's mother in the opening segment. The blond chick from Jim's gang, too. She's the only one who seems to have a conscience by feeling even the tiniest bit guilty about running down Tony. Yet for some reason, she receives the most brutal death out of any of the gang. Neutral Male: Frank.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092297", 
+    "poster_url": "ZombieNightmare.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "RawDeal", 
+            "name": "Raw Deal", 
+            "poster_url": "RawDeal.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScarletPumpernickel", 
+            "name": "The Scarlet Pumpernickel"
+        }
+    ], 
+    "id": "ZombieNightmare", 
+    "name": "Zombie Nightmare"
+}

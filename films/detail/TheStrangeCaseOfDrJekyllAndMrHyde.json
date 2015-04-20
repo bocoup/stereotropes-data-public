@@ -1,0 +1,75 @@
+{
+    "plot": "This made-for-television adaptation doesn't waste time with preliminaries. Within 15 minutes of its opening, Dr. Henry Jekyll has already experimented on himself with a concoction that he'd hoped would neutralize his baser instincts but which releases without inhibition his long-repressed animal inclinations.", 
+    "genres": "Sci-Fi, Horror, Drama", 
+    "release_year": "1968", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "younger-looking", 
+                    "by-blow", 
+                    "youthful"
+                ], 
+                "role": "Bastard Bastard: Hyde is not only smaller but younger-looking than Jekyll, and Utterson briefly wonders if he's the by-blow of Jekyll's youthful indiscretions (though the story phrases it far less bluntly):", 
+                "id": "BastardBastard"
+            }, 
+            {
+                "adjectives": [
+                    "large"
+                ], 
+                "role": "Mr. Hyde in League of Extraordinary Gentlemen is muscled all around, but his torso is still too large for his legs.", 
+                "id": "TopHeavyGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0062908", 
+    "poster_url": "TheStrangeCaseOfDrJekyllAndMrHyde.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BastardBastard"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }, 
+        {
+            "shared": [
+                "BastardBastard"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "TopHeavyGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "TheEmperorsNewGroove", 
+            "name": "The Emperor's New Groove", 
+            "poster_url": "TheEmperorsNewGroove.jpg"
+        }, 
+        {
+            "shared": [
+                "TopHeavyGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIncredibles", 
+            "name": "The Incredibles"
+        }, 
+        {
+            "shared": [
+                "BastardBastard"
+            ], 
+            "shared_count": 1, 
+            "id": "RobRoy", 
+            "name": "Rob Roy", 
+            "poster_url": "RobRoy.jpg"
+        }
+    ], 
+    "id": "TheStrangeCaseOfDrJekyllAndMrHyde", 
+    "name": "The Strange Case of Dr. Jekyll and Mr. Hyde"
+}

@@ -1,0 +1,114 @@
+{
+    "plot": "Spade and Archer is the name of a San Francisco detective agency. That's for Sam Spade and Miles Archer. The two men are partners, but Sam doesn't like Miles much. A knockout, who goes by the name of Miss Wanderly, walks into their office; and by that night everything's changed. Miles is dead. And so is a man named Floyd Thursby. It seems Miss Wanderly is surrounded by dangerous men. There's Joel Cairo, who uses gardenia-scented calling cards. There's Kasper Gutman, with his enormous girth and feigned civility. Her only hope of protection comes from Sam, who is suspected by the police of one or the other murder. More murders are yet to come, and it will all be because of these dangerous men -- and their lust for a statuette of a bird: the Maltese Falcon.", 
+    "genres": "Crime, Drama, Film-Noir", 
+    "release_year": "1941", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "pre-gay", 
+                    "central", 
+                    "fabulous"
+                ], 
+                "role": "Agent Peacock: For a strongly implied gay man in a pre-gay age and a central antagonist, Cairo is quite fabulous.", 
+                "id": "AgentPeacock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gayngster: Gayngsters and Film Noir went together like... two things that go together really well. Of course, 1941 being the height of The Hays Code, they couldn't be explicit about it, but see Getting Crap Past the Radar below.", 
+                "id": "Gayngster"
+            }, 
+            {
+                "adjectives": [
+                    "particular"
+                ], 
+                "role": "Sissy Villain: Three of them, actually \u2014 Joel Cairo, Kasper Gutman, and Wilmer. The novel, in particular, devotes quite a bit of text to disgustedly describing what a mincing little \"fairy\" Cairo is.", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [
+                    "out-and-out"
+                ], 
+                "role": "The Maltese Falcon pits macho Anti-Hero Sam Spade up against three Sissy Villains: Joel Cairo, Kasper Gutman, and Wilmer. (Only The Hays Code prevented the film from out-and-out showing that Cairo and Wilmer are the Gayngsters they are in the novel.)", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Brigid O'Shaughnessy in The Maltese Falcon.", 
+                "id": "DecoyDamsel"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Brigid. It doesn't work on Spade though.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "secretary"
+                ], 
+                "role": "Girl Friday: Spade's secretary Effie Perine.", 
+                "id": "GirlFriday"
+            }
+        ]
+    }, 
+    "imdbid": "tt0033870", 
+    "poster_url": "TheMalteseFalcon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlFriday", 
+                "SissyVillain", 
+                "DecoyDamsel", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 4, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "Gayngster", 
+                "SissyVillain", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "MillersCrossing", 
+            "name": "Miller's Crossing", 
+            "poster_url": "MillersCrossing.jpg"
+        }, 
+        {
+            "shared": [
+                "DecoyDamsel", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "DecoyDamsel", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "TheMalteseFalcon", 
+    "name": "The Maltese Falcon"
+}

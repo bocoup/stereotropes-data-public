@@ -1,0 +1,77 @@
+{
+    "plot": "Hushpuppy, an intrepid six-year-old girl, lives with her father, Wink, in the Bathtub, a southern Delta community at the edge of the world. Wink's tough love prepares her for the unraveling of the universe; for a time when he's no longer there to protect her. When Wink contracts a mysterious illness, nature flies out of whack, temperatures rise, and the ice caps melt, unleashing an army of prehistoric creatures called aurochs. With the waters rising, the aurochs coming, and Wink's health fading, Hushpuppy goes in search of her lost mother.", 
+    "genres": "Drama, Fantasy", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Angry Black Man - Wink.", 
+                "id": "AngryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "fried"
+                ], 
+                "role": "Missing Mom - Hushpuppy's mother is not on the scene.  Later in the film, Hushpuppy and the gang end up in what seems like a brothel, and Hushpuppy meets a woman who is implied to be her mother. Hushpuppy takes back the fried gator that the woman cooks for her back to her dad, as her dad has mentioned that her mother killed and cooked a gator for him on the day of her conception.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt2125435", 
+    "poster_url": "BeastsOfTheSouthernWild.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AngryBlackMan", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }, 
+        {
+            "shared": [
+                "AngryBlackMan", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "AngryBlackMan", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TenThingsIHateAboutYou", 
+            "name": "10 Things I Hate About You", 
+            "poster_url": "TenThingsIHateAboutYou.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }
+    ], 
+    "id": "BeastsOfTheSouthernWild", 
+    "name": "Beasts Of The Southern Wild"
+}

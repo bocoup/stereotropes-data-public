@@ -1,0 +1,91 @@
+{
+    "plot": "Pauline, Petrova, and Posy Fossil live with Sylvia Brown, their guardian. Money is tight and as the story opens, three boarders - a garage owner, a retired English professor, and a dance teacher - come to stay. Theo Dane, the dance teacher, has the girls accepted at her school by the formidable Madame, and the three go on the stage to help raise money. Each discovers her talents - Pauline as an actress, Petrova in fixing engines, and Posy as a dancer.", 
+    "genres": "Drama, Family", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded", 
+                    "financial"
+                ], 
+                "role": "Absent-Minded Professor: Amateur paleontologist Great Uncle Matthew fits this trope. He seems to forgot about the existence of the Fossil children for years and sends no financial support.", 
+                "id": "AbsentMindedProfessor"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "major"
+                ], 
+                "role": "Stage Mom: Averted. Sylvia is glad when Pauline gets major roles, as that means there is more money flowing into the household, but she never exhibits any stage mom tendencies and loves the girls no matter how they dance.", 
+                "id": "StageMom"
+            }, 
+            {
+                "adjectives": [
+                    "close"
+                ], 
+                "role": "Tomboy: Petrova is as close as can get to this in her time period.", 
+                "id": "Tomboy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wrench Wench: Petrova, in exchange for being the worst dancer of the three, is this.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt1083845", 
+    "poster_url": "BalletShoes.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Tomboy", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "LittleGiants", 
+            "name": "Little Giants", 
+            "poster_url": "LittleGiants.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 2, 
+            "id": "Fame", 
+            "name": "Fame", 
+            "poster_url": "Fame.jpg"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }
+    ], 
+    "id": "BalletShoes", 
+    "name": "Ballet Shoes"
+}

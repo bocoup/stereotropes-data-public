@@ -1,0 +1,94 @@
+{
+    "plot": "With his family away for their annual summer holiday, New Yorker Richard Sherman decides he has the opportunity to live a bachelor's life - to eat and drink what he wants and basically to enjoy life without wife and son. The beautiful but ditsy blond from the apartment above his catches his eye and they soon start spending time together. It's all innocent though there is little doubt that Sherman is attracted to her. Any lust he may be feeling is played out in his own imagination however.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1955", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Richard sees himself as one (even though he really isn't), and uses this characterization as a persecution complex to justify all his (mostly imagined) indiscretions.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hello, Nurse!: The Girl.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [
+                    "manic"
+                ], 
+                "role": "Manic Pixie Dream Girl: The Girl proves to be one for Richard (although unintentionally, and without the \"manic\" part).", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sexy Secretary: Miss Morris.", 
+                "id": "SexySecretary"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White: Well, who do you think?", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0048605", 
+    "poster_url": "TheSevenYearItch.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SexySecretary", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "SexySecretary"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFlintstones", 
+            "name": "The Flintstones", 
+            "poster_url": "TheFlintstones.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuHustle", 
+            "name": "Kung Fu Hustle", 
+            "poster_url": "KungFuHustle.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRoadToWellville", 
+            "name": "The Road To Wellville", 
+            "poster_url": "TheRoadToWellville.jpg"
+        }
+    ], 
+    "id": "TheSevenYearItch", 
+    "name": "The Seven Year Itch"
+}

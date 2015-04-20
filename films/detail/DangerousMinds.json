@@ -1,0 +1,69 @@
+{
+    "plot": "Louanne Johnson is an ex-marine, hired as a teacher in a high-school in a poor area of the city. She has recently separated from her husband. Her friend, also teacher in the school, got the temporary job for her. After a terrible reception from the students, she tries unconventional methods of teaching (using karate, Bob Dylan lyrics etc) to gain the trust of the students.", 
+    "genres": "Biography, Drama", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Angela's ex Shorty", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shorty in Dangerous Minds murders Emilio because he claims he stole his girlfriend.", 
+                "id": "CrazyJealousGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112792", 
+    "poster_url": "DangerousMinds.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "UnfaithfullyYours", 
+            "name": "Unfaithfully Yours", 
+            "poster_url": "UnfaithfullyYours.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "AMidsummerNightsDream", 
+            "name": "A Midsummer Night's Dream"
+        }
+    ], 
+    "id": "DangerousMinds", 
+    "name": "Dangerous Minds"
+}

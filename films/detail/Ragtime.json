@@ -1,0 +1,81 @@
+{
+    "plot": "The story runs in the 1910's New York. Coalhouse Walker Jr. is a black piano player. He has won fame and fortune playing with a jazz band. Some white men do not like this situation, and one day they assault him and spoil his brand new car. Walker tries by all means to get justice, without an answer...", 
+    "genres": "Drama", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "black"
+                ], 
+                "role": "Scary Black Man: Quite literally, as the Coalhouses are black terrorists.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "in-universe"
+                ], 
+                "role": "Ms. Fanservice: in-universe: Evelyn Nesbit", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082970", 
+    "poster_url": "Ragtime.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AsGoodAsItGets", 
+            "name": "As Good As It Gets", 
+            "poster_url": "AsGoodAsItGets.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheScorpionKing", 
+            "name": "The Scorpion King", 
+            "poster_url": "TheScorpionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "HorribleBosses", 
+            "name": "Horrible Bosses", 
+            "poster_url": "HorribleBosses.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Battleship", 
+            "name": "Battleship", 
+            "poster_url": "Battleship.jpg"
+        }
+    ], 
+    "id": "Ragtime", 
+    "name": "Ragtime"
+}

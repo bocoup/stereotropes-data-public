@@ -1,0 +1,72 @@
+{
+    "plot": "Based on Finnish mythology, this movie traces the exploits of Lemminkainen as he woos the fair Annikki and battles the evil witch Louhi. Louhi kidnaps Annikki to compel her father to build for her a Sampo, a magical device that creates salt, grain, and gold. When Lemminkainen tries (and fails) to recover the Sampo, Louhi steals the sun, plunging the world into frozen darkness.", 
+    "genres": "Adventure, Fantasy", 
+    "release_year": "1959", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Annikki", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wicked Witch: Louhi", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0053240", 
+    "poster_url": "TheDayTheEarthFroze.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "WickedWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBeastmaster", 
+            "name": "The Beastmaster", 
+            "poster_url": "TheBeastmaster.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "WickedWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SolomonKane", 
+            "name": "Solomon Kane", 
+            "poster_url": "SolomonKane.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }
+    ], 
+    "id": "TheDayTheEarthFroze", 
+    "name": "The Day the Earth Froze"
+}

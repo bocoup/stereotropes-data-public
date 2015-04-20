@@ -1,0 +1,79 @@
+{
+    "plot": "In 1935 in Foshan, south China, there are martial arts schools on every street corner. Ip Man is the undisputed martial arts champion, yet he has not devoted himself to teaching. Despite this, it seems that all the kung fu masters of the city are eager to fight him to improve their reputation.", 
+    "genres": "Action, Biography, Drama", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "hard", 
+                    "180-split", 
+                    "elderly", 
+                    "acceptable"
+                ], 
+                "role": "Ip learned his pragmatism the hard way. It took a forced 180-split from an elderly medicine seller to teach him that improvisation was acceptable in Wing Chun.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "second"
+                ], 
+                "role": "Henpecked Husband: Jin accused Ip of being one when he refused to fight him in his house. Oh the irony, Jin himself becomes one in the second movie, but to his credit he is also a loving husband and father.", 
+                "id": "HenpeckedHusband"
+            }
+        ]
+    }, 
+    "imdbid": "tt1220719", 
+    "poster_url": "IpMan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "BigBadWolves", 
+            "name": "Big Bad Wolves", 
+            "poster_url": "BigBadWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuHustle", 
+            "name": "Kung Fu Hustle", 
+            "poster_url": "KungFuHustle.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "Ran", 
+            "name": "Ran", 
+            "poster_url": "Ran.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }
+    ], 
+    "id": "IpMan", 
+    "name": "Ip Man"
+}

@@ -1,0 +1,75 @@
+{
+    "plot": "Special agent Frank Castle had it all: A loving family, a great life, and an adventurous job. But when his life is taken away from him by a ruthless criminal and his associates, Frank has become reborn. Now serving as judge, jury, and executioner, he's a new kind of vigilante out to wage a one man war against those who have done him wrong.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "illegal"
+                ], 
+                "role": "A Lady on Each Arm: One patron in the illegal gambling hole is shown walking around with two women in this fashion.", 
+                "id": "ALadyOnEachArm"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "local"
+                ], 
+                "role": "Dragon Lady: Lady Tanaka, the Yakuza leader attacking the local crime bosses and the Big Bad of the film.", 
+                "id": "DragonLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0330793", 
+    "poster_url": "ThePunisher1989.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ALadyOnEachArm"
+            ], 
+            "shared_count": 1, 
+            "id": "TwentyThousandLeaguesUnderTheSea", 
+            "name": "Twenty Thousand Leagues Under the Sea"
+        }, 
+        {
+            "shared": [
+                "ALadyOnEachArm"
+            ], 
+            "shared_count": 1, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "ALadyOnEachArm"
+            ], 
+            "shared_count": 1, 
+            "id": "Gutterballs", 
+            "name": "Gutterballs", 
+            "poster_url": "Gutterballs.jpg"
+        }, 
+        {
+            "shared": [
+                "DragonLady"
+            ], 
+            "shared_count": 1, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "ALadyOnEachArm"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanBegins", 
+            "name": "Batman Begins", 
+            "poster_url": "BatmanBegins.jpg"
+        }
+    ], 
+    "id": "ThePunisher1989", 
+    "name": "The Punisher "
+}

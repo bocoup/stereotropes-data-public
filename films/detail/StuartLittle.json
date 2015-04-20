@@ -1,0 +1,75 @@
+{
+    "plot": "When the Littles go to an orphanage to adopt a new family member, their son, George, insists on a little brother as opposed to a big one. His request is honored more literally than he ever imagined when a charming young mouse named Stuart is chosen. While George is disappointed and initially unwelcoming to his new brother, the family cat, Snowbell, is even less enthusiastic at the prospect of having a mouse as his \"master\" and plots to get rid of him. Against these difficulties, Stuart resolves to face them with as much pluck, love and courage as he can muster. In doing so, he shows his beloved new family that great things can truly come in small packages.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "original"
+                ], 
+                "role": "The owner of the model ship Lillian B. Womrath was named Leroy in the original book version of Stuart Little.", 
+                "id": "EvilRoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Margalo feigns this to get Stuart to trust her. In the end, inverted: she saves Stuart from falling to his death after he Plane Fus Falcon.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0164912", 
+    "poster_url": "StuartLittle.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "EvilRoy"
+            ], 
+            "shared_count": 2, 
+            "id": "CrocodileDundee", 
+            "name": "Crocodile Dundee", 
+            "poster_url": "CrocodileDundee.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilRoy"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }
+    ], 
+    "id": "StuartLittle", 
+    "name": "Stuart Little"
+}

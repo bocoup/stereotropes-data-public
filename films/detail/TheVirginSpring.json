@@ -1,0 +1,89 @@
+{
+    "plot": "Set in beautiful 14th century Sweden, it is the sombre, powerful fable of wealthy land-owning parents whose daughter, a young virgin, is brutally raped and murdered by goat herders after her half sister has invoked a pagan curse. By a bizarre twist of fate, the murderers ask for food and shelter from the dead girl's parents, who, discovering the truth about their erstwhile lodgers, exact a chilling revenge.", 
+    "genres": "Drama", 
+    "release_year": "1960", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "blond-haired", 
+                    "dark-haired", 
+                    "side-saddle"
+                ], 
+                "role": "Light Feminine and Dark Feminine: Karin is blond-haired, innocent, and a virgin. Ingeri is a dark-haired pagan, and at least eight months pregnant. Karin rides her horse side-saddle, while Ingeri rides like a man would.", 
+                "id": "LightFeminineAndDarkFeminine"
+            }, 
+            {
+                "adjectives": [
+                    "Christian", 
+                    "dark-haired", 
+                    "dark", 
+                    "pregnant"
+                ], 
+                "role": "The Virgin Spring features Karin, the innocent blonde who is specifically stated to be a virgin, and is also a Christian, and Ingeri, her servant girl, who is dark-haired with a dark complexion, is about eight months pregnant, isn't married, and is a secret pagan.", 
+                "id": "LightFeminineAndDarkFeminine"
+            }, 
+            {
+                "adjectives": [
+                    "good-hearted"
+                ], 
+                "role": "Spoiled Sweet: Karin is pampered and spoiled, especially by her mother, but she's still essentially good-hearted and kind.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0053976", 
+    "poster_url": "TheVirginSpring.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 2, 
+            "id": "FerrisBuellersDayOff", 
+            "name": "Ferris Bueller's Day Off", 
+            "poster_url": "FerrisBuellersDayOff.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteATaleOfTerror", 
+            "name": "Snow White: A Tale of Terror", 
+            "poster_url": "SnowWhiteATaleOfTerror.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }
+    ], 
+    "id": "TheVirginSpring", 
+    "name": "The Virgin Spring"
+}

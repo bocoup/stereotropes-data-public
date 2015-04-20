@@ -1,0 +1,38 @@
+{
+    "plot": "A life-size blow-up doll develops a soul and falls in love with a video store clerk.", 
+    "genres": "Drama, Fantasy", 
+    "release_year": "2009", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Meido: Nozomi initially dresses like one. People just seem to assume she's a cosplayer.", 
+                "id": "Meido"
+            }
+        ]
+    }, 
+    "imdbid": "tt1371630", 
+    "poster_url": "AirDoll.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Meido"
+            ], 
+            "shared_count": 1, 
+            "id": "BrightStar", 
+            "name": "Bright Star", 
+            "poster_url": "BrightStar.jpg"
+        }, 
+        {
+            "shared": [
+                "Meido"
+            ], 
+            "shared_count": 1, 
+            "id": "AFunnyThingHappenedOnTheWayToTheForum", 
+            "name": "A Funny Thing Happened on the Way to the Forum", 
+            "poster_url": "AFunnyThingHappenedOnTheWayToTheForum.jpg"
+        }
+    ], 
+    "id": "AirDoll", 
+    "name": "Air Doll"
+}

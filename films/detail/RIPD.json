@@ -1,0 +1,95 @@
+{
+    "plot": "After Nick is murdered by his own partner, he joins the Rest in Peace Department to protect the world from the undeads. While working with his new partner, many undeads are seen gathering in Boston. Soon he realizes that someone close to him is behind all a plot to bring on the apocalypse.", 
+    "genres": "Action, Comedy, Sci-Fi", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Roy", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [
+                    "funny", 
+                    "hot", 
+                    "young"
+                ], 
+                "role": "Cool Old Guy: Roy, which makes it funny that his alternate appearance is a hot young blonde woman.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "funny", 
+                    "hot", 
+                    "young"
+                ], 
+                "role": "Roy from R.I.P.D., which makes it funny that his alternate appearance is a hot young blonde woman.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Roy's avatar is played by supermodel Marisa Miller, who has posed for both Victoria's Secret and the Sports Illustrated Swimsuit Issue.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0790736", 
+    "poster_url": "RIPD.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "BadAssBeard", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }
+    ], 
+    "id": "RIPD", 
+    "name": "R.I.P.D."
+}

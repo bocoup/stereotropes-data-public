@@ -1,0 +1,109 @@
+{
+    "plot": "Mildred Pierce dotes on her daughters while husband Bert looks to Maggie Binderhof for affection. They separate leaving Mildred to raise the girls on her own. Elder daughter Veda goads her mother about their lack of money and in response Mildred proposes opening a small restaurant. Realtor Wally Fay advises her while making numerous rebuffed passes and introduces her to Monte Baragon whose property becomes the first of a chain of restaurants. Mildred has an affair with Monte. Meanwhile, money-hungry Veda pretends to be pregnant by wealthy Ted Forrester in order to bilk his family of $10,000. Mildred tears up the check, is slapped by Veda, and orders her daughter to leave. After time away, Mildred returns to find Veda singing in a cheap club. Veda will return only if Mildred promises luxury, so Mildred agrees to marry Monte in exchange for a third of her businesses. It soon becomes clear that something is going on between Veda and Monte. Mildred learns of this only after Monte has sold out his third of the her business leaving her bankrupt. She goes to Monte's beach house to kill him... Shots ring out, but what really happened?", 
+    "genres": "Crime, Drama, Film-Noir", 
+    "release_year": "1945", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Bratty Teenage Daughter: Deconstructed.", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Femme Fatale: Mildred fits this role. While a fairly good person throughout most of the story, she frames Wally for Monte's murder at the start of the film.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fille Fatale: Veda.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Housewife", 
+                "id": "HouseWife"
+            }, 
+            {
+                "adjectives": [
+                    "ungrateful", 
+                    "own"
+                ], 
+                "role": "Mama Bear: Mildred, so much. She'll do anything for her ungrateful daughter. Even taking her murder charges as her own.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Kay.", 
+                "id": "SpoiledSweet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Veda.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0037913", 
+    "poster_url": "MildredPierce.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "FilleFatale", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Election", 
+            "name": "Election", 
+            "poster_url": "Election.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "FemmeFatale", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "MamaBear", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "MamaBear", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "TheTenCommandments", 
+            "name": "The Ten Commandments", 
+            "poster_url": "TheTenCommandments.jpg"
+        }, 
+        {
+            "shared": [
+                "BrattyTeenageDaughter", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }
+    ], 
+    "id": "MildredPierce", 
+    "name": "Mildred Pierce"
+}

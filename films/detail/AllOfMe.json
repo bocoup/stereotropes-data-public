@@ -1,0 +1,82 @@
+{
+    "plot": "Roger is called in to change the will of an aging millionairess. She has made arrangements for her soul to be 'captured' and transferred into the body of a younger girl. After an argument about the will, the millionairess dies, but her spirit somehow lands in Rogers body...", 
+    "genres": "Comedy, Fantasy, Romance", 
+    "release_year": "1984", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Terry", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "sick", 
+                    "whole"
+                ], 
+                "role": "Ill Girl: Edwina has been sick her whole life.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Edwina. She mellows over the course of the movie, however.", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0086873", 
+    "poster_url": "AllOfMe.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FemmeFatale", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSkydivers", 
+            "name": "The Skydivers", 
+            "poster_url": "TheSkydivers.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "LaBoheme", 
+            "name": "La Boheme"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TemptationIsland", 
+            "name": "Temptation Island"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "UncleTomsCabin", 
+            "name": "Uncle Tom's Cabin"
+        }
+    ], 
+    "id": "AllOfMe", 
+    "name": "All of Me"
+}

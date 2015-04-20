@@ -1,0 +1,69 @@
+{
+    "plot": "A psychic who can read minds picks up the thoughts of a murderer in the audience and soon becomes a victim. An English pianist gets involved in solving the murders, but finds many of his avenues of inquiry cut off by new murders, and he begins to wonder how the murderer can track his movements so closely.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dude Looks Like a Lady: Carlo's lover. If it weren't for his bare chest, he could have passed for a woman.", 
+                "id": "DudeLooksLikeALady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Carlo.", 
+                "id": "MommasBoy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0073582", 
+    "poster_url": "DeepRed.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DudeLooksLikeALady", 
+                "MommasBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "MommasBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "FridayThe13thPartVANewBeginning", 
+            "name": "Friday the 13th Part V: A New Beginning"
+        }, 
+        {
+            "shared": [
+                "MommasBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "MysteryMen", 
+            "name": "Mystery Men", 
+            "poster_url": "MysteryMen.jpg"
+        }
+    ], 
+    "id": "DeepRed", 
+    "name": "Deep Red"
+}

@@ -1,0 +1,73 @@
+{
+    "plot": "Six friends are on their way to a football game. They decide to camp out for the night and continue driving the next day. The next day the friends find that they're having car troubles, so two of the friends accept a stranger's ride into a small town named Ambrose. The main attraction in Ambrose is the House of Wax. Except something is not right in this town, the wax figures are so realistic and the whole town is deserted - except for two murderous twin brothers. The six friends must fight to survive and escape from being the next exhibits in the House of Wax.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2005", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Sue in the climax.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spirited Young Lady: Sue.", 
+                "id": "SpiritedYoungLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0397065", 
+    "poster_url": "HouseOfWax1953.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Tarzan", 
+            "name": "Tarzan", 
+            "poster_url": "Tarzan.jpg"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDuchess", 
+            "name": "The Duchess", 
+            "poster_url": "TheDuchess.jpg"
+        }
+    ], 
+    "id": "HouseOfWax1953", 
+    "name": "House of Wax "
+}

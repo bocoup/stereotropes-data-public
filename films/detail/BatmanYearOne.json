@@ -1,0 +1,100 @@
+{
+    "plot": "Two men come to Gotham City: Bruce Wayne after years abroad feeding his lifelong obsession for justice and Jim Gordon after being too honest a cop with the wrong people elsewhere. After learning painful lessons about the city's corruption on its streets and police department respectively, this pair learn how to fight back their own way. With that, Gotham's evildoers from top to bottom are terrorized by the mysterious Batman and the equally heroic Gordon is assigned to catch him by comrades who both hate and fear him themselves. In the ensuing manhunt, both find much in common as the seeds of an unexpected friendship are laid with additional friends and rivals helping to start the legend.", 
+    "genres": "Animation, Action, Crime", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "strong"
+                ], 
+                "role": "Amazon Chaser: Gordon notes that Essen's \"arms are strong. Her whole body's strong.\"", 
+                "id": "AmazonChaser"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Do not mess with Jim Gordon's son. Mama Bear: When a pimp is abusing Holly Bruce tries to intervene. When he attacks the pimp Holly stabs him with a knife. When Bruce knocks her aside Selina leaps from the hotel room to kick his ass.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Amazonian"
+                ], 
+                "role": "Amazonian Beauty: This version of Catwoman.", 
+                "id": "AmazonianBeauty"
+            }, 
+            {
+                "adjectives": [
+                    "anti-heroine", 
+                    "friend/love"
+                ], 
+                "role": "In Batman: Year One, Frank Miller's reboot of Batman, Selina Kyle (Catwoman) is a prostitute who becomes a costumed criminal. In The Long Halloween, set shortly after Year One, she has given up that lifestyle and used the money she stole to become anti-heroine, member of society, and friend/love interest from Bruce Wayne.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: When a pimp is abusing Holly Bruce tries to intervene. When he attacks the pimp Holly stabs him with a knife. When Bruce knocks her aside Selina leaps from the hotel room to kick his ass.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt1672723", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "AmazonChaser", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "HookerWithAHeartOfGold", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "AmazonChaser"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }
+    ], 
+    "id": "BatmanYearOne", 
+    "name": "Batman: Year One"
+}

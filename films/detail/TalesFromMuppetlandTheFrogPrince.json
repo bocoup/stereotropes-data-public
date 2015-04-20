@@ -1,0 +1,80 @@
+{
+    "plot": "Enchanted by an evil witch, a beautiful princess is forced to speak only in nonsense phrases. One day, she finds a small frog who can understand what she says. The frog claims to really be a prince, also enchanted by an evil witch. Together they must try to break their spells.", 
+    "genres": "Family, Fantasy, Music", 
+    "release_year": "1971", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "good-natured", 
+                    "kind"
+                ], 
+                "role": "Spoiled Sweet: Princess Melora. She's good-natured, is kind to Robin even when she doesn't believe that he's actually a prince, tries to expose the witch and keep her from stealing the throne, and thanks the frogs of the kingdom for their help at the end of the story.", 
+                "id": "SpoiledSweet"
+            }, 
+            {
+                "adjectives": [
+                    "High", 
+                    "other"
+                ], 
+                "role": "The High Queen: Princess Melora aspires to be this. It seems to be agreed kingdom-wide that her taking over as ruler of the land will be great. Her \"Aunt Taminella\", on the other hand...", 
+                "id": "TheHighQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wicked Witch: Aunt Taminella.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0068613", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "WickedWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SydneyWhite", 
+            "name": "Sydney White", 
+            "poster_url": "SydneyWhite.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "TheHighQueen"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "TheHighQueen"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }
+    ], 
+    "id": "TalesFromMuppetlandTheFrogPrince", 
+    "name": "Tales From Muppetland The Frog Prince"
+}

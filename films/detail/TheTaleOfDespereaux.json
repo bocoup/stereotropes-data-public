@@ -1,0 +1,71 @@
+{
+    "plot": "The tale of three unlikely heroes - a misfit mouse who prefers reading books to eating them, an unhappy rat who schemes to leave the darkness of the dungeon, and a bumbling servant girl with cauliflower ears - whose fates are intertwined with that of the castle's princess.", 
+    "genres": "Adventure, Animation, Comedy", 
+    "release_year": "2008", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Princess Classic: Princess Pea.", 
+                "id": "PrincessClassic"
+            }, 
+            {
+                "adjectives": [
+                    "titular", 
+                    "beautiful"
+                ], 
+                "role": "The titular mouse in The Tale of Despereaux searches for and finds one of these in the beautiful but useless Princess Pea.", 
+                "id": "PrincessClassic"
+            }
+        ]
+    }, 
+    "imdbid": "tt0420238", 
+    "poster_url": "TheTaleOfDespereaux.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrincessClassic"
+            ], 
+            "shared_count": 1, 
+            "id": "Krull", 
+            "name": "Krull"
+        }, 
+        {
+            "shared": [
+                "PrincessClassic"
+            ], 
+            "shared_count": 1, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "PrincessClassic"
+            ], 
+            "shared_count": 1, 
+            "id": "BarbieAndTheMagicOfPegasus", 
+            "name": "Barbie And The Magic Of Pegasus", 
+            "poster_url": "BarbieAndTheMagicOfPegasus.jpg"
+        }, 
+        {
+            "shared": [
+                "PrincessClassic"
+            ], 
+            "shared_count": 1, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "PrincessClassic"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLastUnicorn", 
+            "name": "The Last Unicorn", 
+            "poster_url": "TheLastUnicorn.jpg"
+        }
+    ], 
+    "id": "TheTaleOfDespereaux", 
+    "name": "The Tale of Despereaux"
+}

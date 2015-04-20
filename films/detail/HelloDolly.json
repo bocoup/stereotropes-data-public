@@ -1,0 +1,73 @@
+{
+    "plot": "A matchmaker named Dolly Levi takes a trip to Yonkers, New York to see the \"well-known unmarried half-a-millionaire,\" Horace Vandergelder. While there, she convinces him, his two stock clerks and his niece and her beau to go to New York City. In New York, she fixes Vandergelder's clerks up with the woman Vandergelder had been courting, and her shop assistant (Dolly has designs of her own on Mr. Vandergelder, you see).", 
+    "genres": "Comedy, Musical, Romance", 
+    "release_year": "1969", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Black Widow: Irene Molloy is painted as one of these.", 
+                "id": "BlackWidow"
+            }, 
+            {
+                "adjectives": [
+                    "seventeen", 
+                    "old", 
+                    "old"
+                ], 
+                "role": "In Hello, Dolly!, Ermengarde is driven to tears when her uncle, Horace Vandegelder, won't let her marry her boyfriend. Her reason? \"I'm seventeen and in another year, I'll be an old maid!\" Mr. Vandegelder replies that if she turns out to be an old maid, he cut her off without a cent.", 
+                "id": "OldMaid"
+            }
+        ]
+    }, 
+    "imdbid": "tt0064418", 
+    "poster_url": "HelloDolly.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BlackWidow"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "BlackWidow"
+            ], 
+            "shared_count": 1, 
+            "id": "SoIMarriedAnAxeMurderer", 
+            "name": "So I Married an Axe Murderer", 
+            "poster_url": "SoIMarriedAnAxeMurderer.jpg"
+        }, 
+        {
+            "shared": [
+                "OldMaid"
+            ], 
+            "shared_count": 1, 
+            "id": "LilAbner", 
+            "name": "Li'l Abner", 
+            "poster_url": "LilAbner.jpg"
+        }, 
+        {
+            "shared": [
+                "BlackWidow"
+            ], 
+            "shared_count": 1, 
+            "id": "TheManWithTwoBrains", 
+            "name": "The Man With Two Brains", 
+            "poster_url": "TheManWithTwoBrains.jpg"
+        }, 
+        {
+            "shared": [
+                "OldMaid"
+            ], 
+            "shared_count": 1, 
+            "id": "ThePaintedVeil", 
+            "name": "The Painted Veil", 
+            "poster_url": "ThePaintedVeil.jpg"
+        }
+    ], 
+    "id": "HelloDolly", 
+    "name": "Hello, Dolly!"
+}

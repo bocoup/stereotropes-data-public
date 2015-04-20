@@ -1,0 +1,75 @@
+{
+    "plot": "Arnold Schwarzenegger plays a Russian policeman sent after a Georgian drug dealer who has escaped to the United States and is awaiting extradition in Chicago. Jim Belushi plays his temporary partner on the Chicago police. When the drug dealer escapes, the two police must overcome their differences in order to recapture him.", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bald Black Leader Guy: Abdul Elijah, leader of The Cleanheads.", 
+                "id": "BaldBlackLeaderGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Fanservice Extra: Plenty of them in the opening sauna scenes.", 
+                "id": "FanserviceExtra"
+            }
+        ]
+    }, 
+    "imdbid": "tt0095963", 
+    "poster_url": "RedHeat.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "BaldBlackLeaderGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "PulpFiction", 
+            "name": "Pulp Fiction", 
+            "poster_url": "PulpFiction.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "BaldBlackLeaderGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFifthElement", 
+            "name": "The Fifth Element", 
+            "poster_url": "TheFifthElement.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "BaldBlackLeaderGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "XxX", 
+            "name": "xXx", 
+            "poster_url": "XxX.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekIIITheSearchForSpock", 
+            "name": "Star Trek III: The Search for Spock", 
+            "poster_url": "StarTrekIIITheSearchForSpock.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "AmericanHistoryX", 
+            "name": "American History X", 
+            "poster_url": "AmericanHistoryX.jpg"
+        }
+    ], 
+    "id": "RedHeat", 
+    "name": "Red Heat"
+}

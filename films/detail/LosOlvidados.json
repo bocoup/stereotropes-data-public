@@ -1,0 +1,76 @@
+{
+    "plot": "A group of juvenile delinquents live a violent and crime-filled life in the festering slums of Mexico City, and the morals of young Pedro are gradually corrupted and destroyed by the others...", 
+    "genres": "Crime, Drama", 
+    "release_year": "1950", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "blind"
+                ], 
+                "role": "Dirty Old Man - Don Carmelo, the blind in; and pedophile to booth.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mrs. Robinson - It's strongly implied that Pedro's mom plays this role to  El Jaibo.", 
+                "id": "MrsRobinson"
+            }
+        ]
+    }, 
+    "imdbid": "tt0042804", 
+    "poster_url": "LosOlvidados.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MrsRobinson", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "BarneysVersion", 
+            "name": "Barney's Version", 
+            "poster_url": "BarneysVersion.jpg"
+        }, 
+        {
+            "shared": [
+                "MrsRobinson", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "ptitleh790movp", 
+            "name": "Barney's Version", 
+            "poster_url": "ptitleh790movp.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }
+    ], 
+    "id": "LosOlvidados", 
+    "name": "Los Olvidados"
+}

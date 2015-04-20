@@ -1,0 +1,78 @@
+{
+    "plot": "An abused woman discovers that the dream man she married isn't who she thought he was. She and her daughter try to escape (aided by her previous boyfriend), but he pursues her relentlessly. Fearing also for the safety of her daughter, she decides that there's only one way out of the marriage: kill him.", 
+    "genres": "Crime, Drama, Thriller", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "ex-boyfriend", 
+                    "first", 
+                    "bad", 
+                    "few", 
+                    "boat"
+                ], 
+                "role": "Dogged Nice Guy: Slim's ex-boyfriend Joe. When she flees for the first time, she goes to his apartment and he doesn't reveal her hiding place despite three men threatening him with a knife. Later, he visits her in Michigan, where they share a bed for one night, and she says he's \"really not that bad\" (few guys are, compared with Mitch.) After that, Joe disappears until the end credits, when he pops up with Slim and Gracie on a boat.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straw Misogynist: \"What, I'm not allowed to hit you?\"", 
+                "id": "StrawMisogynist"
+            }
+        ]
+    }, 
+    "imdbid": "tt0278435", 
+    "poster_url": "Enough.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "InAWorld", 
+            "name": "In a World", 
+            "poster_url": "InAWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist"
+            ], 
+            "shared_count": 1, 
+            "id": "FiftyFifty", 
+            "name": "50/50", 
+            "poster_url": "FiftyFifty.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWoman", 
+            "name": "The Woman", 
+            "poster_url": "TheWoman.jpg"
+        }
+    ], 
+    "id": "Enough", 
+    "name": "Enough"
+}

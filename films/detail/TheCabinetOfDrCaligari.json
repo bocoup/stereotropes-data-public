@@ -1,0 +1,81 @@
+{
+    "plot": "Francis, a young man, recalls in his memory the horrible experiences he and his fianc\u00e9e Jane recently went through. It is the annual fair in Holstenwall. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep. When Alan asks Cesare about his future, Cesare answers that he will die before dawn. The next morning Alan is found dead. Francis suspects Cesare of being the murderer, and starts spying on him and Dr. Caligari. The following night Cesare is going to stab Jane in her bed, but softens when he sees the beautiful woman, and instead of committing another murder, he abducts her. Jane's father awakens because of the noise, and he and some servants follow the fleeing Cesare. When Cesare cannot outrun his pursuers anymore, he gently places Jane down on the ground, and runs away. Francis and the police investigate the caravan of Dr. Caligari, but the doctor succeeds in slipping away. Francis pursues the fleeing Dr. Caligari, and sees him disappear into a madhouse. Francis enters the madhouse, where he is sure he will find the truth behind all these mysterious events.", 
+    "genres": "Crime, Horror, Mystery", 
+    "release_year": "1920", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Cesare tries to kidnap Jane.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "particular"
+                ], 
+                "role": "The Cabinet of Dr. Caligari is framed as the story of how Jane was driven this particular shade of crazy.", 
+                "id": "TheOphelia"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White: Take a look at that poster up there.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0010323", 
+    "poster_url": "TheCabinetOfDrCaligari.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "ValerieAndHerWeekOfWonders", 
+            "name": "Valerie and Her Week of Wonders", 
+            "poster_url": "ValerieAndHerWeekOfWonders.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "PicnicAtHangingRock", 
+            "name": "Picnic at Hanging Rock", 
+            "poster_url": "PicnicAtHangingRock.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "ADangerousMethod", 
+            "name": "A Dangerous Method", 
+            "poster_url": "ADangerousMethod.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "FleshAndBlood", 
+            "name": "Flesh And Blood"
+        }
+    ], 
+    "id": "TheCabinetOfDrCaligari", 
+    "name": "The Cabinet of Dr. Caligari"
+}

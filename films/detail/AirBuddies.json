@@ -1,0 +1,83 @@
+{
+    "plot": "When dad BUDDY and mom MOLLY are dognapped, their five adorable pups, the AIR BUDDIES, must save the day...", 
+    "genres": "Comedy, Family", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Deputy Sniffer.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Spinkel and his kid in Air Buddies.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick - Rosebud", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0470982", 
+    "poster_url": "AirBuddies.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "YouCantTakeItWithYou", 
+            "name": "You Can't Take It With You", 
+            "poster_url": "YouCantTakeItWithYou.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongestYard", 
+            "name": "The Longest Yard", 
+            "poster_url": "TheLongestYard.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Sharknado", 
+            "name": "Sharknado"
+        }
+    ], 
+    "id": "AirBuddies", 
+    "name": "Air Buddies"
+}

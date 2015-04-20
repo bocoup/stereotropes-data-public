@@ -1,0 +1,103 @@
+{
+    "plot": "Three friends on losing streaks: Adam, whose girlfriend dumped him, Nick, with a dead-end job and a cheating wife, and Lou, a suicidal alcoholic. To help Lou recover from car-exhaust poisoning, Adam and Nick, with Adam's nephew Jacob, go to a winter resort that was their old party place. It's now a dump, but the lads rally for a night of drinking in the hot tub. Somehow, the hot tub takes them back to 1986, on a fateful night for each of them. Maybe if they do everything the same way they did that night, they'll get back to the future so Jacob can be born. There are serious temptations to do things differently. Will they make it back to their sorry lives? And what about Jacob?", 
+    "genres": "Adventure, Comedy, Sci-Fi", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Basement-Dweller", 
+                    "Played"
+                ], 
+                "role": "Basement-Dweller: Played straight as an arrow with Jacob.", 
+                "id": "BasementDweller"
+            }, 
+            {
+                "adjectives": [
+                    "last", 
+                    "musician"
+                ], 
+                "role": "Henpecked Husband: Nick starts out as this, becoming a hyphenate (taking his wife's last name), giving up his dream of being a musician to please her, and putting up with his wife cheating on him because he doesn't have the courage to confront her about it.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "final"
+                ], 
+                "role": "Also, while Adam is talking with the Manic Pixie Dream Girl in the house they broke into, a quick \"Okay, so you're a Time Lord, and this hot tub is your space ship.\" This scene is also framed like the final scene of \"Sixteen Candles.\"", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "small"
+                ], 
+                "role": "Ms. Fanservice: Tara (the busty groupie that Nick hooks up with) and Zoe (the girl who \"only does two at a time\"). Both women have very small roles, yet both appear topless.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Valley Girl: April.", 
+                "id": "ValleyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1231587", 
+    "poster_url": "HotTubTimeMachine.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "MsFanservice", 
+                "BasementDweller"
+            ], 
+            "shared_count": 3, 
+            "id": "MenInBlack", 
+            "name": "Men In Black", 
+            "poster_url": "MenInBlack.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ValleyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "BasementDweller"
+            ], 
+            "shared_count": 2, 
+            "id": "WaynesWorld", 
+            "name": "Wayne's World", 
+            "poster_url": "WaynesWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }
+    ], 
+    "id": "HotTubTimeMachine", 
+    "name": "Hot Tub Time Machine"
+}

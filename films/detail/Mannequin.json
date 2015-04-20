@@ -1,0 +1,94 @@
+{
+    "plot": "Jonathan Switcher is a young artist. He just doesn't seem to last in any job he does. But when he builds a mannequin, he makes it so perfect, he falls in love with it. It is the first thing he has made that makes him feel like a real artist. The mannequin ends up in the window of a big department store. When he saves the life of an old lady who happens to be the owner of that store, he is rewarded by getting a job at the store as stock boy. Later the mannequin comes to life as Emmy, who was an ancient Egyptian living in the year 2514BC. The two redesign the window display to make it most eye catching in town. The store competitors are not happy and will do anything to stop them!", 
+    "genres": "Comedy, Fantasy, Romance", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Hollywood (that's his name).", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "unable"
+                ], 
+                "role": "The Loins Sleep Tonight: When Roxy submits to her Abhorrent Admirer, she goes about it so abhorrently that he is unable to perform.", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "beautiful", 
+                    "Egyptian", 
+                    "several", 
+                    "next", 
+                    "real"
+                ], 
+                "role": "The movie Mannequin plays this straight. It has a beautiful Egyptian princess who wants \"more than this\" life several thousand years ago. The gods agree and she disappears. We next see her as a mannequin who apparently can only appear and act real for one person \u2014- the protagonist.", 
+                "id": "MagicalGirlfriend"
+            }, 
+            {
+                "adjectives": [
+                    "shallow", 
+                    "dismissive", 
+                    "future"
+                ], 
+                "role": "Woman Scorned: Roxie, who (more for this reason than because she works for Illustra) ends up trying to vengefully destroy the mannequin girl for whom Switcher jilted her. (Though naturally, she was shown to be shallow as a puddle, vain, and dismissive of his talents and future prospects to justify this.)", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093493", 
+    "similar": [
+        {
+            "shared": [
+                "MagicalGirlfriend", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "MySuperExGirlfriend", 
+            "name": "My Super Ex Girlfriend"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "Pusher", 
+            "name": "Pusher"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "VictorVictoria", 
+            "name": "Victor/Victoria"
+        }
+    ], 
+    "id": "Mannequin", 
+    "name": "Mannequin"
+}

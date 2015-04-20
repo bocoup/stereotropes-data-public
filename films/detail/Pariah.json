@@ -1,0 +1,75 @@
+{
+    "plot": "A Brooklyn teenager juggles conflicting identities and risks friendship, heartbreak, and family in a desperate search for sexual expression.", 
+    "genres": "Drama", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Butch Lesbian: Laura. Alike to a lesser degree.", 
+                "id": "ButchLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian: Bina, although she says she's not \"gay gay\", and just \"doing her thing\".", 
+                "id": "LipstickLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt1233334", 
+    "poster_url": "Pariah.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ButchLesbian", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 2, 
+            "id": "Bound", 
+            "name": "Bound", 
+            "poster_url": "Bound.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 2, 
+            "id": "MementoMori", 
+            "name": "Memento Mori"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 2, 
+            "id": "SheHateMe", 
+            "name": "She Hate Me", 
+            "poster_url": "SheHateMe.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 2, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian"
+            ], 
+            "shared_count": 1, 
+            "id": "TheAdventuresOfPicasso", 
+            "name": "The Adventures Of Picasso", 
+            "poster_url": "TheAdventuresOfPicasso.jpg"
+        }
+    ], 
+    "id": "Pariah", 
+    "name": "Pariah"
+}

@@ -1,0 +1,82 @@
+{
+    "plot": "Three seemingly anonymous high school seniors attempt to finally make a name for themselves. Their idea is innocent enough - let's throw a party that no one will forget, and have a camera there, to document history in the making. But nothing could prepare them for this party. Word spreads quickly as dreams are ruined, records are blemished and legends are born.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Big Man on Campus: Thomas becomes this at the end.", 
+                "id": "BigManOnCampus"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Gamer Chick: Kirby is seen kicking Costa's ass at Mortal Kombat 9 on the 360.", 
+                "id": "GamerChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kirby in Project X is seen whooping Costa's ass on the 360.", 
+                "id": "GamerChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "One of the Boys: Kirby.", 
+                "id": "OneOfTheBoys"
+            }
+        ]
+    }, 
+    "imdbid": "tt1636826", 
+    "poster_url": "ProjectX.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GamerChick"
+            ], 
+            "shared_count": 1, 
+            "id": "BenX", 
+            "name": "Ben X", 
+            "poster_url": "BenX.jpg"
+        }, 
+        {
+            "shared": [
+                "BigManOnCampus"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBestMan", 
+            "name": "The Best Man", 
+            "poster_url": "TheBestMan.jpg"
+        }, 
+        {
+            "shared": [
+                "BigManOnCampus"
+            ], 
+            "shared_count": 1, 
+            "id": "DeadPoetsSociety", 
+            "name": "Dead Poets Society", 
+            "poster_url": "DeadPoetsSociety.jpg"
+        }, 
+        {
+            "shared": [
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 1, 
+            "id": "TheHudsuckerProxy", 
+            "name": "The Hudsucker Proxy", 
+            "poster_url": "TheHudsuckerProxy.jpg"
+        }, 
+        {
+            "shared": [
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 1, 
+            "id": "TigerBay", 
+            "name": "Tiger Bay", 
+            "poster_url": "TigerBay.jpg"
+        }
+    ], 
+    "id": "ProjectX", 
+    "name": "Project X"
+}

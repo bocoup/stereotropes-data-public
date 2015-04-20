@@ -1,0 +1,99 @@
+{
+    "plot": "A shady police detective becomes embroiled in a strange world of murder, sadism and madness after being assigned a murder investigation against a madman known only as \"The Engineer\".", 
+    "genres": "Crime, Horror, Mystery", 
+    "release_year": "2000", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "next", 
+                    "real", 
+                    "real", 
+                    "likely", 
+                    "alive"
+                ], 
+                "role": "Disposable Sex Worker: Joseph has sex with a hooker whom he picks up from the streets in a motel room, but the next day she calls him up at work and he witnesses her being murdered. With his partner's help he cleans up the evidence so he can track down the real killer. Subverted when it turns out he's been in Hell all along. The real hooker is likely still alive and Joseph himself simply dissappeared.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "corrupt", 
+                    "next", 
+                    "own", 
+                    "real", 
+                    "real", 
+                    "likely", 
+                    "alive"
+                ], 
+                "role": "In Hellraiser: Inferno, the corrupt Detective Joseph Thorne has sex with a hooker whom he picks up from the streets in a motel room, but the next day she calls him up at work and he overhears her being murdered. With his partner's help he cleans up the evidence of his own presence so he can track down the real killer. Subverted when it turns out he's been in Hell all along. The real hooker is likely still alive and Joseph himself simply dissappeared.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Hellraiser: Inferno, the Dirty Cop protagonist Joseph Thorne picks up a hooker from the streets to spend the night with.", 
+                "id": "Streetwalker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Streetwalker: Joseph picks up a hooker from the streets to spend the night with.", 
+                "id": "Streetwalker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0229440", 
+    "poster_url": "HellraiserInferno.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "Streetwalker"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBurning", 
+            "name": "The Burning", 
+            "poster_url": "TheBurning.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "Streetwalker"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "Streetwalker"
+            ], 
+            "shared_count": 2, 
+            "id": "AmericanPsycho", 
+            "name": "American Psycho", 
+            "poster_url": "AmericanPsycho.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "Streetwalker"
+            ], 
+            "shared_count": 2, 
+            "id": "EyesWideShut", 
+            "name": "Eyes Wide Shut", 
+            "poster_url": "EyesWideShut.jpg"
+        }, 
+        {
+            "shared": [
+                "Streetwalker"
+            ], 
+            "shared_count": 1, 
+            "id": "ManOfLaMancha", 
+            "name": "Man Of La Mancha", 
+            "poster_url": "ManOfLaMancha.jpg"
+        }
+    ], 
+    "id": "HellraiserInferno", 
+    "name": "Hellraiser: Inferno"
+}

@@ -1,0 +1,83 @@
+{
+    "plot": "Joe Pendleton is a football quarterback preparing to lead his team to the Superbowl when he is almost killed in an accident. An overanxious angel plucks him to heaven only to discover that he was not ready to die, and that his body has been cremated. Another body must be found without his death being discovered, and that of a recently murdered millionaire is chosen. His wife and accountant, the murderers, are confused by this development, as he buys the Los Angeles Rams in order to once again quarterback them into the Superbowl. At the same time, he falls in love with an English environmental activist who disapproves of his policies and actions.", 
+    "genres": "Comedy, Romance, Sport", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Henry's grandfather.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ladykiller in Love: Henry for Martha.", 
+                "id": "LadyKillerInLove"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "The Casanova: Henry. Leads to problems later on when he's married to Martha.", 
+                "id": "TheCasanova"
+            }
+        ]
+    }, 
+    "imdbid": "tt0077663", 
+    "poster_url": "HeavenCanWait.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "LadyKillerInLove", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "HeavenCanWait1943", 
+            "name": "Heaven Can Wait", 
+            "poster_url": "HeavenCanWait1943.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }
+    ], 
+    "id": "HeavenCanWait", 
+    "name": "Heaven Can Wait"
+}

@@ -1,0 +1,101 @@
+{
+    "plot": "A shy boy is unable to make friends in Yazoo City, Mississippi in 1942, until his parents give him a terrier puppy for his ninth birthday. The dog, which he names Skip, becomes well known and loved throughout the community and enriches the life of the boy, Willie, as he grows into manhood. Based on the best-selling Mississippi memoir by the late Willie Morris.", 
+    "genres": "Drama, Family, Sport", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "middle-aged"
+                ], 
+                "role": "Grumpy Old Man: Willie's father is more a middle-aged version of this. Then again, he was a war veteran who lost his leg, so what do you expect?", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Men Can't Keep House: Subverted with Willie's father, since he pretty much does keep the house.", 
+                "id": "MenCantKeepHouse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Willie", 
+                "id": "MommasBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Mom: She's played by Diane Lane, so...yeah.", 
+                "id": "HotMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Rivers", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [
+                    "able"
+                ], 
+                "role": "Tomboy and Girly Girl: Rivers alone manages to pull this one off: she is generally a girly girl most of the time, though she is able to let her guard to down, and show Willie and the fellahs she can be one of the guys as well.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0156812", 
+    "poster_url": "MyDogSkip.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MenCantKeepHouse", 
+                "GrumpyOldMan", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "HotMom", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SesameStreet", 
+            "name": "Sesame Street"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "ToyStory2", 
+            "name": "Toy Story 2", 
+            "poster_url": "ToyStory2.jpg"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "ToyStory", 
+            "name": "Toy Story", 
+            "poster_url": "ToyStory.jpg"
+        }
+    ], 
+    "id": "MyDogSkip", 
+    "name": "My Dog Skip"
+}

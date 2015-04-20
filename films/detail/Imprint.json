@@ -1,0 +1,97 @@
+{
+    "plot": "Shayla Stonefeather, a Native American attorney prosecuting a Lakota teen in a controversial murder trial, returns to the reservation to say goodbye to her dying father. After the teen is killed, she hears ghostly voices and sees strange visions that cause her to re-examine beliefs she thought she left behind.", 
+    "genres": "Drama, Thriller", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Cool Old Guy: The old man that comes to the Stonefeather ranch unpon Rebecca's request to bless it.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Tom Johnathan  pretends to be one.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Prince Charming Wannabe: Johnathans attempts to impress Rebecca Stonefeather. She doesn't buy it.", 
+                "id": "PrinceCharmingWannabe"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Bad"
+                ], 
+                "role": "Bad Ass Damsel: Shayla knows how to use a shotgun.", 
+                "id": "BadassDamsel"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Mom: Rebecca Stonefeather.", 
+                "id": "HotMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0816530", 
+    "poster_url": "Imprint.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "PrinceCharmingWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Witness", 
+            "name": "Witness", 
+            "poster_url": "Witness.jpg"
+        }, 
+        {
+            "shared": [
+                "HotMom", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "SesameStreet", 
+            "name": "Sesame Street"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "PrinceCharmingWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }
+    ], 
+    "id": "Imprint", 
+    "name": "Imprint"
+}

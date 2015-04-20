@@ -1,0 +1,89 @@
+{
+    "plot": "Detroit - in the future - is crime-ridden and run by a massive company. The company has developed a huge crime-fighting robot, which unfortunately develops a rather dangerous glitch. The company sees a way to get back in favor with the public when policeman Alex Murphy is killed by a street gang. Murphy's body is reconstructed within a steel shell and called RoboCop. RoboCop is very successful against criminals and becomes a target of supervillian Boddicker.", 
+    "genres": "Action, Sci-Fi", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "purple-on-blue"
+                ], 
+                "role": "Knight in Shining Armor: Kevlar/Titanium laminated armour, to be precise. With nifty purple-on-blue highlights.", 
+                "id": "KnightInShiningArmor"
+            }, 
+            {
+                "adjectives": [
+                    "modern", 
+                    "purple-on-blue"
+                ], 
+                "role": "RoboCop is one modern example. Though replace \"shining\" with \"Kevlar/Titanium laminated\". With nifty purple-on-blue highlights to boot.", 
+                "id": "KnightInShiningArmor"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot", 
+                    "same", 
+                    "original", 
+                    "notable"
+                ], 
+                "role": "Hot Scientist: Though not the same character, the recurring female technician in the original movies with Dr. Maria Lazarus being the most notable one.", 
+                "id": "HotScientist"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093870", 
+    "poster_url": "Robocop.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HotScientist", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "HotScientist", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSaint", 
+            "name": "The Saint", 
+            "poster_url": "TheSaint.jpg"
+        }, 
+        {
+            "shared": [
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }
+    ], 
+    "id": "Robocop", 
+    "name": "RoboCop"
+}

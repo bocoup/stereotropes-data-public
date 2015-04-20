@@ -1,0 +1,91 @@
+{
+    "plot": "Two very different families converge on Martha's Vineyard one weekend for a wedding.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe: Malcolm.", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Jason, or at least his mother sees him as this. Which leads into. . .", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: William Earl, who apparently has been married 3 times.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "pediatrician", 
+                    "other"
+                ], 
+                "role": "My Beloved Smother: Insists on taking Jason home to be examined by his pediatrician after he incurs a minor injury while playing football. Later, Jason reveals the reason that he didn't introduce Sabrina to her is because he knew she would drive her away as she had done to other women in his life and finally puts his foot down and tells her that him getting married doesn't mean that he's leaving her.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt1640484", 
+    "poster_url": "JumpingTheBroom.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "CasanovaWannabe", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "JohnDiesAtTheEnd", 
+            "name": "John Dies at the End", 
+            "poster_url": "JohnDiesAtTheEnd.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "Shame", 
+            "name": "Shame", 
+            "poster_url": "Shame.jpg"
+        }
+    ], 
+    "id": "JumpingTheBroom", 
+    "name": "Jumping the Broom"
+}

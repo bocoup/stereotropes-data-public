@@ -1,0 +1,80 @@
+{
+    "plot": "At a Los Angeles hospital in the 1920s, Alexandria is a child recovering from a broken arm. She befriends Roy Walker, a movie stunt man with legs paralyzed after a fall. At her request, Roy tells her an elaborate story about six men of widely varied backgrounds who are on a quest to kill a corrupt provincial governor. Between chapters of the story, Roy inveigles Alexandria to scout the hospital's pharmacy for morphine. As Roy's fantastic tale nears its end, Death seems close at hand.", 
+    "genres": "Adventure, Drama, Fantasy", 
+    "release_year": "2006", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: Subverted.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "Mysterious"
+                ], 
+                "role": "Mysterious Waif: Lady Evelyn.", 
+                "id": "MysteriousWaif"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Sister  Evelyn.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0460791", 
+    "poster_url": "TheFall.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "SuperSentai", 
+            "name": "Super Sentai"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "VanHelsing", 
+            "name": "Van Helsing"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLEGOMovie", 
+            "name": "The LEGO Movie", 
+            "poster_url": "TheLEGOMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "JasonAndTheArgonauts", 
+            "name": "Jason and the Argonauts", 
+            "poster_url": "JasonAndTheArgonauts.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MysteriousWaif"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFifthElement", 
+            "name": "The Fifth Element", 
+            "poster_url": "TheFifthElement.jpg"
+        }
+    ], 
+    "id": "TheFall", 
+    "name": "The Fall"
+}

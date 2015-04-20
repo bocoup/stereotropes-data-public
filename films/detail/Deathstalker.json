@@ -1,0 +1,96 @@
+{
+    "plot": "The warrior Deathstalker is tasked by an old witch lady to obtain and unite the three powers of creation - a chalice, an amulet, and a sword - lest the evil magician Munkar get them and use them for nefarious purposes. After obtaining the sword, Deathstalker joins with other travellers going to the Big Tournament to determine the strongest warrior. The false king holds the true princess in captivity, and plots to have Deathstalker killed, and Deathstalker must fight to free the princess.", 
+    "genres": "Adventure, Fantasy", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "other", 
+                    "pig", 
+                    "monster-men"
+                ], 
+                "role": "Beast Man: One of the other warriors who enters the tournament has a pig's head. There's also the monster-men Deathstalker fights in the opening scene.", 
+                "id": "BeastMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Kaira. Despite a Stripperiffic costume, she is a better fighter than Oghris.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Princess Codille.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Princes Codille.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087127", 
+    "poster_url": "Deathstalker.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BeastMan", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "HeavyMetal", 
+            "name": "Heavy Metal", 
+            "poster_url": "HeavyMetal.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "DawnOfTheDead2004", 
+            "name": "Dawn of the Dead ", 
+            "poster_url": "DawnOfTheDead2004.jpg"
+        }
+    ], 
+    "id": "Deathstalker", 
+    "name": "Deathstalker"
+}

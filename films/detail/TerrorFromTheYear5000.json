@@ -1,0 +1,97 @@
+{
+    "plot": "Prof. Erling and his financial backer Victor build a prototype time machine to snatch objects from the past. Latest find, a statuette, radiometrically dates to 5200 AD! When this draws colleague Richard Hedges to the island lab, Erling reveals that 20th-century objects put in the machine seem to be \"traded\" for analogous future objects by intelligent life. And on the sly, Victor's been trying to get a living visitor. Does the future need help, or is the present in danger?", 
+    "genres": "Sci-Fi", 
+    "release_year": "1958", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "professional"
+                ], 
+                "role": "Crusty Caretaker: Angelo, amateur Jimmy Carter impersonator and professional pervert.", 
+                "id": "CrustyCaretaker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Non-Action Guy: Victor", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "hideous", 
+                    "tight", 
+                    "nice"
+                ], 
+                "role": "Butter Face: The Terror herself is hideous, but her tight jumpsuit shows a nice figure.", 
+                "id": "ButterFace"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "intelligent", 
+                    "titular", 
+                    "villainous", 
+                    "responsible"
+                ], 
+                "role": "Neutral Female: Dr. Bob's assistant Miss Blake plays this totally straight with her Extreme Doormat personality. Claire, on the other hand, subverts it; even outside '50s standards, she's rather intelligent and assertive. Heck, she even brawls the titular Terror after finding out the villainous mutant was responsible for killing Angelo.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0052286", 
+    "poster_url": "TerrorFromTheYear5000.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "CrustyCaretaker"
+            ], 
+            "shared_count": 2, 
+            "id": "ManosTheHandsOfFate", 
+            "name": "Manos The Hands of Fate", 
+            "poster_url": "ManosTheHandsOfFate.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ButterFace"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "NonActionGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Predators", 
+            "name": "Predators", 
+            "poster_url": "Predators.jpg"
+        }, 
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "ButterFace"
+            ], 
+            "shared_count": 2, 
+            "id": "ScaryMovie", 
+            "name": "Scary Movie", 
+            "poster_url": "ScaryMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "TerrorFromTheYear5000", 
+    "name": "Terror from the Year"
+}

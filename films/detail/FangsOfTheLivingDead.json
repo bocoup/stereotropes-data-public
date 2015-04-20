@@ -1,0 +1,81 @@
+{
+    "plot": "A beautiful virgin inherits a castle, but when she arrives at it, she finds that the inhabitants include a strange nobleman and a bevy of beautiful women she suspects may be vampires.", 
+    "genres": "Horror", 
+    "release_year": "1969", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene: When the count chains Piero up, he also removes his shirt. No explanation is given.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hysterical", 
+                    "alive"
+                ], 
+                "role": "Hysterical Woman: When Silvia claims to have seen Bertha alive, her fiance assumes she's just fantasizing.", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Lesbian Vampire: Blinka.", 
+                "id": "LesbianVampire"
+            }
+        ]
+    }, 
+    "imdbid": "tt0062957", 
+    "poster_url": "FangsOfTheLivingDead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LesbianVampire"
+            ], 
+            "shared_count": 1, 
+            "id": "RazorBladeSmile", 
+            "name": "Razor Blade Smile", 
+            "poster_url": "RazorBladeSmile.jpg"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFog", 
+            "name": "The Fog", 
+            "poster_url": "TheFog.jpg"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "QueenOfOuterSpace", 
+            "name": "Queen Of Outer Space", 
+            "poster_url": "QueenOfOuterSpace.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "Neighbors2014", 
+            "name": "Neighbors", 
+            "poster_url": "Neighbors2014.jpg"
+        }
+    ], 
+    "id": "FangsOfTheLivingDead", 
+    "name": "Fangs Of The Living Dead"
+}

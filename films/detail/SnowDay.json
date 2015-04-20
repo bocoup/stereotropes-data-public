@@ -1,0 +1,102 @@
+{
+    "plot": "When an entire town in upstate New York is closed down by an unexpected snowfall, a \"snow day\" begins when a group of elementary school kids, led by Natalie Brandston, try to ensure that the schools stay closed by stopping a mechanical snowplow driver by trying to hijack his plow truck. Meanwhile, Natalie's big brother Hal is using this day to try to win the affections of Claire Bonner, the most popular girl in his high school, while Hal and Natalie's father Tom, a TV meteorologist, faces off against a rival meteorologist for weather coverage of the day's events.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Oh, Hal.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Affirmative"
+                ], 
+                "role": "Affirmative Action Girl: Natalie", 
+                "id": "AffirmativeActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Big Bro: Natalie sees Hal this way, most of the time.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [
+                    "red", 
+                    "upstate"
+                ], 
+                "role": "Ms. Fanservice: Claire. Half of the movie she is wearing a red swimsuit. In the middle of an upstate New York winter. Why? Because she's a diver.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Lane Also The Lancer to Hal", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0184907", 
+    "poster_url": "SnowDay.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "MsFanservice", 
+                "AffirmativeActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SpaceJam", 
+            "name": "Space Jam", 
+            "poster_url": "SpaceJam.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "TheChick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "DoggedNiceGuy", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "Sparkle", 
+            "name": "Sparkle", 
+            "poster_url": "Sparkle.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }
+    ], 
+    "id": "SnowDay", 
+    "name": "Snow Day"
+}

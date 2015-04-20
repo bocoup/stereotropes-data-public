@@ -1,0 +1,84 @@
+{
+    "plot": "Trio of fuzzy (and funny) aliens crash land in Valerie's pool-- putting a decided damper on her future wedding plans to cheating Dr. Ted Gallagher. Action interrupted by musical numbers--an MTV musical comedy.", 
+    "genres": "Comedy, Musical, Romance", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Woody from Earth Girls Are Easy.", 
+                "id": "SurferDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Blue/Red/Yellow"
+                ], 
+                "role": "Blue/Red/Yellow Furred Alien Space Hunk.", 
+                "id": "GreenSkinnedSpaceBabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Male example in Earth Girls Are Easy. We have Blue, Red, and Yellow Alien Space Hunks in the forms of Jim Carrey, Jeff Goldblum and Damon Wayans. But only when their body fur is shaved off.", 
+                "id": "GreenSkinnedSpaceBabe"
+            }, 
+            {
+                "adjectives": [
+                    "Huge"
+                ], 
+                "role": "Huge Schoolgirl: Val", 
+                "id": "HugeSchoolgirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097257", 
+    "poster_url": "EarthGirlsAreEasy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GreenSkinnedSpaceBabe"
+            ], 
+            "shared_count": 1, 
+            "id": "X-Men", 
+            "name": "X-Men", 
+            "poster_url": "X-Men.jpg"
+        }, 
+        {
+            "shared": [
+                "GreenSkinnedSpaceBabe"
+            ], 
+            "shared_count": 1, 
+            "id": "FreeEnterprise", 
+            "name": "Free Enterprise"
+        }, 
+        {
+            "shared": [
+                "SurferDude"
+            ], 
+            "shared_count": 1, 
+            "id": "SurfNazisMustDie", 
+            "name": "Surf Nazis Must Die", 
+            "poster_url": "SurfNazisMustDie.jpg"
+        }, 
+        {
+            "shared": [
+                "GreenSkinnedSpaceBabe"
+            ], 
+            "shared_count": 1, 
+            "id": "GreenLanternEmeraldKnights", 
+            "name": "Emerald Knights"
+        }, 
+        {
+            "shared": [
+                "GreenSkinnedSpaceBabe"
+            ], 
+            "shared_count": 1, 
+            "id": "ClerksII", 
+            "name": "Clerks II", 
+            "poster_url": "ClerksII.jpg"
+        }
+    ], 
+    "id": "EarthGirlsAreEasy", 
+    "name": "Earth Girls Are Easy"
+}

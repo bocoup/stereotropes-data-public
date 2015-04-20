@@ -1,0 +1,67 @@
+{
+    "plot": "Jack Chester, an overworked air traffic controller, takes his family on vacation to the beach. Things immediately start to go wrong for the Chesters, and steadily get worse. Jack ends up in a feud with a local yachtsman, and has to race him to regain his pride and family's respect.", 
+    "genres": "Comedy", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first", 
+                    "Star-Spangled", 
+                    "high"
+                ], 
+                "role": "In the movie Summer Rental, John Candy's character gets socked in the groin and he starts singing the first line of \"The Star-Spangled Banner\", which has a rising high pitch.", 
+                "id": "InstantSoprano"
+            }
+        ]
+    }, 
+    "imdbid": "tt0090098", 
+    "poster_url": "SummerRental.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "InstantSoprano"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "InstantSoprano"
+            ], 
+            "shared_count": 1, 
+            "id": "HomeAlone", 
+            "name": "Home Alone", 
+            "poster_url": "HomeAlone.jpg"
+        }, 
+        {
+            "shared": [
+                "InstantSoprano"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "InstantSoprano"
+            ], 
+            "shared_count": 1, 
+            "id": "ThePirateMovie", 
+            "name": "The Pirate Movie"
+        }, 
+        {
+            "shared": [
+                "InstantSoprano"
+            ], 
+            "shared_count": 1, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }
+    ], 
+    "id": "SummerRental", 
+    "name": "Summer Rental"
+}

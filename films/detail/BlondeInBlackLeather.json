@@ -1,0 +1,90 @@
+{
+    "plot": "Two racy women decide to chuck their mundane lives and go on a wild adventure.", 
+    "genres": "Comedy, Drama, Thriller", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "lengthy", 
+                    "imaginary", 
+                    "dire"
+                ], 
+                "role": "Miles Gloriosus: Monica loves telling lengthy tales of her imaginary exploits, but nearly trips over herself when things get really dire.", 
+                "id": "MilesGloriosus"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Biker Babe: Monica ostensibly, but she loses the bike still in the first half of the movie.", 
+                "id": "BikerBabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Monica Vitti in Blonde in Black Leather.", 
+                "id": "BikerBabe"
+            }, 
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "The main characters from Blonde in Black Leather.", 
+                "id": "LovelyAngels"
+            }
+        ]
+    }, 
+    "imdbid": "tt0073598", 
+    "similar": [
+        {
+            "shared": [
+                "BikerBabe", 
+                "LovelyAngels"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCannonballRun", 
+            "name": "The Cannonball Run", 
+            "poster_url": "TheCannonballRun.jpg"
+        }, 
+        {
+            "shared": [
+                "MilesGloriosus"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCommitments", 
+            "name": "The Commitments", 
+            "poster_url": "TheCommitments.jpg"
+        }, 
+        {
+            "shared": [
+                "BikerBabe"
+            ], 
+            "shared_count": 1, 
+            "id": "SkyCaptainAndTheWorldOfTomorrow", 
+            "name": "Sky Captain and the World of Tomorrow", 
+            "poster_url": "SkyCaptainAndTheWorldOfTomorrow.jpg"
+        }, 
+        {
+            "shared": [
+                "BikerBabe"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "MilesGloriosus"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGrey", 
+            "name": "The Grey", 
+            "poster_url": "TheGrey.jpg"
+        }
+    ], 
+    "id": "BlondeInBlackLeather", 
+    "name": "Blonde in Black Leather"
+}

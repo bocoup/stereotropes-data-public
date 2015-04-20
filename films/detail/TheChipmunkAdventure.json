@@ -1,0 +1,83 @@
+{
+    "plot": "Alvin has entered himself and Simon and Theodore in a hot-air balloon race around the world against the Chipettes to deliver diamonds for a group of diamond smugglers. The winners will collect a prize of $100,000. Kids and adults will enjoy this film made with musical numbers by the Chipmunks and the Chipettes.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Dude: All three of the Chipmunks, who nearly end up as alligator food but are saved by the Chipettes Just in Time.", 
+                "id": "DistressedDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chipettes in The Chipmunk Adventure.", 
+                "id": "BedlahBabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Belly Dancer: The Chipettes get dressed up like this.", 
+                "id": "BellyDancer"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chipettes dress like this in The Chipmunk Adventure.", 
+                "id": "BellyDancer"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092752", 
+    "similar": [
+        {
+            "shared": [
+                "BedlahBabe", 
+                "BellyDancer"
+            ], 
+            "shared_count": 2, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "BedlahBabe", 
+                "BellyDancer"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDooInArabianNights", 
+            "name": "Scooby-Doo in Arabian Nights", 
+            "poster_url": "ScoobyDooInArabianNights.jpg"
+        }, 
+        {
+            "shared": [
+                "BellyDancer"
+            ], 
+            "shared_count": 1, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "DistressedDude"
+            ], 
+            "shared_count": 1, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "BellyDancer"
+            ], 
+            "shared_count": 1, 
+            "id": "CasinoRoyale1967", 
+            "name": "Casino Royale ", 
+            "poster_url": "CasinoRoyale1967.jpg"
+        }
+    ], 
+    "id": "TheChipmunkAdventure", 
+    "name": "The Chipmunk Adventure"
+}

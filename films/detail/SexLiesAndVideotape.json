@@ -1,0 +1,87 @@
+{
+    "plot": "Ann is married to John, who is having an affair with her sister Cynthia. Ann's a quiet type and unwilling to let herself go. When John's old friend, Graham, shows up, all their lives change. Graham likes to videotape interviews with women.", 
+    "genres": "Drama", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe: the guy who's constantly hitting on Cynthia in her bar.", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [
+                    "Sensitive"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Graham and John, respectively. They used to be more alike in college, but diverged wildly.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }, 
+            {
+                "adjectives": [
+                    "impotent"
+                ], 
+                "role": "The Loins Sleep Tonight: Graham is impotent.", 
+                "id": "TheLoinsSleepTonight"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Troubled, but Cute: Graham.", 
+                "id": "TroubledButCute"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098724", 
+    "similar": [
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "Shame", 
+            "name": "Shame", 
+            "poster_url": "Shame.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }
+    ], 
+    "id": "SexLiesAndVideotape", 
+    "name": "sex, lies, and videotape"
+}

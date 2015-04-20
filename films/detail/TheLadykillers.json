@@ -1,0 +1,89 @@
+{
+    "plot": "A remake of the 1955 comedy, the story revolves around a Southern professor who puts together a group of thieves to rob a casino. They rent a room in an old woman's house, but soon she discovers the plot and they must kill her, a task that is more difficult than it seems.", 
+    "genres": "Comedy, Crime, Thriller", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "One-Round"
+                ], 
+                "role": "Dumb Muscle: One-Round Lawson/Lump Hudson", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Southern Gentleman: Professor Dorr certainly has the look down pat.", 
+                "id": "SouthernGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Brawn Hilda: Garth's girlfriend, Mountain Girl.", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [
+                    "safe", 
+                    "unintentional"
+                ], 
+                "role": "Never Mess with Granny: Even grocers and cabbies aren't safe from the unintentional wrath of Mrs. Wilberforce.", 
+                "id": "NeverMessWithGranny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0335245", 
+    "poster_url": "TheLadykillers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeverMessWithGranny", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "BrawnHilda", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "HowToTrainYourDragon", 
+            "name": "How to Train Your Dragon", 
+            "poster_url": "HowToTrainYourDragon.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BrawnHilda"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "TheLadykillers", 
+    "name": "The Ladykillers"
+}

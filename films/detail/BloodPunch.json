@@ -1,0 +1,87 @@
+{
+    "plot": "A mysterious bad girl checks herself into rehab to find someone to cook crystal meth for her. She recruits a young college-aged man for her get-rick-quick drug score scheme and breaks him out with the help of her abusive cop boyfriend. But that young man finds himself in the midst of a love triangle full of betrayal and danger, and things go from bad to worse. And they then do it all over again the next day.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2013", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "abusive"
+                ], 
+                "role": "Broken Bird: Implied with Skyler. The film provides hints of her being dragged into an abusive relationship with Russell at twelve years old. Russell's client Archer helped out in the process.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "next"
+                ], 
+                "role": "Femme Fatale: Skyler, obviously. She ends up killing pretty much everyone (though, per the curse, they all come back to life the next day), even using a grenade at one point. Nabiki, to a much lesser extent.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "silky", 
+                    "dark"
+                ], 
+                "role": "Lady in Red: Skyler. Her Establishing Character Moment has her wearing a silky red dress and matching heels, along with dark pantyhose and a leather jacket.", 
+                "id": "LadyInRed"
+            }
+        ]
+    }, 
+    "imdbid": "tt2825230", 
+    "similar": [
+        {
+            "shared": [
+                "LadyInRed", 
+                "BrokenBird", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Bound", 
+            "name": "Bound", 
+            "poster_url": "Bound.jpg"
+        }
+    ], 
+    "id": "BloodPunch", 
+    "name": "Blood Punch"
+}

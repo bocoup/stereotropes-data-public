@@ -1,0 +1,99 @@
+{
+    "plot": "On the night of her wedding, Justine is struggling to be happy even though it should be the happiest day of her life. It was an extravagant wedding paid for by her sister and brother-in-law who are trying to keep the bride and all the guests in-line. Meanwhile, Melancholia, a blue planet, is hurtling towards the Earth. Claire, Justine's sister, is struggling to maintain composure with fear of the impending disaster.", 
+    "genres": "Drama, Sci-Fi", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "entire"
+                ], 
+                "role": "Dirty Old Man: Justine and Claire's father, played by John Hurt, shamelessly hits on two younger women for the entire wedding. His note implies that he ditched his daughter to go sleep with one of them.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Right Through His Pants", 
+                "id": "RightThroughHisPants"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "catatonic"
+                ], 
+                "role": "Emotionless Girl: Justine slowly falls apart during her wedding. In the bathtub she is almost catatonic.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [
+                    "few", 
+                    "above", 
+                    "certain", 
+                    "aesthetic", 
+                    "clear", 
+                    "ill", 
+                    "much", 
+                    "realistic"
+                ], 
+                "role": "Kirsten Dunst's character Justine in Melancholia could be a variation of this trope. She has few of the above mentioned traits, but a certain aesthetic scene in the movie is a clear reference to her. Justine is also mentally ill, but this is portrayed in a much more realistic and thus even more heartbreaking way.", 
+                "id": "TheOphelia"
+            }
+        ]
+    }, 
+    "imdbid": "tt1527186", 
+    "poster_url": "Melancholia.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAddamsFamily", 
+            "name": "The Addams Family", 
+            "poster_url": "TheAddamsFamily.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMothDiaries", 
+            "name": "The Moth Diaries", 
+            "poster_url": "TheMothDiaries.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }
+    ], 
+    "id": "Melancholia", 
+    "name": "Melancholia"
+}

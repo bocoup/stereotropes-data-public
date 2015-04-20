@@ -1,0 +1,112 @@
+{
+    "plot": "The gangster Nino has a gang who call themselves Cash Money Brothers. They get into the crack business and not before long they make a million dollars every week. A cop, Scotty, is after them. He tries to get into the gang by letting an ex-drug addict infiltrate the gang, but the attempt fails miserably. The only thing that remains is that Scotty himself becomes a drug pusher.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Badass Grandpa: The old man at the end of the movie.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bastard Boyfriend: Nino is this to Selina.", 
+                "id": "BastardBoyfriend"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Nino when he uses a little girl as a meat shield.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "Duh-Duh-Duh"
+                ], 
+                "role": "Dumb Muscle: The Duh-Duh-Duh Man.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Selina.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dark Action Girl: Keisha.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Disposable"
+                ], 
+                "role": "Disposable Woman: \"Cancel this bitch! I'll buy another one.\"", 
+                "id": "DisposableWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102526", 
+    "poster_url": "NewJackCity.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BrokenBird", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DisposableWoman", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DisposableWoman", 
+                "BrokenBird"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DisposableWoman", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DarkActionGirl", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }
+    ], 
+    "id": "NewJackCity", 
+    "name": "New Jack City"
+}

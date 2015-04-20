@@ -1,0 +1,81 @@
+{
+    "plot": "During World War II a German Colonel is captured by the Americans but before he can be interrogated an artillery barrage hits the camp. However, Ex-Lieutenant Kelly manages to reach the Colonel, get him drunk and learn that he is on a secret mission to ship $16,000,000 of gold to a base in France. Kelly is determined to get the gold and plans for himself and a few of his fellow soldiers to slip into enemy territory and steal the bullion.", 
+    "genres": "Adventure, Comedy, War", 
+    "release_year": "1970", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "A Father to His Men: Despite Big Joe's anger, the first thing on his mind when Kelly brings in German intelligence officer Colonel Dankopf is where the best hotels and women are for his men.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "abrasive", 
+                    "sarcastic", 
+                    "few"
+                ], 
+                "role": "Big Joe is abrasive and sarcastic in Drill Sergeant Nasty fashion, but gets in a few deadpan lines when confronted with his commanding officer's gross incompetence.", 
+                "id": "DrillSergeantNasty"
+            }
+        ]
+    }, 
+    "imdbid": "tt0065938", 
+    "poster_url": "KellysHeroes.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "TheThinRedLine", 
+            "name": "The Thin Red Line", 
+            "poster_url": "TheThinRedLine.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "StarshipTroopers", 
+            "name": "Starship Troopers", 
+            "poster_url": "StarshipTroopers.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "HotShots", 
+            "name": "Hot Shots!", 
+            "poster_url": "HotShots.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "AllQuietOnTheWesternFront", 
+            "name": "All Quiet on the Western Front", 
+            "poster_url": "AllQuietOnTheWesternFront.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Glory", 
+            "name": "Glory", 
+            "poster_url": "Glory.jpg"
+        }
+    ], 
+    "id": "KellysHeroes", 
+    "name": "Kelly's Heroes"
+}

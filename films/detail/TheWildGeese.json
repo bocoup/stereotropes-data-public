@@ -1,0 +1,84 @@
+{
+    "plot": "A British multinational seeks to overthrow a vicious dictator in central Africa. It hires a band of (largely aged) mercenaries in London and sends them in to save the virtuous but imprisoned opposition leader who is also critically ill and due for execution. Just when the team has performed a perfect rescue, the multinational does a deal with the vicious dictator leaving the mercenary band to escape under their own steam and exact revenge.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "acerbic", 
+                    "many", 
+                    "old"
+                ], 
+                "role": "A Father to His Men: Faulkner. While his personality is rather acerbic, many of the mercenaries join him out of old ties of friendship or loyalty; also, when he returns to England to exact revenge on Matheson he robs him to pay those who fought with him - \"I can't even begin to count all the widows and orphans.\"", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Agent Peacock: The Swiss Medic", 
+                "id": "AgentPeacock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Faulkner and Janders.", 
+                "id": "BadassGrandpa"
+            }
+        ]
+    }, 
+    "imdbid": "tt0078492", 
+    "poster_url": "TheWildGeese.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunted", 
+            "name": "The Hunted", 
+            "poster_url": "TheHunted.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "AgentPeacock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "WeWereSoldiers", 
+            "name": "We Were Soldiers", 
+            "poster_url": "WeWereSoldiers.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "AgentPeacock"
+            ], 
+            "shared_count": 2, 
+            "id": "Drive", 
+            "name": "Drive", 
+            "poster_url": "Drive.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "OnlyGodForgives", 
+            "name": "Only God Forgives", 
+            "poster_url": "OnlyGodForgives.jpg"
+        }
+    ], 
+    "id": "TheWildGeese", 
+    "name": "The Wild Geese"
+}

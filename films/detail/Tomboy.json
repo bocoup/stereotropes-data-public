@@ -1,0 +1,100 @@
+{
+    "plot": "A family moves into a new neighborhood, and a 10-year-old named Laure deliberately presents as a boy named Mikhael to the neighborhood children. It is heavily implied that Mikhael is a closeted transgender boy. This film follows his experiences with his newfound friends, his potential love interest, Lisa, his younger sister and his parents. It focuses in on the significance of gender identity in social interaction from an early age, the difficulties of being transgender and young, and how Mikhael navigates these in the background of childhood play and love.", 
+    "genres": "Drama", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Butch Lesbian: Looks like a guy check, likes a girl check.", 
+                "id": "ButchLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "French", 
+                    "new", 
+                    "Mika\u00ebl"
+                ], 
+                "role": "Laure in the French movie Tomboy. For years, all of her friends have been boys (much to her mother's dismay), and on moving to a new neighborhood, she goes much further, introducing herself as Mika\u00ebl.", 
+                "id": "OneOfTheBoys"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "One of the Boys", 
+                "id": "OneOfTheBoys"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Outdoorsy Gal: Laure.", 
+                "id": "OutdoorsyGal"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Laure and Jeanne, Laure and Lisa.", 
+                "id": "TomBoyAndGirlyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Exactly What It Says on the Tin, and taken Up to Eleven (not only does she behave like a boy, she passes as a boy).", 
+                "id": "Tomboy"
+            }
+        ]
+    }, 
+    "imdbid": "tt1847731", 
+    "poster_url": "Tomboy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Tomboy", 
+                "ButchLesbian", 
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 3, 
+            "id": "WestSideStory", 
+            "name": "West Side Story", 
+            "poster_url": "WestSideStory.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Bound", 
+            "name": "Bound", 
+            "poster_url": "Bound.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MementoMori", 
+            "name": "Memento Mori"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 2, 
+            "id": "DragonBall", 
+            "name": "Dragon Ball"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 2, 
+            "id": "SomeKindOfWonderful", 
+            "name": "Some Kind of Wonderful", 
+            "poster_url": "SomeKindOfWonderful.jpg"
+        }
+    ], 
+    "id": "Tomboy", 
+    "name": "Tomboy"
+}

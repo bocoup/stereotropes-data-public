@@ -1,0 +1,132 @@
+{
+    "plot": "A sweeping story of the battle of good against evil is told through an anthology of short animated films about a glowing green orb (the Loc-Nar) that is the personification of ultimate evil in the universe. Based loosely on the American magazine \"Heavy Metal,\" and the French magazine \"M\u00e9tal Hurlant\".", 
+    "genres": "Animation, Adventure, Fantasy", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beast Man: The Red Queen's troops.", 
+                "id": "BeastMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Depraved Homosexual: Ard at least acts Camp Gay.", 
+                "id": "DepravedHomosexual"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Non-Action Guy: Germaine.", 
+                "id": "NonActionGuy"
+            }, 
+            {
+                "adjectives": [
+                    "No-orl"
+                ], 
+                "role": "Ard in the \"Den\" vignette of Heavy Metal: (singsong voice) \"No-orl!\"", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sissy Villain: Ard, \"Leader of the Revolution, and Next Ruler of the World.\"", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Julie.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Katherine.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Heavy Metal, the villain of the \"Den\" sequence does this to Den's girlfriend to get him to cooperate.", 
+                "id": "GirlInABox"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "God Save Us from the Queen!", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [
+                    "Common"
+                ], 
+                "role": "Most Common Superpower: Taarna.", 
+                "id": "MostCommonSuperpower"
+            }, 
+            {
+                "adjectives": [
+                    "white"
+                ], 
+                "role": "Taarna from Heavy Metal. Also, the girl at the end develops white hair after she's revealed as Taarna's reincarnation.", 
+                "id": "WhiteHairedPrettyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082509", 
+    "poster_url": "HeavyMetal.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "WhiteHairedPrettyGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "SissyVillain", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "SissyVillain", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "SissyVillain", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }
+    ], 
+    "id": "HeavyMetal", 
+    "name": "Heavy Metal"
+}

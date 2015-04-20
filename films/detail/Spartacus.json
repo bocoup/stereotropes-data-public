@@ -1,0 +1,92 @@
+{
+    "plot": "In 73 BCE, a Thracian slave leads a revolt at a gladiatorial school run by Lentulus Batiatus. The uprising soon spreads across the Italian Peninsula involving thousand of slaves. The plan is to acquire sufficient funds to acquire ships from Silesian pirates who could then transport them to other lands from Brandisium in the south. The Roman Senator Gracchus schemes to have Marcus Publius Glabrus, Commander of the garrison of Rome, lead an army against the slaves who are living on Vesuvius. When Glabrus is defeated his mentor, Senator and General Marcus Licinius Crassus is greatly embarrassed and leads his own army against the slaves. Spartacus and the thousands of freed slaves successfully make their way to Brandisium only to find that the Silesians have abandoned them. They then turn north and must face the might of Rome.", 
+    "genres": "Action, Adventure, Biography", 
+    "release_year": "1960", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "worth", 
+                    "free"
+                ], 
+                "role": "Non-Action Guy: Antoninus, a slave with no combat ability or labor skills, he is instead \"a singer of songs\" and had worked mainly as a caretaker and tutor for his master's children. At first, the gladiator-soldiers mock him, but when Spartacus asks for one of his songs, they are all moved by the beauty and emotion it invokes, reminding them why it is worth fighting to be free.", 
+                "id": "NonActionGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Roman"
+                ], 
+                "role": "Scary Black Man: Draba, for the Roman nobles after the arena fight.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Varinia in Spartacus.", 
+                "id": "BeautifulSlaveGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0054331", 
+    "poster_url": "Spartacus.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHuntForRedOctober", 
+            "name": "The Hunt for Red October", 
+            "poster_url": "TheHuntForRedOctober.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TwentyEightDaysLater", 
+            "name": "28 Days Later", 
+            "poster_url": "TwentyEightDaysLater.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRock", 
+            "name": "The Rock", 
+            "poster_url": "TheRock.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuPanda", 
+            "name": "Kung Fu Panda", 
+            "poster_url": "KungFuPanda.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Predators", 
+            "name": "Predators", 
+            "poster_url": "Predators.jpg"
+        }
+    ], 
+    "id": "Spartacus", 
+    "name": "Spartacus"
+}

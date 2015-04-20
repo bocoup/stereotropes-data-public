@@ -1,0 +1,135 @@
+{
+    "plot": "Catherine Sloper has found the man of her dreams in Morris Townsend, but her plans to marry him are strongly opposed by her father, who believes Townsend is only interested in his daughter for her money. But Catherine is determined to follow her heart, even if she loses her inheritance in the process. But just what are Townsend's intentions?", 
+    "genres": "Drama, Romance", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Overprotective"
+                ], 
+                "role": "Overprotective Dad: Dr. Sloper's attitude towards Morris seems like this on the outside... but in reality, he is trying to protect his money, not his daughter.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [
+                    "little", 
+                    "prospective"
+                ], 
+                "role": "Washington Square subverts this \u2014 while the way Catherine's father treats her paramour Morris comes off as him wanting to protect his little girl from a man who's not up to snuff, in reality he only wants to protect his money from a prospective Gold Digger.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Charmer: Morris.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "In The Heiress, Catherine ends up as a Maiden Aunt, doting on the children of her cousin Marian, who call her \"Aunt Catherine\".", 
+                "id": "MaidenAunt"
+            }, 
+            {
+                "adjectives": [
+                    "content", 
+                    "romantic"
+                ], 
+                "role": "Maiden Aunt: Aunt Penniman is a widow, but she never sought out another man after the death of Rev. Penniman, and is content living her romantic fantasies through her niece and Morris.", 
+                "id": "MaidenAunt"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Catherine's mother died shortly after she was born.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "Na\u00efve", 
+                    "major"
+                ], 
+                "role": "Na\u00efve Everygirl: A major part of the story is Catherine maturing out of this trope.", 
+                "id": "NaiveEverygirl"
+            }, 
+            {
+                "adjectives": [
+                    "subtext", 
+                    "other", 
+                    "due", 
+                    "content", 
+                    "comfortable", 
+                    "own", 
+                    "social"
+                ], 
+                "role": "Old Maid: A bit of subtext in the story is the other characters' belief that due to Catherine's shyness and \"dullness\", she will never find a man and will end up a spinster. When the story skips ahead 20 years, it concludes with  Catherine at age 40, unmarried, and childless. However, Catherine is no Christmas Cake\u2014she chose never to marry, and is perfectly content with her life and comfortable in her own skin in a way that she never was as a younger woman when she had to worry about pleasing her father or fulfilling social obligations of courtship and marriage.", 
+                "id": "OldMaid"
+            }, 
+            {
+                "adjectives": [
+                    "few", 
+                    "main", 
+                    "confident"
+                ], 
+                "role": "Washington Square and its film version The Heiress play with this trope and end up being one of the few works to portray it positively; the main character never marries her Gold Digger love interest or anyone, and is shown to embrace spinsterhood and be confident in herself in a way she never was when she had to worry about the prospects of marriage.", 
+                "id": "OldMaid"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120481", 
+    "poster_url": "WashingtonSquare.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "NaiveEverygirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "AGoofyMovie", 
+            "name": "A Goofy Movie", 
+            "poster_url": "AGoofyMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "WashingtonSquare", 
+    "name": "Washington Square"
+}

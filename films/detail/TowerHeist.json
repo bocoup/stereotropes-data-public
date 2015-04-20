@@ -1,0 +1,88 @@
+{
+    "plot": "Josh Kovacs is the manager of a residential apartment in New York. He is close to all the tenants, especially Arthur Shaw, a financier. One day Shaw is arrested by the FBI for fraud. Josh thinks it's a misunderstanding that can be resolved. But later he learns that the employees' pension fund which he asked Shaw to handle is gone. When one of the employees tries to kill himself, Josh's views of Shaw change. He goes to see him and loses his temper. He loses his job. The FBI agent in charge of Shaw tells him that Shaw might walk and recovering the pension fund is unlikely. She tells him that it's been rumored that Shaw has $20 million lying around if he needs it in a hurry. Josh thinks he knows where it is. So with two other employees who also lost their jobs and an evicted tenant, they set out to get into Shaw's penthouse to get the money. But they realize they need the assistance of someone who knows how to steal. So Josh asks a guy he knows is a thief named Slide to help them.", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Josh towards his staff at The Tower.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Lester.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Odessa. Bonus points for being Jamaican..", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Charlie Gibbs", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0471042", 
+    "poster_url": "TowerHeist.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "CoolOldGuy", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CoolOldGuy", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 3, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "YouCantTakeItWithYou", 
+            "name": "You Can't Take It With You", 
+            "poster_url": "YouCantTakeItWithYou.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Ironclad", 
+            "name": "Ironclad", 
+            "poster_url": "Ironclad.jpg"
+        }
+    ], 
+    "id": "TowerHeist", 
+    "name": "Tower Heist"
+}

@@ -1,0 +1,127 @@
+{
+    "plot": "The middle age stewardess Jackie Brown smuggles money from Mexico to Los Angeles for the arms dealer Ordell Robbie. When she gets caught by the agents Ray Nicolette and Mark Dargus with ten thousand dollars and cocaine in her purse, they propose a deal to her to help them to arrest Ordell in exchange of her freedom. Meanwhile Ordell asks the fifty-six year-old Max Cherry, who runs a bail bond business, to release Jackie Brown with the intention of eliminating her. Jackie suspects of Ordell's intention and plots a complicate confidence game with Max to steal half a million dollar from Ordell.", 
+    "genres": "Crime, Drama, Thriller", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Ordell and Winston", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "female", 
+                    "heat", 
+                    "automatic"
+                ], 
+                "role": "Referenced in Jackie Brown: we don't see the two female leads packing much heat, but in the scene where Ordell is introduced he's watching a video of a woman in a bikini shooting an automatic weapon.", 
+                "id": "GirlsWithGuns"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pam Grier in her \"badass in the room\" suit at the end of Jackie Brown (which may explain why she's wearing it on the movie poster).", 
+                "id": "HotChickInABadassSuit"
+            }, 
+            {
+                "adjectives": [
+                    "single"
+                ], 
+                "role": "Ms. Fanservice: Melanie, in every single frame she's in. Literally, since  her death is out of the frame.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "epononymous"
+                ], 
+                "role": "Jackie Brown, by Quentin Tarantino. The film is a throwback to movies like Coffy and Foxy Brown and also stars Pam Grier as the epononymous Jackie Brown.", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sexy Stewardess: Jackie, obviously.", 
+                "id": "SexyStewardess"
+            }, 
+            {
+                "adjectives": [
+                    "double", 
+                    "standard", 
+                    "sexy", 
+                    "own"
+                ], 
+                "role": "The title heroine of Jackie Brown may be considered a double subversion, as the flight attendant is in breach of standard canons of beauty, but still sexy in her own way.", 
+                "id": "SexyStewardess"
+            }, 
+            {
+                "adjectives": [
+                    "bikini-clad", 
+                    "massive"
+                ], 
+                "role": "In the movie Jackie Brown, the characters are seen watching a video of bikini-clad women firing off massive assault rifles. Such things actually exist.", 
+                "id": "SmallGirlBigGun"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119396", 
+    "poster_url": "JackieBrown.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlsWithGuns", 
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Battleship", 
+            "name": "Battleship", 
+            "poster_url": "Battleship.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SassyBlackWoman", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "DemonKnight", 
+            "name": "Demon Knight", 
+            "poster_url": "DemonKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotChickInABadassSuit", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "MenInBlack", 
+            "name": "Men In Black", 
+            "poster_url": "MenInBlack.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SassyBlackWoman", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "DoTheRightThing", 
+            "name": "Do the Right Thing", 
+            "poster_url": "DoTheRightThing.jpg"
+        }, 
+        {
+            "shared": [
+                "SmallGirlBigGun", 
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }
+    ], 
+    "id": "JackieBrown", 
+    "name": "Jackie Brown"
+}

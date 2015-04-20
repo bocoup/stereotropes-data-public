@@ -1,0 +1,72 @@
+{
+    "plot": "Picking up where \"Superman: The Movie\" left off, three criminals from the planet Krypton are released from the Phantom Zone by a nuclear explosion in space. They descend upon Earth where they could finally rule. Superman, meanwhile, is in love with Lois Lane, who finds out who he really is. Lex Luthor escapes from prison and is determined to destroy Superman by joining forces with the three criminals.", 
+    "genres": "Action, Sci-Fi", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Zod did much to increase the fame of this style in Superman II.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Non.", 
+                "id": "DumbMuscle"
+            }
+        ]
+    }, 
+    "imdbid": "tt0081573", 
+    "poster_url": "SupermanII.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "FreeBirds", 
+            "name": "Free Birds", 
+            "poster_url": "FreeBirds.jpg"
+        }
+    ], 
+    "id": "SupermanII", 
+    "name": "Superman II"
+}

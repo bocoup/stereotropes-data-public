@@ -1,0 +1,105 @@
+{
+    "plot": "Young Indian man Thomas is a nerd in his reservation, wearing oversize glasses and telling everyone stories no-one wants to hear. His parents died in a fire in 1976, and Thomas was saved by Arnold. Arnold soon left his family (and his tough son Victor), and Victor hasn't seen his father for 10 years. When Victor hears Arnold has died, Thomas offers him funding for the trip to get Arnold's remains, but only if Thomas will also go with him. Thomas and Victor hit the road.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "crafty", 
+                    "magician"
+                ], 
+                "role": "Cool Old Guy: Arnold. Played basketball and was a very crafty magician.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "cold", 
+                    "close", 
+                    "same"
+                ], 
+                "role": "Momma's Boy: While Victor is generally aloof, cold and a Jerkass to those around him, he clearly has a close bond with his mother, Arlene. Thomas is this in spades with his grandmother. Complete with the selection of wardrobe and the same hair styles.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Troubled, but Cute: Victor.", 
+                "id": "TroubledButCute"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "strong", 
+                    "young", 
+                    "alcoholic", 
+                    "cold", 
+                    "willing"
+                ], 
+                "role": "Mama Bear: Arlene is a strong but nonviolent example of this. After a night of \"boozing\", she wakes up at the sound of a young Victor breaking beer bottles on the side of their house. The impact of seeing her son in that state prompts her to stop drinking. Being an alcoholic, the fact that she goes cold turkey and evidently STAYS on the wagon not only doubles over as a Crowning Moment Of Awesome but proves the lengths she will go to for her son. She is even willing to put up with Arnold's beatings if it means Victor won't have to see her or Arnold drunk ever again.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Suzy Song. That is all.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120321", 
+    "poster_url": "SmokeSignals.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "MommasBoy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Waitress", 
+            "name": "Waitress", 
+            "poster_url": "Waitress.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SurfNazisMustDie", 
+            "name": "Surf Nazis Must Die", 
+            "poster_url": "SurfNazisMustDie.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WithoutAPaddle", 
+            "name": "Without A Paddle", 
+            "poster_url": "WithoutAPaddle.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Amelie", 
+            "name": "Am\u00e9lie"
+        }
+    ], 
+    "id": "SmokeSignals", 
+    "name": "Smoke Signals"
+}

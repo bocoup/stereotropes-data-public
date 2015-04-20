@@ -1,0 +1,102 @@
+{
+    "plot": "Tiger Chen is a Tai Chi student who is rather rebellious and uses Tai Chi to fight despite his master's concerns. When the temple where he studies get threatened from modern redevelopment, he fights in an underground fight club to get money the temple needs. However he soon realizes that his employer has other negative motives.", 
+    "genres": "Action, Drama", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Zi-an", 
+                    "clear", 
+                    "elaborate"
+                ], 
+                "role": "Bash Brothers: Zi-an and Zi-hou. Their exact relationship isn't clear, but their elaborate handshake and the fact they wordlessly coordinate their attacks indicate they fight together often.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [
+                    "huge", 
+                    "good"
+                ], 
+                "role": "Scary Black Man: One of Tiger's opponents is a huge black boxer who seems to be giving him a good tussle and certainly looks the part.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "martial", 
+                    "major"
+                ], 
+                "role": "Action Girl: She's no martial artist, but Sun Jing Shi earns major points when she blows away the assassins that Donaka Mark sends to kill her.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "facial", 
+                    "engaging"
+                ], 
+                "role": "Emotionless Girl: The announcer for the fights speaks in a monotone without ever changing her facial expression and shows no concern backing away from the engaging fighters. Even as she's arrested, she simply stares onto the officer and crosses her legs.", 
+                "id": "EmotionlessGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt2016940", 
+    "poster_url": "ManOfTaiChi.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "ScaryBlackMan", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "Predator", 
+            "name": "Predator", 
+            "poster_url": "Predator.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "MissionImpossible", 
+            "name": "Mission: Impossible", 
+            "poster_url": "MissionImpossible.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "ScaryBlackMan", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }
+    ], 
+    "id": "ManOfTaiChi", 
+    "name": "Man Of Tai Chi"
+}

@@ -1,0 +1,84 @@
+{
+    "plot": "During WWII, a Belarusian boy is thrust into the atrocities of war, fighting with a hopelessly unequipped Soviet resistance movement against ruthless German forces. Witnessing scenes of abject terror and surviving horrifying situations, he loses his innocence and then his mind.", 
+    "genres": "Drama, War", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Child Soldiers", 
+                "id": "ChildSoldiers"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Glasha. Some critics have theorized that she doesn't exist at all except in Florya's imagination.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Smitten Teenage Girl: Glasha fot the Red Army veteran.", 
+                "id": "SmittenTeenageGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ophelia:  Glasha at the end.", 
+                "id": "TheOphelia"
+            }
+        ]
+    }, 
+    "imdbid": "tt0091251", 
+    "poster_url": "ComeAndSee.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SmittenTeenageGirl", 
+                "ChildSoldiers", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Toys", 
+            "name": "Toys", 
+            "poster_url": "Toys.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AfterHours", 
+            "name": "After Hours", 
+            "poster_url": "AfterHours.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "TheOphelia"
+            ], 
+            "shared_count": 1, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }
+    ], 
+    "id": "ComeAndSee", 
+    "name": "Come and See"
+}

@@ -1,0 +1,96 @@
+{
+    "plot": "Tamara is a girl who didn't quite fit in. Tamara is constantly picked on and when a couple of friends plays a joke on Tamara, it leads to her death. The friends bury her tries to make it seem that Tamara ran away. But all is not forgotten. Tamara reutrns as a sexy seductress and plans her revenge. (due to witchcraft). Well like they say: Karma's a bitch.", 
+    "genres": "Horror, Fantasy, Thriller", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sean"
+                ], 
+                "role": "Jerk Jock: Sean and Patrick.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Surfer Dude: Jesse.", 
+                "id": "SurferDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Clingy Jealous Girl: Tamara, to Bill.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Witch: Guess who?", 
+                "id": "HotWitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Tamara, after her resurrection.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0401815", 
+    "poster_url": "Tamara.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "WaynesWorld", 
+            "name": "Wayne's World", 
+            "poster_url": "WaynesWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "SurferDude", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "EncinoMan", 
+            "name": "Encino Man", 
+            "poster_url": "EncinoMan.jpg"
+        }
+    ], 
+    "id": "Tamara", 
+    "name": "Tamara"
+}

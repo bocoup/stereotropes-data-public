@@ -1,0 +1,83 @@
+{
+    "plot": "Douglas is a foreign entrepreneur, who ventures to Russia in 1885 with dreams of selling a new, experimental steam-driven timber harvester in the wilds of Siberia. Jane is his assistant, who falls in love with a young Russian officer, Andr\u00e9, and spends the next 10 years perfecting the harvester and pursuing her love, who has been exiled to Siberia.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty: the U.S. Army drill sergeant who is instructing Jane's son and his fellow cadets in the framing scenes.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Officer and a Gentleman: Andrei Tolstoy.", 
+                "id": "OfficerAndAGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Russian"
+                ], 
+                "role": "Hooker with a Heart of Gold:  Jane Callahan. Her mission is to seduce Russian noblemen to win their support for McCracken's invention. Then she meets Tolstoy...", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120125", 
+    "poster_url": "TheBarberOfSiberia.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DrillSergeantNasty", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "BeauGeste", 
+            "name": "Beau Geste", 
+            "poster_url": "BeauGeste.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Glory", 
+            "name": "Glory", 
+            "poster_url": "Glory.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSoundOfMusic", 
+            "name": "The Sound of Music", 
+            "poster_url": "TheSoundOfMusic.jpg"
+        }
+    ], 
+    "id": "TheBarberOfSiberia", 
+    "name": "The Barber of Siberia"
+}

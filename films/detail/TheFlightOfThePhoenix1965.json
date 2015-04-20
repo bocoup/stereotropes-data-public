@@ -1,0 +1,107 @@
+{
+    "plot": "A cargo plane goes down in a sandstorm in the Sahara with less than a dozen men on board. One of the passengers is an airplane designer who comes up with the idea of ripping off the undamaged wing and using it as the basis for an airplane they will build to escape before their food and water run out.", 
+    "genres": "Adventure, Drama", 
+    "release_year": "1965", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "half-dead", 
+                    "first", 
+                    "second", 
+                    "discreet", 
+                    "survive", 
+                    "survive"
+                ], 
+                "role": "Dirty Coward: Sgt. Watson fakes a leg injury to get out of going with Capt. Harris on his attempt to walk to civilisation; Carlos, his replacement, does not survive the expedition. When Harris returns, dehydrated and half-dead, Watson is the first to find him but decides not to tell anyone (Dorfmann, the second person to discover Harris, is not as discreet). Finally, he bluntly refuses to join Harris in trying to make contact with the nomads; neither Harris nor Renaud, Watson's replacement, survive the encounter. Watson, meanwhile, does survive the film.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "heroic"
+                ], 
+                "role": "The Flight of the Phoenix (1965): Sgt. Watson.  At first he fakes an injury to avoid going with his Captain into the desert, then he refuses to go with him to look for help. Both prove wise decisions, but Watson is clearly a coward made worse by the fact that he lives and never gets his comeuppance whereas more heroic characters do die.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Belly Dancer: Sgt. Watson hallucinates about one he saw once.", 
+                "id": "BellyDancer"
+            }, 
+            {
+                "adjectives": [
+                    "thirst", 
+                    "trippy"
+                ], 
+                "role": "The Flight of the Phoenix (1965) (the 1965 version) has a scene where a character dying of thirst hallucinates a belly dancer in the desert. It's all very trippy.", 
+                "id": "BellyDancer"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "entire", 
+                    "one-minute"
+                ], 
+                "role": "Fanservice Extra: The above belly dancing trope. The hallucination is the only woman in the entire movie, and was advertised on the poster despite her one-minute scene.", 
+                "id": "FanserviceExtra"
+            }
+        ]
+    }, 
+    "imdbid": "tt0059183", 
+    "poster_url": "TheFlightOfThePhoenix1965.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "MadMax", 
+            "name": "Mad Max", 
+            "poster_url": "MadMax.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TransformersDarkOfTheMoon", 
+            "name": "Transformers: Dark of the Moon", 
+            "poster_url": "TransformersDarkOfTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "BellyDancer", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "GodzillaVsMegalon", 
+            "name": "Godzilla vs. Megalon", 
+            "poster_url": "GodzillaVsMegalon.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }
+    ], 
+    "id": "TheFlightOfThePhoenix1965", 
+    "name": "The Flight Of The Phoenix"
+}

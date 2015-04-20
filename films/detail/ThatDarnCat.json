@@ -1,0 +1,65 @@
+{
+    "plot": "A woman is kidnapped. While in captivity, she manages to send a message out with a wandering cat. The cat's owner calls the FBI. The FBI tries to follow the cat. Jealous boyfriends and nosy neighbours also get in the act.", 
+    "genres": "Comedy, Thriller", 
+    "release_year": "1965", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: The Bank Employee", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0059793", 
+    "poster_url": "ThatDarnCat.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "ThatDarnCat", 
+    "name": "That Darn Cat!"
+}

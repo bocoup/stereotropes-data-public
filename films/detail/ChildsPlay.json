@@ -1,0 +1,103 @@
+{
+    "plot": "When Charles Lee Ray needs to get quick escape from cop Mike Norris, he takes his soul and buries it into playful, seemingly good guy doll Chucky. Little does he know a little boy by the name of Andy Barclay will be the new owner of him soon-to-come. Charles confides in Andy while he commits numerous murders. Once the adults accept Andy's story as truth, it's too late.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "He-Man"
+                ], 
+                "role": "He-Man Woman Hater: Chucky", 
+                "id": "HeManWomanHater"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Child's Play 3 has Shelton and the barber.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Karen Barclay is forced to become this over the course of the first Child's Play film.", 
+                "id": "ActionMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Kyle in 2.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "second"
+                ], 
+                "role": "Mama Bear: Andy's mother at first, then Kyle in the second film.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Child's Play 2, Kyle drives so fast to force Chucky out. Then she tries to ram him, and Chucky grabs hold of the bumper shouting \"Damn women drivers!\".", 
+                "id": "WomenDrivers"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094862", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "JerkJock", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "HeManWomanHater", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "PokemonZoroarkMasterOfIllusions", 
+            "name": "Pok\u00e9mon: Zoroark: Master of Illusions"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }
+    ], 
+    "id": "ChildsPlay", 
+    "name": "Child's Play"
+}

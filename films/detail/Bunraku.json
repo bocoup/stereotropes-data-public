@@ -1,0 +1,144 @@
+{
+    "plot": "In a world with no guns, a mysterious drifter, a bartender and a young samurai plot revenge against a ruthless leader and his army of thugs, headed by nine diverse and deadly assassins.", 
+    "genres": "Action, Drama, Thriller", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Nicola shaves his unruly beard in preparation for the Final Battle against The Drifter.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Badass Grandpa: Nicola is a generation older than the heroes. He kicks just as much (if not more) ass.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Uncle takes on eight guys with only a pair of kitchen knives.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: The two leads are played by Josh Hartnett and Gackt. This should tell you something.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "tough"
+                ], 
+                "role": "Broken Bird: Alexandra. She's a Hooker with a Heart of Gold, tough as nails and seeking redemption.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "second"
+                ], 
+                "role": "Distressed Damsel: Momoko for most of the second half.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "powerful"
+                ], 
+                "role": "Femme Fatale: Alexandra. Nicola states that in a way she is more powerful than him.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "kind-hearted", 
+                    "middle-aged", 
+                    "past", 
+                    "prime", 
+                    "happy", 
+                    "romantic", 
+                    "young", 
+                    "Japanese"
+                ], 
+                "role": "Alexandra from Bunraku fits this trope to a tee, as a kind-hearted middle-aged prostitute who realizes she is past her prime and will never have the happy and romantic life she desires. After a young Japanese woman is kidnapped by Alexandra's lover, Alexandra  ends up sacrificing her life to save her.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Alexandra wears some revealing outfits, and has a bathing scene.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: When her father is killed, Momoko attacks Killer #2 with her bare hands and even throws an (ineffective) roundhouse kick.", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1181795", 
+    "poster_url": "Bunraku.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssMustache", 
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 4, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 4, 
+            "id": "WildWildWest", 
+            "name": "Wild Wild West", 
+            "poster_url": "WildWildWest.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MsFanservice", 
+                "PluckyGirl", 
+                "MrFanservice"
+            ], 
+            "shared_count": 4, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "DamselInDistress", 
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 4, 
+            "id": "LemonadeJoe", 
+            "name": "Lemonade Joe", 
+            "poster_url": "LemonadeJoe.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "BadassGrandpa", 
+                "BrokenBird", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "TheHouseOfTheSpirits", 
+            "name": "The House of the Spirits", 
+            "poster_url": "TheHouseOfTheSpirits.jpg"
+        }
+    ], 
+    "id": "Bunraku", 
+    "name": "Bunraku"
+}

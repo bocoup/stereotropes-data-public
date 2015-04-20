@@ -1,0 +1,72 @@
+{
+    "plot": "During the French Revolution, a mysterious English nobleman known only as The Scarlet Pimpernel (a humble wayside flower), snatches French aristos from the jaws of the guillotine, while posing as the foppish Sir Percy Blakeney in society. Percy falls for and marries the beautiful actress Marguerite St. Just, but she is involved with Chauvelin and Robespierre, and Percy's marriage to her may endanger the Pimpernel's plans to save the little Dauphin.", 
+    "genres": "Romance, Drama, Action", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Agent Peacock: Sir Percy.", 
+                "id": "AgentPeacock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lady of Adventure: Marguerite", 
+                "id": "LadyOfAdventure"
+            }
+        ]
+    }, 
+    "imdbid": "tt0084637", 
+    "poster_url": "TheScarletPimpernel1982.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyOfAdventure", 
+                "AgentPeacock"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "AgentPeacock"
+            ], 
+            "shared_count": 1, 
+            "id": "AnotherCountry", 
+            "name": "Another Country", 
+            "poster_url": "AnotherCountry.jpg"
+        }, 
+        {
+            "shared": [
+                "AgentPeacock"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "AgentPeacock"
+            ], 
+            "shared_count": 1, 
+            "id": "AllAboutEve", 
+            "name": "All About Eve", 
+            "poster_url": "AllAboutEve.jpg"
+        }, 
+        {
+            "shared": [
+                "AgentPeacock"
+            ], 
+            "shared_count": 1, 
+            "id": "VelvetGoldmine", 
+            "name": "Velvet Goldmine", 
+            "poster_url": "VelvetGoldmine.jpg"
+        }
+    ], 
+    "id": "TheScarletPimpernel1982", 
+    "name": "The Scarlet Pimpernel"
+}

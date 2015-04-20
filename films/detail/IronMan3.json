@@ -1,0 +1,114 @@
+{
+    "plot": "Marvel's \"Iron Man 3\" pits brash-but-brilliant industrialist Tony Stark/Iron Man against an enemy whose reach knows no bounds. When Stark finds his personal world destroyed at his enemy's hands, he embarks on a harrowing quest to find those responsible. This journey, at every turn, will test his mettle. With his back against the wall, Stark is left to survive by his own devices, relying on his ingenuity and instincts to protect those closest to him. As he fights his way back, Stark discovers the answer to the question that has secretly haunted him: does the man make the suit or does the suit make the man?", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "30-odd"
+                ], 
+                "role": "Battle AI Butler:  when Tony initiates the House Party Protocol, JARVIS takes control of the 30-odd suits all fighting. Meaning JARVIS is effectively acting as a One-AI Army.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Stan Lee's cameo invokes this trope; the skimpy beauty pageant contest scores a ten.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "later", 
+                    "super-powered", 
+                    "other", 
+                    "female"
+                ], 
+                "role": "Action Girl: Tony assembles the Mark 42 around Pepper in one scene, which she then uses to save Tony. Pepper also gets injected with Extremis later, allowing her to save Tony from the similarly super-powered Killian. Dark Action Girl: Ellen Brant and the other female Extremis soldiers.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "such"
+                ], 
+                "role": "Damsel in Distress: Tony has to save Pepper a lot such as when Killian kidnaps her to use as leverage. The 'helpless factor' is downplayed because she saves him back.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Extremis-powered", 
+                    "hesitant", 
+                    "lethal"
+                ], 
+                "role": "Dark Action Girl: Ellen Brandt is an Extremis-powered soldier who partakes in undercover missions and isn't hesitant to use lethal force.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Iron Man 3, she is the one who defeats the Big Bad. However, she does this because the Big Bad (a man) gave her superpowers, and the tools she uses were made by Tony.", 
+                "id": "NeverASelfMadeWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt1300854", 
+    "poster_url": "IronMan3.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "DarkActionGirl", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "NeverASelfMadeWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverASelfMadeWoman", 
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "NeverASelfMadeWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "IronMan3", 
+    "name": "Iron Man 3"
+}

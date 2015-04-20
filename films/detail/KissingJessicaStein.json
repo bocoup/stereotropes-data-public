@@ -1,0 +1,86 @@
+{
+    "plot": "Jessica Stein is a single, straight, successful, journalist, part of a bonded Jewish family living in New York City, who finds herself not as straight as she thought when Jessica meets and begins an intense friendship with career woman Helen Cooper which ultimately leads to romance.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2001", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay:", 
+                "id": "CampGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "common", 
+                    "ex-boyfriend", 
+                    "outright", 
+                    "gay\u2014in", 
+                    "entire"
+                ], 
+                "role": "A common complaint about Kissing Jessica Stein, in that the two women don't end up together (and it's implied that the Jessica ends up with her ex-boyfriend shortly after the two come out). The problem with this, though, is that people don't seem to note that it's outright stated that neither woman is explicitly gay\u2014in fact, outside of the relationship, Jessica is only seen dating guys while Helen dates both. Also, the film shows the entire course of the relationship, over the space of nine months.", 
+                "id": "BaitAndSwitchLesbians"
+            }, 
+            {
+                "adjectives": [
+                    "Jewish"
+                ], 
+                "role": "Jewish Mother: Jessica's mother is a textbook example.", 
+                "id": "JewishMother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0264761", 
+    "poster_url": "KissingJessicaStein.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "JewishMother", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother"
+            ], 
+            "shared_count": 1, 
+            "id": "SaturdayNightFever", 
+            "name": "Saturday Night Fever", 
+            "poster_url": "SaturdayNightFever.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBoysInTheBand", 
+            "name": "The Boys in the Band", 
+            "poster_url": "TheBoysInTheBand.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "ILoveYouPhillipMorris", 
+            "name": "I Love You Phillip Morris", 
+            "poster_url": "ILoveYouPhillipMorris.jpg"
+        }
+    ], 
+    "id": "KissingJessicaStein", 
+    "name": "Kissing Jessica Stein"
+}

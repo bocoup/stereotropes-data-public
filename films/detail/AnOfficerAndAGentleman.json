@@ -1,0 +1,103 @@
+{
+    "plot": "Zack Mayo is a young man who has signed up for Navy Aviation Officer Candidate School. He is a Navy brat who has a bad attitude problem. GySgt Foley is there to train and evaluate him and will clearly find Zack wanting. Zack meets Paula, a girl who has little beyond family and must decide what it is he wants to do with his life.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "entire"
+                ], 
+                "role": "Speaking of Louis Gosset, Jr., let's not forget An Officer and a Gentleman and the entire Iron Eagle franchise.", 
+                "id": "BaldBlackLeaderGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty: Played to perfection by Louis Gossett Jr.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Good Ol' Boy: Sid.", 
+                "id": "GoodOlBoy"
+            }, 
+            {
+                "adjectives": [
+                    "top", 
+                    "African-American", 
+                    "good", 
+                    "military"
+                ], 
+                "role": "Scary Black Man: Sgt. Foley, part and parcel of his Drill Sergeant Nasty role. A case of Truth in Television: While doing research, screenwriter Douglas Stewart found out that all of the top drill instructors at Pensacola were African-American, which inspired the casting of Louis Gossett Jr. And Gossett had good training; the military adviser for the film was R. Lee Ermey. Averted (for good reason, in this case) in the Takarazuka version, with Kaname Ouki as Foley.\u25ca", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "only"
+                ], 
+                "role": "The Squadette: Casey Seeger, the only woman in Zack's class of candidates.", 
+                "id": "TheSquadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0084434", 
+    "poster_url": "AnOfficerAndAGentleman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheSquadette", 
+                "ScaryBlackMan", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "Basic", 
+            "name": "Basic", 
+            "poster_url": "Basic.jpg"
+        }, 
+        {
+            "shared": [
+                "GoodOlBoy", 
+                "ScaryBlackMan", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "ForrestGump", 
+            "name": "Forrest Gump", 
+            "poster_url": "ForrestGump.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSquadette", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheScorpionKing", 
+            "name": "The Scorpion King", 
+            "poster_url": "TheScorpionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveAndDeath", 
+            "name": "Love And Death", 
+            "poster_url": "LoveAndDeath.jpg"
+        }
+    ], 
+    "id": "AnOfficerAndAGentleman", 
+    "name": "An Officer and a Gentleman"
+}

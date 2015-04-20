@@ -1,0 +1,65 @@
+{
+    "plot": "A New York City teenager named Eugene Jerome enlists in the US Army during the last year of World War II in 1945. Eugene is sent to basic training at Biloxi, Mississippi where he must live with a variety of fellow soldiers from all walks of life while also enduring the whims of a mentally unstable drill sergeant.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty: Toomey", 
+                "id": "DrillSergeantNasty"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094746", 
+    "poster_url": "BiloxiBlues.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "Basic", 
+            "name": "Basic", 
+            "poster_url": "Basic.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "ProblemChild", 
+            "name": "Problem Child", 
+            "poster_url": "ProblemChild.jpg"
+        }
+    ], 
+    "id": "BiloxiBlues", 
+    "name": "Biloxi Blues"
+}

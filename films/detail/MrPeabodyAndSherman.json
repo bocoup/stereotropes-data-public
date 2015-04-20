@@ -1,0 +1,122 @@
+{
+    "plot": "Mr. Peabody is a business titan, inventor, scientist, gourmand, two-time Olympic medalist and genius...who also happens to be a dog. Using his most ingenious invention, the WABAC machine, Mr. Peabody and his adopted boy Sherman hurtle back in time to experience world-changing events first-hand and interact with some of the greatest characters of all time. But when Sherman breaks the rules of time travel, our two heroes find themselves in a race to repair history and save the future, while Mr. Peabody may face his biggest challenge yet - being a parent.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Action Dad: Mr. Peabody.", 
+                "id": "ActionDad"
+            }, 
+            {
+                "adjectives": [
+                    "boisterous", 
+                    "attractive", 
+                    "first", 
+                    "clear", 
+                    "dominant"
+                ], 
+                "role": "Amazon Chaser: Agamemnon finds Grunion's boisterous and loud demeanor attractive after meeting her for the first time. It's also clear she is the dominant one in they get together but he's fine with that.", 
+                "id": "AmazonChaser"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cultured Badass: Mr. Peabody.", 
+                "id": "CulturedBadass"
+            }, 
+            {
+                "adjectives": [
+                    "important", 
+                    "attentive", 
+                    "inattentive"
+                ], 
+                "role": "Disappeared Dad: Played with before being averted. Paul Peterson gets right into Peabody's face saying that nothing is more important than his daughter. He is immediately interrupted by his phone ringing, and stealing his attention with a survey. But when all is said and done, he's neither attentive nor inattentive.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "same"
+                ], 
+                "role": "Mr. Peabody would later do the same to Ms. Grunion when she was hurting Sherman.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Big Beautiful Woman: In the Renaissance, Mona Lisa complains about sitting on her \"abbondanza\".", 
+                "id": "BigBeautifulWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cute Clumsy Boy: Sherman.", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Penny, of course.", 
+                "id": "DaddysGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0864835", 
+    "poster_url": "MrPeabodyAndSherman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "AmazonChaser", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "AmazonChaser", 
+                "BigBeautifulWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "DisappearedDad", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }
+    ], 
+    "id": "MrPeabodyAndSherman", 
+    "name": "Mr. Peabody & Sherman"
+}

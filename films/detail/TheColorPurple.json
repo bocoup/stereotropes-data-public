@@ -1,0 +1,106 @@
+{
+    "plot": "This film follows the life of Celie, a young black girl growing up in the early 1900's. The first time we see Celie, she is 14 - and pregnant - by her father. We stay with her for the next 30 years of her tough life...", 
+    "genres": "Drama", 
+    "release_year": "1985", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "song", 
+                    "Beautiful"
+                ], 
+                "role": "Beautiful All Along: the song \"Too Beautiful For Words\" is Shug assured Celie of this.", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Shug Avery starts out as this.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [
+                    "musical"
+                ], 
+                "role": "A trio of church ladies in the musical of The Color Purple.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [
+                    "double"
+                ], 
+                "role": "Gossipy Hens: Who double as a Greek Chorus.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [
+                    "song"
+                ], 
+                "role": "Sophia from The Color Purple. She even has a song titled \"Hell No!\"", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [
+                    "Lad-ette"
+                ], 
+                "role": "The Lad-ette: Don't try to hit Sofia. You'll get the hardest beating.", 
+                "id": "TheLadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0088939", 
+    "poster_url": "TheColorPurple.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "TheLadette"
+            ], 
+            "shared_count": 2, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathProof", 
+            "name": "Death Proof", 
+            "poster_url": "DeathProof.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "OverTheHedge", 
+            "name": "Over the Hedge", 
+            "poster_url": "OverTheHedge.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Hairspray", 
+            "name": "Hairspray", 
+            "poster_url": "Hairspray.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "GossipyHens"
+            ], 
+            "shared_count": 2, 
+            "id": "LittleWomen", 
+            "name": "Little Women", 
+            "poster_url": "LittleWomen.jpg"
+        }
+    ], 
+    "id": "TheColorPurple", 
+    "name": "The Color Purple"
+}

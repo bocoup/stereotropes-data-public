@@ -1,0 +1,131 @@
+{
+    "plot": "In the far future water is the most valuable substance. Two space pirates are captured, sold to a princess, and recruited to help her find her father who disappeared when he found information dangerous to the rulers. A real Space Opera with sword fights, explosions, fighting robots, monsters, bar fights and time warps.", 
+    "genres": "Comedy, Sci-Fi, Action", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "bow-tie"
+                ], 
+                "role": "Battle Butler: Percy the Robot, who wears a bow-tie and speaks like a gentleman, but can kung-fu chop anyone who threatens the princess.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "conveyor-belt"
+                ], 
+                "role": "In The Ice Pirates, the eunuchs speak in falsetto after being castrated during their conveyor-belt ride.", 
+                "id": "InstantSoprano"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Instant Soprano: The eunuchs, and the heroes when they impersonate eunuchs.", 
+                "id": "InstantSoprano"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: An angry convict who Roscoe and Jason meet in prison. Also the bounty hunter leader.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "only", 
+                    "busy", 
+                    "much", 
+                    "memorable"
+                ], 
+                "role": "Action Girl: Maida, the only female pirate in Jason's crew. Though she isn't involved in the fight of the climax (as she's too busy piloting the ship), she uses her laser gun as much as any of the guys throughout the movie, and has a memorable sword duel in the middle of the film, where she decapitates her attacker!", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "scantily-dressed"
+                ], 
+                "role": "Amazon Brigade: All of Wendon's guards are, for some reason, scantily-dressed gladiator women.", 
+                "id": "AmazonBrigade"
+            }, 
+            {
+                "adjectives": [
+                    "clear", 
+                    "beautiful", 
+                    "evil", 
+                    "Slap-Slap-Kiss", 
+                    "pirate"
+                ], 
+                "role": "Everything's Better with Princesses: Princess Karina, who is a clear nod to Princess Leia of Star Wars (she's a beautiful brunette who fights an evil empire, and has a Slap-Slap-Kiss romance with a pirate).", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "Rebellious"
+                ], 
+                "role": "Rebellious Princess: Karina has no problem behaving like a princess, but she will not side with her government when it mistreats its people, or her father.", 
+                "id": "RebelliousPrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087451", 
+    "poster_url": "TheIcePirates.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "AmazonBrigade", 
+                "RebelliousPrincess", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 5, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "RebelliousPrincess", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "RebelliousPrincess", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "InstantSoprano", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "TheIcePirates", 
+    "name": "The Ice Pirates"
+}

@@ -1,0 +1,74 @@
+{
+    "plot": "Eyal, an Israeli Mossad agent, is given the mission to track down and kill the very old Alfred Himmelman, an ex-Nazi officer, who might still be alive. Pretending to be a tourist guide, he befriends his grandson Axel, in Israel to visit his sister Pia. The two men set out on a tour of the country during which, Axel challenges Eyal's values.", 
+    "genres": "Drama, Mystery, Thriller", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sensitive", 
+                    "cultural", 
+                    "particular"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Axel and Eyal, respectively. The contrast is portrayed as a cultural difference, in particular during the scene at the Dead Sea.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Axel Himmelman.", 
+                "id": "StraightGay"
+            }
+        ]
+    }, 
+    "imdbid": "tt0352994", 
+    "poster_url": "WalkOnWater.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 1, 
+            "id": "DaysOfHeaven", 
+            "name": "Days Of Heaven", 
+            "poster_url": "DaysOfHeaven.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 1, 
+            "id": "RebelWithoutACause", 
+            "name": "Rebel Without a Cause", 
+            "poster_url": "RebelWithoutACause.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }
+    ], 
+    "id": "WalkOnWater", 
+    "name": "Walk On Water"
+}

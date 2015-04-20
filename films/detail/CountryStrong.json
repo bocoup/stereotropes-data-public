@@ -1,0 +1,72 @@
+{
+    "plot": "A drama centered on a rising country-music songwriter (Hedlund) who sparks with a fallen star (Paltrow). Together, they mount his ascent and her comeback, which leads to romantic complications involving her husband/manager (McGraw) and a beauty queen-turned-singer (Meester).", 
+    "genres": "Drama, Music", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Garrett Hedlund & Tim McGraw? They can definitely pull off all the scruff and flannel.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Good Bad Girl: Kelly Canter", 
+                "id": "GoodBadGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1555064", 
+    "poster_url": "CountryStrong.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GoodBadGirl", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Legion", 
+            "name": "Legion", 
+            "poster_url": "Legion.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "SaturdayNightFever", 
+            "name": "Saturday Night Fever", 
+            "poster_url": "SaturdayNightFever.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "LadderOfSwords", 
+            "name": "Ladder Of Swords"
+        }
+    ], 
+    "id": "CountryStrong", 
+    "name": "Country Strong"
+}

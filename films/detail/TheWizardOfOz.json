@@ -1,0 +1,106 @@
+{
+    "plot": "In this charming film based on the popular L. Frank Baum stories, Dorothy and her dog Toto are caught in a tornado's path and somehow end up in the land of Oz. Here she meets some memorable friends and foes in her journey to meet the Wizard of Oz who everyone says can help her return home and possibly grant her new friends their goals of a brain, heart and courage.", 
+    "genres": "Adventure, Family, Fantasy", 
+    "release_year": "1939", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "clumsy", 
+                    "adorable", 
+                    "such", 
+                    "funny"
+                ], 
+                "role": "In The Wizard of Oz, the Scarecrow is incredibly clumsy, yet adorable too. Perhaps that's why Dorothy missed him the most-he was such a funny clumsy man.", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Card-Carrying"
+                ], 
+                "role": "The Wizard of Oz: The Wicked Witch of the West, in all but name. Although being a Card-Carrying Villain helps.", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [
+                    "long", 
+                    "actual", 
+                    "beautiful", 
+                    "hot", 
+                    "bad"
+                ], 
+                "role": "In early casting for The Wizard of Oz Gale Sondergaard was going to be a Wicked Hot Witch of the West,\u25ca but when the studio decided to go with a conventionally ugly witch she bowed out, not wanting to put up with long hours in the makeup chair. In the actual film, Glinda (who, while beautiful, isn't exactly \"hot\") claims \"only bad witches are ugly\". (Of course, that brings up the question of just why she felt the need to ask Dorothy what her intentions were when she assumed she was one...)", 
+                "id": "HotWitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dorothy in the 1939 movie The Wizard of Oz sometimes screamed.", 
+                "id": "ScreamingWoman"
+            }, 
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "In \"The Crucible\" Harvey references the trope when Sabrina is accused of being a witch. He says she can't be one because witches are old and ugly - and melt when you throw water on them (which he does to Sabrina).", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0032138", 
+    "poster_url": "TheWizardOfOz.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "CuteClumsyGirl", 
+                "ScreamingWoman", 
+                "HotWitch"
+            ], 
+            "shared_count": 4, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "WickedWitch", 
+                "HotWitch"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "WickedWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWonderfulWizardOfOz", 
+            "name": "The Wonderful Wizard of Oz", 
+            "poster_url": "TheWonderfulWizardOfOz.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepyHollow", 
+            "name": "Sleepy Hollow", 
+            "poster_url": "SleepyHollow.jpg"
+        }
+    ], 
+    "id": "TheWizardOfOz", 
+    "name": "The Wizard of Oz"
+}

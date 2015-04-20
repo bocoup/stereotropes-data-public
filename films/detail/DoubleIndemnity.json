@@ -1,0 +1,104 @@
+{
+    "plot": "In 1938, Walter Neff, an experienced salesman of the Pacific All Risk Insurance Co., meets the seductive wife of one of his clients, Phyllis Dietrichson, and they have an affair. Phyllis proposes to kill her husband to receive the proceeds of an accident insurance policy and Walter devises a scheme to receive twice the amount based on a double indemnity clause. When Mr. Dietrichson is found dead on a train-track, the police accept the determination of accidental death. However, the insurance analyst and Walter's best friend Barton Keyes does not buy the story and suspects that Phyllis has murdered her husband with the help of another man.", 
+    "genres": "Crime, Drama, Film-Noir", 
+    "release_year": "1944", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "late", 
+                    "first"
+                ], 
+                "role": "Battleaxe Nurse: Three guesses on who was the nurse taking care of the late first Mrs. Dietrichson.", 
+                "id": "BattleaxeNurse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Black Widow: Phyllis, a poster girl.", 
+                "id": "BlackWidow"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Blondes are Evil: Phyllis.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Femme Fatale: Literally; Phyllis not only kills her husband and his first wife, but shoots Walter.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Macbeth: Phyllis is it not to her husband but to Walter.", 
+                "id": "LadyMacBeth"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Phyllis Dietrichson.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0036775", 
+    "poster_url": "DoubleIndemnity.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp", 
+                "BlondesAreEvil", 
+                "FemmeFatale", 
+                "BlackWidow"
+            ], 
+            "shared_count": 4, 
+            "id": "BasicInstinct", 
+            "name": "Basic Instinct", 
+            "poster_url": "BasicInstinct.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "FemmeFatale", 
+                "BlackWidow"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "BlondesAreEvil", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "CoolWorld", 
+            "name": "Cool World", 
+            "poster_url": "CoolWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyMacBeth", 
+                "TheVamp", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "TheTenCommandments", 
+            "name": "The Ten Commandments", 
+            "poster_url": "TheTenCommandments.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "BlackWidow"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }
+    ], 
+    "id": "DoubleIndemnity", 
+    "name": "Double Indemnity"
+}

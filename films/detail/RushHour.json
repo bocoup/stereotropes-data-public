@@ -1,0 +1,127 @@
+{
+    "plot": "Cultures clash and tempers flares as the two cops named Detective Inspector Lee a Hong Kong Detective and Detective James Carter FBI, a big-mouthed work-alone Los Angeles cop who are from different worlds discovers one thing in common: they can't stand each other. With time running out, they must join forces to catch the criminals and save the eleven-year-old Chinese girl of the Chinese consul named Soo Yung.", 
+    "genres": "Action, Comedy, Thriller", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Any of the Rush Hour movies with Chris Tucker and Jackie Chan.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [
+                    "second", 
+                    "hand-to-hand"
+                ], 
+                "role": "Bash Brothers: Lee and Carter start to demonstrate this in the second movie, where Carter's hand-to-hand skills have notably jumped up about 10 grades.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [
+                    "hysterical"
+                ], 
+                "role": "And then, of course, there was the hysterical Camp Gay store attendant in Rush Hour 2.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "same"
+                ], 
+                "role": "In the same outtakes, he says to Chan \"If I didn't have a girlfriend, I would be all over you!\"", 
+                "id": "CampStraight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "second", 
+                    "much", 
+                    "third"
+                ], 
+                "role": "Action Girl: Tania Johnson in the first film. Downplayed with Isabella in the second film because she doesn't have much chance as Hu Li shot her in the shoulder. Also Soo Yung who Took a Level in Badass in the third film. Unfortunately this is also downplayed in the end where she is kidnapped, bringing back her Damsel in Distress status.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "In the first film, Clive is guilted into giving information on Juntao after being shown a picture of Soo Yung.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "third"
+                ], 
+                "role": "Dark Action Girl: Hu Li in Rush Hour 2 and the Dragon Lady Jasmine in the third film.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hu Li, from Rush Hour 2.", 
+                "id": "DragonLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120812", 
+    "poster_url": "RushHour.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "DarkActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "IronMan3", 
+            "name": "Iron Man 3", 
+            "poster_url": "IronMan3.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DarkActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }
+    ], 
+    "id": "RushHour", 
+    "name": "Rush Hour"
+}

@@ -1,0 +1,110 @@
+{
+    "plot": "This is the story of a little penguin named Mumble who has a terrible singing voice and later discovers he has no Heartsong. However, Mumble has an astute talent for something that none of the penguins had ever seen before: tap dancing. Though Mumble's mom, Norma Jean, thinks this little habit is cute, his dad, Memphis, says it \"just ain't penguin.\" Besides, they both know that, without a Heartsong, Mumble may never find true love. As fate would have it, his one friend, Gloria, happens to be the best singer around. Mumble and Gloria have a connection from the moment they hatch, but she struggles with his strange \"hippity- hoppity\" ways. Mumble is just too different--especially for Noah the Elder, the stern leader of Emperor Land, who ultimately casts him out of the community. Away from home for the first time, Mumble meets a posse of decidedly un-Emperor-like penguins--the Adelie Amigos. Led by Ramon, the Adelies instantly embrace Mumble's cool dance moves and invite him to party with them. In Adelie Land, Mumble seeks the counsel of Lovelace the Guru, a crazy-feathered Rockhopper penguin who will answer any of life's questions for the price of a pebble. Together with Lovelace and the Amigos, Mumble sets out across vast landscapes and, after some epic encounters, proves that by being true to yourself, you can make all the difference in the world.", 
+    "genres": "Animation, Comedy, Family", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "Mumble", 
+                    "able", 
+                    "long", 
+                    "original"
+                ], 
+                "role": "Overprotective Dad: Mumble gets this in the sequel. Justified in that they are in Antarctica, baby penguins wouldn't be able to maintain their body heat for very long nor can they feed themselves (which is remarked upon with Ramon), and most of the predators Mumble faced in the original movie (the Leopard Seal and Killer Whales), he faced as an adult and could have easily gotten killed.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [
+                    "Mumble"
+                ], 
+                "role": "Papa Wolf: Mumble again in the sequel.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "cute", 
+                    "little"
+                ], 
+                "role": "Action Girl: Boadicea, Ms. Viola's daughter. She's a cute, little Emperor Penguin chick... who can pull off Le Parkour.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "emperor", 
+                    "extremely", 
+                    "conservative", 
+                    "great"
+                ], 
+                "role": "Mama Bear: Despite her calm, loving demeanor, Norma Jean showed flashes of this. She was the first and only emperor penguin, in their extremely conformist and conservative society, to try to oppose the Elders, verbally lashing out at them (which was shocking enough to the colony) when they forced her son Mumble into exile. She also expressed great disdain for them during the graduation ceremony, for Mumble had not been permitted to graduate.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0366548", 
+    "poster_url": "HappyFeet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "OverprotectiveDad", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Terminator2JudgmentDay", 
+            "name": "Terminator 2: Judgment Day", 
+            "poster_url": "Terminator2JudgmentDay.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "ThirtyDaysOfNight", 
+            "name": "30 Days of Night", 
+            "poster_url": "ThirtyDaysOfNight.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "TheSecretOfNIMH", 
+            "name": "The Secret of NIMH", 
+            "poster_url": "TheSecretOfNIMH.jpg"
+        }
+    ], 
+    "id": "HappyFeet", 
+    "name": "Happy Feet"
+}

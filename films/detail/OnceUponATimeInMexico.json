@@ -1,0 +1,76 @@
+{
+    "plot": "In the third movie of Rodriguez's \"Mariachi\" trilogy, a Mexican drug lord pretends to overthrow the Mexican government, and is connected to a corrupt CIA agent who at that time, demands retribution from his worst enemy to carry out the drug lord's uprising against the government.", 
+    "genres": "Action, Thriller", 
+    "release_year": "2003", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "old", 
+                    "pair", 
+                    "quick"
+                ], 
+                "role": "Badass Grandma: At one point, we see an old lady with a pair of bandoliers Dual Wielding revolvers and taking down three or four of Marquez's troops in quick succession.", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Agent Ajedrez", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0285823", 
+    "poster_url": "OnceUponATimeInMexico.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirthOfANation", 
+            "name": "The Birth of a Nation", 
+            "poster_url": "TheBirthOfANation.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "TheEgyptian", 
+            "name": "The Egyptian", 
+            "poster_url": "TheEgyptian.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "Paul", 
+            "name": "Paul", 
+            "poster_url": "Paul.jpg"
+        }
+    ], 
+    "id": "OnceUponATimeInMexico", 
+    "name": "Once upon a Time in Mexico"
+}

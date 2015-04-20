@@ -1,0 +1,74 @@
+{
+    "plot": "The British troupe's sketches include themes of gluttony, birth control, total insignificance and, of course, the meaning of life.", 
+    "genres": "Comedy, Musical", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "entire", 
+                    "crew"
+                ], 
+                "role": "Badass Grandpa: The entire \"crew\" of the Crimson Permanent Assurance.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "sergeant", 
+                    "major"
+                ], 
+                "role": "Drill Sergeant Nasty: Parodied with the sergeant major who talks (or, rather, yells) like one, but proves remarkably lax about discipline.", 
+                "id": "DrillSergeantNasty"
+            }
+        ]
+    }, 
+    "imdbid": "tt0213090", 
+    "similar": [
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }
+    ], 
+    "id": "MontyPythonsTheMeaningOfLife", 
+    "name": "Monty Python's The Meaning of Life"
+}

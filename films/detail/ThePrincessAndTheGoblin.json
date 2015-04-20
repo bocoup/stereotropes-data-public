@@ -1,0 +1,102 @@
+{
+    "plot": "The story is about the adventurous Princess Irene. The princess is off playing in the woods when she is attacked by goblins pets. She is saved by a mining young warrior boy named Curty. They quickly become friends and get into a lot of trouble. The goblins attack and Irene must rely on her own magic to save Curty, and in turn the entire kingdom.", 
+    "genres": "Animation, Fantasy", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Dude: Curdie.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [
+                    "goulish"
+                ], 
+                "role": "Momma's Boy: The Goblin Prince is constantly doted and praised by his goulish mother.", 
+                "id": "MommasBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "great-great"
+                ], 
+                "role": "Cool Old Lady: Irene's great-great grandmother.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "dead"
+                ], 
+                "role": "Missing Mom: Irene's dead mother.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107875", 
+    "poster_url": "ThePrincessAndTheGoblin.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "MissingMom", 
+                "MommasBoy", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "CoolOldLady", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "CoolOldLady", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "CoolOldLady", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheFoxAndTheHound", 
+            "name": "The Fox and the Hound", 
+            "poster_url": "TheFoxAndTheHound.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "DistressedDude", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }
+    ], 
+    "id": "ThePrincessAndTheGoblin", 
+    "name": "The Princess And The Goblin"
+}

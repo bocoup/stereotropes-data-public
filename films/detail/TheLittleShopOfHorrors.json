@@ -1,0 +1,93 @@
+{
+    "plot": "Seymour is a young man who works in a flower store. He manages to create a carnivorous plant that feeds on human flesh. Nobody knows about it, so Seymour and the plant become good \"friends\". The plant needs food to grow up, so it convinces him to start killing people.", 
+    "genres": "Comedy, Horror", 
+    "release_year": "1960", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Seymour's father left him and his mother.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "original"
+                ], 
+                "role": "In The Little Shop of Horrors (the original 1960 dark comedy), Seymour lives with his hypochondriac mother, who explains to Audrey at dinner that Seymour's father ran out on her.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Jewish"
+                ], 
+                "role": "Jewish Mother: Seymour's mother.", 
+                "id": "JewishMother"
+            }, 
+            {
+                "adjectives": [
+                    "original", 
+                    "top", 
+                    "usual", 
+                    "normal"
+                ], 
+                "role": "Seymour's mother from the original The Little Shop of Horrors. On top of the usual stereotypes, she's also an extreme hypochondriac, to the point where Seymour has been led to believe that all normal food is prepared by adding medicines to it.", 
+                "id": "JewishMother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0054033", 
+    "poster_url": "TheLittleShopOfHorrors.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "JewishMother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLorax", 
+            "name": "The Lorax", 
+            "poster_url": "TheLorax.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "JewishMother"
+            ], 
+            "shared_count": 2, 
+            "id": "Tangled", 
+            "name": "Tangled", 
+            "poster_url": "Tangled.png"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }
+    ], 
+    "id": "TheLittleShopOfHorrors", 
+    "name": "The Little Shop of Horrors"
+}

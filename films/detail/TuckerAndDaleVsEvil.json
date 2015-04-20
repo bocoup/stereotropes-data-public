@@ -1,0 +1,106 @@
+{
+    "plot": "N/A", 
+    "genres": "Comedy", 
+    "release_year": "2000\u20132001", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "big", 
+                    "attractive", 
+                    "female"
+                ], 
+                "role": "Dale in Tucker & Dale Vs. Evil is a big guy who is attractive to the female protagonist because of his size and gentleness.", 
+                "id": "BigBeautifulMan"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Dale.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "titular"
+                ], 
+                "role": "The titular Tucker and Dale from Tucker & Dale Vs. Evil.", 
+                "id": "GoodOlBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "other", 
+                    "real"
+                ], 
+                "role": "Damsel in Distress: When Tucker and Dale pick up Allison from the lake, the other college kids think she's in this position. She is put into this role for real in the climax.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Allison, thanks to her friends.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0247141", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DoggedNiceGuy", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Piranha3D", 
+            "name": "Piranha 3D", 
+            "poster_url": "Piranha3D.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DoggedNiceGuy", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Cloverfield", 
+            "name": "Cloverfield", 
+            "poster_url": "Cloverfield.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Super8", 
+            "name": "Super 8", 
+            "poster_url": "Super8.jpg"
+        }
+    ], 
+    "id": "TuckerAndDaleVsEvil", 
+    "name": "Tucker & Dale Vs. Evil"
+}

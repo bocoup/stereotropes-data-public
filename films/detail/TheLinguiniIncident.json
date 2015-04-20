@@ -1,0 +1,79 @@
+{
+    "plot": "Two disgruntled restaurant employees (David Bowie, Rosanna Arquette) decide to rob their employers (Buck Henry, Andre Gregory).", 
+    "genres": "Comedy, Crime", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "close"
+                ], 
+                "role": "Dirty Old Man: Dante likes to get rather close to the waitresses.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Lucy\u2019s", 
+                    "ill-judged", 
+                    "all-lesbian"
+                ], 
+                "role": "Psycho Lesbian: One of the judges at Lucy\u2019s ill-judged audition for an all-lesbian variety show.", 
+                "id": "PsychoLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102313", 
+    "poster_url": "TheLinguiniIncident.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PsychoLesbian", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }
+    ], 
+    "id": "TheLinguiniIncident", 
+    "name": "The Linguini Incident"
+}

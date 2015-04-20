@@ -1,0 +1,76 @@
+{
+    "plot": "Something's wrong at the Rileys. Married nearly 30 years, Doug and Lois rarely talk. She doesn't leave their Indianapolis home, and she's ordered a gravestone with their names and birth years on it. He has a long-time Thursday night mistress whom he invites to go with him to a plumbing supply conference in New Orleans. Once there, Doug calls Lois to say he's staying for a while. What's he leaving behind and what's he looking for in New Orleans? And Lois, can she break out?", 
+    "genres": "Drama", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Mallory.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "kid"
+                ], 
+                "role": "Missing Mom: Mallory's mom died in a car accident when she was a little kid.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt1183923", 
+    "poster_url": "WelcomeToTheRileys.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BrokenBlossoms", 
+            "name": "Broken Blossoms"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "HideAndSeek", 
+            "name": "Hide and Seek", 
+            "poster_url": "HideAndSeek.jpg"
+        }
+    ], 
+    "id": "WelcomeToTheRileys", 
+    "name": "Welcome to the Rileys"
+}

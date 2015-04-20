@@ -1,0 +1,75 @@
+{
+    "plot": "Alice awakes at home with her daughter Becky and her husband. But soon she realizes that she is actually in an Umbrella Corporation's underground facility. Out of the blue, the computer security system shuts-down and Alice flees to the central control room of the facility. She meets Ada Wong, who works with Albert Wesker, and she learns that a five-man team has been sent by Wesker to rescue them. However, the Red Queen sends Jill Valentine and Rain to hunt them down.", 
+    "genres": "Action, Horror, Sci-Fi", 
+    "release_year": "2012", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Dark Action Girl: Jill and Bad Rain.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "real", 
+                    "protective"
+                ], 
+                "role": "Mama Bear: Both the clone and real Alice are very protective of Becky, even though only the clone Alice has memories of being her mother.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt1855325", 
+    "poster_url": "ResidentEvilRetribution.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DarkActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Underworld", 
+            "name": "Underworld", 
+            "poster_url": "Underworld.jpg"
+        }, 
+        {
+            "shared": [
+                "DarkActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "DarkActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DarkActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "LupinIIIOperationReturnTheTreasure", 
+            "name": "Lupin III Operation Return The Treasure"
+        }
+    ], 
+    "id": "ResidentEvilRetribution", 
+    "name": "Resident Evil: Retribution"
+}

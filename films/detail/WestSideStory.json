@@ -1,0 +1,118 @@
+{
+    "plot": "West Side Story is the award-winning adaptation of the classic romantic tragedy, \"Romeo and Juliet\". The feuding families become two warring New York City gangs- the white Jets led by Riff and the Puerto Rican Sharks, led by Bernardo. Their hatred escalates to a point where neither can coexist with any form of understanding. But when Riff's best friend (and former Jet) Tony and Bernardo's younger sister Maria meet at a dance, no one can do anything to stop their love. Maria and Tony begin meeting in secret, planning to run away. Then the Sharks and Jets plan a rumble under the highway - whoever wins gains control of the streets. Maria sends Tony to stop it, hoping it can end the violence. It goes terribly wrong, and before the lovers know what's happened, tragedy strikes and doesn't stop until the climactic and heartbreaking ending.", 
+    "genres": "Crime, Drama, Musical", 
+    "release_year": "1961", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Lesbian", 
+                    "heterosexual", 
+                    "likely", 
+                    "actual"
+                ], 
+                "role": "Butch Lesbian: While some of Anybody's lines imply she's heterosexual or bi, she fits the look, and acts in a comparatively \"masculine\" manner for her time and place. The character could very likely be a trans boy rather than an actual woman, too. It's something that can vary from production to production.", 
+                "id": "ButchLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "Tonight", 
+                    "rumble"
+                ], 
+                "role": "Lipstick and Load Montage: In the reprise of \"Tonight\" in The Movie, Anita has a L&LM song while the gangs prepare for the rumble.", 
+                "id": "LipstickAndLoadMontage"
+            }, 
+            {
+                "adjectives": [
+                    "limited"
+                ], 
+                "role": "One of the Boys: Anybodys tries to be this, with limited success.", 
+                "id": "OneOfTheBoys"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "exuberant", 
+                    "entire"
+                ], 
+                "role": "Anita from West Side Story stands out from the other Shark girls (already a fairly spicy lot) by virtue of sheer spice. She has the most exuberant choreography and catchiest songs of the entire show.", 
+                "id": "SpicyLatina"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spicy Latina: Anita.", 
+                "id": "SpicyLatina"
+            }, 
+            {
+                "adjectives": [
+                    "love-struck", 
+                    "rumble", 
+                    "tragic"
+                ], 
+                "role": "The Ingenue: Maria, initially. When Tony asks her if she's \"making a joke\" in their Love at First Sight moment, she replies, \"I have not yet learned how to joke that way.\" (i.e. she is too inexperienced to be anything but sincere). Her family is very concerned with protecting her, especially from 'a boy like that' who only 'wants one thing.' Her naive expectation that love-struck Tony can stop the rumble has tragic consequences for everyone.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Anybodys.", 
+                "id": "Tomboy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0055614", 
+    "poster_url": "WestSideStory.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Tomboy", 
+                "ButchLesbian", 
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 3, 
+            "id": "Tomboy", 
+            "name": "Tomboy", 
+            "poster_url": "Tomboy.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfPicasso", 
+            "name": "The Adventures Of Picasso", 
+            "poster_url": "TheAdventuresOfPicasso.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "LipstickAndLoadMontage"
+            ], 
+            "shared_count": 2, 
+            "id": "DontTellMomTheBabysittersDead", 
+            "name": "Don't Tell Mom the Babysitter's Dead"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 2, 
+            "id": "LittleGiants", 
+            "name": "Little Giants", 
+            "poster_url": "LittleGiants.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 2, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }
+    ], 
+    "id": "WestSideStory", 
+    "name": "West Side Story"
+}

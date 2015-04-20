@@ -1,0 +1,87 @@
+{
+    "plot": "It's been ten years since the Black Plague ravaged the lands. A poor family sets out on a journey to find a better place to live. On a desolate mountain pass, the family is attacked by a pack of merciless killers. The only one to be spared is 19 year old Signe, who is taken hostage and brought back to camp. There she learns she is to face a fate far worse than death, and she realizes the only thing to do is to run away. But her escape does not go unnoticed, and now the chase is on.", 
+    "genres": "Action, History, Thriller", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "musical"
+                ], 
+                "role": "Camp Gay: Some of Dablone's rebels look more like a Broadway musical cast.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "second", 
+                    "first"
+                ], 
+                "role": "Dumb Muscle: This was probably not the intention but Trash certainly comes off as this, although moreso in the second film than the first.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Rebellious"
+                ], 
+                "role": "Rebellious Princess: Ann.", 
+                "id": "RebelliousPrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt2076850", 
+    "similar": [
+        {
+            "shared": [
+                "RebelliousPrincess", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelliousPrincess", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieAndTheMagicOfPegasus", 
+            "name": "Barbie And The Magic Of Pegasus", 
+            "poster_url": "BarbieAndTheMagicOfPegasus.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongestYard", 
+            "name": "The Longest Yard", 
+            "poster_url": "TheLongestYard.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelliousPrincess", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIllusionist", 
+            "name": "The Illusionist", 
+            "poster_url": "TheIllusionist.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }
+    ], 
+    "id": "Escape2000", 
+    "name": "Escape"
+}

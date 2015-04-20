@@ -1,0 +1,86 @@
+{
+    "plot": "The story tells of a young woman admitting to having blackouts, fearing they are getting worse. She is believed to suffer from multiple personalities, as a result of severe abuse at the hands of her mother, whom the psychiatrist, Cornelia B. Wilbur, believes was schizophrenic. The movie Sibyl is based upon author Flora Rheta Schreiberthe's novel and fictionalized version of the life story of Shirley Ardell Mason, an American psychiatric patient, claimed to have suffered multiple personality disorder. The novel Sibyl, was in its turn based largely on the alleged actual accounts of psychiatric treatment that Shirley Ardell Mason underwent, documented by American psychiatrist Cornelia B. Wilbur. Numerous psychiatrists, both contemporary and more recent, have strongly contested the diagnosis.", 
+    "genres": "Biography, Drama", 
+    "release_year": "1976", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Sybil herself.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: Sybil's mother, like whoa.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "furious"
+                ], 
+                "role": "Mama Bear: Dr. Wilbur shows her growing love for Sybil in some particularly furious outbursts against Sybil's mother.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ophelia: Sybil in therapy has shades of this. There's a lot of singing.", 
+                "id": "TheOphelia"
+            }
+        ]
+    }, 
+    "imdbid": "tt0075296", 
+    "poster_url": "Sybil.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SympathyForLadyVengeance", 
+            "name": "Sympathy for Lady Vengeance", 
+            "poster_url": "SympathyForLadyVengeance.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "PansLabyrinth", 
+            "name": "Pan's Labyrinth", 
+            "poster_url": "PansLabyrinth.jpg"
+        }
+    ], 
+    "id": "Sybil", 
+    "name": "Sybil"
+}

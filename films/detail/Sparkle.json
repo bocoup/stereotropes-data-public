@@ -1,0 +1,113 @@
+{
+    "plot": "In the 1960s, three sisters form a girl group and soon become local sensations with major label interest, but fame becomes a challenge as the close-knit family begins to fall apart.", 
+    "genres": "Drama, Music", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "early", 
+                    "complete", 
+                    "oddball", 
+                    "eager"
+                ], 
+                "role": "Casanova Wannabe: Stix comes off as this early in the film. Though not necessarily like a Casanova, but more of a boy who has an innocent crush on a girl...complete with oddball behavior, compliments, and rather eager for a kiss.", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [
+                    "Sparkle/Tammy", 
+                    "early", 
+                    "current"
+                ], 
+                "role": "Disappeared Dad: Both Sparkle/Tammy's Dad and Delores's Dad is mentioned and photographs are seen early on, but nothing is explained on their current whereabouts.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "first"
+                ], 
+                "role": "Dogged Nice Guy: Levi, somewhat. Sister dated him in the first part of the film, and claimed she actually liked him. But then, Satin enters.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Tammy.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Sister fullstop. It really shows in the \"Jump\" scene.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Sister: Delores", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt1876451", 
+    "poster_url": "Sparkle.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "MsFanservice", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "ParaNorman", 
+            "name": "ParaNorman", 
+            "poster_url": "ParaNorman.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "DisappearedDad", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "CasanovaWannabe", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "DoggedNiceGuy", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowDay", 
+            "name": "Snow Day", 
+            "poster_url": "SnowDay.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }
+    ], 
+    "id": "Sparkle", 
+    "name": "Sparkle"
+}

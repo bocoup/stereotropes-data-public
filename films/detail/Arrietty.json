@@ -1,0 +1,99 @@
+{
+    "plot": "14-year-old Arrietty and the rest of the Clock family live in peaceful anonymity as they make their own home from items that they borrow from the house's human inhabitants. However, life changes for the Clocks when a human boy discovers Arrietty.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "due", 
+                    "short"
+                ], 
+                "role": "Non-Action Guy: Sho, due to his heart condition. Even running for a short distance wore him out.", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Arrietty, natch.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "only"
+                ], 
+                "role": "Housewife: Homily is the only non-action one in the family, preferring to stay at home.", 
+                "id": "HouseWife"
+            }, 
+            {
+                "adjectives": [
+                    "weak"
+                ], 
+                "role": "Ill Boy: Sho, who was always a weak boy and will be getting an operation on his heart.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Arrietty, of course, yet another Ghibli staple.", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1568921", 
+    "poster_url": "Arrietty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "PluckyGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "PluckyGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "LupinIIIThePursuitOfHarimaosTreasure", 
+            "name": "Lupin III: The Pursuit Of Harimao's Treasure"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Bloodlust", 
+            "name": "Bloodlust"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Balto", 
+            "name": "Balto", 
+            "poster_url": "Balto.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "Arrietty", 
+    "name": "Arrietty"
+}

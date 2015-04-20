@@ -1,0 +1,78 @@
+{
+    "plot": "Allan Quatermain is a fortune hunter who is convinced by Jesse Huston to help her find her father, who's been lost somewhere in the African jungle during his last exploration.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "professional"
+                ], 
+                "role": "The 1937 edition of King Solomon's Mines featured Paul Robeson, professional baritone singer, as Ignosi. Ignosi is a brave warrior who returns to Kukuanaland, defeats the usurper King Twala in battle, and reclaims his throne. Since he's played by Paul Robeson, he gets to sing a couple of songs too.", 
+                "id": "BadassBaritone"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In fact, all the European characters from the novel King Solomon's Mines are.", 
+                "id": "GreatWhiteHunter"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "In the 1985 film of King Solomon's Mines Alan Quatermain and Jesse Huston are Captured By Cannibals. Our hero suggests they Face Death with Dignity.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089421", 
+    "poster_url": "KingSolomonsMines.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExtraordinaryAdventuresOfAdeleBlancSec", 
+            "name": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec"
+        }, 
+        {
+            "shared": [
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 1, 
+            "id": "AnimalCrackers", 
+            "name": "Animal Crackers", 
+            "poster_url": "AnimalCrackers.jpg"
+        }, 
+        {
+            "shared": [
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGrey", 
+            "name": "The Grey", 
+            "poster_url": "TheGrey.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassBaritone"
+            ], 
+            "shared_count": 1, 
+            "id": "Cell211", 
+            "name": "Cell 211", 
+            "poster_url": "Cell211.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassBaritone"
+            ], 
+            "shared_count": 1, 
+            "id": "ManOfLaMancha", 
+            "name": "Man Of La Mancha", 
+            "poster_url": "ManOfLaMancha.jpg"
+        }
+    ], 
+    "id": "KingSolomonsMines", 
+    "name": "King Solomon's Mines"
+}

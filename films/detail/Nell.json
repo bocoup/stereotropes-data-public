@@ -1,0 +1,87 @@
+{
+    "plot": "Nell is a girl who's been brought up in an isolated world. The only people she knew were her mother and twin sister. They lived together in a cottage in the forest. Nobody has ever met Nell. After her mother's death, she's discovered by the local doctor Jerome. He's fascinated by her, since she speaks a mangled language, developed by her sister and herself growing up, \"twin speak\" if you will. But Paula, a psychology student, wants her observed in a laboratory. The judge decides they get three months to observe her in the forest, after which he'll decide about Nell's future.", 
+    "genres": "Drama", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "guardian", 
+                    "exempt", 
+                    "'men", 
+                    "nice"
+                ], 
+                "role": "Mr. Fanservice - When Dr. Lovell strips down and goes Skinny Dipping with Nell, which for some reason is supposed to help her get over her fear of men. In theory this is because to Nell, he's not a man, he's her guardian angel and thus exempt from the 'men are monsters' lesson her mother drummed into her head. Early in the film when Dr. Lovell is hauled out of bed by a phone call, Neeson has a nice shirtless moment.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf - Dr. Lovell develops this attitude towards Nell, including physically shoving two people for just interacting with her (although one deserved it).", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Innocent Fanservice Girl: Nell wears clothes, but has no problem to take them off.", 
+                "id": "InnocentFanserviceGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0110638", 
+    "poster_url": "Nell.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "MrFanservice", 
+                "InnocentFanserviceGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "InnocentFanserviceGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "GeorgeOfTheJungle", 
+            "name": "George of the Jungle", 
+            "poster_url": "GeorgeOfTheJungle.jpg"
+        }
+    ], 
+    "id": "Nell", 
+    "name": "Nell"
+}

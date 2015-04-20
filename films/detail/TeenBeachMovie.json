@@ -1,0 +1,104 @@
+{
+    "plot": "Life's a beach for surfers Brady and McKenzie -- until a rogue wave magically transports them inside the classic '60s beach party flick, Wet Side Story, where a full-blown rivalry between bikers and surfers threatens to erupt. There, amidst a sea of surfing, singing and dancing, Brady and Mack accidentally change the storyline, and the film's dreamy hero and heroine fall for them instead of for each other!", 
+    "genres": "Family, Musical", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Pretty Boy: Tanner. Subverted in that Mack calls him 'the mannequin with six rows of teeth' the first time she sees him.", 
+                "id": "PrettyBoy"
+            }, 
+            {
+                "adjectives": [
+                    "Inevitable", 
+                    "gratuitous", 
+                    "open", 
+                    "discernible"
+                ], 
+                "role": "Shirtless Scene: Inevitable considering the setting, but an extremely gratuitous one occurs as Brady and Mack are leaving the Wet Side Story universe - Brady's shirt magically opens between shots and flutters open in the wind, for no discernible reason.", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Surfer Dude: Wet Side Story's surfers.", 
+                "id": "SurferDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Naive", 
+                    "gang"
+                ], 
+                "role": "Naive Every Girl: Lela, who just can't understand why her brother's gang and the surfers can't get along.", 
+                "id": "NaiveEverygirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Big Momma. Her Establishing Character Moment occurs when she dances a little with one of the surfers, then slaps him playfully and scolds him for taking her away from her cooking.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt2325989", 
+    "poster_url": "TeenBeachMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrettyBoy", 
+                "SurferDude", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 3, 
+            "id": "ApocalypseNow", 
+            "name": "Apocalypse Now", 
+            "poster_url": "ApocalypseNow.jpg"
+        }, 
+        {
+            "shared": [
+                "PrettyBoy", 
+                "NaiveEverygirl", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 3, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "PrettyBoy", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGuyFromHarlem", 
+            "name": "The Guy From Harlem", 
+            "poster_url": "TheGuyFromHarlem.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "NaiveEverygirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLostBoys", 
+            "name": "The Lost Boys", 
+            "poster_url": "TheLostBoys.jpg"
+        }
+    ], 
+    "id": "TeenBeachMovie", 
+    "name": "Teen Beach Movie"
+}

@@ -1,0 +1,80 @@
+{
+    "plot": "Two young men fall in love with the same same girl. After the US enters WWI, both join the Air Corps and become aces. They remain friends, but the relation to the girl threatens their friendship.", 
+    "genres": "Drama, Romance, War", 
+    "release_year": "1927", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: That's Clara Bow, people.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "big"
+                ], 
+                "role": "The Lady's Favour: Sylvia's portrait. Mary also gives a photo of herself to Jack, but it doesn't play as big a role.", 
+                "id": "TheLadysFavour"
+            }, 
+            {
+                "adjectives": [
+                    "poor"
+                ], 
+                "role": "Women Drivers: The stereotype of poor women drivers becomes averted for Mary, who helps Jack repair an automobile at the beginning, and volunteers as an ambulance driver to help the war effort.", 
+                "id": "WomenDrivers"
+            }
+        ]
+    }, 
+    "imdbid": "tt0018578", 
+    "poster_url": "Wings.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "WomenDrivers"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadysFavour"
+            ], 
+            "shared_count": 1, 
+            "id": "XMen1", 
+            "name": "X-Men", 
+            "poster_url": "XMen1.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "RazorBladeSmile", 
+            "name": "Razor Blade Smile", 
+            "poster_url": "RazorBladeSmile.jpg"
+        }
+    ], 
+    "id": "Wings", 
+    "name": "Wings"
+}

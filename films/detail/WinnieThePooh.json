@@ -1,0 +1,75 @@
+{
+    "plot": "During an ordinary day in Hundred Acre Wood, Winnie the Pooh sets out to find some honey. Misinterpreting a note from Christopher Robin, Owl convinces Tigger, Rabbit, Piglet, Pooh, Kanga, Roo, and Eeyore that their young friend has been captured by a creature named \"Backsoon\", and they set out to save him.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Team Mom: Kanga", 
+                "id": "TeamMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Piglet", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1449283", 
+    "poster_url": "WinnieThePooh.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TeamMom", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "EightBelow", 
+            "name": "Eight Below", 
+            "poster_url": "EightBelow.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "HaloLegends", 
+            "name": "Halo Legends", 
+            "poster_url": "HaloLegends.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "WereTheMillers", 
+            "name": "We're the Millers", 
+            "poster_url": "WereTheMillers.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }
+    ], 
+    "id": "WinnieThePooh", 
+    "name": "Winnie the Pooh"
+}

@@ -1,0 +1,69 @@
+{
+    "plot": "Explorers Bartholemew Hunt and Leslie Edwards are setting forth against nature across the country on a journey to the Pacific Ocean against rivals Lewis and Clark. Along the way they have many mishaps and misfortunes.", 
+    "genres": "Adventure, Comedy, Western", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: \"I am one of these braves!\"", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Dandy: Leslie Edwards.", 
+                "id": "TheDandy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119053", 
+    "poster_url": "AlmostHeroes.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TheDandy"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Kagemusha", 
+            "name": "Kagemusha", 
+            "poster_url": "Kagemusha.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "AlmostHeroes", 
+    "name": "Almost Heroes"
+}

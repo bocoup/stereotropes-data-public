@@ -1,0 +1,140 @@
+{
+    "plot": "In a cyberpunk vision of the future, man has developed the technology to create replicants, human clones used to serve in the colonies outside Earth but with fixed lifespans. In Los Angeles, 2019, Deckard is a Blade Runner, a cop who specializes in terminating replicants. Originally in retirement, he is forced to re-enter the force when four replicants escape from an off-world colony to Earth.", 
+    "genres": "Sci-Fi, Thriller", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "manual", 
+                    "Physical", 
+                    "few"
+                ], 
+                "role": "Dumb Muscle: Leon is built for manual labor. During the briefing sequence, he's even given stats: Physical A, Mental C, making him the dumbest of the replicants. He displays Super Strength on a few occasions. The script also called for him to do a Ceiling Cling, but it was left out.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Evil Roy: Roy Batty", 
+                "id": "EvilRoy"
+            }, 
+            {
+                "adjectives": [
+                    "clear", 
+                    "evil", 
+                    "certain"
+                ], 
+                "role": "Roy Batty from Blade Runner, although it's hardly clear that Roy Batty is evil, so this may be an aversion, or, from a certain point of view, a subversion.", 
+                "id": "EvilRoy"
+            }, 
+            {
+                "adjectives": [
+                    "clean", 
+                    "clean", 
+                    "available"
+                ], 
+                "role": "In Blade Runner, Deckard's apartment has stuff littering every surface. When Rachael visits, he has to clear stuff out of a chair so that he can sit down. She remains standing. Deckard offers Rachael a drink, and has to clean a glass from the sink because there are no clean glasses available.", 
+                "id": "MenCantKeepHouse"
+            }, 
+            {
+                "adjectives": [
+                    "clean", 
+                    "clean", 
+                    "available"
+                ], 
+                "role": "Men Can't Keep House: Deckard's apartment has stuff littering every surface. When Rachael visits, he has to clear stuff out of a chair so that he can sit down. She remains standing. Deckard offers Rachael a drink, and has to clean a glass from the sink because there are no clean glasses available.", 
+                "id": "MenCantKeepHouse"
+            }, 
+            {
+                "adjectives": [
+                    "effeminate", 
+                    "Anti-Villain"
+                ], 
+                "role": "Though not exactly effeminate (he's played by Rutger Hauer), Roy Batty from Blade Runner is an Anti-Villain example.", 
+                "id": "WhiteHairedPrettyBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "good", 
+                    "replicant", 
+                    "android", 
+                    "perfect", 
+                    "beautiful", 
+                    "human"
+                ], 
+                "role": "Blade Runner used this trope to good effect; when the replicant Rachel took down her hair (admittedly, she wasn't wearing glasses, as she was an android with perfect vision) she revealed herself to be beautiful and, in keeping with the theme of the film, more human.", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [
+                    "basic"
+                ], 
+                "role": "Hooker with a Heart of Gold: Pris, who is a \"basic pleasure model\" and uses her skills to win over JF. However, it's a ruse to gain access to Tyrell.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Any of the female replicants from Blade Runner fit this trope, mainly Rachael.", 
+                "id": "RobotGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0083658", 
+    "poster_url": "BladeRunner.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "MenCantKeepHouse", 
+                "RobotGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFaculty", 
+            "name": "The Faculty", 
+            "poster_url": "TheFaculty.jpg"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle", 
+                "EvilRoy"
+            ], 
+            "shared_count": 2, 
+            "id": "EvilRoySlade", 
+            "name": "Evil Roy Slade", 
+            "poster_url": "EvilRoySlade.jpg"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }
+    ], 
+    "id": "BladeRunner", 
+    "name": "Blade Runner"
+}

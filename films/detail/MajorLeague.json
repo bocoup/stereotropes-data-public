@@ -1,0 +1,113 @@
+{
+    "plot": "An exotic dancer marries the owner of a baseball club. He does not survive the honeymoon and she is in control of his ball club. she wants to move to warmer climes where some new stadiums have been built, but her lease has only one escape clause, poor attendance. She fields the worst team she can find. The attitude of the owner gives the misfits and losers something to rally around and they fight back.", 
+    "genres": "Comedy, Sport", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "solid", 
+                    "harsh", 
+                    "first"
+                ], 
+                "role": "Father to His Men: Lou proves to be a solid coach - demanding when needed, defending his players when it becomes known the bitch owner is screwing the team. Similarly, Gus Cantrell, though he can be harsh at times (and, in fact, for the first half of the movie, the hot hitting prospect hates how he's so hard on him), gets the best out of every one of his players.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "He also bears a Badass Mustache.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "tough", 
+                    "colorful", 
+                    "crazed"
+                ], 
+                "role": "Badass Grandpa: Lou. He pulls this Ragtag Bunch of Misfits into a badass ball team. He's a tough disciplinarian but clearly loves the colorful and crazed players he's got. He also bears a Badass Mustache.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "second"
+                ], 
+                "role": "Serrano from the Major League movies starts off as an example, then subverts it all to hell after becoming a Buddhist in the second film.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Rachel Phelps", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team owner Rachel Phelps in Major League.", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097815", 
+    "poster_url": "MajorLeague.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ScaryBlackMan", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ScaryBlackMan", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ScaryBlackMan", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 3, 
+            "id": "TheRock", 
+            "name": "The Rock", 
+            "poster_url": "TheRock.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BadAssMustache", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Batman", 
+            "name": "Batman", 
+            "poster_url": "Batman.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }
+    ], 
+    "id": "MajorLeague", 
+    "name": "Major League"
+}

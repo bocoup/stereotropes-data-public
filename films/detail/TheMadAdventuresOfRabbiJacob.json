@@ -1,0 +1,94 @@
+{
+    "plot": "In this riot of frantic disguises and mistaken identities, Victor Pivert, a blustering, bigoted French factory owner, finds himself taken hostage by Slimane, an Arab rebel leader. The two dress up as rabbis as they try to elude not only assasins from Slimane's country, but also the police, who think Pivert is a murderer. Pivert ends up posing as Rabbi Jacob, a beloved figure who's returned to France for his first visit after 30 years in the United States. Adding to the confusion are Pivert's dentist-wife, who thinks her husband is leaving her for another woman, their daughter, who's about to get married, and a Parisian neighborhood filled with people eager to celebrate the return of Rabbi Jacob.", 
+    "genres": "Comedy", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Far\u00e8s"
+                ], 
+                "role": "Beard of Evil: Far\u00e8s", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Likely with Pivert and his wife.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "bitter", 
+                    "traffic", 
+                    "free"
+                ], 
+                "role": "Nice Jewish Boy: Each one of the Jews in this movie, including Salomon, even though he's quite bitter towards his boss. Special mention goes to the guys who accompany Rabbi Jacob to the airport. Their cab ends up stuck in a traffic jam and time is running out, so what do they do? Lift the cab and carry it to the free part of the road.", 
+                "id": "NiceJewishBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Jewish"
+                ], 
+                "role": "Jewish Mother: Rabbi Jacob's wife is this for her husband. Esther Schmoll", 
+                "id": "JewishMother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0069747", 
+    "poster_url": "TheMadAdventuresOfRabbiJacob.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NiceJewishBoy", 
+                "JewishMother"
+            ], 
+            "shared_count": 2, 
+            "id": "FiddlerOnTheRoof", 
+            "name": "Fiddler on the Roof", 
+            "poster_url": "FiddlerOnTheRoof.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGreatRace", 
+            "name": "The Great Race", 
+            "poster_url": "TheGreatRace.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "JewishMother", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "NiceJewishBoy", 
+                "JewishMother"
+            ], 
+            "shared_count": 2, 
+            "id": "AWalkOnTheMoon", 
+            "name": "A Walk On The Moon", 
+            "poster_url": "AWalkOnTheMoon.jpg"
+        }
+    ], 
+    "id": "TheMadAdventuresOfRabbiJacob", 
+    "name": "The Mad Adventures of Rabbi Jacob"
+}

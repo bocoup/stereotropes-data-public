@@ -1,0 +1,98 @@
+{
+    "plot": "After stealing a mysterious orb in the far reaches of outer space, Peter Quill from Earth, is now the main target of a manhunt led by the villain known as Ronan the Accuser. To help fight Ronan and his team and save the galaxy from his power, Quill creates a team of space heroes known as the \"Guardians of the Galaxy\" to save the world.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Much"
+                ], 
+                "role": "Walking Shirtless Scene: Much like in the comics, Drax is never seen wearing a shirt.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Action Girl: Gamora, a female soldier and assassin.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Dark Action Girl: Nebula, a deadly female space pirate.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Green-Skinned", 
+                    "blue-skinned", 
+                    "pink-skinned"
+                ], 
+                "role": "Green-Skinned Space Babe: Gamora is literally green. Nebula is a blue-skinned space pirate. Ophelia Lovibond plays a pink-skinned assistant to the Collector.", 
+                "id": "GreenSkinnedSpaceBabe"
+            }
+        ]
+    }, 
+    "imdbid": "tt2015381", 
+    "poster_url": "GuardiansOfTheGalaxy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GreenSkinnedSpaceBabe", 
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendOfTheSeeker", 
+            "name": "Legend of the Seeker"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Doomsday", 
+            "name": "Doomsday", 
+            "poster_url": "Doomsday.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ConanTheBarbarian2011", 
+            "name": "Conan the Barbarian ", 
+            "poster_url": "ConanTheBarbarian2011.jpg"
+        }
+    ], 
+    "id": "GuardiansOfTheGalaxy", 
+    "name": "Guardians of the Galaxy"
+}

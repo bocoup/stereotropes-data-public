@@ -1,0 +1,92 @@
+{
+    "plot": "Sergeant Gerry Boyle is a small-town Irish cop with a confrontational personality, a subversive sense of humor, a dying mother, a fondness for prostitutes, and absolutely no interest whatsoever in the international cocaine-smuggling ring that has brought straight-laced FBI agent Wendell Everett to his door.", 
+    "genres": "Comedy, Crime, Thriller", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Aiden from The Guard complete with sham marriage.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Armoured Closet Gay: Aidan.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [
+                    "favourite", 
+                    "classic"
+                ], 
+                "role": "Cultured Badass: The villains like to spend car journeys discussing their favourite philosophers and have a fondness for Jazz music. Gerry's got a bit of this too, being well versed in classic literature.", 
+                "id": "CulturedBadass"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Lady: Gerry's mother.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Aoife sort of subverts this  given that she is forced to participate in a blackmailing scheme against Gerry, but she seems to genuinely like Gerry.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt1540133", 
+    "poster_url": "TheGuard.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Unforgiven", 
+            "name": "Unforgiven", 
+            "poster_url": "Unforgiven.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Deadman", 
+            "name": "Deadman"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }
+    ], 
+    "id": "TheGuard", 
+    "name": "The Guard"
+}

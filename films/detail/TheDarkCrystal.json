@@ -1,0 +1,87 @@
+{
+    "plot": "Another planet, another time. 1000 years ago the mysterious Dark Crystal was damaged by one of the Urskeks and an age of chaos has began! The evil race of grotesque birdlike lizards the Skeksis, gnomish dragons who rule their fantastic planet with an iron claw. Meanwhile the orphan Jen, raised in solitude by a race of the peace-loving wizards called the Mystics, embarks on a quest to find the missing shard of the Dark Crystal which gives the Skesis their power and restore the balance of the universe.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "flamboyant", 
+                    "fragile", 
+                    "due", 
+                    "old"
+                ], 
+                "role": "Sissy Villain: SkekEkt is the most flamboyant of the Skeksis, but all of them are rather fragile due to their old age.", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Cool Old Lady: Aughra knows all the secrets. An elderly Podling is shown thumping a Garthim's back with her walking stick, although her feisty attack doesn't accomplish much.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girls with Moustaches: Aughra. Word of God states that this is because she is a combination of both genders, but mostly identifies as a Cool Old Lady.", 
+                "id": "GirlsWithMoustaches"
+            }
+        ]
+    }, 
+    "imdbid": "tt0083791", 
+    "poster_url": "TheDarkCrystal.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SissyVillain", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "GirlsWithMoustaches", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "Persepolis", 
+            "name": "Persepolis", 
+            "poster_url": "Persepolis.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSecretOfNIMH", 
+            "name": "The Secret of NIMH", 
+            "poster_url": "TheSecretOfNIMH.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }
+    ], 
+    "id": "TheDarkCrystal", 
+    "name": "The Dark Crystal"
+}

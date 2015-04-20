@@ -1,0 +1,119 @@
+{
+    "plot": "Mitch is one of the youngest students ever accepted to a university known for its programs for geniuses. He's partnered up with his roommate, science club legend Chris Knight, on a project to develop a high-powered laser. Together with their hyper-kinetic friends, they employ their intellects in the pursuit of bigger blasts, practical jokes, and a deeper understanding of what real genius is. When their final, functional laser is stolen by their teacher for a military weapon, they decide to get even.", 
+    "genres": "Comedy, Romance, Sci-Fi", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High School Hustler: Chris Knight, although this is in a university.", 
+                "id": "HighSchoolHustler"
+            }, 
+            {
+                "adjectives": [
+                    "prototypical"
+                ], 
+                "role": "Real Genius: Chris Knight is a prototypical example of this trope.", 
+                "id": "HighSchoolHustler"
+            }, 
+            {
+                "adjectives": [
+                    "full"
+                ], 
+                "role": "Jerk Jock: Kent is the closest you'll find at a school full of nerds.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Real Genius, Chris Knight's half of the dorm (that he shares with Mitch) is an unabashedly sloven disaster area, even moreso than the rest of the dorm itself.", 
+                "id": "MenCantKeepHouse"
+            }, 
+            {
+                "adjectives": [
+                    "unabashed"
+                ], 
+                "role": "Men Can't Keep House: Chris Knight's half of the dorm is an unabashed disaster area, even in comparison to the rest of the dorm.", 
+                "id": "MenCantKeepHouse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Three Faces of Adam: Mitch Taylor is the Hunter, Chris Knight is the Lord, and Lazlo Hollyfeld is the Prophet.", 
+                "id": "TheThreeFacesOfAdam"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "primary"
+                ], 
+                "role": "Jordan in Real Genius lives somewhere between here and Cloudcuckooland. Although she's not the primary motivator for Mitch's lightening up, she does become his Love Interest.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "serious", 
+                    "other", 
+                    "hyperactive"
+                ], 
+                "role": "Manic Pixie Dream Girl: Jordan, who bursts in on Mitch while he's in the bathroom and all but glomps him \u2014 entirely innocently; she wants to give him a sweater she knitted for him overnight. Part of her Character Development occurs when Mitch starts paying serious attention to her; she calms down and develops a personality other than \"hyperactive girl\".", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089886", 
+    "poster_url": "RealGenius.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighSchoolHustler", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FerrisBuellersDayOff", 
+            "name": "Ferris Bueller's Day Off", 
+            "poster_url": "FerrisBuellersDayOff.jpg"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "HighSchoolHustler", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Heavyweights", 
+            "name": "Heavyweights"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse", 
+                "TheThreeFacesOfAdam"
+            ], 
+            "shared_count": 2, 
+            "id": "ToyStory2", 
+            "name": "Toy Story 2", 
+            "poster_url": "ToyStory2.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePerksOfBeingAWallflower", 
+            "name": "The Perks of Being a Wallflower", 
+            "poster_url": "ThePerksOfBeingAWallflower.jpg"
+        }
+    ], 
+    "id": "RealGenius", 
+    "name": "Real Genius"
+}

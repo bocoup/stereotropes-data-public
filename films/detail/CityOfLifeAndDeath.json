@@ -1,0 +1,92 @@
+{
+    "plot": "In 1937, Japan occupied Nanjing, the Chinese capital. There was a battle and subsequent atrocities against the inhabitants, especially those who took refuge in the International Security Zone.", 
+    "genres": "Drama, History, War", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "10-year-old", 
+                    "alive"
+                ], 
+                "role": "Child Soldiers: The 10-year-old Xiao. Thanks to Kadokawa, he survives and is still alive today.", 
+                "id": "ChildSoldiers"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Several"
+                ], 
+                "role": "Broken Bird: Several women are broken.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Yuriko.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team Mom: Mrs. Jiang again.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt1124052", 
+    "poster_url": "CityOfLifeAndDeath.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "HookerWithAHeartOfGold", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 3, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "ALeagueOfTheirOwn", 
+            "name": "A League of Their Own", 
+            "poster_url": "ALeagueOfTheirOwn.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "ManOfLaMancha", 
+            "name": "Man Of La Mancha", 
+            "poster_url": "ManOfLaMancha.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "WereTheMillers", 
+            "name": "We're the Millers", 
+            "poster_url": "WereTheMillers.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }
+    ], 
+    "id": "CityOfLifeAndDeath", 
+    "name": "City of Life and Death"
+}

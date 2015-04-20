@@ -1,0 +1,95 @@
+{
+    "plot": "Dino is a cat that leads a double life. By day, he lives with Zoe, a little girl whose mother, Jeanne, is a police officer. By night, he works with Nico, a burglar with a big heart. Zoe has plunged herself into silence following her father's murder at the hands of gangster Costa. One day, Dino the cat brings Zoe a very valuable bracelet. Lucas, Jeanne's second-in-command, notices this bracelet is part of a jewelery collection that has been stolen. One night, Zoe decides to follow Dino. On the way, she overhears some gangsters and discovers that her nanny is part of the gangsters' team.", 
+    "genres": "Animation, Crime, Family", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad:  He was a police officer that was killed by Costa.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Cat-Burglar", 
+                    "actual"
+                ], 
+                "role": "Classy Cat-Burglar: Nico. Bonus points for having an actual cat for a sidekick!", 
+                "id": "ClassyCatBurglar"
+            }, 
+            {
+                "adjectives": [
+                    "resourceful", 
+                    "useful", 
+                    "average", 
+                    "young"
+                ], 
+                "role": "Damsel in Distress: Though she's somewhat resourceful, Zoe is about as useful as an average young girl.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Jeanne.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt1673702", 
+    "poster_url": "ACatInParis.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "RookieOfTheYear", 
+            "name": "Rookie of the Year", 
+            "poster_url": "RookieOfTheYear.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }
+    ], 
+    "id": "ACatInParis", 
+    "name": "A Cat in Paris"
+}

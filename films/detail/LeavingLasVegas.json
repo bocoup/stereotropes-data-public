@@ -1,0 +1,80 @@
+{
+    "plot": "Because his wife left him and took his son with her, screenwriter Ben Sanderson has started drinking, a lot. He's getting more and more isolated and he troubles women in bars because he wants to have sex with them. When he gets fired, he decides to leave everything behind and move to Las Vegas and drink himself to death. In Las Vegas he meets Sera, a prostitute with some problems as well who he moves in with.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1995", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Sera.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "Disposable"
+                ], 
+                "role": "Disposable Sex Worker: What the teens thought of Sera.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Sera.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113627", 
+    "poster_url": "LeavingLasVegas.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "ManOfLaMancha", 
+            "name": "Man Of La Mancha", 
+            "poster_url": "ManOfLaMancha.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Pusher", 
+            "name": "Pusher"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "TotalRecall1990", 
+            "name": "Total Recall ", 
+            "poster_url": "TotalRecall1990.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Deadman", 
+            "name": "Deadman"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }
+    ], 
+    "id": "LeavingLasVegas", 
+    "name": "Leaving Las Vegas"
+}

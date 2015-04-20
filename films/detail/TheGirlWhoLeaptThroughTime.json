@@ -1,0 +1,91 @@
+{
+    "plot": "A teenage girl finds that she has the ability to leap through time. With her newfound power, she tries to use it to her advantage, but soon finds that tampering with time can lead to some rather discomforting results.", 
+    "genres": "Animation, Comedy, Drama", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Troubled, but Cute: Chiaki.", 
+                "id": "TroubledButCute"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Joshikousei", 
+                "id": "Joshikousei"
+            }, 
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Makoto from The Girl Who Leapt Through Time, who is quite a tomboy but still manages to be girlishly charming in her own right.", 
+                "id": "OneOfTheBoys"
+            }, 
+            {
+                "adjectives": [
+                    "girlish"
+                ], 
+                "role": "Tomboy: Makoto. Big time. She still has a very girlish charm though, especially with respect to Chiaki.", 
+                "id": "Tomboy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0808506", 
+    "poster_url": "TheGirlWhoLeaptThroughTime.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Tomboy", 
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 2, 
+            "id": "Tomboy", 
+            "name": "Tomboy", 
+            "poster_url": "Tomboy.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 2, 
+            "id": "LittleGiants", 
+            "name": "Little Giants", 
+            "poster_url": "LittleGiants.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 2, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "TroubledButCute"
+            ], 
+            "shared_count": 2, 
+            "id": "StepUp", 
+            "name": "Step Up", 
+            "poster_url": "StepUp.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "TroubledButCute"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAviator", 
+            "name": "The Aviator", 
+            "poster_url": "TheAviator.jpg"
+        }
+    ], 
+    "id": "TheGirlWhoLeaptThroughTime", 
+    "name": "The Girl Who Leapt Through Time"
+}

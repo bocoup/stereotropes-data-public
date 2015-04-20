@@ -1,0 +1,84 @@
+{
+    "plot": "Set in the kingdom of Ehb, the story follows Farmer (Jason Statham), who was adopted by his village. When Farmer's wife, Solana (Claire Forlani), and his son leave to sell vegetables at the town of Stonebridge, Farmer's farm is attacked by creatures called Krugs. With the help of his friend and neighbor Norrick (Ron Perlman), he travels to Stonebridge where his wife and son are. Before he arrives, the Krugs, controlled by the wizard Gallian (Ray Liotta), kill his son and capture his wife. Farmer, with the help of Bastian (Will Sanderson), his brother-in-law, and Norrick sets out to find and rescue his wife. The King's nephew Fallow (Matthew Lillard) is conspiring with the wizard Gallian to take over the kingdom led by King Konreid ('Burt Reynolds').", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Norrick and King Konreid.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "benevolent"
+                ], 
+                "role": "The Good King: Konreid is pretty benevolent and appears to know a lot about his land and the lives of his people. He also doesn't shy away from leading his soldiers into battle.", 
+                "id": "TheGoodKing"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Subverted. Muriella puts on armor and grabs a sword to go help her king fight... and does absolutely nothing for the rest of the film except providing a distraction at the end.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0460780", 
+    "poster_url": "InTheNameOfTheKing.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheGoodKing", 
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheSwordInTheStone", 
+            "name": "The Sword in the Stone", 
+            "poster_url": "TheSwordInTheStone.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheGoodKing", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "TheGoodKing", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "InTheNameOfTheKing", 
+    "name": "In The Name Of The King"
+}

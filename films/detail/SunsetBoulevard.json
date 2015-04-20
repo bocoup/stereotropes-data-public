@@ -1,0 +1,163 @@
+{
+    "plot": "Sunset Boulevard is the attempt to simultaneously picture the two big, contradictory myths of U.S. America: the myth of unlimited individualism (\"lonesome rider\"), and the myth of the \"melting pot\". All kinds of people are all in the same way, mostly alone, caught in their cars, which also remind us of similar box-like containers such as houses, offices, factories, etc.", 
+    "genres": "Short", 
+    "release_year": "1991", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "due", 
+                    "melodramatic"
+                ], 
+                "role": "Clingy Jealous Girl: Norma \u2014 suffocatingly so \u2014 due in part to her melodramatic star persona.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Norma Desmond from Sunset Boulevard. As Joe is walking out on her, she comments desperately, \"No one leaves a star. That's what makes one a star.\" Then she shoots him.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Hello, Nurse!: Norma, at least in her own head. She's a movie star, after all.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Hello Nurse: Norma, at least in her own head. She's a movie star, after all.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [
+                    "manic", 
+                    "kooky", 
+                    "straight"
+                ], 
+                "role": "Norma supplies manic to spare. Heck, she's kooky, shakes up our boring protagonist's life, and is by all means not all there \u2014 Norma is a totally straight Manic Pixie Dream Girl.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "all-time", 
+                    "dark", 
+                    "eccentric", 
+                    "shaky", 
+                    "luxurious"
+                ], 
+                "role": "One of the all-time classics of Hollywood is an extremely dark but one hundred percent straight use of this trope, in which an eccentric, aging beauty queen, whose grip on reality is shaky, takes over the protagonist's life, using money and her luxurious life to tighten her hold on him. The character is Norma Desmond; the film is Sunset Boulevard.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "manic", 
+                    "kooky", 
+                    "straight"
+                ], 
+                "role": "Norma supplies manic to spare. Heck, she's kooky, shakes up our boring protagonists' life, and is by all means not all there \u2014 Norma is a totally straight Manic Pixie Dream Girl.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Variant tragic version: Sunset Boulevard has down-and-out writer Joe Gillis working for aging star Norma Desmond.", 
+                "id": "MistressAndServantBoy"
+            }, 
+            {
+                "adjectives": [
+                    "Na\u00efve", 
+                    "jealous"
+                ], 
+                "role": "Na\u00efve Everygirl: Betty, at least in the estimation of a jealous Norma. Betty, for her part, insists she isn't.", 
+                "id": "NaiveEverygirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ingenue: Betty exemplifies the trope (without being cloying). Norma used to and, tragically, still thinks she does.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "musical"
+                ], 
+                "role": "Norma Desmond again in the Broadway musical version of Sunset Boulevard", 
+                "id": "WhiteDwarfStarlet"
+            }, 
+            {
+                "adjectives": [
+                    "White-Dwarf", 
+                    "ultimate"
+                ], 
+                "role": "White-Dwarf Starlet: Norma Desmond is probably the ultimate example. She also supplies the page image.", 
+                "id": "WhiteDwarfStarlet"
+            }, 
+            {
+                "adjectives": [
+                    "ultimate"
+                ], 
+                "role": "White Dwarf Starlet: Norma Desmond is probably the ultimate example. She also supplies the page image.", 
+                "id": "WhiteDwarfStarlet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0158253", 
+    "similar": [
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "TheIngenue", 
+                "NaiveEverygirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "NaiveEverygirl", 
+                "HelloNurse", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "WhiteDwarfStarlet"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "SunsetBoulevard", 
+    "name": "Sunset Boulevard"
+}

@@ -1,0 +1,78 @@
+{
+    "plot": "In occupied Poland during WWII, a troupe of ham stage actors (led by Joseph Tura and his wife Maria) match wits with the Nazis. A spy has information which would be very damaging to the Polish resistance and they must prevent it's being delivered to the Germans.", 
+    "genres": "Comedy, War", 
+    "release_year": "1942", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil:  Siletsky. Even noted by Maria Tura.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In To Be or Not to Be, The Mole Siletsky has one. Even noted by one of the characters.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Camp Gay: Anna's dresser Sasha is a gay man; he is forced to wear a pink triangle, and later arrested for transportation to a concentration camp.", 
+                "id": "CampGay"
+            }
+        ]
+    }, 
+    "imdbid": "tt0035446", 
+    "poster_url": "ToBeOrNotToBe.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Blacula", 
+            "name": "Blacula", 
+            "poster_url": "Blacula.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBoysInTheBand", 
+            "name": "The Boys in the Band", 
+            "poster_url": "TheBoysInTheBand.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "ILoveYouPhillipMorris", 
+            "name": "I Love You Phillip Morris", 
+            "poster_url": "ILoveYouPhillipMorris.jpg"
+        }
+    ], 
+    "id": "ToBeOrNotToBe", 
+    "name": "To Be or Not to Be"
+}

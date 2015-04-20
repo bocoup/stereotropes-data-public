@@ -1,0 +1,103 @@
+{
+    "plot": "A troupe of struggling stage actors is rehearsing for a small-town production of a play. Everything seems to be as it should until one of the cast members turns up dead. In a panic, the others try to get out, only to find they are now locked in the theater with the killer! Which one of them committed the murder, and who will get out alive?", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Brett.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Ferrari, according to the cast.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable"
+                ], 
+                "role": "Disposable Sex Worker: Alicia's character.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Alicia", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hysterical"
+                ], 
+                "role": "Hysterical Woman: Sybil after Corinne's death.", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092576", 
+    "similar": [
+        {
+            "shared": [
+                "HystericalWoman", 
+                "ScreamingWoman", 
+                "CampGay"
+            ], 
+            "shared_count": 3, 
+            "id": "BrideOfFrankenstein", 
+            "name": "Bride of Frankenstein"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman", 
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Alien", 
+            "name": "Alien", 
+            "poster_url": "Alien.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "DirtyOldMan", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BuffyTheVampireSlayer", 
+            "name": "Buffy the Vampire Slayer"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "They", 
+            "name": "They", 
+            "poster_url": "They.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "StageFrightAquarius", 
+    "name": "StageFright -Aquarius-"
+}

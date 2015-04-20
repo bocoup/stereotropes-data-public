@@ -1,0 +1,110 @@
+{
+    "plot": "The arch-villains of the United Underworld - the Joker, the Penguin, the Riddler and the Catwoman - combine forces to dispose of Batman and Robin as they launch their fantastic plot to control the entire world. From his submarine, Penguin and his cohorts hijack a yacht containing a dehydrator, which can extract all moisture from humans and reduce them to particles of dust. The evildoers turn the nine Security Council members in the United World Building into nine vials of multicolored crystals! Batman and Robin track the villains in their Batboat and use Batcharge missiles to force the submarine to surface.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1966", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Battle Butler: Alfred gets to drive the Batmobile and wear a mask. While making sure his driver's license is safely in his front pocket, of course.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "reluctant", 
+                    "'Miss"
+                ], 
+                "role": "Dirty Old Man: Alfred seemed very, umm, reluctant to turn off the Bat-surveillance when Bruce was macking of 'Miss Kitka'.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "Quintessential", 
+                    "British"
+                ], 
+                "role": "Quintessential British Gentleman: Commodore Schmidlap, always waiting on his Spot of Tea. Another represents the United Kingdom at the United World Security Council. He even says \"pip pip!\"", 
+                "id": "QuintessentialBritishGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "suspicious", 
+                    "several"
+                ], 
+                "role": "In the Batman movie (the based on the tv show one from the 1960s), a belly dancer rises out a suspicious package and does the \"dance of the seven veils\" to distract several soldiers while she gasses them.", 
+                "id": "BellyDancer"
+            }, 
+            {
+                "adjectives": [
+                    "sneak", 
+                    "climactic", 
+                    "boat", 
+                    "possible"
+                ], 
+                "role": "Faux Action Girl: Catwoman can plan and scheme with the best of them, but when it comes to actually fighting Batman, she'd just as soon sit this one out. She does sneak up on him during the climactic fight scene and shove him off the boat, though.. Fridge Brilliance: Catwoman has always been shown to be attracted to the Caped Crusader. It's possible that this is why she doesn't fight him.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Ms. Kitka/Catwoman.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0060153", 
+    "poster_url": "BatmanTheMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DirtyOldMan", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "BatmanTheMovie", 
+    "name": "Batman: The Movie"
+}

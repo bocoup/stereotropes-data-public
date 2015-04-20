@@ -1,0 +1,90 @@
+{
+    "plot": "Inspired by actual events, a group of fame-obsessed teenagers use the internet to track celebrities' whereabouts in order to rob their homes.", 
+    "genres": "Biography, Crime, Drama", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "only", 
+                    "male"
+                ], 
+                "role": "The One Guy: Marc is this in the group of four girls. Also Orlando Bloom is the only male celebrity that gets robbed.", 
+                "id": "TheOneGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hard-Drinking"
+                ], 
+                "role": "Hard-Drinking Party Girl: All the girls, except maybe Rebecca qualify.", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "brief", 
+                    "screen-capped", 
+                    "anti-gifs", 
+                    "next"
+                ], 
+                "role": "Ms. Fanservice: Nicki. Especially given the fact she's played by Emma Watson, working against type. A very brief scene in which she dances in a sexy fashion in a nightclub and licks her lips, taken from the trailer, was extensively screen-capped and made into anti-gifs in the months prior to the film's release. (However, see the next item.)", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt2132285", 
+    "poster_url": "TheBlingRing.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "DrinkingBuddies", 
+            "name": "Drinking Buddies", 
+            "poster_url": "DrinkingBuddies.jpg"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "EternalSunshineOfTheSpotlessMind", 
+            "name": "Eternal Sunshine of the Spotless Mind", 
+            "poster_url": "EternalSunshineOfTheSpotlessMind.jpg"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWayWayBack", 
+            "name": "The Way Way Back", 
+            "poster_url": "TheWayWayBack.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "TheBlingRing", 
+    "name": "The Bling Ring"
+}

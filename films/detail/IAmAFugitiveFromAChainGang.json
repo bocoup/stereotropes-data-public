@@ -1,0 +1,83 @@
+{
+    "plot": "Having returned from fighting in World War I, James Allen doesn't want to settle into a humdrum life and decides to set off to find his fortune. He travels the length and breadth of America, working as a skilled tradesman in the construction industry. When times get tough however, he finds himself living in a shelter where an acquaintance suggests they go out for a hamburger. What the friend really has in mind is to rob the diner and Allen soon finds himself working on a chain gang with a long jail sentence. Allen manages to escape however and heads to Chicago where over several years he slowly but surely works his way up the ladder to become one of the most respected construction engineers in the city. His past catches up with him and despite protestations from civic leaders and his many friends in Chicago, he finds himself again on the chain gang. Escaping for a second time, he accepts that to survive, he must lead a life of crime.", 
+    "genres": "Crime, Drama, Film-Noir", 
+    "release_year": "1932", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "good", 
+                    "first", 
+                    "initial"
+                ], 
+                "role": "Hooker with a Heart of Gold: Linda takes good care of James on his first night after his initial escape.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Marie Woods.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0023042", 
+    "poster_url": "IAmAFugitiveFromAChainGang.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "Pusher", 
+            "name": "Pusher"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Arthur", 
+            "name": "Arthur", 
+            "poster_url": "Arthur.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SheDevil", 
+            "name": "She Devil"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Flashdance", 
+            "name": "Flashdance", 
+            "poster_url": "Flashdance.jpg"
+        }
+    ], 
+    "id": "IAmAFugitiveFromAChainGang", 
+    "name": "I Am a Fugitive from a Chain Gang"
+}

@@ -1,0 +1,71 @@
+{
+    "plot": "Disc jockey Dave Garver attracts the amorous attentions of a demented fan named Evelyn Draper. Evelyn lets Dave pick her up at a bar; later at her apartment Evelyn admits that she is the cooing caller who repeatedly asks Dave to play the Erroll Garner classic \"Misty.\" From then on, the film is a lesson in how one casual date can turn your whole life around. Evelyn stalks Dave everywhere, ruins his business lunch, assaults his maid, mutilates his house and all of his belongings, and finally threatens to butcher his girlfriend Tobie Williams. You'll never be able to hear that song again without looking over your shoulder.", 
+    "genres": "Thriller", 
+    "release_year": "1971", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Tobie's artist friend Jay Jay.", 
+                "id": "CampGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Evelyn Draper from Play Misty for Me combines this with Stalker with a Crush.", 
+                "id": "ClingyJealousGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0067588", 
+    "poster_url": "PlayMistyForMe.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ClingyJealousGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBoysInTheBand", 
+            "name": "The Boys in the Band", 
+            "poster_url": "TheBoysInTheBand.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "ILoveYouPhillipMorris", 
+            "name": "I Love You Phillip Morris", 
+            "poster_url": "ILoveYouPhillipMorris.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AMidsummerNightsDream", 
+            "name": "A Midsummer Night's Dream"
+        }
+    ], 
+    "id": "PlayMistyForMe", 
+    "name": "Play Misty for Me"
+}

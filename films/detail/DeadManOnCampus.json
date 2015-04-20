@@ -1,0 +1,75 @@
+{
+    "plot": "Two college roommates go out and party, resulting in bad grades. They learn of the \"if your roommate dies, you get an A\" clause, and decide to find someone who is \"on the verge\" so to speak to move in with them.", 
+    "genres": "Comedy", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "actual", 
+                    "academic"
+                ], 
+                "role": "The Slacker: Cooper again. The plot basically revolves around his plan to pass the year without doing any actual (academic) work.", 
+                "id": "TheSlacker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Catholic School Girls Rule: Kyle seems to think so.", 
+                "id": "CatholicSchoolGirlsRule"
+            }
+        ]
+    }, 
+    "imdbid": "tt0118301", 
+    "poster_url": "DeadManOnCampus.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RedHill", 
+            "name": "Red Hill", 
+            "poster_url": "RedHill.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 1, 
+            "id": "BoyzNTheHood", 
+            "name": "Boyz n the Hood", 
+            "poster_url": "BoyzNTheHood.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "MainHoonNa", 
+            "name": "Main Hoon Na", 
+            "poster_url": "MainHoonNa.jpg"
+        }
+    ], 
+    "id": "DeadManOnCampus", 
+    "name": "Dead Man On Campus"
+}

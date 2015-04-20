@@ -1,0 +1,105 @@
+{
+    "plot": "Bill Gambini and Stanley Rothenstein are two friends from New York University who just received scholarships to UCLA. They decide to drive through the South. Once they arrive in Alabama, they stop at a local convenience store to pick up a few snacks. But, no sooner than they leave the store, they are arrested. They had thought that they were arrested for shoplifting, but they were arrested for murder and robbery. Worse, they are facing execution for this crime. Bill and Stan do not have enough money for a lawyer, so the good news is that Bill has a lawyer in his family, his cousin, Vincent Laguardia Gambini. The bad news is that Vinny is an inexperienced lawyer who has not been at a trial. So, Vinny has to defend his clients and battle an uncompromising judge, some tough locals, and even his fianc\u00e9e, Mona Lisa Vito, who just does not know when to shut up, to prove his clients' innocence. But he will soon realize that he is going to need help.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "legal"
+                ], 
+                "role": "Corrupt Hick: All of the New Yorkers assume that they'll be treated unfairly because they're not Good Ol Boys, but their arrest was a genuine misunderstanding, not malice. Ultimately they're treated fairly by the legal system.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "Discussed", 
+                    "good", 
+                    "trial"
+                ], 
+                "role": "Good Ol' Boy: Discussed by Vinny: \"Hey Stan, you're in Ala-fucking-bama. You come from New York. You killed a good ol' boy. There is no way this is not going to trial!\"", 
+                "id": "GoodOlBoy"
+            }, 
+            {
+                "adjectives": [
+                    "slow", 
+                    "nice", 
+                    "quiet", 
+                    "suspicious"
+                ], 
+                "role": "Most of the Southern officials in My Cousin Vinny. The civilians and the police are a bit dim and slow but otherwise are nice and quiet, while the prosecutor is just doing his job and drops the charges once evidence proving the innocence of the boys comes forth. The judge is a Jerkass, but only because he's suspicious of Vinny's credentials and dislikes his manner in the courtroom, and rightfully so on both counts.", 
+                "id": "GoodOlBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Marisa Tomei as Lisa.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "extensive", 
+                    "crucial", 
+                    "later"
+                ], 
+                "role": "Wrench Wench: Lisa, whose extensive knowledge of automobiles becomes a crucial plot point later in the movie.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104952", 
+    "poster_url": "MyCousinVinny.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "WrenchWench"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "GoodOlBoy", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "EasyRider", 
+            "name": "Easy Rider", 
+            "poster_url": "EasyRider.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }
+    ], 
+    "id": "MyCousinVinny", 
+    "name": "My Cousin Vinny"
+}

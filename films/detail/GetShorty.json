@@ -1,0 +1,69 @@
+{
+    "plot": "Some guys get all the luck, whether they like it or not. Chili Palmer happens to be in Hollywood collecting a gambling debt when he's struck by lightning (not literally). Called a natural for the movie business, he's snagged up by a producer. The rest is history.", 
+    "genres": "Comedy, Crime, Thriller", 
+    "release_year": "1995", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "low-budget", 
+                    "young", 
+                    "late"
+                ], 
+                "role": "Screaming Woman - Karen Flores's claim to fame in Harry's low-budget monster movies when she was a young woman. She reveals that even in her late thirties that she can still belt one out.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113161", 
+    "poster_url": "GetShorty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScreamingWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Lajja", 
+            "name": "Lajja", 
+            "poster_url": "Lajja.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "KingdomOfTheSpiders", 
+            "name": "Kingdom of the Spiders", 
+            "poster_url": "KingdomOfTheSpiders.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Them", 
+            "name": "Them!", 
+            "poster_url": "Them.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "They", 
+            "name": "They", 
+            "poster_url": "They.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "GetShorty", 
+    "name": "Get Shorty"
+}

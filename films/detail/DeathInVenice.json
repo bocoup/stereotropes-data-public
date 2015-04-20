@@ -1,0 +1,73 @@
+{
+    "plot": "In this adaptation of the Thomas Mann novel, avant-garde composer Gustave Aschenbach (loosely based on Gustav Mahler) travels to a Venetian seaside resort in search of repose after a period of artistic and personal stress. But he finds no peace there, for he soon develops a troubling attraction to an adolescent boy, Tadzio, on vacation with his family. The boy embodies an ideal of beauty that Aschenbach has long sought and he becomes infatuated. However, the onset of a deadly pestilence threatens them both physically and represents the corruption that compromises and threatens all ideals.", 
+    "genres": "Drama", 
+    "release_year": "1971", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Pretty Boy: Tadzio", 
+                "id": "PrettyBoy"
+            }, 
+            {
+                "adjectives": [
+                    "good-looking", 
+                    "aristocratic"
+                ], 
+                "role": "Tadzio from Death in Venice is a stunningly good-looking, aristocratic boy of fourteen. An older author becomes obsessed with him because of his divine looks.", 
+                "id": "PrettyBoy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0067445", 
+    "poster_url": "DeathInVenice.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrettyBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PrettyBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "PrettyBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "PrettyBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "VelvetGoldmine", 
+            "name": "Velvet Goldmine", 
+            "poster_url": "VelvetGoldmine.jpg"
+        }, 
+        {
+            "shared": [
+                "PrettyBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodMenInTights", 
+            "name": "Robin Hood: Men in Tights", 
+            "poster_url": "RobinHoodMenInTights.jpg"
+        }
+    ], 
+    "id": "DeathInVenice", 
+    "name": "Death In Venice"
+}

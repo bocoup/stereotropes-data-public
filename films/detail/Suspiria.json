@@ -1,0 +1,73 @@
+{
+    "plot": "In a stormy night, the American dancer Suzy Bannion arrives in Freiburg coming from New York to join a famous and expensive ballet school for a three years training. On the next morning, she is informed by the direction of the school that a student she met leaving the place on the previous night was violently murdered and the police is investigating the crime. She becomes friend of another student, Sara, and she realizes that the house is indeed a coven of evil witches.", 
+    "genres": "Horror, Mystery", 
+    "release_year": "1977", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Suzy.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "ancient"
+                ], 
+                "role": "Wicked Witch:  Helena Markos, the Big Bad, she's ancient, she cackles, and curses people.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0076786", 
+    "poster_url": "Suspiria.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "NineDead", 
+            "name": "Nine Dead", 
+            "poster_url": "NineDead.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "FridayThe13thPartVANewBeginning", 
+            "name": "Friday the 13th Part V: A New Beginning"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGrey", 
+            "name": "The Grey", 
+            "poster_url": "TheGrey.jpg"
+        }
+    ], 
+    "id": "Suspiria", 
+    "name": "Suspiria"
+}

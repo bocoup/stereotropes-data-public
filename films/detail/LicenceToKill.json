@@ -1,0 +1,123 @@
+{
+    "plot": "James Bond is on possibly his most brutal mission yet. Bond's good friend, Felix Leiter, is left near death, by drug baron Franz Sanchez. Bond sets off on the hunt for Sanchez, but not everyone is happy. MI6 does not feel Sanchez is their problem and strips Bond of his license to kill making Bond more dangerous than ever. Bond gains the aid of one of Leiter's friends, known as Pam Bouvier and sneaks his way into the drug factories, which Sanchez owns. Will Bond be able to keep his identity secret, or will Sanchez see Bond's true intentions?", 
+    "genres": "Action, Adventure, Crime", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "federal"
+                ], 
+                "role": "Ed Kilifer in Licence to Kill. He is a DEA agent who accepts a $2 million dollar bribe to spring drug lord Sanchez from federal custody.", 
+                "id": "LawmanGoneBad"
+            }, 
+            {
+                "adjectives": [
+                    "federal"
+                ], 
+                "role": "Lawman Gone Bad: Ed Kilifer, a DEA agent who accepts a $2 million dollar bribe to spring drug lord Sanchez from federal custody.", 
+                "id": "LawmanGoneBad"
+            }, 
+            {
+                "adjectives": [
+                    "Punch"
+                ], 
+                "role": "Licence to Kill, Hector Lopez. He is portrayed as more Punch Clock Villain than dictator, as his country is effectively a puppet of The Syndicate.", 
+                "id": "TheGeneralissimo"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Generalissimo: Hector Lopez.", 
+                "id": "TheGeneralissimo"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "Action Girl: Pam Bouvier is arguably the best example of the series. Other than the Bimini Bar Brawl (in which Bond really only provided the getaway vehicle), she never really needs to be saved by Bond. In fact, she saves him a few times.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pam Bouvier in Licence to Kill is a pilot for the U.S. Army.", 
+                "id": "BikerBabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Della Churchill, loving wife of Felix Leiter, is killed less than twenty minutes into Licence to Kill and Leiter himself fed to a shark. Bond decides It's Personal.\n And then Leiter survives and doesn't seem too fazed by the death of wife.", 
+                "id": "DisposableWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gladys Knight in the music video of Licence To Kill wears a tux.", 
+                "id": "HotChickInABadassSuit"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Neutral Female: Lupe.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097742", 
+    "poster_url": "LicenceToKill.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "HotChickInABadassSuit", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman", 
+                "HotChickInABadassSuit", 
+                "LawmanGoneBad"
+            ], 
+            "shared_count": 3, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DisposableWoman", 
+                "TheGeneralissimo"
+            ], 
+            "shared_count": 3, 
+            "id": "QuantumOfSolace", 
+            "name": "Quantum of Solace", 
+            "poster_url": "QuantumOfSolace.jpg"
+        }, 
+        {
+            "shared": [
+                "HotChickInABadassSuit", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "BikerBabe"
+            ], 
+            "shared_count": 2, 
+            "id": "SkyCaptainAndTheWorldOfTomorrow", 
+            "name": "Sky Captain and the World of Tomorrow", 
+            "poster_url": "SkyCaptainAndTheWorldOfTomorrow.jpg"
+        }
+    ], 
+    "id": "LicenceToKill", 
+    "name": "Licence to Kill"
+}

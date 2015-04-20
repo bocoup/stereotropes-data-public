@@ -1,0 +1,87 @@
+{
+    "plot": "Three clueless high school nerds, best friends for years, call themselves the \"Mystery Team\" and solve neighborhood crimes - such as who poked a finger in a pie cooling on a window ledge - cute at seven but foolish at 18. Then, one morning, a young girl pays them a dime to find out who murdered her parents the night before and took her grandmother's ring. Using inept methods, the team lucks onto the trail of the bad guys. Can they bumble to success and a renewed reputation? And what about coming of age?", 
+    "genres": "Comedy, Crime, Mystery", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "In Mystery Team, Duncan and Charlie don't like the amount of attention Jason pays Kelly.", 
+                "id": "CrazyJealousGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The gentleman's club scene in Mystery Team... right up to the point where it dives into Fan Disservice.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "More like missing foster mom, but we never actually see Robert's wife in Mystery Team.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wicked stepfather in Mystery Team.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt1237838", 
+    "poster_url": "MysteryTeam.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WickedStepmother", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePiano", 
+            "name": "The Piano", 
+            "poster_url": "ThePiano.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "EllaEnchanted", 
+            "name": "Ella Enchanted", 
+            "poster_url": "EllaEnchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }
+    ], 
+    "id": "MysteryTeam", 
+    "name": "Mystery Team"
+}

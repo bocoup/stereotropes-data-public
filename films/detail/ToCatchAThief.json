@@ -1,0 +1,75 @@
+{
+    "plot": "American expatriate John Robie living in high style on the Riviera is a retired cat burglar. He must find out who a copy cat is to keep a new wave of jewel thefts from being pinned on him. High on list of prime victims is Jessie Stevens, in Europe to help daughter Frances find a suitable husband. Lloyds of London insurance agent is using a thief to catch a thief. Take an especially close look at scene where Robie gets Jessie's attention, dropping an expensive casino chip down decolletage of French roulette player.", 
+    "genres": "Mystery, Romance, Thriller", 
+    "release_year": "1955", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gentleman Thief: John Robie.", 
+                "id": "GentlemanThief"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "real"
+                ], 
+                "role": "Classy Cat Burglar: The real thief, Danielle Foussard, a daughter of one of Robie's Resistance colleagues.", 
+                "id": "ClassyCatBurglar"
+            }
+        ]
+    }, 
+    "imdbid": "tt0048728", 
+    "poster_url": "ToCatchAThief.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GentlemanThief", 
+                "ClassyCatBurglar"
+            ], 
+            "shared_count": 2, 
+            "id": "Entrapment", 
+            "name": "Entrapment", 
+            "poster_url": "Entrapment.jpg"
+        }, 
+        {
+            "shared": [
+                "GentlemanThief"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }, 
+        {
+            "shared": [
+                "ClassyCatBurglar"
+            ], 
+            "shared_count": 1, 
+            "id": "ACatInParis", 
+            "name": "A Cat in Paris", 
+            "poster_url": "ACatInParis.jpg"
+        }, 
+        {
+            "shared": [
+                "GentlemanThief"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScore", 
+            "name": "The Score", 
+            "poster_url": "TheScore.jpg"
+        }, 
+        {
+            "shared": [
+                "GentlemanThief"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGreatMuppetCaper", 
+            "name": "The Great Muppet Caper", 
+            "poster_url": "TheGreatMuppetCaper.jpg"
+        }
+    ], 
+    "id": "ToCatchAThief", 
+    "name": "To Catch A Thief"
+}

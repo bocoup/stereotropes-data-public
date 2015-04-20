@@ -1,0 +1,100 @@
+{
+    "plot": "Bridget Gregory has a lot going for her: she's beautiful, she's intelligent, she's married to a doctor. But all of this isn't enough, as her husband Clay finds out. After she persuaded him to sell medicinal cocaine to some drugdealers, she takes off with the money, almost a million dollars, and goes undercover in a mid-American smalltown. Because Clay has to pay off a loan shark who'll otherwise damage him severely, he keeps sending detectives after her, trying to retrieve the money. When Bridget meets Mike Swale, a naive local who is blinded by her beauty and directness, she devises an elaborate, almost diabolical scheme to get rid of Clay once and for all.", 
+    "genres": "Crime, Thriller, Drama", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "high"
+                ], 
+                "role": "Cultured Badass: Bridget has a high powered job, is well qualified and is mentioned to enjoy the theatre.", 
+                "id": "CulturedBadass"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: A Deconstructed Character Archetype with Bridget. See above.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "Last"
+                ], 
+                "role": "Bridget in The Last Seduction (1994).", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Bridget, for sure.", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [
+                    "favorite"
+                ], 
+                "role": "Woman in Black: Bridgets favorite color.", 
+                "id": "WomanInBlack"
+            }
+        ]
+    }, 
+    "imdbid": "tt0110308", 
+    "poster_url": "TheLastSeduction.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CulturedBadass", 
+                "TheVamp", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "TheVamp", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "CulturedBadass", 
+                "TheVamp"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "CulturedBadass", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "Inception", 
+            "name": "Inception", 
+            "poster_url": "Inception.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }
+    ], 
+    "id": "TheLastSeduction", 
+    "name": "The Last Seduction"
+}

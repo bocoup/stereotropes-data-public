@@ -1,0 +1,105 @@
+{
+    "plot": "In World War II Casablanca, Rick Blaine, exiled American and former freedom fighter, runs the most popular nightspot in town. The cynical lone wolf Blaine comes into the possession of two valuable letters of transit. When Nazi Major Strasser arrives in Casablanca, the sycophantic police Captain Renault does what he can to please him, including detaining a Czechoslovak underground leader Victor Laszlo. Much to Rick's surprise, Lazslo arrives with Ilsa, Rick's one time love. Rick is very bitter towards Ilsa, who ran out on him in Paris, but when he learns she had good reason to, they plan to run off together again using the letters of transit. Well, that was their original plan....", 
+    "genres": "Drama, Romance, War", 
+    "release_year": "1942", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Signor Ferrari in Casablanca has a lot in common with this character.", 
+                "id": "FatSweatySouthernerInAWhiteSuit"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Gaussian"
+                ], 
+                "role": "Gaussian Girl: Ingrid Bergman is not shown in focus at any point in the film.", 
+                "id": "GaussianGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ingrid Bergman as Ilsa Lund in Casablanca.", 
+                "id": "GaussianGirl"
+            }, 
+            {
+                "adjectives": [
+                    "female", 
+                    "singer-guitarist"
+                ], 
+                "role": "Rick's Cafe has a female singer-guitarist in Casablanca.", 
+                "id": "GlamorousWartimeSinger"
+            }, 
+            {
+                "adjectives": [
+                    "big"
+                ], 
+                "role": "Hello, Nurse!: Ilsa. According to Rick, Victor, and Louis, anyway. And a pretty big slice of the audience, both then and now; Ilsa is played by Ingrid Bergman, after all.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [
+                    "important", 
+                    "favorite", 
+                    "successful"
+                ], 
+                "role": "Lady of War: Ingrid Bergman seems to be a Distressed Damsel trying to be a Lady of War. More important, what she really is, is every soldier's favorite princess. Which might make this a successful attempt at inspiring the World War II version of Courtly Love from fans.", 
+                "id": "LadyOfWar"
+            }
+        ]
+    }, 
+    "imdbid": "tt0034583", 
+    "poster_url": "Casablanca.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "RedHotRidingHood", 
+            "name": "Red Hot Riding Hood"
+        }, 
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRoadToWellville", 
+            "name": "The Road To Wellville", 
+            "poster_url": "TheRoadToWellville.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyOfWar", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }, 
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "GaussianGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }
+    ], 
+    "id": "Casablanca", 
+    "name": "Casablanca"
+}

@@ -1,0 +1,113 @@
+{
+    "plot": "A double-bill of thrillers that recall both filmmakers' favorite exploitation films. \"Grindhouse\" (a downtown movie theater in disrepair since its glory days as a movie palace known for \"grinding out\" non-stop double-bill programs of B-movies) is presented as one full-length feature comprised of two individual films helmed separately by each director. \"Death Proof,\" is a rip-roaring slasher flick where the killer pursues his victims with a car rather than a knife, while \"Planet Terror\" shows us a view of the world in the midst of a zombie outbreak. The films are joined together by clever faux trailers that recall the '50s exploitation drive-in classics.", 
+    "genres": "Action, Horror, Thriller", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "such"
+                ], 
+                "role": "Dirty Coward: The owner of the go-go dancing club.  Stuntman Mike proves himself to little more than a bully, and as such a coward.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Glamorous"
+                ], 
+                "role": "Glamorous Wartime Singer: In the Werewolf Women of the SS trailer.", 
+                "id": "GlamorousWartimeSinger"
+            }, 
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Ms. Fanservice - Pretty much every female character.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Abernathy and Kim from the latter part of Grindhouse: Death Proof qualify, Kim more than Abernathy. And Jungle Julia.", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Baroness: Werewolf Women of the SS", 
+                "id": "TheBaroness"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Werewolf Women of the SS.", 
+                "id": "TheBaroness"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "From the other part of Grind House, Tarantino's Death Proof, Zoe and Kim are that, since they are stuntwomen.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt0462322", 
+    "poster_url": "Grindhouse.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheBaroness", 
+                "GlamorousWartimeSinger", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "MsFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "SassyBlackWoman", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "WrenchWench", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "MsFanservice", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "AustinPowers", 
+            "name": "Austin Powers", 
+            "poster_url": "AustinPowers.jpg"
+        }
+    ], 
+    "id": "Grindhouse", 
+    "name": "Grindhouse"
+}

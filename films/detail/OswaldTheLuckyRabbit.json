@@ -1,0 +1,85 @@
+{
+    "plot": "N/A", 
+    "genres": "Animation, Short", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dastardly Whiplash: The villain of Towne Hall Follies.", 
+                "id": "DastardlyWhiplash"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "close-up"
+                ], 
+                "role": "In \"Beau Best\", we are treated to a very unsightly close-up of the Harem girl that Oswald rescued.", 
+                "id": "ButterFace"
+            }, 
+            {
+                "adjectives": [
+                    "Egyptian", 
+                    "standard", 
+                    "semi-realistic"
+                ], 
+                "role": "Ms. Fanservice: The Egyptian queen Oswald meets in Africa. Strangely, when she runs after Oswald, her body turns into standard Rubber Hose Limbs, probably because it would have been too hard to animate her semi-realistic figure.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt3502824", 
+    "similar": [
+        {
+            "shared": [
+                "ButterFace", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DastardlyWhiplash"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGreatRace", 
+            "name": "The Great Race", 
+            "poster_url": "TheGreatRace.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DastardlyWhiplash"
+            ], 
+            "shared_count": 2, 
+            "id": "BettyBoop", 
+            "name": "Betty Boop"
+        }, 
+        {
+            "shared": [
+                "ButterFace", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Lucifer", 
+            "name": "Lucifer"
+        }, 
+        {
+            "shared": [
+                "ButterFace", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBeastmaster", 
+            "name": "The Beastmaster", 
+            "poster_url": "TheBeastmaster.jpg"
+        }
+    ], 
+    "id": "OswaldTheLuckyRabbit", 
+    "name": "Oswald the Lucky Rabbit"
+}

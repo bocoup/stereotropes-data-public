@@ -1,0 +1,95 @@
+{
+    "plot": "It's 1949 Los Angeles, and gangster Mickey Cohen has moved in, with the intention of controlling all criminal activity in the city. He has bought local judges and police, and no one is willing to cross him or testify against him. Everyone except Seargant John O'Mara, a former World War II soldier, whose goal is to settle with his family in a peaceful Los Angeles. Police Chief William Parker decides to form a special unit whose mission is to take down Cohen, and chooses O'Mara to lead the unit. O'Mara chooses 4 cops and asks another cop and vet, Jerry Wooters to join him but Wooters is not interested. But when he witnesses the murder of a young boy by Cohen's people, he joins them, and they decide to take apart Cohen's organization. Cohen wonders if a rival is going after him, but eventually he realizes it's the cops.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Chivalrous"
+                ], 
+                "role": "Chivalrous Pervert: Jerry Wooters.", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [
+                    "Sharp-Dressed", 
+                    "different"
+                ], 
+                "role": "Sharp-Dressed Man: All of the squad members, although it is shown that O'Mara doesn't know how to do his tie up well (seeing as it comes down to different lengths throughout the film).", 
+                "id": "SharpDressedMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Grace.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Lady in Red: Grace first appears in a red evening dress.", 
+                "id": "LadyInRed"
+            }
+        ]
+    }, 
+    "imdbid": "tt1321870", 
+    "poster_url": "GangsterSquad.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "FemmeFatale", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }
+    ], 
+    "id": "GangsterSquad", 
+    "name": "Gangster Squad"
+}

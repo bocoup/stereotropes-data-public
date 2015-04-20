@@ -1,0 +1,96 @@
+{
+    "plot": "The film follows the fortunes of Charles and his friends as they wonder if they will ever find true love and marry. Charles thinks he's found \"Miss Right\" in Carrie, an American. This British subtle comedy revolves around Charlie, his friends and the four weddings and one funeral which they attend.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "obvious"
+                ], 
+                "role": "Matthew from Four Weddings and a Funeral. His partner Gareth is more obvious.", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [
+                    "casual"
+                ], 
+                "role": "The Casanova: Inverted. The one who happens to have done the most sleeping around (and is quite casual about it) is Carrie rather than Charles.", 
+                "id": "TheCasanova"
+            }, 
+            {
+                "adjectives": [
+                    "waistcoat", 
+                    "same", 
+                    "funeral"
+                ], 
+                "role": "Gareth in Four Weddings and a Funeral is always seen wearing a waistcoat (and never the same one either). At his funeral, his boyfriend suggests that \"everyone picture him in [their] favourite waistcoat.\"", 
+                "id": "WaistcoatOfStyle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "lesbian"
+                ], 
+                "role": "Schoolgirl Lesbians: Fiona. \"I was a lesbian once at school, but only for about fifteen minutes.\"", 
+                "id": "SchoolgirlLesbians"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109831", 
+    "poster_url": "FourWeddingsAndAFuneral.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "WaistcoatOfStyle"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "WaistcoatOfStyle"
+            ], 
+            "shared_count": 2, 
+            "id": "Apollo13", 
+            "name": "Apollo 13", 
+            "poster_url": "Apollo13.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "GosfordPark", 
+            "name": "Gosford Park", 
+            "poster_url": "GosfordPark.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheObjectOfMyAffection", 
+            "name": "The Object of My Affection", 
+            "poster_url": "TheObjectOfMyAffection.jpg"
+        }
+    ], 
+    "id": "FourWeddingsAndAFuneral", 
+    "name": "Four Weddings And A Funeral"
+}

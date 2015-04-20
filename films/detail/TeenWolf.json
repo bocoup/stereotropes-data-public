@@ -1,0 +1,81 @@
+{
+    "plot": "Scott McCall was just another kid in high school. Until, one night his best friend Stiles brings him to the woods and Scott is bitten by a werewolf. Being a werewolf came with its perks- stronger, faster, new star in the lacroose team, popularity- but also made it hard to control his anger. Scott has also fallen for the new girl in town, Allison, whose dad is trying to hunt and kill Scott. Scott now has to try and balanve his out of control life, figure out how to control his new powers, try not to be killed by the alpha that bit him, and protect Allison- and keep her from finding out his big secret.", 
+    "genres": "Comedy, Drama, Horror", 
+    "release_year": "2011\u2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Mick.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Harold Howard vs. Vice Principal Thorne.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Boof from Teen Wolf", 
+                "id": "GirlNextDoor"
+            }
+        ]
+    }, 
+    "imdbid": "tt1567432", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "OurTown", 
+            "name": "Our Town", 
+            "poster_url": "OurTown.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAmazingSpiderMan", 
+            "name": "The Amazing Spider-Man", 
+            "poster_url": "TheAmazingSpiderMan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAmazingSpider-Man", 
+            "name": "The Amazing Spider-Man", 
+            "poster_url": "TheAmazingSpider-Man.jpg"
+        }
+    ], 
+    "id": "TeenWolf", 
+    "name": "Teen Wolf"
+}

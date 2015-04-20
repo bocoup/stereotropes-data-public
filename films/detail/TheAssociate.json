@@ -1,0 +1,90 @@
+{
+    "plot": "Laurel Ayres is a businesswoman trying to make it but unfortunately she works at a investment firm where she does all the work but all the senior investors like Frank Peterson grab all the credit. She then leaves and starts her own firm. While trying to find clients Laurel pretends that she has a male partner named Robert Cutty. And when she starts to do well all of her clients wants to meet Cutty which is difficult since he doesn't exist.", 
+    "genres": "Comedy", 
+    "release_year": "1996", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hysterical", 
+                    "important", 
+                    "phony"
+                ], 
+                "role": "Hysterical Woman: Inverted. Laurel uses this trope to her advantage. During a board meeting, everyone refuses to go over an important business plan because Cutty couldn't make it. Laurel has a phony breakdown and the men agree to read the proposal immediately.", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [
+                    "in-universe", 
+                    "further"
+                ], 
+                "role": "Ms. Fanservice: Camille is an in-universe example. She says it herself that men only want to do business with men and they only want to sleep with women. She follows through with those expectations by throwing herself at men who can help further her career.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Office Girl: Sally Dugan.", 
+                "id": "PluckyOfficeGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sweet Polly Oliver: Laurel disguises herself as a man to gain leverage in business.", 
+                "id": "SweetPollyOliver"
+            }
+        ]
+    }, 
+    "imdbid": "tt0115580", 
+    "poster_url": "TheAssociate.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "PluckyOfficeGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 2, 
+            "id": "RedCliff", 
+            "name": "Red Cliff", 
+            "poster_url": "RedCliff.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 2, 
+            "id": "ColorOfNight", 
+            "name": "Color Of Night", 
+            "poster_url": "ColorOfNight.jpg"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Clue", 
+            "name": "Clue", 
+            "poster_url": "Clue.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }
+    ], 
+    "id": "TheAssociate", 
+    "name": "The Associate"
+}

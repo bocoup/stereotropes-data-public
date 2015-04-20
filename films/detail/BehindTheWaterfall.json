@@ -1,0 +1,74 @@
+{
+    "plot": "After Tommy's fathers recent death in an airplane crash , he and his sister are sent to live in the small town of Erinville. Tommy and his cousin Alex spend the summer trying to prove the town story teller is a leprechaun.", 
+    "genres": "Drama, Fantasy", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Mr. Connors.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Rick towards Sam, despite her snapping at him and breaking up with him for a while.", 
+                "id": "DoggedNiceGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112473", 
+    "poster_url": "BehindTheWaterfall.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Witness", 
+            "name": "Witness", 
+            "poster_url": "Witness.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Imprint", 
+            "name": "Imprint", 
+            "poster_url": "Imprint.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekNemesis", 
+            "name": "Star Trek: Nemesis", 
+            "poster_url": "StarTrekNemesis.jpg"
+        }
+    ], 
+    "id": "BehindTheWaterfall", 
+    "name": "Behind the Waterfall"
+}

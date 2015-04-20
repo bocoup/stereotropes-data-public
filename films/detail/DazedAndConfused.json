@@ -1,0 +1,80 @@
+{
+    "plot": "It's the last day of school at a high school in a small town in Texas in 1976. The upperclassmen are hazing the incoming freshmen, and everyone is trying to get stoned, drunk, or laid, even the football players that signed a pledge not to.", 
+    "genres": "Comedy", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "male", 
+                    "notable", 
+                    "sadistic"
+                ], 
+                "role": "Jerk Jock: O'Bannion. All the male hazing seniors are this to a lesser degree, except Pink. O'Bannion is notable for being the most sadistic, and unlike the others, he does not accept the younger kids once the initiation is through.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Head cheerleader Darla.", 
+                "id": "AlphaBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0106677", 
+    "poster_url": "DazedAndConfused.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRageCarrie2", 
+            "name": "The Rage: Carrie 2"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Detention", 
+            "name": "Detention", 
+            "poster_url": "Detention.jpg"
+        }
+    ], 
+    "id": "DazedAndConfused", 
+    "name": "Dazed and Confused"
+}

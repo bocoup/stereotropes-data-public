@@ -1,0 +1,79 @@
+{
+    "plot": "Climb aboard the double decker Spice Bus and get ready for a madcap musical adventure with the sexy phenomenons of pop - the Spice Girls. An encounter with extra-terrestrials, a night in a haunted castle, and a moment of truth in a maternity ward are just a few of the escapades the endeavored upon as the Girls gear up for their first live concert at London's Royal Albert Hall.", 
+    "genres": "Comedy, Family, Music", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty: Mr. Step. Well, kinda. (\"DON'T GIVE ME ANY OF THAT JULIE ANDREWS HILLTOP CLAPTRAP!\")", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Comes up in Spice World during a video shoot involving a lot of buff men.", 
+                "id": "PecFlex"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Posh", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120185", 
+    "poster_url": "SpiceWorld.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenTheLastStand", 
+            "name": "X-Men: The Last Stand", 
+            "poster_url": "XMenTheLastStand.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFaculty", 
+            "name": "The Faculty", 
+            "poster_url": "TheFaculty.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "SpiceWorld", 
+    "name": "Spice World"
+}

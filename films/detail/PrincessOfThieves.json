@@ -1,0 +1,98 @@
+{
+    "plot": "Story of Robin Hood's daughter Gwyn who takes up his role after he is captured by Prince John. King Richard is dead and his son Philip is the rightful heir, but he is in France and too afraid to face John. Can Gwyn find Philip and convince him to fight John and free her father?", 
+    "genres": "Action, Adventure, Family", 
+    "release_year": "2001", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Princess of Thieves", 
+                "id": "OldSchoolChivalry"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "2001's Princess of Thieves has Prince Philip who's head aches just to contemplate a list of king's duties.", 
+                "id": "RebelPrince"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Marian", 
+                    "dead", 
+                    "such"
+                ], 
+                "role": "Marian has been dead for years at the start of Princess of Thieves. Her absence is one of the reasons Gwyn grows up such a tomboy.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "poor"
+                ], 
+                "role": "Robin's daughter, Gwyn in Princess of Thieves will steal a horse fairly but won't take it by the poor reason of her gender.", 
+                "id": "OneOfTheBoys"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Princess of Thieves centers on Robin Hood's daughter, Gwyn, who dresses up as a man to follow her father.", 
+                "id": "SweetPollyOliver"
+            }
+        ]
+    }, 
+    "imdbid": "tt0272790", 
+    "poster_url": "PrincessOfThieves.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SweetPollyOliver", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelPrince", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelPrince", 
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "OneOfTheBoys", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "LittleGiants", 
+            "name": "Little Giants", 
+            "poster_url": "LittleGiants.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelPrince", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }
+    ], 
+    "id": "PrincessOfThieves", 
+    "name": "Princess Of Thieves"
+}

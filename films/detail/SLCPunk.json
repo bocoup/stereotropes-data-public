@@ -1,0 +1,77 @@
+{
+    "plot": "Two punks live in Salt Lake City. The film covers their all-day routine. The realism of the character-narrated movie may be discussed. One of the punks gets ill, stays in hospital for three weeks, comes out again. Three parties are covered and one concert including a fight between punks, rednecks and others.", 
+    "genres": "Comedy, Drama, Music", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Charmer: It's stated that Eddie is a ladies' man.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "insane"
+                ], 
+                "role": "By the end of the movie it seems  Bob has had one as well, since it's gradually revealed that his father was insane and constantly drunk, causing Bob to often run from home, his mother's never even mentioned and he was considered a loser at school. He actually became a punk mostly because he was tired of not having a happy carefree life, like the \"cool kids\" did, and just wanted to enjoy himself.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0133189", 
+    "poster_url": "SLCPunk.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCharmer", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "WashingtonSquare", 
+            "name": "Washington Square", 
+            "poster_url": "WashingtonSquare.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer"
+            ], 
+            "shared_count": 1, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }
+    ], 
+    "id": "SLCPunk", 
+    "name": "SLC Punk!"
+}

@@ -1,0 +1,82 @@
+{
+    "plot": "When LexCorps accidentally unleash a murderous creature, Doomsday, Superman meets his greatest challenge as a champion. Based on the \"The Death of Superman\" storyline that appeared in DC Comics' publications in the 1990s.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "all-white"
+                ], 
+                "role": "Lex Luthor in Superman: Doomsday spends most of the movie in an all-white suit.", 
+                "id": "ManInWhite"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Man in White: Luthor's attire.", 
+                "id": "ManInWhite"
+            }, 
+            {
+                "adjectives": [
+                    "slightly-clad"
+                ], 
+                "role": "Mr. Fanservice: There's a lot of slightly-clad Superman in this movie.", 
+                "id": "MrFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0934706", 
+    "poster_url": "SupermanDoomsday.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MrFanservice", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "KingdomOfHeaven", 
+            "name": "Kingdom of Heaven", 
+            "poster_url": "KingdomOfHeaven.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "LawrenceOfArabia", 
+            "name": "Lawrence of Arabia", 
+            "poster_url": "LawrenceOfArabia.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "SupermanDoomsday", 
+    "name": "Superman: Doomsday"
+}

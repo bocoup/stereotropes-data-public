@@ -1,0 +1,84 @@
+{
+    "plot": "This film follows the 'life' and times of the lead character, an android who is purchased as a household robot programmed to perform menial tasks. Within a few days the Martin family realizes that they don't have an ordinary droid as Andrew begins to experience emotions and creative thought. In a story that spans two centuries, Andrew learns the intricacies of humanity while trying to stop those who created him from destroying him.", 
+    "genres": "Drama, Fantasy, Romance", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "For that matter, Sam Neill's character in Bicentennial Man fits this trope despite the film being set Twenty Minutes into the Future.", 
+                "id": "StandardFiftiesFather"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "cute"
+                ], 
+                "role": "Galatea in Bicentennial Man. She's also so annoying it's actually cute.", 
+                "id": "RobotGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Robot Girl: Galatea.", 
+                "id": "RobotGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girly Girl: Galatea's personality chip.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0182789", 
+    "poster_url": "BicentennialMan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "KuchKuchHotaHai", 
+            "name": "Kuch Kuch Hota Hai", 
+            "poster_url": "KuchKuchHotaHai.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "RobotGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ALeagueOfTheirOwn", 
+            "name": "A League of Their Own", 
+            "poster_url": "ALeagueOfTheirOwn.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }
+    ], 
+    "id": "BicentennialMan", 
+    "name": "Bicentennial Man"
+}

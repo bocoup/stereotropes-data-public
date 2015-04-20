@@ -1,0 +1,78 @@
+{
+    "plot": "Corin Nemec (Mansquito, SS Doomtrooper) co-stars alongside Carpenter as TV ghost hunters that enter a reportedly haunted house that may prove to be the death of them.", 
+    "genres": "Horror", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "attic"
+                ], 
+                "role": "Scary Black Man - The attic.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl - Averted.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1334536", 
+    "poster_url": "HouseOfBones.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Cube", 
+            "name": "Cube", 
+            "poster_url": "Cube.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "DiaryOfTheDead", 
+            "name": "Diary of the Dead", 
+            "poster_url": "DiaryOfTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "KissOfTheSpiderWoman", 
+            "name": "Kiss of the Spider Woman", 
+            "poster_url": "KissOfTheSpiderWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }
+    ], 
+    "id": "HouseOfBones", 
+    "name": "House of Bones"
+}

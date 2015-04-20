@@ -1,0 +1,64 @@
+{
+    "plot": "Turning the zombie film on its head, this film is an oddball comedy from the perspective of the brain munching monsters themselves.", 
+    "genres": "Comedy, Horror", 
+    "release_year": "2007", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Granola Girl: Cindy, which makes her Horror Hunger really shocking to her.", 
+                "id": "GranolaGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1027762", 
+    "similar": [
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "MyGirl", 
+            "name": "My Girl", 
+            "poster_url": "MyGirl.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "BeforeSunrise", 
+            "name": "Before Sunrise", 
+            "poster_url": "BeforeSunrise.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Detention", 
+            "name": "Detention", 
+            "poster_url": "Detention.jpg"
+        }
+    ], 
+    "id": "WastingAway", 
+    "name": "Wasting Away"
+}

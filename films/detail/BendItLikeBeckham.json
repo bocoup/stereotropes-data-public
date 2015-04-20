@@ -1,0 +1,99 @@
+{
+    "plot": "A comedy about bending the rules to reach your goal, Bend It Like Beckham explores the world of women's football, from kick-abouts in the park to freekicks in the Final. Set in Hounslow, West London and Hamburg, the film follows two 18 year olds with their hearts set on a future in professional soccer. Heart-stopping talent doesn't seem to be enough when your parents want you to hang up your football boots, find a nice boyfriend and learn to cook the perfect chapatti.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Jonathan Rhys Meyers as Joe. No wonder all the girls fall over him.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Bratty Teenage Daughter: Despite being the protagonist, Jess comes off as this from time to time. Her sister Pinky is worse.", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Daddy's Girl: Jess's dad is ultimately much more understanding of her than her mother, as is Juliet's.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Lesbian Jock: Jules' mother thinks that her daughter and Jess are this.", 
+                "id": "LesbianJock"
+            }, 
+            {
+                "adjectives": [
+                    "common"
+                ], 
+                "role": "A passion for soccer is the common bond for the girls in Bend It Like Beckham, covering not only the leads, but their teammates and rivals.", 
+                "id": "PassionateSportsGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0286499", 
+    "poster_url": "BendItLikeBeckham.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "MrFanservice", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 3, 
+            "id": "Labyrinth", 
+            "name": "Labyrinth", 
+            "poster_url": "Labyrinth.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieOfSwanLake", 
+            "name": "Barbie of Swan Lake", 
+            "poster_url": "BarbieOfSwanLake.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }
+    ], 
+    "id": "BendItLikeBeckham", 
+    "name": "Bend It Like Beckham"
+}

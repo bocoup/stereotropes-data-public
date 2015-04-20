@@ -1,0 +1,103 @@
+{
+    "plot": "In south Florida, a high school counselor is accused of rape by a manipulative rich girl and her trailer trash classmate. The cop on the case begins to suspect a conspiracy and dives into an elaborate and devious web of greed and betrayal to find the truth.", 
+    "genres": "Crime, Drama, Mystery", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Chick Magnet: Sam.", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [
+                    "Chivalrous", 
+                    "moral", 
+                    "clear", 
+                    "potential"
+                ], 
+                "role": "Chivalrous Pervert: Subverted by Sam. Although it seems like he's upset at Ray killing Kelly on moral grounds, it's clear that he's really only concerned about a potential Spanner in the Works wrecking the plan. He has no compunctions about exploiting Kelly's love for him for sex and money, and intends to frame her for what will probably be a life sentence for Suzie's murder.", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [
+                    "moral", 
+                    "clear", 
+                    "potential"
+                ], 
+                "role": "Subverted by Sam Lombardo in Wild Things. Although it seems like he's upset at Ray killing Kelly on moral grounds, it's clear that he's really only concerned about a potential Spanner in the Works wrecking the plan. He has no compunctions about exploiting Kelly's love for him for sex and money, and intends to frame her for what will probably be a life sentence for Suzie's murder.", 
+                "id": "ChivalrousPervert"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "non-plaid"
+                ], 
+                "role": "Wild Things gives Denise Richard's character a non-plaid variant for the threesome scene. It's not there for long.", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: Invoked. Kelly accuses Sam of rape because he turned her down.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120890", 
+    "poster_url": "WildThings.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChickMagnet", 
+                "WomanScorned", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTenCommandments", 
+            "name": "The Ten Commandments", 
+            "poster_url": "TheTenCommandments.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "GoldenEye", 
+            "name": "GoldenEye", 
+            "poster_url": "GoldenEye.jpg"
+        }
+    ], 
+    "id": "WildThings", 
+    "name": "Wild Things"
+}

@@ -1,0 +1,80 @@
+{
+    "plot": "Reclusive Dr. Zorba has died and left his eerie mansion to his penniless nephew Cyrus Zorba and his family. Along with the house, the Zorba family has also inherited the occultist's collection of 12 ghosts, who can only be seen through Zorba's special goggles. The family members, their lives at risk upon the discovery that Dr. Zorba's fortune lies hidden somewhere in the house, receive aid from unexpected quarters as the threat to their lives is revealed.", 
+    "genres": "Horror", 
+    "release_year": "1960", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded"
+                ], 
+                "role": "Absent-Minded Professor: Cyrus.", 
+                "id": "AbsentMindedProfessor"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Creepy Housekeeper: Elaine.", 
+                "id": "CreepyHouseKeeper"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0053559", 
+    "poster_url": "ThirteenGhosts.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 2, 
+            "id": "Them", 
+            "name": "Them!", 
+            "poster_url": "Them.jpg"
+        }, 
+        {
+            "shared": [
+                "CreepyHouseKeeper", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHaunting1963", 
+            "name": "The Haunting ", 
+            "poster_url": "TheHaunting1963.jpg"
+        }, 
+        {
+            "shared": [
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExtraordinaryAdventuresOfAdeleBlancSec", 
+            "name": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec"
+        }, 
+        {
+            "shared": [
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 1, 
+            "id": "TheSatanBug", 
+            "name": "The Satan Bug", 
+            "poster_url": "TheSatanBug.jpg"
+        }
+    ], 
+    "id": "ThirteenGhosts", 
+    "name": "13 Ghosts"
+}

@@ -1,0 +1,120 @@
+{
+    "plot": "A New York hooker tries to keep her daughter out of the clutches of the mobsters she works for.", 
+    "genres": "Thriller", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "such", 
+                    "quixotic", 
+                    "noteworthy", 
+                    "many"
+                ], 
+                "role": "Keet: Bo has such a quixotic zeal for life. It's also noteworthy that many of Dave Foley's roles have been Keets. Witness The Kids in the Hall, for instance.", 
+                "id": "Keet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Butcher: Von Reich, \"The Red Butcher of Poland\".", 
+                "id": "TheButcher"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Terry.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Blondes are Evil: Played Straight by Dorian, and subverted by Terry.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "precious"
+                ], 
+                "role": "Cute Clumsy Boy: Bo is always falling down, and it's so precious.", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scoop: Terry, who shares Bo's dream of being a star reporter (albeit less visibly). Just look at the picture up there.", 
+                "id": "HotScoop"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mafia Princess: Terry starts out like this.", 
+                "id": "MafiaPrincess"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ingenue: Bo Baker, naturally.", 
+                "id": "TheIngenue"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097507", 
+    "poster_url": "HighStakes.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "TheIngenue", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "MafiaPrincess", 
+                "CuteClumsyGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "ActionGirl", 
+                "HotScoop"
+            ], 
+            "shared_count": 3, 
+            "id": "Scream", 
+            "name": "Scream", 
+            "poster_url": "Scream.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "TheIngenue", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Tangled", 
+            "name": "Tangled", 
+            "poster_url": "Tangled.png"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "HotScoop"
+            ], 
+            "shared_count": 2, 
+            "id": "SkyCaptainAndTheWorldOfTomorrow", 
+            "name": "Sky Captain and the World of Tomorrow", 
+            "poster_url": "SkyCaptainAndTheWorldOfTomorrow.jpg"
+        }
+    ], 
+    "id": "HighStakes", 
+    "name": "High Stakes"
+}

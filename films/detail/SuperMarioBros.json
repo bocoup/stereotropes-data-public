@@ -1,0 +1,75 @@
+{
+    "plot": "Can you make a movie out of a video game? That's the question that is answered by this film. Mario Mario and Luigi Mario, two hard working plumbers find themselves in an alternate universe where evolved dinosaurs live in medium hi-tech squalor. They find themselves the only hope to save the Earth from invasion.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "entire"
+                ], 
+                "role": "Dumb Muscle: The entire point of the Goombas, as Koopa takes every opportunity to hammer in.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: While the brothers are in the Koopahari Desert, Luigi has his shirt off the majority of the time, providing some fanservice.", 
+                "id": "ShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0108255", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "StreetFighter", 
+            "name": "Street Fighter", 
+            "poster_url": "StreetFighter.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenOriginsWolverine", 
+            "name": "X-Men Origins: Wolverine", 
+            "poster_url": "XMenOriginsWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGamers", 
+            "name": "The Gamers", 
+            "poster_url": "TheGamers.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "DoubleImpact", 
+            "name": "Double Impact", 
+            "poster_url": "DoubleImpact.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }
+    ], 
+    "id": "SuperMarioBros", 
+    "name": "Super Mario Bros."
+}

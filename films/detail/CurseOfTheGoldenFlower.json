@@ -1,0 +1,149 @@
+{
+    "plot": "China, Later Tang Dynasty, 10th Century. On the eve of the Chong Yang Festival, golden flowers fill the Imperial Palace. The Emperor (Chow Yun Fat) returns unexpectedly with his second son, Prince Jai (Jay Chou). His pretext is to celebrate the holiday with his family, but given the chilled relations between the Emperor and the ailing Empress (Gong Li), this seems disingenuous. For many years, the Empress and Crown Prince Wan (Liu Ye), her stepson, have had an illicit liaison. Feeling trapped, Prince Wan dreams of escaping the palace with his secret love Chan (Li Man), the Imperial Doctor's daughter. Meanwhile, Prince Jai, the faithful son, grows worried over the Empress's health and her obsession with golden chrysanthemums. Could she be headed down an ominous path? The Emperor harbors equally clandestine plans; the Imperial Doctor (Ni Dahong) is the only one privy to his machinations. When the Emperor senses a looming threat, he relocates the doctor's family from the Palace to a remote area. While they are en route, mysterious assassins attack them. Chan and her mother, Jiang Shi (Chen Jin) are forced back to the palace. Their return sets off a tumultuous sequence of dark surprises. Amid the glamour and grandeur of the festival, ugly secrets are revealed. As the Imperial Family continues its elaborate charade in a palatial setting, thousands of golden armored warriors charge the palace. Who is behind this brutal rebellion? Where do Prince Jai's loyalties lie? Between love and desire, is there a final winner? Against a moonlit night, thousands of chrysanthemum blossoms are trampled as blood spills across the Imperial Palace.", 
+    "genres": "Action, Drama, Romance", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "natural"
+                ], 
+                "role": "Archnemesis Dad: The emperor sees it as maintaining the natural order of the family.", 
+                "id": "ArchnemesisDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Possibly averted in Curse of the Golden Flower, where the court eunuchs and servants side with the Empress and the coup against the Big Bad.", 
+                "id": "EunuchsAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "moral"
+                ], 
+                "role": "Momma's Boy: Jai is very devoted to his mother, but this speaks to his fine moral character instead of being a loser.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [
+                    "Sensitive", 
+                    "sensitive"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Jai is the manly one to Wan and Yu's sensitive guys.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Prince Yu from Curse of the Golden Flower.", 
+                "id": "TheEvilPrince"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Evil Prince: Subverted with Jai, who tries to take over the throne only to save his mother.  Played straight with Prince Yu", 
+                "id": "TheEvilPrince"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Mom: Chan's mother is pretty badass.", 
+                "id": "ActionMom"
+            }, 
+            {
+                "adjectives": [
+                    "imperial", 
+                    "cold"
+                ], 
+                "role": "Broken Bird: The imperial doctor's wife. The Empress as well, as she does her best to appear cold and calculating, but she is terribly afraid and alone inside.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "willing", 
+                    "dangerous"
+                ], 
+                "role": "God Save Us from the Queen!: This is at least an attitude present in the story. Whether or not the empress is actually somebody to be feared in the end, her husband and the crown prince are perfectly willing to call her mad and dangerous.", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: The First Empress. It doesn't work.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "young"
+                ], 
+                "role": "Missing Mom: Wan's mother died when he was very young, and he doesn't remember her.  Subverted. The whole story is a lie.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Woman Wearing the Queenly Mask: The empress.", 
+                "id": "TheWomanWearingTheQueenlyMask"
+            }
+        ]
+    }, 
+    "imdbid": "tt0473444", 
+    "poster_url": "CurseOfTheGoldenFlower.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheEvilPrince", 
+                "GodSaveUsFromTheQueen", 
+                "SensitiveGuyAndManlyMan", 
+                "BrokenBird", 
+                "TheWomanWearingTheQueenlyMask"
+            ], 
+            "shared_count": 5, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ArchnemesisDad", 
+                "ActionMom", 
+                "SensitiveGuyAndManlyMan", 
+                "MommasBoy", 
+                "MissingMom"
+            ], 
+            "shared_count": 5, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheEvilPrince", 
+                "ActionMom", 
+                "SensitiveGuyAndManlyMan", 
+                "BrokenBird"
+            ], 
+            "shared_count": 4, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "SensitiveGuyAndManlyMan", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }
+    ], 
+    "id": "CurseOfTheGoldenFlower", 
+    "name": "Curse of the Golden Flower"
+}

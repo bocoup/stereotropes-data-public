@@ -1,0 +1,64 @@
+{
+    "plot": "Scientists at an Arctic research station discover a spacecraft buried in the ice. Upon closer examination, they discover the frozen pilot. All hell breaks loose when they take him back to their station and he is accidentally thawed out!", 
+    "genres": "Horror, Sci-Fi", 
+    "release_year": "1951", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Nikki keeps her head throughout the crisis.", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0044121", 
+    "poster_url": "TheThingFromAnotherWorld.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowCake", 
+            "name": "Snow Cake", 
+            "poster_url": "SnowCake.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "TheThingFromAnotherWorld", 
+    "name": "The Thing from Another World"
+}

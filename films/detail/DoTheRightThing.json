@@ -1,0 +1,116 @@
+{
+    "plot": "This film looks at life in the Bedford-Stuyvesant district of Brooklyn on a hot summer Sunday. As he does everyday, Sal Fragione opens the pizza parlor he's owned for 25 years. The neighborhood has changed considerably in the time he's been there and is now composed primarily of African-Americans and Hispanics. His son Pino hates it there and would like nothing better than to relocate the eatery to their own neighborhood. For Sal however, the restaurant represents something that is part of his life and sees it as a part of the community. What begins as a simple complaint by one of his customers, Buggin Out - who wonders why he has only pictures of famous Italian-Americans on the wall when most of his customers are black - eventually disintegrates into violence as frustration seemingly brings out the worst in everyone.", 
+    "genres": "Comedy, Crime, Drama", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "few", 
+                    "black", 
+                    "commentary", 
+                    "right"
+                ], 
+                "role": "Angry Black Man: One could say that there are a few (particularly Buggin' Out), but the trope is somewhat inverted when one black man tells another whom is spouting ABM language that he \"doesn't want to hear that horseshit.\" In the commentary track for the DVD release, Spike Lee specifically notes that when Buggin' Out begins ranting about the pictures in the pizzeria, that he disagrees with the character, saying that it's Sal's place, so it's his right to put whatever pictures he likes on the walls.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "few", 
+                    "black", 
+                    "commentary", 
+                    "right"
+                ], 
+                "role": "One could say that there are a few in Do the Right Thing (particularly Buggin Out), but the trope is somewhat inverted when one black man tells another whom is spouting ABM language that he \"doesn't want to hear that horseshit.\" In the commentary track for the DVD release, Spike Lee specifically notes, when Buggin Out begins ranting about the pictures in the Pizzeria, that he disagrees with the character, saying that it's Sal's place, so it's his right to put whatever pictures he likes on the walls.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Radio Raheem.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Most of the supporting cast of Do the Right Thing.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Rosie Perez in the intro, although Spike Lee may not have intended it that way. Not to mention her topless scene... The reason you never see her face during her nude scene was because she felt she was being exploited and was crying while the scenes were being filmed.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Mother Sister", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spicy Latina: Tina.", 
+                "id": "SpicyLatina"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097216", 
+    "poster_url": "DoTheRightThing.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "AngryBlackMan", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TradingPlaces", 
+            "name": "Trading Places", 
+            "poster_url": "TradingPlaces.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SassyBlackWoman", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "DemonKnight", 
+            "name": "Demon Knight", 
+            "poster_url": "DemonKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "ScaryBlackMan", 
+                "GossipyHens"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SassyBlackWoman", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "JackieBrown", 
+            "name": "Jackie Brown", 
+            "poster_url": "JackieBrown.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }
+    ], 
+    "id": "DoTheRightThing", 
+    "name": "Do the Right Thing"
+}

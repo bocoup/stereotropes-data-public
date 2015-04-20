@@ -1,0 +1,107 @@
+{
+    "plot": "Ash and friends (this time accompanied by newcomer Dawn) arrive at an idyllic village on their way to their next Pokemon contest, where chaos will soon erupt with the prophecy of two Pokemon Gods (Dialga and Palkia) and the arrival of a mysterious, seemingly deadly Pokemon named Darkrai, which has the power to distort space and time.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Baritone: Darkrai has a deep voice, too.", 
+                "id": "BadassBaritone"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Although they're unrelated, Darkrai is this way towards Alice. Protecting her at every cost.", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [
+                    "Anti-Hero", 
+                    "blue-whitish", 
+                    "white"
+                ], 
+                "role": "Darkrai. At the very least, it has bishie-hair. In Pok\u00e9mon: The Rise of Darkrai, it was something of an Anti-Hero, or was just simply misunderstood when it was trying to protect the town from the battle between Dialga and Palkia.\n Steven Stone, anyone? Well...maybe it's more of a steel blue-whitish color, but it looks white enough.", 
+                "id": "WhiteHairedPrettyBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Alice has to be saved by Tonio and Darkrai a couple times.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "gorgeous", 
+                    "rich", 
+                    "large", 
+                    "loyal"
+                ], 
+                "role": "Spoiled Sweet: Alice. Just because she is gorgeous, rich, and owns a large garden, that doesn't stop her from being one of the nicest and most loyal of characters. Her grandmother counts, too, since she allowed Darkrai to stay and enjoy her garden.", 
+                "id": "SpoiledSweet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Alice", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1226251", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "SpoiledSweet", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "SpoiledSweet", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "TheChick", 
+                "WhiteHairedPrettyBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "RiseOfTheGuardians", 
+            "name": "Rise of the Guardians"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }
+    ], 
+    "id": "PokemonTheRiseOfDarkrai", 
+    "name": "Pok\u00e9mon: The Rise of Darkrai"
+}

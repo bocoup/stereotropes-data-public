@@ -1,0 +1,137 @@
+{
+    "plot": "Based on Charles Dickens' timeless tale, this is a story of the love of a man for an unreachable woman. Updated to modern day New York City, the story concerns a man of modest background who falls in love with a rich girl. But when a mysterious benefactor greenlights the man to make his dreams come true, everything done has the ultimate goal of making Estella fall in love with him...", 
+    "genres": "Drama, Romance", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: The Ur Example with Pip towards Estella.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pip towards Estella in Great Expectations.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "quite", 
+                    "traumatic"
+                ], 
+                "role": "Henpecked Husband: Joe. He's quite content with life, though, and never lets his wife's temper get to him. Joe's traumatic childhood meant he and his mother were frequently abused and when he grew up, because of that, he would never raise his hand to a woman.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Estella of Great Expectations is molded into becoming one by Miss Havisham.", 
+                "id": "BastardGirlfriend"
+            }, 
+            {
+                "adjectives": [
+                    "abusive"
+                ], 
+                "role": "Broken Bird: Estella, either when she lashes out at Miss Havisham or by the ending, when she's had to live with an abusive husband.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Emotionless Girl: Estella states at more than one point that she has no heart and has never been taught how to love.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Estella from Great Expectations.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Estella was bred to become this by Miss Havisham.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Great Expectations: this is Mrs. Havisham's goal for Estella.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [
+                    "insane", 
+                    "exact", 
+                    "occasional"
+                ], 
+                "role": "Miss Havisham from Great Expectations definitely qualifies; however, she is also completely insane, having deliberately frozen her life around the exact minute and day that her heart was broken. Astonishingly, she still receives the occasional visitor, and her upbringing of Estella certainly qualifies her for this trope.", 
+                "id": "GrandeDame"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pip in Great Expectations lost his mother and was left to be raised by his older sister and her husband.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119223", 
+    "poster_url": "GreatExpectations.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "FemmeFatale", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame", 
+                "DoggedNiceGuy", 
+                "BrokenBird"
+            ], 
+            "shared_count": 3, 
+            "id": "ThePictureOfDorianGray", 
+            "name": "The Picture of Dorian Gray", 
+            "poster_url": "ThePictureOfDorianGray.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "FemmeFatale", 
+                "BastardGirlfriend"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame", 
+                "FemmeFatale", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "OliverTwist", 
+            "name": "Oliver Twist"
+        }
+    ], 
+    "id": "GreatExpectations", 
+    "name": "Great Expectations"
+}

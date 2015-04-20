@@ -1,0 +1,106 @@
+{
+    "plot": "A tale of double cross and revenge, centered upon the members of an elite U.S. Special Forces unit sent into the Bolivian jungle on a search and destroy mission. The team-Clay, Jensen, Roque, Pooch and Cougar -find themselves the target of a lethal betrayal instigated from inside by a powerful enemy known only as Max. Presumed dead, the group makes plans to even the score when they're joined by the mysterious Aisha, a beautiful operative with her own agenda. Working together, they must remain deep undercover while tracking the heavily-guarded Max, a ruthless man bent on embroiling the world in a new high-tech global war.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Badass Grandpa: Stegler. Never mentioned how old he is, but he's noted as being a bit of a dinosaur around the CIA offices.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "whole"
+                ], 
+                "role": "Mr. Fanservice: The whole goddamn team. (Including Aisha.)", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Even the Girls Want Her: Zoe Saldana is fuckin' hot.", 
+                "id": "EvenTheGirlsWantHer"
+            }, 
+            {
+                "adjectives": [
+                    "Small"
+                ], 
+                "role": "Small Girl, Big Gun: Aisha bailing out the Losers with an RPG. More like Regular Girl HUGE Gun, really.", 
+                "id": "SmallGirlBigGun"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Pooch.", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Losers: Although never an official member of the squad, Norwegian partisan Ona Tomsen filled this role for a time in this DC Comics series.", 
+                "id": "TheSquadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0480255", 
+    "poster_url": "TheLosers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TheChick", 
+                "SmallGirlBigGun"
+            ], 
+            "shared_count": 3, 
+            "id": "Red", 
+            "name": "Red", 
+            "poster_url": "Red.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TheChick", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheWinterSoldier", 
+            "name": "Captain America: The Winter Soldier", 
+            "poster_url": "CaptainAmericaTheWinterSoldier.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MrFanservice", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendOfTheSeeker", 
+            "name": "Legend of the Seeker"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "SmallGirlBigGun", 
+                "TheSquadette"
+            ], 
+            "shared_count": 3, 
+            "id": "Predators", 
+            "name": "Predators", 
+            "poster_url": "Predators.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TheChick", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendsOfTheFall", 
+            "name": "Legends Of The Fall"
+        }
+    ], 
+    "id": "TheLosers", 
+    "name": "The Losers"
+}

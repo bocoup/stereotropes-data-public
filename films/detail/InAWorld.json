@@ -1,0 +1,167 @@
+{
+    "plot": "An underachieving vocal coach is motivated by her father, the king of movie-trailer voice-overs, to pursue her aspirations of becoming a voiceover star. Amidst pride, sexism and family dysfunction, she sets out to change the voice of a generation.", 
+    "genres": "Comedy", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "straight"
+                ], 
+                "role": "Demetri Martin's character in In a World... plays this very straight.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "straight"
+                ], 
+                "role": "Dogged Nice Guy: Demetri Martin's character is a very straight example.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "same"
+                ], 
+                "role": "In a World...: Gustav. Carol's father shares many of the same attitudes but is more nuanced and, unlike Gustav, learns An Aesop by the end of the film.", 
+                "id": "StrawMisogynist"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "same"
+                ], 
+                "role": "Straw Misogynist: Gustav. Carol's father shares many of the same attitudes but is more nuanced and, unlike Gustav, learns An Aesop by the end of the film.", 
+                "id": "StrawMisogynist"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "difficult", 
+                    "close"
+                ], 
+                "role": "Daddy's Girl: Played with. Carol and her father have a difficult relationship, but they are definitely close.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "difficult", 
+                    "close"
+                ], 
+                "role": "In a World: Played with. Lake Bell and her father have a difficult relationship, but they are definitely close.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "In a World...: Lake Bell is a rare example of a MPDG as the main protagonist. Love interest Demetri Martin is a Rare Male Example of Manic Pixie Dream Guy.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "Manic Pixie Dream Girl: Carol is a rare example of a MPDG as the main protagonist. Demetri Martin's love interest character is a Rare Male Example of Manic Pixie Dream Guy.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "In a World...: Lake Bell's father is either a widower or divorced; we don't hear much about her mom.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "much", 
+                    "other", 
+                    "various"
+                ], 
+                "role": "Missing Mom: Carol's father is a widower; we don't hear much about her mom other than that she has (had?) various substance abuse problems and apparently OD'd.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "few", 
+                    "vocal", 
+                    "sexy"
+                ], 
+                "role": "A few minor characters in In a World.... Lake Bell recruits them for her vocal training service to teach them to sound like \"women\" and not \"sexy babies\".", 
+                "id": "ValleyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "few", 
+                    "vocal", 
+                    "sexy"
+                ], 
+                "role": "Valley Girl: A few minor characters. Carol recruits them for her vocal training service to teach them to sound like \"women\" and not \"sexy babies\".", 
+                "id": "ValleyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt2294677", 
+    "poster_url": "InAWorld.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "DaddysGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "DoggedNiceGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "DaddysGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom", 
+                "DoggedNiceGuy", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheTwilightSamurai", 
+            "name": "The Twilight Samurai", 
+            "poster_url": "TheTwilightSamurai.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "DoggedNiceGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Kick-Ass", 
+            "name": "Kick-Ass", 
+            "poster_url": "Kick-Ass.jpg"
+        }
+    ], 
+    "id": "InAWorld", 
+    "name": "In a World"
+}

@@ -1,0 +1,84 @@
+{
+    "plot": "Aaron Davis (Steve Sandvoss) and Christian Markelli (Wes Ramsey) are the two most opposite people in the world. Aaron is a young Elder (or a Mormon missionary) who wants to do his family proud and is quite passionate about his religion and film. Christian is a shallow WeHo waiter/party boy who only looks forward to bedding a new guy every night. After Aaron and three other missionaries move into the apartment across from Christian, his friends bet him $50 that he can't get one of them to jump into the sack, so he instantly latches onto Aaron. There are two problems, though - Christian is falling in love with Aaron and the Mormons are not the biggest fans of the homosexual community. Once Aaron is discovered, the two have to go through trials of regret, loss, perseverance, and forgiveness if they both want to get to the thing that matters to them most: each other.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Christian"
+                ], 
+                "role": "Flamboyant Gay: Christian.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Aaron", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Team Mom: Lila.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0345551", 
+    "poster_url": "LatterDays.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TeamMom", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "AnotherGayMovie", 
+            "name": "Another Gay Movie", 
+            "poster_url": "AnotherGayMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBigGayMusical", 
+            "name": "The Big Gay Musical", 
+            "poster_url": "TheBigGayMusical.jpg"
+        }
+    ], 
+    "id": "LatterDays", 
+    "name": "Latter Days"
+}

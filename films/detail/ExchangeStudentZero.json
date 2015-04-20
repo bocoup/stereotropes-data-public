@@ -1,0 +1,81 @@
+{
+    "plot": "N/A", 
+    "genres": "Animation", 
+    "release_year": "2015", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "exaggerated", 
+                    "complete"
+                ], 
+                "role": "Jerk/Dumb Jock: Denmead. And he's probably one of the most exaggerated examples ever, complete with a Simpleton Voice and Dumb Blond.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Beauty Mark: Lucinda, John's love interest, has one.", 
+                "id": "BeautyMark"
+            }, 
+            {
+                "adjectives": [
+                    "Magical"
+                ], 
+                "role": "Magical Girl: Happy Peach Flower and her friends.", 
+                "id": "MagicalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt3093986", 
+    "similar": [
+        {
+            "shared": [
+                "MagicalGirl", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "WeirdScience", 
+            "name": "Weird Science", 
+            "poster_url": "WeirdScience.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "OurTown", 
+            "name": "Our Town", 
+            "poster_url": "OurTown.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "TheRageCarrie2", 
+            "name": "The Rage: Carrie 2"
+        }
+    ], 
+    "id": "ExchangeStudentZero", 
+    "name": "Exchange Student Zero"
+}

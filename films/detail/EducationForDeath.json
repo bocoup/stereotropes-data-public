@@ -1,0 +1,72 @@
+{
+    "plot": "A Walt Disney wartime propaganda look into the mind of Hans, a boy born into a German family. Watch as his attitude about the value of human life degrades as he is exposed to Hitler Youth and other Nazi organizations and attitudes.", 
+    "genres": "Animation, Short, Comedy", 
+    "release_year": "1943", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "fat", 
+                    "beer-swilling"
+                ], 
+                "role": "Brawn Hilda: The \"Sleeping Beauty\" Germany, when awakened, proves to be a fat, beer-swilling Valkyrie \u00e0 la Wagner's Ring of the Nibelung.", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wicked Witch: How the Nazi version of \"Sleeping Beauty\" depicts Democracy.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0035836", 
+    "similar": [
+        {
+            "shared": [
+                "BrawnHilda"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "BrawnHilda"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }, 
+        {
+            "shared": [
+                "BrawnHilda"
+            ], 
+            "shared_count": 1, 
+            "id": "TheSinisterUrge", 
+            "name": "The Sinister Urge", 
+            "poster_url": "TheSinisterUrge.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWiz", 
+            "name": "The Wiz", 
+            "poster_url": "TheWiz.jpg"
+        }
+    ], 
+    "id": "EducationForDeath", 
+    "name": "Education for Death"
+}

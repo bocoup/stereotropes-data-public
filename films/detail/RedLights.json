@@ -1,0 +1,74 @@
+{
+    "plot": "The skeptical psychologist Dr. Margaret Matheson and her assistant, physicist Tom Buckley, are specialists in disclosing fraudulent paranormal phenomena. When the famous psychic Simon Silver reappears to his public after many years of absence, Tom becomes singularly obsessed in determining whether Silver is a fraud or not.", 
+    "genres": "Drama, Mystery, Thriller", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Mr. Fixit: Tom.", 
+                "id": "MrFixit"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Tom.", 
+                "id": "HotScientist"
+            }
+        ]
+    }, 
+    "imdbid": "tt1748179", 
+    "poster_url": "RedLights.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AgentForHARM", 
+            "name": "Agent for H.A.R.M.", 
+            "poster_url": "AgentForHARM.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Sphere", 
+            "name": "Sphere", 
+            "poster_url": "Sphere.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFixit"
+            ], 
+            "shared_count": 1, 
+            "id": "MysteryMen", 
+            "name": "Mystery Men", 
+            "poster_url": "MysteryMen.jpg"
+        }
+    ], 
+    "id": "RedLights", 
+    "name": "Red Lights"
+}

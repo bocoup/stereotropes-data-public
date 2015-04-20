@@ -1,0 +1,72 @@
+{
+    "plot": "Explores Austen's adage that general incivility is at love's essence. Sylvia's husband dumps her for another woman, so Bernadette and Jocelyn organize a book club to distract her. They recruit Sylvia's daughter Allegra; Prudie, a young teacher whose marriage may be on the rocks; and Grigg, a sci-fi fan who joins out of attraction to Jocelyn. The six read and discuss one Austen novel per month. Jocelyn tries to interest Grigg in Sylvia; Allegra falls in love with a woman she meets skydiving; Prudie contemplates an affair with a student; Sylvia's ex keeps popping up. In the discussions, characters reveal themselves in their comments. By the end, are truths universally acknowledged?", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2007", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian: Allegra and her girlfriends.", 
+                "id": "LipstickLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "high"
+                ], 
+                "role": "Mrs. Robinson: Prudie falls in love with her high school student. Hilarity does NOT ensue. Also Jocelyn is older than Grigg.", 
+                "id": "MrsRobinson"
+            }
+        ]
+    }, 
+    "imdbid": "tt0866437", 
+    "poster_url": "TheJaneAustenBookClub.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MrsRobinson"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "MrsRobinson"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLairOfTheWhiteWorm", 
+            "name": "The Lair of the White Worm", 
+            "poster_url": "TheLairOfTheWhiteWorm.jpg"
+        }, 
+        {
+            "shared": [
+                "MrsRobinson"
+            ], 
+            "shared_count": 1, 
+            "id": "LairOfTheWhiteWorm", 
+            "name": "Lair Of The White Worm", 
+            "poster_url": "LairOfTheWhiteWorm.jpg"
+        }, 
+        {
+            "shared": [
+                "MrsRobinson"
+            ], 
+            "shared_count": 1, 
+            "id": "TheEmperorsNewGroove", 
+            "name": "The Emperor's New Groove", 
+            "poster_url": "TheEmperorsNewGroove.jpg"
+        }, 
+        {
+            "shared": [
+                "LipstickLesbian"
+            ], 
+            "shared_count": 1, 
+            "id": "Bound", 
+            "name": "Bound", 
+            "poster_url": "Bound.jpg"
+        }
+    ], 
+    "id": "TheJaneAustenBookClub", 
+    "name": "The Jane Austen Book Club"
+}

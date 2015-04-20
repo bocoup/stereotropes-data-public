@@ -1,0 +1,106 @@
+{
+    "plot": "\"Fast\" Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary \"Minnesota Fats\" to a high-stakes match, but he loses in a heartbreaking marathon. Now broke and without his long-time manager, Felson faces an uphill battle to regain his confidence and his game. It isn't until he hits rock bottom that he agrees to join up with ruthless and cutthroat manager Bert Gordon. Gordon agrees to take him on the road to learn the ropes. But Felson soon realizes that making it to the top could cost him his soul, and perhaps his girlfriend. Will he decide that this is too steep a price to pay in time to save himself?", 
+    "genres": "Drama, Sport", 
+    "release_year": "1961", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "monthly"
+                ], 
+                "role": "Disappeared Dad: Sarah, whose father left her when she was seven. Her only contact with him are the monthly checks he sends her.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "monthly"
+                ], 
+                "role": "Sarah Packard from The Hustler, whose father left her when she was seven. Her only contact with him are the monthly checks he sends her.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "due"
+                ], 
+                "role": "Broken Bird: Sarah. She even walks with a slight limp, due to her childhood bout of polio.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sarah Packard (Piper Laurie) in The Hustler is this both mentally and physically.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fragile Flower: Sarah is almost inevitably this when she isn't simply drunk.", 
+                "id": "FragileFlower"
+            }, 
+            {
+                "adjectives": [
+                    "many"
+                ], 
+                "role": "Sarah Packard from The Hustler, who has been rejected and scorned so many times that she needs to drown her sorrows to get through the day. Needless to say, she's prone to this trope whether drunk or sober.", 
+                "id": "FragileFlower"
+            }
+        ]
+    }, 
+    "imdbid": "tt0054997", 
+    "poster_url": "TheHustler.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "FragileFlower", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "FragileFlower"
+            ], 
+            "shared_count": 2, 
+            "id": "NorwegianWood", 
+            "name": "Norwegian Wood", 
+            "poster_url": "NorwegianWood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Bolt", 
+            "name": "Bolt", 
+            "poster_url": "Bolt.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "FragileFlower"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePictureOfDorianGray", 
+            "name": "The Picture of Dorian Gray", 
+            "poster_url": "ThePictureOfDorianGray.jpg"
+        }
+    ], 
+    "id": "TheHustler", 
+    "name": "The Hustler"
+}

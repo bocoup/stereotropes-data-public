@@ -1,0 +1,132 @@
+{
+    "plot": "Annie (Kristen Wiig), is a maid of honor whose life unravels as she leads her best friend, Lillian (Maya Rudolph), and a group of colorful bridesmaids (Rose Byrne, Melissa McCarthy, Wendi McLendon-Covey and Ellie Kemper) on a wild ride down the road to matrimony. Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she'll show Lillian and her bridesmaids just how far you'll go for someone you love.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Officer Rhodes.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "later"
+                ], 
+                "role": "Alpha Bitch / Lovable Alpha Bitch: Helen seems like a garden-variety Alpha Bitch at first, but is sympathized somewhat later on.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Annie.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "gender-flipped", 
+                    "kooky", 
+                    "romantic", 
+                    "well-meaning", 
+                    "tone-deaf"
+                ], 
+                "role": "Another gender-flipped example, Rhodes is this to Annie in Bridesmaids. His main function in the plot is to make kooky observations about vegetables and encourage Annie to follow her dreams. It's a slightly more nuanced example than most: his biggest romantic gesture is presented as (at best) well-meaning but tone-deaf, and while he encourages her to follow her dreams (by returning to her love of baking and dream of owning a business), he also encourages her to deal with the mundane realities of her life (by fixing her tail light). She also repeatedly tells him that she doesn't need him to \"fix\" her.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Subverted. Turns out Helen is just lonely and desperate for approval and friends.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Becca", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [
+                    "open", 
+                    "tired", 
+                    "Brazilian", 
+                    "Lillian"
+                ], 
+                "role": "The Ingenue: Becca. Actually seems to be a subtle Deconstruction of one. She tells Rita she's only had sex with Kevin, but is frustrated by his unwillingness to be open sexually, even saying desperately to Rita, \"And after we've showered, sometimes he's too tired, so I say I am too, but I'm not tired! I'm not tired!\", and the discussion even ends with her and Rita drunkenly making out. During the Brazilian meal, Megan is saying Lillian is probably crying about marrying Dougie, \"I love him, he's my brother, but he's a fucking asshole!\", Becca is seen cheerfully nodding along with the statement.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "Lad-ette"
+                ], 
+                "role": "Lad-ette: Megan.", 
+                "id": "TheLadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt1478338", 
+    "poster_url": "Bridesmaids.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheLadette", 
+                "TheIngenue", 
+                "TheChick", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 4, 
+            "id": "Grease", 
+            "name": "Grease", 
+            "poster_url": "Grease.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "BrokenBird", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "DoggedNiceGuy", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TemptationIsland", 
+            "name": "Temptation Island"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "DoggedNiceGuy", 
+                "BrokenBird"
+            ], 
+            "shared_count": 3, 
+            "id": "ThePictureOfDorianGray", 
+            "name": "The Picture of Dorian Gray", 
+            "poster_url": "ThePictureOfDorianGray.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "BrokenBird", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }
+    ], 
+    "id": "Bridesmaids", 
+    "name": "Bridesmaids"
+}

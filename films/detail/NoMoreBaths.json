@@ -1,0 +1,87 @@
+{
+    "plot": "Jake lets the children play at his home and tells stories of his role in the civil rights movement. A developer wants to have the elderly Jake evicted from his home to increase real estate value, so the kids decide to go on a bath strike.", 
+    "genres": "Comedy, Drama, Family", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Buzz", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "tall", 
+                    "scary", 
+                    "gentle"
+                ], 
+                "role": "Scary Black Man: Subverted. Jake is tall and perhaps slightly scary looking, but gentle and he likes kids.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sissy Villain: Buzz", 
+                "id": "SissyVillain"
+            }
+        ]
+    }, 
+    "imdbid": "tt0155919", 
+    "poster_url": "NoMoreBaths.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SissyVillain", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Underworld", 
+            "name": "Underworld", 
+            "poster_url": "Underworld.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "TheGreenMile", 
+            "name": "The Green Mile", 
+            "poster_url": "TheGreenMile.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "NoMoreBaths", 
+    "name": "No More Baths"
+}

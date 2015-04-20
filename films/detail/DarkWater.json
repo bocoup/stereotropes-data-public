@@ -1,0 +1,106 @@
+{
+    "plot": "Dahlia Williams and her daughter Cecelia move into a rundown apartment on New York's Roosevelt Island. She is currently in the midst of divorce proceedings and the apartment, though near an excellent school for her daughter, is all she can afford. From the time she arrives, there are mysterious occurrences and there is a constant drip from the ceiling in the only bedroom. There are also noises coming from the apartment directly above hers, though it would appear to be vacant. Is the apartment haunted or is there a simpler explanation?", 
+    "genres": "Drama, Horror, Thriller", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Both Kamiya and Veeck.", 
+                "id": "CrustyCaretaker"
+            }, 
+            {
+                "adjectives": [
+                    "leaky", 
+                    "disrepair", 
+                    "relevant"
+                ], 
+                "role": "The 2002 version of Dark Water has Kamiya, who doesn't seem to care for Yoshimi's concerns about the damp, leaky patches on her ceiling. The rest of the building seems to be falling into disrepair as well, and the water tank hasn't been cleaned for years (this becomes a relevant plot point). The 2005 remake also features a Crusty Caretaker, who is much more of a Jerkass.", 
+                "id": "CrustyCaretaker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: Kamiya has shades of this. His remake counterpart, Veeck, is even grumpier and even more of a jerk.", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Yoshimi and Dahlia.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "Japanese", 
+                    "original"
+                ], 
+                "role": "Yoshimi and Dahlia from Dark Water, both the 2002 Japanese original and the 2005 American remake, respectively.", 
+                "id": "HauntedHeroine"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Yoshimi and Dahlia.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0382628", 
+    "poster_url": "DarkWater.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "HauntedHeroine", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "HauntedHeroine", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "TheOthers", 
+            "name": "The Others", 
+            "poster_url": "TheOthers.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SympathyForLadyVengeance", 
+            "name": "Sympathy for Lady Vengeance", 
+            "poster_url": "SympathyForLadyVengeance.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Sybil", 
+            "name": "Sybil", 
+            "poster_url": "Sybil.jpg"
+        }
+    ], 
+    "id": "DarkWater", 
+    "name": "Dark Water"
+}

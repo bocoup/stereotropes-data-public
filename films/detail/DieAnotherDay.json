@@ -1,0 +1,102 @@
+{
+    "plot": "Pierce Brosnan gives one last mission as James Bond. Starting off in North Korea, Bond is betrayed and captured. 14 months later, Bond is set free, but traded for Zao who was captured by MI6. When back in his world, Bond sets off to track down Zao. Bond gets caught up in yet another scheme which sends him to millionaire Gustav Graves. Another MI6 agent known as Miranda Frost is also posing as a friend of Graves. Bond is invited to a presentation held by Graves about a satellite found in space which can project a huge laser beam. Bond must stop this madman with a fellow American agent, known as Jinx. Whilst Bond tries to stop Graves and Zao, will he finally reveal who betrayed him?", 
+    "genres": "Action, Adventure, Crime", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Sorrow: More a Beard of Imprisonment, but hey.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "few", 
+                    "facial", 
+                    "other"
+                ], 
+                "role": "Bond ends up with a Beard of Imprisonment in Die Another Day, one of the few times he's seen with any kind of facial hair on screen. (His chest hair, on the other hand...)", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bond is captured by the North Koreans in Die Another Day and spends the title sequence being beaten and tortured.", 
+                "id": "DistressedDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "good", 
+                    "akin", 
+                    "combative", 
+                    "real", 
+                    "much"
+                ], 
+                "role": "Faux Action Girl: Jinx talks a good game but only manages to defeat a secretary in hand-to-hand combat. The kind of fencing done in the Olympics is more akin to waving a car antenna around than any sort of combative fighting, so beating an Olympic fencer with real weapons is hardly the pinnacle of achievement. Murdering an unarmed doctor also hardly placed her in much jeopardy.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Inverted in Die Another Day when Frost tries to kill 007 after they spend the night together.", 
+                "id": "HighHeelFaceTurn"
+            }
+        ]
+    }, 
+    "imdbid": "tt0246460", 
+    "poster_url": "DieAnotherDay.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "BeardOfSorrow"
+            ], 
+            "shared_count": 2, 
+            "id": "XMen", 
+            "name": "X-Men", 
+            "poster_url": "XMen.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "DistressedDude"
+            ], 
+            "shared_count": 2, 
+            "id": "FlashGordon", 
+            "name": "Flash Gordon", 
+            "poster_url": "FlashGordon.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "DistressedDude"
+            ], 
+            "shared_count": 2, 
+            "id": "Goldfinger", 
+            "name": "Goldfinger", 
+            "poster_url": "Goldfinger.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "DistressedDude"
+            ], 
+            "shared_count": 2, 
+            "id": "TheXFilesIWantToBelieve", 
+            "name": "The X-Files: I Want to Believe", 
+            "poster_url": "TheXFilesIWantToBelieve.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "BeardOfSorrow"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDarkKnightRises", 
+            "name": "The Dark Knight Rises", 
+            "poster_url": "TheDarkKnightRises.jpg"
+        }
+    ], 
+    "id": "DieAnotherDay", 
+    "name": "Die Another Day"
+}

@@ -1,0 +1,94 @@
+{
+    "plot": "Struggling writer Paul Varjak moves into a New York apartment building and becomes intrigued by his pretty, quirky neighbor Holly Golightly. Holly's lifestyle confuses and fascinates Paul; in public she flits through parties with a sexy, sophisticated air, but when they're alone she changes into a sweetly vulnerable bundle of neuroses.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1961", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Holly, though this is strongly toned down compared to the novella. She still refers to her \"playing the field\" though.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "wild"
+                ], 
+                "role": "In Breakfast at Tiffany's Audrey Hepburn plays the quirky, wild child of a neighbor. However, the protagonist eventually tells her to get over herself.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Holly in the film.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Breakfast at Tiffany's, Patricia Neal takes an interest in George Peppard's ... writing. Although the actors' age difference is only two years, it is implied she is sufficiently older than he to evoke this trope.", 
+                "id": "MrsRobinson"
+            }, 
+            {
+                "adjectives": [
+                    "Na\u00efve", 
+                    "kind"
+                ], 
+                "role": "Na\u00efve Everygirl: Holly is kind of smart... but not enough to notice she's been helping the drug dealing activities of the convict she often visits.", 
+                "id": "NaiveEverygirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0054698", 
+    "poster_url": "BreakfastAtTiffanys.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TrueRomance", 
+            "name": "True Romance", 
+            "poster_url": "TrueRomance.jpg"
+        }, 
+        {
+            "shared": [
+                "NaiveEverygirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Saawariya", 
+            "name": "Saawariya", 
+            "poster_url": "Saawariya.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "KillingZoe", 
+            "name": "Killing Zoe", 
+            "poster_url": "KillingZoe.jpg"
+        }, 
+        {
+            "shared": [
+                "NaiveEverygirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SunsetBoulevard", 
+            "name": "Sunset Boulevard"
+        }
+    ], 
+    "id": "BreakfastAtTiffanys", 
+    "name": "Breakfast at Tiffany's"
+}

@@ -1,0 +1,89 @@
+{
+    "plot": "The Man of Steel finds himself outshone by a new team of ruthless superheroes who hold his idealism in contempt.", 
+    "genres": "Animation, Sci-Fi", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "No Shirt, Long Jacket: Manchester's appearance.", 
+                "id": "NoShirtLongJacket"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Coldcast.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "large"
+                ], 
+                "role": "Walking Shirtless Scene: Black reveals that the large flag on his chest isn't a T-Shirt. That's a tattoo.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "huge", 
+                    "successful"
+                ], 
+                "role": "Clingy Jealous Girl: After Menagerie gives Superman a huge smooch after a successful mission, Lois gives Clark the cold shoulder.", 
+                "id": "ClingyJealousGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt2224455", 
+    "similar": [
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRockyHorrorPictureShow", 
+            "name": "The Rocky Horror Picture Show", 
+            "poster_url": "TheRockyHorrorPictureShow.jpg"
+        }, 
+        {
+            "shared": [
+                "NoShirtLongJacket", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "NoShirtLongJacket"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "LegendOfTheSeeker", 
+            "name": "Legend of the Seeker"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "LiloAndStitch", 
+            "name": "Lilo & Stitch", 
+            "poster_url": "LiloAndStitch.jpg"
+        }
+    ], 
+    "id": "SupermanVsTheElite", 
+    "name": "Superman vs. the Elite"
+}

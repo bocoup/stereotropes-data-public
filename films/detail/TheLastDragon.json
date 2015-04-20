@@ -1,0 +1,67 @@
+{
+    "plot": "In New York City, a young man searches for the \"master\" to obtain the final level of martial arts mastery known as the glow. Along the way, he must fight an evil martial arts expert and rescue a beautiful singer from an obsessed music promoter.", 
+    "genres": "Action, Comedy, Drama", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Last", 
+                    "Sho'Nuff"
+                ], 
+                "role": "From the movie The Last Dragon, we have a subversion! Sho'Nuff! Shogun of Harlem! He kicks ass because no one fears him.", 
+                "id": "ScaryBlackMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089461", 
+    "poster_url": "TheLastDragon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "KissOfTheSpiderWoman", 
+            "name": "Kiss of the Spider Woman", 
+            "poster_url": "KissOfTheSpiderWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "ConanTheDestroyer", 
+            "name": "Conan The Destroyer"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }
+    ], 
+    "id": "TheLastDragon", 
+    "name": "The Last Dragon"
+}

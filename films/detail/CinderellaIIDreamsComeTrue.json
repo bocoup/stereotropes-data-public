@@ -1,0 +1,94 @@
+{
+    "plot": "The movie explores Cinderella's \"happily ever after\" life as a princess in 3 stories, with help from the Fairy Godmother. First, Cinderella's awkward first days at the palace, when she tried so hard to fit in that she forgot to be herself. Second, how Jaq felt so left out that he wished to be a human. Third, how Cinderella taught one of her nasty step-sisters how to smile which leads to her own true love.", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Big Beautiful Man: The baker is seen as this by some fangirls. Being in a Beta Moe Couplet with Anastasia helps a lot.", 
+                "id": "BigBeautifulMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Friday: Prudence.", 
+                "id": "GirlFriday"
+            }, 
+            {
+                "adjectives": [
+                    "Na\u00efve"
+                ], 
+                "role": "Na\u00efve Everygirl: Cinderella's redhead stepsister Anastasia gets retconned into one of these.", 
+                "id": "NaiveEverygirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ojou: Prudence.", 
+                "id": "Ojou"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Cinderella, as she gets more Character Development. Anastasia becomes one of these, too.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0291082", 
+    "poster_url": "CinderellaIIDreamsComeTrue.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "BigBeautifulMan", 
+                "NaiveEverygirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "BigBeautifulMan"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "Ojou"
+            ], 
+            "shared_count": 2, 
+            "id": "ALittlePrincess", 
+            "name": "A Little Princess", 
+            "poster_url": "ALittlePrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "BigBeautifulMan"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "Ojou"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }
+    ], 
+    "id": "CinderellaIIDreamsComeTrue", 
+    "name": "Cinderella II Dreams Come True"
+}

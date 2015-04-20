@@ -1,0 +1,83 @@
+{
+    "plot": "A gripping story of a family in search of help for their son, Dalton, who fell into a coma after a mysterious incident in the attic. Little do they know that there is much more to this endless sleep than meets the eye as they explore the paranormal, and rediscover the past; the key to getting their son back once and for all.", 
+    "genres": "Drama, Horror, Mystery", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "tall", 
+                    "paranormal"
+                ], 
+                "role": "Badass Beard: Tucker, the tall paranormal team member, has one.", 
+                "id": "BadAssBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Lady: Elise, and Lorraine, to lesser extent.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Parker Crane has this.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt1591095", 
+    "poster_url": "Insidious.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssBeard", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "HaroldAndMaude", 
+            "name": "Harold and Maude", 
+            "poster_url": "HaroldAndMaude.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "GreyGardens", 
+            "name": "Grey Gardens", 
+            "poster_url": "GreyGardens.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }
+    ], 
+    "id": "Insidious", 
+    "name": "Insidious"
+}

@@ -1,0 +1,139 @@
+{
+    "plot": "Rango is a pet chameleon always on the lookout for action and adventure, except the fake kind, where he directs it and acts in it. After a car accident, he winds up in an old western town called Dirt. What this town needs the most is water, but they also need a hero and a sheriff. The thirsty Rango instantly takes on the role of both and selfishly agrees to take on the case of their missing water.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: He may not have any hair, but the scales on the front of his face have a mustachioed pattern.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "new", 
+                    "bad"
+                ], 
+                "role": "Corrupt Hick:  The mayor, Tortoise John, who's stealing up the water from the townsfolk so he can kick them out and steal their land to use for his currently-in-construction new city. Pretty handy with a firearm, so it was probably best not to get on his bad side.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "mysterious"
+                ], 
+                "role": "Disappeared Dad: Beans's father disappeared under \"mysterious circumstances\".", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Rango has the mayor of Dirt, minus the sweaty part \u2014 reptiles can't sweat.", 
+                "id": "FatSweatySouthernerInAWhiteSuit"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Miles Gloriosus: How Rango gets into this mess in the first place.", 
+                "id": "MilesGloriosus"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "This is more of a case of Even the Alpha Bitch Has Standards, but  when the mayor puts Beans and Rango in the drowning tank, Angelique looks visibly horrified despite clearly not liking Beans.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The lady frog in the bar has Gag Boobs.", 
+                "id": "GagBoobs"
+            }, 
+            {
+                "adjectives": [
+                    "Girlish", 
+                    "Sported"
+                ], 
+                "role": "Girlish Pigtails: Sported by Priscilla.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [
+                    "anthropomorphized", 
+                    "cast", 
+                    "female"
+                ], 
+                "role": "Humanoid Female Animal: Beans is considerably more anthropomorphized than Rango, though they're both lizards. Angelique is also more humanlike than the rest of the cast, be they male or female.", 
+                "id": "HumanoidFemaleAnimal"
+            }, 
+            {
+                "adjectives": [
+                    "afraid", 
+                    "entire", 
+                    "dynamic"
+                ], 
+                "role": "Little Miss Badass: Priscilla wants to be one, and shows Rango she's got a lot of spunk. However, he tells her to stay behind, perhaps too afraid of endangering her. On a side note, their entire dynamic resembles that of Mattie and Cogburn in True Grit.", 
+                "id": "LittleMissBadass"
+            }
+        ]
+    }, 
+    "imdbid": "tt1192628", 
+    "poster_url": "Rango.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "DisappearedDad", 
+                "CorruptHick", 
+                "GirlishPigtails"
+            ], 
+            "shared_count": 4, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "GirlishPigtails", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBaby", 
+            "name": "The Baby"
+        }, 
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "CorruptHick", 
+                "HumanoidFemaleAnimal"
+            ], 
+            "shared_count": 3, 
+            "id": "RockADoodle", 
+            "name": "Rock-A-Doodle", 
+            "poster_url": "RockADoodle.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "GirlishPigtails", 
+                "MilesGloriosus"
+            ], 
+            "shared_count": 3, 
+            "id": "TrueGrit", 
+            "name": "True Grit", 
+            "poster_url": "TrueGrit.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "GirlishPigtails", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheFinal", 
+            "name": "The Final", 
+            "poster_url": "TheFinal.jpg"
+        }
+    ], 
+    "id": "Rango", 
+    "name": "Rango"
+}

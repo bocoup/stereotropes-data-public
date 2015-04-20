@@ -1,0 +1,83 @@
+{
+    "plot": "Texas greenhorn Joe Buck arrives in New York for the first time. Preening himself as a real 'hustler', he finds that he is the one getting 'hustled' until he teams up with a down-and-out but resilient outcast named Ratso Rizzo. The initial 'country cousin meets city cousin' relationship deepens. In their efforts to bilk a hostile world rebuffing them at every turn, this unlikely pair progress from partners in shady business to comrades. Each has found his first real friend.", 
+    "genres": "Drama", 
+    "release_year": "1969", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Much", 
+                    "cowboy", 
+                    "good"
+                ], 
+                "role": "Gay Cowboy: Much to Joe's embarrassment, his studly cowboy persona utterly fails to win over any New York women, and only attracts men. Rizzo even flat-out tells him that only gay men like cowboys, but Joe still insists on the outfit because it makes him feel good.", 
+                "id": "GayCowboy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Loins Sleep Tonight: Joe experiences this with Shirley.", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0064665", 
+    "poster_url": "MidnightCowboy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "GayCowboy"
+            ], 
+            "shared_count": 2, 
+            "id": "WagonsEast", 
+            "name": "Wagons East", 
+            "poster_url": "WagonsEast.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "Pusher", 
+            "name": "Pusher"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSting", 
+            "name": "The Sting", 
+            "poster_url": "TheSting.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Purgatory", 
+            "name": "Purgatory", 
+            "poster_url": "Purgatory.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Django", 
+            "name": "Django", 
+            "poster_url": "Django.jpg"
+        }
+    ], 
+    "id": "MidnightCowboy", 
+    "name": "Midnight Cowboy"
+}

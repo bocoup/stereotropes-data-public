@@ -1,0 +1,73 @@
+{
+    "plot": "An young opera-loving mailman, Jules, becomes inadvertently entangled in murder when a young woman fleeing two mob hit men drops an incriminating cassette into his mailbag. Jules has just recently recorded opera star Cynthia Hawkins' latest concert, something of a coup as Hawkins refuses to make recordings of any kind. Soon Jules finds himself the target not only of the hit men who want the voice recording but also by those who would like to get their hands on the Hawkins recordings.", 
+    "genres": "Thriller", 
+    "release_year": "1981", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable"
+                ], 
+                "role": "Disposable Sex Worker - the prostitute who drops the cassette tape in Jules's mailbag.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "chronic", 
+                    "shoplifted"
+                ], 
+                "role": "Manic Pixie Dream Girl - Played with a little bit. Alba is a chronic shoplifter. Jules first becomes attracted to her when he sees her steal from a record shop. After they start dating, she gives Jules a shoplifted Rolex.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082269", 
+    "poster_url": "Diva.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AfterHours", 
+            "name": "After Hours", 
+            "poster_url": "AfterHours.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Lo", 
+            "name": "Lo"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "LAStory", 
+            "name": "LA Story"
+        }
+    ], 
+    "id": "Diva", 
+    "name": "Diva"
+}

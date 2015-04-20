@@ -1,0 +1,71 @@
+{
+    "plot": "A showman introduces a small coastal town to a unique movie experience and capitalises on the Cuban Missile crisis hysteria with a kitschy horror extravaganza combining film effects, stage props and actors in rubber suits in this salute to the B-movie.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1993", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Naughty Nurse Outfit: Ruth wears a nurse's uniform at the premiere.", 
+                "id": "NaughtyNurseOutfit"
+            }, 
+            {
+                "adjectives": [
+                    "eager"
+                ], 
+                "role": "Seemingly Wholesome Sixties Girl: Sherry. Though she makes it clear on she's eager to get racy.", 
+                "id": "SeeminglyWholesomeFiftiesGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107529", 
+    "poster_url": "Matinee.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NaughtyNurseOutfit"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "NaughtyNurseOutfit"
+            ], 
+            "shared_count": 1, 
+            "id": "EightAndAHalf", 
+            "name": "8\u00bd"
+        }, 
+        {
+            "shared": [
+                "SeeminglyWholesomeFiftiesGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheRockyHorrorPictureShow", 
+            "name": "The Rocky Horror Picture Show", 
+            "poster_url": "TheRockyHorrorPictureShow.jpg"
+        }, 
+        {
+            "shared": [
+                "SeeminglyWholesomeFiftiesGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "NaughtyNurseOutfit"
+            ], 
+            "shared_count": 1, 
+            "id": "FerrisBuellersDayOff", 
+            "name": "Ferris Bueller's Day Off", 
+            "poster_url": "FerrisBuellersDayOff.jpg"
+        }
+    ], 
+    "id": "Matinee", 
+    "name": "Matinee"
+}

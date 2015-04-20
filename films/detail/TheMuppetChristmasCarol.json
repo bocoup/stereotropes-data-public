@@ -1,0 +1,31 @@
+{
+    "plot": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present, and future.", 
+    "genres": "Comedy, Drama, Family", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "elderly"
+                ], 
+                "role": "The elderly Fozziewig (Fozzie Bear) in The Muppet Christmas Carol.", 
+                "id": "FurryBaldness"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104940", 
+    "poster_url": "TheMuppetChristmasCarol.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FurryBaldness"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }
+    ], 
+    "id": "TheMuppetChristmasCarol", 
+    "name": "The Muppet Christmas Carol"
+}

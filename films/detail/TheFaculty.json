@@ -1,0 +1,124 @@
+{
+    "plot": "A horror tale set in a High School where the students suspect the teaching staff of being aliens, who are intent on making the students their victims.", 
+    "genres": "Horror, Mystery, Sci-Fi", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gym Teacher Nasty: And played by Robert Patrick, no less.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "mind-controlled", 
+                    "plain"
+                ], 
+                "role": "The football coach played by Robert Patrick in The Faculty, at least before he gets mind-controlled by aliens. Afterwards, he's just plain creepy.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "heavy", 
+                    "academic", 
+                    "preferential"
+                ], 
+                "role": "Dumb Muscle: Stan, much to his dismay. He feels that his heavy involvement as the captain of the football team is damaging his academic performance, and that his teachers are giving him preferential treatment just because he's a star athlete. This causes him to quit the team in order to focus on schoolwork.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "cool"
+                ], 
+                "role": "While snooping in the teachers' lounge, Casey tells Delilah that she can be \"pretty cool sometimes\" (i.e. when she's not being the Alpha Bitch). Delilah asks if he's hitting on her. At the end of the film, Delilah repeats this line to Casey, whom she is now dating.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "evil", 
+                    "alien"
+                ], 
+                "role": "Beautiful All Along: Miss Burke is an evil version of this trope. All it takes to make her look sexy is fixing her hair, dropping her glasses and giving her a red tank top...but this occurs after she's been turned into an alien puppet. Though being played by Famke Janssen certainly doesn't hurt either.", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Faculty: Famke Janssen's Ms. Burke up and down, from the glasses to the crippling shyness. When circumstances lead to the glasses coming off, this all changes.", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Delilah: The Chick", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Uncanny Valley Girl: Marybeth", 
+                "id": "UncannyValleyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0133751", 
+    "poster_url": "TheFaculty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "Meganekko", 
+                "AlphaBitch", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 4, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "Meganekko", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHouseBunny", 
+            "name": "The House Bunny", 
+            "poster_url": "TheHouseBunny.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "Meganekko", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "Meganekko", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "GeekCharming", 
+            "name": "Geek Charming"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "Meganekko", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanReturns", 
+            "name": "Batman Returns", 
+            "poster_url": "BatmanReturns.jpg"
+        }
+    ], 
+    "id": "TheFaculty", 
+    "name": "The Faculty"
+}

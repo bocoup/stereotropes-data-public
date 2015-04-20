@@ -1,0 +1,107 @@
+{
+    "plot": "A series of loosely connected skits that spoof news programs, commercials, porno films, kung fu films, disaster films, blaxploitation films, spy films, mafia films, and the fear that somebody is watching you on the other side of the TV.", 
+    "genres": "Comedy", 
+    "release_year": "1977", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Catholic School Girls Rule: Catholic High School Girls in Trouble", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [
+                    "entire", 
+                    "little"
+                ], 
+                "role": "The Kentucky Fried Movie: This is the entire point of the Show Within a Show parody sexploitation film Catholic High School Girls in Trouble. The clothing doesn't actually make an appearance. Because there is very little clothing involved.", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [
+                    "Feel-Around"
+                ], 
+                "role": "Cute Clumsy Girl: \"Carol\" in the \"Feel-Around\" sketch", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Catholic", 
+                    "High", 
+                    "famous", 
+                    "Swedish", 
+                    "late"
+                ], 
+                "role": "In The Kentucky Fried Movie, almost every actress in the fake trailer for \"Catholic High School Girls in Trouble\" segment falls into this trope. Uschi Digard, who appears naked in the shower with the front of her body pressed against the glass, was a famous Swedish porn star of the late 1960s and early 1970s.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [
+                    "educational"
+                ], 
+                "role": "Housewife: A parody of educational films features one tortured by an omnipotent narrator because she took zinc for granted.", 
+                "id": "HouseWife"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Cleopatra Schwartz.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0076257", 
+    "poster_url": "TheKentuckyFriedMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "HouseWife"
+            ], 
+            "shared_count": 2, 
+            "id": "HotelTransylvania", 
+            "name": "Hotel Transylvania", 
+            "poster_url": "HotelTransylvania.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBigHit", 
+            "name": "The Big Hit", 
+            "poster_url": "TheBigHit.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "CuteClumsyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "GoodLuckChuck", 
+            "name": "Good Luck Chuck", 
+            "poster_url": "GoodLuckChuck.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "ScaryMovie", 
+            "name": "Scary Movie", 
+            "poster_url": "ScaryMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "EvanAlmighty", 
+            "name": "Evan Almighty", 
+            "poster_url": "EvanAlmighty.jpg"
+        }
+    ], 
+    "id": "TheKentuckyFriedMovie", 
+    "name": "The Kentucky Fried Movie"
+}

@@ -1,0 +1,98 @@
+{
+    "plot": "The sheriff of a small town in southwest Texas must keep custody of a murderer whose brother, a powerful rancher, is trying to help him escape. After a friend is killed trying to muster support for him, he and his deputies - a disgraced drunk and a cantankerous old cripple - must find a way to hold out against the rancher's hired guns until the marshal arrives. In the meantime, matters are complicated by the presence of a young gunslinger - and a mysterious beauty who just came in on the last stagecoach.", 
+    "genres": "Western", 
+    "release_year": "1959", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: Stumpy.", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "nice", 
+                    "usual"
+                ], 
+                "role": "Colorado Ryan (Ricky Nelson) from Rio Bravo. A slight subversion in that Wayne says about him: \"It's nice to see a smart kid for a change.\" and Stumpy agrees. \"Yeah, he's not like the usual kid with a gun.\"", 
+                "id": "YoungGun"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Young Gun: Colorado Ryan", 
+                "id": "YoungGun"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "real", 
+                    "final"
+                ], 
+                "role": "Ms. Fanservice: Feathers has a real penchant for wearing tight clothes and constantly striking sexy poses, particularly for Chance's benefit. She cranks it Up to Eleven  in the final sequence, in Stocking Filler fashion. Again, for Chance to feast his eyes upon.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Feathers", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0053221", 
+    "poster_url": "RioBravo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "YoungGun"
+            ], 
+            "shared_count": 2, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "YoungGun"
+            ], 
+            "shared_count": 2, 
+            "id": "Silverado", 
+            "name": "Silverado", 
+            "poster_url": "Silverado.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "HaloLegends", 
+            "name": "Halo Legends", 
+            "poster_url": "HaloLegends.jpg"
+        }
+    ], 
+    "id": "RioBravo", 
+    "name": "Rio Bravo"
+}

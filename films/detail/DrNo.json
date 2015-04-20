@@ -1,0 +1,77 @@
+{
+    "plot": "James Bond (007) is Britain's top agent and is on an exciting mission, to solve the mysterious murder of a fellow agent. The task sends him to Jamaica, where he joins forces with Quarrel and a loyal CIA agent, Felix Leiter. While dodging tarantulas, \"fire breathing dragons\" and a trio of assassins, known as the three blind mice. Bond meets up with the beautiful Honey Ryder and goes face to face with the evil Dr. No.", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1962", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "In his first film, Dr. No, Felix Leiter compliments his suit and asks about his tailor.", 
+                "id": "SharpDressedMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Honey Rider at the end of the movie. Subverted in the book - she was tied up with the threat of being eaten by a swarm of crabs. She knew the crabs were harmless, and let them swarm over her; her distressed attitude was over what would happen to Bond.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0055928", 
+    "poster_url": "DrNo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolfMan1941", 
+            "name": "The Wolf Man ", 
+            "poster_url": "TheWolfMan1941.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "AlvinAndTheChipmunksMeetTheWolfman", 
+            "name": "Alvin and the Chipmunks Meet the Wolfman", 
+            "poster_url": "AlvinAndTheChipmunksMeetTheWolfman.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }
+    ], 
+    "id": "DrNo", 
+    "name": "Dr. No"
+}

@@ -1,0 +1,146 @@
+{
+    "plot": "The life of an aging black slave, Tom, and the people he interacts with.", 
+    "genres": "Drama", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "much", 
+                    "shaded", 
+                    "dimensional", 
+                    "former"
+                ], 
+                "role": "Dastardly Whiplash: Simon Legree is considered the Trope Maker, although he's a much more shaded, three dimensional character in the book than any of the whiplashes inspired by him, which often turned his persona into a mild caricature of its former self.", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [
+                    "cynical"
+                ], 
+                "role": "Sheltered Aristocrat: George and Alfred. St. Clair is a more cynical version.", 
+                "id": "ShelteredAristocrat"
+            }, 
+            {
+                "adjectives": [
+                    "slave-owning", 
+                    "wrong", 
+                    "benign"
+                ], 
+                "role": "Southern Gentleman: Augustine St. Clair who represents the slave-owning class at its best. Tom nevertheless makes it clear to him that slavery is wrong even under the most benign circumstances.", 
+                "id": "SouthernGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Cassie.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ill Girl: Evangeline, who has tuberculosis.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Na\u00efve", 
+                    "poor"
+                ], 
+                "role": "Na\u00efve Everygirl: Poor, poor Emmeline.", 
+                "id": "NaiveEverygirl"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Mary St. Clare.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Topsy and Cassy from Uncle Tom's Cabin.", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [
+                    "hair", 
+                    "pint-sized"
+                ], 
+                "role": "Sweet Polly Oliver:  To escape to Canada with her family without being noticed, Eliza must cut her long hair and crossdress at some point. Reversely, little Harry becomes a pint-sized Wholesome Crossdresser and dress up like a little girl.", 
+                "id": "SweetPollyOliver"
+            }, 
+            {
+                "adjectives": [
+                    "young"
+                ], 
+                "role": "Team Mom: Tom's wife Chloe. Arguably, also Miss Ophelia. Eva tries to be this, though she's obviously too young and sickly for it.", 
+                "id": "TeamMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Topsy and Eva.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094213", 
+    "similar": [
+        {
+            "shared": [
+                "ShelteredAristocrat", 
+                "TomBoyAndGirlyGirl", 
+                "DastardlyWhiplash", 
+                "RichBitch"
+            ], 
+            "shared_count": 4, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "BrokenBird", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "NaiveEverygirl", 
+                "TeamMom", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }, 
+        {
+            "shared": [
+                "NaiveEverygirl", 
+                "TomBoyAndGirlyGirl", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "IllGirl", 
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 3, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }
+    ], 
+    "id": "UncleTomsCabin", 
+    "name": "Uncle Tom's Cabin"
+}

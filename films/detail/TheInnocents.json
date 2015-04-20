@@ -1,0 +1,84 @@
+{
+    "plot": "In Victorian England, the uncle of orphaned niece Flora and nephew Miles hires Miss Giddens as governess to raise the children at his estate with total independence and authority. Soon after her arrival, Miss Giddens comes to believe that the spirits of the former governess Miss Jessel and valet Peter Quint are possessing the children. Miss Giddens decides to help the children to face and exorcise the spirits.", 
+    "genres": "Horror", 
+    "release_year": "1961", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Casanova: The uncle is said to be this. Miles has elements of it as well.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Woman in Black: Miss Jessel, although with the ghostly characteristics of a Woman in White. Miss Giddens may fit this trope when she silently (and creepily) approaches little Flora in the lake scene. The way the scene was filmed made the governess seem almost like a predator.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "white"
+                ], 
+                "role": "Woman in White: Flora. She's the only character who wears all white.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0055018", 
+    "poster_url": "TheInnocents.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInBlack", 
+                "TheCasanova", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendOfTheSeeker", 
+            "name": "Legend of the Seeker"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "TheInnocents", 
+    "name": "The Innocents"
+}

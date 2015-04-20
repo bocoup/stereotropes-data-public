@@ -1,0 +1,70 @@
+{
+    "plot": "A rap group heads to Atlanta to participate in Atlanta's revived Freaknik festival.", 
+    "genres": "Animation, Comedy, Musical", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Basement Dweller: Virgil roughly, living in the bottom floor of an apartment building. It's also the base of operations of the Sweet Tea Mob.", 
+                "id": "BasementDweller"
+            }, 
+            {
+                "adjectives": [
+                    "Basement-Dweller"
+                ], 
+                "role": "Basement-Dweller: Virgil roughly, living in the bottom floor of an apartment building. It's also the base of operations of the Sweet Tea Mob.", 
+                "id": "BasementDweller"
+            }
+        ]
+    }, 
+    "imdbid": "tt1535989", 
+    "similar": [
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScore", 
+            "name": "The Score", 
+            "poster_url": "TheScore.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "WaynesWorld", 
+            "name": "Wayne's World", 
+            "poster_url": "WaynesWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "BadlyDrawnRoy", 
+            "name": "Badly Drawn Roy"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "Mallrats", 
+            "name": "Mallrats", 
+            "poster_url": "Mallrats.jpg"
+        }
+    ], 
+    "id": "FreaknikTheMusical", 
+    "name": "Freaknik: The Musical"
+}

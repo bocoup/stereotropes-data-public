@@ -1,0 +1,103 @@
+{
+    "plot": "A remake of the 1985 original, teenager Charley Brewster (Yelchin) guesses that his new neighbor Jerry Dandrige (Farrell) is a vampire responsible for a string of recent deaths. When no one he knows believes him, he enlists Peter Vincent (Tennant), a self proclaimed vampire killer and Las Vegas magician, to help him take down Jerry.", 
+    "genres": "Comedy, Horror", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Peter, especially in the sequel.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "former"
+                ], 
+                "role": "Disposable Sex Worker: Played by former Playboy Playmate Heidi Sorenson. Also, She's Got Legs.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "former", 
+                    "famous", 
+                    "Hammer-esque", 
+                    "late-night", 
+                    "real"
+                ], 
+                "role": "Peter Vincent in Fright Night, a former B-movie actor once famous for playing a vampire hunter in a series of Hammer-esque films who now hosts a late-night horror program that's just been canceled. He gets called out of retirement to reprise his role for real.", 
+                "id": "WhiteDwarfStarlet"
+            }, 
+            {
+                "adjectives": [
+                    "White-Dwarf"
+                ], 
+                "role": "White-Dwarf Starlet: Peter, but he gets better.", 
+                "id": "WhiteDwarfStarlet"
+            }
+        ]
+    }, 
+    "imdbid": "tt1438176", 
+    "poster_url": "FrightNight.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "CoolOldGuy", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }
+    ], 
+    "id": "FrightNight", 
+    "name": "Fright Night"
+}

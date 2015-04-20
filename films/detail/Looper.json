@@ -1,0 +1,116 @@
+{
+    "plot": "In the year 2044, a man working for a group of killers called \"Loopers\" (they work for the mob and kill people who are sent blindfolded back in time from the year 2074 by their bosses) recognizes a victim as himself. He hesitates resulting in the escape of his older self.", 
+    "genres": "Action, Crime, Sci-Fi", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "possible"
+                ], 
+                "role": "Disappeared Dad: No mention is made of Cid's father, or where he might be. It's possible that Cid's mother, Sara, doesn't know who or where he is herself.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "possible"
+                ], 
+                "role": "Looper: No mention is made of Cid's father, or where he might be. It's possible that Cid's mother, Sara, doesn't know who or where he is herself.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Mom: Sara.", 
+                "id": "ActionMom"
+            }, 
+            {
+                "adjectives": [
+                    "Disposable"
+                ], 
+                "role": "Disposable Woman:  Old Joe's wife pretty much just exists to get killed. She doesn't even merit a name in the credits.", 
+                "id": "DisposableWoman"
+            }, 
+            {
+                "adjectives": [
+                    "standard", 
+                    "quasi-love", 
+                    "sympathetic"
+                ], 
+                "role": "Hooker with a Heart of Gold: Played with. Suzie seems like the standard HWAHOG, as a quasi-love interest and sympathetic parent figure, but she flatly rejects Joe's attempts to \"save\" her from her lifestyle, and she sees him as just another client.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Sara makes an effort to be this trope personified, except she's way softer than she plays at. Most of her Badass is bluster, which Joe twigs to quickly. Although, the moment that he reveals information that pinpoints Cid, she immediately shoots him in the chest with rock salt.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom:  Revealed to be the Rainmaker's Start of Darkness if the loop Old Joe inadvertently started continued: Cid, enraged and in grief over his mother's death, decides to become the Rainmaker and kill all Loopers.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt1276104", 
+    "poster_url": "Looper.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DisposableWoman", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Godzilla2014", 
+            "name": "Godzilla ", 
+            "poster_url": "Godzilla2014.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "FlyAwayHome", 
+            "name": "Fly Away Home", 
+            "poster_url": "FlyAwayHome.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLorax", 
+            "name": "The Lorax", 
+            "poster_url": "TheLorax.jpg"
+        }
+    ], 
+    "id": "Looper", 
+    "name": "Looper"
+}

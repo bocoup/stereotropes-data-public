@@ -1,0 +1,95 @@
+{
+    "plot": "After a little white lie about losing her virginity gets out, a clean cut high school girl sees her life paralleling Hester Prynne's in \"The Scarlet Letter,\" which she is currently studying in school - until she decides to use the rumor mill to advance her social and financial standing.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Marianne Bryant. First exaggerated, then lampshaded (at one point, she holds a meeting in a place called Libbey Park), then deconstructed.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Lovable", 
+                    "popular", 
+                    "perfect"
+                ], 
+                "role": "Lovable Alpha Bitch: Melody Bostik, - who according to Olive, \"is the most popular girl at school, because she's really pretty and has perfect hair\" - actually seems to be decently friendly.", 
+                "id": "LovableAlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Madonna-Whore"
+                ], 
+                "role": "Madonna-Whore Complex: Thoroughly explored.", 
+                "id": "MadonnaWhoreComplex"
+            }, 
+            {
+                "adjectives": [
+                    "Olive"
+                ], 
+                "role": "Ms. Fanservice: Olive and Rhiannon.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt1282140", 
+    "poster_url": "EasyA.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MadonnaWhoreComplex", 
+                "AlphaBitch", 
+                "LovableAlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBreakfastClub", 
+            "name": "The Breakfast Club", 
+            "poster_url": "TheBreakfastClub.jpg"
+        }, 
+        {
+            "shared": [
+                "MadonnaWhoreComplex", 
+                "MsFanservice", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "LovableAlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "LovableAlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }
+    ], 
+    "id": "EasyA", 
+    "name": "Easy A"
+}

@@ -1,0 +1,86 @@
+{
+    "plot": "Butch and Sundance are the two leaders of the Hole-in-the-Wall Gang. Butch is all ideas, Sundance is all action and skill. The west is becoming civilized and when Butch and Sundance rob a train once too often, a special posse begins trailing them no matter where they run. Over rock, through towns, across rivers, the group is always just behind them. When they finally escape through sheer luck, Butch has another idea, \"Let's go to Bolivia\". Based on the exploits of the historical characters.", 
+    "genres": "Biography, Crime, Western", 
+    "release_year": "1969", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Sundance sports one.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "handsome"
+                ], 
+                "role": "Mr. Fanservice: Newman and Redford, two very handsome men.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Gorgeous"
+                ], 
+                "role": "Ms. Fanservice: Etta (Katharine Ross) is introduced by The Kid getting her to take her Gorgeous Period Dress off.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0064115", 
+    "poster_url": "ButchCassidyAndTheSundanceKid.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "BadAssMustache", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "BadAssMustache", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }
+    ], 
+    "id": "ButchCassidyAndTheSundanceKid", 
+    "name": "Butch Cassidy and the Sundance Kid"
+}

@@ -1,0 +1,75 @@
+{
+    "plot": "Doug Roberts, Architect, returns from a long vacation to find work nearly completed on his skyscraper. He goes to the party that night concerned he's found that his wiring specifications have not been followed and that the building continues to develop short circuits. When the fire begins, Michael O'Halleran is the chief on duty as a series of daring rescues punctuate the terror of a building too tall to have a fire successfully fought from the ground.", 
+    "genres": "Action, Drama, Thriller", 
+    "release_year": "1974", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Roger Simmons, who takes the lift before his turn and pushes a man clinging to it to his death.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "Sensitive", 
+                    "Chief", 
+                    "tough"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Roberts and Chief O'Hallorhan. Both were essentially tough guys during their period in the movies, but McQueen was more commonly cast in \"hardcore hero\" roles.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0072308", 
+    "poster_url": "TheToweringInferno.gif", 
+    "similar": [
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePebbleAndThePenguin", 
+            "name": "The Pebble and the Penguin", 
+            "poster_url": "ThePebbleAndThePenguin.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "WomanInTheMoon", 
+            "name": "Woman in the Moon", 
+            "poster_url": "WomanInTheMoon.jpg"
+        }
+    ], 
+    "id": "TheToweringInferno", 
+    "name": "The Towering Inferno"
+}

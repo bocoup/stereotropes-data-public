@@ -1,0 +1,79 @@
+{
+    "plot": "Fred C. Dobbs and Bob Curtin, both down on their luck in Tampico, Mexico in 1925, meet up with a grizzled prospector named Howard and decide to join with him in search of gold in the wilds of central Mexico. Through enormous difficulties, they eventually succeed in finding gold, but bandits, the elements, and most especially greed threaten to turn their success into disaster.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "1948", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Howard.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "white", 
+                    "relative", 
+                    "scruffy", 
+                    "same"
+                ], 
+                "role": "The novel of The Treasure of the Sierra Madre has an opening chapter involving Dobbs panhandling from a man in a white suit, which symbolizes relative wealth in that very scruffy Mexican town. In fact, Dobbs inadvertently buttonholes the same man three times \u2014 he only looked at the suit, not its wearer.", 
+                "id": "ManInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0040897", 
+    "poster_url": "TheTreasureOfTheSierraMadre.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TwelveAngryMen", 
+            "name": "12 Angry Men", 
+            "poster_url": "TwelveAngryMen.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheProphecy", 
+            "name": "The Prophecy", 
+            "poster_url": "TheProphecy.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "ToKillAMockingbird", 
+            "name": "To Kill a Mockingbird", 
+            "poster_url": "ToKillAMockingbird.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "DjangoUnchained", 
+            "name": "Django Unchained", 
+            "poster_url": "DjangoUnchained.jpg"
+        }
+    ], 
+    "id": "TheTreasureOfTheSierraMadre", 
+    "name": "The Treasure of the Sierra Madre"
+}

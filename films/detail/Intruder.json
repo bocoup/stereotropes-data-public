@@ -1,0 +1,77 @@
+{
+    "plot": "The ex-boyfriend of a check-out girl at a supermarket returns at closing time to make trouble. They quarrel and the boyfriend is ejected from the store. After they lock the building up to take inventory, the employees start dying off, and the survivors must eventually find a way to escape with their lives.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1989", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Jennifer.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0095379", 
+    "poster_url": "Intruder.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "They", 
+            "name": "They", 
+            "poster_url": "They.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackChristmas1974", 
+            "name": "Black Christmas ", 
+            "poster_url": "BlackChristmas1974.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LakePlacid", 
+            "name": "Lake Placid", 
+            "poster_url": "LakePlacid.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "NoroiTheCurse", 
+            "name": "Noroi: The Curse", 
+            "poster_url": "NoroiTheCurse.jpg"
+        }
+    ], 
+    "id": "Intruder", 
+    "name": "Intruder"
+}

@@ -1,0 +1,117 @@
+{
+    "plot": "Sometime in the future, the city of Metropolis is home to a Utopian society where its wealthy residents live a carefree life. One of those is Freder Fredersen. One day, he spots a beautiful woman with a group of children, she and the children who quickly disappear. Trying to follow her, he, oblivious to such, is horrified to find an underground world of workers, apparently who run the machinery which keeps the above ground Utopian world functioning. One of the few people above ground who knows about the world below is Freder's father, Joh Fredersen, who is the founder and master of Metropolis. Freder learns that the woman is Maria, who espouses the need to join the \"hands\" - the workers - to the \"head\" - those in power above - by a mediator or the \"heart\". Freder wants to help the plight of the workers in the want for a better life. But when Joh learns of what Maria is espousing and that Freder is joining their cause, Joh, with the assistance of an old colleague and now nemesis named Rotwang, an inventor, works toward quashing a supposed uprising, with Maria as the center of their plan. However, Joh is unaware that Rotwang has his own agenda. But if any of these plans includes the shut down of the machines, total anarchy could break loose both above ground and below.", 
+    "genres": "Drama, Sci-Fi", 
+    "release_year": "1927", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Maria, captured and imprisoned by Rotwang.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: The Machine Man.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "robotic", 
+                    "diabolical", 
+                    "machine-woman", 
+                    "double"
+                ], 
+                "role": "In Fritz Lang's Metropolis, Maria is saintly and pure, whereas her robotic doppelganger is a diabolical temptress who works as a dancing girl at Toshiwara. Of course, the machine-woman was deliberately made that way by Rotwang and Joh Fredersen to discredit Maria. They even spell it out for us - not only is Maria named after the Virgin Mary, but her robot double is repeatedly and explicitly compared to the Whore of Babylon from Revelation.", 
+                "id": "MadonnaWhoreComplex"
+            }, 
+            {
+                "adjectives": [
+                    "Madonna-Whore", 
+                    "explicit", 
+                    "real", 
+                    "passive", 
+                    "evil", 
+                    "hyperactive", 
+                    "former", 
+                    "original", 
+                    "whilst"
+                ], 
+                "role": "Madonna-Whore Complex: The film contains one of the most explicit and extreme examples in fiction. The real Maria is passive, saintly, and demure, whilst Robot-Maria is an evil, hyperactive seductress. The former is (obviously) named after the original Madonna, the Virgin Mary, whilst the latter is repeatedly compared to the Whore of Babylon from the Book of Revelations.", 
+                "id": "MadonnaWhoreComplex"
+            }, 
+            {
+                "adjectives": [
+                    "iconic", 
+                    "likely"
+                ], 
+                "role": "The iconic Robot Maria from Metropolis. In the novel Rotwang, the scientist who creates her, says that it's far more likely for a man to create a woman than another man.", 
+                "id": "RobotGirl"
+            }, 
+            {
+                "adjectives": [
+                    "single"
+                ], 
+                "role": "Metropolis: Maria wholeheartedly believes that a violent worker's uprising can be averted by a single person's intervention - even after the uprising takes place.", 
+                "id": "TheIngenue"
+            }
+        ]
+    }, 
+    "imdbid": "tt0017136", 
+    "poster_url": "Metropolis.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheIngenue", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "LemonadeJoe", 
+            "name": "Lemonade Joe", 
+            "poster_url": "LemonadeJoe.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheIngenue", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheIngenue"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "Metropolis", 
+    "name": "Metropolis"
+}

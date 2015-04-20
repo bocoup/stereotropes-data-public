@@ -1,0 +1,115 @@
+{
+    "plot": "Two brothers face the fight of a lifetime - and the wreckage of their broken family - within the brutal, high-stakes world of Mixed Martial Arts (MMA) fighting in Lionsgate's action/drama, WARRIOR. An ex-Marine haunted by a tragic past, Tommy Riordan returns to his hometown of Pittsburgh and enlists his father, a recovered alcoholic and his former coach, to train him for an MMA tournament awarding the biggest purse in the history of the sport. As Tommy blazes a violent path towards the title prize, his brother, Brendan, a former MMA fighter unable to make ends meet as a public school teacher, returns to the amateur ring to provide for his family. Even though years have passed, recriminations and past betrayals keep Brendan bitterly estranged from both Tommy and his father. But when Brendan's unlikely rise as an underdog sets him on a collision course with Tommy, the two brothers must finally confront the forces that tore them apart, all the while waging the most intense, winner-takes-all battle of their lives.", 
+    "genres": "Drama, Sport", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "classical"
+                ], 
+                "role": "Cultured Badass: Frank Campana trains his fighters using classical music and philosophies.", 
+                "id": "CulturedBadass"
+            }, 
+            {
+                "adjectives": [
+                    "such", 
+                    "bad", 
+                    "possible"
+                ], 
+                "role": "In Warrior, Brandon runs into such a banker, whose bad advice led to Brandon's debt growing and a possible foreclosure. To really rub it in, he got his daughter's illness mixed up because of \"all the sob stories\".", 
+                "id": "MorallyBankruptBanker"
+            }, 
+            {
+                "adjectives": [
+                    "Bankrupt", 
+                    "hard"
+                ], 
+                "role": "Morally Bankrupt Banker: The banker shows absolutely no sympathy for Brendan's situation. At one point he rolls his eyes and mutters about how hard it is to keep all of his clients' sob stories straight.", 
+                "id": "MorallyBankruptBanker"
+            }, 
+            {
+                "adjectives": [
+                    "Sensitive", 
+                    "huge", 
+                    "bad", 
+                    "only", 
+                    "own"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Deconstructed. Tommy, the Badass Lightning Bruiser, has huge abandonment and Parental Issues and fights brutally as an outlet for all the bad things that happened in his life. Brendan, the passionate one, has guilt for not going with Tommy and their mother (especially when he realized things went From Bad to Worse) when he decided to stay with their father despite being The Unfavourite because he wanted to have a proper relationship with him, in addition to the only reason for him fighting again is to keep his own family afloat.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Tommy from Warrior. He's ridiculously damaged, and has got a fractured (to the extreme) relationship with his father and his brother. But he's a good guy, as shown by his reason for entering the tournament and by how he  selflessly saved a bunch of marines in the war.", 
+                "id": "TroubledButCute"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Brendan's wife, played by Jennifer Morrison. To say nothing of the ring girls.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt1291584", 
+    "poster_url": "Warrior.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "TroubledButCute", 
+                "MorallyBankruptBanker", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 4, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "XMen", 
+            "name": "X-Men", 
+            "poster_url": "XMen.jpg"
+        }
+    ], 
+    "id": "Warrior", 
+    "name": "Warrior"
+}

@@ -1,0 +1,97 @@
+{
+    "plot": "At the beginning of the twentieth century, Mrs. Edwin Muir - Lucy - widowed for one year, decides to move out of her controlling in-law's home in London to the English seaside with her adolescent daughter Anna and their long devoted maid Martha. Despite the rental agent trying to dissuade her, Lucy decides to rent Gull Cottage at Whitecliff-by-the-Sea. She learns first hand before she makes the decision the rental agent's hesitance is because the cottage is haunted, supposedly by its now deceased former owner, seaman Captain Daniel Gregg. After she moves in, she does meet the spirit of Captain Gregg face-to-face. Because she refuses to be scared away by his presence, the two come to an understanding, including that he will not make his presence known to Anna. As time progresses, the two develop a friendship and a bond. Despite his statements to her that she needs to live her life including finding another husband, Daniel seems not to approve of any of the men that enter her life, including the most serious, children's author Miles Fairley. Because of his feelings for her, Daniel eventually has to decide if being a part of her life is more a benefit or hindrance to her in carrying on with the living, regardless of perhaps not being able to carry out his initial goal of realizing his vision for Gull Cottage if he leaves.", 
+    "genres": "Drama, Fantasy, Mystery", 
+    "release_year": "1947", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "eloquent"
+                ], 
+                "role": "Cultured Badass: Daniel quotes Keats and is quite eloquent while dictating his memoirs.", 
+                "id": "CulturedBadass"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ladykiller in Love: Daniel mentions three women mourning his death. And then he meets Lucy.", 
+                "id": "LadyKillerInLove"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Subverted. Lucy's not helpless, but Daniel thinks she is.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Determined Widow", 
+                "id": "DeterminedWidow"
+            }, 
+            {
+                "adjectives": [
+                    "dogged"
+                ], 
+                "role": "Plucky Girl: Lucy is brave and dogged, in her prim way.", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0039420", 
+    "poster_url": "TheGhostAndMrsMuir.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "LadyKillerInLove", 
+                "DeterminedWidow"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "StreetFighter", 
+            "name": "Street Fighter", 
+            "poster_url": "StreetFighter.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "LastActionHero", 
+            "name": "Last Action Hero", 
+            "poster_url": "LastActionHero.jpg"
+        }
+    ], 
+    "id": "TheGhostAndMrsMuir", 
+    "name": "The Ghost and Mrs. Muir"
+}

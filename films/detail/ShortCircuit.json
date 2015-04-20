@@ -1,0 +1,70 @@
+{
+    "plot": "Number 5, one of a group of experimental military robots, undergoes a sudden transformation after being struck by lightning. He develops self-awareness, consciousness, and a fear of the reprogramming that awaits him back at the factory. With the help of a young woman, Number 5 tries to evade capture and convince his creator that he has truly become alive.", 
+    "genres": "Comedy, Family, Sci-Fi", 
+    "release_year": "1986", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "poor", 
+                    "homeless", 
+                    "natural", 
+                    "military"
+                ], 
+                "role": "Granola Girl: Stephanie. Takes in all manner of poor and homeless animals (and one sentient robot), runs a truck that she sells natural food out of, and expresses her deep displeasure with the military and their weapons.", 
+                "id": "GranolaGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0091949", 
+    "poster_url": "ShortCircuit.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "MyGirl", 
+            "name": "My Girl", 
+            "poster_url": "MyGirl.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "BeforeSunrise", 
+            "name": "Before Sunrise", 
+            "poster_url": "BeforeSunrise.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Detention", 
+            "name": "Detention", 
+            "poster_url": "Detention.jpg"
+        }
+    ], 
+    "id": "ShortCircuit", 
+    "name": "Short Circuit"
+}

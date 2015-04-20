@@ -1,0 +1,124 @@
+{
+    "plot": "Disney animators set pictures to Western classical music as Leopold Stokowski conducts the Philadelphia Orchestra. \"The Sorcerer's Apprentice\" features Mickey Mouse as an aspiring magician who oversteps his limits. \"The Rite of Spring\" tells the story of evolution, from single-celled animals to the death of the dinosaurs. \"Dance of the Hours\" is a comic ballet performed by ostriches, hippos, elephants, and alligators. \"Night on Bald Mountain\" and \"Ave Maria\" set the forces of darkness and light against each other as a devilish revel is interrupted by the coming of a new day.", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "fourth"
+                ], 
+                "role": "Henpecked Husband: John, the fourth main character in Rhapsody in Blue", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "fun-loving"
+                ], 
+                "role": "In Fantasia 2000's \"Rhapsody in Blue\", one of the characters is a fun-loving husband who is forced to foot the bill and carry all of his wife's belongings, most of which are going to pamper her dog, who she seems to love more than him.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene: Chernabog, although the rest is cover by the mountain peak.", 
+                "id": "WalkingShirtlessScene"
+            }, 
+            {
+                "adjectives": [
+                    "magic"
+                ], 
+                "role": "Yen Sid, Mickey Mouse's magic teacher in both Fantasia and the Kingdom Hearts series.", 
+                "id": "WizardBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Big Beautiful Woman: The ballerina, Hyacinth Hippo, to the point that the gators fight over getting to dance with her.", 
+                "id": "BigBeautifulWoman"
+            }, 
+            {
+                "adjectives": [
+                    "real", 
+                    "appropriate"
+                ], 
+                "role": "Hyacinth Hippo in the Dance of the Hours section of Fantasia. Not only did the alligators end up fighting over her favor, her movements were modeled after footage of a real ballet dancer, then given the appropriate amount of heft.", 
+                "id": "BigBeautifulWoman"
+            }, 
+            {
+                "adjectives": [
+                    "female", 
+                    "appear", 
+                    "actual"
+                ], 
+                "role": "Interesting variation in Disney's Fantasia, with female centaurs wearing tops and necklaces made out of flowers that appear to be motivated more by the Theiss Titillation Theory than actual modesty, even though the centauresses otherwise exhibit Barbie Doll Anatomy...", 
+                "id": "SeashellBra"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fantasia has it in the Pastoral Symphony, when the cupids are matchmaking among the Centaurs.", 
+                "id": "SwingLowSweetHarriet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Swing Low Sweet Harriet: One centauress is pushed on a swing by her mate.", 
+                "id": "SwingLowSweetHarriet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0032455", 
+    "poster_url": "Fantasia.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BigBeautifulWoman", 
+                "SeashellBra"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BigBeautifulWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "SeashellBra", 
+                "BigBeautifulWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Madagascar", 
+            "name": "Madagascar", 
+            "poster_url": "Madagascar.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "BigBeautifulWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Hairspray", 
+            "name": "Hairspray", 
+            "poster_url": "Hairspray.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }
+    ], 
+    "id": "Fantasia", 
+    "name": "Fantasia"
+}

@@ -1,0 +1,91 @@
+{
+    "plot": "Harry and Sally meet when she gives him a ride to New York after they both graduate from the University of Chicago. The film jumps through their lives as they both search for love, but fail, bumping into each other time and time again. Finally a close friendship blooms between them, and they both like having a friend of the opposite sex. But then they are confronted with the problem: \"Can a man and a woman be friends, without sex getting in the way?\"", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "Beard of Sorrow: Harry has had a few weeks' growth by the time of his divorce.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sally's boyfriend in college broke up with her because she wore panties embroidered with the days of the week. And \"Sunday\" was missing. J'accuse!", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kavorka Man: Harry must be a walking petri dish of venereal disease by this point. (Sally lampshades) Husband #3 cannot keep track of his past conquests when relating his story. His wife does, though.", 
+                "id": "KavorkaMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "other", 
+                    "Julian", 
+                    "particular"
+                ], 
+                "role": "Girl of the Week: The other people Harry and Sally briefly date (Julian; \"Aunt\" Emily in particular)", 
+                "id": "GirlOfTheWeek"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098635", 
+    "poster_url": "WhenHarryMetSally.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "GirlOfTheWeek"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheButterflyEffect", 
+            "name": "The Butterfly Effect", 
+            "poster_url": "TheButterflyEffect.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCollector", 
+            "name": "The Collector", 
+            "poster_url": "TheCollector.jpg"
+        }
+    ], 
+    "id": "WhenHarryMetSally", 
+    "name": "When Harry Met Sally"
+}

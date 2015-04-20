@@ -1,0 +1,96 @@
+{
+    "plot": "Tourists are surprised by a volcanic eruption in a lonesome hotel in the Caribic. The hotel owner ignores all warnings and advises his guests to wait for a rescue team. Only a small group follows expert Hank to reach higher regions. They start an adventurous journey across the island.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe: Kelly has a moment of this when he is waiting for Tiny in their jeep at the freight office. He hits on a passing woman with the cheesy pickup line, \"Don't I know your sister?\"", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Rene Valdez, when he recreates his tightrope act to safely hoist a child on his back across the remnants of the bridge. Which is still barely standing over LAVA, at that.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "unsuccessful", 
+                    "young"
+                ], 
+                "role": "Dirty Old Man: Shelby, who has already had six wives and wants to make Kay his seventh, despite the two being at least twenty years apart in age. Kelly makes an (unsuccessful) pass at a young woman as he waits in the jeep for Tiny.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gentleman Thief: Francis Fendly.", 
+                "id": "GentlemanThief"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Kay, Nikki, and Iolani.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0081747", 
+    "poster_url": "WhenTimeRanOut.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }
+    ], 
+    "id": "WhenTimeRanOut", 
+    "name": "When Time Ran Out"
+}

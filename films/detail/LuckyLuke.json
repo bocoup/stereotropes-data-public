@@ -1,0 +1,149 @@
+{
+    "plot": "Fearless gunslinger, Lucky Luke, is ordered by the President to bring peace to Daisy Town.", 
+    "genres": "Adventure, Comedy, Western", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: The Dalton Brothers.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Beardness Protection Program: Works well on Dr. Doxey.", 
+                "id": "BeardnessProtectionProgram"
+            }, 
+            {
+                "adjectives": [
+                    "self-assertive", 
+                    "incredible"
+                ], 
+                "role": "Henpecked Husband: Mr. Flimsy in The Stagecoach. Played with as he gradually becomes more self-assertive once he realizes that he has incredible luck with games of chance.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "Several", 
+                    "amusing", 
+                    "poor", 
+                    "enough", 
+                    "several", 
+                    "assertive"
+                ], 
+                "role": "Several couples in Lucky Luke fall under this. One particularly amusing example was in \"The Stagecoach\", where the poor guy can barely open his mouth without his wife telling him that's enough out of him. She's also proving far more competent than he is at shooting. But, surprisingly enough, winning several poker games made him far more assertive.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "titular", 
+                    "last", 
+                    "sunset"
+                ], 
+                "role": "The titular character of Lucky Luke embodies this, to the point where the last panel of every album is him riding off into the sunset, singing I'm a lonesome cowboy.", 
+                "id": "KnightErrant"
+            }, 
+            {
+                "adjectives": [
+                    "dig", 
+                    "single"
+                ], 
+                "role": "The Dalton Brothers from Lucky Luke are experts in escaping through tunnels. They often dig one tunnel each to get out of their single cell, but still.", 
+                "id": "TunnelKing"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tunnel King: The Dalton Brothers are experts in escaping through tunnels. With spoons no less. Often digging one tunnel per Dalton.", 
+                "id": "TunnelKing"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lucky Luke: One story has Calamity Jane taking etiquette and cooking lessons. Needless to say, she can't help but swear like a sailor and her cookies are inedible. When threatening a group of men with her rifle unless they eat up, one of them opens his shirt and says \"Fire!\"", 
+                "id": "FemininityFailure"
+            }, 
+            {
+                "adjectives": [
+                    "only"
+                ], 
+                "role": "From Lucky Luke, Ma Dalton can certainly be scarier than her four desperado sons. She was a fearsome bandit herself and still carries a loaded gun in her handbag.\n Luke even says after his duel that it was the only time he was ever afraid.", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [
+                    "scared", 
+                    "quick-draw", 
+                    "old"
+                ], 
+                "role": "Never Mess with Granny: Ma Dalton. Luke even says he'd never been so scared as during his quick-draw with her, as there's no way he could shoot an old lady even if she was in fact very much about to kill him. Good thing Sweetie chose that moment to jump into her arms, allowing Luke to disarm her.", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [
+                    "scared", 
+                    "quick-draw", 
+                    "old"
+                ], 
+                "role": "Never Mess with Granny: Ma Dalton. Luke even says he'd never been so scared as during his quick-draw with her, as there's no way he could shoot an old lady even if she was in fact very much about to kill him.  Good thing Sweetie chose that moment to jump into her arms, allowing Luke to disarm her.", 
+                "id": "NeverMessWithGranny"
+            }
+        ]
+    }, 
+    "imdbid": "tt1235536", 
+    "poster_url": "LuckyLuke.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssMustache", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuHustle", 
+            "name": "Kung Fu Hustle", 
+            "poster_url": "KungFuHustle.jpg"
+        }, 
+        {
+            "shared": [
+                "KnightErrant", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "AFistfulOfDollars", 
+            "name": "A Fistful of Dollars", 
+            "poster_url": "AFistfulOfDollars.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "TheNightOfTheHunter", 
+            "name": "The Night of the Hunter", 
+            "poster_url": "TheNightOfTheHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "KnightErrant", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "ForAFewDollarsMore", 
+            "name": "For a Few Dollars More", 
+            "poster_url": "ForAFewDollarsMore.jpg"
+        }
+    ], 
+    "id": "LuckyLuke", 
+    "name": "Lucky Luke"
+}

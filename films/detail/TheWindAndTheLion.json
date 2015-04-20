@@ -1,0 +1,82 @@
+{
+    "plot": "At the beginning of the 20th century an American woman is abducted in Morocco by Berbers. The attempts to free her range from diplomatic pressure to military intervention.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gentleman Adventurer: Theodore Roosevelt; Also, Sir Joshua Kenyon-Smith, the Briton who runs out of bullets (\"Oh, damn.\") in the opening fight sequence", 
+                "id": "GENTLEMANADVENTURER"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "half-way"
+                ], 
+                "role": "Action Mom: Mrs. Pedicaris is always one, although she doesn't actively wield a weapon until half-way through the movie.", 
+                "id": "ActionMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Mrs. Pedicaris", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0073906", 
+    "poster_url": "TheWindAndTheLion.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "PokemonZoroarkMasterOfIllusions", 
+            "name": "Pok\u00e9mon: Zoroark: Master of Illusions"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLorax", 
+            "name": "The Lorax", 
+            "poster_url": "TheLorax.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongKissGoodnight", 
+            "name": "The Long Kiss Goodnight", 
+            "poster_url": "TheLongKissGoodnight.jpg"
+        }
+    ], 
+    "id": "TheWindAndTheLion", 
+    "name": "The Wind And The Lion"
+}

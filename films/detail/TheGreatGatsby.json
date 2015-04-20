@@ -1,0 +1,88 @@
+{
+    "plot": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.", 
+    "genres": "Drama, Romance", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Sorrow: Nick grows one following Gatsby's death.", 
+                "id": "BeardOfSorrow"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Statuesque Stunner: Jordan Baker (Elizabeth Debicki) is at least 6ft.", 
+                "id": "StatuesqueStunner"
+            }, 
+            {
+                "adjectives": [
+                    "Jordan\u25ca", 
+                    "Catherine\u25ca", 
+                    "full"
+                ], 
+                "role": "The Flapper: Jordan\u25ca and Catherine\u25ca, full stop. Daisy merely plays at it.", 
+                "id": "TheFlapper"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Great Gatsby, naturally.", 
+                "id": "TheFlapper"
+            }
+        ]
+    }, 
+    "imdbid": "tt1343092", 
+    "poster_url": "TheGreatGatsby.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "StatuesqueStunner"
+            ], 
+            "shared_count": 2, 
+            "id": "XMen", 
+            "name": "X-Men", 
+            "poster_url": "XMen.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "StatuesqueStunner"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "TheFlapper"
+            ], 
+            "shared_count": 2, 
+            "id": "TheArtist", 
+            "name": "The Artist", 
+            "poster_url": "TheArtist.jpg"
+        }, 
+        {
+            "shared": [
+                "StatuesqueStunner"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "StatuesqueStunner"
+            ], 
+            "shared_count": 1, 
+            "id": "ALeagueOfTheirOwn", 
+            "name": "A League of Their Own", 
+            "poster_url": "ALeagueOfTheirOwn.jpg"
+        }
+    ], 
+    "id": "TheGreatGatsby", 
+    "name": "The Great Gatsby"
+}

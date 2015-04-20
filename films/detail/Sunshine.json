@@ -1,0 +1,84 @@
+{
+    "plot": "50 years into the future, the Sun begins to die, and Earth is dying as a result. A team of astronauts are sent to revive the Sun - but the mission fails. Seven years later, a new team is sent to finish the mission as mankind's last hope.", 
+    "genres": "Adventure, Sci-Fi, Thriller", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Kaneda sports one.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [
+                    "Sorrow/Important", 
+                    "beard", 
+                    "clean-shaven", 
+                    "fresh"
+                ], 
+                "role": "Beard of Sorrow/Important Haircut: Mace has a stubbly beard and unkempt hair, showing that he's suffering from lowered morale. When he finally gets control of himself, he shows up clean-shaven, with a fresh buzzcut.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "clean-shaved", 
+                    "fresh"
+                ], 
+                "role": "In Sunshine, Mace's unkempt hair and stubbly beard represent his degrading morale. When he finally starts to buck up and take things seriously, he shows up clean-shaved, with a fresh buzzcut.", 
+                "id": "BeardOfSorrow"
+            }
+        ]
+    }, 
+    "imdbid": "tt0448134", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "TheOutlawJoseyWales", 
+            "name": "The Outlaw Josey Wales", 
+            "poster_url": "TheOutlawJoseyWales.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "Pirates", 
+            "name": "Pirates", 
+            "poster_url": "Pirates.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }
+    ], 
+    "id": "Sunshine", 
+    "name": "Sunshine"
+}

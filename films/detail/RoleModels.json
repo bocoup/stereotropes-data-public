@@ -1,0 +1,78 @@
+{
+    "plot": "Danny and Wheeler, well into their 30s, lack something: Danny feels stuck; he's sour and has driven away his terrific girlfriend. Wheeler chases any skirt he sees for empty sex. When they get in a fight with a tow-truck driver, they choose community service over jail and are assigned to be big brothers - Danny to Augie, a geek who loves to LARP (Live Action Role Play), and Wheeler to Ronnie, a pint-size foul-mouthed kid. After a rocky start, things start to go well until both Danny and Wheeler make big mistakes. Can the two men figure out how to change enough to be role models to the boys?", 
+    "genres": "Comedy", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Casanova/Lovable", 
+                    "junior"
+                ], 
+                "role": "The Casanova/Lovable Sex Maniac: Wheeler. Ronnie is a junior version of this.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Ronnie's mother describes herself as one of these to Wheeler after Ronnie walked all the way home from a party Wheeler took him to.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0430922", 
+    "poster_url": "RoleModels.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "EastIsEast", 
+            "name": "East is East", 
+            "poster_url": "EastIsEast.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "AustinPowers", 
+            "name": "Austin Powers", 
+            "poster_url": "AustinPowers.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dune", 
+            "name": "Dune", 
+            "poster_url": "Dune.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "FourBrothers", 
+            "name": "Four Brothers"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }
+    ], 
+    "id": "RoleModels", 
+    "name": "Role Models"
+}

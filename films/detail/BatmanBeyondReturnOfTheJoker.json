@@ -1,0 +1,104 @@
+{
+    "plot": "While trying to uncover the Joker's secrets, Terry McGinnis, the new Batman, discovers the greatest mystery in the career of the original Batman - the true story of the night Batman fought the Joker for the last time. Though when Bruce Wayne is almost killed in one of the Joker's new attacks, it's up to Batman Beyond to avenge his mentor and put the Joker to rest forever.", 
+    "genres": "Animation, Action, Crime", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "exact"
+                ], 
+                "role": "Beast Man: Woof. He's a human spliced with Hyena DNA, to be exact.", 
+                "id": "BeastMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Non-Action Guy: out of all the Jokerz, Ghoul has the worst record in fighting Batman.", 
+                "id": "NonActionGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Seeing what Joker had done to Tim Drake was the one thing that seemed to convince Bruce to finally try and kill him in the flashback (course, being mocked over his parents' deaths probably didn't help either).", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Decoy Damsel: Harley Quinn, in order to capture Tim Drake.", 
+                "id": "DecoyDamsel"
+            }, 
+            {
+                "adjectives": [
+                    "oversized"
+                ], 
+                "role": "Harley Quinn did this in Batman Beyond: Return of the Joker, pretending to be a mugging victim so Robin could come to her rescue. When his back was turned, she knocked him out with an oversized mallet.\n This is also how she captures Batman in Batman: The Animated Series episode Mad Love.", 
+                "id": "DecoyDamsel"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "Joker\u2019s", 
+                    "own"
+                ], 
+                "role": "Harley Quinn deconstructs the Perky Female Minion into Cute and Psycho after helping the Joker torture Robin, showing us that she was just another psychopath. Batgirl conveniently forgets that the only one of Joker\u2019s potential victims Harley defended in the series was Poison Ivy and Arkhan Asylum's inmates. Harley was perfectly okay with The Joker torturing and killing Harvey Bullock, Charlie Collins, Sid the Squid, Carl Francis, Thomas Jackson, Batgirl's own father, Commissioner Gordon, etc...:", 
+                "id": "PerkyFemaleMinion"
+            }
+        ]
+    }, 
+    "imdbid": "tt0233298", 
+    "poster_url": "BatmanBeyondReturnOfTheJoker.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "PerkyFemaleMinion", 
+                "DecoyDamsel"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DecoyDamsel"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "PerkyFemaleMinion", 
+                "DecoyDamsel"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "LoneWolfAndCub", 
+            "name": "Lone Wolf and Cub"
+        }
+    ], 
+    "id": "BatmanBeyondReturnOfTheJoker", 
+    "name": "Batman Beyond: Return of the Joker"
+}

@@ -1,0 +1,102 @@
+{
+    "plot": "George, the son of the sorceress Sybil, has been watching the beautiful Princess Helene from afar and is very much in love with her. When she is kidnapped by the evil wizard Lodac, the king her father announces that she will be given in marriage to whoever rescues her. The first to volunteer is Sir Branton who expects to undertake the task alone. George, over his mother's objections, also decides to save her and is accompanied by six ancient knights. The journey is perilous with Lodac placing a series of challenges before them. Many in the group do not survive but George must eventually face Lodac's greatest challenge - his dragon.", 
+    "genres": "Adventure, Drama, Fantasy", 
+    "release_year": "1962", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Knight in Shining Armor: George and his Knights.", 
+                "id": "KnightInShiningArmor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: George when he's locked up in Lodac's dungeon.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Princess Helene.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Disposable"
+                ], 
+                "role": "Disposable Woman: The two princesses before Princess Helena.", 
+                "id": "DisposableWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: Princess Helene.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: The Hag, when she's putting on the Fanservice.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0056211", 
+    "poster_url": "TheMagicSword.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DisposableWoman", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "DisposableWoman", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "DamselInDistress", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "ShirtlessScene", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "MirrorMirror", 
+            "name": "Mirror, Mirror"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DisposableWoman", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendsOfTheFall", 
+            "name": "Legends Of The Fall"
+        }
+    ], 
+    "id": "TheMagicSword", 
+    "name": "The Magic Sword"
+}

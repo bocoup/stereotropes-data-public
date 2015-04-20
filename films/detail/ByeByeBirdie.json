@@ -1,0 +1,128 @@
+{
+    "plot": "Conrad Birdie is the biggest rock & roll star of the 60's ever to be drafted. Aspiring chemist and song writer Albert is convinced he can make his fortune and marry his girlfriend Rosie if he gets Conrad on the Ed Sullivan show to kiss a high school girl goodbye. Albert's mother will do anything to break him up with Rosie. Kim and Hugo, the high school steadies, live in Sweet Apple, Ohio where most of the action takes place.", 
+    "genres": "Comedy, Musical", 
+    "release_year": "1963", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Mr. Macafee in Bye Bye Birdie.", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Albert Peterson in Bye Bye Birdie.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bye Bye Birdie: The number \"A Healthy, Normal American Boy\" describes Conrad Birdie as this in a series of Blatant Lies.", 
+                "id": "TheAllAmericanBoy"
+            }, 
+            {
+                "adjectives": [
+                    "All-American"
+                ], 
+                "role": "The All-American Boy: The number \"A Healthy, Normal American Boy\" describes Conrad Birdie as this in a series of Blatant Lies.", 
+                "id": "TheAllAmericanBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "million-strong"
+                ], 
+                "role": "Fangirl: Conrad has a million-strong army of them who scream bloody murder and/or faint whenever his name is spoken, pledge allegiance to Conrad Birdie, and incessantly sing the biggest Ear Worm of the show.", 
+                "id": "Fangirl"
+            }, 
+            {
+                "adjectives": [
+                    "main", 
+                    "one-off"
+                ], 
+                "role": "Fat Girl: The main comedic point of one-off character Gloria Rasputin in some productions.", 
+                "id": "FatGirl"
+            }, 
+            {
+                "adjectives": [
+                    "high", 
+                    "song"
+                ], 
+                "role": "The high school girls in Bye Bye Birdie in the song \"The Telephone Hour\"", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Albert Peterson's dithering mother in Bye Bye Birdie is often portrayed this way, even though we're never given any reason to believe that the Peterson family is Jewish.", 
+                "id": "JewishMother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mae Peterson in Bye Bye Birdie:", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Albert's mother. Hoo, boy.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0056891", 
+    "poster_url": "ByeByeBirdie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GossipyHens", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother", 
+                "GrumpyOldMan", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "JewishMother", 
+                "Fangirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SaturdayNightFever", 
+            "name": "Saturday Night Fever", 
+            "poster_url": "SaturdayNightFever.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionInWinter", 
+            "name": "The Lion in Winter", 
+            "poster_url": "TheLionInWinter.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }
+    ], 
+    "id": "ByeByeBirdie", 
+    "name": "Bye Bye Birdie"
+}

@@ -1,0 +1,105 @@
+{
+    "plot": "A teenager with an early onset of male-pattern baldness befriends his high school's janitor.", 
+    "genres": "Comedy", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "angry"
+                ], 
+                "role": "Angry Black Man: Subverted. Harold and Kumar's car breaks down in a neighborhood that the two think is filled with angry black men and run off before a bunch of guys roll out equipment to help fix their car.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "black", 
+                    "big"
+                ], 
+                "role": "Subverted in Harold & Kumar Escape from Guantanamo Bay, as with just about every other race trope. The duo's car breaks down in a black neighborhood, and they run off when a bunch of big guys start converging on their car. It ends up they were just going to help fix the car.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "tough", 
+                    "black"
+                ], 
+                "role": "Scary Black Man: Subverted. Harold and Kumar run off the road right by a group of tough looking black guys playing basketball. The guys take off as the black guys come towards them with tools...and a spare tire. Turns out they were just offering to help the guys with their car. One of them is an orthodontist.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "good-looking", 
+                    "third"
+                ], 
+                "role": "Harold & Kumar Escape from Guantanamo Bay: Pretty much every good-looking woman at the Bottomless Party belongs to this trope.\n In the third film, A Very Harold & Kumar 3D Christmas, Jesus is squiring two topless angels around Heaven.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gag Boobs: Neil's prostitute.", 
+                "id": "GagBoobs"
+            }
+        ]
+    }, 
+    "imdbid": "tt1041753", 
+    "poster_url": "HaroldAndKumarEscapeFromGuantanamoBay.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "AngryBlackMan", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TradingPlaces", 
+            "name": "Trading Places", 
+            "poster_url": "TradingPlaces.jpg"
+        }, 
+        {
+            "shared": [
+                "GagBoobs", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "DemolitionMan", 
+            "name": "Demolition Man", 
+            "poster_url": "DemolitionMan.jpg"
+        }, 
+        {
+            "shared": [
+                "AngryBlackMan", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "ATimeToKill", 
+            "name": "A Time to Kill", 
+            "poster_url": "ATimeToKill.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "PulpFiction", 
+            "name": "Pulp Fiction", 
+            "poster_url": "PulpFiction.jpg"
+        }
+    ], 
+    "id": "HaroldAndKumarEscapeFromGuantanamoBay", 
+    "name": "Harold & Kumar Escape from Guantanamo Bay"
+}

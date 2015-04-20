@@ -1,0 +1,111 @@
+{
+    "plot": "This is the extraordinary tale of two brothers named Moses and Ramses, one born of royal blood, and one an orphan with a secret past. Growing up the best of friends, they share a strong bond of free-spirited youth and good-natured rivalry. But the truth will ultimately set them at odds, as one becomes the ruler of the most powerful empire on earth, and the other the chosen leader of his people! Their final confrontation will forever change their lives and the world.", 
+    "genres": "Animation, Adventure, Drama", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "awesome"
+                ], 
+                "role": "Badass Beard: Jethro wins the prize for the movie's biggest, most awesome beard.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Or at least we never see Amram, the father of Moses and his siblings.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Tzipporah may be this for her younger sisters.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Damsel in Distress: Tzipporah is introduced this way, captured by Hotep and Huy and intended as a concubine of sorts for Rameses. She later escapes by herself. Later in the film this is also how Moses meets her three sisters, as they are being harassed by bandits trying to make off with their sheep.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "perspective", 
+                    "Egyptian", 
+                    "sympathetic"
+                ], 
+                "role": "Played with in The Prince of Egypt. The Queen is a loving mother to both Ramses and Moses, and doesn't care at all that Moses was a Hebrew child that washed up in a basket. On the other hand, from the perspective of the Hebrew slaves, none of the Egyptian royal family is particularly sympathetic or kind.", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Just who is the mother of Rameses's son?", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120794", 
+    "poster_url": "ThePrinceOfEgypt.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "DisappearedDad", 
+                "DamselInDistress", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DamselInDistress", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "GodSaveUsFromTheQueen", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DamselInDistress", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Delgo", 
+            "name": "Delgo", 
+            "poster_url": "Delgo.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom", 
+                "GodSaveUsFromTheQueen"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }
+    ], 
+    "id": "ThePrinceOfEgypt", 
+    "name": "The Prince of Egypt"
+}

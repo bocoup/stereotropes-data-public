@@ -1,0 +1,82 @@
+{
+    "plot": "Strike is a young city drug pusher under the tutelage of drug-lord Rodney Little, who, when not playing with model trains or drinking Moo for his ulcer, just likes to chill with his brothers near the benches outside the project houses. When a night man at a fast-food restaurant is found with four bullets in his body, Strike's older brother turns himself in as the killer. Det. Rocco Klein doesn't buy the story, however, and sets out to find the truth, and it seems that all the fingers point toward Strike & Rodney.", 
+    "genres": "Drama, Crime, Mystery", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bald Black Leader Guy: Delroy Lindo as Rodney Little", 
+                "id": "BaldBlackLeaderGuy"
+            }, 
+            {
+                "adjectives": [
+                    "cool"
+                ], 
+                "role": "Cool Old Guy: Subverted with Rodney Little. He seems cool, but he's a monster.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Tyrone's mother Regina openly confronts the clockers when her son starts hanging out with them, fearlessly assaulting Strike in front of his crew.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112688", 
+    "poster_url": "Clockers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "AmericanHistoryX", 
+            "name": "American History X", 
+            "poster_url": "AmericanHistoryX.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "OneHundredAndOneDalmatians", 
+            "name": "101 Dalmatians", 
+            "poster_url": "OneHundredAndOneDalmatians.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "SesameStreet", 
+            "name": "Sesame Street"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SmokeSignals", 
+            "name": "Smoke Signals", 
+            "poster_url": "SmokeSignals.jpg"
+        }
+    ], 
+    "id": "Clockers", 
+    "name": "Clockers"
+}

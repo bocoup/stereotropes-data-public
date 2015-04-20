@@ -1,0 +1,88 @@
+{
+    "plot": "Single mother goes away for the summer. The kids are first delighted but then find that Mom has hired the sitter from hell to stay with them. When the sitter dies of a sudden coronary they deposit the body at a mortuary only to discover all their summer expense money was in her purse. The kids must find a way to survive the summer without mom or her money. This means actual work!", 
+    "genres": "Comedy", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: The Crandells' father is mentioned only briefly and not favorably. And another instance:", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lipstick and Load Montage: When Sue Ellen is getting dressed for her job interview at GAW.", 
+                "id": "LipstickAndLoadMontage"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Melissa.", 
+                "id": "Tomboy"
+            }, 
+            {
+                "adjectives": [
+                    "top"
+                ], 
+                "role": "Woman Scorned: Carolyn, who seems like a top grade bitch even before Sue Ellen takes the job she was after. She sets out to destroy Sue Ellens prospects at GAW.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0101757", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "LipstickAndLoadMontage"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "SilentHill", 
+            "name": "Silent Hill", 
+            "poster_url": "SilentHill.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "LipstickAndLoadMontage"
+            ], 
+            "shared_count": 2, 
+            "id": "WestSideStory", 
+            "name": "West Side Story", 
+            "poster_url": "WestSideStory.jpg"
+        }
+    ], 
+    "id": "DontTellMomTheBabysittersDead", 
+    "name": "Don't Tell Mom the Babysitter's Dead"
+}

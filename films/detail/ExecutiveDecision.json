@@ -1,0 +1,71 @@
+{
+    "plot": "Terrorists take over a 747 bound from Athens to Washington D.C., supposedly to effect the release of their leader. Intelligence expert David Grant suspects another reason and convinces the military that the 'plane should not be allowed to enter U.S. airspace. An assault mission is devised, using a specially equipped 'plane designed for mid-air crew transfers, and Grant finds himself aboard the 747 with a team of military anti-terrorists who have to defuse a bomb and overpower the terrorists.", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Non-Action Guy: Dr. Grant, Dennis Cahill even more so.", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Halle Berry in Executive Decision.", 
+                "id": "SexyStewardess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116253", 
+    "poster_url": "ExecutiveDecision.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "SexyStewardess"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Bloodlust", 
+            "name": "Bloodlust"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "BunnyAndTheBull", 
+            "name": "Bunny and the Bull", 
+            "poster_url": "BunnyAndTheBull.jpg"
+        }, 
+        {
+            "shared": [
+                "SexyStewardess"
+            ], 
+            "shared_count": 1, 
+            "id": "ChungkingExpress", 
+            "name": "Chungking Express", 
+            "poster_url": "ChungkingExpress.jpg"
+        }
+    ], 
+    "id": "ExecutiveDecision", 
+    "name": "Executive Decision"
+}

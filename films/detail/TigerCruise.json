@@ -1,0 +1,83 @@
+{
+    "plot": "SEptember, 2001. On its last leg homeward, from Pearl Harbour (Hawaii) to San Diego, the USS Constellation hosts a jolly 'tiger cruise' for USNavy, Marines and USNAF relatives, mainly minors ('Navy brats'). Attitudes and emotions vary from simple joy to open frustration, the worst brat being XO commander Gary Dolan's daughter Maddie, who wants him to refuse a promotion to command for a shore job. Then the news of the WCC terror crisis changes everything, as the crew is recalled to war footing.", 
+    "genres": "Drama, Family", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Maddie's dad.", 
+                "id": "AFatherToHisMen"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Grace, Tina's older sister, who's also a pilot; Maddie after a bit of Character Development.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Maddie and Tina.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0397113", 
+    "poster_url": "TigerCruise.png", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "TomBoyAndGirlyGirl", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 3, 
+            "id": "DespicableMe", 
+            "name": "Despicable Me", 
+            "poster_url": "DespicableMe.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "AfterEarth", 
+            "name": "After Earth", 
+            "poster_url": "AfterEarth.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LittleWomen", 
+            "name": "Little Women", 
+            "poster_url": "LittleWomen.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuPanda2", 
+            "name": "Kung Fu Panda 2", 
+            "poster_url": "KungFuPanda2.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "HotShots", 
+            "name": "Hot Shots!", 
+            "poster_url": "HotShots.jpg"
+        }
+    ], 
+    "id": "TigerCruise", 
+    "name": "Tiger Cruise"
+}

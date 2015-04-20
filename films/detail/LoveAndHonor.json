@@ -1,0 +1,85 @@
+{
+    "plot": "When a young soldier in Vietnam gets dumped by his hometown girl, he and his best friend decide to go AWOL and return to the States to win her back.", 
+    "genres": "Drama, Romance, War", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "human"
+                ], 
+                "role": "Samurai - as human beings of all ages and personalities.", 
+                "id": "Samurai"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Lady's Favour", 
+                "id": "TheLadysFavour"
+            }, 
+            {
+                "adjectives": [
+                    "correct"
+                ], 
+                "role": "Yamato Nadeshiko - Kayo, the time and culture is correct", 
+                "id": "YamatoNadeshiko"
+            }
+        ]
+    }, 
+    "imdbid": "tt1976989", 
+    "poster_url": "LoveAndHonor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Samurai", 
+                "YamatoNadeshiko"
+            ], 
+            "shared_count": 2, 
+            "id": "SuperSentai", 
+            "name": "Super Sentai"
+        }, 
+        {
+            "shared": [
+                "Samurai", 
+                "YamatoNadeshiko"
+            ], 
+            "shared_count": 2, 
+            "id": "Ran", 
+            "name": "Ran", 
+            "poster_url": "Ran.jpg"
+        }, 
+        {
+            "shared": [
+                "Samurai", 
+                "YamatoNadeshiko"
+            ], 
+            "shared_count": 2, 
+            "id": "Sanjuro", 
+            "name": "Sanjuro", 
+            "poster_url": "Sanjuro.jpg"
+        }, 
+        {
+            "shared": [
+                "Samurai", 
+                "YamatoNadeshiko"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTwilightSamurai", 
+            "name": "The Twilight Samurai", 
+            "poster_url": "TheTwilightSamurai.jpg"
+        }, 
+        {
+            "shared": [
+                "Samurai", 
+                "YamatoNadeshiko"
+            ], 
+            "shared_count": 2, 
+            "id": "ThroneOfBlood", 
+            "name": "Throne of Blood", 
+            "poster_url": "ThroneOfBlood.jpg"
+        }
+    ], 
+    "id": "LoveAndHonor", 
+    "name": "Love and Honor"
+}

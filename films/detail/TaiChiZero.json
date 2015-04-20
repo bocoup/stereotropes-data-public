@@ -1,0 +1,88 @@
+{
+    "plot": "Young genius Yang Luchan travels to Chen Village to learn the forbidden secrets of martial arts, but quickly learns that the village is menaced by a formidable battalion of Steampunk soldiers. The villagers realize that in order to save their home, they must trust this strange outsider with their knowledge of Tai Chi.", 
+    "genres": "Action, Drama", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "original"
+                ], 
+                "role": "Badass Grandpa: Lu Chan's original master, the doctor who tells him to go to Chen village, and Master Chen all count", 
+                "id": "BadassGrandpa"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Yu Niang.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "real", 
+                    "actual"
+                ], 
+                "role": "Little Miss Badass: one of the people who beats up Lu Chan when he tries to get into the village is a little girl. Also true in real life, as her actress is apparently an actual kung fu prodigy (if her introduction text is to be believed)", 
+                "id": "LittleMissBadass"
+            }
+        ]
+    }, 
+    "imdbid": "tt1981080", 
+    "poster_url": "TaiChiZero.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "ThreeNinjas", 
+            "name": "3 Ninjas", 
+            "poster_url": "ThreeNinjas.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }
+    ], 
+    "id": "TaiChiZero", 
+    "name": "Tai Chi Zero"
+}

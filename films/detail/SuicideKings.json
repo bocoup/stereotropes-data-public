@@ -1,0 +1,82 @@
+{
+    "plot": "Ex-mob boss Christopher Walken is kidnapped by a group of four kids in a haphazard attempt at paying the ransom for another, separate kidnapping. Complexities arise as the group cannot seem to do anything right.", 
+    "genres": "Comedy, Drama, Mystery", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Charlie", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Heckle and Jekyll.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Ira", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120241", 
+    "poster_url": "SuicideKings.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieAndTheMagicOfPegasus", 
+            "name": "Barbie And The Magic Of Pegasus", 
+            "poster_url": "BarbieAndTheMagicOfPegasus.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheDarkKnightReturns", 
+            "name": "Batman: The Dark Knight Returns", 
+            "poster_url": "BatmanTheDarkKnightReturns.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastStand", 
+            "name": "The Last Stand", 
+            "poster_url": "TheLastStand.jpg"
+        }
+    ], 
+    "id": "SuicideKings", 
+    "name": "Suicide Kings"
+}

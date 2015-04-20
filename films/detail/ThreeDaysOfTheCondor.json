@@ -1,0 +1,72 @@
+{
+    "plot": "A mild mannered CIA researcher, paid to read books, returns from lunch to find all of his co-workers assassinated. \"Condor\" must find out who did this and get in from the cold before the hitmen get him.", 
+    "genres": "Mystery, Thriller", 
+    "release_year": "1975", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "sole"
+                ], 
+                "role": "Disposable Woman: Janice, Turner's almost-girlfriend. Subverted in the sense that she's not the sole motivating factor, and his whole office and friend serve that purpose.", 
+                "id": "DisposableWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Noticeably averted in Three Days Of The Condor. A female CIA analyst looks up and sees three men pointing silenced submachine guns at her, and realises what's about to happen.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0073802", 
+    "poster_url": "ThreeDaysOfTheCondor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "KamenRider", 
+            "name": "Kamen Rider"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Lajja", 
+            "name": "Lajja", 
+            "poster_url": "Lajja.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheYakuza", 
+            "name": "The Yakuza", 
+            "poster_url": "TheYakuza.jpg"
+        }
+    ], 
+    "id": "ThreeDaysOfTheCondor", 
+    "name": "Three Days Of The Condor"
+}

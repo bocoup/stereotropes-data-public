@@ -1,0 +1,96 @@
+{
+    "plot": "In Equestria, the newly crowned Princess Twilight Sparkle is still trying to adjust to her new status and wings. However, Sunset Shimmer a renegade former student of Princess Celestia, steals her magic crown and escapes to another world. Twilight is charged with recovering the crown and she and her companion, Spike, pursue the thief. Crossing over, Twilight finds that she has been changed into a powerless human in a high school world populated with teenage human counterparts of her friends. To save both worlds, Twilight must rediscover the magic of friendship that transcends everything she imagined possible.", 
+    "genres": "Animation, Comedy, Family", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "other", 
+                    "major", 
+                    "absent"
+                ], 
+                "role": "The One Guy: With Spike being a (talking) dog in the Alternate Universe and no other major male character from the series appearing in this rolenote\u00a0a human Big McIntosh makes a couple of cameos and Shining Armor is completely absent, Flash Sentry fills this spot in the movie.", 
+                "id": "TheOneGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "entire", 
+                    "social"
+                ], 
+                "role": "Alpha Bitch: Sunset Shimmer. Humiliates anyone who stands in her way to become Fall Formal Princess? Check. Segregates the entire school into smaller social groups to ensure they don't band against her? Check. Destroys long-lasting friendships just for kicks? Check.  Good thing she pulls a Heel-Face Turn at the end.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "new", 
+                    "few"
+                ], 
+                "role": "Cute Clumsy Girl: Twilight Sparkle in spades. Justified in that it took some time to get used to a completely new human body. There are a few times that Fluttershy gets hit with things thrown at her.", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "human"
+                ], 
+                "role": "My Little Pony Equestria Girls: The human version of Rainbow Dash is, according to Pinkie Pie, the captain of every sports team.", 
+                "id": "PassionateSportsGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt2908228", 
+    "poster_url": "MyLittlePonyEquestriaGirls.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheOneGuy", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "LittleWomen", 
+            "name": "Little Women", 
+            "poster_url": "LittleWomen.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "KikisDeliveryService", 
+            "name": "Kiki's Delivery Service"
+        }, 
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbiePrincessCharmSchool", 
+            "name": "Barbie: Princess Charm School", 
+            "poster_url": "BarbiePrincessCharmSchool.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch"
+            ], 
+            "shared_count": 1, 
+            "id": "SororityBoys", 
+            "name": "Sorority Boys", 
+            "poster_url": "SororityBoys.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch"
+            ], 
+            "shared_count": 1, 
+            "id": "ShrekTheThird", 
+            "name": "Shrek the Third", 
+            "poster_url": "ShrekTheThird.jpg"
+        }
+    ], 
+    "id": "MyLittlePonyEquestriaGirls", 
+    "name": "My Little Pony Equestria Girls"
+}

@@ -1,0 +1,67 @@
+{
+    "plot": "A modern day Cinderella story which sees disaster prone Rebecca embark on a journey in search of true love. Betrayed by her boyfriend, Richard and following a palm reader's psychic prophecy, Rebecca goes in search of her one true soul mate.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy", 
+                "id": "DoggedNiceGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0327643", 
+    "poster_url": "DirtyLove.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Repulsion", 
+            "name": "Repulsion", 
+            "poster_url": "Repulsion.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }
+    ], 
+    "id": "DirtyLove", 
+    "name": "Dirty Love"
+}

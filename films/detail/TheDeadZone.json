@@ -1,0 +1,92 @@
+{
+    "plot": "Christopher Walken wakes from a coma due to a car accident, only to find he has lost five years of his life, and yet gained psychic powers. Foreseeing the future appears to be a 'gift' at first, but ends up causing problems...", 
+    "genres": "Horror, Sci-Fi, Thriller", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Stillson reacts to the attempt on his life by grabbing a baby and using it as a Human Shield.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scoop: Dana", 
+                "id": "HotScoop"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Dana", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "horrific"
+                ], 
+                "role": "My Beloved Smother: Frank Dodd's mother takes it to a truly horrific level.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085407", 
+    "poster_url": "TheDeadZone.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HotScoop", 
+                "MsFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "MarsAttacks", 
+            "name": "Mars Attacks!", 
+            "poster_url": "MarsAttacks.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Grindhouse", 
+            "name": "Grindhouse", 
+            "poster_url": "Grindhouse.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotScoop"
+            ], 
+            "shared_count": 2, 
+            "id": "CrocodileDundee", 
+            "name": "Crocodile Dundee", 
+            "poster_url": "CrocodileDundee.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "AlienVsNinja", 
+            "name": "Alien vs. Ninja", 
+            "poster_url": "AlienVsNinja.jpg"
+        }
+    ], 
+    "id": "TheDeadZone", 
+    "name": "The Dead Zone"
+}

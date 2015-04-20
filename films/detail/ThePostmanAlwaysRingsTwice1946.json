@@ -1,0 +1,84 @@
+{
+    "plot": "This remake of the 1946 movie of the same name accounts an affair between a seedy drifter and a seductive wife of a roadside caf\u00e9 owner. This begins a chain of events that culminates in murder.", 
+    "genres": "Crime, Drama, Thriller", 
+    "release_year": "1981", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Cora", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Cora", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [
+                    "white", 
+                    "black"
+                ], 
+                "role": "Woman in White: Cora dresses entirely in white throughout the film, save for two scenes in which she wears black.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082934", 
+    "poster_url": "ThePostmanAlwaysRingsTwice1946.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp", 
+                "FemmeFatale", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "CoolWorld", 
+            "name": "Cool World", 
+            "poster_url": "CoolWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "FemmeFatale", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCounselor", 
+            "name": "The Counselor", 
+            "poster_url": "TheCounselor.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }
+    ], 
+    "id": "ThePostmanAlwaysRingsTwice1946", 
+    "name": "The Postman Always Rings Twice"
+}

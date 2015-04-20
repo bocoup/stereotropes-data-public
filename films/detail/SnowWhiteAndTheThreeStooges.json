@@ -1,0 +1,73 @@
+{
+    "plot": "Based on the classic fairy tale, Larry, Moe, and Curly Joe (the Three Stooges) substitute for the Seven Dwarfs while the princess Snow White (Olympic figure skating champion Carol Heiss) is forced to flee from her jealous stepmother, the queen (Patricia Medina), who takes drastic steps to insure that Snow White never gains the throne.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1961", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Prince Charming: Actually named that.", 
+                "id": "PrinceCharming"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Princess Classic", 
+                "id": "PrincessClassic"
+            }
+        ]
+    }, 
+    "imdbid": "tt0055458", 
+    "poster_url": "SnowWhiteAndTheThreeStooges.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrinceCharming", 
+                "PrincessClassic"
+            ], 
+            "shared_count": 2, 
+            "id": "Fantaghiro", 
+            "name": "Fantaghiro"
+        }, 
+        {
+            "shared": [
+                "PrinceCharming", 
+                "PrincessClassic"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharming", 
+                "PrincessClassic"
+            ], 
+            "shared_count": 2, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "PrincessClassic"
+            ], 
+            "shared_count": 1, 
+            "id": "Krull", 
+            "name": "Krull"
+        }, 
+        {
+            "shared": [
+                "PrinceCharming"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "SnowWhiteAndTheThreeStooges", 
+    "name": "Snow White and the Three Stooges"
+}

@@ -1,0 +1,73 @@
+{
+    "plot": "A young computer whiz kid accidentally connects into a top secret super-computer which has complete control over the U.S. nuclear arsenal. It challenges him to a game between America and Russia, and he innocently starts the countdown to World War 3. Can he convince the computer he wanted to play a game and not the real thing ?", 
+    "genres": "Sci-Fi, Thriller", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Will's father, though there's an explanation: he picked up an infection while out on the field...and that turns out to have been a cover story for the government.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Next Door: Jennifer Mack", 
+                "id": "GirlNextDoor"
+            }
+        ]
+    }, 
+    "imdbid": "tt0086567", 
+    "poster_url": "WarGames.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "BrightStar", 
+            "name": "Bright Star", 
+            "poster_url": "BrightStar.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }
+    ], 
+    "id": "WarGames", 
+    "name": "WarGames"
+}

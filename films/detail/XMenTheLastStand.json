@@ -1,0 +1,123 @@
+{
+    "plot": "It has been several months since The X-Men stopped William Stryker, but that victory came at a price: they have lost Jean Grey when she tried to save them from the collapsed reservoir. Scott Summers (Cyclops) is still grieving about her loss. One day, he comes out to the place where Jean Grey sacrificed herself. Jean Grey appears right in front of him. Meanwhile, the rift between humans and mutants has finally reached the boiling point. Humans have discovered what causes humans to mutate and have found a cure for the mutation. The X-Men are appalled at this idea. When news about the cure comes to Magneto, he decides to organize an army of mutants and wage his war against the humans. When Jean Grey evolves into the Phoenix, her new mutant powers are so strong that she can not control her own body. Then, she kills off Professor X with her new powers. Now, The X-Men must stop Magneto again and put an end to the war against the humans, as well as stop Jean Grey's Phoenix powers.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "beard"
+                ], 
+                "role": "Beard of Sorrow: Cyclops displays a stubbly beard while in mourning.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "X-Men", 
+                    "Last", 
+                    "beard"
+                ], 
+                "role": "In X-Men: The Last Stand, Cyclops displays a stubbly beard while in mourning.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "X-Men", 
+                    "Last", 
+                    "much", 
+                    "destructive"
+                ], 
+                "role": "Beast from X-Men: The Last Stand, is much older than Storm and Jean, but as destructive as Wolverine.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "X-Men", 
+                    "Last"
+                ], 
+                "role": "Beast. In X-Men: The Last Stand, he tries to quote Churchill while fighting, and quotes Shakespeare prior to taking off to San Francisco in a deleted scene.", 
+                "id": "CulturedBadass"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty: Voiced by R. Lee Ermey, no less.", 
+                "id": "DrillSergeantNasty"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "X-Men", 
+                    "Last"
+                ], 
+                "role": "Callisto from X-Men: The Last Stand, is basically Magneto's replacement for Mystique.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Shadowcat.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0376994", 
+    "poster_url": "XMenTheLastStand.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "CulturedBadass", 
+                "CoolOldGuy", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "CulturedBadass", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "XMen", 
+            "name": "X-Men", 
+            "poster_url": "XMen.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "TheChick", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCrow", 
+            "name": "The Crow", 
+            "poster_url": "TheCrow.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "CoolOldGuy", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CoolOldGuy", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }
+    ], 
+    "id": "XMenTheLastStand", 
+    "name": "X-Men: The Last Stand"
+}

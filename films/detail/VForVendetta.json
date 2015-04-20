@@ -1,0 +1,94 @@
+{
+    "plot": "The futuristic tale unfolds in a Great Britain that's a fascist state. A freedom fighter known as V uses terrorist tactics to fight the oppressive society. He rescues a young woman from the secret police, and she becomes his unlikely ally.", 
+    "genres": "Action, Drama, Thriller", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Invoked by V's mask.", 
+                "id": "BeardOfEvil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Evey in V for Vendetta disguises herself as an underage prostitute for a priest. Part of her costume is pigtails, the other part is a Catholic schoolgirl outfit.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In the film adaptation of V for Vendetta, Evie does this while V gets his gear ready to fight.", 
+                "id": "LipstickAndLoadMontage"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick and Load Montage: Evey does this while V gets his gear ready to fight.", 
+                "id": "LipstickAndLoadMontage"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "real"
+                ], 
+                "role": "V for Vendetta: Valerie's first girlfriend. Valerie turns out to be the real deal.", 
+                "id": "SchoolgirlLesbians"
+            }
+        ]
+    }, 
+    "imdbid": "tt0434409", 
+    "poster_url": "VForVendetta.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHungerGames", 
+            "name": "The Hunger Games", 
+            "poster_url": "TheHungerGames.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "LipstickAndLoadMontage"
+            ], 
+            "shared_count": 2, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "LipstickAndLoadMontage"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "MonsterHouse", 
+            "name": "Monster House", 
+            "poster_url": "MonsterHouse.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }
+    ], 
+    "id": "VForVendetta", 
+    "name": "V for Vendetta"
+}

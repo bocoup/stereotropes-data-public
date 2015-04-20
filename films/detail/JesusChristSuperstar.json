@@ -1,0 +1,103 @@
+{
+    "plot": "Based on a concept album project written by Andrew Lloyd Webber and Tim Rice, and the subsequent long-running Broadway performance, this film tells the story of the final 6 days in the life of Jesus Christ through the troubled eyes of Judas Iscariot. Too often mis-labeled a musical, this film is a \"rock opera.\" There are no spoken lines, everything is sung.", 
+    "genres": "Drama, History, Musical", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Angry Black Man: Simon and Judas in the 1973 version. They have No Indoor Voice. Caiaphas in the 2000 revival. Also a Badass Bass.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Caiaphas in the 2000 revival. Also a Badass Bass.", 
+                "id": "BadassBaritone"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "fa\u00e7ade", 
+                    "actual", 
+                    "notorious", 
+                    "whole"
+                ], 
+                "role": "Camp Gay: Herod, in many productions. In the 1973 film, he's practically an expy of Elton John. Also subverted in some of these; it's a fa\u00e7ade that he keeps to hide his actual accent. In Real Life, Herod was a notorious womanizer, and the whole Camp Gay thing was something his detractors made up to discredit him. Thus, some productions (including the 2000 film) now portray Herod as a Seedy Hollywood Agent/1980s yuppie-type who seems to be tolerating Jesus' presence as a favor to a friend. The 1996 London Cast Recording got Alice Cooper to sing the Herod song. Make of that what you will.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sissy Villain: Some portrayals of Herod.", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Mary Magdalene.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Mary", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070239", 
+    "poster_url": "JesusChristSuperstar.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "SissyVillain", 
+                "AngryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "SissyVillain", 
+                "CampGay"
+            ], 
+            "shared_count": 3, 
+            "id": "YellowSubmarine", 
+            "name": "Yellow Submarine", 
+            "poster_url": "YellowSubmarine.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "BadassBaritone"
+            ], 
+            "shared_count": 2, 
+            "id": "ManOfLaMancha", 
+            "name": "Man Of La Mancha", 
+            "poster_url": "ManOfLaMancha.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieAndTheMagicOfPegasus", 
+            "name": "Barbie And The Magic Of Pegasus", 
+            "poster_url": "BarbieAndTheMagicOfPegasus.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "AngryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }
+    ], 
+    "id": "JesusChristSuperstar", 
+    "name": "Jesus Christ Superstar"
+}

@@ -1,0 +1,107 @@
+{
+    "plot": "It's time for Christmas break, and the sorority sisters make plans for the holiday, but the strange anonymous phone calls are beginning to put them on edge. When Clare disappears, they contact the police, who don't express much concern. Meanwhile Jess is planning to get an abortion, but boyfriend Peter is very much against it. The police finally begin to get concerned when a 13-year-old girl is found dead in the park. They set up a wiretap to the sorority house, but will they be in time to prevent a sorority girl attrition problem?", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "1974", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Jess.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Barb in Black Christmas (1974). She nearly always has a beer in her hand and is a happy drunk.", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hard-Drinking"
+                ], 
+                "role": "Hard-Drinking Party Girl: Barb.", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Mrs. Mac.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [
+                    "distant"
+                ], 
+                "role": "Missing Mom: Barb's drinking problems are caused by her distant mother.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman: When Janice's body is found.", 
+                "id": "ScreamingWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team Mom: Mrs. Mac, who is literally the house mother. Also, Phyllis, to a lesser extent.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0071222", 
+    "poster_url": "BlackChristmas1974.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheFunhouse", 
+            "name": "The Funhouse", 
+            "poster_url": "TheFunhouse.jpg"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "TeamMom", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "FairyTail", 
+            "name": "Fairy Tail"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "LadyDrunk"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "They", 
+            "name": "They", 
+            "poster_url": "They.jpg"
+        }
+    ], 
+    "id": "BlackChristmas1974", 
+    "name": "Black Christmas "
+}

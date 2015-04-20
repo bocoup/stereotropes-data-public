@@ -1,0 +1,73 @@
+{
+    "plot": "In his first independently produced feature film Buster tells of love and romance through three historical ages: the Stone Age, the Roman Age, and the Modern Age.", 
+    "genres": "Comedy", 
+    "release_year": "1923", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Buster Keaton's Three Ages, during the scenes set in the 1920s. The father of the Love Interest is one.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Nubile Savage: Margaret Leahy, who plays the love interest in all three eras, got her start in films by winning a beauty contest.", 
+                "id": "NubileSavage"
+            }
+        ]
+    }, 
+    "imdbid": "tt0014538", 
+    "poster_url": "ThreeAges.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NubileSavage", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFlintstones", 
+            "name": "The Flintstones", 
+            "poster_url": "TheFlintstones.jpg"
+        }, 
+        {
+            "shared": [
+                "NubileSavage"
+            ], 
+            "shared_count": 1, 
+            "id": "QuestForFire", 
+            "name": "Quest for Fire", 
+            "poster_url": "QuestForFire.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "SevenFacesOfDrLao", 
+            "name": "7 Faces of Dr. Lao", 
+            "poster_url": "SevenFacesOfDrLao.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "RebelWithoutACause", 
+            "name": "Rebel Without a Cause", 
+            "poster_url": "RebelWithoutACause.jpg"
+        }
+    ], 
+    "id": "ThreeAges", 
+    "name": "Three Ages"
+}

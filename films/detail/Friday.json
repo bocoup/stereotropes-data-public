@@ -1,0 +1,111 @@
+{
+    "plot": "Craig and Smokey are two guys in Los Angeles hanging out on their porch on a Friday afternoon, smoking and looking for something to do. Encounters with neighbors and other friends over the course of the day and night, and their ensuing antics, make up the rest of the movie.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "different", 
+                    "second"
+                ], 
+                "role": "Chick Magnet: Craig has a different love interest in every movie. Even Suga, his uncle's then girlfriend was on him in the second film.", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "mere", 
+                    "free"
+                ], 
+                "role": "Non-Action Guy: Red spends the first movie cringing at the mere thought of Deebo.  Then he gets in a free hit after Craig knocks Deebo senseless.", 
+                "id": "NonActionGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Of course, his best known Scary Black Man performances, comes from the Friday movie series as the character, Deebo.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "full", 
+                    "third"
+                ], 
+                "role": "Scary Black Man: Deebo, full stop. Damon from the third film.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "then-girlfriend", 
+                    "first"
+                ], 
+                "role": "Clingy Jealous Girl: Craig's then-girlfriend, Joi from the first movie.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "new", 
+                    "previous"
+                ], 
+                "role": "Girl of the Week: Craig has a new love interest each movie, with not a word spoken about the previous one.", 
+                "id": "GirlOfTheWeek"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113118", 
+    "similar": [
+        {
+            "shared": [
+                "GirlOfTheWeek", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "ChickMagnet"
+            ], 
+            "shared_count": 2, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "ChickMagnet"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ChickMagnet"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuPanda", 
+            "name": "Kung Fu Panda", 
+            "poster_url": "KungFuPanda.jpg"
+        }
+    ], 
+    "id": "Friday", 
+    "name": "Friday"
+}

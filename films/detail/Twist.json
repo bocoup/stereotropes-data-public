@@ -1,0 +1,89 @@
+{
+    "plot": "A gay re-telling of Charles Dickens' classic Oliver Twist. Updated to current times, moved out of the poor house and onto the streets, the tale is told from the point of Dickens' character, Artful Dodger--now Dodge. The prosaically beautiful Oliver falls into the hands of down-and-out young men. Dodge takes the young man under his wing and instructs him in the unforgiving arts of drug abuse and prostitution. As Oliver's innocence dissolves, both young men confront inner and outer demons and, strangely, it is Dodge who finds he cannot escape his past.", 
+    "genres": "Drama", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Depraved Homosexual:  Dodge loses it at the end.", 
+                "id": "DepravedHomosexual"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pretty Boy: Oliver, and how!", 
+                "id": "PrettyBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Betsy, and to a lesser extent, Nancy.", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Streetwalker: Dodge, Charley, Oliver, and the other boys.", 
+                "id": "Streetwalker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0339827", 
+    "poster_url": "Twist.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrettyBoy", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "PrettyBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePictureOfDorianGray", 
+            "name": "The Picture of Dorian Gray", 
+            "poster_url": "ThePictureOfDorianGray.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHouseOfTheSpirits", 
+            "name": "The House of the Spirits", 
+            "poster_url": "TheHouseOfTheSpirits.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "PrettyBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSilenceOfTheLambs", 
+            "name": "The Silence of the Lambs", 
+            "poster_url": "TheSilenceOfTheLambs.jpg"
+        }
+    ], 
+    "id": "Twist", 
+    "name": "Twist"
+}

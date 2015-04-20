@@ -1,0 +1,109 @@
+{
+    "plot": "Oskar Schindler is a vainglorious and greedy German businessman who becomes an unlikely humanitarian amid the barbaric Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament for the good in all of us.", 
+    "genres": "Biography, Drama, History", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Chivalrous", 
+                    "popular"
+                ], 
+                "role": "Chivalrous Pervert: Oskar is quite popular with the ladies...", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [
+                    "charismatic", 
+                    "complete", 
+                    "later", 
+                    "Jewish"
+                ], 
+                "role": "Oskar Schindler of Schindler's List is introduced as very very charismatic person, making friends out complete strangers almost immediately. He uses this trait to make connections and work his way into German business, and later to mask his plot to save the lives of his Jewish workers.", 
+                "id": "TheCharmer"
+            }, 
+            {
+                "adjectives": [
+                    "total", 
+                    "next", 
+                    "later", 
+                    "merciful"
+                ], 
+                "role": "The Charmer: Oskar Schindler. He can make total strangers his close friends in next to no time, and uses his charisma to get a foothold in German industry. He later uses every bit of his power of persuasion trying to convince Goeth to become a more merciful person.  Amazingly, it seems to work, but Goeth immediately abandons it.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Schindler's List", 
+                "id": "GlamorousWartimeSinger"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "recognizable", 
+                    "only"
+                ], 
+                "role": "Little Dead Riding Hood: The only color shown in the movie (aside from a candle at the beginning, the Blauschein stamp, and the ending scene) is a girl in a red coat, shown hiding from the Nazis. Later in the film, she is seen in passing again as one of a stack of corpses, only recognizable because the red coat is again the only color shown. Steven Spielberg wanted to use red because of the association with blood, and because Oskar Schindler really did see a toddler dressed in red.", 
+                "id": "LittleDeadRidingHood"
+            }
+        ]
+    }, 
+    "imdbid": "tt0108052", 
+    "poster_url": "SchindlersList.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "TheATeam", 
+            "name": "The A-Team", 
+            "poster_url": "TheATeam.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "VanWilder", 
+            "name": "Van Wilder", 
+            "poster_url": "VanWilder.jpg"
+        }
+    ], 
+    "id": "SchindlersList", 
+    "name": "Schindler's List"
+}

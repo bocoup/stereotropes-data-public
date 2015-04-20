@@ -1,0 +1,72 @@
+{
+    "plot": "Jonathan Ecks, an FBI agent, realizes that he must join with his lifelong enemy, Agent Sever, a rogue DIA agent with whom he is in mortal combat, in order to defeat a common enemy. That enemy has developed a \"micro-device\" that can be injected into victims in order to kill them at will.", 
+    "genres": "Action, Thriller", 
+    "release_year": "2002", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Sever", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Sever wants revenge on Gant because he killed her husband and daughter.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0308208", 
+    "poster_url": "BallisticEcksVsSever.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "ResidentEvilDegeneration", 
+            "name": "Resident Evil Degeneration"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Terminator2JudgmentDay", 
+            "name": "Terminator 2: Judgment Day", 
+            "poster_url": "Terminator2JudgmentDay.jpg"
+        }
+    ], 
+    "id": "BallisticEcksVsSever", 
+    "name": "Ballistic: Ecks vs. Sever"
+}

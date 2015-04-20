@@ -1,0 +1,78 @@
+{
+    "plot": "Aboard the freighter Glencairn, the lives of the crew are lived out in fear, loneliness, suspicion and cameraderie. The men smuggle drink and women aboard, fight with each other, spy on each other, comfort each other as death approaches, and rescue each other from danger.", 
+    "genres": "Drama, War", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "old", 
+                    "other"
+                ], 
+                "role": "Father Neptune: Driscoll the old salt, who's something of a father figure and/or leader to the other sailors.", 
+                "id": "FatherNeptune"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "very", 
+                    "first"
+                ], 
+                "role": "Fanservice Extra: The very first shot of the movie is of an island girl who seems to be trying to wriggle out of her dress.", 
+                "id": "FanserviceExtra"
+            }
+        ]
+    }, 
+    "imdbid": "tt0032728", 
+    "poster_url": "TheLongVoyageHome.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FanserviceExtra"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekIIITheSearchForSpock", 
+            "name": "Star Trek III: The Search for Spock", 
+            "poster_url": "StarTrekIIITheSearchForSpock.jpg"
+        }, 
+        {
+            "shared": [
+                "FatherNeptune"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra"
+            ], 
+            "shared_count": 1, 
+            "id": "ConanTheBarbarian2011", 
+            "name": "Conan the Barbarian ", 
+            "poster_url": "ConanTheBarbarian2011.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra"
+            ], 
+            "shared_count": 1, 
+            "id": "JoeDirt", 
+            "name": "Joe Dirt", 
+            "poster_url": "JoeDirt.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra"
+            ], 
+            "shared_count": 1, 
+            "id": "ClassOf1984", 
+            "name": "Class Of", 
+            "poster_url": "ClassOf1984.jpg"
+        }
+    ], 
+    "id": "TheLongVoyageHome", 
+    "name": "The Long Voyage Home"
+}

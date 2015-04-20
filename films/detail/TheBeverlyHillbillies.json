@@ -1,0 +1,90 @@
+{
+    "plot": "Jed Clampett and kin move from Arkansas to Beverly Hills when he becomes a billionaire, after an oil strike. The country folk are very naive with regard to life in the big city, so when Jed starts a search for a new wife there are inevitably plenty of takers and con artists ready to make a fast buck.", 
+    "genres": "Comedy, Family", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bankrupt"
+                ], 
+                "role": "Morally Bankrupt Banker", 
+                "id": "MorallyBankruptBanker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Drysdale, the manager of the bank in which The Beverly Hillbillies have their money stored. All he cares about is keeping their money in his bank.\n Likewise his rival John Cushing. All he cared about was getting the Clampetts to move their money from Drysdale's bank to his.", 
+                "id": "MorallyBankruptBanker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Farmer's Daughter: Elly May.", 
+                "id": "FarmersDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "willing", 
+                    "insipid"
+                ], 
+                "role": "Ms. Fanservice: Elly Mae. As a book on TV series once put it: \"Fans were willing to put up with the insipid plots to get a look at her in jeans that appeared to be painted on.\"", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0106400", 
+    "poster_url": "TheBeverlyHillbillies.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FarmersDaughter", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "PrettyWoman", 
+            "name": "Pretty Woman", 
+            "poster_url": "PrettyWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "MorallyBankruptBanker", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "MorallyBankruptBanker", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "AttackOfTheClones", 
+            "name": "Attack of the Clones"
+        }, 
+        {
+            "shared": [
+                "MorallyBankruptBanker", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Warrior", 
+            "name": "Warrior", 
+            "poster_url": "Warrior.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }
+    ], 
+    "id": "TheBeverlyHillbillies", 
+    "name": "The Beverly Hillbillies"
+}

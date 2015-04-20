@@ -1,0 +1,104 @@
+{
+    "plot": "Jamie Rellis (Mila Kunis) is a New York City head-hunter trying to sign Los Angeles-based art director Dylan Harper (Justin Timberlake) for her client. When he takes the job and makes the move, they quickly become friends. Their friendship turns into a friendship with benefits, but with Jamie's emotionally damaged past and Dylan's history of being emotionally unavailable, they have to try to not fall for each other the way Hollywood romantic comedies dictate.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "fuzzy"
+                ], 
+                "role": "Disappeared Dad: Jamie has no idea who her father is - mostly because her mother is pretty fuzzy on the details too.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Friends with Benefits has Tommy, the sports editor at GQ, as played by Woody Harrelson.", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [
+                    "open"
+                ], 
+                "role": "Straight Gay / Manly Gay: Tommy \u2014 played by Harrelson \u2014 is the sports editor at GQ and generally acts traditionally manly, and also is very open about being gay.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "such", 
+                    "bad", 
+                    "previous"
+                ], 
+                "role": "Broken Bird: Jamie acknowledges herself as such because of bad previous relationships.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Dylan's mother left his father 10 years before the movie.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt1632708", 
+    "poster_url": "FriendsWithBenefits.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "StraightGay", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "StraightGay", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "IAmNumberFour", 
+            "name": "I Am Number Four", 
+            "poster_url": "IAmNumberFour.jpg"
+        }
+    ], 
+    "id": "FriendsWithBenefits", 
+    "name": "Friends with Benefits"
+}

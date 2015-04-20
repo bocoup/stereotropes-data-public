@@ -1,0 +1,88 @@
+{
+    "plot": "A down-and-out film producer agrees to make his nephew's film about 19th century English statesman Benjamin Disraeli, but can only get financing if he casts a well-known action star. Production is halted however, when the lead actor is kidnapped, so the producer hatches a scheme with a struggling creative executive to save the star and the movie.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bish\u014dnen", 
+                    "rid"
+                ], 
+                "role": "Bish\u014dnen: Paul Rhys' Peter Mandelson, once he gets rid of that mustache.", 
+                "id": "Bishonen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sissy Villain: Whelan's view of Mandelson: \"That man smells of vanilla\".", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Charmer: Blair.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "extra"
+                ], 
+                "role": "Lady Macbeth: Cherie Blair, on her rare appearances; otherwise covered by Peter Mandelson, with extra Wangst about the Kingmaker Scenario.", 
+                "id": "LadyMacBeth"
+            }
+        ]
+    }, 
+    "imdbid": "tt0848281", 
+    "poster_url": "TheDeal.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SissyVillain", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "Bishonen"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer"
+            ], 
+            "shared_count": 1, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain"
+            ], 
+            "shared_count": 1, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }
+    ], 
+    "id": "TheDeal", 
+    "name": "The Deal"
+}

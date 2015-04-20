@@ -1,0 +1,76 @@
+{
+    "plot": "Black Gloves (Joe Dimmick), a European Assassin, is seeking to avenge his brother White Gloves' death against reformed criminal King Kong (Samuel Hui) and Detective Albert \"Baldy\" Au (Karl Maka). While evading Black Gloves, the duo are framed for robberies by Hong Kong Mafia members, who have their own plans against King Kong and Baldy. The duo is forced to deal with the Mafia's motor bike gangsters and Black Glove's weaponry-laden robot.", 
+    "genres": "Action, Comedy", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gentleman Thief: During the diamond heist in the movie's opening, King Kong escapes via a bungie cord and breaks through an apartment window. He apologizes for breaking in, explains that the elevator is out of service and bids the residents farewell before leaving.", 
+                "id": "GentlemanThief"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Inspector Ho.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0086646", 
+    "poster_url": "AcesGoPlaces.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GentlemanThief", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ShanghaiNoon", 
+            "name": "Shanghai Noon", 
+            "poster_url": "ShanghaiNoon.jpg"
+        }, 
+        {
+            "shared": [
+                "GentlemanThief", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "OutOfSight", 
+            "name": "Out of Sight", 
+            "poster_url": "OutOfSight.jpg"
+        }, 
+        {
+            "shared": [
+                "GentlemanThief", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Tangled", 
+            "name": "Tangled", 
+            "poster_url": "Tangled.png"
+        }, 
+        {
+            "shared": [
+                "GentlemanThief", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Entrapment", 
+            "name": "Entrapment", 
+            "poster_url": "Entrapment.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ToTheLimit", 
+            "name": "To The Limit", 
+            "poster_url": "ToTheLimit.jpg"
+        }
+    ], 
+    "id": "AcesGoPlaces", 
+    "name": "Aces Go Places"
+}

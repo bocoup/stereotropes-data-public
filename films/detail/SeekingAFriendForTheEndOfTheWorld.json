@@ -1,0 +1,81 @@
+{
+    "plot": "An asteroid named \"Matilda\" is on a collision course towards Earth and in three weeks the world will come to an absolute end. What would you do if your life and the world were doomed? One man decides to spend his time searching for his long lost love from high school during the coming catastrophe.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Owen, who uses Penny as a human shield when gunfire erupts during a riot and Screams Like a Little Girl while cowering behind her.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Seeking a Friend for the End of the World: Owen, Penny's whiny ex-boyfriend, who uses her as a human shield and Screams Like a Little Girl when bullets start flying during a riot.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "musical"
+                ], 
+                "role": "Manic Pixie Dream Girl: Penny embodies this trope, from her perpetually chipper demeanor to her looseness in relationships to her musical taste, and especially how she meets Dodge (see Meet Cute below).", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1307068", 
+    "poster_url": "SeekingAFriendForTheEndOfTheWorld.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Titanic", 
+            "name": "Titanic", 
+            "poster_url": "Titanic.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AfterHours", 
+            "name": "After Hours", 
+            "poster_url": "AfterHours.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "WomanInTheMoon", 
+            "name": "Woman in the Moon", 
+            "poster_url": "WomanInTheMoon.jpg"
+        }
+    ], 
+    "id": "SeekingAFriendForTheEndOfTheWorld", 
+    "name": "Seeking a Friend for the End of the World"
+}

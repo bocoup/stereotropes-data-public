@@ -1,0 +1,106 @@
+{
+    "plot": "Mercenary Gold is sent from the CIA to seize the laser expert Braun in Cuba, before the KGB catches him. A recently stolen giant diamond could be used together with Braun's knowledge to construct a laser cannon which could bring power over the whole world. Who will succeed: CIA or KGB - or none of them?", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "capable"
+                ], 
+                "role": "Badass Grandpa: Dr. Braun is capable of kicking ass when his daughter's life is at stake.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sissy Villain: Eckhardt.", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "real"
+                ], 
+                "role": "Brawn Hilda: Braun's real daughter more than lives up to the family name.", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Alissa is tied up and menaced with a razor blade by Kalashnikov.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "real", 
+                    "last", 
+                    "few", 
+                    "unconventional"
+                ], 
+                "role": "Mad Scientist's Beautiful Daughter: Subverted. The woman who claims to be Braun's daughter turns out to be a CIA agent sent to keep tabs on Gold. Braun's real daughter is not introduced until the last few minutes. She turns out to be a Brawn Hilda whose unconventional looks are Played for Laughs.\u00a0", 
+                "id": "MadScientistsBeautifulDaughter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sweet Polly Oliver: Sgt. Roberta, despite having a feminine name, is taken for a man by Manuel. It should be noted that Roberta never tries to hide her gender; despite a feminine voice and face, her lack of curves is all it takes to throw Manuel.", 
+                "id": "SweetPollyOliver"
+            }
+        ]
+    }, 
+    "imdbid": "tt0099978", 
+    "poster_url": "LaserMission.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 2, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "SweetPollyOliver", 
+                "BrawnHilda"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }
+    ], 
+    "id": "LaserMission", 
+    "name": "Laser Mission"
+}

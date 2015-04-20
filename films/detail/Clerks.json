@@ -1,0 +1,78 @@
+{
+    "plot": "Following the events of the movie 'Clerks', Dante Hicks still works at the Quick Stop, and his best friend Randall Graves still 'works' at the video store (even though he spends most of his time figuring out ways to get Dante into trouble). However, with the arrival into town of diabolical billionaire megalomaniac Leonardo Leonardo, their lives are about to get more unusual, even if their jobs remain as unsatisfying and tedious as before. Soon, Dante and Randall find themselves thrown headlong into crazy adventures involving, in no particular order, a monkey, Little League Baseball, Korean animators, Canadian exports, lesbian ex-girlfriends of Randall, Judge Reinhold, the Matrix, refridgerator door locks and numerous unwarranted 'Star Wars' references. And as always, they receive very little in the way of constructive help from slackers Jay and Silent Bob.", 
+    "genres": "Animation, Comedy", 
+    "release_year": "2000\u2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Randal in Clerks and Clerks II", 
+                "id": "BromanticFoil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: The customer who asks to borrow porno mags while using the bathroom and dies in there.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "different", 
+                    "own", 
+                    "free"
+                ], 
+                "role": "The Slacker: Jay and Silent Bob and Randal. Especially Randal. Dante pretends to be different, but nobody's fooled \u2014 he's at work of his own free will, even if he pretends otherwise.", 
+                "id": "TheSlacker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0210413", 
+    "similar": [
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "BromanticFoil"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RedHill", 
+            "name": "Red Hill", 
+            "poster_url": "RedHill.jpg"
+        }
+    ], 
+    "id": "Clerks", 
+    "name": "Clerks"
+}

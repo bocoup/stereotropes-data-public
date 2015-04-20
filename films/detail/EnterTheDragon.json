@@ -1,0 +1,151 @@
+{
+    "plot": "Enter the Dragon revolves around the three main characters. Lee, a man recruited by an agency to investigate a tournament hosted by Han, since they believe he has an Opium trade there. Roper and Williams are former army buddies since Vietnam and they enter the tournament due to different problems that they have. Roper is on the run from the Mafia due to his gambling debts, while Williams is harassed by racist police officers and defends himself from them and uses the car for his getaway. It is a deadly tournament that they will enter on an island. Lee's job is to get the other two out of there alive.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "sixty", 
+                    "old", 
+                    "worthy", 
+                    "thirty"
+                ], 
+                "role": "Badass Grandpa: The actor playing the Big Bad, Shih Kien, was sixty years old when this movie was filmed, and still portrayed a convincingly worthy adversary to the almost thirty years younger Bruce Lee.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "off-screen"
+                ], 
+                "role": "An off-screen Curb Stomp Battle happened when some dumbass intruded on Bruce Lee's family area and scared his kids. Bruce Lee sent the guy to the hospital with one kick.", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Both Williams and Roper seem to have a way with the ladies.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "martial", 
+                    "own"
+                ], 
+                "role": "Action Girl: Lee's sister, Su Lin. The actress, Angela Mao Ying, would go on to be a martial arts star in her own right in Hong Kong.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "personal", 
+                    "O'hara"
+                ], 
+                "role": "Bodyguard Babes: Mr. Han's daughters are his personal bodyguards; not O'hara.", 
+                "id": "BodyguardBabes"
+            }, 
+            {
+                "adjectives": [
+                    "loyal", 
+                    "little"
+                ], 
+                "role": "Mr. Han's daughters from Enter the Dragon. As Roper says, \"No one's more loyal than Daddy's little girl.\"", 
+                "id": "BodyguardBabes"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: This is the reasoning behind Daddy's Little Villain.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "personal", 
+                    "loyal", 
+                    "give", 
+                    "dead"
+                ], 
+                "role": "Daddy's Little Villain: Han has trained his daughters to be his personal bodyguards on the theory that no one will be more loyal to him. One of them knocked Roper clear off his feet rather than give him a handshake and  another is seen dead on the courtyard stage after the fight is over.", 
+                "id": "DaddysLittleVillain"
+            }, 
+            {
+                "adjectives": [
+                    "loyal", 
+                    "tough", 
+                    "loyal", 
+                    "little"
+                ], 
+                "role": "Though we don't get to see them in action, Mr. Han from Enter the Dragon trained his daughters to be his most loyal guard. As Roper says upon finding out how tough they can be, \"No one's more loyal than Daddy's little girl.\"", 
+                "id": "DaddysLittleVillain"
+            }, 
+            {
+                "adjectives": [
+                    "special", 
+                    "thrown", 
+                    "martial"
+                ], 
+                "role": "Faux Action Girl: Mei Ling is a Reverse Mole in Han's island, is a special agent, and can shoot a dart into a thrown apple. Despite this, she doesn't fight anyone. However, it was her idea to release the imprisoned martial artists.", 
+                "id": "FauxActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070034", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DaddysGirl", 
+                "ActionGirl", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DaddysLittleVillain", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "TheCasanova", 
+                "BodyguardBabes"
+            ], 
+            "shared_count": 3, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BodyguardBabes", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "ActionGirl", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Tekken", 
+            "name": "Tekken", 
+            "poster_url": "Tekken.jpg"
+        }
+    ], 
+    "id": "EnterTheDragon", 
+    "name": "Enter the Dragon"
+}

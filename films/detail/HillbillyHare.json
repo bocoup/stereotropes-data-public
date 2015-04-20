@@ -1,0 +1,66 @@
+{
+    "plot": "While vacationing in the Ozark Mountains, Bugs Bunny encounters Curt and Pumpkinhead Martin, two dimwitted hillbillies who are duped by Bugs into a violent square dance.", 
+    "genres": "Family, Animation, Comedy", 
+    "release_year": "1950", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "go-to", 
+                    "square"
+                ], 
+                "role": "Disguised in Drag: One of Bugs's go-to tactics, which he uses here to lure the hillbillies into the square dance.", 
+                "id": "DisguisedInDrag"
+            }
+        ]
+    }, 
+    "imdbid": "tt0042555", 
+    "similar": [
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "LupinIIIOperationReturnTheTreasure", 
+            "name": "Lupin III Operation Return The Treasure"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "SororityBoys", 
+            "name": "Sorority Boys", 
+            "poster_url": "SororityBoys.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "WhiteChicks", 
+            "name": "White Chicks", 
+            "poster_url": "WhiteChicks.jpg"
+        }
+    ], 
+    "id": "HillbillyHare", 
+    "name": "Hillbilly Hare"
+}

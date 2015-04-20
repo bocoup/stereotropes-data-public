@@ -1,0 +1,80 @@
+{
+    "plot": "In Los Angeles, a story about a dead girl, told in five chapters. A woman, miserable in her circumscribed life caring for her domineering mother, finds a body. Somehow, this discovery allows her to change. At the morgue, the sister of a girl missing for 15 years believes the body is that of her sister; this liberates her. An older woman, married to a man who pays her little attention, finds evidence in a storage unit; how will she handle it? The mother of the dead girl, who left home some years before, visits the last place her daughter lived and makes her own discoveries. Last, we flash back to the victim's final day.", 
+    "genres": "Crime, Drama, Mystery", 
+    "release_year": "2006", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "unusual", 
+                    "step-father", 
+                    "illegitimate", 
+                    "care", 
+                    "last", 
+                    "same"
+                ], 
+                "role": "Disposable Sex Worker: Krista, although she's given an unusual amount of backstory, fits this trope to a T. She was  sexually abused by her step-father, has an illegitimate child in someone else's care that she wants to connect with (but couldn't), and was just the last out of a string of prostitutes who were murdered by the same serial killer.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Krista is portrayed as one of these. She tries to give her daughter a gift on her birthday, but just can't muster up the courage.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0783238", 
+    "similar": [
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Pusher", 
+            "name": "Pusher"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "TotalRecall1990", 
+            "name": "Total Recall ", 
+            "poster_url": "TotalRecall1990.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Deadman", 
+            "name": "Deadman"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "LeavingLasVegas", 
+            "name": "Leaving Las Vegas", 
+            "poster_url": "LeavingLasVegas.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "DirtyWork", 
+            "name": "Dirty Work", 
+            "poster_url": "DirtyWork.jpg"
+        }
+    ], 
+    "id": "TheDeadGirl", 
+    "name": "The Dead Girl"
+}

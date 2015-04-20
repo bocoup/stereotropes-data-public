@@ -1,0 +1,96 @@
+{
+    "plot": "Chaos ensues when two former college friends, one a housewife and the other the editor of a hip woman's magazine, decide to switch lifestyles between the two of them.", 
+    "genres": "Comedy", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dude Magnet: Amanda.", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr Seahorse", 
+                "id": "MisterSeahorse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Steve Brooks.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Even the Girls Want Her: Amanda.", 
+                "id": "EvenTheGirlsWantHer"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian: Sheila Faxton.", 
+                "id": "LipstickLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Amanda, of course. Just put the mind of a manly womanizer into a woman body and see what happens.", 
+                "id": "Tomboy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0073283", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "ChickMagnet", 
+                "MisterSeahorse"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "ChickMagnet"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "MisterSeahorse"
+            ], 
+            "shared_count": 2, 
+            "id": "PillowTalk", 
+            "name": "Pillow Talk", 
+            "poster_url": "PillowTalk.jpg"
+        }, 
+        {
+            "shared": [
+                "LipstickLesbian", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 2, 
+            "id": "Bound", 
+            "name": "Bound", 
+            "poster_url": "Bound.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 2, 
+            "id": "NorwegianWood", 
+            "name": "Norwegian Wood", 
+            "poster_url": "NorwegianWood.jpg"
+        }
+    ], 
+    "id": "Switch", 
+    "name": "Switch!"
+}

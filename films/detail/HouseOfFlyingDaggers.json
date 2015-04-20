@@ -1,0 +1,83 @@
+{
+    "plot": "During the reign of the Tang dynasty in China, a secret organization called \"The House of the Flying Daggers\" rises and opposes the government. A police officer called Leo sends officer Jin to investigate a young dancer named Mei, claiming that she has ties to the \"Flying Daggers\". Leo arrests Mei, only to have Jin breaking her free in a plot to gain her trust and lead the police to the new leader of the secret organization. But things are far more complicated than they seem...", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "2004", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Mei.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "several"
+                ], 
+                "role": "Distressed Damsel: Surprisingly Mei. She's nearly raped by Jin in the first 5 minutes, rescued by Jin several times, etc.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sweet Polly Oliver: Mei dresses up as a boy warrior after her escape from jail.", 
+                "id": "SweetPollyOliver"
+            }
+        ]
+    }, 
+    "imdbid": "tt0385004", 
+    "poster_url": "HouseOfFlyingDaggers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SweetPollyOliver", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "SweetPollyOliver", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Salt", 
+            "name": "Salt", 
+            "poster_url": "Salt.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }
+    ], 
+    "id": "HouseOfFlyingDaggers", 
+    "name": "House of Flying Daggers"
+}

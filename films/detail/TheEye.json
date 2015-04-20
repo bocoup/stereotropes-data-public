@@ -1,0 +1,71 @@
+{
+    "plot": "The violinist Sydney Wells has been blind since she was five years old due to an accident. She submits to a surgery of cornea transplantation to recover her vision, and while recovering from the operation, she realizes that she's having strange visions. With the support of Dr. Paul Faulkner, Sidney finds who the donor of her eyes and begins a journey to find out the truth behind her visions.", 
+    "genres": "Drama, Horror, Thriller", 
+    "release_year": "2008", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ill Girl / Littlest Cancer Patient: Ying Ying.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Joey becomes this.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0406759", 
+    "poster_url": "TheEye.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IllGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHandThatRocksTheCradle", 
+            "name": "The Hand That Rocks the Cradle", 
+            "poster_url": "TheHandThatRocksTheCradle.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSecretOfNIMH", 
+            "name": "The Secret of NIMH", 
+            "poster_url": "TheSecretOfNIMH.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }
+    ], 
+    "id": "TheEye", 
+    "name": "The Eye"
+}

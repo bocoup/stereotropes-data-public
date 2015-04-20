@@ -1,0 +1,85 @@
+{
+    "plot": "Ray, an ex-con and widower, is planning a coin heist with two accomplices to help him to buy his own bakery. However, he doesn't expect his son Timmy, who was living with Ray's sister, to show up at the house right in the middle of planning. Timmy is ignored and Ray and his buddies pull off the heist. Timmy gets his father's attention by stealing the coins and hiding them. To get them back, his father must take him to a number of different places and treat him like he enjoys his presence. They grow fond of each other but Timmy won't stay with his dad unless he gives up the coins.", 
+    "genres": "Comedy, Crime, Family", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Ray was this.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "Sharp-Dressed"
+                ], 
+                "role": "Sharp-Dressed Man: Carl, in contrast to Bobby, who is a slob.", 
+                "id": "SharpDressedMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "young"
+                ], 
+                "role": "Missing Mom: Timmy's mother died when he was young.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109891", 
+    "poster_url": "GettingEvenWithDad.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "StarTrekInsurrection", 
+            "name": "Star Trek: Insurrection", 
+            "poster_url": "StarTrekInsurrection.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }
+    ], 
+    "id": "GettingEvenWithDad", 
+    "name": "Getting Even With Dad"
+}

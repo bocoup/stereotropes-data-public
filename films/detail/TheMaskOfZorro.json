@@ -1,0 +1,150 @@
+{
+    "plot": "The original Zorro, Don Diego de la Vega, is captured and imprisoned just as Spain concedes California to Santa Anna. 20 years go by and his mortal enemy, Don Rafael Montero, returns to California with a plan to become wealthy at the expense of the peasants. The original Zorro escapes from prison and trains a new Zorro to take his place. Much swashbuckling and derring-do ensues.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Captain Love", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [
+                    "capable", 
+                    "much"
+                ], 
+                "role": "Badass Grandpa: Diego de La Vega (Anthony Hopkins) and his archenemy Don Rafael (Stuart Wilson) in The Mask of Zorro. Both of them are capable of going one on one with the much younger Alejandro.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "Old-School"
+                ], 
+                "role": "Old-School Chivalry:", 
+                "id": "OldSchoolChivalry"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Mask of Zorro", 
+                "id": "OldSchoolChivalry"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Old Convict: Don Diego becomes one of these, after he gives up hope when he is arrested, his home destroyed, and his wife and child apparently killed. After twenty years, though, he finds the strength to break out.", 
+                "id": "TheOldConvict"
+            }, 
+            {
+                "adjectives": [
+                    "original"
+                ], 
+                "role": "The original Zorro becomes one of these in The Mask of Zorro, after he gives up hope when he is arrested, his home destroyed, and his wife and child apparently killed. After twenty years, though, he finds the strength to break out.", 
+                "id": "TheOldConvict"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "inferior", 
+                    "great", 
+                    "many"
+                ], 
+                "role": "Action Girl: The audience was delighted to discover Elena wasn't just going to let Zorro take that map. Oh no. It didn't go down like that. And while the sequel is inferior, it was great fun to watch her go Action Mom and have just as many action scenes as her husband.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Gaussian", 
+                    "first", 
+                    "pre-dawn"
+                ], 
+                "role": "Gaussian Girl: Elena. Somewhat justified during her first fight with Zorro in a dusty, pre-dawn barn.", 
+                "id": "GaussianGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In The Mask of Zorro, Elena is left clad in pajama bottoms and hair when Zorro slices her nightshirt off.", 
+                "id": "GodivaHair"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mad Don's Beautiful Daughter: Elena.", 
+                "id": "MadScientistsBeautifulDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "fight"
+                ], 
+                "role": "In The Mask of Zorro Elena wants to keep the commandments and tries to behave the way her father would like her to but her heart is too wild. She can both dance gracefully with Captain Harrison Love or sword fight with Zorro. She also makes her view of politics knows at dinner.", 
+                "id": "SpiritedYoungLady"
+            }, 
+            {
+                "adjectives": [
+                    "fight"
+                ], 
+                "role": "Spirited Young Lady: Elena wants to keep the commandments and tries to behave the way her father would like her to but her heart is too wild. She can both dance gracefully with Captain Harrison Love or sword fight with Zorro. She also makes her view of politics knows at dinner.", 
+                "id": "SpiritedYoungLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120746", 
+    "poster_url": "TheMaskOfZorro.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "ActionGirl", 
+                "GodivaHair"
+            ], 
+            "shared_count": 3, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BadAssBeard", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "GaussianGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl", 
+                "GodivaHair"
+            ], 
+            "shared_count": 3, 
+            "id": "Machete", 
+            "name": "Machete", 
+            "poster_url": "Machete.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BadAssBeard", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Comic8", 
+            "name": "Comic 8"
+        }
+    ], 
+    "id": "TheMaskOfZorro", 
+    "name": "The Mask of Zorro"
+}

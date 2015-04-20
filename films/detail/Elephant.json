@@ -1,0 +1,64 @@
+{
+    "plot": "A day in the lives of a group of average teenage high school students. The film follows every character and shows their daily routines. However two of the students plan to do something that the student body won't forget.", 
+    "genres": "Crime, Drama, Thriller", 
+    "release_year": "2003", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Posse: Brittany, Jordan and Nicole.", 
+                "id": "GirlPosse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0363589", 
+    "poster_url": "Elephant.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlPosse"
+            ], 
+            "shared_count": 1, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlPosse"
+            ], 
+            "shared_count": 1, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlPosse"
+            ], 
+            "shared_count": 1, 
+            "id": "LilAbner", 
+            "name": "Li'l Abner", 
+            "poster_url": "LilAbner.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlPosse"
+            ], 
+            "shared_count": 1, 
+            "id": "ThePrimeOfMissJeanBrodie", 
+            "name": "The Prime of Miss Jean Brodie", 
+            "poster_url": "ThePrimeOfMissJeanBrodie.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlPosse"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDevilsCarnival", 
+            "name": "The Devil's Carnival"
+        }
+    ], 
+    "id": "Elephant", 
+    "name": "Elephant"
+}

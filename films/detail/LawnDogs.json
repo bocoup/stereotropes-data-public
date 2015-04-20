@@ -1,0 +1,82 @@
+{
+    "plot": "Newly arrived in an up-market housing development, quiet ten-year-old Devon doesn't quite fit in. Ignoring the urgings of her social-climbing father, Devon chooses the company of Trent, who mows the estate's lawns, rather than of the girls her own age. Their friendship grows during her visits to his trailer home, but although it is completely innocent it is obvious that it would be unacceptable to the residents if they found out.", 
+    "genres": "Drama", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "shot", 
+                    "dead"
+                ], 
+                "role": "Corrupt Hick: Trent mentions having been shot by a cop who left him for dead.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: The adult bullies.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Even when he does wear a shirt, Trent somehow never manages to button it all the way up.", 
+                "id": "MrFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119506", 
+    "poster_url": "LawnDogs.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Cars", 
+            "name": "Cars", 
+            "poster_url": "Cars.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Undefeatable", 
+            "name": "Undefeatable", 
+            "poster_url": "Undefeatable.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFinal", 
+            "name": "The Final", 
+            "poster_url": "TheFinal.jpg"
+        }
+    ], 
+    "id": "LawnDogs", 
+    "name": "Lawn Dogs"
+}

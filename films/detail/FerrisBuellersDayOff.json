@@ -1,0 +1,127 @@
+{
+    "plot": "High school student Ferris Bueller wants a day off from school and he's developed an incredibly sophisticated plan to pull it off. He talks his friend Cameron into taking his father's prized Ferrari and with his girlfriend Sloane head into Chicago for the day. While they are taking in what the city has to offer school principal Ed Rooney is convinced that Ferris is, not for the first time, playing hooky for the day and is hell bent to catch him out. Ferris has anticipated that, much to Rooney's chagrin.", 
+    "genres": "Comedy", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Ferris Bueller from Ferris Buellers Day Off!", 
+                "id": "BigManOnCampus"
+            }, 
+            {
+                "adjectives": [
+                    "classic"
+                ], 
+                "role": "Ferris Bueller in Ferris Buellers Day Off is a classic example.", 
+                "id": "HighSchoolHustler"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High School Hustler: Ferris, naturally.", 
+                "id": "HighSchoolHustler"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "secretary"
+                ], 
+                "role": "Gossipy Hens: Simone Adamley. Grace (Rooney's secretary) is also a bit of this.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [
+                    "sassy"
+                ], 
+                "role": "Light Feminine and Dark Feminine: Kind, innocent Sloane (light) and rude, sassy Jeannie (dark).", 
+                "id": "LightFeminineAndDarkFeminine"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Boy: He does get Cameron to finally stand up for himself. There are even some who think that Ferris is just a figment of Cameron's imagination.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "poor", 
+                    "wrong"
+                ], 
+                "role": "Ferris Buellers Day Off has the singing (among other things) telegram somebody sent that poor sick boy down the street. Sadly interrupted when the wrong Bueller answered the door.", 
+                "id": "NaughtyNurseOutfit"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Naughty Nurse Outfit: The singing nurse. Justified in that she is a performer, and is supposed to dress according to this trope, not reality.", 
+                "id": "NaughtyNurseOutfit"
+            }, 
+            {
+                "adjectives": [
+                    "debatable"
+                ], 
+                "role": "Spoiled Sweet: Sloane. Ferris is an extremely debatable case.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0091042", 
+    "poster_url": "FerrisBuellersDayOff.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "LightFeminineAndDarkFeminine", 
+                "GossipyHens"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine", 
+                "GossipyHens"
+            ], 
+            "shared_count": 2, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "GossipyHens"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWomen", 
+            "name": "The Women", 
+            "poster_url": "TheWomen.jpg"
+        }
+    ], 
+    "id": "FerrisBuellersDayOff", 
+    "name": "Ferris Bueller's Day Off"
+}

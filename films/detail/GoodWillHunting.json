@@ -1,0 +1,76 @@
+{
+    "plot": "A touching tale of a wayward young man who struggles to find his identity, living in a world where he can solve any problem, except the one brewing deep within himself, until one day he meets his soul mate who opens his mind and his heart.", 
+    "genres": "Drama", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Maguire's beard.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [
+                    "Sean"
+                ], 
+                "role": "Cool Old Guy: Sean", 
+                "id": "CoolOldGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119217", 
+    "poster_url": "GoodWillHunting.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssBeard", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "HarleyDavidsonAndTheMarlboroMan", 
+            "name": "Harley Davidson and the Marlboro Man", 
+            "poster_url": "HarleyDavidsonAndTheMarlboroMan.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "RIPD", 
+            "name": "R.I.P.D.", 
+            "poster_url": "RIPD.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }
+    ], 
+    "id": "GoodWillHunting", 
+    "name": "Good Will Hunting"
+}

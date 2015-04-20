@@ -1,0 +1,83 @@
+{
+    "plot": "Fred Madison, a saxophonist, is accused under mysterious circumstances of murdering his wife Renee. On death row, he inexplicably morphs into a young man named Pete Dayton, leading a completely different life. When Pete is released, his and Fred's paths begin to cross in a surreal, suspenseful web of intrigue, orchestrated by a shady gangster boss named Dick Laurent.", 
+    "genres": "Drama, Mystery, Thriller", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Mr Eddy and possibly Fred Madison.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lost Highway gives us Mr Eddy and Fred Madison (Bill Pullman).", 
+                "id": "CrazyJealousGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Renee/Alice"
+                ], 
+                "role": "Femme Fatale: Renee/Alice.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116922", 
+    "poster_url": "LostHighway.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "AFishCalledWanda", 
+            "name": "A Fish Called Wanda", 
+            "poster_url": "AFishCalledWanda.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "FrenchCancan", 
+            "name": "French Cancan", 
+            "poster_url": "FrenchCancan.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }
+    ], 
+    "id": "LostHighway", 
+    "name": "Lost Highway"
+}

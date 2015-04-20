@@ -1,0 +1,118 @@
+{
+    "plot": "This Martin Scorsese film depicts the Janus-like quality of Las Vegas--it has a glittering, glamorous face, as well as a brutal, cruel one. Ace Rothstein and Nicky Santoro, mobsters who move to Las Vegas to make their mark, live and work in this paradoxical world. Seen through their eyes, each as a foil to the other, the details of mob involvement in the casinos of the 1970's and '80's are revealed. Ace is the smooth operator of the Tangiers casino, while Nicky is his boyhood friend and tough strongman, robbing and shaking down the locals. However, they each have a tragic flaw--Ace falls in love with a hustler, Ginger, and Nicky falls into an ever-deepening spiral of drugs and violence.", 
+    "genres": "Biography, Crime, Drama", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "professional", 
+                    "potential", 
+                    "past", 
+                    "physical", 
+                    "late"
+                ], 
+                "role": "Badass Grandpa: The professional killers who retire any potential liability during the ending are well past their physical prime -probably in their late sixties- but get the job done to a T.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "whole", 
+                    "corrupt"
+                ], 
+                "role": "Corrupt Hick: Ace narrates that the whole state of Nevada runs on nepotism and corrupt hicks.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "young", 
+                    "beautiful"
+                ], 
+                "role": "Ace Rothstein in Casino fired a young employee of his just for saying his wife was beautiful.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "short", 
+                    "fat", 
+                    "powerful"
+                ], 
+                "role": "Kavorka Man: Nicky can get practically any woman he wants, despite being short, fat and far from conventionally attractive. Being one of the most powerful mobsters in Vegas has its advantages.", 
+                "id": "KavorkaMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distracted by the Luxury: Basically how Ace gets Ginger to marry him.", 
+                "id": "DistractedByTheLuxury"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fanservice Extra: The senator's hooker, who we watch slip out of her gown in the senator's hotel room. She's Going Commando.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Casino, Millicent Sheridan as \"Senator's Hooker\" slips out of her gown in the senator's hotel room.", 
+                "id": "FanserviceExtra"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112641", 
+    "poster_url": "Casino.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "Diggstown", 
+            "name": "Diggstown", 
+            "poster_url": "Diggstown.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "PootieTang", 
+            "name": "Pootie Tang", 
+            "poster_url": "PootieTang.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "WhenHarryMetSally", 
+            "name": "When Harry Met Sally", 
+            "poster_url": "WhenHarryMetSally.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "MysteryTeam", 
+            "name": "Mystery Team", 
+            "poster_url": "MysteryTeam.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "Troll2", 
+            "name": "Troll 2", 
+            "poster_url": "Troll2.jpg"
+        }
+    ], 
+    "id": "Casino", 
+    "name": "Casino"
+}

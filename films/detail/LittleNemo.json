@@ -1,0 +1,80 @@
+{
+    "plot": "A young boy whose dreams transcend reality is sucked into his own fantasy, which is everything he has dreamed of until he unleashes a century old secret that may not only destroy this perfect dream world but reality itself.", 
+    "genres": "Family, Animation, Adventure", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Little Nemo: Morpheus, king of Slumberland.", 
+                "id": "TheGoodKing"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Princess Camille, who is Little Nemo's dream playmate.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104740", 
+    "poster_url": "LittleNemo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "TheGoodKing"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "TheGoodKing"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "TheGoodKing"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "TheGoodKing"
+            ], 
+            "shared_count": 2, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "TheGoodKing"
+            ], 
+            "shared_count": 2, 
+            "id": "Brave", 
+            "name": "Brave", 
+            "poster_url": "Brave.jpg"
+        }
+    ], 
+    "id": "LittleNemo", 
+    "name": "Little Nemo"
+}

@@ -1,0 +1,91 @@
+{
+    "plot": "After the death of Shaggy's Uncle Beaureguard, he, Scooby, and Scrappy arrive at his uncle's plantation to collect the inheritance. But as soon as they arrive, they find it is haunted by the ghost of a Confederate soldier. With this spook on their tails while they search for Shaggy's inheritance, they hired to help of the Boo Brothers, a trio of ghost-exterminators to help catch this nasty ghoul.", 
+    "genres": "Animation, Comedy, Fantasy", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "real"
+                ], 
+                "role": "Badass Mustache:  The real sheriff.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: Sheriff Buzby.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crusty Caretaker: Farquad", 
+                "id": "CrustyCaretaker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Farmer's Daughter: Sadie Mae", 
+                "id": "FarmersDaughter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sadie Mae Scruggins from Scooby-Doo Meets the Boo Brothers.", 
+                "id": "FarmersDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0189070", 
+    "poster_url": "ScoobyDooMeetsTheBooBrothers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "FarmersDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "Rango", 
+            "name": "Rango", 
+            "poster_url": "Rango.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "ScoobyDooMeetsTheBooBrothers", 
+    "name": "Scooby-Doo Meets the Boo Brothers"
+}

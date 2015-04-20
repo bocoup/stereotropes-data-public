@@ -1,0 +1,76 @@
+{
+    "plot": "Leon Bronstein is not your average Montreal West high school student. For one thing, none of his peers can claim to be the reincarnation of early 20th century Soviet iconoclast and Red Army hero, Leon Trotsky. When his father sends Leon to public school as punishment for starting a hunger strike at Papa's clothing factory, Leon quickly lends new meaning to the term 'student union', determined as he is to live out his pre-ordained destiny to the fullest and change the world.", 
+    "genres": "Comedy", 
+    "release_year": "2009", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Jewish"
+                ], 
+                "role": "Shiksa Goddess: Leon's mom is not Jewish.", 
+                "id": "ShiksaGoddess"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "later", 
+                    "clear"
+                ], 
+                "role": "Soapbox Sadie: Leon can appear to be this at first, but later on it becomes clear he honestly cares about the cause.", 
+                "id": "SoapBoxSadie"
+            }
+        ]
+    }, 
+    "imdbid": "tt1295072", 
+    "poster_url": "TheTrotsky.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SoapBoxSadie"
+            ], 
+            "shared_count": 1, 
+            "id": "AmericanHistoryX", 
+            "name": "American History X", 
+            "poster_url": "AmericanHistoryX.jpg"
+        }, 
+        {
+            "shared": [
+                "ShiksaGoddess"
+            ], 
+            "shared_count": 1, 
+            "id": "TheHeartbreakKid", 
+            "name": "The Heartbreak Kid", 
+            "poster_url": "TheHeartbreakKid.jpg"
+        }, 
+        {
+            "shared": [
+                "SoapBoxSadie"
+            ], 
+            "shared_count": 1, 
+            "id": "Lajja", 
+            "name": "Lajja", 
+            "poster_url": "Lajja.jpg"
+        }, 
+        {
+            "shared": [
+                "SoapBoxSadie"
+            ], 
+            "shared_count": 1, 
+            "id": "Detention", 
+            "name": "Detention", 
+            "poster_url": "Detention.jpg"
+        }, 
+        {
+            "shared": [
+                "ShiksaGoddess"
+            ], 
+            "shared_count": 1, 
+            "id": "AnnieHall", 
+            "name": "Annie Hall", 
+            "poster_url": "AnnieHall.jpg"
+        }
+    ], 
+    "id": "TheTrotsky", 
+    "name": "The Trotsky"
+}

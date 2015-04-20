@@ -1,0 +1,105 @@
+{
+    "plot": "Shaw was an officer in the Federal Army during the American Civil War who volunteered to lead the first company of black soldiers. Shaw was forced to deal with the prejudices of both the enemy (who had orders to kill commanding officers of blacks), and of his own fellow officers.", 
+    "genres": "Drama, History, War", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first", 
+                    "much", 
+                    "54th", 
+                    "entire"
+                ], 
+                "role": "A Father to His Men: Col. Shaw, who was probably the first man to treat much of the 54th as equals in their entire lives.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "Sergeant-Major", 
+                    "harsh", 
+                    "poor"
+                ], 
+                "role": "Drill Sergeant Nasty: Sergeant-Major Mulcahy. He's harsh on the soldiers not because he's a racist, but because he doesn't want them to die because of poor training.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "much", 
+                    "tough", 
+                    "soft", 
+                    "personal"
+                ], 
+                "role": "The Irish sergeant in Glory, Sgt. Major Mulcahy. Very well portrayed by John Finn. He is a racist, but a soldier more, and he doesn't want them to be killed because of unpreparedness.\n \"This is your front!\" (smacks soldier in the stomach) \"This is your rear!\" (smacks soldier on the back) \"This is your right.\" (stomps on soldier's foot) \"And this is...\" (attempts to stomp on soldier's other foot, soldier pulls it away) \"Now ye larnin', boyo.\"\n He is very much a \"tough love\" Drill Sergeant Nasty with nothing of the bully in him, and even convinces Shaw to not order him to loosen up with the (still) soft Pvt. Searles, Shaw's personal friend, whom Mulcahey had rather savagely beaten to the ground: (...)", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Colonel Robert Gould Shaw from Glory. Also a Real Life example.", 
+                "id": "OfficerAndAGentleman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Officer and a Gentleman: Shaw", 
+                "id": "OfficerAndAGentleman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097441", 
+    "poster_url": "Glory.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OfficerAndAGentleman", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "BeauGeste", 
+            "name": "Beau Geste", 
+            "poster_url": "BeauGeste.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "MisterRoberts", 
+            "name": "Mister Roberts", 
+            "poster_url": "MisterRoberts.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "MutinyOnTheBounty", 
+            "name": "Mutiny on the Bounty", 
+            "poster_url": "MutinyOnTheBounty.jpg"
+        }
+    ], 
+    "id": "Glory", 
+    "name": "Glory"
+}

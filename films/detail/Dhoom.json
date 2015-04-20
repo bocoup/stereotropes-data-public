@@ -1,0 +1,83 @@
+{
+    "plot": "A gang of bikers headed by the cool-headed and arrogant Kabir is on a robbing spree in Mumbai. They rob establishments and then zip away on their superbikes. ACP Jai Dixit is the case in-charge and he recruits a bumbling bike mechanic and racer named Ali to chase the gang on a bike and help Jai nab them. Kabir accepts the challenge, and pulls off another robbery amidst a function. This causes Jai and Ali to call it off. Jai resigns from the police force and Ali goes back to his daily job. Meanwhile Kabir has lost one of his team members and recruits Ali for their final job in Goa. The action shifts from the congested Mumbai traffic to the sunny Goa for the final showdown between cops and robbers.", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "2004", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Faux Action Girl: Shonali. Despite investigating Aryan's case for two years, she still doesn't know his thieving pattern. Jai figures it out within seconds.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Sunehri", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "High", 
+                    "bad", 
+                    "sympathetic"
+                ], 
+                "role": "High Heel Face Turn:  Sunehri. Subverted in that she ends up with Aryan, who is technically the bad guy. Although, by this point, he is considerably more sympathetic than the police chasing him.", 
+                "id": "HighHeelFaceTurn"
+            }
+        ]
+    }, 
+    "imdbid": "tt0422091", 
+    "poster_url": "Dhoom.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "UndercoverBrother", 
+            "name": "Undercover Brother", 
+            "poster_url": "UndercoverBrother.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "DieAnotherDay", 
+            "name": "Die Another Day", 
+            "poster_url": "DieAnotherDay.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIncredibles", 
+            "name": "The Incredibles"
+        }
+    ], 
+    "id": "Dhoom", 
+    "name": "Dhoom"
+}

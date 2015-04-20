@@ -1,0 +1,75 @@
+{
+    "plot": "Alex Hesse and Larry Arbogast are working on a new drug which will reduce the chances of a woman's body rejecting an embryo and thus causing a miscarriage. When their research funding is withdrawn, and human experimentation is denied to them, they decide to test the drug by breifly impregnating Hesse. Hesse however becomes attached to \"his\" unborn baby.", 
+    "genres": "Comedy, Romance, Sci-Fi", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Mr. Seahorse: Played...rather seriously, really.", 
+                "id": "MisterSeahorse"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Diana. Overlaps with Dojikko.", 
+                "id": "HotScientist"
+            }
+        ]
+    }, 
+    "imdbid": "tt0110216", 
+    "poster_url": "Junior.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MisterSeahorse", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "MisterSeahorse", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "MisterSeahorse"
+            ], 
+            "shared_count": 1, 
+            "id": "X-Men", 
+            "name": "X-Men", 
+            "poster_url": "X-Men.jpg"
+        }
+    ], 
+    "id": "Junior", 
+    "name": "Junior"
+}

@@ -1,0 +1,106 @@
+{
+    "plot": "Six unemployed steel workers, inspired by the Chippendale's dancers, form a male striptease act. The women cheer them on to go for \"the full monty\" - total nudity.", 
+    "genres": "Comedy, Drama, Music", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Gag Penis: It appears to be Guy's only \"talent\" in the tryouts. Subverted with Horse, whose name strongly suggests this trope (\"it's not because he's won the Grand National\"), who is astonishingly... good at dancing.", 
+                "id": "GagPenis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In The Full Monty, an auditioning male stripper displays his qualifications for the job. All we see is a reaction shot of the audition panel ...", 
+                "id": "GagPenis"
+            }, 
+            {
+                "adjectives": [
+                    "resemble"
+                ], 
+                "role": "Mr. Fanservice: Averted in-universe. Their act is based on a Chippendales show, and none of the men resemble those dancers in any way. Justified thanks to... Hollywood Homely: None of the actors are ugly, per se, and Robert Carlyle has his share of fans. The Broadway show definitely plays it straight. Women were known to attend multiple performances.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Yaoi Guys:  Guy and Lomper.", 
+                "id": "YaoiGuys"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "musical", 
+                    "delirious", 
+                    "old"
+                ], 
+                "role": "Cool Old Lady: The musical adds in a delirious old woman who \"came with the piano\".", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [
+                    "song"
+                ], 
+                "role": "One song in The Full Monty has the men objectifying women before realizing to their horror that they will soon be on the receiving end, and Jerry has this kind of girl in mind.", 
+                "id": "SweaterGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119164", 
+    "poster_url": "TheFullMonty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GagPenis", 
+                "CoolOldLady", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "SweaterGirl", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Tron", 
+            "name": "TRON", 
+            "poster_url": "Tron.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfSherlockHolmesAndDoctorWatson", 
+            "name": "The Adventures of Sherlock Holmes and Doctor Watson"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "ParaNorman", 
+            "name": "ParaNorman", 
+            "poster_url": "ParaNorman.jpg"
+        }
+    ], 
+    "id": "TheFullMonty", 
+    "name": "The Full Monty"
+}

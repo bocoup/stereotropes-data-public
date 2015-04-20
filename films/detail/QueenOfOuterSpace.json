@@ -1,0 +1,84 @@
+{
+    "plot": "En route to Earth's orbiting space station, a spaceship with four men aboard is attacked and they awaken after their spaceship crash lands. One of them, Professor Konrad, determines they have landed on Venus, a planet scientists had believed to be uninhabitable. They are taken prisoner by the inhabitants, all beautiful women, who imprisoned the men and took control of the planet. Their masked Queen, Yllana, has plans to destroy the Earth with their beta disintegrator but there is dissent among them led by the beautiful Talleah.", 
+    "genres": "Adventure, Fantasy, Sci-Fi", 
+    "release_year": "1958", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Butterface: Yllana.", 
+                "id": "ButterFace"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "God Save Us from the Queen!", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [
+                    "Hysterical", 
+                    "Venusian", 
+                    "man-hating"
+                ], 
+                "role": "Hysterical Woman: One Venusian babe attacks our heroes in a man-hating frenzy as soon as they're brought into the council room.", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Women Drivers: The crew ask how the Venus' weapon could have hit them siting women drivers as a reason why they shouldn't have.", 
+                "id": "WomenDrivers"
+            }
+        ]
+    }, 
+    "imdbid": "tt0052104", 
+    "poster_url": "QueenOfOuterSpace.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ButterFace", 
+                "WomenDrivers"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFog", 
+            "name": "The Fog", 
+            "poster_url": "TheFog.jpg"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainEO", 
+            "name": "Captain EO", 
+            "poster_url": "CaptainEO.jpg"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "WomenDrivers"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }
+    ], 
+    "id": "QueenOfOuterSpace", 
+    "name": "Queen Of Outer Space"
+}

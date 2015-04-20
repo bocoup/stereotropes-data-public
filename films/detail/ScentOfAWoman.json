@@ -1,0 +1,80 @@
+{
+    "plot": "Frank is a retired Lt Col in the US army. He's blind and impossible to get along with. Charlie is at school and is looking forward to going to university; to help pay for a trip home for Christmas, he agrees to look after Frank over thanksgiving. Frank's niece says this will be easy money, but she didn't reckon on Frank spending his thanksgiving in New York.", 
+    "genres": "Drama", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "tough", 
+                    "non-sense", 
+                    "insensitive"
+                ], 
+                "role": "Badass Grandpa: Lt. Col. Frank Slade is a tough, take no non-sense man who can still put an insensitive jerk into a Ranger choke hold, dance a tango perfectly, and will defend the integrity of others.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "willing"
+                ], 
+                "role": "Dirty Coward: George who sold his friends out the instant the situation looked bad. Especially compared to Charlie, whom the boys view disdainfully, who is willing to go down for them.", 
+                "id": "DirtyCoward"
+            }
+        ]
+    }, 
+    "imdbid": "tt0105323", 
+    "poster_url": "ScentOfAWoman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "NextAvengersHeroesOfTomorrow", 
+            "name": "Next Avengers: Heroes of Tomorrow"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "NewJackCity", 
+            "name": "New Jack City", 
+            "poster_url": "NewJackCity.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TransformersDarkOfTheMoon", 
+            "name": "Transformers: Dark of the Moon", 
+            "poster_url": "TransformersDarkOfTheMoon.jpg"
+        }
+    ], 
+    "id": "ScentOfAWoman", 
+    "name": "Scent of a Woman"
+}

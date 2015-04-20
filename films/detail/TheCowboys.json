@@ -1,0 +1,87 @@
+{
+    "plot": "When his cattle drivers abandon him for the gold fields, rancher Wil Andersen is forced to take on a collection of young boys as his drivers in order to get his herd to market in time to avoid financial disaster. The boys learn to do a man's job under Andersen's tutelage, however, neither Andersen nor the boys know that a gang of cattle thieves is stalking them.", 
+    "genres": "Adventure, Comedy, Drama", 
+    "release_year": "1972", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Cowboys with John Wayne has elements of this as his character is forced to learn how to deal with children he must use on a cattle drive ( but also somewhat subverts this trope when John Wayne's character is killed and the kids learn to kill in order to avenge his death and recover the stolen cattle).", 
+                "id": "ActionHeroBabysitter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Wil Anderson, of course.", 
+                "id": "BadassGrandpa"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Miss Kitty: At one point the boys encounter a group of what Nightlinger calls \"soiled doves\". Naturally, they have their madam with them.", 
+                "id": "MissKitty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team Mom: Nightlinger", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0068421", 
+    "poster_url": "TheCowboys.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TeamMom"
+            ], 
+            "shared_count": 2, 
+            "id": "WeWereSoldiers", 
+            "name": "We Were Soldiers", 
+            "poster_url": "WeWereSoldiers.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TeamMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Giant", 
+            "name": "Giant", 
+            "poster_url": "Giant.jpg"
+        }, 
+        {
+            "shared": [
+                "MissKitty", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHouseOfTheSpirits", 
+            "name": "The House of the Spirits", 
+            "poster_url": "TheHouseOfTheSpirits.jpg"
+        }, 
+        {
+            "shared": [
+                "MissKitty", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "OnceUponATimeInTheWest", 
+            "name": "Once Upon a Time in the West", 
+            "poster_url": "OnceUponATimeInTheWest.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TeamMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDescent", 
+            "name": "The Descent", 
+            "poster_url": "TheDescent.jpg"
+        }
+    ], 
+    "id": "TheCowboys", 
+    "name": "The Cowboys"
+}

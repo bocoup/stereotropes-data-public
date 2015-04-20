@@ -1,0 +1,108 @@
+{
+    "plot": "Four years after the failure of Jurassic Park on Isla Nublar, John Hammond reveals to Ian Malcolm that there was another island (\"Site B\") on which dinosaurs were bred before being transported to Isla Nublar. Left alone since the disaster, the dinosaurs have flourished, and Hammond is anxious that the world see them in their \"natural\" environment before they are exploited.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Great White Hunter: Roland Tembo, a rare modern example.", 
+                "id": "GreatWhiteHunter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Roland Tembo in The Lost World: Jurassic Park is even closer, and has made his goal to turn over captured dinos to the Big Bad in exchange for getting to hunt a bull male T-rex.", 
+                "id": "GreatWhiteHunter"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "climactic", 
+                    "full-grown"
+                ], 
+                "role": "Action Girl: Kelly Malcolm becomes this during the climactic fight within the island interior, using gymnastics to knock a full-grown adult Velociraptor over, managing to get it impaled.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Little Miss Badass: Kelly, when she utilises gymnastics to take out a raptor.", 
+                "id": "LittleMissBadass"
+            }, 
+            {
+                "adjectives": [
+                    "social", 
+                    "animal"
+                ], 
+                "role": "She approaches a baby Stegosaurus, causing them to attack. You do not do this to any wild animal's baby, especially if it's a social animal that spends a lot of time in a herd and raising its young. They call them Mama Bear and Papa Wolf for a reason.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick / Tagalong Kid: Kelly Malcolm, who sneaked onto her dad's boat. Malcolm is not amused.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119567", 
+    "poster_url": "TheLostWorldJurassicPark.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "GreatWhiteHunter", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "JurassicPark", 
+            "name": "Jurassic Park", 
+            "poster_url": "JurassicPark.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Dune", 
+            "name": "Dune", 
+            "poster_url": "Dune.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Hanna", 
+            "name": "Hanna", 
+            "poster_url": "Hanna.jpg"
+        }
+    ], 
+    "id": "TheLostWorldJurassicPark", 
+    "name": "The Lost World: Jurassic Park"
+}

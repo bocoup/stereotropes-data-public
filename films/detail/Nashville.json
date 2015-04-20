@@ -1,0 +1,74 @@
+{
+    "plot": "This movie tells the intersecting stories of various people connected to the music business in Nashville. Barbara Jean is the reigning queen of Nashville but is near collapse. Linnea and Delbert Reese have a shaky marriage and 2 deaf children. Opal is a British journalist touring the area. These and other stories come together in a dramatic climax.", 
+    "genres": "Drama, Music", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Ladykiller in Love: Tom falls in love with Linnea, but  she rejects him after they sleep together and leaves.", 
+                "id": "LadyKillerInLove"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Folk rock singer Tom has a way with the ladies.", 
+                "id": "TheCasanova"
+            }
+        ]
+    }, 
+    "imdbid": "tt0073440", 
+    "poster_url": "Nashville.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 2, 
+            "id": "HeavenCanWait", 
+            "name": "Heaven Can Wait", 
+            "poster_url": "HeavenCanWait.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 2, 
+            "id": "HeavenCanWait1943", 
+            "name": "Heaven Can Wait", 
+            "poster_url": "HeavenCanWait1943.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 2, 
+            "id": "DownWithLove", 
+            "name": "Down with Love"
+        }
+    ], 
+    "id": "Nashville", 
+    "name": "Nashville"
+}

@@ -1,0 +1,90 @@
+{
+    "plot": "A group of birds attempt to attack sheltered enemy pigs while creating as much damage as possible.", 
+    "genres": "Action", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "original", 
+                    "fourth", 
+                    "original"
+                ], 
+                "role": "Distressed Birds: Al and Bubbles first appeared being these. The original five birds joined this trope just for the fourth episode of the original game.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Knight in Shining Armor: All of Red's classes have this theme, including Knight, Guardian, and Samurai.", 
+                "id": "KnightInShiningArmor"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mama Bear / Papa Wolf: The birds can count for either if you want to assign them genders.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Bird: Matilda and Stella, respectively.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt2061577", 
+    "similar": [
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "DistressedDude", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "DistressedDude", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFoxAndTheHound", 
+            "name": "The Fox and the Hound", 
+            "poster_url": "TheFoxAndTheHound.jpg"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }
+    ], 
+    "id": "AngryBirds", 
+    "name": "Angry Birds"
+}

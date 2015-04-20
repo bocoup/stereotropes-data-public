@@ -1,0 +1,106 @@
+{
+    "plot": "A mother and her two sons move to a small coast town in California. The town is plagued by bikers and some mysterious deaths. The younger boy makes friends with two other boys who claim to be vampire hunters while the older boy is drawn into the gang of bikers by a beautiful girl. The older boy starts sleeping days and staying out all night while the younger boy starts getting into trouble because of his friends' obsession.", 
+    "genres": "Comedy, Horror", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: When Tim Cappello sings I Still Believe.", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [
+                    "white-blond"
+                ], 
+                "role": "David in The Lost Boys has white-blond hair, and his eyes turn red in vampire mode.", 
+                "id": "WhiteHairedPrettyBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Lost Boys - Dhampyr.", 
+                "id": "MagicalGirlfriend"
+            }, 
+            {
+                "adjectives": [
+                    "Na\u00efve", 
+                    "much", 
+                    "R-rated"
+                ], 
+                "role": "Na\u00efve Everygirl: Star; at least as much as she can in an R-rated movie.", 
+                "id": "NaiveEverygirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Gwen Lieber", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093437", 
+    "poster_url": "TheLostBoys.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ShirtlessScene", 
+                "TheChick"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ShirtlessScene", 
+                "TheChick"
+            ], 
+            "shared_count": 3, 
+            "id": "AttackOfTheClones", 
+            "name": "Attack of the Clones"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ShirtlessScene", 
+                "TheChick"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLEGOMovie", 
+            "name": "The LEGO Movie", 
+            "poster_url": "TheLEGOMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "MagicalGirlfriend", 
+                "BadassGrandpa", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 3, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ShirtlessScene", 
+                "TheChick"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendsOfTheFall", 
+            "name": "Legends Of The Fall"
+        }
+    ], 
+    "id": "TheLostBoys", 
+    "name": "The Lost Boys"
+}

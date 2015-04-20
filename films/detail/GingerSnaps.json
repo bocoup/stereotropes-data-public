@@ -1,0 +1,116 @@
+{
+    "plot": "Is becoming a woman analogous, in some deep psychological way, to becoming a werewolf? Ginger is 16, edgy, tough, and, with her younger sister, into staging and photographing scenes of death. They've made a pact about dying together. In early October, on the night she has her first period, which is also the night of a full moon, a werewolf bites Ginger. Within a few days, some serious changes happen to her body and her temperament. Her sister Brigitte, 15, tries to find a cure with the help of Sam, a local doper. As Brigitte races against the clock, Halloween and another full moon approach, Ginger gets scarier, and it isn't just local dogs that begin to die.", 
+    "genres": "Drama, Horror", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Mr. Fitzgerald.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "sarcastic", 
+                    "popular"
+                ], 
+                "role": "Alpha Bitch: Trina Sinclair in the first movie. She relentlessly teases Ginger and Brigette and assaults Brigette in gym class after she overhears the sisters making sarcastic comments about her. Despite her horrid behavior, she's very popular with the boys and has a Girl Posse that follows her around.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "far"
+                ], 
+                "role": "Cute Monster Girl: Ginger. Of course, this all depends on how far she's gone into her transformation.", 
+                "id": "CuteMonsterGirl"
+            }, 
+            {
+                "adjectives": [
+                    "last", 
+                    "major", 
+                    "alive"
+                ], 
+                "role": "In Ginger Snaps, the quieter, plainer sister of Ginger is the last major character left alive after Ginger kills Sam, who is forced to kill the werewolf that was once her sister and best friend.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "\u201ccherry", 
+                    "Brigitte\u2019", 
+                    "high", 
+                    "big", 
+                    "conspicuous", 
+                    "aware"
+                ], 
+                "role": "Jail Bait: Though he could be below the age of consent, Sam is implied to have a thing for these, being referred to as a \u201ccherry hound\u201d by Trina and accused of trying to get into Brigitte\u2019's pants by Ginger. Maybe he should stop hanging around high schools in that big, conspicuous van\u2026 In a deleted scene Brigitte actually mentions this title to Sam, who, seemingly aware of his reputation, denies it.", 
+                "id": "Jailbait"
+            }, 
+            {
+                "adjectives": [
+                    "comic"
+                ], 
+                "role": "Ginger and Brigitte Fitzgerald from Ginger Snaps.\n From the sequel Ginger Snaps Unleashed, there's Ghost, who seems to think she's in a comic book \u2026 where she's the villain.", 
+                "id": "StrangeGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0210070", 
+    "poster_url": "GingerSnaps.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Halloweentown", 
+            "name": "Halloweentown", 
+            "poster_url": "Halloweentown.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Shrooms", 
+            "name": "Shrooms", 
+            "poster_url": "Shrooms.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "StrangeGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LetTheRightOneIn", 
+            "name": "Let the Right One In", 
+            "poster_url": "LetTheRightOneIn.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "HotelTransylvania", 
+            "name": "Hotel Transylvania", 
+            "poster_url": "HotelTransylvania.jpg"
+        }
+    ], 
+    "id": "GingerSnaps", 
+    "name": "Ginger Snaps"
+}

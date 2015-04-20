@@ -1,0 +1,94 @@
+{
+    "plot": "A warrior seeking revenge unleashes a deadly virus in Harvardville. Responding to the threat are former special forces members Leon S. Kennedy and Claire Redfield, who look to bring down a mutated monster before history repeats itself.", 
+    "genres": "Animation, Action, Horror", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Dirty Coward: Senator Davis cares only for himself, and if surviving means putting the lives of the other members of the group in danger then so be it. To add insult to injury, it works. He survives the zombie outbreak, but not Tricell's cleanup operation.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Zigzagged", 
+                    "own", 
+                    "apparent", 
+                    "few"
+                ], 
+                "role": "Action Girl / Action Survivor: Zigzagged with Claire. Per her own dialogue, she's voluntarily demoted herself to pacifism, and would rather look after the civilians than kick ass. Hand her a gun, though, and it becomes apparent why she's one of the few survivors of Raccoon City.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Faux Action Girl: Angela", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Claire to Rani.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt1174954", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "MamaBear", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "AlienS", 
+            "name": "Aliens", 
+            "poster_url": "AlienS.jpg"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl", 
+                "MamaBear", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Underworld", 
+            "name": "Underworld", 
+            "poster_url": "Underworld.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FauxActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "ThePhantomMenace", 
+            "name": "The Phantom Menace"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }
+    ], 
+    "id": "ResidentEvilDegeneration", 
+    "name": "Resident Evil Degeneration"
+}

@@ -1,0 +1,77 @@
+{
+    "plot": "Sam Bowden is a small-town corporate attorney/\"Leave It to Beaver\"-esque family-man. Max Cady is a tattooed, cigar-smoking, bible-quoting, rapist. What do they have in common? Fourteen years, ago Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey, bibliophile Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.", 
+    "genres": "Crime, Thriller", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Man in White: Cady.", 
+                "id": "ManInWhite"
+            }, 
+            {
+                "adjectives": [
+                    "several", 
+                    "same", 
+                    "Full-Frontal"
+                ], 
+                "role": "Shirtless Scene: Cady has several, all played for the same kind of menace as a Full-Frontal Assault.", 
+                "id": "ShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0101540", 
+    "poster_url": "CapeFear.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "Manhunter", 
+            "name": "Manhunter", 
+            "poster_url": "Manhunter.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTransporter", 
+            "name": "The Transporter", 
+            "poster_url": "TheTransporter.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "ImACyborgButThatsOk", 
+            "name": "I'm a Cyborg, But That's OK", 
+            "poster_url": "ImACyborgButThatsOk.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "CapeFear", 
+    "name": "Cape Fear"
+}

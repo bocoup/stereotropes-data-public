@@ -1,0 +1,150 @@
+{
+    "plot": "A pair of comic book authors named Holden McNeil and Banky Edwards, who live in New Jersey, have been best friends since 20 years. They spend their time working in their studio, and in the evenings they are going out. But their friendship is about to be disputed for the first time in their life, when a beautiful young lesbian woman named Alyssa Jones enters their life and Holden falls in love with her. Now Holden has to deal with Banky's jealousy, and with his new girlfriend's very rich past.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Flamboyant", 
+                    "real", 
+                    "black", 
+                    "angry", 
+                    "black"
+                ], 
+                "role": "Angry Black Man: Parodied by Hooper, who pretends to be an Angry Black Man to sell comics but is actually Flamboyant Gay. Also deconstructed, to some degree. It's definitely hinted that some of the rage he exhibits is real, but cloaked in irony. He also seems to be both angry at how black people are treated and, simultaneously, angry at the way the black community treats gay people. So it's complicated.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "comic", 
+                    "black", 
+                    "sympathetic"
+                ], 
+                "role": "Parodied in Chasing Amy. Hooper pretends to be one of these in order to sell a comic book about a black power superhero, but he's actually a Flamboyant Gay. He's a sympathetic character, however, who laments at having to sell out.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "homophobic", 
+                    "willing"
+                ], 
+                "role": "Armoured Closet Gay Banky is apparently with Hooper in Jay and Silent Bob Strike Back, though he could also possibly just be bisexual.  Interestingly enough, it also counts in this film as well. Banky throws around homophobic slurs left and right but when Holden propositions him for sex, he actually is willing at first. Hooper plays with this as well: He doesn't mind the fact that he's gay, but he doesn't let his consumers know that, especially since a gay black man is \"the swishiest gay man there is\".", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [
+                    "real", 
+                    "nice", 
+                    "self-loathing", 
+                    "radical", 
+                    "successful"
+                ], 
+                "role": "Hooper in Chasing Amy acts as an Angry Black Man but is in real life a nice gay guy. However, he doesn't do this out of self-loathing - being an a angry radical makes him successful.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Banky in Chasing Amy", 
+                "id": "BromanticFoil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Hooper X Macho Camp: Hooper X's stage persona.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Holden.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "male", 
+                    "lesbian", 
+                    "worthless", 
+                    "bisexual", 
+                    "lesbian"
+                ], 
+                "role": "The male lead in Chasing Amy refuses to give up on his love interest, even though she's a lesbian which should make his efforts ultimately worthless... except for the fact that she's actually a bisexual who decided she would be more accepted as a lesbian.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Macho Camp: Hooper X's stage persona.", 
+                "id": "MachoCamp"
+            }, 
+            {
+                "adjectives": [
+                    "comic"
+                ], 
+                "role": "Jason Lee as Banky Edwards in Chasing Amy. It is not an action movie, but the guy is a comic book artist.", 
+                "id": "NonActionSnarker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Joey Lauren Adams to Kevin Smith.", 
+                "id": "TheMuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0118842", 
+    "poster_url": "ChasingAmy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "AngryBlackMan", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheMuse", 
+                "BromanticFoil"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "AngryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "MachoCamp", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }
+    ], 
+    "id": "ChasingAmy", 
+    "name": "Chasing Amy"
+}

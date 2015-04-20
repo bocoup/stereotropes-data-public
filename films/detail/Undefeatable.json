@@ -1,0 +1,103 @@
+{
+    "plot": "Kristi Jones (Cynthia Rothrock) avenges her sister's death at the hands of a crazed martial arts rapist.", 
+    "genres": "Action, Thriller", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "sports-themed", 
+                    "few"
+                ], 
+                "role": "Jerk Jock: Bear, a sports-themed fighter who spouts a few sport puns.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "enough"
+                ], 
+                "role": "Mr. Fanservice: The Shirtless Nick and Stingray fighting and shouting are more than enough for this.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "climatic"
+                ], 
+                "role": "Shirtless Scene: All happens in the climatic fight; and somehow Nick and Stingray are already greased up.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Kristy. Jennifer and possibly Karen have some action girl in them.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Kristy to Karen.", 
+                "id": "CoolBigSis"
+            }
+        ]
+    }, 
+    "imdbid": "tt0111552", 
+    "poster_url": "Undefeatable.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "GIJoeRetaliation", 
+            "name": "G.I. Joe: Retaliation", 
+            "poster_url": "GIJoeRetaliation.jpg"
+        }
+    ], 
+    "id": "Undefeatable", 
+    "name": "Undefeatable"
+}

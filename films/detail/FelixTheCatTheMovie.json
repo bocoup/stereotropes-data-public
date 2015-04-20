@@ -1,0 +1,86 @@
+{
+    "plot": "In another dimension, the villainous scientist Duke of Zill, with the help of his mechanical, geometric army, ultimately takes over the golden kingdom of Oriana, where Duke has just escaped exile! But Felix the Cat must bravely save Princess Oriana and restore order once again, from her terrible Uncle Zill and his smoke-belching mechanical troops before he can put his sinister plot into action! The Duke has designs on turning the beautiful pastoral kingdom into a profitable. But industrial nightmare!", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1988", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Princess Classic: Oriana", 
+                "id": "PrincessClassic"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Princess Oriana of Felix the Cat: The Movie.", 
+                "id": "PrincessClassic"
+            }
+        ]
+    }, 
+    "imdbid": "tt0259308", 
+    "poster_url": "FelixTheCatTheMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "PrincessClassic", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 3, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "PrincessClassic", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "PrincessClassic", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCareBearsAdventureInWonderland", 
+            "name": "The Care Bears: Adventure in Wonderland"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "PrincessClassic"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }
+    ], 
+    "id": "FelixTheCatTheMovie", 
+    "name": "Felix the Cat: The Movie"
+}

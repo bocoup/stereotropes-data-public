@@ -1,0 +1,107 @@
+{
+    "plot": "A liberated young schoolteacher at an Edinburgh girls' school in the period between the two wars, instructs her girls on the ways of life. Ignoring the more mundane subjects, she teaches them of love, politics and art. Her affairs with two male teachers become known and she finds herself fighting to keep her job. She believes that she can always count on the 100% support of her favourite pupils, but one of them does not feel that Miss Jean Brodie is in her \"prime\" any more. No longer swayed by her teacher's eloquence, she begins to learn about life and love herself.", 
+    "genres": "Drama", 
+    "release_year": "1969", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "naive", 
+                    "unaware", 
+                    "complete", 
+                    "engaged"
+                ], 
+                "role": "Dogged Nice Guy: Devoted, somewhat naive Mr Lowther who tries for years to convince his lover Miss Brodie to marry him (unaware that she sees him as unsatisfactory substitute for Teddy Lloyd). He avoids becoming a complete sucker by finally dropping her and becoming engaged to the chemistry teacher.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Sandy", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl Posse: Miss Brodie and her select girls, whom she calls la creme de la creme.", 
+                "id": "GirlPosse"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "female", 
+                    "fond"
+                ], 
+                "role": "Gossipy Hens: The other female teachers at Marcia Blaine are not fond of Miss Brodie and her exploits.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Taking the Veil: Sandy converts to Catholicism and becomes a nun.", 
+                "id": "TakingTheVeil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Taking The Veil: Sandy converts to Catholicism and becomes a nun.", 
+                "id": "TakingTheVeil"
+            }
+        ]
+    }, 
+    "imdbid": "tt0064840", 
+    "poster_url": "ThePrimeOfMissJeanBrodie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "GossipyHens"
+            ], 
+            "shared_count": 2, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Bridesmaids", 
+            "name": "Bridesmaids", 
+            "poster_url": "Bridesmaids.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePictureOfDorianGray", 
+            "name": "The Picture of Dorian Gray", 
+            "poster_url": "ThePictureOfDorianGray.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }
+    ], 
+    "id": "ThePrimeOfMissJeanBrodie", 
+    "name": "The Prime of Miss Jean Brodie"
+}

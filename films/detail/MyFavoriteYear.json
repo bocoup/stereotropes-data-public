@@ -1,0 +1,103 @@
+{
+    "plot": "Benjy Stone is the junior writer on the top rated variety/comedy show, in the mid 50s (the early years). Its a new medium and the rules were not fully established. Alan Swann, an Erol Flynn type actor with a drinking problem is to be that weeks guest star. When King Kaiser, the headliner wants to throw Swann off the show, Benjy makes a pitch to save his childhood hero, and is made Swann's babysitter. On top of this, a union boss doesn't care for Kaiser's parody of him and has plans to stop the show.", 
+    "genres": "Comedy", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Chivalrous", 
+                    "chivalrous"
+                ], 
+                "role": "Chivalrous Pervert: Swann is this, quite often. When told the restroom he's blundered into is \"for ladies only,\" he briefly loses the chivalrous part, unzips his trousers, and replies, \"So is this, madam, but every now and again I have to run a little water through it.\"", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "K.C"
+                ], 
+                "role": "Dogged Nice Guy: Benjy is one of these in his pursuit of K.C.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "public"
+                ], 
+                "role": "Gentleman Adventurer: Swann plays these in all of his movies, and does his best to live up to the image in his public appearances.", 
+                "id": "GENTLEMANADVENTURER"
+            }, 
+            {
+                "adjectives": [
+                    "good", 
+                    "bad"
+                ], 
+                "role": "The Casanova: Swann. His charm and swashbuckling ways are part of his reputation, for both good and bad.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Sexy Stewardess: Swann beds two of them.", 
+                "id": "SexyStewardess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0084370", 
+    "poster_url": "MyFavoriteYear.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "DoggedNiceGuy", 
+                "SexyStewardess"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 2, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }
+    ], 
+    "id": "MyFavoriteYear", 
+    "name": "My Favorite Year"
+}

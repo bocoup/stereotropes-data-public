@@ -1,0 +1,88 @@
+{
+    "plot": "A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Away -- where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met -- he sets out to restore his world and reclaim his true love.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Fiona.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "entire", 
+                    "Oz-style"
+                ], 
+                "role": "In Shrek Forever After, Rumpelstiltskin's entire standing army is made up of Wizard of Oz-style Wicked Witches. Apparently, nobody thought to utilize their Weaksauce Weakness and just spray them with a firehose.", 
+                "id": "AmazonBrigade"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shrek Forever After gives us an Alternate Timeline where Shrek never came. Fiona saved herself and became a resistance fighter.", 
+                "id": "BadassDamsel"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crazy Cat Lady: One of the witches at the beginning.", 
+                "id": "CrazyCatLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0892791", 
+    "poster_url": "ShrekForeverAfter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "BadassDamsel", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }
+    ], 
+    "id": "ShrekForeverAfter", 
+    "name": "Shrek Forever After"
+}

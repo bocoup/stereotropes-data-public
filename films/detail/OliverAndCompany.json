@@ -1,0 +1,115 @@
+{
+    "plot": "N/A", 
+    "genres": "Documentary", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Einstein", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [
+                    "African", 
+                    "American", 
+                    "white"
+                ], 
+                "role": "Roscoe from Oliver & Company even has an African - American accent. His partner [DeSoto] is voiced by a white man.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "literal", 
+                    "good", 
+                    "Lovable", 
+                    "lovable"
+                ], 
+                "role": "In Oliver & Company, there's Georgette, a very literal Rich Bitch because she's a DOG. And despite being on the side of the good guys, in all honesty she doesn't get any better by the end of the movie either. The writers apparently intended for her to be a Lovable Alpha Bitch, but couldn't quite get the \"lovable\" part to gel. What helps is that she's more of a Poke the Poodle sort of bitch, and she is Actually Pretty Funny.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Rita the Afghan hound from Oliver & Company.", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [
+                    "show-poodle", 
+                    "obvious", 
+                    "clear", 
+                    "lovable"
+                ], 
+                "role": "Jenny in Oliver & Company. She has only a butler and a remarkably spoiled show-poodle for company on her birthday. Her wealth is obvious and it's clear she can have almost anything she wants, but what she really wants is a lovable companion.", 
+                "id": "SpoiledSweet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Rita", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0086041", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "TheChick", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "ScaryBlackMan", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "RichBitch", 
+                "ScaryBlackMan", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLongestYard", 
+            "name": "The Longest Yard", 
+            "poster_url": "TheLongestYard.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "SassyBlackWoman", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 3, 
+            "id": "ParaNorman", 
+            "name": "ParaNorman", 
+            "poster_url": "ParaNorman.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "SassyBlackWoman", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }
+    ], 
+    "id": "OliverAndCompany", 
+    "name": "Oliver & Company"
+}

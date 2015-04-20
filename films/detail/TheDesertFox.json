@@ -1,0 +1,86 @@
+{
+    "plot": "This biopic follows Rommel's career after the Afrika Korps, including his work on the defenses of Fortress Europe as well as his part in the assassination attempt on Hitler, and his subsequent suicide.", 
+    "genres": "Biography, Drama, History", 
+    "release_year": "1951", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "A Father to His Men: When Rommel arrives back in North Africa, he has a sneezing fit and when it's done, several officers offer up their handkerchiefs.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Badass Grandpa: Field Marshal Gerd von Rundstedt. While too old to join in the July 20 plot, he has the audacity to say to Keitel over the phone \"Make peace, you idiot!\"", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "eager", 
+                    "Waffen-SS"
+                ], 
+                "role": "Child Soldiers: Halfway through the film, Rommel's teenage son Manfred joins the Luftwaffe. In real life, Manfred (who was 15 when his father killed himself) was eager to join the Waffen-SS, but his father refused to allow him. He did ended up manning an AA gun, and flak was indeed the Luftwaffe's business.", 
+                "id": "ChildSoldiers"
+            }
+        ]
+    }, 
+    "imdbid": "tt0043461", 
+    "poster_url": "TheDesertFox.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Soldier", 
+            "name": "Soldier", 
+            "poster_url": "Soldier.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunted", 
+            "name": "The Hunted", 
+            "poster_url": "TheHunted.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "WeWereSoldiers", 
+            "name": "We Were Soldiers", 
+            "poster_url": "WeWereSoldiers.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }
+    ], 
+    "id": "TheDesertFox", 
+    "name": "The Desert Fox"
+}

@@ -1,0 +1,101 @@
+{
+    "plot": "From the dawn of man to the distant future, mankind's evolution (or lack thereof) is traced. Often ridiculous but never serious, we learn the truth behind the Roman Emperor, we learn what REALLY happened at the Last Supper, the circumstances that surrounded the French Revolution, how to test eunuchs, and what kind of shoes the Spanish Inquisitor wore.", 
+    "genres": "Comedy, Musical", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "final"
+                ], 
+                "role": "Bigger Is Better in Bed: \"Yes, yes, no, yes, yes, no, yes...\" with a final \"YES!\"", 
+                "id": "BiggerIsBetterInBed"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: The announcer in Caesar's palace.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "similar", 
+                    "eunuch"
+                ], 
+                "role": "A similar gag can be found in Brooks' History of the World Part I in the fan dance scene. Let's just say that Gregory Hines was not, in fact, a eunuch.", 
+                "id": "GagPenis"
+            }, 
+            {
+                "adjectives": [
+                    "Roman"
+                ], 
+                "role": "In History of the World Part I, to a Roman soldier after Comicus (Mel Brooks) kicked him there.", 
+                "id": "InstantSoprano"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "air"
+                ], 
+                "role": "Gag Boobs: Apparently literally inflated with air.", 
+                "id": "GagBoobs"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082517", 
+    "similar": [
+        {
+            "shared": [
+                "GagBoobs", 
+                "GagPenis", 
+                "BiggerIsBetterInBed"
+            ], 
+            "shared_count": 3, 
+            "id": "YoungFrankenstein", 
+            "name": "Young Frankenstein", 
+            "poster_url": "YoungFrankenstein.jpg"
+        }, 
+        {
+            "shared": [
+                "GagBoobs", 
+                "GagPenis"
+            ], 
+            "shared_count": 2, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "GagBoobs"
+            ], 
+            "shared_count": 2, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "GagPenis"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongestYard", 
+            "name": "The Longest Yard", 
+            "poster_url": "TheLongestYard.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "GagBoobs"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuHustle", 
+            "name": "Kung Fu Hustle", 
+            "poster_url": "KungFuHustle.jpg"
+        }
+    ], 
+    "id": "HistoryOfTheWorldPartI", 
+    "name": "History of the World Part I"
+}

@@ -1,0 +1,76 @@
+{
+    "plot": "N/A", 
+    "genres": "Animation, Short", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Basement-Dweller"
+                ], 
+                "role": "Basement-Dweller: An instance when this trope is played for drama. Roy continues to live at home because he can't hold down a job, which causes friction and arguments between him and his parents, running away from the camera, and he eventually checks himself into a rehabilitation center because of his depression.", 
+                "id": "BasementDweller"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Badly Drawn Roy, Roy continues to live at home because he can't hold down a job despite being in his thirties, which causes friction and arguments between him and his parents as well as running away from the camera. He eventually checks himself into a rehabilitation center because of his depression.", 
+                "id": "BasementDweller"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Beard of Sorrow", 
+                "id": "BeardOfSorrow"
+            }
+        ]
+    }, 
+    "imdbid": "tt1173466", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BasementDweller"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScore", 
+            "name": "The Score", 
+            "poster_url": "TheScore.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "WaynesWorld", 
+            "name": "Wayne's World", 
+            "poster_url": "WaynesWorld.jpg"
+        }
+    ], 
+    "id": "BadlyDrawnRoy", 
+    "name": "Badly Drawn Roy"
+}

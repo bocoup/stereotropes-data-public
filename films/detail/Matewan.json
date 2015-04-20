@@ -1,0 +1,95 @@
+{
+    "plot": "Mingo County, West Virginia, 1920. Coal miners, struggling to form a union, are up against company operators and the gun thugs of the notorious Baldwin-Felts detective agency. Black and Italian miners, brought in by the company to break the strike, are caught between the two forces. UMWA organizer and dual-card Wobbly Joe Kenehan determines to bring the local, Black, and Italian groups together. While Kenehan and his story are fictional, the setting and the dramatic climax are historical; Sid Hatfield, Cabell C. Testerman, C. E. Lively and the Felts brothers were real-life participants, and 'Few Clothes' is based on a character active several years previously.", 
+    "genres": "Drama, History", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "huge", 
+                    "welcome", 
+                    "vanish"
+                ], 
+                "role": "Corrupt Hick: Subverted. A band of hill folk appear out of nowhere, with strange accents, thick beards, and huge guns...and then save the strike camp from a company massacre, drive off the Baldwin-Felts agents, politely inform the strikers that they're welcome to stay on their land and hunt their game as long as they keep the noise level down, and vanish into the forest.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "bearded", 
+                    "high", 
+                    "old"
+                ], 
+                "role": "Mountain Man: The bearded, burly Hill Folk who only once come off of the high mountains to chase the Company men away because their cars \"make too much noise\". When asked how old their rifles are, they say \"War war between the states\". The movie is set in 1920.", 
+                "id": "MountainMan"
+            }, 
+            {
+                "adjectives": [
+                    "high", 
+                    "old"
+                ], 
+                "role": "The bearded, burly Hill Folk in Matewan, who only once come off of the high mountains to chase the Company men away because their cars \"make too much noise\". When asked how old their rifles are, they respond \"from the war...between the states\". The movie is set in 1920.", 
+                "id": "MountainMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Sid Hatfield is this when it comes to his townspeople.", 
+                "id": "PapaWolf"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093509", 
+    "poster_url": "Matewan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "EdenLake", 
+            "name": "Eden Lake", 
+            "poster_url": "EdenLake.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "Tank", 
+            "name": "Tank", 
+            "poster_url": "Tank.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "PetesDragon", 
+            "name": "Pete's Dragon", 
+            "poster_url": "PetesDragon.jpg"
+        }
+    ], 
+    "id": "Matewan", 
+    "name": "Matewan"
+}

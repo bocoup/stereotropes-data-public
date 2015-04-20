@@ -1,0 +1,154 @@
+{
+    "plot": "Gloriously witty adaptation of the Broadway musical about Professor Henry Higgins, who takes a bet from Colonel Pickering that he can transform unrefined, dirty Cockney flower girl Eliza Doolittle into a lady, and fool everyone into thinking she really is one, too! He does, and thus young aristocrat Freddy Eynsford-Hill falls madly in love with her. But when Higgins takes all the credit and forgets to acknowledge her efforts, Eliza angrily leaves him for Freddy, and suddenly Higgins realizes he's grown accustomed to her face and can't really live without it.", 
+    "genres": "Drama, Family, Musical", 
+    "release_year": "1964", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Zoltan.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Freddy, in what would be considered stalking by today's terms.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty: Higgins mercilessly drills Eliza day and night. Meanwhile, his servant staff fawns over his ordeal.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "He-Man", 
+                    "misogynistic", 
+                    "whole", 
+                    "much", 
+                    "whole"
+                ], 
+                "role": "He-Man Woman Hater: Henry is very misogynistic, though he insists he's not. In fact, he's got a whole song dedicated to whining about how much he dislikes women (\"An Ordinary Man\"). The end of the play may have helped him get over it, but again, it's up to viewer interpretation. Two whole songs \u2014 there's also \"A Hymn to Him\" (a.k.a. \"Why Can't a Woman Be More Like a Man?\").", 
+                "id": "HeManWomanHater"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Henry Higgins in My Fair Lady. He even gets two songs about how much he dislikes or just doesn't understand women.", 
+                "id": "HeManWomanHater"
+            }, 
+            {
+                "adjectives": [
+                    "misogynistic", 
+                    "whole", 
+                    "much"
+                ], 
+                "role": "Professor Henry Higgins from My Fair Lady is very misogynistic, though he insists he's not. In fact, he's got two whole songs dedicated to whining about how much he dislikes women (\"An Ordinary Man\" and \"A Hymn to Him\" a.k.a. \"Why Can't a Woman Be More Like a Man?\"). The end of the play may have helped him get over it, but again, it's up to viewer interpretation.", 
+                "id": "HeManWomanHater"
+            }, 
+            {
+                "adjectives": [
+                    "own", 
+                    "funeral"
+                ], 
+                "role": "Kavorka Man: Alfie. There's a reason he departs for his wedding as if it were his own funeral.", 
+                "id": "KavorkaMan"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Pickering from My Fair Lady is very much a gentleman.", 
+                "id": "QuintessentialBritishGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Innocent Flower Girl: Eliza at the start of the story. The later battle to get her bathed kind of proves her innocence.", 
+                "id": "InnocentFlowerGirl"
+            }, 
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Missing Mom: Seeing as Eliza's father remarries, and his side comments about his old wife are along the lines of \"You look just like her, Eliza\" and \"Just like her, you never give me money!\" it can be safely assumed Eliza's mother is dead. He didn't \"re\" marry, actually...", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "old", 
+                    "dead"
+                ], 
+                "role": "Missing Mom: Seeing as Eliza's father remarries, and his side comments about his old wife are along the lines of \"You look just like her, Eliza\" and \"Just like her, you never give me money!\" it can be safely assumed Eliza's mother is dead.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spirited Young Lady: Eliza's uncouth behavior got Freddy's interest.", 
+                "id": "SpiritedYoungLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0058385", 
+    "poster_url": "MyFairLady.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KavorkaMan", 
+                "DoggedNiceGuy", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "HeManWomanHater", 
+                "BeardOfEvil", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "HeManWomanHater", 
+                "QuintessentialBritishGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "MyFairLady", 
+    "name": "My Fair Lady"
+}

@@ -1,0 +1,76 @@
+{
+    "plot": "N/A", 
+    "genres": "Adult", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Asian"
+                ], 
+                "role": "Camp Gay: The Mafia boss' Asian flunky.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "engaging"
+                ], 
+                "role": "Shirtless Scene: Lung flexes his muscles out on a balcony. Later, he and Norris take their shirts off before engaging in their fight.", 
+                "id": "ShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0862869", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "CityDragon", 
+            "name": "City Dragon", 
+            "poster_url": "CityDragon.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "EatingOut", 
+            "name": "Eating Out", 
+            "poster_url": "EatingOut.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "WayOfTheDragon", 
+    "name": "Way of the Dragon"
+}

@@ -1,0 +1,81 @@
+{
+    "plot": "The head of a failing French family thinks that fate has smiled down on him when the daughter of a wealthy man agrees to be married to his son. The daughter and her aunt then travel out to the French countryside to meet with the family, unaware that a mysterious 'beast' is stalking the vicinity.", 
+    "genres": "Drama, Fantasy, Horror", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "own", 
+                    "political", 
+                    "final"
+                ], 
+                "role": "Dirty Coward: To save his own political career and keep his ass off the line, Graves tries (and fails) at every opportunity to back out of the final showdown.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "mad"
+                ], 
+                "role": "Mama Bear: The squid turns out to be a mother, and gets very mad when her child is killed.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0072752", 
+    "similar": [
+        {
+            "shared": [
+                "MamaBear", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "ResidentEvilDegeneration", 
+            "name": "Resident Evil Degeneration"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Bolt", 
+            "name": "Bolt", 
+            "poster_url": "Bolt.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLandBeforeTime", 
+            "name": "The Land Before Time", 
+            "poster_url": "TheLandBeforeTime.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "AlienS", 
+            "name": "Aliens", 
+            "poster_url": "AlienS.jpg"
+        }
+    ], 
+    "id": "TheBeast", 
+    "name": "The Beast"
+}

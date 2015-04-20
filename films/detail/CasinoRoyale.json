@@ -1,0 +1,118 @@
+{
+    "plot": "James Bond goes on his first ever mission as a 00. Le Chiffre is a banker to the world's terrorists. He is participating in a poker game at Montenegro, where he must win back his money, in order to stay safe among the terrorist market. The boss of MI6, known simply as M sends Bond, along with Vesper Lynd to attend this game and prevent Le Chiffre from winning. Bond, using help from Felix Leiter, Mathis and having Vesper pose as his partner, enters the most important poker game in his already dangerous career. But if Bond defeats Le Chiffre, will he and Vesper Lynd remain safe?", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "poor", 
+                    "knotted"
+                ], 
+                "role": "Casino Royale has the poor guy tied naked to a chair and whacked repeatedly in the groin by a knotted rope.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Bond at the beach.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "cold-blooded"
+                ], 
+                "role": "In the first Craig Bond film, Casino Royale, Vesper's purpose in-story is to betray Bond and then be murdered, entrenching his character streak as both a womanizer and a cold-blooded killer; however, she does also have characterization.", 
+                "id": "DisposableWoman"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "direct", 
+                    "second", 
+                    "long"
+                ], 
+                "role": "Vesper Lynd, in the 2006 version of Casino Royale, is the only character to have a direct effect on the plot of a second film (Quantum of Solace, in which she casts a long shadow but appears onscreen for all of two seconds).", 
+                "id": "GirlOfTheWeek"
+            }, 
+            {
+                "adjectives": [
+                    "entire", 
+                    "first"
+                ], 
+                "role": "Vesper Lynd in the 2006 version of Casino Royale has this effect on the entire casino the first time she appears in that dress. Bond intended for her to enter from behind him so his opponents would be Distracted by the Sexy. Instead she enters right in his line of sight to screw with him after an argument and distracts him as well.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [
+                    "African", 
+                    "idle"
+                ], 
+                "role": "Neutral Female: Subverted in the fight with the African warlords. Vesper, idle and shocked, takes a while to react but eventually helps Bond decisively.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0381061", 
+    "poster_url": "CasinoRoyale.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "DisposableWoman", 
+                "GirlOfTheWeek"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DisposableWoman", 
+                "GirlOfTheWeek"
+            ], 
+            "shared_count": 3, 
+            "id": "QuantumOfSolace", 
+            "name": "Quantum of Solace", 
+            "poster_url": "QuantumOfSolace.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ShirtlessScene", 
+                "HelloNurse"
+            ], 
+            "shared_count": 3, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "ShirtlessScene", 
+                "DisposableWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "CasinoRoyale", 
+    "name": "Casino Royale"
+}

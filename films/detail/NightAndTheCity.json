@@ -1,0 +1,68 @@
+{
+    "plot": "Harry Fabian is a London hustler with ambitious plans that never work out. One day, when he encounters the most famous Greco-Roman wrestler in the world, Gregorius, at a London wrestling arena run by his son Kristo, he dreams up a scheme that he thinks will finally be his ticket to financial independence. As Fabian attempts to con everyone around him to get his scheme to work, he of course only ends up conning himself. This is an interesting tale of blind ambition, self-deception, broken dreams, and how a man who always thinks he's ahead of the game ends up tripping himself very badly.", 
+    "genres": "Crime, Film-Noir, Mystery", 
+    "release_year": "1950", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Gregorious", 
+                    "strong"
+                ], 
+                "role": "Cool Old Guy: Gregorious is a retired wrestler and is still very strong despite being middle-aged/elderly.  He even beats The Strangler in a fight, though it costs him his life.", 
+                "id": "CoolOldGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0042788", 
+    "poster_url": "NightAndTheCity.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekNemesis", 
+            "name": "Star Trek: Nemesis", 
+            "poster_url": "StarTrekNemesis.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }
+    ], 
+    "id": "NightAndTheCity", 
+    "name": "Night And The City"
+}

@@ -1,0 +1,129 @@
+{
+    "plot": "The movie is centered around the Salem Massachusetts witch trials of 1692. The movie is based on the play \"The Crucible\" by Arthur Miller. He also wrote the screen play adaptation.", 
+    "genres": "Drama, History", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "real"
+                ], 
+                "role": "Cool Old Guy: Giles Corey, both here and in real life.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "real", 
+                    "true"
+                ], 
+                "role": "Giles Corey from The Crucible.\n And from real life. The part about his death was true.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Min-su", 
+                    "cynical", 
+                    "passive", 
+                    "little"
+                ], 
+                "role": "Broken Bird: Min-su is the closest example (and a rare male one, at that), having become cynical and by turns defiant and passive since the suicide of his little brother.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "greedy", 
+                    "later"
+                ], 
+                "role": "Broken Bird: Abigail. She saw her parents murdered right in front of her when she was just a child. After that tragedy, she was raised by her greedy uncle (who just so happened to be the clergy) and was used by a man she was in love with, only to be later told by said man that she was nothing to him. Not to mention that with the rumors of her no longer being a virgin, she would have never been married or hired.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Lady: Martha Corey and Rebecca Nurse.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [
+                    "Hysterical"
+                ], 
+                "role": "Hysterical Woman: Mary.", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "fragile"
+                ], 
+                "role": "Mary Warren in The Crucible is a deconstruction. Because other characters know she is emotionally fragile, both men and stronger women bully her, knowing she won't stand up for herself.", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Lady Macbeth: Yun, oh so very much.", 
+                "id": "LadyMacBeth"
+            }
+        ]
+    }, 
+    "imdbid": "tt0115988", 
+    "poster_url": "TheCrucible.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "CoolOldGuy", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 3, 
+            "id": "Hugo", 
+            "name": "Hugo", 
+            "poster_url": "Hugo.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "OliverTwist", 
+            "name": "Oliver Twist"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastStarfighter", 
+            "name": "The Last Starfighter", 
+            "poster_url": "TheLastStarfighter.jpg"
+        }
+    ], 
+    "id": "TheCrucible", 
+    "name": "The Crucible"
+}

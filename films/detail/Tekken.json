@@ -1,0 +1,100 @@
+{
+    "plot": "The year is 2039. World wars have destroyed everything and territories are run by corporations, the mightiest -- and cruelest -- of which is Tekken. Jin Kazama (John Foo) witnesses the death of his mother Jun (Tomita) by Tekken in the slums known as Anvil. Vowing vengeance, and armed only with his street smarts and raw fighting skills, he enters a dangerous and potentially deadly combat tournament, where he must defeat the world's most elite fighters to become the \"King of the Iron Fist.\"", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "evil", 
+                    "imaginable"
+                ], 
+                "role": "Beard of Evil: Kazuya has just about the most obviously evil beard and mustache combo imaginable.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "pregnant"
+                ], 
+                "role": "Disappeared Dad: Jin was raised under the impression that his father was dead. Considering that Kazuya Mishima is his father, one can't really blame Jun for telling Jin this. Especially after it's revealed that Jun became pregnant after Kazuya raped her.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Prior to his mother's death, Jin is shown to have a girlfriend, Kara... Who he promptly forgets about once gets into Iron Fist & meets Christie, who throws herself at him within days. Especially glaring, since the film keeps cutting back to Kara during Jin's fights in the tournament.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "whole"
+                ], 
+                "role": "Action Girl: Christie, Nina and Anna though only Christie really gets to show it off. In addition to winning her tournament fight she takes out a whole load of Kazuya's mooks.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Faux Action Girl: Nina.", 
+                "id": "FauxActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0411951", 
+    "poster_url": "Tekken.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ActionGirl", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "ActionGirl", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "EnterTheDragon", 
+            "name": "Enter the Dragon"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "Tekken", 
+    "name": "Tekken"
+}

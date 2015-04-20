@@ -1,0 +1,107 @@
+{
+    "plot": "In a distant, but not so unrealistic, future where mankind has abandoned earth because it has become covered with trash from products sold by the powerful multi-national Buy N Large corporation, WALL-E, a garbage collecting robot has been left to clean up the mess. Mesmerized with trinkets of Earth's history and show tunes, WALL-E is alone on Earth except for a sprightly pet cockroach. One day, EVE, a sleek (and dangerous) reconnaissance robot, is sent to Earth to find proof that life is once again sustainable. WALL-E falls in love with EVE. WALL-E rescues EVE from a dust storm and shows her a living plant he found amongst the rubble. Consistent with her \"directive\", EVE takes the plant and automatically enters a deactivated state except for a blinking green beacon. WALL-E, doesn't understand what has happened to his new friend, but, true to his love, he protects her from wind, rain, and lightning, even as she is unresponsive. One day a massive ship comes to reclaim EVE, but WALL-E, out of love or loneliness, hitches a ride on the outside of the ship to rescue EVE. The ship arrives back at a large space cruise ship, which is carrying all of the humans who evacuated Earth 700 years earlier. The people of Earth ride around this space resort on hovering chairs which give them a constant feed of TV and video chatting. They drink all of their meals through a straw out of laziness and/or bone loss, and are all so fat that they can barely move. When the auto-pilot computer, acting on hastily-given instructions sent many centuries before, tries to prevent the people of Earth from returning by stealing the plant, WALL-E, EVE, the portly captain, and a band of broken robots stage a mutiny.", 
+    "genres": "Animation, Adventure, Romance", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "blue"
+                ], 
+                "role": "Heroine EVE and Battle Butler GO-4 both have tractor beams of sorts; EVE's is blue and GO-4's is red.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "WALL\u2022E"
+                ], 
+                "role": "Dogged Nice Guy: WALL\u2022E", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "WALL\u2022E"
+                ], 
+                "role": "Non-Action Guy: WALL\u2022E", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: EVE doesn't like things getting in her way. When in doubt, she will shoot it. With the plasma gun built into her arm.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Gaussian", 
+                    "happen", 
+                    "much", 
+                    "white", 
+                    "self-generating", 
+                    "in-universe", 
+                    "Gaussian"
+                ], 
+                "role": "Gaussian Girl: Played straight with EVE, and her sleek shiny design seems to exist to make this happen as much as possible. On close inspection she seems to emit a diffuse white light from her (shiny, white) skin, essentially making her a self-generating, in-universe Gaussian Girl.", 
+                "id": "GaussianGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0910970", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "DoggedNiceGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "GaussianGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "GaussianGirl", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }
+    ], 
+    "id": "WallE", 
+    "name": "WALL\u2022E"
+}

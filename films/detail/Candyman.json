@@ -1,0 +1,73 @@
+{
+    "plot": "Helen Lyle is a student who decides to write a thesis about local legends and myths. She visits a part of the town, where she learns about the legend of the Candyman, a one-armed man who appears when you say his name five times, in front of a mirror. Of course, Helen doesn't believe all this stuff, but the people of the area are really afraid. When she ignores their warnings and begins her investigation in the places that he is rumored to appear, a series of horrible murders begins. Could the legend be true?", 
+    "genres": "Drama, Horror, Mystery", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "general"
+                ], 
+                "role": "Scary Black Man: Tony Todd as the Candyman... and, you know, in general.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "eponymous"
+                ], 
+                "role": "The eponymous Candyman", 
+                "id": "ScaryBlackMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0103919", 
+    "poster_url": "Candyman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "KissOfTheSpiderWoman", 
+            "name": "Kiss of the Spider Woman", 
+            "poster_url": "KissOfTheSpiderWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "ConanTheDestroyer", 
+            "name": "Conan The Destroyer"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }
+    ], 
+    "id": "Candyman", 
+    "name": "Candyman"
+}

@@ -1,0 +1,101 @@
+{
+    "plot": "Summoned by the dying General Sternwood, Philip Marlowe is asked to deal with several problems that are troubling his family. Marlowe finds that each problem centers about the disappearance of Sternwood's favoured employee who has left with a mobster's wife. Each of the problems becomes a cover for something else as Marlowe probes.", 
+    "genres": "Crime, Film-Noir, Mystery", 
+    "release_year": "1946", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: One of the crooks at the auto shop runs away as soon as Marlowe fires his gun into the ground.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Used"
+                ], 
+                "role": "Used in the rival bookstore scene of The Big Sleep (1946), where Marlowe \"transforms\" the lady bookseller.", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fille Fatale: Carmen Sternwood.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [
+                    "High", 
+                    "Vivian"
+                ], 
+                "role": "High Heel-Face Turn: Vivian finally decides to take Marlowe's side in the end.", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [
+                    "attractive", 
+                    "willing"
+                ], 
+                "role": "Meganekko: Marlowe chats up an attractive bespectacled bookstore clerk who proves quite willing to have information coaxed out of her. Lampshaded when she takes off her glasses, saying \"I don't really need them\".", 
+                "id": "Meganekko"
+            }
+        ]
+    }, 
+    "imdbid": "tt0038355", 
+    "poster_url": "TheBigSleep.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "Meganekko", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "CloudyWithAChanceOfMeatballs", 
+            "name": "Cloudy with a Chance of Meatballs", 
+            "poster_url": "CloudyWithAChanceOfMeatballs.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "FilleFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "HowToMarryAMillionaire", 
+            "name": "How to Marry a Millionaire", 
+            "poster_url": "HowToMarryAMillionaire.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHouseBunny", 
+            "name": "The House Bunny", 
+            "poster_url": "TheHouseBunny.jpg"
+        }
+    ], 
+    "id": "TheBigSleep", 
+    "name": "The Big Sleep"
+}

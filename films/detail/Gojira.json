@@ -1,0 +1,75 @@
+{
+    "plot": "Akira Ifukube has arranged music from his fantastic films into a three-movement symphony, presented here with scenes from the films the music was originally written for. The second half features Makoto Inoue's synthesizer arrangements of Ifukube's music. In this portion, all the music is by Ifukube, but it shows scenes from films Ifukube did not work on.", 
+    "genres": "Fantasy, Music", 
+    "release_year": "1984", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "temporary"
+                ], 
+                "role": "Action Girl: Subverted, as Emiko's temporary role as a protagonist is short-handed. She decides to  reveal the Oxygen Destroyer to Ogata after Godzilla blew up most of Tokyo. Well, you can't blame her since many people suffered from radiation poisoning from Godzilla", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Emiko's mother is not mentioned. We are assumed that Kyohei Yamane is widowed in this film, since Emiko lives with her father.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087343", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }
+    ], 
+    "id": "Gojira", 
+    "name": "Gojira"
+}

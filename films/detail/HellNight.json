@@ -1,0 +1,81 @@
+{
+    "plot": "Before being able to join Alpha Sigma Rho fraternity and its sister sorority, four pledges must spend the night in Garth Manor, twelve years to the day after the previous resident murdered his entire family. Some, however, say that one member of the Garth family survived, and still resides somewhere in the now-deserted mansion.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Surfer Dude: Seth.", 
+                "id": "SurferDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Marti.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "high"
+                ], 
+                "role": "Wrench Wench: Marti, who has worked in her father's garage during high school.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082511", 
+    "poster_url": "HellNight.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }
+    ], 
+    "id": "HellNight", 
+    "name": "Hell Night"
+}

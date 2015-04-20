@@ -1,0 +1,90 @@
+{
+    "plot": "N/A", 
+    "genres": "Horror, Thriller, Mystery", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Fant\u00f4mas"
+                ], 
+                "role": "Gentleman Thief: Fant\u00f4mas", 
+                "id": "GentlemanThief"
+            }, 
+            {
+                "adjectives": [
+                    "third", 
+                    "last"
+                ], 
+                "role": "Man in a Kilt: The third and last film is set in Scotland. Louis de Fun\u00e8s obliged.", 
+                "id": "ManInAKilt"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Dark Mistress: Lady Beltham", 
+                "id": "DarkMistress"
+            }, 
+            {
+                "adjectives": [
+                    "Hot", 
+                    "H\u00e9l\u00e8ne"
+                ], 
+                "role": "Hot Scoop: H\u00e9l\u00e8ne", 
+                "id": "HotScoop"
+            }
+        ]
+    }, 
+    "imdbid": "tt0138234", 
+    "similar": [
+        {
+            "shared": [
+                "ManInAKilt", 
+                "HotScoop"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuest", 
+            "name": "The Quest", 
+            "poster_url": "TheQuest.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScoop"
+            ], 
+            "shared_count": 1, 
+            "id": "SkyCaptainAndTheWorldOfTomorrow", 
+            "name": "Sky Captain and the World of Tomorrow", 
+            "poster_url": "SkyCaptainAndTheWorldOfTomorrow.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScoop"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "GentlemanThief"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }, 
+        {
+            "shared": [
+                "DarkMistress"
+            ], 
+            "shared_count": 1, 
+            "id": "DrMabuseTheGambler", 
+            "name": "Dr. Mabuse, the Gambler", 
+            "poster_url": "DrMabuseTheGambler.jpg"
+        }
+    ], 
+    "id": "Fantomas", 
+    "name": "Fant\u00f4mas"
+}

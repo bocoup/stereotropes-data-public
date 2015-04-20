@@ -1,0 +1,65 @@
+{
+    "plot": "A 27-year-old office worker travels to the countryside while reminiscing about her childhood in T\u00f4ky\u00f4.", 
+    "genres": "Animation, Drama, Romance", 
+    "release_year": "1991", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Taeko to one of the younger girls on the farm.", 
+                "id": "CoolBigSis"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102587", 
+    "poster_url": "OnlyYesterday.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis"
+            ], 
+            "shared_count": 1, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis"
+            ], 
+            "shared_count": 1, 
+            "id": "SevenBridesForSevenBrothers", 
+            "name": "Seven Brides for Seven Brothers", 
+            "poster_url": "SevenBridesForSevenBrothers.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis"
+            ], 
+            "shared_count": 1, 
+            "id": "AmericanGraffiti", 
+            "name": "American Graffiti", 
+            "poster_url": "AmericanGraffiti.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis"
+            ], 
+            "shared_count": 1, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }
+    ], 
+    "id": "OnlyYesterday", 
+    "name": "Only Yesterday"
+}

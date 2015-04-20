@@ -1,0 +1,130 @@
+{
+    "plot": "An out-of-work singer, Victoria Grant (Julie Andrews), meets a just-fired, flamboyant gay man in a diner in 1920's Paris. He convinces her to pretend to be a man who is a female impersonator in order to get a job. The act is a hit in a local nightclub, but things get complicated when a gangster and nightclub owner from Chicago, King Marchan (Michael Nouri) falls in-love with \"her.\"", 
+    "genres": "Comedy, Musical", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "British", 
+                    "self-loathing"
+                ], 
+                "role": "From a British movie, Victor/Victoria. One of the guys (though not self-loathing) revealed that he was gay. The main character was shocked, pointing out that he always worked out, and was the captain of the football team. The gay man replied that the best way to hide that you're gay is to always work out, and be the captain of the football team.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Toddy, though only in the stage version\u2014he's not particularly camp in the film version.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gayngster: One of Sal's bodyguards in the stage version", 
+                "id": "Gayngster"
+            }, 
+            {
+                "adjectives": [
+                    "male"
+                ], 
+                "role": "In Victor/Victoria Julie Andrews plays a woman pretending to be a male drag queen who catches the eye of gangster \"King\" Marchand. who is conflicted because he thinks she's a man. Meanwhile, King's bodyguard Squash actually is gay and has a fling with Victoria's Mentor Toddy. King is almost forced out of the business because another gangster thinks he's gay and in Toddy's words, \"You can kill a man but not kiss him.\"", 
+                "id": "Gayngster"
+            }, 
+            {
+                "adjectives": [
+                    "kid"
+                ], 
+                "role": "Jerk Jock: King notes that Squash was one in their youth as he was the toughest, scariest kid on the block. Squash notes that he embraced this trope to hide the fact he was gay.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Alex Karras as Squash, King's bodyguard in Victor/Victoria.", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Richard (though he may fall under Bi the Way) and very much  Squash", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Loins Sleep Tonight: King, distracted by thoughts of \"Victor\", suffers this when he tries sleeping with Norma.", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "similar"
+                ], 
+                "role": "A similar idea is used in Victor/Victoria, merely as a way to break into show business. The lead actress's (Julie Andrews) singing is apparently far more appreciated by audiences who think she's a gay female impersonator.", 
+                "id": "SweetPollyOliver"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sweet Polly Oliver: Victoria spends most of the story as \"Victor\"", 
+                "id": "SweetPollyOliver"
+            }
+        ]
+    }, 
+    "imdbid": "tt0265987", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "JerkJock", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 4, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "Gayngster", 
+                "StraightGay", 
+                "ArmouredClosetGay", 
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 4, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "JerkJock", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 4, 
+            "id": "ThePerksOfBeingAWallflower", 
+            "name": "The Perks of Being a Wallflower", 
+            "poster_url": "ThePerksOfBeingAWallflower.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "JerkJock", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 3, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "FiredUp", 
+            "name": "Fired Up"
+        }
+    ], 
+    "id": "VictorVictoria", 
+    "name": "Victor/Victoria"
+}

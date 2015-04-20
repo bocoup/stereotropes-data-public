@@ -1,0 +1,106 @@
+{
+    "plot": "In 16th-century Prague, a rabbi creates a giant creature from clay, called the Golem, and using sorcery, brings the creature to life in order to protect the Jews of Prague from persecution.", 
+    "genres": "Fantasy, Horror", 
+    "release_year": "1920", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "massive", 
+                    "appropriate"
+                ], 
+                "role": "Dumb Muscle: The Golem. Demonstrated nicely when the Golem breaks the massive bar of the Ghetto gate to burst it open \u2014 instead of just lifting it by the appropriate handle.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [
+                    "foppish"
+                ], 
+                "role": "The Dandy: The foppish Knight Florian.", 
+                "id": "TheDandy"
+            }, 
+            {
+                "adjectives": [
+                    "ridiculous"
+                ], 
+                "role": "The silent movie classic The Golem has Knight Florian, an effeminate fop that wears a ridiculous hat and is constantly twirling a rose.", 
+                "id": "TheDandy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wizard Beard: The Rabbi again. Also, his hair would pass as Einstein Hair, had the trope existed at the time.", 
+                "id": "WizardBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "beautiful", 
+                    "Florian", 
+                    "evil"
+                ], 
+                "role": "Mad Scientist's Beautiful Daughter: Played with. The learned Rabbi's only child, beautiful Miriam, falls promptly in a forbidden love with the Christian knight Florian. However, Florian is not exactly a hero, and the romance is cut short by Florian's death. Also, the Rabbi is neither mad nor evil, even though his creation runs out of control.", 
+                "id": "MadScientistsBeautifulDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "beautiful", 
+                    "christian"
+                ], 
+                "role": "The learned Rabbi of the silent movie The Golem has his beautiful daughter Miriam, who promptly falls in a forbidden love with the christian Knight Florian. Their romance turns out to be a Red Herring Twist, though.", 
+                "id": "MadScientistsBeautifulDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0011237", 
+    "poster_url": "TheGolem.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMouseThatRoared", 
+            "name": "The Mouse That Roared", 
+            "poster_url": "TheMouseThatRoared.jpg"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "IslandOfLostSouls", 
+            "name": "Island of Lost Souls", 
+            "poster_url": "IslandOfLostSouls.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheKillerShrews", 
+            "name": "The Killer Shrews", 
+            "poster_url": "TheKillerShrews.jpg"
+        }
+    ], 
+    "id": "TheGolem", 
+    "name": "The Golem"
+}

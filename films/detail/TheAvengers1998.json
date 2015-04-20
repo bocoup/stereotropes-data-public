@@ -1,0 +1,92 @@
+{
+    "plot": "Nick Fury is director of S.H.I.E.L.D, an international peace keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Sir August and Mrs. Peel (Sean Connery is 40 years older than Uma Thurman).", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Damsel in Distress: Subverted when Mrs. Peel escapes from Sir August on her own.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Mrs. Peel.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Alice, the Ministry agent in The Avengers (1998).", 
+                "id": "NeverMessWithGranny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0848228", 
+    "poster_url": "TheAvengers1998.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "NeverMessWithGranny", 
+                "HotScientist"
+            ], 
+            "shared_count": 3, 
+            "id": "InspectorGadget", 
+            "name": "Inspector Gadget", 
+            "poster_url": "InspectorGadget.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AgentForHARM", 
+            "name": "Agent for H.A.R.M.", 
+            "poster_url": "AgentForHARM.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "Zombieland", 
+            "name": "Zombieland", 
+            "poster_url": "Zombieland.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Red", 
+            "name": "Red", 
+            "poster_url": "Red.jpg"
+        }
+    ], 
+    "id": "TheAvengers1998", 
+    "name": "The Avengers "
+}

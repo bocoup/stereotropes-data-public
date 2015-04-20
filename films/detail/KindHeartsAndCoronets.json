@@ -1,0 +1,73 @@
+{
+    "plot": "Louis Mazzini's mother belongs to the aristocratic family D'Ascoyne, but she ran away with an opera singer. Therefore, she and Louis were rejected by the D'Ascoynes. Once adult, Louis decides to avenges his mother and him, by becoming the next Duke of the family. Murdering every potential successor is clearly the safest way to achieve his goal...", 
+    "genres": "Comedy, Crime", 
+    "release_year": "1949", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Evil Prince: Louis, apart from the detail that the estate he's scheming for is a dukedom and not a kingdom.", 
+                "id": "TheEvilPrince"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Sibella.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0041546", 
+    "poster_url": "KindHeartsAndCoronets.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheEvilPrince", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "TheEvilPrince"
+            ], 
+            "shared_count": 1, 
+            "id": "ShrekTheThird", 
+            "name": "Shrek the Third", 
+            "poster_url": "ShrekTheThird.jpg"
+        }
+    ], 
+    "id": "KindHeartsAndCoronets", 
+    "name": "Kind Hearts and Coronets"
+}

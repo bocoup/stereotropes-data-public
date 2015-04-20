@@ -1,0 +1,91 @@
+{
+    "plot": "Charlie Gordon is mentally handicapped and all he wants in life is to be a genius. When he gets picked for experimental surgery it looks like his dream may finally come true. But the surgery has side effects that could could kill Charlie. Can Charlie survive being just plain old \"Charlie Gordon\" and will his newfound romance survive this test of character?", 
+    "genres": "Drama", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Henpecked Husband: Charlie's father. He was much more accepting towards Charlie's disorder, but he couldn't protect him from Rose.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: Rose.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "Hysterical"
+                ], 
+                "role": "Hysterical Woman: Charlie's mother.", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Also Fay.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0210044", 
+    "poster_url": "FlowersForAlgernon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFamilyThatPreys", 
+            "name": "The Family That Preys", 
+            "poster_url": "TheFamilyThatPreys.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "KalHoNaaHo", 
+            "name": "Kal Ho Naa Ho", 
+            "poster_url": "KalHoNaaHo.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Topper", 
+            "name": "Topper", 
+            "poster_url": "Topper.jpg"
+        }
+    ], 
+    "id": "FlowersForAlgernon", 
+    "name": "Flowers for Algernon"
+}

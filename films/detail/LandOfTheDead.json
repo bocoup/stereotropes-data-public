@@ -1,0 +1,103 @@
+{
+    "plot": "Now that zombies have taken over the world, the living have built a walled-in city to keep the dead out. But all's not well where it's most safe, as a revolution plans to overthrow the city leadership, and the zombies are turning into more advanced creatures.", 
+    "genres": "Horror", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "big", 
+                    "black", 
+                    "other"
+                ], 
+                "role": "In Land of the Dead, a big, bald, black zombie leads the other zombies to march on Fiddler's Green.", 
+                "id": "BaldBlackLeaderGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Big Daddy.", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [
+                    "previous", 
+                    "scary"
+                ], 
+                "role": "Romero's previous outing, Land of the Dead, had Eugene Clark as a scary black dead man.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Again Big Daddy. Literally...", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Asia Argento's character, Slack.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0418819", 
+    "poster_url": "LandOfTheDead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TheScorpionKing", 
+            "name": "The Scorpion King", 
+            "poster_url": "TheScorpionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Kick-Ass", 
+            "name": "Kick-Ass", 
+            "poster_url": "Kick-Ass.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "LandOfTheDead", 
+    "name": "Land of the Dead"
+}

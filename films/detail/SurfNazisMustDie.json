@@ -1,0 +1,100 @@
+{
+    "plot": "When the grandson of a gun wielding woman is murdered by neo-nazi surf punks in the post-apocalyptic future, this grandma hunts them down for some bloodthirsty revenge.", 
+    "genres": "Action, Comedy, Drama", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Smeg.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [
+                    "whole", 
+                    "typical"
+                ], 
+                "role": "Being that the whole thing is set in the beaches of California, Surf Nazis Must Die has a gang of your typical surfer dudes called Pipeliners.", 
+                "id": "SurferDude"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene: Brutus never wears a shirt. There are a couple of scenes in which he has No Shirt, Long Jacket.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "hard"
+                ], 
+                "role": "Mama Bear: Eleanor Washington. Bonus points for her nickname being \"Mama.\" Never Mess with Granny: The Surf Nazis discovered this the hard way when  killed Eleanor's son, Leroy.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "hard"
+                ], 
+                "role": "Never Mess with Granny: The Surf Nazis discovered this the hard way when  killed Eleanor's son, Leroy.", 
+                "id": "NeverMessWithGranny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094077", 
+    "poster_url": "SurfNazisMustDie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "NeverMessWithGranny", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "MommasBoy", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Dune", 
+            "name": "Dune", 
+            "poster_url": "Dune.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "SurferDude"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBlueLagoon", 
+            "name": "The Blue Lagoon", 
+            "poster_url": "TheBlueLagoon.jpg"
+        }
+    ], 
+    "id": "SurfNazisMustDie", 
+    "name": "Surf Nazis Must Die"
+}

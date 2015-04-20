@@ -1,0 +1,65 @@
+{
+    "plot": "Set in 79 A.D., POMPEII tells the epic story of Milo (Kit Harington), a slave turned invincible gladiator who finds himself in a race against time to save his true love Cassia (Emily Browning), the beautiful daughter of a wealthy merchant who has been unwillingly betrothed to a corrupt Roman Senator. As Mount Vesuvius erupts in a torrent of blazing lava, Milo must fight his way out of the arena in order to save his beloved as the once magnificent Pompeii crumbles around him.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "2014", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress:  Cassia gets kidnapped by Corvus and is chained to his carriage.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt1921064", 
+    "poster_url": "Pompeii.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "Pompeii", 
+    "name": "Pompeii"
+}

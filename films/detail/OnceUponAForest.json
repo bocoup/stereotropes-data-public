@@ -1,0 +1,151 @@
+{
+    "plot": "This animated wildlife film provides an environmental friendly message that humans are a malicious, careless breed. Three cherubic little animals have to rescue their friend who has been overcome by poisonous gas.", 
+    "genres": "Animation, Adventure, Drama", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Cornelius.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "female", 
+                    "young"
+                ], 
+                "role": "Disappeared Dad: Neither Russell nor Edgar seem to have fathers. Possible Truth in Television, as female moles and hedgehogs raise their young alone (although ordinarily, field mice and badgers do too.)", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Abigail all the way.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "real", 
+                    "cautious", 
+                    "mortal", 
+                    "own"
+                ], 
+                "role": "Chickification: Abigail from halfway through the movie on. After she gets into real danger, she becomes a little more cautious: understandable. However, from there, her biggest contribution is getting the locals to like her and her party by flirting, and she fails to get the lungwort and puts herself in mortal peril again so that Edgar can complete his own character arc.", 
+                "id": "Chickification"
+            }, 
+            {
+                "adjectives": [
+                    "certain"
+                ], 
+                "role": "Cool Big Sis: Abigail to Michelle, to a certain degree.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Michelle.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ill Girl: Michelle", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Abigail's mother is never shown and it's unknown what happened to her.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Edgar's mother, somewhat.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [
+                    "guy"
+                ], 
+                "role": "One of the Boys: Abigail, who aside from perhaps Michelle has only guy friends.", 
+                "id": "OneOfTheBoys"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Michelle", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Abigail, naturally. This makes sense when you consider the fact that her father raises her alone.", 
+                "id": "Tomboy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107745", 
+    "poster_url": "OnceUponAForest.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "DamselInDistress", 
+                "TheChick", 
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 5, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "DisappearedDad", 
+                "MissingMom", 
+                "CoolOldGuy", 
+                "OneOfTheBoys"
+            ], 
+            "shared_count": 5, 
+            "id": "ToKillAMockingbird", 
+            "name": "To Kill a Mockingbird", 
+            "poster_url": "ToKillAMockingbird.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DamselInDistress", 
+                "CoolOldGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "Chickification", 
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "OnceUponAForest", 
+    "name": "Once Upon a Forest"
+}

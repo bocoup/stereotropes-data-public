@@ -1,0 +1,129 @@
+{
+    "plot": "The stork delivers a baby elephant to Mrs. Jumbo, veteran of the circus, but the newborn is ridiculed because of his truly enormous ears and dubbed \"Dumbo\". After being separated from his mother, Dumbo is relegated to the circus' clown acts; it is up to his only friend, a mouse, to assist Dumbo to achieve his full potential.", 
+    "genres": "Animation, Family, Musical", 
+    "release_year": "1941", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "wistful"
+                ], 
+                "role": "Disappeared Dad: Dumbo is originally named after him, and his mother sounds wistful when she reveals this, but that's the extent we know of him.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jumbo Jr., better known as Dumbo, is named after his father \u2014 whom who never see.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: While he may not be a dad, and he may not be a wolf (since he's a mouse), Timothy sticks up for Dumbo by scaring the elephants tormenting him and yelling at the crows for constantly laughing at him...thus making the latter nicer.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: The ringleader of the elephant clique that picks on Mrs. Jumbo and her baby.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "eyeball"
+                ], 
+                "role": "One of the Pink Elephants from Dumbo actually transforms from a snake into a bellydancer and into an eyeball.", 
+                "id": "BellyDancer"
+            }, 
+            {
+                "adjectives": [
+                    "titular", 
+                    "elephant", 
+                    "elderly"
+                ], 
+                "role": "And in the film Dumbo, the oldest cow elephant that constantly pesters the titular character is named, \"The Matriarch.\" (In real life, elephant herds are actually led by an elderly cow elephant called a matriarch.)", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Gossipy Hens: Those other elephants.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "The other elephants in Dumbo.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Really, those kids deserved what was coming to them.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0033563", 
+    "poster_url": "Dumbo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EvilMatriarch", 
+                "AlphaBitch", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "TheBaby", 
+            "name": "The Baby"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "ClassOf1984", 
+            "name": "Class Of", 
+            "poster_url": "ClassOf1984.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Terminator2JudgmentDay", 
+            "name": "Terminator 2: Judgment Day", 
+            "poster_url": "Terminator2JudgmentDay.jpg"
+        }
+    ], 
+    "id": "Dumbo", 
+    "name": "Dumbo"
+}

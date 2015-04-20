@@ -1,0 +1,93 @@
+{
+    "plot": "Angels come to Earth to find a human soul that can end the war in heaven. Humans are caught up in this battle and must find a way to stop the angel Gabriel before he takes the soul back from where the angel Simon has hidden it.", 
+    "genres": "Action, Fantasy, Horror", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "impressive"
+                ], 
+                "role": "Beard of Evil: Lucifer has a mightily impressive one.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Gabriel in The Ascent.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Man in White: Pyriel", 
+                "id": "ManInWhite"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "second"
+                ], 
+                "role": "Distressed Damsel: Mary in the first film, Valerie in the second, Maggie in The Ascent.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0114194", 
+    "poster_url": "TheProphecy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CoolOldGuy", 
+                "ManInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "DjangoUnchained", 
+            "name": "Django Unchained", 
+            "poster_url": "DjangoUnchained.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "RaidersOfTheLostArk", 
+            "name": "Raiders of the Lost Ark", 
+            "poster_url": "RaidersOfTheLostArk.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }
+    ], 
+    "id": "TheProphecy", 
+    "name": "The Prophecy"
+}

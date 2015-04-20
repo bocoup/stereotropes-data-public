@@ -1,0 +1,113 @@
+{
+    "plot": "Princess Annika (Barbie) escapes the clutches of the evil wizard, explores the wonders of Cloud Kingdom, and teams up with a magnificent winged horse - who turns out to be her sister, Princess Brietta - to defeat the wizard and break the spells that imprisoned her family.", 
+    "genres": "Animation, Family, Romance", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Ollie the ogre.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sissy Villain: Wenlock.", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Beauty Mark: In a rare male example, Wenlock has one.", 
+                "id": "BeautyMark"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Graceful Ladies Like Purple: Annika", 
+                "id": "GracefulLadiesLikePurple"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Graceful Ladies Like Purple: Annika.", 
+                "id": "GracefulLadiesLikePurple"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Princess Classic: Annika", 
+                "id": "PrincessClassic"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Princess Classic: Annika and Brietta.", 
+                "id": "PrincessClassic"
+            }, 
+            {
+                "adjectives": [
+                    "Rebellious"
+                ], 
+                "role": "Rebellious Princess: Annika.", 
+                "id": "RebelliousPrincess"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Brietta in human form.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0480345", 
+    "poster_url": "BarbieAndTheMagicOfPegasus.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "RebelliousPrincess", 
+                "PrincessClassic", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 3, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "GracefulLadiesLikePurple", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelliousPrincess", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "MetalMen", 
+            "name": "Metal Men"
+        }
+    ], 
+    "id": "BarbieAndTheMagicOfPegasus", 
+    "name": "Barbie And The Magic Of Pegasus"
+}

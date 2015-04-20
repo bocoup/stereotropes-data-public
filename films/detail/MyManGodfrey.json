@@ -1,0 +1,96 @@
+{
+    "plot": "In the depths of the Depression, a party game brings dizzy socialite Irene Bullock to the city dump where she meets Godfrey, a derelict, and ends by hiring him as family butler. He finds the Bullocks to be the epitome of idle rich, and nutty as the proverbial fruitcake. Soon, the dramatizing Irene is in love with her 'protege'...who feels strongly that a romance between servant and employer is out of place, regardless of that servant's mysterious past...", 
+    "genres": "Romance, Comedy", 
+    "release_year": "1936", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Chick Magnet: Without really trying, Godfrey gets both Bullock daughters and the maid to fall in love with him.", 
+                "id": "ChickMagnet"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Manic Pixie Dream Girl: Irene is one of the first in film history, possibly the Trope Maker.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cornelia in My Man Godfrey.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Cornelia. She, like everybody else in the household, is improved by Godfrey.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Irene. While ditzy, she still is kind to Godfrey, which is why he agrees to go with her for the scavenger hunt, as opposed to her older Rich Bitch sister.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0028010", 
+    "poster_url": "MyManGodfrey.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "NorwegianWood", 
+            "name": "Norwegian Wood", 
+            "poster_url": "NorwegianWood.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FerrisBuellersDayOff", 
+            "name": "Ferris Bueller's Day Off", 
+            "poster_url": "FerrisBuellersDayOff.jpg"
+        }
+    ], 
+    "id": "MyManGodfrey", 
+    "name": "My Man Godfrey"
+}

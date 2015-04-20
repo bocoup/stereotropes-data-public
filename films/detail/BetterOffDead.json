@@ -1,0 +1,101 @@
+{
+    "plot": "A lawyer fights a losing battle against the courts to overturn the death sentence for a convicted female robber/murderer despite demands from the woman that her death sentence be carried out.", 
+    "genres": "Drama", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "such"
+                ], 
+                "role": "Jerk Jock: The villain, such as he is. His name? Roy Stalin.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "In Better Off Dead, Monique plays this role for Lane, helping pull him out of his depression after his girlfriend dumps him.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Monique.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Ricky's harridan of a mother.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tom Boy And Girly Girl", 
+                "id": "TomBoyAndGirlyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wrench Wench: Monique turns out to be one.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt0106398", 
+    "poster_url": "BetterOffDead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "WrenchWench", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLEGOMovie", 
+            "name": "The LEGO Movie", 
+            "poster_url": "TheLEGOMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "WrenchWench", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }
+    ], 
+    "id": "BetterOffDead", 
+    "name": "Better Off Dead"
+}

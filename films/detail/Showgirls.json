@@ -1,0 +1,77 @@
+{
+    "plot": "Nomi Malone, a mysterious young girl with the ambition to dance embarks on a journey to Las Vegas to become a showgirl in a high-class hotel show. There she meets Molly, a seamstress at the Stardust Hotel and the two quickly become good friends. She gets a job as a lap dancer at the seedy Cheetah Club but after a chance meeting with Cristal Connors, the star of Goddess, the current show at the hotel where Molly works, Nomi manages to secure an audition for a spot on the chorus line.However she soon realises that fame comes with a price as her friendships, her morals and her soul are put to the test as she works her way up the ladder and eventually becomes the star of the show, stealing Cristal's part. She begins to wonder if all of her work was for nothing and if she can reclaim her life back before it is too late.", 
+    "genres": "Drama", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "in-universe", 
+                    "misogynistic", 
+                    "off-stage", 
+                    "certain"
+                ], 
+                "role": "Straw Misogynist: Most men, apparently, only see women as sex objects. And then there is Henrietta \"Mama\" Bazoom who seems to be an in-universe example seeing as what she does at the Cheetah is basically tell misogynistic jokes even though off-stage certain dialogue suggest it's all an act.", 
+                "id": "StrawMisogynist"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Julie is sort of this. Although she had already had a lot of tension between her and Angie it seems to have taken Angie upsetting Julie's children that caused her to  sabotage Angie and thus break her leg.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0114436", 
+    "poster_url": "Showgirls.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "FiftyFifty", 
+            "name": "50/50", 
+            "poster_url": "FiftyFifty.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }
+    ], 
+    "id": "Showgirls", 
+    "name": "Showgirls"
+}

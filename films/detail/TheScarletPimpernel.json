@@ -1,0 +1,93 @@
+{
+    "plot": "During the French Revolution, a mysterious English nobleman known only as The Scarlet Pimpernel (a humble wayside flower), snatches French aristos from the jaws of the guillotine, while posing as the foppish Sir Percy Blakeney in society. Percy falls for and marries the beautiful actress Marguerite St. Just, but she is involved with Chauvelin and Robespierre, and Percy's marriage to her may endanger the Pimpernel's plans to save the little Dauphin.", 
+    "genres": "Romance, Drama, Action", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gentleman Adventurer: Sir Percy, and indeed all the members of the his league.", 
+                "id": "GENTLEMANADVENTURER"
+            }, 
+            {
+                "adjectives": [
+                    "only"
+                ], 
+                "role": "The Dandy: Percy, who is the only man whom the Prince will trust to advise him on clothes.", 
+                "id": "TheDandy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Distressed Damsel: Suzanne de Tournay, and later, Marguerite herself.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Grande Dame: The Comtesse de Tournay is a stiffly dignified old lady, implacably opposed to Marguerite \u2014 but forced by the Prince Regent to acknowledge her nonetheless.", 
+                "id": "GrandeDame"
+            }
+        ]
+    }, 
+    "imdbid": "tt0084637", 
+    "poster_url": "TheScarletPimpernel.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "GrandeDame", 
+                "TheDandy"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "GENTLEMANADVENTURER", 
+                "TheDandy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame", 
+                "TheDandy"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePictureOfDorianGray", 
+            "name": "The Picture of Dorian Gray", 
+            "poster_url": "ThePictureOfDorianGray.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "GrandeDame"
+            ], 
+            "shared_count": 2, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }
+    ], 
+    "id": "TheScarletPimpernel", 
+    "name": "The Scarlet Pimpernel"
+}

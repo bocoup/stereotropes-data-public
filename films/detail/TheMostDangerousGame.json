@@ -1,0 +1,95 @@
+{
+    "plot": "After their luxury cabin cruiser crashes on a reef, Bob Rainsford finds himself washed ashore on a remote island. He finds a fortress-like house and the owner, Count Zaroff, seems to be quite welcoming. Apart from Zaroff's servant Ivan, the only other people present are Eve Trowbridge and her brother Martin, also survivors of their own shipwreck. Other survivors are missing however and Rainsford soon learns why. Zaroff releases them into his jungle island and then hunts them down in his grisly \"outdoor chess\" game! Then after Martin disappears, Bob realizes that he and Eve are to be the next \"pawns\" in Zaroff's deadly game.", 
+    "genres": "Adventure, Horror, Mystery", 
+    "release_year": "1932", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Great White Hunter: Rainsford.", 
+                "id": "GreatWhiteHunter"
+            }, 
+            {
+                "adjectives": [
+                    "Dangerous"
+                ], 
+                "role": "Sanger Rainsford, the hunter who becomes General Zaroff's prey in \"The Most Dangerous Game\".", 
+                "id": "GreatWhiteHunter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Husky Russkie: Ivan; also, Zaroff.", 
+                "id": "HuskyRusskie"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Affirmative"
+                ], 
+                "role": "Affirmative Action Girl: Eve, in the film.", 
+                "id": "AffirmativeActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Eve (in the movie).", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0023238", 
+    "poster_url": "TheMostDangerousGame.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastDinosaur", 
+            "name": "The Last Dinosaur", 
+            "poster_url": "TheLastDinosaur.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "AffirmativeActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SuperSentai", 
+            "name": "Super Sentai"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "AffirmativeActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ToyStory2", 
+            "name": "Toy Story 2", 
+            "poster_url": "ToyStory2.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "AffirmativeActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGamers", 
+            "name": "The Gamers", 
+            "poster_url": "TheGamers.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 2, 
+            "id": "JurassicPark", 
+            "name": "Jurassic Park", 
+            "poster_url": "JurassicPark.jpg"
+        }
+    ], 
+    "id": "TheMostDangerousGame", 
+    "name": "The Most Dangerous Game"
+}

@@ -1,0 +1,90 @@
+{
+    "plot": "A series of brutal murders puts the lives of three men on a collision course: The father of the latest victim now out for revenge, a vigilante police detective operating outside the boundaries of law, and the main suspect in the killings - a religious studies teacher arrested and released due to a police blunder.", 
+    "genres": "Crime, Thriller", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Gidi's father, who, as an older Israeli, has obviously seen some shit.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "vegetarian"
+                ], 
+                "role": "Henpecked Husband: Yoram is henpecked by his wife. She nags him about his medication, forced him to become vegetarian and prohibits him from smoking.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Gidi is only doing this because he suspects Dror killed his daughter.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "sick"
+                ], 
+                "role": "My Beloved Smother: Gidi's mother is a henpecking wife and a smothering mother. She ignores Gidi's protests and forces Yoram to visit him with a bowl of soup when Gidi claims to be sick.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt2309224", 
+    "poster_url": "BigBadWolves.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "NextAvengersHeroesOfTomorrow", 
+            "name": "Next Avengers: Heroes of Tomorrow"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuHustle", 
+            "name": "Kung Fu Hustle", 
+            "poster_url": "KungFuHustle.jpg"
+        }
+    ], 
+    "id": "BigBadWolves", 
+    "name": "Big Bad Wolves"
+}

@@ -1,0 +1,90 @@
+{
+    "plot": "After making their way through high school (twice), big changes are in store for officers Schmidt (Jonah Hill) and Jenko (Channing Tatum) when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "nice", 
+                    "innocent", 
+                    "Why-Phy"
+                ], 
+                "role": "Jerk Jock: Subverted with Zook; he's pretty nice and doesn't have anything to do with Why Phy. Played straight with Rooster, though, even if he's as completely innocent in the Why-Phy business as Zook.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Both Ghost and Dickson.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "seductive", 
+                    "exact", 
+                    "criminal", 
+                    "own"
+                ], 
+                "role": "Daddy's Little Villain: Mercedes is a variation \u2014 instead of being a seductive vamp, she is an overweight brat who takes amusement in people being shot. In fact, she's the exact type of criminal that her own father decries working with at the start of the film.", 
+                "id": "DaddysLittleVillain"
+            }
+        ]
+    }, 
+    "imdbid": "tt2294449", 
+    "poster_url": "TwentyTwoJumpStreet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysLittleVillain", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "AllStarSuperman", 
+            "name": "All-Star Superman", 
+            "poster_url": "AllStarSuperman.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAmazingSpiderMan", 
+            "name": "The Amazing Spider-Man", 
+            "poster_url": "TheAmazingSpiderMan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DaddysLittleVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSmurfs2", 
+            "name": "The Smurfs 2", 
+            "poster_url": "TheSmurfs2.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TeenWolf", 
+            "name": "Teen Wolf"
+        }
+    ], 
+    "id": "TwentyTwoJumpStreet", 
+    "name": "22 Jump Street"
+}

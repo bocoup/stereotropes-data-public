@@ -1,0 +1,98 @@
+{
+    "plot": "Outside a movie premiere, enthusiastic fan Peppy Miller literally bumps into the swashbuckling hero of the silent film, George Valentin. The star reacts graciously and Peppy plants a kiss on his cheek as they are surrounded by photographers. The headlines demand: \"Who's That Girl?\" and Peppy is inspired to audition for a dancing bit-part at the studio. However as Peppy slowly rises through the industry, the introduction of talking-pictures turns Valentin's world upside-down.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "big-screen"
+                ], 
+                "role": "Beard of Sorrow: 1920's-style. George's mustache is still groomed, but it's not impeccably waxed like in his big-screen days.", 
+                "id": "BeardOfSorrow"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "artificial", 
+                    "other"
+                ], 
+                "role": "Beauty Mark: Peppy's trademark, although it's artificial (it was also George's idea, as she needed something to make her stand out from other actresses). It's even the name of one of her films \u2014 the one that really hammers home George's downfall.", 
+                "id": "BeautyMark"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Flapper: Peppy is one \u2014 and plays one!", 
+                "id": "TheFlapper"
+            }, 
+            {
+                "adjectives": [
+                    "second"
+                ], 
+                "role": "White Dwarf Star: George in the second half of the movie.", 
+                "id": "WhiteDwarfStarlet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Women Drivers: Brakes? Telephone poles are Peppy's brakes!", 
+                "id": "WomenDrivers"
+            }
+        ]
+    }, 
+    "imdbid": "tt1655442", 
+    "poster_url": "TheArtist.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "WomenDrivers"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BeautyMark"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHoodMenInTights", 
+            "name": "Robin Hood: Men in Tights", 
+            "poster_url": "RobinHoodMenInTights.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautyMark", 
+                "WomenDrivers"
+            ], 
+            "shared_count": 2, 
+            "id": "OneHundredAndOneDalmatians", 
+            "name": "101 Dalmatians", 
+            "poster_url": "OneHundredAndOneDalmatians.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautyMark", 
+                "WhiteDwarfStarlet"
+            ], 
+            "shared_count": 2, 
+            "id": "TheProducers", 
+            "name": "The Producers", 
+            "poster_url": "TheProducers.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BeautyMark"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "TheArtist", 
+    "name": "The Artist"
+}

@@ -1,0 +1,93 @@
+{
+    "plot": "In an exotic divided land, Delgo, an adventurous dreamer but naive teenager, must rally his group of troubled youth and some unlikely friends to protect their world from conflict between the terrestrial Lockni people, who harness the mysteries of the land, And the winged Nohrin people, who rule the skies. They live - segregated - in an uneasy peace until Delgo was framed for a crime he did not commit. After enlisting the help of a unlikely friend to escape a Nohri prison, Delgo discovers Imhoff is in danger so he must unite the two races against a common foe.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: With a token effort to make her seem more actiony.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "Rebellious", 
+                    "rebellious"
+                ], 
+                "role": "Rebellious Princess: Well, marginally rebellious.", 
+                "id": "RebelliousPrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0361500", 
+    "poster_url": "Delgo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DamselInDistress", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DamselInDistress", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DamselInDistress", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "ThePrinceOfEgypt", 
+            "name": "The Prince of Egypt", 
+            "poster_url": "ThePrinceOfEgypt.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "Delgo", 
+    "name": "Delgo"
+}

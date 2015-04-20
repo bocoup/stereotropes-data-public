@@ -1,0 +1,97 @@
+{
+    "plot": "Through a series of flashbacks, four young chinese women born in America and their respective mothers born in feudal China, explore their past. This search will help them understand their difficult mother/daughter relationship.", 
+    "genres": "Drama", 
+    "release_year": "1993", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Ying-ying"
+                ], 
+                "role": "Broken Bird: Young An-Mei, Ying-ying.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "constant", 
+                    "religious", 
+                    "own"
+                ], 
+                "role": "The Second Wife from Auntie An-mei's childhood in The Joy Luck Club. Let's see, she  got the First Wife addicted to opium, leaving her a shell of herself in constant religious agony, rules Third Wife like a puppet, had her husband rape an innocent guest to get him his Fourth Wife, and then arranged for a Fifth Wife whose greatest purpose would be to make Second Wife look better. And when Fourth Wife had a son, Second Wife claimed him for her own.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "Rich", 
+                    "Ying-ying", 
+                    "terrible", 
+                    "first"
+                ], 
+                "role": "Rich Bitch: Ying-ying in her youth, before she was broken by her terrible first marriage. The Second Wife in An-mei's story is this to a T.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "first"
+                ], 
+                "role": "Stage Mom: Suyuan and Lindo in regards to their daughters' piano playing and chess playing. Suyuan especially counts since the only reason Jing-Mei picked up the piano in the first place was because Suyuan was trying to force her into being a child star.", 
+                "id": "StageMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107282", 
+    "poster_url": "TheJoyLuckClub.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFamilyThatPreys", 
+            "name": "The Family That Preys", 
+            "poster_url": "TheFamilyThatPreys.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Sybil", 
+            "name": "Sybil", 
+            "poster_url": "Sybil.jpg"
+        }, 
+        {
+            "shared": [
+                "RichBitch", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieInAChristmasCarol", 
+            "name": "Barbie in A Christmas Carol"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "StageMom"
+            ], 
+            "shared_count": 2, 
+            "id": "DropDeadGorgeous", 
+            "name": "Drop Dead Gorgeous"
+        }
+    ], 
+    "id": "TheJoyLuckClub", 
+    "name": "The Joy Luck Club"
+}

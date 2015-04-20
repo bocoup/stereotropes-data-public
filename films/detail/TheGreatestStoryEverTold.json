@@ -1,0 +1,73 @@
+{
+    "plot": "George Stevens' epic production. \"My God, My God, why hast thou forsaken Me?\" It is towards this climactic crossroads that the story of Jesus of Nazareth leads, and to which, at the final moment, it again looks back in triumphant retrospect. It is the anguishing crossroads where the eternal questions of faith and doubt become resolved. Star-studded cast includes Max Von Sydow (as Jesus), Dorothy McGuire (as Mary), Robert Loggia (as Joseph), Charlton Heston (as John the Baptist), Michael Anderson, Jr., Robert Blake, Jamie Farr, David McCallum, Roddy McDowall, Ina Balin, Janet Margolin, Sidney Poitier, Carroll Baker, Pat Boone, Van Heflin, Sal Mineo, Shelley Winters, Ed Wynn, John Wayne, Telly Savalas, Angela Lansbury, Paul Stewart, Harold J. Stone, Martin Landau, Joseph Schildkraut, Victor Buono, Jose Ferrer, Claude Rains, Donald Pleasence, Richard Conte and Cyril Delevanti.", 
+    "genres": "Biography, Drama, History", 
+    "release_year": "1965", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Carpet of Virility: The extremely masculine Charlton Heston as John the Baptist.", 
+                "id": "CarpetOfVirility"
+            }, 
+            {
+                "adjectives": [
+                    "long", 
+                    "much", 
+                    "other"
+                ], 
+                "role": "Looks Like Jesus: Averted with the long hair. Max Von Sydow has much shorter hair than other movie depictions.", 
+                "id": "LooksLikeJesus"
+            }
+        ]
+    }, 
+    "imdbid": "tt0059245", 
+    "poster_url": "TheGreatestStoryEverTold.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CarpetOfVirility"
+            ], 
+            "shared_count": 1, 
+            "id": "Krull", 
+            "name": "Krull"
+        }, 
+        {
+            "shared": [
+                "CarpetOfVirility"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }, 
+        {
+            "shared": [
+                "LooksLikeJesus"
+            ], 
+            "shared_count": 1, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "LooksLikeJesus"
+            ], 
+            "shared_count": 1, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "CarpetOfVirility"
+            ], 
+            "shared_count": 1, 
+            "id": "TheManWithTwoBrains", 
+            "name": "The Man With Two Brains", 
+            "poster_url": "TheManWithTwoBrains.jpg"
+        }
+    ], 
+    "id": "TheGreatestStoryEverTold", 
+    "name": "The Greatest Story Ever Told"
+}

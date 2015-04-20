@@ -1,0 +1,77 @@
+{
+    "plot": "Captain Eo and his rugged crew set out on a mission to deliver a special gift to a wicked queen who lives on a dark, desolate world. Getting there is half the fun, especially when the good captain starts boogying and the special effects start flying.", 
+    "genres": "Musical, Sci-Fi, Short", 
+    "release_year": "1986", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Beautiful All Along: It's Anjelica Huston. How could she be anything else after EO works his powers on her?", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [
+                    "Witch-Queen", 
+                    "promotional"
+                ], 
+                "role": "God Save Us from the Queen!: The Supreme Leader; she was often referred to as the \"Witch-Queen\" in promotional materials.", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "God Save Us from the Queen: The Supreme Leader.", 
+                "id": "GodSaveUsFromTheQueen"
+            }
+        ]
+    }, 
+    "imdbid": "tt0090793", 
+    "poster_url": "CaptainEO.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeautifulAllAlong"
+            ], 
+            "shared_count": 1, 
+            "id": "KuchKuchHotaHai", 
+            "name": "Kuch Kuch Hota Hai", 
+            "poster_url": "KuchKuchHotaHai.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautifulAllAlong"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen"
+            ], 
+            "shared_count": 1, 
+            "id": "QueenOfOuterSpace", 
+            "name": "Queen Of Outer Space", 
+            "poster_url": "QueenOfOuterSpace.jpg"
+        }
+    ], 
+    "id": "CaptainEO", 
+    "name": "Captain EO"
+}

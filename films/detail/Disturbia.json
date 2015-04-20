@@ -1,0 +1,94 @@
+{
+    "plot": "After his father is killed in a car accident, things unravel for Kale Brecht and he is placed under house-arrest for punching his Spanish teacher. Having nothing better to do, Kale occupies himself by spying on his neighbors. But one night, he witnesses what appears to be a murder going on in Mr. Turner's house. Kale becomes obsessed with uncovering the truth behind these murders but, after a few unsettling run-ins with Mr. Turner, it becomes a matter of life and death. And the ominous question: Who is watching whom?", 
+    "genres": "Drama, Mystery, Thriller", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "This happens to the character of Kale in the movie Disturbia, and his Love Interest Ashley rescues him.", 
+                "id": "DistressedDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Asian", 
+                    "hyperactive", 
+                    "Asian"
+                ], 
+                "role": "Asian Airhead: Ronnie, Kale's dumb and hyperactive best friend. He thoroughly subverts the Asian and Nerdy stereotype.", 
+                "id": "AsianAirhead"
+            }, 
+            {
+                "adjectives": [
+                    "unusual"
+                ], 
+                "role": "Girl Next Door: Ashley is a rather unusual example of this. Especially for her love of reading books on her rooftop.", 
+                "id": "GirlNextDoor"
+            }, 
+            {
+                "adjectives": [
+                    "many"
+                ], 
+                "role": "Ms. Fanservice: There are many shots of Ashley in her bikini.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0486822", 
+    "poster_url": "Disturbia.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "DistressedDude"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DistressedDude"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheWinterSoldier", 
+            "name": "Captain America: The Winter Soldier", 
+            "poster_url": "CaptainAmericaTheWinterSoldier.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "VarsityBlues", 
+            "name": "Varsity Blues", 
+            "poster_url": "VarsityBlues.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DistressedDude"
+            ], 
+            "shared_count": 2, 
+            "id": "DickTracy", 
+            "name": "Dick Tracy", 
+            "poster_url": "DickTracy.jpg"
+        }
+    ], 
+    "id": "Disturbia", 
+    "name": "Disturbia"
+}

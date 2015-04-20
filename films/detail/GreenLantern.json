@@ -1,0 +1,85 @@
+{
+    "plot": "A cocky test pilot, Hal Jordan (Ryan Reynolds), acquires superhuman powers when he is chosen by \"the Ring\", the willpower-fed source of power, of the Green Lantern Intergalactic Corps. He, reluctantly at first, takes on the challenges these superheroes face. Putting his self-doubts aside, and spurred on by his sense of duty and love for his beautiful, intellectually equal, colleague, Carol Ferris (Blake Lively), he is soon called to defend mankind from Parallax, a super-powerful being who feeds on fear. He is the universe's last chance, as many Lanterns have been killed and the Corps is weakened. And he might just be the right Lantern for the job of keeping the world safe from harm. Based on the characters of DC Comics series \"Green Lantern\".", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty: Kilowog revels in this: \"Welcome to ringslinging 101, poozer. Or as I like to call it, 'the worst day of your worthless life.\"", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kilowogg in Green Lantern.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Hal is nearly naked after he first arrives on Oa. Again, it's Ryan Reynolds.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Neutral Female: Hal tells Carol to stay out of his fight with Parallax and she quickly agrees. When he gets in trouble, however, she turns on a jet and fires it's missles at the monster. Then she grabs Hal's ring and throws it to him.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt1133985", 
+    "poster_url": "GreenLantern.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MrFanservice", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Cars", 
+            "name": "Cars", 
+            "poster_url": "Cars.jpg"
+        }
+    ], 
+    "id": "GreenLantern", 
+    "name": "Green Lantern"
+}

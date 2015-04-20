@@ -1,0 +1,115 @@
+{
+    "plot": "Four months before Christmas, Sarah and Matthieu Scarangelo were in a car crash, of which Sarah and her unborn baby were the only survivors. On Christmas Eve, Sarah stays home alone, where she grieves her husband and prepares to go to the hospital the next morning for the delivery. As night falls, a woman knocks on Sarah's door asking to use the phone. When she refuses, the woman reveals that she knows Sarah and tries to force her way in. Sarah calls the police; they inspect the home and determine the woman has left, but promise to keep watch over Sarah through the night. The woman returns and tries to take Sarah's unborn child, but Sarah locks herself in the bathroom. The strange woman torments Sarah through the night and kills all who try help her.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Sarah's father is never mentioned.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Imaginary Matthieu.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Sarah.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "initial"
+                ], 
+                "role": "Ice Queen: The initial impression given by Sarah.", 
+                "id": "IceQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Meganekko: Louise.", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [
+                    "Pregnant"
+                ], 
+                "role": "Pregnant Badass: What Sarah is forced to become.", 
+                "id": "PregnantBadass"
+            }, 
+            {
+                "adjectives": [
+                    "French"
+                ], 
+                "role": "La Femme from the French film Inside.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in Black: La Femme.", 
+                "id": "WomanInBlack"
+            }
+        ]
+    }, 
+    "imdbid": "tt0856288", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ShirtlessScene", 
+                "Meganekko"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "DisappearedDad", 
+                "Meganekko"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ShirtlessScene", 
+                "PregnantBadass"
+            ], 
+            "shared_count": 3, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "Inside", 
+    "name": "Inside"
+}

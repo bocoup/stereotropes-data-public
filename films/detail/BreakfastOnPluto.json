@@ -1,0 +1,90 @@
+{
+    "plot": "A young transwoman, Patrick \"Kitten\" Braden, comes of age in the 1970s. She leaves her Irish town, in part to look for her mother and in part because her transgender nature is beyond the town's understanding. She's taken in by a rock band, falls for the lead singer, has brushes with the IRA, is arrested by the London police, works in a peep show, and poses as a survey researcher for the phone company. Throughout, her nationality and her nature put her at great risk. In her search for her mother, she makes surprising discoveries of friendship and family. But, will she survive?", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bish\u014dnen"
+                ], 
+                "role": "Bish\u014dnen", 
+                "id": "Bishonen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dude Looks Like a Lady", 
+                "id": "DudeLooksLikeALady"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "street-walking"
+                ], 
+                "role": "Hooker with a Heart of Gold: Kitten during her street-walking days.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: The film\u2019s narrative is basically driven by Kitten\u2019s desperate search for the mother who abandoned her.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0411195", 
+    "poster_url": "BreakfastOnPluto.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DudeLooksLikeALady", 
+                "HookerWithAHeartOfGold", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTown", 
+            "name": "The Town", 
+            "poster_url": "TheTown.jpg"
+        }, 
+        {
+            "shared": [
+                "DudeLooksLikeALady", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Unforgiven", 
+            "name": "Unforgiven", 
+            "poster_url": "Unforgiven.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Transamerica", 
+            "name": "Transamerica", 
+            "poster_url": "Transamerica.jpg"
+        }
+    ], 
+    "id": "BreakfastOnPluto", 
+    "name": "Breakfast on Pluto"
+}

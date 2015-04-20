@@ -1,0 +1,106 @@
+{
+    "plot": "The year is 1987. Motorcycle ninjas tighten their grip on Florida's narcotics trade, viciously annihilating anyone who dares move in on their turf. Multi-national martial arts rock band Dragon Sound have had enough, and embark on a roundhouse wreck-wave of crime-crushing justice. When not chasing beach bunnies or performing their hit song \"Against the Ninja,\" Mark (taekwondo master/inspirational speaker Y.K. Kim) and the boys are kicking and chopping at the drug world's smelliest underbelly. It'll take every ounce of their blood and courage, but Dragon Sound can't stop until they've completely destroyed the dealers, the drunk bikers, the kill-crazy ninjas, the middle-aged thugs, the \"stupid cocaine\"...and the entire MIAMI CONNECTION!!!", 
+    "genres": "Action, Crime", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Tom sports one in addition to his curly mullet and Carpet of Virility, making him so 80s it hurts.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "thick"
+                ], 
+                "role": "Beard of Evil: Jeff sports a very thick beard.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Carpet of Virility: Tom shows off his hairy chest in just about every scene.", 
+                "id": "CarpetOfVirility"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Dude: Tom gets captured by Jeff's gang in order to lure out the rest of Dragon Sound.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "dead-set"
+                ], 
+                "role": "Overprotective Dad: Jeff plays this role for his sister. He's dead-set against her going out with John because he thinks John's a loser.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [
+                    "short", 
+                    "cast", 
+                    "particular", 
+                    "final"
+                ], 
+                "role": "Shirtless Scene: Shirts seem to be in very short supply in Orlando during The Eighties. Half of the cast goes shirtless for no particular reason. In the final scene, John rips his shirt off after while going on a stabbing spree.", 
+                "id": "ShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092549", 
+    "poster_url": "MiamiConnection.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DistressedDude", 
+                "BeardOfEvil", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 3, 
+            "id": "FlashGordon", 
+            "name": "Flash Gordon", 
+            "poster_url": "FlashGordon.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathstalkerAndTheWarriorsFromHell", 
+            "name": "Deathstalker and the Warriors from Hell", 
+            "poster_url": "DeathstalkerAndTheWarriorsFromHell.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "TopGun", 
+            "name": "Top Gun", 
+            "poster_url": "TopGun.jpg"
+        }
+    ], 
+    "id": "MiamiConnection", 
+    "name": "Miami Connection"
+}

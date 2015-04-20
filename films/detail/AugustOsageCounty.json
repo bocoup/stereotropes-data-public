@@ -1,0 +1,84 @@
+{
+    "plot": "Violet Weston (Meryl Streep) has cancer and a propensity for pills and alcohol. She's a difficult woman to deal with and her husband has finally had enough. Violet's family gathers including youngest daughter Ivy, middle daughter Karen (with her new fianc\u00e9), eldest daughter Barbara (with her separated husband and teenage daughter), and her sister Mattie Fae (with her husband and son in tow). A family tragedy causes tensions to run high and secrets to come out. The Weston women will be forced to examine themselves and their lives whether they want to or not. Welcome to Osage County, Oklahoma in the sweltering heat of August.", 
+    "genres": "Drama", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "indecisive", 
+                    "weak-willed"
+                ], 
+                "role": "Bumbling Dad: Charles and Bill are portrayed as incompetent, indecisive and weak-willed both as fathers and husbands.", 
+                "id": "BumblingDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: You could reasonably argue that Violet was influenced by the drugs she took. But even after she was weaned off the drugs, Violet still revealed traumatizing secrets about her daughters to the rest of the family For the Evulz.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "Jean"
+                ], 
+                "role": "Granola Girl: Jean.", 
+                "id": "GranolaGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1322269", 
+    "poster_url": "AugustOsageCounty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GranolaGirl", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "BeforeSunrise", 
+            "name": "Before Sunrise", 
+            "poster_url": "BeforeSunrise.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAddamsFamily", 
+            "name": "The Addams Family", 
+            "poster_url": "TheAddamsFamily.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch"
+            ], 
+            "shared_count": 1, 
+            "id": "GangsOfWasseypur", 
+            "name": "Gangs Of Wasseypur", 
+            "poster_url": "GangsOfWasseypur.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "AugustOsageCounty", 
+    "name": "August: Osage County"
+}

@@ -1,0 +1,73 @@
+{
+    "plot": "In Skoddeheimen, Norway, 15-year-old Alma is consumed by her hormones and fantasies that range from sweetly romantic images of Artur, the boyfriend she yearns for, to daydreams about practically everybody she lays eyes on.", 
+    "genres": "Comedy", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "big"
+                ], 
+                "role": "Cool Big Sis: Alma has one, living in the big city.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Granola Girl: Sarah has tones of this crossed with a mild case of goth.", 
+                "id": "GranolaGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1650407", 
+    "poster_url": "TurnMeOnDammit.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "GranolaGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "GranolaGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis"
+            ], 
+            "shared_count": 1, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }
+    ], 
+    "id": "TurnMeOnDammit", 
+    "name": "Turn Me On Dammit"
+}

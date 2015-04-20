@@ -1,0 +1,117 @@
+{
+    "plot": "For Steve Rogers, awakening after decades of suspended animation involves more than catching up on pop culture; it also means that this old school idealist must face a world of subtler threats and difficult moral complexities. That becomes clear when Director Nick Fury is killed by the mysterious assassin, the Winter Soldier, but not before warning Rogers that SHIELD has been subverted by its enemies. When Rogers acts on Fury's warning to trust no one there, he is branded as a traitor by the organization. Now a fugitive, Captain America must get to the bottom of this deadly mystery with the help of the Black Widow and his new friend, The Falcon. However, the battle will be costly for the Sentinel of Liberty, with Rogers finding enemies where he least expects them while learning that the Winter Soldier looks disturbingly familiar.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "literal", 
+                    "capable", 
+                    "same"
+                ], 
+                "role": "Badass Grandpa Despite Fury's age, he can kick ass, even while injured. Also, in a more literal example, Fury's grandfather was also a badass back in the day if his story is anything to go by. One of the members of the Council was an elder woman, who suddenly shows that she's completely capable to fight. And then it was subverted: it was Black Widow in disguise. Cap, himself, since he mentions that, technically, he's 95. The same goes for the Winter Soldier.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "attractive", 
+                    "table", 
+                    "painful"
+                ], 
+                "role": "Mr. Fanservice: Bucky has a shirtless scene and looking toned and attractive (albeit while being strapped to a table and undergoing a clearly painful brainwashing procedure). Steve also invokes this sporadically throughout the movie.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "highly-trained", 
+                    "S.H.I.E.L.D"
+                ], 
+                "role": "Action Girl: Black Widow, Maria Hill, and Sharon Carter are all highly-trained and deadly agents of the spy organization S.H.I.E.L.D.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "next"
+                ], 
+                "role": "In Captain America: The Winter Soldier this is invoked by Agent 13 who is undercover as Steve's next door neighbor.", 
+                "id": "GirlNextDoor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Natasha Romanoff. She even flashes her belly button to show Cap her scar from the Winter Soldier.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Maria Hill", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1843866", 
+    "poster_url": "CaptainAmericaTheWinterSoldier.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "MsFanservice", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "GIJoeRetaliation", 
+            "name": "G.I. Joe: Retaliation", 
+            "poster_url": "GIJoeRetaliation.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MsFanservice", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Immortals", 
+            "name": "Immortals", 
+            "poster_url": "Immortals.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "CaptainAmericaTheWinterSoldier", 
+    "name": "Captain America: The Winter Soldier"
+}

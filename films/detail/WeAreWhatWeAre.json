@@ -1,0 +1,82 @@
+{
+    "plot": "A seemingly wholesome and benevolent family, the Parkers have always kept to themselves, and for good reason. Behind closed doors, patriarch Frank rules his family with a rigorous fervor, determined to keep his ancestral customs intact at any cost. As a torrential rainstorm moves into the area, tragedy strikes and his daughters Iris and Rose are forced to assume responsibilities that extend beyond those of a typical family. As the unrelenting downpour continues to flood their small town, the local authorities begin to uncover clues that bring them closer to the secret that the Parkers have held closely for so many years.", 
+    "genres": "Drama, Horror, Thriller", 
+    "release_year": "2013", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Rose to Rory, her and Iris's younger brother.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [
+                    "disappear"
+                ], 
+                "role": "Daddy's Girl: Iris initially has shades of this, though they mostly disappear after Mr. Parker murders Anders.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: The film starts off with Mrs. Parker's death.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt2309021", 
+    "poster_url": "WeAreWhatWeAre.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "HideAndSeek", 
+            "name": "Hide and Seek", 
+            "poster_url": "HideAndSeek.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "HotelTransylvania", 
+            "name": "Hotel Transylvania", 
+            "poster_url": "HotelTransylvania.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }
+    ], 
+    "id": "WeAreWhatWeAre", 
+    "name": "We Are What We Are"
+}

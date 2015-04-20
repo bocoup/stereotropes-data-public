@@ -1,0 +1,67 @@
+{
+    "plot": "In a huge, old-fashioned luxury hotel a stranger tries to persuade a married woman to run away with him, but it seems she hardly remembers the affair they may have had (or not?) last year at Marienbad.", 
+    "genres": "Drama", 
+    "release_year": "1961", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "last"
+                ], 
+                "role": "Sharp Dressed Man: Every last one of the men.", 
+                "id": "SharpDressedMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0054632", 
+    "poster_url": "LastYearAtMarienbad.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SharpDressedMan"
+            ], 
+            "shared_count": 1, 
+            "id": "X-Men", 
+            "name": "X-Men", 
+            "poster_url": "X-Men.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan"
+            ], 
+            "shared_count": 1, 
+            "id": "RawDeal", 
+            "name": "Raw Deal", 
+            "poster_url": "RawDeal.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWolfMan1941", 
+            "name": "The Wolf Man ", 
+            "poster_url": "TheWolfMan1941.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWiz", 
+            "name": "The Wiz", 
+            "poster_url": "TheWiz.jpg"
+        }
+    ], 
+    "id": "LastYearAtMarienbad", 
+    "name": "Last Year At Marienbad"
+}

@@ -1,0 +1,97 @@
+{
+    "plot": "Evil Roy Slade, the meanest villain the West has known, meets a beautiful young woman who persuades him to change careers from train robber to family man. He is pursued by Marshal Bing Bell, while a helpful psychologist teaches him to live without weapons.", 
+    "genres": "Comedy, Western", 
+    "release_year": "1972", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "impressive"
+                ], 
+                "role": "Badass Mustache: Roy sports an impressive one.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Clifford Stoole", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Evil Roy: Trope Namer.", 
+                "id": "EvilRoy"
+            }, 
+            {
+                "adjectives": [
+                    "classic"
+                ], 
+                "role": "Man in White: Marshal Bing Bell is a subversion of the classic Western Man in White.", 
+                "id": "ManInWhite"
+            }, 
+            {
+                "adjectives": [
+                    "sharp", 
+                    "rhinestone-studded"
+                ], 
+                "role": "Sharp Dressed Man: Marshal Bing Bell states that he has \"always tried to shoot and dress sharp\" - assuming your idea of sharp dressing includes rhinestone-studded singing cowboy outfits.", 
+                "id": "SharpDressedMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0067072", 
+    "poster_url": "EvilRoySlade.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DumbMuscle", 
+                "EvilRoy"
+            ], 
+            "shared_count": 2, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "XMen", 
+            "name": "X-Men", 
+            "poster_url": "XMen.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "PulpFiction", 
+            "name": "Pulp Fiction", 
+            "poster_url": "PulpFiction.jpg"
+        }
+    ], 
+    "id": "EvilRoySlade", 
+    "name": "Evil Roy Slade"
+}

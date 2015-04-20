@@ -1,0 +1,132 @@
+{
+    "plot": "James Bond has one more mission. Bond returns from his travels in the USSR with a computer chip. This chip is capable of withstanding a nuclear electromagnetic pulse that would otherwise destroy a normal chip. The chip was created by Zorin Industries, and Bond heads off to investigate its owner, Max Zorin. Zorin may only seem like a innocent guilty man, but is really planning to set off an earthquake in San Andreas which will wipe out all of Silicon Valley. As well as Zorin, Bond must also tackle May Day and equally menacing companion of Zorin, whilst dragging Stacy Sutton along for the ride.", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Bond himself (Roger Moore was 58).", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "dark", 
+                    "big"
+                ], 
+                "role": "Scary Black Man: Gender Flip. Would you want to bump into Grace Jones in a dark alley? Some would say a big \"YES!\" (Of course, Jones tended to play characters like this a lot.)", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Oh, Lord, May Day. May Day.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Also, May Day and her group from A View to a Kill  They get killed off by their boss Max Zorin. Except for May, who's so pissed off that she has a Heel-Face Turn and joins Bond to have her revenge.", 
+                "id": "AmazonBrigade"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mayday from A View to a Kill. She arguably has a Heel-Face Turn late in the movie, but it's not because of Bond - it's because Zorin betrayed her and killed her friends.", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Stacey, who's supposedly a geologist.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [
+                    "big"
+                ], 
+                "role": "Some would say a big \"YES!\" (Of course, Jones tended to play characters like this a lot.)", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "Singer/actress", 
+                    "real", 
+                    "five-foot-ten"
+                ], 
+                "role": "Singer/actress Grace Jones fits this trope in real life (she's five-foot-ten) and her film roles, most notably A View to a Kill and Conan the Destroyer.", 
+                "id": "StatuesqueStunner"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: May Day. \"And I thought that creep loved me!\"", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0090264", 
+    "poster_url": "AViewToAKill.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "MsFanservice", 
+                "ActionGirl", 
+                "ScaryBlackMan", 
+                "WomanScorned"
+            ], 
+            "shared_count": 5, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 4, 
+            "id": "Battleship", 
+            "name": "Battleship", 
+            "poster_url": "Battleship.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl", 
+                "HotScientist", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 4, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "WomanScorned", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 4, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "AViewToAKill", 
+    "name": "A View to a Kill"
+}

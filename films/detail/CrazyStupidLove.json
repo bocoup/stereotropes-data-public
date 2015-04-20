@@ -1,0 +1,90 @@
+{
+    "plot": "N/A", 
+    "genres": "Short, Comedy", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "heavy"
+                ], 
+                "role": "Dogged Nice Guy: Robbie is a Type 1, with a heavy dash of Stalker with a Crush.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ladykiller in Love: Jacob for Hannah.", 
+                "id": "LadyKillerInLove"
+            }, 
+            {
+                "adjectives": [
+                    "Cal"
+                ], 
+                "role": "Papa Wolf: Cal's reaction upon finding out about  Jacob and Hannah, and Jessica's father's reaction when he thinks Cal is involved with his daughter.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Its implied that  Hannah is this to  Robbie and Molly", 
+                "id": "CoolBigSis"
+            }
+        ]
+    }, 
+    "imdbid": "tt2862646", 
+    "similar": [
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "LadyKillerInLove"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }
+    ], 
+    "id": "CrazyStupidLove", 
+    "name": "Crazy Stupid Love"
+}

@@ -1,0 +1,80 @@
+{
+    "plot": "N/A", 
+    "genres": "Short, Thriller", 
+    "release_year": "2014", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Roxy, repeatedly. If Eegah is anywhere near, expect her to pass out and get hauled around so someone can save her.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Neutral Female: Roxy. The closest she gets to an action scene is her shaving two people.", 
+                "id": "NeutralFemale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman: Mostly averted with Roxy, she doesn't scream... she just faints at the slightest scare.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt3863942", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "Batman", 
+            "name": "Batman", 
+            "poster_url": "Batman.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "KingKong", 
+            "name": "King Kong", 
+            "poster_url": "KingKong.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }
+    ], 
+    "id": "Eegah", 
+    "name": "Eegah!"
+}

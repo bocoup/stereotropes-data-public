@@ -1,0 +1,72 @@
+{
+    "plot": "Two children in 1917 take a photograph, believed by some to be the first scientific evidence of the existence of fairies. Based on a true story.", 
+    "genres": "Drama, Family, Fantasy", 
+    "release_year": "1997", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Frances's mother is dead. When Aunt Pollie tucks her in, they look at a photo of a woman and Pollie says \"I miss her too\".", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "The High Queen: Alluded to with the fairies' Queen Mab.", 
+                "id": "TheHighQueen"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119095", 
+    "similar": [
+        {
+            "shared": [
+                "TheHighQueen", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }, 
+        {
+            "shared": [
+                "TheHighQueen", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "ClashOfTheTitans", 
+            "name": "Clash of the Titans", 
+            "poster_url": "ClashOfTheTitans.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }
+    ], 
+    "id": "FairytaleATrueStory", 
+    "name": "Fairytale A True Story"
+}

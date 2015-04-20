@@ -1,0 +1,75 @@
+{
+    "plot": "A half-shark, half-octopus creature created for the military, creates a whole lot of terror in Mexico while a scientist who helped created it tries to capture/kill it.", 
+    "genres": "Comedy, Horror, Sci-Fi", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene: Andy does actually own a shirt, he just never bothers to do it up.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mad Scientist's Beautiful Daughter", 
+                "id": "MadScientistsBeautifulDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt1619880", 
+    "poster_url": "Sharktopus.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRockyHorrorPictureShow", 
+            "name": "The Rocky Horror Picture Show", 
+            "poster_url": "TheRockyHorrorPictureShow.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "Doomsday", 
+            "name": "Doomsday", 
+            "poster_url": "Doomsday.jpg"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMouseThatRoared", 
+            "name": "The Mouse That Roared", 
+            "poster_url": "TheMouseThatRoared.jpg"
+        }
+    ], 
+    "id": "Sharktopus", 
+    "name": "Sharktopus"
+}

@@ -1,0 +1,82 @@
+{
+    "plot": "Benjamin Franklin Gates descends from a family of treasure-seekers who've all hunted for the same thing: a war chest hidden by the Founding Fathers after the Revolutionary War. Ben's close to discovering its whereabouts, as is his competition, but the FBI is also hip to the hunt.", 
+    "genres": "Action, Adventure, Mystery", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Riley in National Treasure.", 
+                "id": "NonActionSnarker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "straight", 
+                    "forcing", 
+                    "own", 
+                    "Mansion-like", 
+                    "other"
+                ], 
+                "role": "Girl of the Week: At first seemingly played straight in the sequel, with an off screen breakup with Gates and Chase, forcing Ben to break into his own Mansion-like house. Though she joins the other two about a half hour in for the rest of the film.", 
+                "id": "GirlOfTheWeek"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Abigail Chase.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0368891", 
+    "poster_url": "NationalTreasure.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "BarbieAFashionFairytale", 
+            "name": "Barbie A Fashion Fairytale"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "WomanInTheMoon", 
+            "name": "Woman in the Moon", 
+            "poster_url": "WomanInTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }
+    ], 
+    "id": "NationalTreasure", 
+    "name": "National Treasure"
+}

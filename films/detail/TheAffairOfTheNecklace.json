@@ -1,0 +1,86 @@
+{
+    "plot": "Paris, 1786: a woman in court. The Crown murdered her father for his views about the poor, now Jeanne wants her home and good name back. She believes all can be set right if she can talk to the Queen, whose House Minister rebuffs her. With the help of a courtside gigolo, she learns to use what others desire to get what she wants. She needs a patron: with forged letters, she convinces Cardinal de Rohan she is the Queen's confidante and can help him regain royal favor. Jeanne conspires to have the Cardinal purchase a fabulous diamond necklace for the Queen. He delivers it to Jeanne for Marie Antoinette. If the scheme breaks down, what then? Might this affair spark revolution?", 
+    "genres": "Drama, History", 
+    "release_year": "2001", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "unfashionable"
+                ], 
+                "role": "Lady in Red: Adult Jeanne appears in a red dress during Marie Antoinette's performance in the Petit Trianon. While Retaux is intrigued the ladies of the court dismiss the dress as unfashionable.", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "Woman in Black: Jeanne wears black dresses often. Also Marie Antoinette in a few scenes.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "Woman in White: A few of Marie Antoinette's outfits.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0242252", 
+    "poster_url": "TheAffairOfTheNecklace.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInBlack", 
+                "LadyInRed", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "LadyInRed", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheInnocents", 
+            "name": "The Innocents", 
+            "poster_url": "TheInnocents.jpg"
+        }
+    ], 
+    "id": "TheAffairOfTheNecklace", 
+    "name": "The Affair of the Necklace"
+}

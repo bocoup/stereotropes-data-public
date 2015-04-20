@@ -1,0 +1,83 @@
+{
+    "plot": "N/A", 
+    "genres": "Drama, Romance", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [
+                    "personal", 
+                    "good-looking"
+                ], 
+                "role": "Troubled, but Cute: Ben's family history is definitely a personal issue with him, but damn if he wasn't good-looking enough to make up for it!", 
+                "id": "TroubledButCute"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Miss Kitty: Minnie, Will's mistress.", 
+                "id": "MissKitty"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089500", 
+    "similar": [
+        {
+            "shared": [
+                "TroubledButCute", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "MissKitty", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "EatenAlive", 
+            "name": "Eaten Alive", 
+            "poster_url": "EatenAlive.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheOutsiders", 
+            "name": "The Outsiders", 
+            "poster_url": "TheOutsiders.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }
+    ], 
+    "id": "TheLongHotSummer", 
+    "name": "The Long Hot Summer"
+}

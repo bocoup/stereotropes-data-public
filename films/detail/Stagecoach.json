@@ -1,0 +1,84 @@
+{
+    "plot": "A simple stagecoach trip is complicated by the fact that Geronimo is on the warpath in the area. The passengers on the coach include a a drunken doctor, two women, a bank manager who has taken off with his client's money, and the famous Ringo Kid, among others.", 
+    "genres": "Adventure, Western", 
+    "release_year": "1939", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Hatfield from Stagecoach .", 
+                "id": "SouthernGentleman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Southern Gentleman: Hatfield. He's more gambler than gentleman, though.", 
+                "id": "SouthernGentleman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Gambler: Hatfield again", 
+                "id": "TheGambler"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Dallas", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0031971", 
+    "poster_url": "Stagecoach.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SouthernGentleman", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "TheGambler"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePurpleRoseOfCairo", 
+            "name": "The Purple Rose of Cairo", 
+            "poster_url": "ThePurpleRoseOfCairo.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Purgatory", 
+            "name": "Purgatory", 
+            "poster_url": "Purgatory.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Django", 
+            "name": "Django", 
+            "poster_url": "Django.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "McCabeAndMrsMiller", 
+            "name": "McCabe & Mrs. Miller", 
+            "poster_url": "McCabeAndMrsMiller.jpg"
+        }
+    ], 
+    "id": "Stagecoach", 
+    "name": "Stagecoach"
+}

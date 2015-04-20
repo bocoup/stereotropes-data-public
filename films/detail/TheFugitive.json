@@ -1,0 +1,139 @@
+{
+    "plot": "A well respected Chicago surgeon Dr. Richard Kimble has found out that his wife, Helen, has been murdered ferociously in her own home. The police found Kimble and accused him of the murder. Then, Kimble (without Justifiable Reason) was tried, convicted, and sentenced to death. However, on the way to prison, Kimble's transport crashed. Kimble escapes and is now on the run. Deputy Samuel Gerard from Chicago takes charge of the chase of Kimble. Meanwhile, Kimble makes up his own investigation to find who really killed his wife, and to lure Gerard and his team into it as well.", 
+    "genres": "Action, Adventure, Crime", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "second", 
+                    "shave", 
+                    "first", 
+                    "early", 
+                    "Kimble"
+                ], 
+                "role": "In the film version of The Fugitive, the second thing Dr. Kimble does after escaping from prison is shave off his beard. (The first thing is to ditch his orange jumpsuit.) That is, Harrison Ford begins the film with a beard only to lose it after 20 minutes and look like himself for the rest of the film.\n Inverted in an early draft of the script, where Kimble grows a beard in order to disguise himself.", 
+                "id": "BeardnessProtectionProgram"
+            }, 
+            {
+                "adjectives": [
+                    "Kimble", 
+                    "much"
+                ], 
+                "role": "Crusading Widower: Kimble's efforts to find his wife's killer are just as much about avenging her as they are about clearing his name.", 
+                "id": "CrusadingWidower"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dr. Richard Kimble of The Fugitive.", 
+                "id": "CrusadingWidower"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Any given Jeroen Krabb\u00e9 role. This includes The Fugitive, An Ideal Husband, Prince of Tides, and The Living Daylights.", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [
+                    "own", 
+                    "later", 
+                    "same", 
+                    "unhooked", 
+                    "empty", 
+                    "light"
+                ], 
+                "role": "Dirty Coward: The guard who releases Kimble's chains on the bus jumps out the window to save his own ass while Kimble stays behind and rescues his injured partner. When Kimble asks for help, he says \"To hell with you!\" before diving to safety. Then later, when questioned by the police about the crash, he claims he pulled his partner out. \"He woulda done the same for me.\" Obviously. Gerard, upon finding Kimble's unhooked and empty chains nearby wonders if the guard wants to change his \"bullshit story\" in light of the evidence.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "emotional"
+                ], 
+                "role": "Mr. Fanservice: Harrison Ford as Dr. Richard Kimble. Not just in looks, but in personality. During an interview, Ford speculated that women were drawn to the film because they were so moved by the emotional undercurrent of Kimble's unrelenting grief for his wife.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "other", 
+                    "throat", 
+                    "own", 
+                    "point-blank"
+                ], 
+                "role": "Scary Black Man: Copeland, the only other convict who survives the train wreck with Kimble. That scene where he holds Newman hostage with a gun while screaming is proof of this. Originally, the script actually had Copeland holding a knife to Newman's throat instead of Newman's own weapon, but still ended with Gerard shooting Copeland at point-blank range and Newman being temporarily deafened.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "likely", 
+                    "own"
+                ], 
+                "role": "Richard Kimble's wife in The Fugitive.\n Although he likely had some motivation in wanting to clear his own name as well.", 
+                "id": "DisposableWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0106977", 
+    "poster_url": "TheFugitive.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisposableWoman", 
+                "MrFanservice", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "CrusadingWidower", 
+                "DisposableWoman", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "StarTrekIITheWrathOfKhan", 
+            "name": "Star Trek II: The Wrath of Khan", 
+            "poster_url": "StarTrekIITheWrathOfKhan.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "ScaryBlackMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "CrusadingWidower", 
+                "MrFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Inception", 
+            "name": "Inception", 
+            "poster_url": "Inception.jpg"
+        }
+    ], 
+    "id": "TheFugitive", 
+    "name": "The Fugitive"
+}

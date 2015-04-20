@@ -1,0 +1,76 @@
+{
+    "plot": "A short film about friends, family, and pranksmithery.", 
+    "genres": "Short, Comedy", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "likely"
+                ], 
+                "role": "Final Girl: Nan seems most likely to be this, then gets killed third. Kit then seems to be the Final Girl  but of course it's subverted when everyone lives.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "dead", 
+                    "whole", 
+                    "elaborate", 
+                    "practical"
+                ], 
+                "role": "In April Fools' Day, the cast are whittled down to two and the killer is revealed to be the secret and crazy twin sister of one of the characters. The boy gets locked in a closet while the Final Girl is left to confront the crazy twin. She backs into a room, and there are all the \"dead,\" people, behaving calmly and casually as though nothing had happened. After about thirty seconds of her freaking out, they start laughing and explain that that the whole thing was both a elaborate practical joke and a test for a \"Murder Mystery,\" inn, there is no twin. Then they have a party.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1981579", 
+    "similar": [
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "NineDead", 
+            "name": "Nine Dead", 
+            "poster_url": "NineDead.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "FridayThe13thPartVANewBeginning", 
+            "name": "Friday the 13th Part V: A New Beginning"
+        }
+    ], 
+    "id": "AprilFoolsDay", 
+    "name": "April Fools' Day"
+}

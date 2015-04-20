@@ -1,0 +1,76 @@
+{
+    "plot": "Tuck Everlasting is the story of a girl named Winnie and a family whom she meets, the Tucks. The Tucks have a secret, they're immortal.They drank water from a spring that was actually a fountain of youth. Until the end of time, they will stay that way. Winnie falls in love with one of the Tucks, Jesse, a \"17\"-year-old boy who shares the same feelings for her. Scared of death, Winnie must choose between being immortal and being with Jesse or following the circle of life and dying someday. The Tucks try to teach her how she shouldn't fear death, how they would give anything to die. It teaches the importance and understanding of life and death.It shows that you should not fear death, but to fear an unlived life.", 
+    "genres": "Drama, Romance, Family", 
+    "release_year": "2002", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "sweet", 
+                    "same", 
+                    "main"
+                ], 
+                "role": "Mama Bear: Mae's usually very sweet, but she  kills The Man in the Yellow Suit to protect her family. Not to mention kidnapping Winnie for the same reason. She's also this to Winnie. That's the main reason she kills The Man in the Yellow Suit. She didn't want him to force Winnie to drink the spring water and condemn her to an eternity of loneliness.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0283084", 
+    "poster_url": "TuckEverlasting.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MamaBear", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "FiftyFifty", 
+            "name": "50/50", 
+            "poster_url": "FiftyFifty.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "Brave", 
+            "name": "Brave", 
+            "poster_url": "Brave.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }
+    ], 
+    "id": "TuckEverlasting", 
+    "name": "Tuck Everlasting"
+}

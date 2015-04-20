@@ -1,0 +1,97 @@
+{
+    "plot": "Milo is a boy who is bored with life. One day he comes home to find a toll booth in his room. Having nothing better to do, he gets in his toy car and drives through - only to emerge in a world full of adventure.", 
+    "genres": "Family, Adventure, Animation", 
+    "release_year": "1970", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Non-Action Guy: The Humbug, occasionally bordering on The Load.", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsels in Distress: Princesses Rhyme and Reason.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "literal", 
+                    "high", 
+                    "own", 
+                    "respective"
+                ], 
+                "role": "Everything's Better with Princesses: Quite literal with the Princesses of Sweet Rhyme and Pure Reason, of the Kingdom of Wisdom. They are apparently high enough in authority that their brothers King Azaz and the Mathemagician, rulers of their own respective countries, appeal to them when there's a dispute... and once they're banished, Wisdom goes to Hell in a handbasket. It's only after they're rescued in The Quest that the Kingdom becomes sane again... everything is, in fact, better with them in charge.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "literal", 
+                    "high", 
+                    "own", 
+                    "respective"
+                ], 
+                "role": "Quite literal in The Phantom Tollbooth, with the Princesses of Sweet Rhyme and Pure Reason, of the Kingdom of Wisdom. They are apparently high enough in authority that their brothers King Azaz and the Mathemagician, rulers of their own respective countries, appeal to them when there's a dispute... and once they're banished, Wisdom goes to Hell in a handbasket. It's only after they're rescued in The Quest that the Kingdom becomes sane again... everything is, in fact, better with them in charge.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }
+        ]
+    }, 
+    "imdbid": "tt0064806", 
+    "poster_url": "ThePhantomTollbooth.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "FelixTheCatTheMovie", 
+            "name": "Felix the Cat: The Movie", 
+            "poster_url": "FelixTheCatTheMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }
+    ], 
+    "id": "ThePhantomTollbooth", 
+    "name": "The Phantom Tollbooth"
+}

@@ -1,0 +1,70 @@
+{
+    "plot": "A screenwriter does research for his new script by actually kidnapping and drowning young girls. He then places them in his \"garden\" of other dead girls coming back daily to check on them. One girl narrowly escapes and the other bodies are found leading to an ingenious plot to try and capture the killer.", 
+    "genres": "Comedy, Horror, Thriller", 
+    "release_year": "2000", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "last", 
+                    "only", 
+                    "previous", 
+                    "next"
+                ], 
+                "role": "Final Girl: Mallory was the last girl that Stanley planned to kill before finishing his script, and the only one to escape. She's tougher than the previous ones and makes a point of standing up to him. He becomes enamored with her for her defiance and is determined to drown her succesfully the next time.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0199389", 
+    "poster_url": "CabinByTheLake.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "NineDead", 
+            "name": "Nine Dead", 
+            "poster_url": "NineDead.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "FridayThe13thPartVANewBeginning", 
+            "name": "Friday the 13th Part V: A New Beginning"
+        }
+    ], 
+    "id": "CabinByTheLake", 
+    "name": "Cabin By The Lake"
+}

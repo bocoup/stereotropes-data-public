@@ -1,0 +1,90 @@
+{
+    "plot": "A revolver-wielding stranger crosses paths with two warring clans who are both on the hunt for a hidden treasure in a remote western town. Knowing his services are valuable to either side, he offers himself to the clan who will offer up the largest share of the wealth.", 
+    "genres": "Action, Western", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Knight Errant", 
+                "id": "KnightErrant"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sukiyaki Western Django", 
+                "id": "KnightErrant"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lady of War: Bloody Benten.", 
+                "id": "LadyOfWar"
+            }, 
+            {
+                "adjectives": [
+                    "ambiguous", 
+                    "past", 
+                    "prime"
+                ], 
+                "role": "While her exact age is somewhat ambiguous, BB from Takashi Miike's Sukiyaki Western Django is definitely a grandmother and past her prime when she picks up her guns again and shoots a crossbow bolt out of the air!", 
+                "id": "NeverMessWithGranny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0906665", 
+    "poster_url": "SukiyakiWesternDjango.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KnightErrant", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "LuckyLuke", 
+            "name": "Lucky Luke", 
+            "poster_url": "LuckyLuke.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyOfWar", 
+                "KnightErrant"
+            ], 
+            "shared_count": 2, 
+            "id": "CrouchingTigerHiddenDragon", 
+            "name": "Crouching Tiger, Hidden Dragon", 
+            "poster_url": "CrouchingTigerHiddenDragon.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyOfWar", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "Red", 
+            "name": "Red", 
+            "poster_url": "Red.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyOfWar", 
+                "KnightErrant"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "LadyOfWar", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "SummerWars", 
+            "name": "Summer Wars", 
+            "poster_url": "SummerWars.jpg"
+        }
+    ], 
+    "id": "SukiyakiWesternDjango", 
+    "name": "Sukiyaki Western Django"
+}

@@ -1,0 +1,94 @@
+{
+    "plot": "A young man follows his father's footsteps and joins the railway company, where he learns the job and has his first affair. Set in the country, during the German occupation.", 
+    "genres": "Comedy, Drama, War", 
+    "release_year": "1966", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "middle-aged"
+                ], 
+                "role": "Kavorka Man: Hubicka is middle-aged, balding, and bespectacled, and has amazing success with women.", 
+                "id": "KavorkaMan"
+            }, 
+            {
+                "adjectives": [
+                    "Hubi\u010dka", 
+                    "successful"
+                ], 
+                "role": "The Casanova: Hubi\u010dka is remarkably successful with women. This draws the ire of his boss.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "unsuccessful"
+                ], 
+                "role": "Mrs. Robinson: Played with. Milos is looking for one, but is unsuccessful until Viktoria turns up.", 
+                "id": "MrsRobinson"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sexy Secretary: The telegraphist. Her tryst with Hubicka involves a lingering shot of her naked bottom.", 
+                "id": "SexySecretary"
+            }
+        ]
+    }, 
+    "imdbid": "tt0060802", 
+    "poster_url": "CloselyWatchedTrains.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCommitments", 
+            "name": "The Commitments", 
+            "poster_url": "TheCommitments.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "SexySecretary"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "MrsRobinson"
+            ], 
+            "shared_count": 2, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "CloselyWatchedTrains", 
+    "name": "Closely Watched Trains"
+}

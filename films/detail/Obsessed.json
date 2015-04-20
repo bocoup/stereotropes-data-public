@@ -1,0 +1,101 @@
+{
+    "plot": "Derek Charles is a hard working man, employed as a asset manager in a private company. He is very happy with his beautiful wife, Sharon, and only son, and because of his hard work he just got a huge promotion. But suddenly he gets a temporary worker who is both attractive and smart, and Derek is understandably impressed with her and also finds himself physically drawn to her. However, this new girl is desperate to get close to him - at any cost.", 
+    "genres": "Drama, Thriller", 
+    "release_year": "2009", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Mom: Sharon proves to Lisa very effectively why she shouldn't have messed with her family.", 
+                "id": "ActionMom"
+            }, 
+            {
+                "adjectives": [
+                    "demographic", 
+                    "racial", 
+                    "black", 
+                    "white", 
+                    "black"
+                ], 
+                "role": "Blondes are Evil: Perhaps a bit of Truth in Television regarding the perception of the demographic being targeted by the film, as it plays on the racial tension specifically between black women and white women over black males (some may recall a scene from Save the Last Dance that addresses this perception more directly).", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "later", 
+                    "red-soled"
+                ], 
+                "role": "Lady in Red: Lisa, first with a trench coat, then later with a dress. Also hinted at with her pair of red-soled Louboutin pumps.", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Sharon Charles when you try to break up her family and especially if you touch her son.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Sharon.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt1198138", 
+    "poster_url": "Obsessed.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyInRed", 
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "SassyBlackWoman", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "PokemonZoroarkMasterOfIllusions", 
+            "name": "Pok\u00e9mon: Zoroark: Master of Illusions"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }
+    ], 
+    "id": "Obsessed", 
+    "name": "Obsessed"
+}

@@ -1,0 +1,84 @@
+{
+    "plot": "John Singleton's portrayal of social problems in inner-city Los Angeles takes the form of a tale of three friends growing up together 'in the 'hood.' Half-brothers Doughboy and Ricky Baker are foils for each other's personality, presenting very different approaches to the tough lives they face. Ricky is the 'All-American' athlete, looking to win a football scholarship to USC and seeks salvation through sports, while 'Dough' succumbs to the violence, alcohol, and crime surrounding him in his environment, but maintains a strong sense of pride and code of honor. Between these two is their friend Tre, who is lucky to have a father, 'Furious' Styles, to teach him to have the strength of character to do what is right and to always take responsibility for his actions.", 
+    "genres": "Crime, Drama", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Furious", 
+                    "served", 
+                    "criminal"
+                ], 
+                "role": "Dad the Veteran: Furious served in Vietnam so he could avoid the criminal lifestyle and be someone Tre looks up to. The only time he mentions it is when he warns Tre about the army, but given his stern and disciplined nature (not to mention his unwillingness to shoot an intruder) shades of it do show through.", 
+                "id": "DadTheVeteran"
+            }, 
+            {
+                "adjectives": [
+                    "different", 
+                    "only"
+                ], 
+                "role": "Disappeared Dad: Ricky and Doughboy have different fathers, yet neither is around. In fact, Furious is the only father in the neighbourhood. And Ricky becomes one to his son after getting gunned down.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Catholic School Girls Rule: Part of Tre's attraction to Brandi is that she's Catholic. Brandi herself subverts this trope, wanting to wait until marriage as her faith dictates. She changes her mind and she and Tre have Their First Time after he's harassed by Officer Coffey.", 
+                "id": "CatholicSchoolGirlsRule"
+            }
+        ]
+    }, 
+    "imdbid": "tt0101507", 
+    "poster_url": "BoyzNTheHood.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }
+    ], 
+    "id": "BoyzNTheHood", 
+    "name": "Boyz n the Hood"
+}

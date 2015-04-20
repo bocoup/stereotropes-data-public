@@ -1,0 +1,105 @@
+{
+    "plot": "Self-destructive and needy but wealthy teenager Harold is obsessed with death and spends his leisure time attending funerals, watching the demolition of buildings, visiting junkyards, simulating suicides trying to get the attention of his indifferent, snobbish and egocentric mother, and having sessions with his psychologist. When Harold meets the anarchic seventy-nine-year-old Maude at a funeral, they become friends and the old lady discloses other perspectives of the cycle of life for him. Meanwhile, his mother enlists him in a dating service and tries to force him to join the army. On the day of Maude's eightieth birthday, Harold proposes to her but he finds the truth about life at the end of hers.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1971", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "old", 
+                    "car-stealing", 
+                    "hookah-smoking", 
+                    "murder-staging"
+                ], 
+                "role": "Cool Old Lady: Good old car-stealing, hookah-smoking, murder-staging Maude.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [
+                    "casual"
+                ], 
+                "role": "Manic Pixie Dream Woman: Maude, right down to the casual attitude towards theft. Age shall not wither her nor custom stale her infinite variety.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "unusual", 
+                    "vivacious", 
+                    "eccentric", 
+                    "well-traveled"
+                ], 
+                "role": "Maude in Harold and Maude is an unusual example in that she's about 60 years older than the man. A vivacious, eccentric and well-traveled woman, she teaches Harold to live life to the fullest and get over his morbid obsession with death.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "beautiful"
+                ], 
+                "role": "An extreme example would be the movie Harold and Maude. People get very upset over a romance which is quite beautiful, even if Harold is maybe 18 and Maude is 80.", 
+                "id": "MrsRobinson"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: To his credit, Harold fights his mother every step of the way.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0067185", 
+    "poster_url": "HaroldAndMaude.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "CoolOldLady", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "GreyGardens", 
+            "name": "Grey Gardens", 
+            "poster_url": "GreyGardens.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MyWeekWithMarilyn", 
+            "name": "My Week With Marilyn", 
+            "poster_url": "MyWeekWithMarilyn.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Titanic", 
+            "name": "Titanic", 
+            "poster_url": "Titanic.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }
+    ], 
+    "id": "HaroldAndMaude", 
+    "name": "Harold and Maude"
+}

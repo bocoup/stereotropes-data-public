@@ -1,0 +1,75 @@
+{
+    "plot": "in a not too distant future Gothenburg (Sweden) has been invaded by zombies. the police are powerless and a team of German zombie hunters is called in to solve the problem and clean up the city. on their way through the streets of gothenburg they run into everything, from an Italian assassin to some Swedish reporters on the wrong side of the barricades while trying to figure out what's causing the epidemic.", 
+    "genres": "Horror", 
+    "release_year": "2005", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Action Girl: Ewa, Dieter's girlfriend and the female zombiehunter.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Ewa", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0480777", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastStand", 
+            "name": "The Last Stand", 
+            "poster_url": "TheLastStand.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hausu", 
+            "name": "Hausu"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HaloLegends", 
+            "name": "Halo Legends", 
+            "poster_url": "HaloLegends.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Ironclad", 
+            "name": "Ironclad", 
+            "poster_url": "Ironclad.jpg"
+        }
+    ], 
+    "id": "DieZombiejager", 
+    "name": "Die Zombiejager"
+}

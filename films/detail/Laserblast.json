@@ -1,0 +1,74 @@
+{
+    "plot": "Alien creatures kill a mutated alien creature in the California desert. Its remains, and the high-tech laser gun and power source accidentally left behind, are found by an ostracized teenager. However, the power source causes the teenager to mutate too, and he goes on a murderous rampage.", 
+    "genres": "Horror, Sci-Fi", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "due", 
+                    "odd"
+                ], 
+                "role": "Dude Looks Like a Lady: The laboratory technician, due to his odd haircut.", 
+                "id": "DudeLooksLikeALady"
+            }, 
+            {
+                "adjectives": [
+                    "open"
+                ], 
+                "role": "Walking Shirtless Scene: Billy always has his shirt open, for...some reason.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0077834", 
+    "poster_url": "Laserblast.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DudeLooksLikeALady", 
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "Neighbors2014", 
+            "name": "Neighbors", 
+            "poster_url": "Neighbors2014.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "ConanTheBarbarian2011", 
+            "name": "Conan the Barbarian ", 
+            "poster_url": "ConanTheBarbarian2011.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }
+    ], 
+    "id": "Laserblast", 
+    "name": "Laserblast"
+}

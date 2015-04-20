@@ -1,0 +1,116 @@
+{
+    "plot": "The throne of rightful king of England, the small babe with the purple pimpernel birthmark, has been usurped by the evil King Roderick. Only the Black Fox can restore the true king to the throne--and all he needs is the king's key to a secret tunnel. And while he's trying to steal it, someone has to change the king's diapers. The task falls to Hawkins, the gentlest member of the Fox's band. The Fox's lieutenant, Maid Jean, guards Hawkins and the babe while they travel, but when they meet the King's new jester on the road, they decide to initiate a daring plan for Hawkins to replace him, become an intimate at the court, and steal the key. So, humble Hawkins becomes Giacomo: the king of jesters and jester to the king. But things begin to get zany when the King's daughter falls for Giacomo, the King falls for Jean, people randomly sing what are supposed to be recognition codes, and a witch with very effective spells (and poison pellets) begins to interfere.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1955", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "young", 
+                    "competant", 
+                    "whole"
+                ], 
+                "role": "Bumbling Dad: Kind of, in that Hawkins is actually a more than competent foster father to the young king (in fact, he's the most competant parental type in the whole movie), but he's bumbling at pretty much everything else.", 
+                "id": "BumblingDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Maid Jean, especially for the standards of the time.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "classic", 
+                    "royal"
+                ], 
+                "role": "Of course there's the classic movie The Court Jester. The heir to the throne had a royal birthmark, on his royal backside. This frequently involved Danny Kaye flashing the baby's bottom at crowds of people, when they would instantly bow down in reverence.", 
+                "id": "BeautyMark"
+            }, 
+            {
+                "adjectives": [
+                    "dangerous"
+                ], 
+                "role": "Damsel out of Distress: Maid Jean is caught and taken to the castle, and it almost makes her more dangerous to the antagonists than if she had gotten away.", 
+                "id": "DamselOutOfDistress"
+            }, 
+            {
+                "adjectives": [
+                    "bad", 
+                    "good"
+                ], 
+                "role": "Maid Jean's capture in The Court Jester ended very poorly for the bad guys when she used her situation to extract the castle key the good guys needed to carry out their plans.", 
+                "id": "DamselOutOfDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Maid Jean. Her father taught her how to fight. She suspects he wanted a boy.", 
+                "id": "Tomboy"
+            }, 
+            {
+                "adjectives": [
+                    "amoral"
+                ], 
+                "role": "Wicked Witch: Well... \"amoral witch\" describes Griselda.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0049096", 
+    "poster_url": "TheCourtJester.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeautyMark", 
+                "DamselOutOfDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BuffyTheVampireSlayer", 
+            "name": "Buffy the Vampire Slayer"
+        }, 
+        {
+            "shared": [
+                "DamselOutOfDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselOutOfDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SoUndercover", 
+            "name": "So Undercover", 
+            "poster_url": "SoUndercover.jpg"
+        }
+    ], 
+    "id": "TheCourtJester", 
+    "name": "The Court Jester"
+}

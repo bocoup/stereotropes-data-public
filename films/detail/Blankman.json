@@ -1,0 +1,77 @@
+{
+    "plot": "Darryl is a childlike man with a genius for inventing various gadgets out of junk. When he stumbles on a method to make his clothes bulletproof, he decides to use his skills to be the lowest budgeted superhero of all.", 
+    "genres": "Comedy, Action, Crime", 
+    "release_year": "1994", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "serious"
+                ], 
+                "role": "Distressed Damsel: Kimberly. And it is only when she is in danger that both brothers get serious.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scoop: Kimberly", 
+                "id": "HotScoop"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109288", 
+    "poster_url": "Blankman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "HotScoop"
+            ], 
+            "shared_count": 2, 
+            "id": "CrocodileDundee", 
+            "name": "Crocodile Dundee", 
+            "poster_url": "CrocodileDundee.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "HotScoop"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMask", 
+            "name": "The Mask", 
+            "poster_url": "TheMask.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "HotScoop"
+            ], 
+            "shared_count": 2, 
+            "id": "Batman", 
+            "name": "Batman", 
+            "poster_url": "Batman.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }
+    ], 
+    "id": "Blankman", 
+    "name": "Blankman"
+}

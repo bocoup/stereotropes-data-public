@@ -1,0 +1,81 @@
+{
+    "plot": "After his owner relocates, the cat Francis in involved in a series of cat murders in the new neighborhood. Francis tries to solve the murder cases with others - including Claudandus, a very knowledgable and old cat.", 
+    "genres": "Animation, Mystery, Thriller", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Pascal", 
+                    "charismatic", 
+                    "interested"
+                ], 
+                "role": "Cool Old Guy: Pascal is incredibly smart, friendly, and charismatic, and seems genuinely interested in helping find the killer. Which is himself.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "fifth", 
+                    "essential"
+                ], 
+                "role": "Grumpy Old Man: Deep Purple. He ends up being the fifth victim, and an essential clue to the link of the murders.", 
+                "id": "GrumpyOldMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109791", 
+    "poster_url": "Felidae.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "MorningGlory", 
+            "name": "Morning Glory", 
+            "poster_url": "MorningGlory.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Caddyshack", 
+            "name": "Caddyshack", 
+            "poster_url": "Caddyshack.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "LiberalArts", 
+            "name": "Liberal Arts", 
+            "poster_url": "LiberalArts.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwordInTheStone", 
+            "name": "The Sword in the Stone", 
+            "poster_url": "TheSwordInTheStone.jpg"
+        }
+    ], 
+    "id": "Felidae", 
+    "name": "Felidae"
+}

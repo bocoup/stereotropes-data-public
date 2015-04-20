@@ -1,0 +1,84 @@
+{
+    "plot": "Returning from a year up the Amazon studying snakes, the rich but unsophisticated Charles Pike meets con-artist Jean Harrington on a ship. They fall in love, but a misunderstanding causes them to split on bad terms. To get back at him, Jean disguises herself as an English lady, and comes back to tease and torment him.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1941", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "same"
+                ], 
+                "role": "Cute Clumsy Boy: Charles. He has five pratfalls over the course of the movie (two at the same party).", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Double-subverted", 
+                    "willing"
+                ], 
+                "role": "Double-subverted twice in the Barbara Stanwyck comedy The Lady Eve. So Jeanne brightens up the life of stiff, repressed Charles (or \"Hopsie\") - but the fact is that she's a con woman who wants to take his money. But then, she's also in love with him, and is willing to go straight for his sake. Then when he finds out and rejects her, she takes on the persona of the Lady Eve, and pulls the MPDG on him again.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Manic Pixie Dream Girl: Twice over, first as Jean and then as Eve.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0033804", 
+    "poster_url": "TheLadyEve.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AfterHours", 
+            "name": "After Hours", 
+            "poster_url": "AfterHours.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }
+    ], 
+    "id": "TheLadyEve", 
+    "name": "The Lady Eve"
+}

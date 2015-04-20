@@ -1,0 +1,87 @@
+{
+    "plot": "Spoof of 1960's Beach Party/Gidget surfing movies mixed with slasher horror films stars Lauren Ambrose as Florence Forrest, a not-so-innocent girl in 1960's Malibu who becomes \"Chicklet\" the first girl surfer at Malibu Beach, only Florence suffers from dissociative identity disorder and occasionally her alter ego Ann Bowman, a sexually aggressive, foul-speaking girl, comes out in which during that time several beach goers are found murdered. The suspects include Chicklet herself, surfer Kanaka, B-horror film actress Bettina Barnes, exchange student Lars, and even Chicklet's own mother.", 
+    "genres": "Comedy, Horror, Mystery", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: All of the surfers show off their chests, and Lars shows his.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "second"
+                ], 
+                "role": "In Psycho Beach Party, Chicklet's second personality is one of these, screaming at men for sex, and organises one of them to wear a corset, writes \"Ann Bowman was here\" in scars on his bum, and spanks him.", 
+                "id": "BastardGirlfriend"
+            }, 
+            {
+                "adjectives": [
+                    "odd", 
+                    "second", 
+                    "white"
+                ], 
+                "role": "An odd variation, in Psycho Beach Party Chicklet's second Split Personality is one of these... even though Chicklet is a white surfer chick.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0206226", 
+    "poster_url": "PsychoBeachParty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGuyFromHarlem", 
+            "name": "The Guy From Harlem", 
+            "poster_url": "TheGuyFromHarlem.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TeenBeachMovie", 
+            "name": "Teen Beach Movie", 
+            "poster_url": "TeenBeachMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "JerryMaguire", 
+            "name": "Jerry Maguire", 
+            "poster_url": "JerryMaguire.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackMamaWhiteMama", 
+            "name": "Black Mama White Mama", 
+            "poster_url": "BlackMamaWhiteMama.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "EvanAlmighty", 
+            "name": "Evan Almighty", 
+            "poster_url": "EvanAlmighty.jpg"
+        }
+    ], 
+    "id": "PsychoBeachParty", 
+    "name": "Psycho Beach Party"
+}

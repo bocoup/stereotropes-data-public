@@ -1,0 +1,86 @@
+{
+    "plot": "The underground kingdom of Seatopia sends out Megalon, a giant beetle, and Gigan to destroy the above ground dwellers. In an attempt to stop them, an independently thinking robot brings Godzilla into the fight.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "massive", 
+                    "nearby", 
+                    "afraid"
+                ], 
+                "role": "Godzilla vs. Megalon has two goons hired by a Seatopian agent. Not only are they bribed with \"100,000 yen\" to unknowingly kill a man and his younger brother inside a massive crate, but after realizing that they were being used and managing to kill the agent, they still follow through with the orders and try to dump the crate off a nearby damn, despite knowing they won't get paid. Why? Because they're afraid of the consequences if they don't. Once a friend of the heroes tries to convince them to save his friends, what do they do? They steal his car and run away, never to be seen again for the rest of the film.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Megalon. Seriously. Removing Jet Jaguar as a guide reduced him to basically nonfunctionality.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Fan Service Extra: If the watcher can get over how strangely dressed they are the Seatopian dancing women are indeed mostly wearing swim suits and boots.", 
+                "id": "FanserviceExtra"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070122", 
+    "poster_url": "GodzillaVsMegalon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "NewJackCity", 
+            "name": "New Jack City", 
+            "poster_url": "NewJackCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "WatershipDown", 
+            "name": "Watership Down", 
+            "poster_url": "WatershipDown.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWarriors", 
+            "name": "The Warriors", 
+            "poster_url": "TheWarriors.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "MadMax", 
+            "name": "Mad Max", 
+            "poster_url": "MadMax.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TransformersDarkOfTheMoon", 
+            "name": "Transformers: Dark of the Moon", 
+            "poster_url": "TransformersDarkOfTheMoon.jpg"
+        }
+    ], 
+    "id": "GodzillaVsMegalon", 
+    "name": "Godzilla vs. Megalon"
+}

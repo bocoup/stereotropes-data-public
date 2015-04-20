@@ -1,0 +1,86 @@
+{
+    "plot": "Danny Ocean wants to score the biggest heist in history. He combines an eleven member team, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand. All casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.", 
+    "genres": "Crime, Thriller", 
+    "release_year": "2001", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Angry Black Man: In order to help Linus steal the vault codes from Benedict in Eleven, Frank plays an Angry Black Man and pretends to attack Linus.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "Bad", 
+                    "first"
+                ], 
+                "role": "Bad Ass Grandpa: Saul may not show it much but there is an exchange in the first film wherein he demonstrates that despite his age, make no mistake, he is a very experienced con man and he is not to be trifled with.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Basically every protagonist in Ocean's 11, Ocean's 12, and Ocean's 13, as well as the antagonist \"Night Fox\" Toulour, though to a lesser extent.", 
+                "id": "GentlemanThief"
+            }, 
+            {
+                "adjectives": [
+                    "antique", 
+                    "fabric"
+                ], 
+                "role": "Waistcoat of Style: Terry's is antique kimononote\u00a0Actually the obi, the thick \"belt\" that goes around the waist. fabric.", 
+                "id": "WaistcoatOfStyle"
+            }
+        ]
+    }, 
+    "imdbid": "tt0240772", 
+    "poster_url": "OceansEleven.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GentlemanThief", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "HudsonHawk", 
+            "name": "Hudson Hawk", 
+            "poster_url": "HudsonHawk.jpg"
+        }, 
+        {
+            "shared": [
+                "WaistcoatOfStyle"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }, 
+        {
+            "shared": [
+                "WaistcoatOfStyle"
+            ], 
+            "shared_count": 1, 
+            "id": "Jabberwocky", 
+            "name": "Jabberwocky", 
+            "poster_url": "Jabberwocky.jpg"
+        }
+    ], 
+    "id": "OceansEleven", 
+    "name": "Ocean's Eleven"
+}

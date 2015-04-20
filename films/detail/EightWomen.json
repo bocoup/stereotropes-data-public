@@ -1,0 +1,70 @@
+{
+    "plot": "A portrait of eight women, now in their eighties, reflects on the delicate balance of their lives as homemakers and members of a 1960s modern dance group. A rendering of the intersections of motherhood, marriage, and movement.", 
+    "genres": "Documentary, Short", 
+    "release_year": "2009", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "French", 
+                    "sexual"
+                ], 
+                "role": "French Maid: Louise, though she's not usually blatantly sexual.", 
+                "id": "FrenchMaid"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Maiden Aunt: Augustine", 
+                "id": "MaidenAunt"
+            }
+        ]
+    }, 
+    "imdbid": "tt1590340", 
+    "similar": [
+        {
+            "shared": [
+                "MaidenAunt"
+            ], 
+            "shared_count": 1, 
+            "id": "AuntieMame", 
+            "name": "Auntie Mame", 
+            "poster_url": "AuntieMame.jpg"
+        }, 
+        {
+            "shared": [
+                "MaidenAunt"
+            ], 
+            "shared_count": 1, 
+            "id": "Hausu", 
+            "name": "Hausu"
+        }, 
+        {
+            "shared": [
+                "FrenchMaid"
+            ], 
+            "shared_count": 1, 
+            "id": "TheRockyHorrorPictureShow", 
+            "name": "The Rocky Horror Picture Show", 
+            "poster_url": "TheRockyHorrorPictureShow.jpg"
+        }, 
+        {
+            "shared": [
+                "MaidenAunt"
+            ], 
+            "shared_count": 1, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }, 
+        {
+            "shared": [
+                "FrenchMaid"
+            ], 
+            "shared_count": 1, 
+            "id": "HeavenCanWait1943", 
+            "name": "Heaven Can Wait", 
+            "poster_url": "HeavenCanWait1943.jpg"
+        }
+    ], 
+    "id": "EightWomen", 
+    "name": "Eight Women"
+}

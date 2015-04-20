@@ -1,0 +1,90 @@
+{
+    "plot": "Philadelphia socialites Tracy Lord and C.K. Dexter Haven married impulsively, with their marriage and subsequent divorce being equally passionate. They broke up when Dexter's drinking became excessive, it a mechanism to cope with Tracy's unforgiving manner to the imperfect, imperfections which Dexter admits he readily has. Two years after their break-up, Tracy is about to remarry, the ceremony to take place at the Lord mansion. Tracy's bridegroom is nouveau riche businessman and aspiring politician George Kittredge, who is otherwise a rather ordinary man and who idolizes Tracy. The day before the wedding, three unexpected guests show up at the Lord mansion: Macaulay Connor (Mike to his friends), Elizabeth Imbrie - the two who are friends of Tracy's absent brother, Junior - and Dexter himself. Dexter, an employee of the tabloid Spy magazine, made a deal with its publisher and editor Sidney Kidd to get a story on Tracy's wedding - the wedding of the year - in return for Kidd not publishing a salacious story with accompanying photographs of Tracy's father, Seth Lord, with a New York showgirl named Tina Marra. In reality, Mike and Liz are the reporter and photographer respectively for Spy. Mike and Liz don't particularly like this assignment or working for Kidd, but they need to make a living as their chosen other fields as serious writer and painter don't pay the bills. A suspicious Tracy is onto them, the entire truth which Dexter admits to her. Tracy decides to turn the tables on Mike and Liz. However, hours before the wedding, as the more self-assured Dexter and Liz get to work on how to get the Lords out from under Spy's threats, Tracy and Mike, both inebriated, go on a journey of self-discovery with Tracy ultimately coming to her realizations a little faster than Mike.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Uncle Willy, constantly pinching women on the bottom and hitting on Liz.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "young"
+                ], 
+                "role": "Uncle Willy in The Philadelphia Story, who pinches all the young ladies (including his niece).", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Friday: Liz to Mike", 
+                "id": "GirlFriday"
+            }, 
+            {
+                "adjectives": [
+                    "Rich", 
+                    "toned-down"
+                ], 
+                "role": "Rich Bitch: Tracy, though she's somewhat toned-down and does improve over time.", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0032904", 
+    "poster_url": "ThePhiladelphiaStory.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlFriday", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "HighSociety", 
+            "name": "High Society", 
+            "poster_url": "HighSociety.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlFriday", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "DropDeadFred", 
+            "name": "Drop Dead Fred", 
+            "poster_url": "DropDeadFred.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLegendOfTheTitanic", 
+            "name": "The Legend of the Titanic"
+        }, 
+        {
+            "shared": [
+                "RichBitch"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "ThePhiladelphiaStory", 
+    "name": "The Philadelphia Story"
+}

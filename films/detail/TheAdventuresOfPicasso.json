@@ -1,0 +1,84 @@
+{
+    "plot": "Already in his childhood, Pablo Picasso show talent for painting and is sent to the Academy of Arts in Madrid. He becomes a painter but has to live in Paris in poverty. But one day he is discovered by a rich American millionaire and starts to earn money. But he wastes his talent by painting plates. He meets the famous people of the 1920s: Gertrude Stein, Alice B. Toklas, Appolinaire, Hitler and Churchill.", 
+    "genres": "Comedy", 
+    "release_year": "1978", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Lesbian", 
+                    "masculine", 
+                    "lesbian"
+                ], 
+                "role": "Butch Lesbian: Gertrude Stein. She looks, sounds and acts very masculine (and is played by a man), and seems to have a thing for her friend Alice B. Toklas. This is actually Truth in Television: the Real Life Gertrude Stein indeed had a lesbian relationship with Alice B. Toklas.", 
+                "id": "ButchLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: When Picasso meets Dolores, she's attacked by bandits.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "early"
+                ], 
+                "role": "Spicy Latina: Picasso's mother, Do\u00f1a Mar\u00eda, and, to a lesser extent, his early romance Dolores, despite being played by Swedish actresses Margaretha Krook and Lena Olin, respectively.", 
+                "id": "SpicyLatina"
+            }
+        ]
+    }, 
+    "imdbid": "tt0078084", 
+    "poster_url": "TheAdventuresOfPicasso.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ButchLesbian", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "DoubleImpact", 
+            "name": "Double Impact", 
+            "poster_url": "DoubleImpact.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "WestSideStory", 
+            "name": "West Side Story", 
+            "poster_url": "WestSideStory.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "StreetsOfFire", 
+            "name": "Streets of Fire", 
+            "poster_url": "StreetsOfFire.jpg"
+        }, 
+        {
+            "shared": [
+                "SpicyLatina"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }
+    ], 
+    "id": "TheAdventuresOfPicasso", 
+    "name": "The Adventures Of Picasso"
+}

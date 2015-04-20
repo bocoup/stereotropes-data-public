@@ -1,0 +1,68 @@
+{
+    "plot": "This is the story of Anna Leonowens, the English schoolteacher who came to Siam in the 1860s to teach the children of King Mongkut. She becomes involved in his affairs, from the tragic plight of a young concubine to trying to forge an alliance with Britain to a war with Burma that is orchestrated by Britain. In the meantime, a subtle romance develops between them.", 
+    "genres": "Drama, History, Romance", 
+    "release_year": "1999", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Fa-Ying", 
+                    "favorite"
+                ], 
+                "role": "Spoiled Sweet: Fa-Ying, the king's favorite daughter and all the king's children, except the eldest prince.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0166485", 
+    "poster_url": "AnnaAndTheKing.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet"
+            ], 
+            "shared_count": 1, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet"
+            ], 
+            "shared_count": 1, 
+            "id": "ComingToAmerica", 
+            "name": "Coming to America", 
+            "poster_url": "ComingToAmerica.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet"
+            ], 
+            "shared_count": 1, 
+            "id": "Lincoln", 
+            "name": "Lincoln", 
+            "poster_url": "Lincoln.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet"
+            ], 
+            "shared_count": 1, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }
+    ], 
+    "id": "AnnaAndTheKing", 
+    "name": "Anna and the King"
+}

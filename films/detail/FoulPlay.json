@@ -1,0 +1,76 @@
+{
+    "plot": "When, unbeknownst to Gloria, a microfilm cassette is left with her by a dying agent, she becomes entangled in a complicated series of events. She's pursued by a dwarf and an albino, and becomes convinced that they are out to kill her. Finally, with the help of San Francisco detective Tony Carlson, she begins to turn the tables on her pursuers. It becomes clear that the nerfarious crew after her are plotting a dastardly deed indeed - to assassinate the Pope as he visits the city to see _The Mikado_. Gloria and Tony must race against time to prevent this terrible crime.", 
+    "genres": "Comedy, Mystery, Thriller", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "such", 
+                    "nice", 
+                    "old"
+                ], 
+                "role": "Badass Grandpa: Mr. Hennessey, played by Burgess Meredith, is such a nice old man. With moves like Bruce Lee.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe: Stanley wants to be a Kavorka Man but doesn't manage to get anywhere.", 
+                "id": "CasanovaWannabe"
+            }
+        ]
+    }, 
+    "imdbid": "tt0077578", 
+    "poster_url": "FoulPlay.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuHustle", 
+            "name": "Kung Fu Hustle", 
+            "poster_url": "KungFuHustle.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "VampireInBrooklyn", 
+            "name": "Vampire in Brooklyn", 
+            "poster_url": "VampireInBrooklyn.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }
+    ], 
+    "id": "FoulPlay", 
+    "name": "Foul Play"
+}

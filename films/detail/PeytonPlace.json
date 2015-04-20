@@ -1,0 +1,87 @@
+{
+    "plot": "It's the pre-WWII era. Peyton Place is a small town in New England, whose leading adult citizens rule the town with their high moral standards, which they try to pass on to their offspring. The adults, especially those that wield power largely through their positions and/or through their wealth, will not tolerate anything they believe morally improper, even if there is a hint of impropriety without comprehensive evidence to back up the hints. As their offspring grow from teenagers to adults, the offspring learn that there is much hypocrisy by the adults lying underneath that fa\u00e7ade of proper Christian morals. The offspring begin to rebel in different ways, which is brought to public scrutiny with the arrival into town of an \"outsider\", the new young high school principal Michael Rossi, and through a murder trial.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1957", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Norman Page, at least early in the book.", 
+                "id": "MommasBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Gossipy Hens: Inverted: it's the men of the town, Seth Buswell and Matt Swain, who keep themselves in the know of Peyton Place.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [
+                    "sexual", 
+                    "nervous", 
+                    "first"
+                ], 
+                "role": "Norman Page's mother in Peyton Place, who controls every aspect of his life and forbids him to spend time with girls. (Her harsh punishments have disturbing sexual connotations as well.) Her overbearing treatment is implied to contribute to Norman's nervous breakdown when he's away from her for the first time, as a soldier in World War II.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0050839", 
+    "poster_url": "PeytonPlace.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GossipyHens", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "ByeByeBirdie", 
+            "name": "Bye Bye Birdie", 
+            "poster_url": "ByeByeBirdie.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionInWinter", 
+            "name": "The Lion in Winter", 
+            "poster_url": "TheLionInWinter.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "GossipyHens", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWitchesOfEastwick", 
+            "name": "The Witches of Eastwick", 
+            "poster_url": "TheWitchesOfEastwick.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "ThrowMommaFromTheTrain", 
+            "name": "Throw Momma from the Train", 
+            "poster_url": "ThrowMommaFromTheTrain.jpg"
+        }
+    ], 
+    "id": "PeytonPlace", 
+    "name": "Peyton Place"
+}

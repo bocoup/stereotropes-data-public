@@ -1,0 +1,69 @@
+{
+    "plot": "A seminal Thirty-Something movie in which a group of old college friends who are now all grown up and hardened by the big wide world come together for the funeral of Alex, a barely glimpsed corpse, who was at one time the brightest and the best of them, and yet who never managed to achieve half as much as any of the others. The friends use the occasion to reacquaint themselves with each other and to speculate as to what happened to their idealism which had been abundant when they were younger.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "willing", 
+                    "whole", 
+                    "later", 
+                    "nice"
+                ], 
+                "role": "Corrupt Hick: Played with and subverted; Nick thinks the cop who pulled him over because he looks like a \"Yankee drug dealer\" is this, but he's willing to let the whole thing go when he recognizes Sam and asks him to recreate a stunt from his TV show (it doesn't go well). And then later, an angry Harold explains to Nick the cop had actually stopped the house from being broken into, and is a nice guy. Also, Nick is a \"Yankee drug dealer\".", 
+                "id": "CorruptHick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085244", 
+    "poster_url": "TheBigChill.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "Diggstown", 
+            "name": "Diggstown", 
+            "poster_url": "Diggstown.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "PootieTang", 
+            "name": "Pootie Tang", 
+            "poster_url": "PootieTang.jpg"
+        }
+    ], 
+    "id": "TheBigChill", 
+    "name": "The Big Chill"
+}

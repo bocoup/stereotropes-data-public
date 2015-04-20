@@ -1,0 +1,68 @@
+{
+    "plot": "This is a life story of three girlfriends from youth to autumn ages. Their dreams and wishes, love, disillusions. Different careers. And big late love.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1980", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "mechanical", 
+                    "only", 
+                    "later"
+                ], 
+                "role": "Wrench Wench: Katya gets tired of waiting for fitters to come around and fix the mechanical press that she operates, so she busts out a wrench and does it herself. She promptly is promoted and becomes the only fitter in the plant. This foreshadows her later upward mobility to plant manager.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt0079579", 
+    "poster_url": "MoscowDoesNotBelieveInTears.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "Grindhouse", 
+            "name": "Grindhouse", 
+            "poster_url": "Grindhouse.jpg"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMuppets", 
+            "name": "The Muppets", 
+            "poster_url": "TheMuppets.jpg"
+        }
+    ], 
+    "id": "MoscowDoesNotBelieveInTears", 
+    "name": "Moscow Does Not Believe in Tears"
+}

@@ -1,0 +1,76 @@
+{
+    "plot": "Harold, a prosperous English gangster, is about to close a lucrative new deal when bombs start showing up in very inconvenient places. A mysterious syndicate is trying to muscle in on his action, and Harold wants to know who they are. He finds out soon enough, and bloody mayhem ensues.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "okay"
+                ], 
+                "role": "Gayngster: One of Harold's murdered friends turns out to be one of these. Harold actually seems relatively okay with it, considering.", 
+                "id": "Gayngster"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "posh", 
+                    "well-bred"
+                ], 
+                "role": "Dark Mistress: Victoria (Helen Mirren) is an unusually posh, well-bred version of this, who claims to play Polo with Princess Anne. She acts as something of an adviser to him.", 
+                "id": "DarkMistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0081070", 
+    "poster_url": "TheLongGoodFriday.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DarkMistress"
+            ], 
+            "shared_count": 1, 
+            "id": "DrMabuseTheGambler", 
+            "name": "Dr. Mabuse, the Gambler", 
+            "poster_url": "DrMabuseTheGambler.jpg"
+        }, 
+        {
+            "shared": [
+                "DarkMistress"
+            ], 
+            "shared_count": 1, 
+            "id": "MysteryMen", 
+            "name": "Mystery Men", 
+            "poster_url": "MysteryMen.jpg"
+        }, 
+        {
+            "shared": [
+                "Gayngster"
+            ], 
+            "shared_count": 1, 
+            "id": "IchiTheKiller", 
+            "name": "Ichi the Killer", 
+            "poster_url": "IchiTheKiller.jpg"
+        }, 
+        {
+            "shared": [
+                "Gayngster"
+            ], 
+            "shared_count": 1, 
+            "id": "Performance", 
+            "name": "Performance", 
+            "poster_url": "Performance.jpg"
+        }, 
+        {
+            "shared": [
+                "DarkMistress"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "TheLongGoodFriday", 
+    "name": "The Long Good Friday"
+}

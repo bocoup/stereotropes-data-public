@@ -1,0 +1,79 @@
+{
+    "plot": "A financier [Chevy Chase] meets a spurned lover [Demi Moore] and agrees to take her to a business meeting. On the way there, they run a stop sign in a tiny town in the middle of nowhere. They are arrested and taken to the local court. But all is not as it seems: the courthouse and the \"prison\" are a maze of zany booby- traps and deadly contraptions. The antics of the captured couple as they try to escape from the mad judge and his bizarre family make up the rest of this unusual film.", 
+    "genres": "Adventure, Comedy, Horror", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: Judge Alvin Valkenheiser \u2014 and how!", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Nothing But Trouble: Judge Alvin Valkenheiser \u2014 and how!.", 
+                "id": "CorruptHick"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Wrench Wench: Again, Eldona.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102558", 
+    "poster_url": "NothingButTrouble.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "WrenchWench"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMuppets", 
+            "name": "The Muppets", 
+            "poster_url": "TheMuppets.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "WrenchWench"
+            ], 
+            "shared_count": 2, 
+            "id": "MyCousinVinny", 
+            "name": "My Cousin Vinny", 
+            "poster_url": "MyCousinVinny.jpg"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }
+    ], 
+    "id": "NothingButTrouble", 
+    "name": "Nothing But Trouble"
+}

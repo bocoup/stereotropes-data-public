@@ -1,0 +1,89 @@
+{
+    "plot": "In the early 1940s, Allen Ginsberg is an English major at Columbia University, only to learn more than he bargained for. Dissatisfied by the orthodox attitudes of the school, Allen finds himself drawn to iconoclastic colleagues like Lucien Carr, William S. Burroughs and Jack Kerouac. Together, this gang would explore bold new literary ideas that would challenge the sensibilities of their time as the future Beat Generation. However, for all their creativity, their very appetites and choices lead to more serious transgressions that would mark their lives forever.", 
+    "genres": "Biography, Drama, Romance", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "campy"
+                ], 
+                "role": "Straight Gay: Lucien, Allen, and David are all gay, but none are campy.", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lucien Carr in Kill Your Darlings manages to seduce everyone who crosses his path.", 
+                "id": "TheCharmer"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Charmer: Lucien Carr seduces almost everyone he comes into contact with.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "large", 
+                    "cast", 
+                    "physical", 
+                    "emotional"
+                ], 
+                "role": "The Tease: Lucien Carr seduces a large percentage of the cast, and is never seen fulfilling any of their physical or emotional desires.", 
+                "id": "TheTease"
+            }
+        ]
+    }, 
+    "imdbid": "tt1311071", 
+    "poster_url": "KillYourDarlings.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StraightGay", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePictureOfDorianGray", 
+            "name": "The Picture of Dorian Gray", 
+            "poster_url": "ThePictureOfDorianGray.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer"
+            ], 
+            "shared_count": 1, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWolfMan1941", 
+            "name": "The Wolf Man ", 
+            "poster_url": "TheWolfMan1941.jpg"
+        }, 
+        {
+            "shared": [
+                "TheTease"
+            ], 
+            "shared_count": 1, 
+            "id": "StarshipTroopersInvasion", 
+            "name": "Starship Troopers: Invasion"
+        }, 
+        {
+            "shared": [
+                "TheCharmer"
+            ], 
+            "shared_count": 1, 
+            "id": "ThinkLikeAMan", 
+            "name": "Think Like A Man", 
+            "poster_url": "ThinkLikeAMan.jpg"
+        }
+    ], 
+    "id": "KillYourDarlings", 
+    "name": "Kill Your Darlings"
+}

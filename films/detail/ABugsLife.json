@@ -1,0 +1,131 @@
+{
+    "plot": "Every year, a bunch of grasshoppers come to the anthill and eat what the ants have gathered for them. The \"offering\", as the ants call the ritual, is a part of their fate. One day in spring, when the offering's preparation has just been finished, Flik, unliked inventor ant, accidentally drops the whole offered seeds into the river. The grasshoppers come and give the ants a second chance to collect food until fall. Flik sets off to find bugs that are willing to fight the grasshoppers (nobody expects him to succeed anyway) and, due to a double misinterpretation, returns with a circus crew, giving everybody new hope. When the misunderstanding finally gets cleared out, there is only little time left for a new plan, which has to work, or else...", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "ant"
+                ], 
+                "role": "Disappeared Dad: Atta and Dot's father is nowhere to be seen but it's justified, because it's an ant colony.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "One-Gender"
+                ], 
+                "role": "Dude Looks Like a Lady: Francis (see One-Gender Race below)", 
+                "id": "DudeLooksLikeALady"
+            }, 
+            {
+                "adjectives": [
+                    "male", 
+                    "feminine", 
+                    "masculine"
+                ], 
+                "role": "This is Francis the male ladybug's shtick in A Bug's Life. He has a very feminine face as well as a very masculine voice. This is lampshaded a couple of times; for example, when we first meet him, two bugs in the audience start hitting on him when he performs.", 
+                "id": "DudeLooksLikeALady"
+            }, 
+            {
+                "adjectives": [
+                    "good", 
+                    "only", 
+                    "first", 
+                    "useful"
+                ], 
+                "role": "Non-Action Guy: All the circus bugs put themselves to good use during the fight with the goldfinch...except Manny, who just sits on Dim's back and then takes some of the credit for fighting the bird. He is also the only circus bug who has wings he can use and doesn't actually use them. However, he is one of the first circus bugs to pretend to be dying during the attack, and he did prove himself useful earlier with the Disappearing Box trick.", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: Princess Atta and Princess Dot", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "In A Bug's Life, there is the Queen of the Ants and later her daughter Princess Atta who is given the crown at the end.", 
+                "id": "InsectQueen"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Insect Queen: The ants are led by one. There is the Queen of the Ants, and later her daughter Princess Atta who is given the crown at the end.", 
+                "id": "InsectQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gypsy Moth from A Bug's Life is this to her praying mantis husband, Manny.", 
+                "id": "LovelyAssistant"
+            }, 
+            {
+                "adjectives": [
+                    "Assistant"
+                ], 
+                "role": "Lovely Assistant: Gypsy Moth is this to her praying mantis husband, Manny.", 
+                "id": "LovelyAssistant"
+            }
+        ]
+    }, 
+    "imdbid": "tt0174716", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "DisappearedDad", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DudeLooksLikeALady", 
+                "DisappearedDad", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "PansLabyrinth", 
+            "name": "Pan's Labyrinth", 
+            "poster_url": "PansLabyrinth.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }
+    ], 
+    "id": "ABugsLife", 
+    "name": "A Bug's Life"
+}

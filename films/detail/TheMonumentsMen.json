@@ -1,0 +1,80 @@
+{
+    "plot": "Based on the true story of the greatest treasure hunt in history, The Monuments Men is an action drama focusing on an unlikely World War II platoon, tasked by FDR with going into Germany to rescue artistic masterpieces from Nazi thieves and returning them to their rightful owners. It would be an impossible mission: with the art trapped behind enemy lines, and with the German army under orders to destroy everything as the Reich fell, how could these guys - seven museum directors, curators, and art historians, all more familiar with Michelangelo than the M-1 - possibly hope to succeed? But as the Monuments Men, as they were called, found themselves in a race against time to avoid the destruction of 1000 years of culture, they would risk their lives to protect and defend mankind's greatest achievements.", 
+    "genres": "Drama, War", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "young", 
+                    "late", 
+                    "later"
+                ], 
+                "role": "Child Soldiers: The sniper firing at two of the Monuments Men in one scene is revealed to be a young child. As this was late in the war and Germany was getting desperate, this makes sense. A POW camp shown later has a number of child soldiers.", 
+                "id": "ChildSoldiers"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "recent"
+                ], 
+                "role": "Broken Bird: Claire is clearly traumatized by not only the occupation of her city and her museum by the Nazis but the recent death of her brother. Most of the job with her is just getting her to understand that the Monuments Men will return the stolen art and not merely take it for themselves like the Russians are.", 
+                "id": "BrokenBird"
+            }
+        ]
+    }, 
+    "imdbid": "tt2177771", 
+    "poster_url": "TheMonumentsMen.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "RedDawn1984", 
+            "name": "Red Dawn ", 
+            "poster_url": "RedDawn1984.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "CityOfLifeAndDeath", 
+            "name": "City of Life and Death", 
+            "poster_url": "CityOfLifeAndDeath.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }
+    ], 
+    "id": "TheMonumentsMen", 
+    "name": "The Monuments Men"
+}

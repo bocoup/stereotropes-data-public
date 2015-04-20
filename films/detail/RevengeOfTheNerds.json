@@ -1,0 +1,138 @@
+{
+    "plot": "When lovable nerds Gilbert and Lewis embark on their freshman year at Adams College, little do they realize the perils that await them. They're beset by taunting from the jocks of Alpha Beta fraternity, which only worsens when the jocks accidentally burn down their house and toss the freshmen out of the freshmen dorm. To make matters more problematic Lewis develops a crush on pretty Betty Childs, popular sorority sister and quarterback's girlfriend. Joined by the aptly named Booger and the violin-playing Pointdexter, the nerds soon realize they must form their own fraternity in self-defence. Soon the tables are turned as the nerds employ high-tech warfare against the jocks.... but can they really win and make a difference?", 
+    "genres": "Comedy", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Lamarr", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Master Snotty", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "whole", 
+                    "full", 
+                    "due", 
+                    "second", 
+                    "ultimate"
+                ], 
+                "role": "Jerk Jock: There's a whole frat full of them, but in due course, the nerds get their revenge. And again in the second movie... And the ultimate revenge when the Alpha Jock makes a Heel-Face Turn.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "entire", 
+                    "full", 
+                    "second"
+                ], 
+                "role": "Slightly subverted, Revenge of the Nerds have a entire frat full of jerk jocks, but nerds eventually had their revenge. They got revenge again in second movie...", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "whole", 
+                    "'em"
+                ], 
+                "role": "Revenge of the Nerds pulls out a whole squad of 'em, when the Tri-Lamb head gives Gilbert the support to speak out in front of the Alpha Betas.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: The 'reinforcements' that accompany U. N. Jefferson when he comes to the aid of the Adams College Tri-Lambs.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ogre in Revenge of the Nerds", 
+                "id": "StoutStrength"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Revenge of the Nerds, Jerk Jock Stan is shown at least twice having \"problems\" (even when getting a hand job from his girlfriend Betty); this eventually leads to Betty's Heel-Face Turn when the nerdy Lewis rapes her while disguised as Stan.", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Alpha Bitch: Betty though unusually she is only seen picking on boys not other girls", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "large", 
+                    "own", 
+                    "arm-wrestling"
+                ], 
+                "role": "In Revenge of the Nerds, the homely sorority that teams up with the nerds includes a very large girl who holds her own in the arm-wrestling contest before being (narrowly) defeated by Ogre, who cries after nearly losing to her.", 
+                "id": "BrawnHilda"
+            }
+        ]
+    }, 
+    "imdbid": "tt0088000", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "CoolOldGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLongestYard", 
+            "name": "The Longest Yard", 
+            "poster_url": "TheLongestYard.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "JerkJock", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 3, 
+            "id": "VictorVictoria", 
+            "name": "Victor/Victoria"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "FiredUp", 
+            "name": "Fired Up"
+        }, 
+        {
+            "shared": [
+                "StoutStrength", 
+                "JerkJock", 
+                "BrawnHilda"
+            ], 
+            "shared_count": 3, 
+            "id": "HowToTrainYourDragon", 
+            "name": "How to Train Your Dragon", 
+            "poster_url": "HowToTrainYourDragon.jpg"
+        }
+    ], 
+    "id": "RevengeOfTheNerds", 
+    "name": "Revenge of the Nerds"
+}

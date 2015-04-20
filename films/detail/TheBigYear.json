@@ -1,0 +1,76 @@
+{
+    "plot": "In birding, a Big Year is seeing or hearing as many different species of birds as possible in a calendar year. Three men pursue the Birder of the Year title: Kenny Bostick, who's seen a record 732 in a past big year, Stu Preissler, newly retired, and Brad Harris, who narrates the story. Life gets in the way: Bostick's wife wants a baby, Stu's firm needs him for sensitive negotiations, and Brad, divorced and underemployed at 36, has an encouraging mom and a disapproving dad. They criss-cross the continent (including a trip to Alaska's westernmost island), follow migration patterns, and head for storms that force birds to ground. Who will win, at what cost, and with what rewards?", 
+    "genres": "Comedy", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Stu.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Lady: Brad's mother. Also Stu's wife, Edith.", 
+                "id": "CoolOldLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt1053810", 
+    "poster_url": "TheBigYear.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastStarfighter", 
+            "name": "The Last Starfighter", 
+            "poster_url": "TheLastStarfighter.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Hugo", 
+            "name": "Hugo", 
+            "poster_url": "Hugo.jpg"
+        }
+    ], 
+    "id": "TheBigYear", 
+    "name": "The Big Year"
+}

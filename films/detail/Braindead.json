@@ -1,0 +1,113 @@
+{
+    "plot": "N/A", 
+    "genres": "Short", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Lionel's dad drowned at the beach while trying to save him. But it turns out that his mother murdered him after catching him having an affair.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "dependent", 
+                    "unable", 
+                    "free", 
+                    "final"
+                ], 
+                "role": "Lionel from Braindead (also called Dead Alive) is a perfect example. He's so emotionally dependent on his mother that after she gets zombified he hides her in the basement, unable to bring himself to destroy her. That is, until he learns she killed his father for having an affair. That knowledge lets him break free just in time for the final battle.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Lionel. Even after she is turned into a zombie, he doesn't kill her and instead confines her in the basement. He remains devoted to her mother until  it's revealed that she drowned his father and his mistress in the bathtub.", 
+                "id": "MommasBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "social", 
+                    "worse"
+                ], 
+                "role": "Evil Matriarch: Lionel's mother. She bullies him relentlessly and sabotages his social life. After her zombification, she gets worse.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "bad"
+                ], 
+                "role": "Rita was getting there. Too bad she got a splitting headache...literally.", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [
+                    "whole"
+                ], 
+                "role": "Not to mention, the whole My Beloved Smother subplot, as well as their house, are really not unlike Psycho.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0319103", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EvilMatriarch", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 4, 
+            "id": "ThrowMommaFromTheTrain", 
+            "name": "Throw Momma from the Train", 
+            "poster_url": "ThrowMommaFromTheTrain.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLionInWinter", 
+            "name": "The Lion in Winter", 
+            "poster_url": "TheLionInWinter.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "Notorious", 
+            "name": "Notorious", 
+            "poster_url": "Notorious.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "Meganekko", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "Braindead", 
+    "name": "Braindead"
+}

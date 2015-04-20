@@ -1,0 +1,65 @@
+{
+    "plot": "Tom Wolfe's book on the history of the U.S. Space program reads like a novel, and the film has that same fictional quality. It covers the breaking of the sound barrier by Chuck Yeager to the Mercury 7 astronauts, showing that no one had a clue how to run a space program or how to select people to be in it. Thrilling, funny, charming and electrifying all at once.", 
+    "genres": "Adventure, Drama, History", 
+    "release_year": "1983", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Battleaxe Nurse: Nurse Murch.", 
+                "id": "BattleaxeNurse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0086197", 
+    "poster_url": "TheRightStuff.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "Misery", 
+            "name": "Misery", 
+            "poster_url": "Misery.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFlintstones", 
+            "name": "The Flintstones", 
+            "poster_url": "TheFlintstones.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "TheEnglishPatient", 
+            "name": "The English Patient", 
+            "poster_url": "TheEnglishPatient.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "FoxyBrown", 
+            "name": "Foxy Brown", 
+            "poster_url": "FoxyBrown.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleaxeNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "DoubleIndemnity", 
+            "name": "Double Indemnity", 
+            "poster_url": "DoubleIndemnity.jpg"
+        }
+    ], 
+    "id": "TheRightStuff", 
+    "name": "The Right Stuff"
+}

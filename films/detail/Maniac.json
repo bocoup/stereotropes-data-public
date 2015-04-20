@@ -1,0 +1,77 @@
+{
+    "plot": "Just when the streets seemed safe, a serial killer with a fetish for scalps is back and on the hunt. Frank is the withdrawn owner of a mannequin store, but his life changes when young artist Anna appears asking for his help with her new exhibition. As their friendship develops and Frank's obsession escalates, it becomes clear that she has unleashed a long-repressed compulsion to stalk and kill.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2012", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "second", 
+                    "on-screen"
+                ], 
+                "role": "Disposable Sex Worker: Frank's second on-screen victim.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Anna in both remake and original.  Subverted in the remake where she dies.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt2103217", 
+    "poster_url": "Maniac.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LaidToRest", 
+            "name": "Laid to Rest", 
+            "poster_url": "LaidToRest.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "StageFrightAquarius", 
+            "name": "StageFright -Aquarius-"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }
+    ], 
+    "id": "Maniac", 
+    "name": "Maniac"
+}

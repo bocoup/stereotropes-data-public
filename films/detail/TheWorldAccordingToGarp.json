@@ -1,0 +1,88 @@
+{
+    "plot": "Based on the John Irving novel, this film chronicles the life of T S Garp, and his mother, Jenny. Whilst Garp sees himself as a \"serious\" writer, Jenny writes a feminist manifesto at an opportune time, and finds herself as a magnet for all manner of distressed women.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "public"
+                ], 
+                "role": "In The World According To Garp by John Irving, a paedophile molests a girl in the park, then shaves off his moustache in a public toilet to avoid the police.", 
+                "id": "BeardnessProtectionProgram"
+            }, 
+            {
+                "adjectives": [
+                    "women-only"
+                ], 
+                "role": "Disguised in Drag: Garp must do this  to attend his mother's women-only memorial service.", 
+                "id": "DisguisedInDrag"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Woman: \"Mrs Ralph.\" Garp is tempted.", 
+                "id": "DirtyOldWoman"
+            }, 
+            {
+                "adjectives": [
+                    "catatonic"
+                ], 
+                "role": "The World According To Garp has the hero's mother screw a catatonic soldier dying in the hospital because she wants a child but can't stand men.", 
+                "id": "NaughtyNurseOutfit"
+            }
+        ]
+    }, 
+    "imdbid": "tt0084917", 
+    "poster_url": "TheWorldAccordingToGarp.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardnessProtectionProgram", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "LupinIIIOperationReturnTheTreasure", 
+            "name": "Lupin III Operation Return The Treasure"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "SororityBoys", 
+            "name": "Sorority Boys", 
+            "poster_url": "SororityBoys.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }
+    ], 
+    "id": "TheWorldAccordingToGarp", 
+    "name": "The World According To Garp"
+}

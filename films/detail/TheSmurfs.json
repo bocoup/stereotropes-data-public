@@ -1,0 +1,128 @@
+{
+    "plot": "When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world and into ours -- in fact, smack dab in the middle of Central Park. Just three apples high and stuck in the Big Apple, the Smurfs must find a way to get back to their village before Gargamel tracks them down.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Papa Smurf, considering he\u2019s voiced by Grandpa Smurf.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "full"
+                ], 
+                "role": "Gutsy Smurf in The Smurfs has full regalia plus an accent to match. However, he does wear Smurf pants underneath his kilt.", 
+                "id": "ManInAKilt"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "\u201cI"
+                ], 
+                "role": "Smurf In A Kilt: Gutsy. For laughs, he is clearly wearing Smurf pants underneath, but the other Smurfs react as if he is \"nae trews.\" He concludes the film with some \u201cI \u2665 NY\u201d underpants.", 
+                "id": "ManInAKilt"
+            }, 
+            {
+                "adjectives": [
+                    "obvious"
+                ], 
+                "role": "Papa Wolf: Papa Smurf is the most obvious example, but Patrick has his moments as well.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "usual", 
+                    "impressive"
+                ], 
+                "role": "Action Girl: Smurfette is mostly the chick as usual, but gets an impressive solo action scene against Azrael.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Little Girls Kick Shins: A little girl in FAO Schwarz kicks Patrick Winslow when she sees him take her \"toy\u00a0actually Clumsy\" away.", 
+                "id": "LittleGirlsKickShins"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Patrick Winslow's boss Odile Jouvenel in The Smurfs.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Patrick's boss.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Smurfette, subverted by her solo action scene.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0472181", 
+    "poster_url": "TheSmurfs.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLastStand", 
+            "name": "The Last Stand", 
+            "poster_url": "TheLastStand.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BadassGrandpa", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Sharknado", 
+            "name": "Sharknado"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Machete", 
+            "name": "Machete", 
+            "poster_url": "Machete.jpg"
+        }
+    ], 
+    "id": "TheSmurfs", 
+    "name": "The Smurfs"
+}

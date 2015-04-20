@@ -1,0 +1,78 @@
+{
+    "plot": "Kenya McQueen is a successful African-American CPA, working her way to the top of the corporate ladder -- but her life has become all work and no play. Urged on by her friends to try something new and to let go of her dream of the \"ideal black man,\" she accepts a blind date with an architectural landscaper named Brian, only to cut the date short upon first sight, because Brian is white. The two meet again at a party, and Kenya hires Brian to landscape her new home. Over time, they hit it off, but Kenya's reservations about the acceptance their romance will find among her friends and family threatens everything. An intelligent romantic comedy that chooses to deal with issues of race and perception in a straight-forward way, from a point of view not often seen: that of a successful, upper-class black woman.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Kenya's younger brother Nelson.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Kenya, who gets along far better with her father than her mother.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Kenya is very much this Something New.", 
+                "id": "DaddysGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0437777", 
+    "poster_url": "SomethingNew.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "EnterTheDragon", 
+            "name": "Enter the Dragon"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGreatBeauty", 
+            "name": "The Great Beauty", 
+            "poster_url": "TheGreatBeauty.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "KamenRider", 
+            "name": "Kamen Rider"
+        }
+    ], 
+    "id": "SomethingNew", 
+    "name": "Something New"
+}

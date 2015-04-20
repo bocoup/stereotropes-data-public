@@ -1,0 +1,87 @@
+{
+    "plot": "When a meteorite falls to Earth two college professors, Dr. Ira Kane and Prof. Harry Phineas Block, are assigned the job of checking the site out. At the site, they discover organisms not of this planet. Soon the site is taken over by the government, forcing Ira and Harry to the side. As the new life-forms begin to evolve and start to get more and more dangerous, it's up to the two professors to save the planet.", 
+    "genres": "Comedy, Sci-Fi", 
+    "release_year": "2001", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cute Clumsy Girl: Dr. Allison Reed. She trips over sand. And it was Julianne Moore's idea.", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Julianne Moore in Evolution perpetually trips over things, walks into walls, etc., to the point that one wonders how she's survived as long as she has.", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Allison or, for that matter, Ira or Harry, depending on one's gender/orientation.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick/The Sixth Ranger: Allison.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0251075", 
+    "poster_url": "Evolution.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "HaloLegends", 
+            "name": "Halo Legends", 
+            "poster_url": "HaloLegends.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "Species", 
+            "name": "Species", 
+            "poster_url": "Species.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }
+    ], 
+    "id": "Evolution", 
+    "name": "Evolution"
+}

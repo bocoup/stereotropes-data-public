@@ -1,0 +1,75 @@
+{
+    "plot": "Charlie is a tramp on the road. A hobo manages to exchange Charlie's sandwich for a brick so Charlie must eat grass. The same hobo molests a farmer's daughter; Charlie comes to aid with the help of the brick. When two more hobos show up Charlie throws all three into a lake. The grateful girl takes Charlie home where he fails as a farmhand. He again helps drive off the hobos (who are now trying to break into the house). The girl's fiance arrives. Though a hero, Charlie, knowing he must go, writes a farewell note and leaves for the open road.", 
+    "genres": "Short, Comedy", 
+    "release_year": "1915", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "dangerous"
+                ], 
+                "role": "Hobos: Three of them, who are a lot meaner and more dangerous than Charlie is.", 
+                "id": "Hobos"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "innocent"
+                ], 
+                "role": "Farmer's Daughter: This one being a particularly innocent example.", 
+                "id": "FarmersDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0006177", 
+    "poster_url": "TheTramp.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Hobos", 
+                "FarmersDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "FarmersDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "FarmersDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "GuysAndDolls", 
+            "name": "Guys And Dolls", 
+            "poster_url": "GuysAndDolls.jpg"
+        }, 
+        {
+            "shared": [
+                "Hobos"
+            ], 
+            "shared_count": 1, 
+            "id": "HoboWithAShotgun", 
+            "name": "Hobo With a Shotgun", 
+            "poster_url": "HoboWithAShotgun.jpg"
+        }, 
+        {
+            "shared": [
+                "FarmersDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBeverlyHillbillies", 
+            "name": "The Beverly Hillbillies", 
+            "poster_url": "TheBeverlyHillbillies.jpg"
+        }
+    ], 
+    "id": "TheTramp", 
+    "name": "The Tramp"
+}

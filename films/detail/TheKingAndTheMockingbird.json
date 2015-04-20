@@ -1,0 +1,79 @@
+{
+    "plot": "A chimney sweep and a shepherdess seek to escape from the clutches of a tyrannical king.", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bish\u014dnen"
+                ], 
+                "role": "Bish\u014dnen: The Chimney Sweep.", 
+                "id": "Bishonen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crusading Widower: The mockingbird.", 
+                "id": "CrusadingWidower"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: The mockingbird.", 
+                "id": "PapaWolf"
+            }
+        ]
+    }, 
+    "imdbid": "tt0079820", 
+    "poster_url": "TheKingAndTheMockingbird.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "CrusadingWidower"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CrusadingWidower"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIncredibles", 
+            "name": "The Incredibles"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CrusadingWidower"
+            ], 
+            "shared_count": 2, 
+            "id": "WhiteHouseDown", 
+            "name": "White House Down", 
+            "poster_url": "WhiteHouseDown.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CrusadingWidower"
+            ], 
+            "shared_count": 2, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "Bishonen", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManFromNowhere", 
+            "name": "The Man From Nowhere"
+        }
+    ], 
+    "id": "TheKingAndTheMockingbird", 
+    "name": "The King And The Mockingbird"
+}

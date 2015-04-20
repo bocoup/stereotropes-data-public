@@ -1,0 +1,79 @@
+{
+    "plot": "Science has announced the discovery of a lost land hidden inside the warm pocket of a dormant volcano under the polar ice cap. Masten Thrust, a billionaire oil tycoon and big-game hunter, is recruited to lead a team there to study the last living dinosaurs. Upon arriving, Thrust and his team find that the hidden world is populated with both dinosaurs and prehistoric humans. While the humans give the explorers a fair bit of trouble, the real danger is the hungry tyrannosaur intent on making lunch out of the Great White Hunter and his crew.", 
+    "genres": "Adventure, Sci-Fi", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "complete", 
+                    "black"
+                ], 
+                "role": "Great White Hunter: Masten Thrust, complete with a black tracker to carry his rifle for him.", 
+                "id": "GreatWhiteHunter"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Wade, who honestly is the whiniest of the group.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0076294", 
+    "poster_url": "TheLastDinosaur.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMostDangerousGame", 
+            "name": "The Most Dangerous Game", 
+            "poster_url": "TheMostDangerousGame.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 2, 
+            "id": "JurassicPark", 
+            "name": "Jurassic Park", 
+            "poster_url": "JurassicPark.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheItalianJob1969", 
+            "name": "The Italian Job", 
+            "poster_url": "TheItalianJob1969.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLostWorldJurassicPark", 
+            "name": "The Lost World: Jurassic Park", 
+            "poster_url": "TheLostWorldJurassicPark.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "TheLastDinosaur", 
+    "name": "The Last Dinosaur"
+}

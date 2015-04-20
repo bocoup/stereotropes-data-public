@@ -1,0 +1,100 @@
+{
+    "plot": "A half-wolf, half-husky named Balto gets a chance to become a hero when an outbreak of diphtheria threatens the children of Nome, Alaska in the winter of 1925. He leads a dog team on a 600-mile trip across the Alaskan wilderness to get medical supplies. The film is based on a true story which inspired the Iditarod dog sled race.", 
+    "genres": "Animation, Adventure, Drama", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Steele, eventually.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Villainous"
+                ], 
+                "role": "In Balto, Steele has a Villainous Crush on Jenna, who doesn't reciprocate the sentiment and shows more interest in his rival, Balto. Needless to say, he doesn't take it well.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: Boris.", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Jenna pulls this in the first film. She attacks the bear about to kill Balto and saves his life.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "other"
+                ], 
+                "role": "Ill Girl: Rosie, as well as many other children in Nome.", 
+                "id": "IllGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112453", 
+    "poster_url": "Balto.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IllGirl", 
+                "GrumpyOldMan", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheSecretOfNIMH", 
+            "name": "The Secret of NIMH", 
+            "poster_url": "TheSecretOfNIMH.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Titanic", 
+            "name": "Titanic", 
+            "poster_url": "Titanic.jpg"
+        }
+    ], 
+    "id": "Balto", 
+    "name": "Balto"
+}

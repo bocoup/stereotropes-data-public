@@ -1,0 +1,97 @@
+{
+    "plot": "Barbie comes to life in her third animated movie, based on the beloved fairy tale and set to the brilliant music of Tchaikovsky. Barbie as Odette, the young daughter of a baker, follows a unicorn into the Enchanted Forest and is transformed into a swan by an evil wizard intent on defeating the Fairy Queen.", 
+    "genres": "Animation, Family", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Rebel Prince: Daniel, who would rather explore than rule.", 
+                "id": "RebelPrince"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Bratty Teenage Daughter: Odile.", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Odile.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Daddy's Little Villain: Odile.", 
+                "id": "DaddysLittleVillain"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "The High Queen: Daniel's mother, as well as the Fairy Queen.", 
+                "id": "TheHighQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Lila the unicorn. Marie as well. Carlita as well.", 
+                "id": "Tomboy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0383206", 
+    "poster_url": "BarbieOfSwanLake.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "BendItLikeBeckham", 
+            "name": "Bend It Like Beckham", 
+            "poster_url": "BendItLikeBeckham.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "DaddysLittleVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieInThePinkShoes", 
+            "name": "Barbie In The Pink Shoes"
+        }, 
+        {
+            "shared": [
+                "RebelPrince", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }
+    ], 
+    "id": "BarbieOfSwanLake", 
+    "name": "Barbie of Swan Lake"
+}

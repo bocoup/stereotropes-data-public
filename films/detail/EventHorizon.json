@@ -1,0 +1,72 @@
+{
+    "plot": "In the year 2047 a group of astronauts are sent to investigate and salvage the long lost starship \"Event Horizon\". The ship disappeared mysteriously 7 years before on its maiden voyage and with its return comes even more mystery as the crew of the \"Lewis and Clark\" discover the real truth behind its disappearance and something even more terrifying.", 
+    "genres": "Horror, Sci-Fi", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Laurence Fishburne, again, in Event Horizon, this time as the captain of a spaceship.", 
+                "id": "BaldBlackLeaderGuy"
+            }, 
+            {
+                "adjectives": [
+                    "protective"
+                ], 
+                "role": "Papa Wolf: Miller is very protective of his crew. See Punctuated Pounding below.", 
+                "id": "PapaWolf"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119081", 
+    "poster_url": "EventHorizon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "BaldBlackLeaderGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "LandOfTheDead", 
+            "name": "Land of the Dead", 
+            "poster_url": "LandOfTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "GodzillaVsDestoroyah", 
+            "name": "Godzilla vs. Destoroyah"
+        }
+    ], 
+    "id": "EventHorizon", 
+    "name": "Event Horizon"
+}

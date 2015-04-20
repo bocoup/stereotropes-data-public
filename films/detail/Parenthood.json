@@ -1,0 +1,102 @@
+{
+    "plot": "The story of the Buckman family and friends, attempting to bring up their children. They suffer/enjoy all the events that occur: estranged relatives, the \"black sheep\" of the family, the eccentrics, the skeletons in the closet, and the rebellious teenagers.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Disappeared Dad: A good deal of Helen's troubles with her kids stems from her divorce. Larry becomes one when he ditches his son on his parents.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: See Mama Bear.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Bratty Teenage Daughter: Julie.", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "awesome"
+                ], 
+                "role": "Cool Old Lady: Grandma might get passed around the family like a fruitcake but she's pretty awesome when it comes down to it.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Don't mess with any of the Buckman children. Ever.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098067", 
+    "poster_url": "Parenthood.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "BrattyTeenageDaughter", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "ClassOf1984", 
+            "name": "Class Of", 
+            "poster_url": "ClassOf1984.jpg"
+        }
+    ], 
+    "id": "Parenthood", 
+    "name": "Parenthood"
+}

@@ -1,0 +1,88 @@
+{
+    "plot": "The life of 'Edward D. Wood Jr.', hailed as the worst director (of Plan 9 from Outer Space (1959), Glen or Glenda (1953) and Bride of the Monster (1955)) of all time.", 
+    "genres": "Biography, Comedy, Drama", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Bunny.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Ed towards movies.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Keet: Ed Wood", 
+                "id": "Keet"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "White Dwarf Star: Bela Lugosi.", 
+                "id": "WhiteDwarfStarlet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109707", 
+    "poster_url": "EdWood.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTurningPoint", 
+            "name": "The Turning Point", 
+            "poster_url": "TheTurningPoint.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheProducers", 
+            "name": "The Producers", 
+            "poster_url": "TheProducers.jpg"
+        }
+    ], 
+    "id": "EdWood", 
+    "name": "Ed Wood"
+}

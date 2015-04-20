@@ -1,0 +1,107 @@
+{
+    "plot": "Scotty Smalls moves to a new neighborhood with his mom and stepdad, and wants to learn to play baseball. The neighborhood baseball guru Rodriquez takes Smalls under his wing, and soon he's part of the local baseball buddies. They fall into adventures involving baseball, treehouse sleep-ins, the desirous lifeguard at the local pool, the snooty rival ball team, and the travelling fair. Beyond the fence at the back of the sandlot menaces a legendary ball-eating dog called The Beast, and the kids inevitably must deal with him.", 
+    "genres": "Comedy, Drama, Family", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "former", 
+                    "professional"
+                ], 
+                "role": "Cool Old Guy: Mr. Mertle, The Beast's owner.  He's a former professional baseball player who raised The Beast.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: What everyone assume Mr. Mertle to be. \"He's the one who made the Beast eat that kid!\"  He's actually a Cool Old Guy.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "ferocious", 
+                    "such", 
+                    "wacky"
+                ], 
+                "role": "Subverted in The Sandlot: Mr. Mertle (James Earl Jones) is the owner of a ferocious dog known as \"The Beast\" and, as one kid tells it, will sic him on any kid who dares to climb into his backyard, which is why they have to go through such wacky hijinx to get their baseball back. When they tell Mr. Mertle about it, he's flabbergasted, since he would have retrieved the baseball himself if they'd just asked him.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "Yeah-yeah", 
+                    "second"
+                ], 
+                "role": "Hello, Nurse!: Wendy Peffercorn has two scenes. The first has just Squints and Yeah-yeah staring at her entranced. The second, in the pool, has all nine boys staring at her.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Wendy Peffercorn has two scenes that show her reducing Squints to ga-ga eyes just by existing.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0108037", 
+    "poster_url": "TheSandlot.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "HorribleBosses", 
+            "name": "Horrible Bosses", 
+            "poster_url": "HorribleBosses.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TransformersRevengeOfTheFallen", 
+            "name": "Transformers: Revenge of The Fallen", 
+            "poster_url": "TransformersRevengeOfTheFallen.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HelloNurse", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }
+    ], 
+    "id": "TheSandlot", 
+    "name": "The Sandlot"
+}

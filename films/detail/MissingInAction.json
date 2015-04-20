@@ -1,0 +1,82 @@
+{
+    "plot": "Colonel James Braddock is an American officer who spent seven years in a North Vietnamese POW camp, then escaped 10 years ago. After the bloodiest war, Braddock accompanies a government investigation team that goes to Ho Chi Minh City to check out reports of Americans still held prisoner. Braddock gets the evidence then travels to Thailand, where he meets Tuck, an old Army buddy turned black market kingpin. Together, they launch a mission deep into the jungle to free the American POWs from General Trau.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Braddock.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: General Trau's aide, the NVA officer who tortures Braddock in MIA 1 and General Quoc in MIA 3.", 
+                "id": "BeardOfEvil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Braddock's wife, Lin.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087727", 
+    "poster_url": "MissingInAction.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "LastActionHero", 
+            "name": "Last Action Hero", 
+            "poster_url": "LastActionHero.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TransformersDarkOfTheMoon", 
+            "name": "Transformers: Dark of the Moon", 
+            "poster_url": "TransformersDarkOfTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "FlashGordon", 
+            "name": "Flash Gordon", 
+            "poster_url": "FlashGordon.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "JackTheGiantKiller", 
+            "name": "Jack the Giant Killer", 
+            "poster_url": "JackTheGiantKiller.jpg"
+        }
+    ], 
+    "id": "MissingInAction", 
+    "name": "Missing in Action"
+}

@@ -1,0 +1,96 @@
+{
+    "plot": "Lara inspires lechery in Komarovsky (her mother's lover who is a master at surviving whoever runs Russia) and can't compete with passion for the revolution of the man she marries, Pasha. Her true love is Zhivago who also loves his wife. Lara is the one who inspires poetry. The story is narrated by Zhivago's half brother Yevgraf, who has made his career in the Soviet Army. At the beginning of the film he is about to meet a young woman he believes may be the long lost daughter of Lara and Zhivago.", 
+    "genres": "Drama, Romance, War", 
+    "release_year": "1965", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Sorrow: Both the film and the tv serial show Yuri growing a beard when he is conscripted into the Red Partisan army.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "Russian", 
+                    "medical", 
+                    "old", 
+                    "old", 
+                    "bastard"
+                ], 
+                "role": "In Doctor Zhivago, during the Russian Civil War, the Red Army unit in which Zhivago is serving as a medical officer comes under fire from a (presumably White) machine-gun nest in the distance. The Reds shoot all their attackers dead, then approach the nest and find that, while they are wearing some sort of uniform, they are only boys, except for one old man. One Red looks closer at a uniform and says, astonished, \"St. Michael's Military School?!\" To the dead old man: \"You rotten bastard!\"", 
+                "id": "ChildSoldiers"
+            }, 
+            {
+                "adjectives": [
+                    "big", 
+                    "'60s"
+                ], 
+                "role": "Mr. Fanservice: Omar was big in the '60s.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Lara.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0059113", 
+    "poster_url": "DoctorZhivago.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "DamselInDistress", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendsOfTheFall", 
+            "name": "Legends Of The Fall"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }
+    ], 
+    "id": "DoctorZhivago", 
+    "name": "Doctor Zhivago"
+}

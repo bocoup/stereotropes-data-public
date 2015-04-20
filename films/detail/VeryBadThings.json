@@ -1,0 +1,87 @@
+{
+    "plot": "A group of friends head to Las Vegas for a bachelor party.. only things go wrong and a woman is killed. Soon, the bodies are piling up and the friends find themselves turning against one another as the coverup builds.", 
+    "genres": "Comedy, Crime, Thriller", 
+    "release_year": "1998", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "willing"
+                ], 
+                "role": "Bridezilla: Laura. She is willing to commit murder to ensure that nothing spoils her dream wedding.", 
+                "id": "Bridezilla"
+            }, 
+            {
+                "adjectives": [
+                    "willing"
+                ], 
+                "role": "Laura (Cameron Diaz) in Very Bad Things. She is willing to commit murder to ensure that nothing spoils her dream wedding.", 
+                "id": "Bridezilla"
+            }, 
+            {
+                "adjectives": [
+                    "Disposable"
+                ], 
+                "role": "Disposable Sex Worker", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "The premise of Very Bad Things is that the main characters accidentally kill a hooker and try cover it up.", 
+                "id": "DisposableSexWorker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0124198", 
+    "poster_url": "VeryBadThings.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "DarkCity", 
+            "name": "Dark City"
+        }, 
+        {
+            "shared": [
+                "Bridezilla"
+            ], 
+            "shared_count": 1, 
+            "id": "BrideWars", 
+            "name": "Bride Wars", 
+            "poster_url": "BrideWars.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBurning", 
+            "name": "The Burning", 
+            "poster_url": "TheBurning.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "IchiTheKiller", 
+            "name": "Ichi the Killer", 
+            "poster_url": "IchiTheKiller.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCurseOfTheWerewolf", 
+            "name": "The Curse of the Werewolf", 
+            "poster_url": "TheCurseOfTheWerewolf.jpg"
+        }
+    ], 
+    "id": "VeryBadThings", 
+    "name": "Very Bad Things"
+}

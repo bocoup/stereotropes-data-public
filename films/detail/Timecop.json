@@ -1,0 +1,74 @@
+{
+    "plot": "When the ability to travel through time is perfected, a new type of law enforcement agency is formed. It's called Time Enforcement Commission or TEC. A cop, Max Walker, is assigned to the group. On the day he was chosen, some men attack him and kill his wife. Ten years later Max is still grieving but has become a good agent for the TEC. He tracks down a former co-worker who went into the past to make money. Max brings him back for sentencing but not after telling Max that Senator McComb, the man in charge of TEC, sent him. Max has his eye on McComb.", 
+    "genres": "Action, Crime, Sci-Fi", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: McComb has got one.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "clean-shaven", 
+                    "notable"
+                ], 
+                "role": "Beard of Sorrow: While '94 Max is clean-shaven, the Max of 2004 who's lost Melissa has notable Perma Stubble.", 
+                "id": "BeardOfSorrow"
+            }
+        ]
+    }, 
+    "imdbid": "tt0111438", 
+    "poster_url": "Timecop.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "HeavyRain", 
+            "name": "Heavy Rain"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDarkKnightRises", 
+            "name": "The Dark Knight Rises", 
+            "poster_url": "TheDarkKnightRises.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }
+    ], 
+    "id": "Timecop", 
+    "name": "Timecop"
+}

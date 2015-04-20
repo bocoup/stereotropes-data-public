@@ -1,0 +1,75 @@
+{
+    "plot": "An ancient urn is found in a cemetery outside Rome. Once opened, it triggers a series of violent incidents: robberies, rapes and murders increase dramatically, while several mysterious, evil-looking young women coming from all over the world are gathering in the city. All these events are caused by the return of Mater Lacrimarum, the last of three powerful witches who have been spreading terror and death for centuries. Alone against an army of psychos and demons, Sarah Mandy, an art student who seems to have supernatural abilities of her own, is the only person left to prevent the Mother of Tears from destroying Rome.", 
+    "genres": "Horror", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Papa Wolf: Michael, who goes after the witches on his own when  his son is kidnapped. He fails.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Hecate Sisters: The Three Mothers. Also, the trope's use in mythology is lampshaded.", 
+                "id": "TheHecateSisters"
+            }
+        ]
+    }, 
+    "imdbid": "tt0804507", 
+    "poster_url": "MotherOfTears.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "TheHecateSisters"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "TheHecateSisters"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }
+    ], 
+    "id": "MotherOfTears", 
+    "name": "Mother of Tears"
+}

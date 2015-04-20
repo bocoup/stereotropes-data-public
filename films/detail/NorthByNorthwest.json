@@ -1,0 +1,110 @@
+{
+    "plot": "Madison Avenue advertising man Roger Thornhill finds himself thrust into the world of spies when he is mistaken for a man by the name of George Kaplan. Foreign spy Philip Vandamm and his henchman Leonard try to eliminate him but when Thornhill tries to make sense of the case, he is framed for murder. Now on the run from the police, he manages to board the 20th Century Limited bound for Chicago where he meets a beautiful blond, Eve Kendall, who helps him to evade the authorities. His world is turned upside down yet again when he learns that Eve isn't the innocent bystander he thought she was. Not all is as it seems however, leading to a dramatic rescue and escape at the top of Mt. Rushmore.", 
+    "genres": "Adventure, Mystery, Thriller", 
+    "release_year": "1959", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Depraved Homosexual: Leonard is implied to be one.", 
+                "id": "DepravedHomosexual"
+            }, 
+            {
+                "adjectives": [
+                    "jealous"
+                ], 
+                "role": "Van Damme's henchman Leonard in North by Northwest is subtly this (according to Martin Landau, the actor who played him). He's jealous of Eve Kendall's relationship with his boss and says things like \"Call it my woman's intuition, if you will\".", 
+                "id": "DepravedHomosexual"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Thornhill, at least to the extent that it's Mother who he calls to bail him out of jail and assist him in casing \"Kaplan\"'s room at the Plaza.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [
+                    "double-agent", 
+                    "jealous"
+                ], 
+                "role": "Sissy Villain: Leonard refers to his suspicion of who the double-agent is as his \"woman's intuition\" and Vandamm comments that he thinks Leonard is jealous of his relationship with Eve.", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Eve Kendall.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Eve Kendall in North by Northwest.  Although it turns out that she was a Reverse Mole all along.", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Eve in North by Northwest. Doubly so once it's revealed she's the Reverse Mole working for the United States government.", 
+                "id": "MataHari"
+            }
+        ]
+    }, 
+    "imdbid": "tt0053125", 
+    "poster_url": "NorthByNorthwest.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "SissyVillain", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "MillersCrossing", 
+            "name": "Miller's Crossing", 
+            "poster_url": "MillersCrossing.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "SissyVillain", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "StrangersOnATrain", 
+            "name": "Strangers on a Train", 
+            "poster_url": "StrangersOnATrain.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "MataHari", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "DepravedHomosexual", 
+                "SissyVillain"
+            ], 
+            "shared_count": 3, 
+            "id": "DiamondsAreForever", 
+            "name": "Diamonds Are Forever", 
+            "poster_url": "DiamondsAreForever.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }
+    ], 
+    "id": "NorthByNorthwest", 
+    "name": "North by Northwest"
+}

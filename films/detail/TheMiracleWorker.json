@@ -1,0 +1,73 @@
+{
+    "plot": "Young Helen Keller, blind, deaf, and mute since infancy, is in danger of being sent to an institution. Her inability to communicate has left her frustrated and violent. In desperation, her parents seek help from the Perkins Institute, which sends them a \"half-blind Yankee schoolgirl\" named Annie Sullivan to tutor their daughter. Through persistence and love, and sheer stubbornness, Annie breaks through Helen's walls of silence and darkness and teaches her to communicate.", 
+    "genres": "Biography, Drama", 
+    "release_year": "1962", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Maiden Aunt: Aunt Ev", 
+                "id": "MaidenAunt"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "young"
+                ], 
+                "role": "The Miracle Worker alludes to Psycho Lesbians existing in the asylum which Annie Sullivan grew up in: \"The asylum? [...] There were [...] some of the kind that keep after other girls, especially the young ones.\"", 
+                "id": "PsychoLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0056241", 
+    "poster_url": "TheMiracleWorker.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MaidenAunt"
+            ], 
+            "shared_count": 1, 
+            "id": "AuntieMame", 
+            "name": "Auntie Mame", 
+            "poster_url": "AuntieMame.jpg"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian"
+            ], 
+            "shared_count": 1, 
+            "id": "Barbarella", 
+            "name": "Barbarella", 
+            "poster_url": "Barbarella.jpg"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLinguiniIncident", 
+            "name": "The Linguini Incident", 
+            "poster_url": "TheLinguiniIncident.jpg"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian"
+            ], 
+            "shared_count": 1, 
+            "id": "ElTopo", 
+            "name": "El Topo", 
+            "poster_url": "ElTopo.jpg"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian"
+            ], 
+            "shared_count": 1, 
+            "id": "RedSonja", 
+            "name": "Red Sonja", 
+            "poster_url": "RedSonja.jpg"
+        }
+    ], 
+    "id": "TheMiracleWorker", 
+    "name": "The Miracle Worker"
+}

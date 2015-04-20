@@ -1,0 +1,75 @@
+{
+    "plot": "A fish-out-of-water comedy about a talented street drummer from Harlem who enrolls in a Southern university, expecting to lead its marching band's drumline to victory. He initially flounders in his new world, before realizing that it takes more than talent to reach the top.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Deidre.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0303933", 
+    "poster_url": "Drumline.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Dinosaur", 
+            "name": "Dinosaur", 
+            "poster_url": "Dinosaur.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Deadpool", 
+            "name": "Deadpool"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "ToyStory", 
+            "name": "Toy Story", 
+            "poster_url": "ToyStory.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }
+    ], 
+    "id": "Drumline", 
+    "name": "Drumline"
+}

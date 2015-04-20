@@ -1,0 +1,111 @@
+{
+    "plot": "Khoi, a naive twenty-year-old, travels to Ho Chi Minh City from the countryside to begin a new life. It's his first time in the big city and he's looking for a place to live. He befriends Dong, a handsome extrovert who offers to share his apartment. When Khoi goes to check the place out, he meets Lam, who also appears to be living there. Khoi decides to stay, but while he showers, Dong and Lam - who turn out to be boyfriends - run off with all his cash and belongings. It's not long before Lam is himself abandoned by Dong, and winds up back on the street as a prostitute. Meanwhile the penniless and disillusioned Khoi takes on menial jobs to survive. Lam and Khoi are eventually reunited, and despite Lam's past actions, the two become closer and closer - even though Khoi becomes more and more troubled by Lam's dangerous source of income. At the same time, Cuoi, a mentally handicapped man abandoned by his family, attempts to befriend a female prostitute. Her pimps do not take kindly to his hanging around and scaring away customers, but she takes pity on him and ultimately becomes his protector.", 
+    "genres": "Drama", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "\u0110\u00f4ng"
+                ], 
+                "role": "Bastard Boyfriend: \u0110\u00f4ng.", 
+                "id": "BastardBoyfriend"
+            }, 
+            {
+                "adjectives": [
+                    "male"
+                ], 
+                "role": "Camp Gay: Some of the male sex workers and their customers. One patron is outrageously so, which is Played for Laughs, and Lam is also borderline.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "\u0110\u00f4ng", 
+                    "muscular", 
+                    "aggressive"
+                ], 
+                "role": "Manly Gay: \u0110\u00f4ng - muscular, very aggressive and dominating. Kh\u00f4i would be this if not for him crying a lot.", 
+                "id": "ManlyGay"
+            }, 
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "Straight Gay: The main gay characters are this, to varying degrees.", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Yaoi Guys: Lam and Kh\u00f4i. Contrary to intuition, Lam is the Seme despite being less buff than Kh\u00f4i.", 
+                "id": "YaoiGuys"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "H\u1ea1nh", 
+                    "questionable"
+                ], 
+                "role": "Hooker with a Heart of Gold: H\u1ea1nh and Lam. That said, some of the latter's actions are way too questionable.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt2043880", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHouseOfTheSpirits", 
+            "name": "The House of the Spirits", 
+            "poster_url": "TheHouseOfTheSpirits.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "ManlyGay"
+            ], 
+            "shared_count": 3, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "JesusChristSuperstar", 
+            "name": "Jesus Christ Superstar", 
+            "poster_url": "JesusChristSuperstar.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }
+    ], 
+    "id": "LostInParadise", 
+    "name": "Lost In Paradise"
+}

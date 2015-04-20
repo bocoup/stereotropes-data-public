@@ -1,0 +1,114 @@
+{
+    "plot": "After discovering a passenger ship missing since 1962 floating adrift on the Bering Sea, salvagers claim the vessel as their own. Once they begin towing the ghost ship towards harbor, a series of bizarre ocurrences happen and the group becomes trapped inside the ship, which they soon learn is inhabited by a demonic creature.", 
+    "genres": "Horror, Mystery", 
+    "release_year": "2002", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "good", 
+                    "only"
+                ], 
+                "role": "Final Girl: Epps lasts the longest of any good character, and is eventually the only survivor.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady in Red: Francesca.", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [
+                    "typical", 
+                    "Italian", 
+                    "primary"
+                ], 
+                "role": "Francesca in Ghost Ship is the typical sultry lounge singer, but on a luxury Italian cruiseship. She participates in the massacre on the ship and uses her wiles to seduce men to their deaths, and as a ghost is serving the primary villain to lure more men to their deaths.", 
+                "id": "TheChanteuse"
+            }, 
+            {
+                "adjectives": [
+                    "typical", 
+                    "Italian", 
+                    "primary"
+                ], 
+                "role": "The Chanteuse: Francesca is the typical sultry lounge singer, but on a luxury Italian cruiseship. She participates in the massacre on the ship and uses her wiles to seduce men to their deaths, and as a ghost is serving the primary villain to lure more men to their deaths.", 
+                "id": "TheChanteuse"
+            }, 
+            {
+                "adjectives": [
+                    "supernatural", 
+                    "much", 
+                    "supernatural"
+                ], 
+                "role": "Not only was Francesca in Ghost Ship involved in the mass murder, but she also seduced one of the crooks into killing his comrades before offing him herself. Unfortunately for her, her feminine wiles don't work on  supernatural beings, but even after death she's still just as much a vamp as she was in life, tempting Greer and leading him to his doom. Inverted when Francesca's backstory reveals that said supernatural being actually seduced her into playing her role in the scheme.", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [
+                    "supernatural", 
+                    "much", 
+                    "supernatural"
+                ], 
+                "role": "The Vamp: Not only was Francesca involved in the mass murder, but she also seduced one of the crooks into killing his comrades before offing him herself. Unfortunately for her, her feminine wiles don't work on  supernatural beings, but even after death she's still just as much a vamp as she was in life, tempting Greer and leading him to his doom. Inverted when Francesca's backstory reveals that said supernatural being actually seduced her into playing her role in the scheme.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0288477", 
+    "poster_url": "GhostShip.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChanteuse", 
+                "LadyInRed"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HellraiserBloodline", 
+            "name": "Hellraiser: Bloodline", 
+            "poster_url": "HellraiserBloodline.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse", 
+                "LadyInRed"
+            ], 
+            "shared_count": 2, 
+            "id": "RedHotRidingHood", 
+            "name": "Red Hot Riding Hood"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "LadyInRed"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "InglouriousBasterds", 
+            "name": "Inglourious Basterds", 
+            "poster_url": "InglouriousBasterds.jpg"
+        }
+    ], 
+    "id": "GhostShip", 
+    "name": "Ghost Ship"
+}

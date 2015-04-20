@@ -1,0 +1,75 @@
+{
+    "plot": "In the 1860's Wild West, when a ragged bunch of misfit settlers decide they cannot stand living in their current situation, they hire a grizzled cowboy to take them on a journey back to their hometowns east.", 
+    "genres": "Adventure, Comedy, Western", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Julian"
+                ], 
+                "role": "Gay Cowboy: Julian, although none of his friends realize it.", 
+                "id": "GayCowboy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Belle", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0111653", 
+    "poster_url": "WagonsEast.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "GayCowboy"
+            ], 
+            "shared_count": 2, 
+            "id": "MidnightCowboy", 
+            "name": "Midnight Cowboy", 
+            "poster_url": "MidnightCowboy.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Purgatory", 
+            "name": "Purgatory", 
+            "poster_url": "Purgatory.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Django", 
+            "name": "Django", 
+            "poster_url": "Django.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "McCabeAndMrsMiller", 
+            "name": "McCabe & Mrs. Miller", 
+            "poster_url": "McCabeAndMrsMiller.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }
+    ], 
+    "id": "WagonsEast", 
+    "name": "Wagons East"
+}

@@ -1,0 +1,91 @@
+{
+    "plot": "Dorothy, a twenty-four-year-old kindergarten teacher born, raised, and still working in Harlem, is celebrating Thanksgiving with her extended family, but she doesn't seem to be thankful for much in life. She lives a self-imposed sheltered life; she is shy and unfulfilled. Things change for her when she is caught in a snowstorm while chasing after her dog, Toto. They are transported to the mysterious Land of Oz, where she is informed that the only possible way to find her way back home is through the assistance of the powerful wizard in the Emerald City. As she goes searching for him, she befriends some creatures who are facing problems in life just like her. In their quest to find and get help from the wizard, they also face Evillene, the equally evil sister of Evermean, the wicked witch whom Dorothy inadvertently killed when she arrived in Oz, and who may be their biggest obstacle in achieving their goals.", 
+    "genres": "Adventure, Family, Fantasy", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Another rare female example is Mabel King's rendition of Evilene, the Wicked Witch of the West, in the 1970s film version of The Wiz.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "same", 
+                    "original"
+                ], 
+                "role": "Scary Black Woman: The film version of Evilene, played by the same actress who portrayed her in the original Broadway run, is this trope.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "Sharp-Dressed"
+                ], 
+                "role": "Sharp-Dressed Man: There are dozens of them - and plenty of similarly attired women, too - in the fashion show being performed in the Emerald City plaza.", 
+                "id": "SharpDressedMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "In the movie version, though, the crows work for the Wicked Witch, so they might be wanting to torture him.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0078504", 
+    "poster_url": "TheWiz.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "PulpFiction", 
+            "name": "Pulp Fiction", 
+            "poster_url": "PulpFiction.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBeastmaster", 
+            "name": "The Beastmaster", 
+            "poster_url": "TheBeastmaster.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheNightmareBeforeChristmas", 
+            "name": "The Nightmare Before Christmas", 
+            "poster_url": "TheNightmareBeforeChristmas.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "HeavyRain", 
+            "name": "Heavy Rain"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }
+    ], 
+    "id": "TheWiz", 
+    "name": "The Wiz"
+}

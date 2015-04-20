@@ -1,0 +1,90 @@
+{
+    "plot": "Best buddies Mickey, Donald, and Goofy are small-time janitors with big dreams of becoming Musketeers. Peg-Leg Pete, captain of the Musketeers, points out why they'll never make it: Donald is a coward, Goofy is a dim-wit, and Mickey is short. But things change when Princess Minnie demands Musketeer bodyguards when assassins, hired by Pete so he can be king, nearly drop a safe on her. Knowing real Musketeers are too-well trained, Pete hires Mickey, Donald, and Goofy, the clumsy janitors as Musketeers and Minnie's bodyguards.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Goofy falls in love with Clarabelle... After she bounded him in chains and was about to drown him. Seriously, Goofy are you an Amazon Chaser or just a masochist?", 
+                "id": "AmazonChaser"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: Minnie is a princess, though she seems to be the monarch of France and a queen in everything but name. No mention is made of any king or queen existing.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High Heel-Face Turn: Hilariously spoofed with Clarabelle Cow.", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [
+                    "lieutenant"
+                ], 
+                "role": "In Mickey, Donald, Goofy: The Three Musketeers, Pete's lieutenant, Clarebelle Cow, betrays him when she falls in love with Goofy... In SONG no less! \"Chains of Love\"", 
+                "id": "HighHeelFaceTurn"
+            }
+        ]
+    }, 
+    "imdbid": "tt0371823", 
+    "poster_url": "MickeyDonaldGoofyTheThreeMusketeers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "AmazonChaser"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "AmazonChaser"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "SuperSentai", 
+            "name": "Super Sentai"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "AmazonChaser"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Avatar", 
+            "name": "Avatar", 
+            "poster_url": "Avatar.jpg"
+        }
+    ], 
+    "id": "MickeyDonaldGoofyTheThreeMusketeers", 
+    "name": "Mickey, Donald, Goofy: The Three Musketeers"
+}

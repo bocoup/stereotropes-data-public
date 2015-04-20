@@ -1,0 +1,113 @@
+{
+    "plot": "The setting is in a small street in a city where children and furry puppet monsters learn about numbers, the alphabet and other pre-school subjects taught in commercial spots, songs and games.", 
+    "genres": "Animation, Comedy, Family", 
+    "release_year": "1969\u2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bald Black Leader Guy: As necessitated by the events of Follow That Bird.", 
+                "id": "BaldBlackLeaderGuy"
+            }, 
+            {
+                "adjectives": [
+                    "fit"
+                ], 
+                "role": "Cool Old Guy: Mr. Hooper (until his death), then Uncle Wally, and now Bob, more recently, have all fit this trope over the course of the show's history.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Luis and Maria on Sesame Street.", 
+                "id": "MrFixit"
+            }, 
+            {
+                "adjectives": [
+                    "same", 
+                    "fairy-tale", 
+                    "bright"
+                ], 
+                "role": "Prince Charming is a character in Sesame Street, using the same puppet as Guy Smiley and Don Music, who can be relied upon to totally mess up any fairy-tale he's involved in (he's not a Prince Charmless, just incompetent and not very bright). He also works as a dance instructor, under the name Prince Cha-Cha-Charming.", 
+                "id": "PrinceCharming"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Grover's mom in the book When Grover Moved to Sesame Street. Seriously.", 
+                "id": "HotMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Count from Sesame Street. (\"Ahh ah ah ah ah ah!\")", 
+                "id": "PerkyGoth"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "One of the reasons for adding Abby Cadabby to the cast of Sesame Street was that they wanted a girly girl to contrast with the tomboy Zoe.", 
+                "id": "TomBoyAndGirlyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Yoko Oh No: Hilariously invoked in an episode from Season 35, in which during a flash back, Gordon, Bob, and Luis had formed a garage band in The Seventies, but Luis is so smitten with Maria (whom he had just met), that Bob comments, \"I hope this girlfriend Maria doesn't break up the band, man.\"", 
+                "id": "YokoOhNo"
+            }
+        ]
+    }, 
+    "imdbid": "tt0063951", 
+    "similar": [
+        {
+            "shared": [
+                "MrFixit", 
+                "BaldBlackLeaderGuy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "HotMom", 
+                "YokoOhNo", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "AmericanHistoryX", 
+            "name": "American History X", 
+            "poster_url": "AmericanHistoryX.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharming", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Bound", 
+            "name": "Bound", 
+            "poster_url": "Bound.jpg"
+        }
+    ], 
+    "id": "SesameStreet", 
+    "name": "Sesame Street"
+}

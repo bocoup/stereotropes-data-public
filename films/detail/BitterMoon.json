@@ -1,0 +1,96 @@
+{
+    "plot": "British couple Fiona and Nigel Dobson are sailing to Istanbul en route to India. They encounter a beautiful French woman, and that night Nigel meets her while dancing alone in the ship's bar. Later he meets her crippled American husband Oscar, who tells him their story. While living in Paris for several years trying to be a writer, he becomes obsessed with a woman he met by chance on a bus. He tracks her down and they start a steamy love affair. Soon Oscar finds himself enslaved body and soul by her love, and continues to tell Nigel the details of this relationship in various stages over a number of visits to Oscar's cabin.", 
+    "genres": "Drama, Romance, Thriller", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "many"
+                ], 
+                "role": "Kavorka Man: Oscar although you only have his word that he had sex with as many women as he says he did", 
+                "id": "KavorkaMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Clingy Jealous Girl: Mimi when Oscar wants to break things up with her. She begs him to take her back and makes a scene. He does take her back, but makes her life awful.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "gorgeous", 
+                    "dangerous"
+                ], 
+                "role": "Femme Fatale: Mimi, especially as the story progresses. She's a gorgeous but dangerous woman. Her sexuality and attachment to Oscar causes their fall.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "other"
+                ], 
+                "role": "Lady in Red: Mimi was first seen in a red polka-dot dress and Oscar calls her \"a sorceress in white sneakers\". Later, she often wears other red dresses that are very tight. It marks her as a Famme Fatale.", 
+                "id": "LadyInRed"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104779", 
+    "poster_url": "BitterMoon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "KavorkaMan", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "LadyInRed", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Bound", 
+            "name": "Bound", 
+            "poster_url": "Bound.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }
+    ], 
+    "id": "BitterMoon", 
+    "name": "Bitter Moon"
+}

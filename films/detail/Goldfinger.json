@@ -1,0 +1,166 @@
+{
+    "plot": "Bond is back and his next mission takes him to Fort Knox, where Auric Goldfinger and his henchman are planning to raid Fort Knox and obliterate the world economy. To save the world once again, Bond will need to become friends with Goldfinger, dodge killer hats and avoid Goldfinger's personal pilot, the sexy Pussy Galore. She might not have feelings for Bond, but will 007 help her change her mind?", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1964", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Battle Butler: Oddjob.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "dutiful"
+                ], 
+                "role": "Oddjob in Goldfinger. He's a dutiful butler, and he kills people. Lots of them. With his hat.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "table"
+                ], 
+                "role": "Distressed Dude: The scene where Bond is strapped down to a table with a laser beam slowly approaching his groin.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [
+                    "iconic", 
+                    "table", 
+                    "giant"
+                ], 
+                "role": "That iconic Goldfinger scene where James is strapped down to a table with a giant laser slowly making its way toward his groin.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [
+                    "famous", 
+                    "muscle"
+                ], 
+                "role": "Harold Sakata (famous as hat throwing henchman Oddjob in Goldfinger) only measured at 5 foot, 10 inches, and came in at a billed 230 pounds. A lot of that was muscle, hence his Olympic silver medal in weightlifting at the 1948 games.", 
+                "id": "StoutStrength"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Amazon Brigade: Pussy Galore's Flying Circus.", 
+                "id": "AmazonBrigade"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pussy Galore's Flying Circus from Goldfinger.", 
+                "id": "AmazonBrigade"
+            }, 
+            {
+                "adjectives": [
+                    "eponymous", 
+                    "personal", 
+                    "own", 
+                    "all-female"
+                ], 
+                "role": "Pussy Galore in Goldfinger is the eponymous villain's personal pilot and has her own squad of all-female fliers.", 
+                "id": "BikerBabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pussy Galore was this in Goldfinger, before her Sex Face Turn.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Goldfinger: Pussy Galore. Bond's Epic Goods turn her straight (or at least bi), apparently!", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [
+                    "High", 
+                    "crucial", 
+                    "magic", 
+                    "possible", 
+                    "later", 
+                    "full", 
+                    "powerful", 
+                    "willing", 
+                    "enormous", 
+                    "fatal"
+                ], 
+                "role": "High Heel-Face Turn: Pussy Galore, after being seduced by Bond. This is even crucial to the plot, since it got her to replace the nerve gas in her pilots' planes with a harmless placebo. Though it's implied his magic charms were officially all that made her turn, it's possible he later appealed to her logic that after having just witnessed Goldfinger murder a room full of powerful men he no longer needed he would have no problem killing Pussy when her job was done. Or he could've appealed to her conscience in that she was willing to participate in an enormous heist, but not commit mass murder. After all she didn't realize the nerve gas was fatal.", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [
+                    "old", 
+                    "favorite"
+                ], 
+                "role": "Never Mess with Granny: The old lady working as a guard decides to get an MP 40 to shoot the Aston Martin (Alfred Hitchcock told Guy Hamilton it was his favorite scene).", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "The old lady working as a guard to Goldfinger's facility carries an MP 40 and shoots at Bond's car.", 
+                "id": "NeverMessWithGranny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0058150", 
+    "poster_url": "Goldfinger.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "BattleButler", 
+                "AmazonBrigade"
+            ], 
+            "shared_count": 3, 
+            "id": "AustinPowers", 
+            "name": "Austin Powers", 
+            "poster_url": "AustinPowers.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "BlondesAreEvil", 
+                "BikerBabe"
+            ], 
+            "shared_count": 3, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "AmazonBrigade", 
+                "DistressedDude"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "AmazonBrigade"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "AmazonBrigade"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }
+    ], 
+    "id": "Goldfinger", 
+    "name": "Goldfinger"
+}

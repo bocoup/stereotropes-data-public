@@ -1,0 +1,83 @@
+{
+    "plot": "The terrible and trecherous Pendragon plans to gain the throne of Cornwall by getting the king to abdicate and to marry his lovely daughter. To help him he has his dreadful witches in his castle and his almost unstoppable sorcery. A giant under his control abducts the princess, but on the way home with her the giant meets farming lad Jack who slays him. This is only the beginning. Be assured Pendragon and his evil magic are far from done.", 
+    "genres": "Fantasy, Family, Adventure", 
+    "release_year": "1962", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Pendragon.", 
+                "id": "BeardOfEvil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress:", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: Elaine.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }
+        ]
+    }, 
+    "imdbid": "tt0056112", 
+    "poster_url": "JackTheGiantKiller.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BeardOfEvil", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 3, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "FelixTheCatTheMovie", 
+            "name": "Felix the Cat: The Movie", 
+            "poster_url": "FelixTheCatTheMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }
+    ], 
+    "id": "JackTheGiantKiller", 
+    "name": "Jack the Giant Killer"
+}

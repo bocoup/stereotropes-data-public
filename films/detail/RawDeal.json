@@ -1,0 +1,87 @@
+{
+    "plot": "Mark Kaminski is kicked out of the FBI for his rough treatment of a suspect. He winds up as the sheriff of a small town in North Carolina. FBI Chief Harry Shannon, whose son has been killed by a mobster named Patrovina, enlists Kaminski in a personal vendetta with a promise of reinstatement into the FBI if Patrovina is taken down. To accomplish this, Kaminski must go undercover and join Patrovina's gang.", 
+    "genres": "Action, Crime, Thriller", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Marvin Baxter cowers in fear as bullets fly and mooks die during the Storming the Castle scene.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "Sharp-Dressed"
+                ], 
+                "role": "Sharp-Dressed Man: Mark once he starts infiltrating the mob.", 
+                "id": "SharpDressedMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "later", 
+                    "convenient", 
+                    "quick"
+                ], 
+                "role": "Neutral Female: Averted with Monique, who helps out when Mark is attacked by Lamanski's hoods, and later turns up with a convenient car when he needs to make a quick getaway.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0091828", 
+    "poster_url": "RawDeal.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "JurassicPark", 
+            "name": "Jurassic Park", 
+            "poster_url": "JurassicPark.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "HandsUp", 
+            "name": "Hands Up"
+        }
+    ], 
+    "id": "RawDeal", 
+    "name": "Raw Deal"
+}

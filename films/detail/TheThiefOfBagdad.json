@@ -1,0 +1,104 @@
+{
+    "plot": "Prince Ahmad is the rightful King of Bagdad but he has been blinded and cast out as a beggar. Now a captive of the wicked Grand Vizier Jaffar he is cast into a dungeon where he meets Abu, the best thief in all Bagdad. Together they escape and set about a series of adventures that involve a Djinni in a bottle, a mechanical flying horse, an all-seeing magic jewel, a flying carpet and a beautiful princess.", 
+    "genres": "Adventure, Family, Fantasy", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Sheltered Aristocrat: Ahmad.", 
+                "id": "ShelteredAristocrat"
+            }, 
+            {
+                "adjectives": [
+                    "male", 
+                    "open"
+                ], 
+                "role": "In The Thief of Bagdad, Abu's default outfit is a loincloth. Ahmad, the male lead, wears an open vest for most of the movie, but it can't really compare.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: The Princess. She doesn't even have a name.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Princess in The Thief of Bagdad \u2014 she's just \"the Princess\".", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "mechanical"
+                ], 
+                "role": "Robot Girl: The sultan of Basra dies at her mechanical hands.", 
+                "id": "RobotGirl"
+            }, 
+            {
+                "adjectives": [
+                    "mechanical"
+                ], 
+                "role": "The Thief of Bagdad (1940 version) featured an automaton dancing girl, given by an Evil Chancellor to a sultan who liked mechanical toys. When he went to embrace the dancing girl robot, it stabbed him.", 
+                "id": "RobotGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0033152", 
+    "poster_url": "TheThiefOfBagdad.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "RobotGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "RobotechTheShadowChronicles", 
+            "name": "Robotech: The Shadow Chronicles", 
+            "poster_url": "RobotechTheShadowChronicles.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Tarzan", 
+            "name": "Tarzan", 
+            "poster_url": "Tarzan.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "JohnCarter", 
+            "name": "John Carter", 
+            "poster_url": "JohnCarter.jpg"
+        }
+    ], 
+    "id": "TheThiefOfBagdad", 
+    "name": "The Thief of Bagdad"
+}

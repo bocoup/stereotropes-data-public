@@ -1,0 +1,88 @@
+{
+    "plot": "A family in Chicago inherits the yacht formerly owned by Clark Gable. They decide to sail it from the island of Ste. Pomme de Terre to Miami, and they sail with the assistance of Captain Ron and their lives will never be the same again.", 
+    "genres": "Adventure, Comedy", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: Martin.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "itty-bitty"
+                ], 
+                "role": "Walking Shirtless Scene: Not only does Captain Ron spend most of the movie without a shirt on, he even spends a couple of scenes wearing only a snug little Speedo, and another scene shows him in his underwear, a pair of itty-bitty briefs. Good thing he has the physique for it, otherwise...", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Bratty Teenage Daughter: Caroline.", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Mom: Katherine.", 
+                "id": "HotMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0103924", 
+    "poster_url": "CaptainRon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "UncleBuck", 
+            "name": "Uncle Buck", 
+            "poster_url": "UncleBuck.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "HotMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }
+    ], 
+    "id": "CaptainRon", 
+    "name": "Captain Ron"
+}

@@ -1,0 +1,67 @@
+{
+    "plot": "Narcotics agent Tom Wilde is given a second chance at life after being shot and killed. In a futuristic experiment, agent Wilde is returned to life as an Android Robot. He is sent on a very dangerous mission into the depths of the golder Triangle to rescue Sophie, a beautiful undercover agent who has been captured by the evil drug warlord Mr. Young and his inhuman creation the Vampire Beast.", 
+    "genres": "Action, Crime, Horror", 
+    "release_year": "1988", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "jungle"
+                ], 
+                "role": "Distressed Damsel: A drug agent is kidnapped, raped, tortured and held prisoner in the middle of the jungle.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0121694", 
+    "poster_url": "RoboVampire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "RoboVampire", 
+    "name": "Robo Vampire"
+}

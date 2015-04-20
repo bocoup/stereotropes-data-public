@@ -1,0 +1,101 @@
+{
+    "plot": "A poetic guitarist Eric Draven is brought back to life by a crow a year after he and his fianc\u00e9e are murdered. The crow guides him through the land of the living, and leads him to his killers: knife thrower Tin-tin, drugetic Funboy, car buff T-Bird, and the unsophisticated Skank. One by one, Eric gives these thugs a taste of their own medicine. However their leader Top-Dollar, a world-class crime lord who will dispatch his enemies with a Japanese sword and joke about it later, will soon learn the legend of the crow and the secret to the vigilante's invincibility.", 
+    "genres": "Action, Fantasy", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Mickey, who runs a hotdog stand across the street from Gideon's pawn shop.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cultured Badass: The Crow. He's a guitar playing ninja who quotes Poe's The Raven and Thackeray's Vanity Fair.", 
+                "id": "CulturedBadass"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "incestuous", 
+                    "giant", 
+                    "colorful"
+                ], 
+                "role": "Dragon Lady: Top Dollar's incestuous consort (whose back is seen to sport a giant, colorful dragon tattoo during her character's introduction) is played by Bai Ling. Enough said.", 
+                "id": "DragonLady"
+            }, 
+            {
+                "adjectives": [
+                    "Asian", 
+                    "young"
+                ], 
+                "role": "Myca in The Crow played by Bai Ling. The boss villain's Asian half-sister, tattooed, sexually depraved, and has a thing about young girls' eyes.", 
+                "id": "DragonLady"
+            }, 
+            {
+                "adjectives": [
+                    "weird"
+                ], 
+                "role": "The Chick: Myca again, as she's physically the weakest and rather weird personality-wise.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109506", 
+    "poster_url": "TheCrow.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CulturedBadass", 
+                "TheChick", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenTheLastStand", 
+            "name": "X-Men: The Last Stand", 
+            "poster_url": "XMenTheLastStand.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }, 
+        {
+            "shared": [
+                "DragonLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Sharknado", 
+            "name": "Sharknado"
+        }
+    ], 
+    "id": "TheCrow", 
+    "name": "The Crow"
+}

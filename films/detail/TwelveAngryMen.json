@@ -1,0 +1,86 @@
+{
+    "plot": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case of murder soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other. Based on the play, all of the action takes place on the stage of the jury room.", 
+    "genres": "Drama", 
+    "release_year": "1957", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Cool Old Guy: Juror #9, the first to support #8.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "light-colored", 
+                    "white", 
+                    "black-and-white", 
+                    "last"
+                ], 
+                "role": "Juror #8 in 12 Angry Men wears a very light-colored suit that appears white in the black-and-white footage, which is easiest to see in the last scene, because he's sitting down most of the time.", 
+                "id": "ManInWhite"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Man in White: Juror #8", 
+                "id": "ManInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0050083", 
+    "poster_url": "TwelveAngryMen.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheProphecy", 
+            "name": "The Prophecy", 
+            "poster_url": "TheProphecy.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTreasureOfTheSierraMadre", 
+            "name": "The Treasure of the Sierra Madre", 
+            "poster_url": "TheTreasureOfTheSierraMadre.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "ToKillAMockingbird", 
+            "name": "To Kill a Mockingbird", 
+            "poster_url": "ToKillAMockingbird.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "DjangoUnchained", 
+            "name": "Django Unchained", 
+            "poster_url": "DjangoUnchained.jpg"
+        }
+    ], 
+    "id": "TwelveAngryMen", 
+    "name": "12 Angry Men"
+}

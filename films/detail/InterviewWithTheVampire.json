@@ -1,0 +1,92 @@
+{
+    "plot": "It hasn't even been a year since a plantation owner named Louis lost his wife in childbirth. Both his wife and the infant died, and now he has lost his will to live. A vampire named Lestat takes a liking to Louis and offers him the chance to become a creature of the night: a vampire. Louis accepts, and Lestat drains Louis' mortal blood and then replaces it with his own, turning Louis into a vampire. Louis must learn from Lestat the ways of the vampire.", 
+    "genres": "Horror, Romance", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Many", 
+                    "aesthetic", 
+                    "pale", 
+                    "androgynous"
+                ], 
+                "role": "Many vampires in Interview with the Vampire fit in the pretty boy aesthetic with very pale complexion, making them look androgynous.", 
+                "id": "PrettyBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Elegant Gothic Lolita: Claudia, doomed to be forever seven or eight, dresses in the best couture that Victorian fashion can provide.", 
+                "id": "ElegantGothicLolita"
+            }, 
+            {
+                "adjectives": [
+                    "Lesbian", 
+                    "outright"
+                ], 
+                "role": "Lesbian Vampire: Gender-flipped. Lestat making Louis a vampire is all but an outright seduction.", 
+                "id": "LesbianVampire"
+            }, 
+            {
+                "adjectives": [
+                    "whole"
+                ], 
+                "role": "Lonely Doll Girl: Claudia has a whole bunch of dolls, which serve well to hide the body of the woman she killed out of envy for her grown-up body.", 
+                "id": "LonelyDollGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0110148", 
+    "poster_url": "InterviewWithTheVampire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrettyBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "LesbianVampire"
+            ], 
+            "shared_count": 1, 
+            "id": "RazorBladeSmile", 
+            "name": "Razor Blade Smile", 
+            "poster_url": "RazorBladeSmile.jpg"
+        }, 
+        {
+            "shared": [
+                "PrettyBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "LesbianVampire"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLairOfTheWhiteWorm", 
+            "name": "The Lair of the White Worm", 
+            "poster_url": "TheLairOfTheWhiteWorm.jpg"
+        }, 
+        {
+            "shared": [
+                "LesbianVampire"
+            ], 
+            "shared_count": 1, 
+            "id": "Frostbite", 
+            "name": "Frostbite", 
+            "poster_url": "Frostbite.jpg"
+        }
+    ], 
+    "id": "InterviewWithTheVampire", 
+    "name": "Interview with the Vampire"
+}

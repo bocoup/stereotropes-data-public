@@ -1,0 +1,97 @@
+{
+    "plot": "An anonymous, but deadly man rides into a town torn by war between two factions, the Baxters and the Rojo's. Instead of fleeing or dying, as most other would do, the man schemes to play the two sides off each other, getting rich in the bargain.", 
+    "genres": "Western", 
+    "release_year": "1964", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "traditional"
+                ], 
+                "role": "Badass Beard: Joe. Notable in Joe's case as traditional Western heroes up to this point tended to be cleanshaven.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Ramon.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Silvanito.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Knight Errant: Joe", 
+                "id": "KnightErrant"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "real"
+                ], 
+                "role": "Evil Matriarch: Mrs. Baxter is the real brains in her family.", 
+                "id": "EvilMatriarch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0058461", 
+    "poster_url": "AFistfulOfDollars.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KnightErrant", 
+                "BadAssMustache", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 3, 
+            "id": "ForAFewDollarsMore", 
+            "name": "For a Few Dollars More", 
+            "poster_url": "ForAFewDollarsMore.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "KnightErrant", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "LuckyLuke", 
+            "name": "Lucky Luke", 
+            "poster_url": "LuckyLuke.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "TeenageMutantNinjaTurtles2014", 
+            "name": "Teenage Mutant Ninja Turtles ", 
+            "poster_url": "TeenageMutantNinjaTurtles2014.jpg"
+        }
+    ], 
+    "id": "AFistfulOfDollars", 
+    "name": "A Fistful of Dollars"
+}

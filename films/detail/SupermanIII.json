@@ -1,0 +1,84 @@
+{
+    "plot": "Wealthy businessman Ross Webster discovers the hidden talents of Gus Gorman, a mischievous computer genius. Ross decides to abuse his talents, in a way to help Webster with his plans for economic control. When the man of steel interferes, something must be done about Supes. When Gus' synthetic Kryptonite fails to kill Superman, it turns him in an evil incarnation of his former self. The tar-laced Kryptonite pits man against himself, setting up the Clark vs. Superman battle.", 
+    "genres": "Action, Comedy, Sci-Fi", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock/Future Loser: Brad.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "wrong"
+                ], 
+                "role": "The Casanova: When Superman put the moves on Lana, that was the first hint that something was wrong with him.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Lorelei", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0086393", 
+    "poster_url": "SupermanIII.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Tamara", 
+            "name": "Tamara", 
+            "poster_url": "Tamara.jpg"
+        }
+    ], 
+    "id": "SupermanIII", 
+    "name": "Superman III"
+}

@@ -1,0 +1,87 @@
+{
+    "plot": "This is the story of an isolated Alaskan town that is plunged into darkness for a month each year when the sun sinks below the horizon. As the last rays of light fade, the town is attacked by a bloodthirsty gang of vampires bent on an uninterrupted orgy of destruction. Only the small town's husband-and-wife Sheriff team stand between the survivors and certain destruction.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Eben takes his role as Jake's protector very seriously.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Stella Oleson", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Stella.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0389722", 
+    "poster_url": "ThirtyDaysOfNight.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Terminator2JudgmentDay", 
+            "name": "Terminator 2: Judgment Day", 
+            "poster_url": "Terminator2JudgmentDay.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "TheSecretOfNIMH", 
+            "name": "The Secret of NIMH", 
+            "poster_url": "TheSecretOfNIMH.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "HappyFeet", 
+            "name": "Happy Feet", 
+            "poster_url": "HappyFeet.jpg"
+        }
+    ], 
+    "id": "ThirtyDaysOfNight", 
+    "name": "30 Days of Night"
+}

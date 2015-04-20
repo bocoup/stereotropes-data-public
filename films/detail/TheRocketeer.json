@@ -1,0 +1,129 @@
+{
+    "plot": "Straight from the pages of a pulp comic from a past era, the Rocketeer recreates 1930's Hollywood, complete with gangsters, Nazi spies, and the growth of the Age of Aviation. Young pilot Cliff Secord stumbles on a top secret rocket-pack and with the help of his mechanic/mentor, Peevee, he attempts to save his girl and stop the Nazis as The Rocketeer.", 
+    "genres": "Action, Adventure, Family", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Peevy.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Neville Sinclair.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fixit: Peevy", 
+                "id": "MrFixit"
+            }, 
+            {
+                "adjectives": [
+                    "protective", 
+                    "fellow"
+                ], 
+                "role": "Papa Wolf: Eddie Valentine is protective of his fellow gangsters (see also: Even Evil Has Standards).", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [
+                    "chat-up", 
+                    "own", 
+                    "avid"
+                ], 
+                "role": "The Casanova: Subverted; Neville tries to seduce Jenny, but his chat-up lines are all from his own movies which Jenny (as an avid fan) knows off by heart. The Bookcase Passage to Neville's Nazi communications room was even opened by a book called \"The Conquests of Casanova\".", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Distressed Damsel: Subverted, somewhat, as Jenny does participate in her own rescue.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Glamorous"
+                ], 
+                "role": "Glamorous Wartime Singer: At the South Seas Club.", 
+                "id": "GlamorousWartimeSinger"
+            }, 
+            {
+                "adjectives": [
+                    "much", 
+                    "21-year-old"
+                ], 
+                "role": "Ms. Fanservice: Jennifer Connelly at her peak. Well, as much as a 21-year-old can peak.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102803", 
+    "poster_url": "TheRocketeer.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "GlamorousWartimeSinger", 
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 4, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "TheCasanova", 
+                "DamselInDistress", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 4, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress", 
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 4, 
+            "id": "ClashOfTheTitans", 
+            "name": "Clash of the Titans", 
+            "poster_url": "ClashOfTheTitans.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "MrFixit", 
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "TheCasanova", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "TheRocketeer", 
+    "name": "The Rocketeer"
+}

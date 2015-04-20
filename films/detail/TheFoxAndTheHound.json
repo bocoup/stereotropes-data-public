@@ -1,0 +1,134 @@
+{
+    "plot": "A young fox named Tod is taken in by an old woman after his mother is killed by a hunter. Full of mischief, Young Tod befriends Copper, a hound dog pup. As they grow up, however, their friendship becomes endangered by what they have become; Copper is a hunting dog, and Tod is his prey.", 
+    "genres": "Animation, Adventure, Drama", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "willing", 
+                    "fair", 
+                    "personal"
+                ], 
+                "role": "Corrupt Hick: Copper's owner is willing to hunt foxes in a nature preserve. To be fair, he's only hunting this one fox and for personal reasons.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Dude: Amos and Copper after the bear shows up.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [
+                    "designated", 
+                    "second"
+                ], 
+                "role": "Fat, Sweaty Southerner in a White Suit: The talent scout, who ends up being the designated Butt Monkey in the second film.", 
+                "id": "FatSweatySouthernerInAWhiteSuit"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "kind", 
+                    "caring"
+                ], 
+                "role": "Apron Matron: Widow Tweed is kind and caring towards her animals, especially Tod, but if you mess with any of them, you will face the consequences.", 
+                "id": "ApronMatron"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Lady: Widow Tweed, who isn't afraid to grab Slade's gun and shoot his car's engine down.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Tweed when Slade tries to shoot Tod for thinking the fox was chasing his chickens.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "original", 
+                    "asleep"
+                ], 
+                "role": "Missing Mom: Tod's mom is shot during the opening credits. Who shot her is unknown (it is unlikely that Amos Slade shot her because at that time he is buying Copper and his original hunting dog Chief was asleep in his introduction), however.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Fox and the Hound: Tod's mother is shot during the opening scene.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Big Mama was an owl version of this in The Fox and the Hound.", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Big Mama, voiced by Pearl Bailey.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082406", 
+    "poster_url": "TheFoxAndTheHound.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "SassyBlackWoman", 
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "SassyBlackWoman", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "FlyAwayHome", 
+            "name": "Fly Away Home", 
+            "poster_url": "FlyAwayHome.jpg"
+        }, 
+        {
+            "shared": [
+                "ApronMatron", 
+                "CoolOldLady", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "TheFoxAndTheHound", 
+    "name": "The Fox and the Hound"
+}

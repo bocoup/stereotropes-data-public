@@ -1,0 +1,135 @@
+{
+    "plot": "Mama Rose lives to see her daughter June succeed on Broadway by way of vaudeville. When June marries and leaves, Rose turns her hope and attention to her elder, less obviously talented, daughter Louise. However, having her headlining as a stripper at Minsky's Burlesque is not what she initially has in mind.", 
+    "genres": "Biography, Comedy, Drama", 
+    "release_year": "1962", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "poor"
+                ], 
+                "role": "Henpecked Husband: Poor, poor Herbie.  Arguably made worse by the fact that he and Rose never actually get married.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "beautiful", 
+                    "same"
+                ], 
+                "role": "Beautiful All Along: In the film, when Louise first gets beautiful clothes and has her hair done, she looks in the mirror, and incredulously says: \"I'm pretty. I'm a pretty girl, Mama.\" Justified, in that she her mother had been dressing her in boys clothes most of her life, so she could be a background dancer in her sister's act. Referenced in, of all things, the stage version of Hairspray, which can be explained by the fact that Hairspray premiered on Broadway in the same season as a revival of Gypsy.", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [
+                    "tomboyish", 
+                    "beautiful"
+                ], 
+                "role": "In the 1962 film Gypsy, when tomboyish Louise first gets beautiful clothes and has her hair done, she looks in the mirror, and incredulously says: \"I'm pretty. I'm a pretty girl, Mama.\"", 
+                "id": "BeautifulAllAlong"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Despite it all June does seem to regard Louise as this. Of course, Louise is Natalie Wood in the film version.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gypsy, along with the memoirs of Gypsy Rose Lee that it is based on, exemplifies this one.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Rose plays this trope to a T", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "One of the Boys: Tulsa, one of the boy dancers Rose picks up, says he and the guys all consider Louise this. She is not flattered.", 
+                "id": "OneOfTheBoys"
+            }, 
+            {
+                "adjectives": [
+                    "legendary", 
+                    "subsequent", 
+                    "musical"
+                ], 
+                "role": "Rose Hovick, mother of burlesque star Gypsy Rose Lee and actress June Havoc. She became legendary for this trope following Gypsy's 1957 autobiography and the subsequent musical adaptation Gypsy as mentioned above.", 
+                "id": "StageMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Stage Mom: Rose is probably the poster child and provides the page image.", 
+                "id": "StageMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Louise and June - though Louise is probably not a tomboy by choice.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0056048", 
+    "poster_url": "Gypsy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeautifulAllAlong", 
+                "HenpeckedHusband", 
+                "MyBelovedSmother", 
+                "StageMom"
+            ], 
+            "shared_count": 4, 
+            "id": "Hairspray", 
+            "name": "Hairspray", 
+            "poster_url": "Hairspray.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "TomBoyAndGirlyGirl", 
+                "StageMom"
+            ], 
+            "shared_count": 3, 
+            "id": "DespicableMe", 
+            "name": "Despicable Me", 
+            "poster_url": "DespicableMe.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "OneOfTheBoys", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "MyBelovedSmother", 
+                "StageMom"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "BeautifulAllAlong", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 3, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }
+    ], 
+    "id": "Gypsy", 
+    "name": "Gypsy"
+}

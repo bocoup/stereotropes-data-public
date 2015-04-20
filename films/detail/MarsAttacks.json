@@ -1,0 +1,140 @@
+{
+    "plot": "It is a normal day for everyone, until the President of the United States announces Martians have been spotted circling Earth. The Martians land and a meeting is arranged, but not everything goes to plan, and the Martians seem to have other plans for Earth. Are they just misunderstood beings or do they really want to destroy all of humanity?", 
+    "genres": "Comedy, Sci-Fi", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Child Soldiers: The required age to join the army in defeating the Martians is 13 and up.", 
+                "id": "ChildSoldiers"
+            }, 
+            {
+                "adjectives": [
+                    "Billy-Glen", 
+                    "first", 
+                    "American", 
+                    "American", 
+                    "aggressive"
+                ], 
+                "role": "Dirty Coward: Billy-Glen, during the first Martian attack, quite stupidly charges at one with intent to kill it. He hit the magazine release by mistake. He then picks up an American flag and shouts \"I surrender!\" He dies anyway, but since no one heard what he actually said, he's honored as an American hero. This fuels his trailer trash parents' blatant favoritism of him over his less aggressive, smarter brother.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "creepy", 
+                    "top", 
+                    "disturbing", 
+                    "left-right"
+                ], 
+                "role": "Cute Monster Girl: Subverted; it's only a disguise. Also she looks really really creepy, check out the picture at the top of the page. She also moves in a completely inhuman way: She walks like she's rolling on wheels, and has a very disturbing left-right arm motion while doing so.", 
+                "id": "CuteMonsterGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Granola Girl: Annette Bening's character.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [
+                    "parodied\u2014", 
+                    "human", 
+                    "few"
+                ], 
+                "role": "Mars Attacks!: Brutally parodied\u2014 Annette Bening's character Barbara is a Granola Girl who sets up New Age crystals as she watches the Martians land, believing that they are the saviors of the human race, here to enlighten us. They aren't. She's one of the few people to survive the massacre that follows. Afterward, Barbara claims that they have come to punish humanity for destroying the Earth.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Parodied by Pierce Brosnan's Donald.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scoop: Natalie, played by Sarah Jessica Parker.", 
+                "id": "HotScoop"
+            }, 
+            {
+                "adjectives": [
+                    "Martian"
+                ], 
+                "role": "In Mars Attacks!, the Martians send out a Martian in an Uncanny Valley woman suit to infiltrate the White House and try to assassinate the President. It almost works because of the Idiot Plot.", 
+                "id": "MataHari"
+            }, 
+            {
+                "adjectives": [
+                    "main", 
+                    "many"
+                ], 
+                "role": "Ms. Fanservice: A Las Vegas showgirl follows the main characters while still wearing her stage outfit. She doesn't get many lines and seems to be there just to bounce around in a revealing outfit. She was the waitress Art Land was flirting with at the beginning of the film.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116996", 
+    "poster_url": "MarsAttacks.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "HotScientist", 
+                "ChildSoldiers", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotScientist", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "MsFanservice", 
+                "HotScientist"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "MataHari", 
+                "ChildSoldiers", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "MataHari", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }
+    ], 
+    "id": "MarsAttacks", 
+    "name": "Mars Attacks!"
+}

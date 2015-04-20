@@ -1,0 +1,47 @@
+{
+    "plot": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.", 
+    "genres": "Biography, Drama, History", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Eunuchs Are Evil", 
+                "id": "EunuchsAreEvil"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093389", 
+    "poster_url": "TheLastEmperor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EunuchsAreEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }, 
+        {
+            "shared": [
+                "EunuchsAreEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLoneRanger", 
+            "name": "The Lone Ranger", 
+            "poster_url": "TheLoneRanger.jpg"
+        }, 
+        {
+            "shared": [
+                "EunuchsAreEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "DonJuanDemarco", 
+            "name": "Don Juan DeMarco", 
+            "poster_url": "DonJuanDemarco.jpg"
+        }
+    ], 
+    "id": "TheLastEmperor", 
+    "name": "The Last Emperor"
+}

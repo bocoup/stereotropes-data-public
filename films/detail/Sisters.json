@@ -1,0 +1,69 @@
+{
+    "plot": "The Staten Island apartment of lovely model Danielle becomes the scene of a grisly murder that is witnessed by her neighbor, Grace, a reporter. But the police don't believe her story, so it's up to Grace to solve the murder mystery on her own.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1973", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Jewish", 
+                    "Jewish", 
+                    "respectable"
+                ], 
+                "role": "Jewish Mother: Grace's mother, while seemingly not Jewish, constantly pesters he about settling down with a man of respectable profession.", 
+                "id": "JewishMother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070698", 
+    "poster_url": "Sisters.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "JewishMother"
+            ], 
+            "shared_count": 1, 
+            "id": "SaturdayNightFever", 
+            "name": "Saturday Night Fever", 
+            "poster_url": "SaturdayNightFever.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLastTemptationOfChrist", 
+            "name": "The Last Temptation of Christ", 
+            "poster_url": "TheLastTemptationOfChrist.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother"
+            ], 
+            "shared_count": 1, 
+            "id": "FiddlerOnTheRoof", 
+            "name": "Fiddler on the Roof", 
+            "poster_url": "FiddlerOnTheRoof.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMadAdventuresOfRabbiJacob", 
+            "name": "The Mad Adventures of Rabbi Jacob", 
+            "poster_url": "TheMadAdventuresOfRabbiJacob.jpg"
+        }
+    ], 
+    "id": "Sisters", 
+    "name": "Sisters"
+}

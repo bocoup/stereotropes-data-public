@@ -1,0 +1,73 @@
+{
+    "plot": "In 1951, Laura Brown, a pregnant housewife, is planning a party for her husband, but she can't stop reading the novel 'Mrs. Dalloway'. Clarissa Vaughn, a modern woman living in present times is throwing a party for her friend Richard, a famous author dying of AIDS. These two stories are simultaneously linked to the work and life of Virginia Woolf, who's writing the novel mentioned before.", 
+    "genres": "Drama", 
+    "release_year": "2002", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "unhappy"
+                ], 
+                "role": "Housewife: Laura. However, she's unhappy with her life.  She eventually leaves her husband and kids, moves to Canada and starts working at a library", 
+                "id": "HouseWife"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom:  Laura for Richard and his sister.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0274558", 
+    "poster_url": "TheHours.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HouseWife", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "HotelTransylvania", 
+            "name": "Hotel Transylvania", 
+            "poster_url": "HotelTransylvania.jpg"
+        }, 
+        {
+            "shared": [
+                "HouseWife", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGrudge", 
+            "name": "The Grudge", 
+            "poster_url": "TheGrudge.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }
+    ], 
+    "id": "TheHours", 
+    "name": "The Hours"
+}

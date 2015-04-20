@@ -1,0 +1,114 @@
+{
+    "plot": "20 years after attempting an epic pub crawl, five childhood friends reunite when one of them becomes hell bent on trying the drinking marathon again. They are convinced to stage an encore by mate Gary King, a 40-year old man trapped at the cigarette end of his teens, who drags his reluctant pals to their home town and once again attempts to reach the fabled pub, The World's End. As they attempt to reconcile the past and present, they realize the real struggle is for the future, not just theirs but humankind's. Reaching The World's End is the least of their worries.", 
+    "genres": "Action, Comedy, Sci-Fi", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Basil from The World's End.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Blank version of Oliver Chamberlain from The World's End.", 
+                "id": "SharpDressedMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Stout Strength: Andy.", 
+                "id": "StoutStrength"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird:  Gary, a rare male variant.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Catholic School Girls Rule: Friday nights at The Mermaid are called \"School Night\". All the girls dress like this; the boys dress like Catholic school boys, too. [Even Basil gets in on the act, dressed as a professor in cap-and-gown.  Apparently this was all the Network needed to do to get DNA from Peter, Andrew and Gary.", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [
+                    "male", 
+                    "cheerful", 
+                    "middle-aged", 
+                    "classic", 
+                    "black", 
+                    "irresponsible"
+                ], 
+                "role": "'The World's End'' has a male example in the form of Gary King, a cheerful, lively middle-aged fan of classic Goth band The Sisters Of Mercy who wears a black trenchcoat and fingerless gloves. The character of Gary King is actually a parody of the way an older Perky Goth would be perceived by the rest of the world outside of the Goth subculture: as irresponsible and immature, with an adolescent attitude well into adulthood.", 
+                "id": "PerkyGoth"
+            }, 
+            {
+                "adjectives": [
+                    "regular"
+                ], 
+                "role": "The Chick: Peter (because Token Girl Sam wasn't a regular member of the gang and Peter was the girliest of the men).", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1213663", 
+    "poster_url": "TheWorldsEnd.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "BrokenBird", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength", 
+                "TheChick", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "KungFuPanda", 
+            "name": "Kung Fu Panda", 
+            "poster_url": "KungFuPanda.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "BrokenBird", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "PerkyGoth", 
+                "TheChick", 
+                "BrokenBird"
+            ], 
+            "shared_count": 3, 
+            "id": "FairyTail", 
+            "name": "Fairy Tail"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }
+    ], 
+    "id": "TheWorldsEnd", 
+    "name": "The World's End"
+}

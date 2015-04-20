@@ -1,0 +1,82 @@
+{
+    "plot": "Somewhere in Middle America, 1907: Maria II, the daugther of an Irish terrorist, meets after the dead of her father Maria I, the singer of an circus. She decided to stay with the circus. On her debue as a singer, she accidently invented strip-tease, that made the circus famous. But accidently they meet an sozialist revolutionair and finding themselves leading this revolution against the dictaor, the capitalists and the church.", 
+    "genres": "Adventure, Comedy, Romance", 
+    "release_year": "1965", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Bardot!Maria. Moreau!Maria tries her hand at this but fails, so she decides she'll be the one to do the talking.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Marias from Viva Maria!.", 
+                "id": "LovelyAngels"
+            }, 
+            {
+                "adjectives": [
+                    "Lad-ette"
+                ], 
+                "role": "The Lad-ette: Bardot!Maria.", 
+                "id": "TheLadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0059956", 
+    "poster_url": "VivaMaria.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheLadette", 
+                "ActionGirl", 
+                "LovelyAngels"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHeat", 
+            "name": "The Heat", 
+            "poster_url": "TheHeat.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Scream", 
+            "name": "Scream", 
+            "poster_url": "Scream.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "LovelyAngels"
+            ], 
+            "shared_count": 2, 
+            "id": "SuperSentai", 
+            "name": "Super Sentai"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "LovelyAngels"
+            ], 
+            "shared_count": 2, 
+            "id": "Bandidas", 
+            "name": "Bandidas", 
+            "poster_url": "Bandidas.jpg"
+        }
+    ], 
+    "id": "VivaMaria", 
+    "name": "Viva Maria!"
+}

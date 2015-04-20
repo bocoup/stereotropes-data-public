@@ -1,0 +1,73 @@
+{
+    "plot": "Running in from seemingly nowhere, Micky Dolenz, Davy Jones, Michael Nesmith & Peter Tork - better known collectively as The Monkees - disrupt a bridge opening ceremony. From where and why did they come to disrupt the proceedings? They were filming a series of vignettes in several different genres, including a wild west sequence, a desert war sequence, a Confederate war sequence, and a science fiction sequence. They disagree with much of what is happening around them, and try to figure out how to escape the oppression they feel - symbolized by a big black box in which they are seemingly imprisoned - by the forces around. That oppression is often shown in the form of \"The Big Victor Mature\".", 
+    "genres": "Comedy, Musical, Fantasy", 
+    "release_year": "1968", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Micky and Davy.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Belly Dancer: Featured in the \"Can You Dig It?\" sequence.", 
+                "id": "BellyDancer"
+            }
+        ]
+    }, 
+    "imdbid": "tt0063049", 
+    "poster_url": "Head.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BellyDancer"
+            ], 
+            "shared_count": 2, 
+            "id": "VanHelsing", 
+            "name": "Van Helsing"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BellyDancer"
+            ], 
+            "shared_count": 2, 
+            "id": "CharliesAngels", 
+            "name": "Charlie's Angels", 
+            "poster_url": "CharliesAngels.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "Head", 
+    "name": "Head"
+}

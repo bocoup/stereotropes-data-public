@@ -1,0 +1,79 @@
+{
+    "plot": "The city of Spokane, Washington is awakened by a North Korean paratrooper invasion. Marine Corps veteran Jed Eckert and his civilian brother, Matt, escape with a group of friends to an isolated cabin in the woods, where they witness the execution of their father at the hands of the ruthless Captain Cho. The brothers unite with their friends to form a guerrilla resistance group--the Wolverines--to drive the invaders from their home.", 
+    "genres": "Action, Thriller, War", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "good", 
+                    "warfare"
+                ], 
+                "role": "Child Soldiers: The movie does a good job of showing how warfare can psychologically scar child soldiers.", 
+                "id": "ChildSoldiers"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Soviet"
+                ], 
+                "role": "Broken Bird: It's strongly implied that one of the girls was raped by Soviet soldiers.", 
+                "id": "BrokenBird"
+            }
+        ]
+    }, 
+    "imdbid": "tt1234719", 
+    "poster_url": "RedDawn1984.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMonumentsMen", 
+            "name": "The Monuments Men", 
+            "poster_url": "TheMonumentsMen.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "CityOfLifeAndDeath", 
+            "name": "City of Life and Death", 
+            "poster_url": "CityOfLifeAndDeath.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }
+    ], 
+    "id": "RedDawn1984", 
+    "name": "Red Dawn "
+}

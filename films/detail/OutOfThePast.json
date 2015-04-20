@@ -1,0 +1,98 @@
+{
+    "plot": "Jeff Bailey, small-town gas pumper, has his mysterious past catch up with him one day when he's ordered to meet with gambler Whit Sterling. En route to the meeting, he tells girlfriend Ann his story. Flashback: Once, Jeff was a private eye hired by Sterling to find his mistress Kathie who shot Whit and absconded with $40,000. He traces her to Acapulco...where the delectable Kathie makes Jeff forget all about Sterling... Back in the present, Whit's new job for Jeff is clearly a trap, but Jeff's precautions only leave him more tightly enmeshed...", 
+    "genres": "Drama, Film-Noir, Thriller", 
+    "release_year": "1947", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Let's see, lying, stealing, committing murder, using sex to get what she wants. Kathie qualifies.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "quintessential", 
+                    "great"
+                ], 
+                "role": "Kathie Moffat from Out Of The Past is the quintessential film noir example. She lies, steals, kills at least three people and conspires to commit another murder, uses sex to ensnare men to do what she wants, and she looks great in a cocktail dress.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "straight", 
+                    "dark-haired", 
+                    "passionate", 
+                    "evil", 
+                    "virginal"
+                ], 
+                "role": "Light Feminine and Dark Feminine: Played utterly straight with dark-haired, passionate, evil Kathie and virginal blonde Ann.", 
+                "id": "LightFeminineAndDarkFeminine"
+            }, 
+            {
+                "adjectives": [
+                    "dark-haired", 
+                    "passionate", 
+                    "evil", 
+                    "virginal"
+                ], 
+                "role": "Played straight in Out Of The Past, with dark-haired, passionate, evil Kathie and virginal blonde Ann.", 
+                "id": "LightFeminineAndDarkFeminine"
+            }
+        ]
+    }, 
+    "imdbid": "tt0039689", 
+    "poster_url": "OutOfThePast.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "LemonadeJoe", 
+            "name": "Lemonade Joe", 
+            "poster_url": "LemonadeJoe.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanForever", 
+            "name": "Batman Forever", 
+            "poster_url": "BatmanForever.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }
+    ], 
+    "id": "OutOfThePast", 
+    "name": "Out Of The Past"
+}

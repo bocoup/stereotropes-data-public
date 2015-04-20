@@ -1,0 +1,103 @@
+{
+    "plot": "\"REC\" turns on a young TV reporter and her cameraman who cover the night shift at the local fire station. Receiving a call from an old lady trapped in her house, they reach her building to hear horrifying screams -- which begin a long nightmare and a uniquely dramatic TV report.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "colorful", 
+                    "pencil-thin", 
+                    "short", 
+                    "Asian"
+                ], 
+                "role": "Camp Gay: Cesar. He's wearing a colorful ascot, jewelry and a pencil-thin mustache. In his short interview, he mentions that he used to live with his mother and now lives alone, makes catty comments about the Asian family, fusses about his appearance, and hits on the cameraman.", 
+                "id": "CampGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Clara.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "old", 
+                    "such", 
+                    "other"
+                ], 
+                "role": "Crazy Cat Lady: Mrs. Izquierdo, the old woman whose breakdown after being infected sets the events of the film in motion, is referred as such by other characters. However, we never happen to see any of her pet cats...", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: \u00c1ngela. Subverted in that she doesn't make it.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Pregnant"
+                ], 
+                "role": "Pregnant Badass", 
+                "id": "PregnantBadass"
+            }
+        ]
+    }, 
+    "imdbid": "tt1038988", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BuffyTheVampireSlayer", 
+            "name": "Buffy the Vampire Slayer"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }, 
+        {
+            "shared": [
+                "PregnantBadass", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ConanTheBarbarian2011", 
+            "name": "Conan the Barbarian ", 
+            "poster_url": "ConanTheBarbarian2011.jpg"
+        }, 
+        {
+            "shared": [
+                "PregnantBadass", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LethalWeapon", 
+            "name": "Lethal Weapon", 
+            "poster_url": "LethalWeapon.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hausu", 
+            "name": "Hausu"
+        }
+    ], 
+    "id": "REC", 
+    "name": "[REC]"
+}

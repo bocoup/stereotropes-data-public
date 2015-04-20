@@ -1,0 +1,79 @@
+{
+    "plot": "Jason Voorhees, having barely survived a wound to his shoulder from his own machete, is back to revenge on all that visit \"his\" woods. A new group of friends come over to party at an area close to the campsite. This time, Jason will be stronger than ever, and getting a hockey mask from one of those friends.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Rick gets one when he hauls hay into the barn.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Chris.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0083972", 
+    "poster_url": "FridayThe13thPartIII.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Gutterballs", 
+            "name": "Gutterballs", 
+            "poster_url": "Gutterballs.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCabinInTheWoods", 
+            "name": "The Cabin in the Woods", 
+            "poster_url": "TheCabinInTheWoods.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FridayThe13th1980", 
+            "name": "Friday the 13th ", 
+            "poster_url": "FridayThe13th1980.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMutilator", 
+            "name": "The Mutilator", 
+            "poster_url": "TheMutilator.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "EvilDead", 
+            "name": "Evil Dead", 
+            "poster_url": "EvilDead.jpg"
+        }
+    ], 
+    "id": "FridayThe13thPartIII", 
+    "name": "Friday the 13th Part III"
+}

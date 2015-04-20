@@ -1,0 +1,85 @@
+{
+    "plot": "In tiny Anarene, Texas, in the lull between World War Two and the Korean Conflict, Sonny and Duane are best friends. Enduring that awkward period of life between boyhood and manhood, the two pass their time the best way they know how -- with the movie house, football, and girls. Jacey is Duane's steady, wanted by every boy in school, and she knows it. Her daddy is rich and her mom is good looking and loose. It's the general consensus that whoever wins Jacey's heart will be set for life. But Anarene is dying a quiet death as folks head for the big cities to make their livings and raise their kids. The boys are torn between a future somewhere out there beyond the borders of town or making do with their inheritance of a run-down pool hall and a decrepit movie house -- the legacy of their friend and mentor, Sam the Lion. As high school graduation approaches, they learn some difficult lessons about love, loneliness, and jealousy. Then folks stop attending the second-run features at the movie house and the time comes for the last picture show. With the closure of the movie house, the boys feel that a stage of their lives is closing. They stand uneasily on the threshold of the rest of their lives. (The movie was adapted from the novel by Larry McMurtry).", 
+    "genres": "Drama", 
+    "release_year": "1971", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy / The Obi-Wan: Sam the Lion.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mrs. Robinson: Sonny and Ruth Popper.", 
+                "id": "MrsRobinson"
+            }, 
+            {
+                "adjectives": [
+                    "Last"
+                ], 
+                "role": "The Last Picture Show: Sonny and Ruth Popper.", 
+                "id": "MrsRobinson"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Jacy Farrow.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0067328", 
+    "poster_url": "TheLastPictureShow.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "GeorgeOfTheJungle", 
+            "name": "George of the Jungle", 
+            "poster_url": "GeorgeOfTheJungle.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekNemesis", 
+            "name": "Star Trek: Nemesis", 
+            "poster_url": "StarTrekNemesis.jpg"
+        }
+    ], 
+    "id": "TheLastPictureShow", 
+    "name": "The Last Picture Show"
+}

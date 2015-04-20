@@ -1,0 +1,76 @@
+{
+    "plot": "Humorist Robert Benchley attempts to find Walt Disney to ask him to adapt a short story about a gentle dragon who would rather recite poetry than be ferocious. Along the way, he is given a tour of Walt Disney Studios, and learns about the animation process.", 
+    "genres": "Animation, Comedy, Family", 
+    "release_year": "1941", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "hard"
+                ], 
+                "role": "Camp Gay: The dragon is so camp it's hard to believe they got away with this in the 1940's.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Robert.", 
+                "id": "HenpeckedHusband"
+            }
+        ]
+    }, 
+    "imdbid": "tt0034091", 
+    "poster_url": "TheReluctantDragon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuHustle", 
+            "name": "Kung Fu Hustle", 
+            "poster_url": "KungFuHustle.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "AbsoluteBeginners", 
+            "name": "Absolute Beginners", 
+            "poster_url": "AbsoluteBeginners.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHangover", 
+            "name": "The Hangover", 
+            "poster_url": "TheHangover.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Ran", 
+            "name": "Ran", 
+            "poster_url": "Ran.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }
+    ], 
+    "id": "TheReluctantDragon", 
+    "name": "The Reluctant Dragon"
+}

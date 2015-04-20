@@ -1,0 +1,103 @@
+{
+    "plot": "A happily domesticated grizzly bear named Boog, has his perfect world turned upside down after he meets Elliot, a scrawny, fast-talking one-horned wild mule deer. They both end up stranded together in the woods during hunting season and it's up to the duo to rally all the other forest animals and turn the tables on the hunters.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "3rd"
+                ], 
+                "role": "Camp Straight: Alistair the llama from the 3rd movie. Dear god, Alistair.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [
+                    "Ian"
+                ], 
+                "role": "Ian, Manliest of Mule Deer Stags in Open Season is one, although he's not the Big Bad and generally helps everybody out.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "clear", 
+                    "Ian", 
+                    "tough", 
+                    "serious"
+                ], 
+                "role": "Jerk Jock: It's clear that Ian, Manliest of Mule Deer Stags, is supposed to be one of these. At the right angles, the fur on his head is even a mullet. While he clearly is a pretty tough guy and does deserve to be leading the herd, he is a serious jerk.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "bipedal", 
+                    "full-on"
+                ], 
+                "role": "Inverted in Open Season, where Eliot the Mule Deer is almost always bipedal, while Giselle, his love interest, is a full-on quadrupedal Talking Animal.", 
+                "id": "HumanoidFemaleAnimal"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spicy Latina: Rosie and Maria have urban Hispanic American accents.", 
+                "id": "SpicyLatina"
+            }
+        ]
+    }, 
+    "imdbid": "tt0400717", 
+    "poster_url": "OpenSeason.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "JerkJock", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Gutterballs", 
+            "name": "Gutterballs", 
+            "poster_url": "Gutterballs.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "WarriorsOfVirtue", 
+            "name": "Warriors of Virtue", 
+            "poster_url": "WarriorsOfVirtue.jpg"
+        }, 
+        {
+            "shared": [
+                "HumanoidFemaleAnimal", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "SpringtimeForPluto", 
+            "name": "Springtime For Pluto"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "Turbo", 
+            "name": "Turbo", 
+            "poster_url": "Turbo.jpg"
+        }
+    ], 
+    "id": "OpenSeason", 
+    "name": "Open Season"
+}

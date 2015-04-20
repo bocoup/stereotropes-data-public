@@ -1,0 +1,108 @@
+{
+    "plot": "A remake of the classic 1963 movie \"The Haunting\" about a team of paranormal experts who look into strange occurrences in an ill-fated house. Through the course of the night some will unravel, some will question, and all will fight for their lives as the house fights back.", 
+    "genres": "Fantasy, Horror, Mystery", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crusty Caretaker: Mr. Dudley.", 
+                "id": "CrustyCaretaker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "sure"
+                ], 
+                "role": "Creepy Housekeeper: Mrs. Dudley, who makes sure to remind the guests that she and her husband live miles away from the house, that there won't be anyone around if they need help, no one to hear them if they scream...and then unsmiles.", 
+                "id": "CreepyHouseKeeper"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Haunted Heroine: Nell. Most of the hauntings centers around her.", 
+                "id": "HauntedHeroine"
+            }, 
+            {
+                "adjectives": [
+                    "late"
+                ], 
+                "role": "My Beloved Smother: Eleanor's late mother.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman", 
+                "id": "ScreamingWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ophelia:  Nell as the house slowly drives her insane. She even starts twirling and humming to herself.", 
+                "id": "TheOphelia"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Theo and Nell.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0171363", 
+    "poster_url": "TheHaunting1963.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "HauntedHeroine", 
+                "TheOphelia"
+            ], 
+            "shared_count": 3, 
+            "id": "TheMothDiaries", 
+            "name": "The Moth Diaries", 
+            "poster_url": "TheMothDiaries.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother", 
+                "HauntedHeroine", 
+                "TheOphelia"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }, 
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRockyHorrorPictureShow", 
+            "name": "The Rocky Horror Picture Show", 
+            "poster_url": "TheRockyHorrorPictureShow.jpg"
+        }, 
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheScreamingSkull", 
+            "name": "The Screaming Skull", 
+            "poster_url": "TheScreamingSkull.jpg"
+        }
+    ], 
+    "id": "TheHaunting1963", 
+    "name": "The Haunting "
+}

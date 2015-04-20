@@ -1,0 +1,96 @@
+{
+    "plot": "Four members of a high school band called Mystery do everything they can to attend a KISS concert in Detroit. In order to make it to the show they must steal, cheat, strip, deal with an anti-rock mom and generally do whatever it takes to see the band that has inspired them to be musicians.", 
+    "genres": "Comedy, Music", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "understandable", 
+                    "little"
+                ], 
+                "role": "Jerk Jock: Chongo - but then again his aggression is understandable since Trip tried to rob his little brother.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "former", 
+                    "late-night"
+                ], 
+                "role": "Fanservice Extra: Averted. The strip-club patron who takes an interest in Hawk is played by Shannon Tweed, a former Playboy Playmate who made a career out of taking her clothes off in B-movies that typically aired on late-night Cinemax or Showtime. In this movie, however, she keeps her clothes on. Perhaps understandably, since she was by this point the mother of Nick and Sophie Simmons.  Eventually she and Gene tied the knot, too.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mrs. Robinson: The aforementioned Ms. Tweed plays a cougar who offers money to Hawk for sex.  He refuses the money up front, they have sex anyway, and she STILL gives him the money.", 
+                "id": "MrsRobinson"
+            }, 
+            {
+                "adjectives": [
+                    "chain-smoking", 
+                    "bible-thumping", 
+                    "private"
+                ], 
+                "role": "My Beloved Smother: Jam's chain-smoking, bible-thumping mom who burns the gang's KISS tickets. She doesn't even let him get dressed in private.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0165710", 
+    "poster_url": "DetroitRockCity.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "JerkJock", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "MrsRobinson", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "EdwardScissorhands", 
+            "name": "Edward Scissorhands", 
+            "poster_url": "EdwardScissorhands.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAmazingSpiderMan", 
+            "name": "The Amazing Spider-Man", 
+            "poster_url": "TheAmazingSpiderMan.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }
+    ], 
+    "id": "DetroitRockCity", 
+    "name": "Detroit Rock City"
+}

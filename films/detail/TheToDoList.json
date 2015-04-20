@@ -1,0 +1,76 @@
+{
+    "plot": "Brandy Klark (Aubrey Plaza) has just graduated from high school where she excelled in every subject, except real-life sexual education. When her older sister tells her how important it is to be experienced, Brandy writes out a sex to do list for herself for the summer. Her friend Cameron might be the perfect guinea pig while she sets her sights on the popular and sexy Rusty Waters as the ultimate end goal. But once feelings get in the way, it becomes much harder for Brandy to check off the remaining items on her sex to do list.", 
+    "genres": "Comedy", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Rusty Waters, the guy Brandy wants to lose her virginity to, spends much of his time shirtless.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective"
+                ], 
+                "role": "Overprotective Dad: Justified, given Brandy's sister's behavior.", 
+                "id": "OverprotectiveDad"
+            }
+        ]
+    }, 
+    "imdbid": "tt1758795", 
+    "poster_url": "TheToDoList.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFlintstones", 
+            "name": "The Flintstones", 
+            "poster_url": "TheFlintstones.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackCloud", 
+            "name": "Black Cloud", 
+            "poster_url": "BlackCloud.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "TheToDoList", 
+    "name": "The To Do List"
+}

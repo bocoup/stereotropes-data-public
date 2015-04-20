@@ -1,0 +1,129 @@
+{
+    "plot": "1950's Los Angeles is the seedy backdrop for this intricate noir-ish tale of police corruption and Hollywood sleaze. Three very different cops are all after the truth, each in their own style: Ed Exley, the golden boy of the police force, willing to do almost anything to get ahead, except sell out; Bud White, ready to break the rules to seek justice, but barely able to keep his raging violence under control; and Jack Vincennes, always looking for celebrity and a quick buck until his conscience drives him to join Exley and White down the one-way path to find the truth behind the dark world of L.A. crime.", 
+    "genres": "Crime, Drama, Mystery", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bud towards the end of L.A. Confidential when he finds out that  Lynn slept with Exley.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "due"
+                ], 
+                "role": "Crazy Jealous Guy: Bud towards the end of the film, due to  finding out Lynn slept with Exley.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "few", 
+                    "vital"
+                ], 
+                "role": "Dumb Muscle: Bud, or at least what Exley initially thinks of him. More importantly, it's what  Dudley Smith thinks of White and why he drags him into his scheme. It's one of his few, but vital, mistakes. Dick Stensland and Buzz Meeks, until they aspire to a bigger slice of the pie. Unfortunately for them, they're still dumb in comparison to the man they chose to cross. If they'd really got smart, they'd have figured that it was better to just do as they were told.", 
+                "id": "DumbMuscle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Friday: Inez to Preston Exley and Ray Dieterling in the book.", 
+                "id": "GirlFriday"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "High-Class Call Girl: Lynn and the other girls at Fleur de Lis who are cut to look like movie stars.", 
+                "id": "HighClassCallGirl"
+            }, 
+            {
+                "adjectives": [
+                    "high"
+                ], 
+                "role": "Lynn Bracken from L.A. Confidential is part of a stable of high class call girls who are made to look like movie stars.", 
+                "id": "HighClassCallGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Lynn Bracken.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Woman in Black: Lynn in her first appearance.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [
+                    "subsequent", 
+                    "iconic"
+                ], 
+                "role": "Woman in White: Lynn in most subsequent appearances, especially in the iconic scene where she  seduces Ed.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119488", 
+    "poster_url": "LAConfidential.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInBlack", 
+                "HookerWithAHeartOfGold", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "CrazyJealousGuy", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "CrazyJealousGuy", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }
+    ], 
+    "id": "LAConfidential", 
+    "name": "L.A. Confidential"
+}

@@ -1,0 +1,78 @@
+{
+    "plot": "Wimpy secret agent who looks like Dr. Smith from \"Lost In Space\" helps protect a scientist from a generic Iron Curtain country who has developed a gun that shoots boogers at people from a evil guy who looks like Pee-Wee Herman.", 
+    "genres": "Adventure, Action, Drama", 
+    "release_year": "1966", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "old", 
+                    "youthful"
+                ], 
+                "role": "Dirty Old Man: Adam is easily old enough to be the extremely youthful Ava's father. This doesn't go unnoticed by the riffers, of course.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Ava.", 
+                "id": "HotScientist"
+            }
+        ]
+    }, 
+    "imdbid": "tt0060074", 
+    "poster_url": "AgentForHARM.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HotScientist", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAvengers1998", 
+            "name": "The Avengers ", 
+            "poster_url": "TheAvengers1998.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }
+    ], 
+    "id": "AgentForHARM", 
+    "name": "Agent for H.A.R.M."
+}

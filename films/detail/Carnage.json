@@ -1,0 +1,77 @@
+{
+    "plot": "In Brooklyn Bridge Park, eleven year old Zachary Cowan strikes his eleven year old classmate Ethan Longstreet across the face with a stick after an argument. Among the more serious of Ethan's injuries is a permanently missing tooth and the possibility of a second tooth also being lost. Their respective parents learn of the altercation through Ethan's parents questioning him about his injuries. The Longstreet parents invite the Cowan parents to their Brooklyn apartment to deal with the incident in a civilized manner. They are: Penelope Longstreet, whose idea it was to invite the Cowans, she whose priorities in life include human rights and justice; Michael Longstreet, who tries to be as accommodating as possible to retain civility in any situation; Nancy Cowan, a nervous and emotionally stressed woman; and Alan Cowan, who is married more to his work as evidenced by the attachment he has to his cell phone and taking work calls at the most inopportune times. Although the meeting starts off civilized enough, it quickly degenerates after an unfortunate incident by Nancy. The degeneration of their meeting not only has to do with their boys' fight, but also the other couple's fitness as parents, the state of their respective marriages and their place in a crazy world.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "negative", 
+                    "much", 
+                    "wrong"
+                ], 
+                "role": "Straw Misogynist: Both Alan and Michael have some very sexist views, that clearly paint them in an even more negative light. It should be noted that the women are not presented as being much better, so it's more a case of everyone being wrong.", 
+                "id": "StrawMisogynist"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Two of them, eventually. The two men also drink, but not as heavily.", 
+                "id": "LadyDrunk"
+            }
+        ]
+    }, 
+    "imdbid": "tt1692486", 
+    "poster_url": "Carnage.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "LadyDrunk"
+            ], 
+            "shared_count": 2, 
+            "id": "VisitingHours", 
+            "name": "Visiting Hours", 
+            "poster_url": "VisitingHours.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "AuntieMame", 
+            "name": "Auntie Mame", 
+            "poster_url": "AuntieMame.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist"
+            ], 
+            "shared_count": 1, 
+            "id": "FiftyFifty", 
+            "name": "50/50", 
+            "poster_url": "FiftyFifty.jpg"
+        }
+    ], 
+    "id": "Carnage", 
+    "name": "Carnage"
+}

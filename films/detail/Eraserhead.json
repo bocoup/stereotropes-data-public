@@ -1,0 +1,79 @@
+{
+    "plot": "A film that defies conventional logic and storytelling, fueled by its dark nightmarish atmosphere and compellingly disturbing visuals. Henry Spencer is a hapless factory worker on his vacation when he finds out he's the father of a hideously deformed baby. Now living with his unhappy, malcontent girlfriend, the child cries day and night, driving Henry and his girlfriend to near insanity.", 
+    "genres": "Drama, Horror, Mystery", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: Mr. X", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Eraserhead's Lady in the Radiator could be seen as a mutated example of this.", 
+                "id": "TheChanteuse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Beautiful Girl Across the Hall", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0074486", 
+    "poster_url": "Eraserhead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChanteuse", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "DickTracy", 
+            "name": "Dick Tracy", 
+            "poster_url": "DickTracy.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse", 
+                "TheVamp"
+            ], 
+            "shared_count": 2, 
+            "id": "GhostShip", 
+            "name": "Ghost Ship", 
+            "poster_url": "GhostShip.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "Sunrise", 
+            "name": "Sunrise", 
+            "poster_url": "Sunrise.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "MonsterHouse", 
+            "name": "Monster House", 
+            "poster_url": "MonsterHouse.jpg"
+        }
+    ], 
+    "id": "Eraserhead", 
+    "name": "Eraserhead"
+}

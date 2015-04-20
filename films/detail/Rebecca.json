@@ -1,0 +1,140 @@
+{
+    "plot": "A shy ladies' companion, staying in Monte Carlo with her stuffy employer, meets the wealthy Maxim de Winter. She and Max fall in love, marry and return to Manderley, his large country estate in Cornwall. Max is still troubled by the death of his first wife, Rebecca, in a boating accident the year before. The second Mrs. de Winter clashes with the housekeeper, Mrs. Danvers, and discovers that Rebecca still has a strange hold on everyone at Manderley.", 
+    "genres": "Mystery, Thriller", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Charmer: Rebecca.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "old", 
+                    "modest", 
+                    "nasty"
+                ], 
+                "role": "Alpha Bitch: Mrs. Danvers pulls a lot of the tactics despite being too old to qualify. Alice one of the maids that sneers at the narrator's modest and plain underwear fits better. Rebecca to the people she was openly nasty to.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "creepy", 
+                    "such"
+                ], 
+                "role": "Creepy House Keeper: Mrs. Danvers. She is creepy in herself, with a deathlike appearance, and in her devotion to the memory of Rebecca such that she doesn't wash the clothes of Rebecca's scent and goes to her room every day.", 
+                "id": "CreepyHouseKeeper"
+            }, 
+            {
+                "adjectives": [
+                    "intelligent", 
+                    "sympathetic", 
+                    "senile"
+                ], 
+                "role": "Grande Dame: Edythe van Hopper, who passes over into Rich Bitch territory; Beatrice, who is on the more intelligent and sympathetic end of the scale. Also Lady Crowen, who is rather ridiculous. Maxim's grandmother was one before becoming senile.", 
+                "id": "GrandeDame"
+            }, 
+            {
+                "adjectives": [
+                    "second"
+                ], 
+                "role": "Haunted Heroine: Figuratively speaking. The second Mrs. de Winter is obsessed with Rebecca, to the point that she feels like Rebecca is haunting the house, and sometimes imagines her visually. Mrs. Danvers helps things along...", 
+                "id": "HauntedHeroine"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mrs. Danvers from Daphne du Maurier's Rebecca (1938).", 
+                "id": "PsychoLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "musical", 
+                    "last"
+                ], 
+                "role": "Psycho Lesbian: Mrs. Danvers, though in the film version, this was put only in subtext. In the musical, she dies wearing Rebecca's nightgown, which she has never washed since Rebecca wore it last.", 
+                "id": "PsychoLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Mrs. Van Hopper is relentlessly unpleasant. Rebecca, as it turns out.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in Black: The narrator wishes she was this during Maxim's courtship of her. Maxim quickly shoots the idea down; he likes her youth and innocence.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White: Both Mrs. de Winters for the fancy dress ball.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0032976", 
+    "poster_url": "Rebecca.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInBlack", 
+                "PsychoLesbian", 
+                "AlphaBitch", 
+                "WomanInWhite", 
+                "HauntedHeroine"
+            ], 
+            "shared_count": 5, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "AlphaBitch", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "TheCharmer", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "AlphaBitch", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "PsychoLesbian", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendOfTheSeeker", 
+            "name": "Legend of the Seeker"
+        }
+    ], 
+    "id": "Rebecca", 
+    "name": "Rebecca"
+}

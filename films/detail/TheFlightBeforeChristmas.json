@@ -1,0 +1,75 @@
+{
+    "plot": "A reindeer boy named Niko dreams about flying like his father, whom he has never met. Despite constant mocking from others, he sneaks out of his home valley to take flying lessons from Julius, a flying squirrel.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "former"
+                ], 
+                "role": "Cool Old Guy: Tobias, the former  leader of the Flying Forces.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad", 
+                "id": "DisappearedDad"
+            }
+        ]
+    }, 
+    "imdbid": "tt0885415", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "TheFlightBeforeChristmas", 
+    "name": "The Flight Before Christmas"
+}

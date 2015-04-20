@@ -1,0 +1,101 @@
+{
+    "plot": "A family driving through a small town gets lost and winds up at a backwoods shack managed by Torgo, who takes care of it while The Master is away. The Master worships Manos, an evil deity, and he also wears a neat cape. When Torgo lets the family stay, The Master awakens and does mean stuff like burning off Torgo's hand and sicking his dog on the family pet. Meanwhile, The Master's wives wrestle for his favor.", 
+    "genres": "Horror", 
+    "release_year": "1966", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: Mike", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crusty Caretaker: Torgo is one of these. Mike presumably takes his place in the ending.", 
+                "id": "CrustyCaretaker"
+            }, 
+            {
+                "adjectives": [
+                    "K-classic", 
+                    "similar"
+                ], 
+                "role": "Torgo\n Another MST 3 K-classic, Werewolf, had a similar character.\n And Mickey from The Screaming Skull\n Also present in Terror from the Year 5000.", 
+                "id": "CrustyCaretaker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "stupid", 
+                    "inaudible"
+                ], 
+                "role": "Neutral Female: Margaret. Though, thanks to either Mike being rock stupid or the house (as it is implied) having the power to render noise inaudible to those outside (or both), she still takes action and slaps Torgo.", 
+                "id": "NeutralFemale"
+            }, 
+            {
+                "adjectives": [
+                    "wrong", 
+                    "dependent"
+                ], 
+                "role": "Margaret may be even stupider. She clearly notices everything that's going wrong but does nothing about it as if she is completely dependent on Mike to do everything for her. Considering how she constantly flies off the handle at the slightest inconvience or problem this may just be the case.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0060666", 
+    "poster_url": "ManosTheHandsOfFate.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRockyHorrorPictureShow", 
+            "name": "The Rocky Horror Picture Show", 
+            "poster_url": "TheRockyHorrorPictureShow.jpg"
+        }, 
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheScreamingSkull", 
+            "name": "The Screaming Skull", 
+            "poster_url": "TheScreamingSkull.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "IndianaJonesAndTheTempleOfDoom", 
+            "name": "Indiana Jones and the Temple of Doom", 
+            "poster_url": "IndianaJonesAndTheTempleOfDoom.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "EightHeadsInADuffelBag", 
+            "name": "8 Heads In A Duffel Bag", 
+            "poster_url": "EightHeadsInADuffelBag.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "DawnOfTheDead", 
+            "name": "Dawn of the Dead", 
+            "poster_url": "DawnOfTheDead.jpg"
+        }
+    ], 
+    "id": "ManosTheHandsOfFate", 
+    "name": "Manos The Hands of Fate"
+}

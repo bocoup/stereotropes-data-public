@@ -1,0 +1,72 @@
+{
+    "plot": "Flush with their revival's success, Kermit the Frog and his friends are approached by Dominic Badguy to go on a world tour. Unknown to them, this is all part of the sinister plan of Constantine, the world's most evil frog, to become the greatest thief of all time. After making sure that Kermit is jailed as himself, Constantine impersonates him to use the Muppets' tour as cover for his scheme. While Sam the Eagle and Inspector Jean Pierre Napoleon investigate, the Muppets find their boss seems strangely changed even as Kermit desperately attempts to escape to stop the impostor. Only when Walter, Fozzie and Animal realize the truth is there a chance to prevent Constantine from pulling off the crime of the century.", 
+    "genres": "Adventure, Comedy, Crime", 
+    "release_year": "2014", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel out of Distress: When Constantine tries to make off with Miss Piggy after their wedding was interrupted by Kermit, she quickly frees herself from her restraints and proceeds to beat the crap out of the impostor.", 
+                "id": "DamselOutOfDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Gaussian"
+                ], 
+                "role": "Gaussian Girl: Played Straight until you notice it's because Constantine is smearing Vaseline over the lens of the camera that represents Miss Piggy's point of view in order to make her see him like that.", 
+                "id": "GaussianGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt2281587", 
+    "poster_url": "MuppetsMostWanted.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GaussianGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SkyCaptainAndTheWorldOfTomorrow", 
+            "name": "Sky Captain and the World of Tomorrow", 
+            "poster_url": "SkyCaptainAndTheWorldOfTomorrow.jpg"
+        }, 
+        {
+            "shared": [
+                "GaussianGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselOutOfDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "RaidersOfTheLostArk", 
+            "name": "Raiders of the Lost Ark", 
+            "poster_url": "RaidersOfTheLostArk.jpg"
+        }, 
+        {
+            "shared": [
+                "GaussianGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselOutOfDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }
+    ], 
+    "id": "MuppetsMostWanted", 
+    "name": "Muppets Most Wanted"
+}

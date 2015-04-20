@@ -1,0 +1,77 @@
+{
+    "plot": "Thomas Craven is a detective who has spent years working the streets of Boston. When his own daughter is killed outside his own home, Craven soon realizes that her death is only one piece of an intriguing puzzle filled with corruption and conspiracy, and it falls to him to discover who is behind the crime.", 
+    "genres": "Crime, Drama, Mystery", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Craven", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl \u2014 Emma.", 
+                "id": "DaddysGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1226273", 
+    "poster_url": "EdgeOfDarkness2010.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Tarzan", 
+            "name": "Tarzan", 
+            "poster_url": "Tarzan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DaddysGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "DespicableMe", 
+            "name": "Despicable Me", 
+            "poster_url": "DespicableMe.jpg"
+        }
+    ], 
+    "id": "EdgeOfDarkness2010", 
+    "name": "Edge of Darkness"
+}

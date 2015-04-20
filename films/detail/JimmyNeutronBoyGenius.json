@@ -1,0 +1,105 @@
+{
+    "plot": "Jimmy Neutron is a boy genius and way ahead of his friends, but when it comes to being cool, he's a little behind. All until one day when his parents, and parents all over Earth are kidnapped by aliens, it's up to him to lead all the children of the world to rescue their parents.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "2001", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: Hugh.", 
+                "id": "BumblingDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Cindy.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "young", 
+                    "Early-Installment", 
+                    "present", 
+                    "different", 
+                    "few", 
+                    "later", 
+                    "much", 
+                    "later", 
+                    "little"
+                ], 
+                "role": "Missing Mom: Sheen. Word of God says his mother died when he was young - they don't say her cause of death, however. Fits also with Early-Installment Weirdness: Sheen's mom is clearly present in the end scene with Sheen's dad. His dad also displays a very different attitude from his few appearances later in the series (he's much... more fatherly than he later was shown to be.) She just suffered Chuck Cunningham Syndrome that was retroactively remade into her having died when Sheen was little.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Libby.", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Libby", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0268397", 
+    "poster_url": "JimmyNeutronBoyGenius.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BumblingDad", 
+                "TheChick", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "AlphaBitch", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "AlphaBitch", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "PitchPerfect", 
+            "name": "Pitch Perfect", 
+            "poster_url": "PitchPerfect.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "AlphaBitch", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "GeekCharming", 
+            "name": "Geek Charming"
+        }, 
+        {
+            "shared": [
+                "BumblingDad", 
+                "SassyBlackWoman", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }
+    ], 
+    "id": "JimmyNeutronBoyGenius", 
+    "name": "Jimmy Neutron: Boy Genius"
+}

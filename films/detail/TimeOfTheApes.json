@@ -1,0 +1,77 @@
+{
+    "plot": "Time of the Apes is a strung-together movie made from several episodes of a Japanese TV show. Big-hipped Catherine and her two charges, Johnny (who \"doesn't care\") and Caroline, are sent to some alternate time-line by being frozen in cryogenic tubes during an earthquake. They end up on a planet where apes rule humans but are ruled themselves by a supercomputer named \"UECOM\", which is a malevolent artificial being created by humans.", 
+    "genres": "Action, Fantasy, Sci-Fi", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Godo is quite pretty, especially after he shaves.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Kazuko/Catherine"
+                ], 
+                "role": "Team Mom: Kazuko/Catherine.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094153", 
+    "similar": [
+        {
+            "shared": [
+                "TeamMom", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "DiaryOfAMadBlackWoman", 
+            "name": "Diary of a Mad Black Woman", 
+            "poster_url": "DiaryOfAMadBlackWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "MirrorMirror", 
+            "name": "Mirror, Mirror"
+        }
+    ], 
+    "id": "TimeOfTheApes", 
+    "name": "Time of the Apes"
+}

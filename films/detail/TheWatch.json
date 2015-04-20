@@ -1,0 +1,78 @@
+{
+    "plot": "In Glenview, Ohio, Evan is the manager of the Costco department store and married to Abby. When the Costco night watchman, Antonio Guzman, is mysteriously murdered, Evan organizes The Neighborhood Watch, a watch team with his suburban neighbors Bob, Franklin and Jamarcus to protect the neighborhood and find the killer of Antonio. Soon they discover that the murderer is an alien that is preparing to invade Earth, and they become the last hope of mankind on Earth.", 
+    "genres": "Comedy, Sci-Fi", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Overprotective"
+                ], 
+                "role": "Overprotective Dad/Papa Wolf: Bob", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick/The Sixth Ranger: Abby", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1298649", 
+    "poster_url": "TheWatch.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Super8", 
+            "name": "Super 8", 
+            "poster_url": "Super8.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "LemonadeMouth", 
+            "name": "Lemonade Mouth", 
+            "poster_url": "LemonadeMouth.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TransformersAgeOfExtinction", 
+            "name": "Transformers: Age of Extinction", 
+            "poster_url": "TransformersAgeOfExtinction.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "TheWatch", 
+    "name": "The Watch"
+}

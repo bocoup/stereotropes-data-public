@@ -1,0 +1,94 @@
+{
+    "plot": "This story is the tale of two brothers: one a successful counterfeiter and the younger a fledgling graduate of the HK police academy. The plot revolves around the split when the younger brother learns the other is a criminal and the efforts of the criminal brother to reform. Along the way are plenty of heists, double-crosses, and shoot outs.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "pile", 
+                    "terrified", 
+                    "only"
+                ], 
+                "role": "A Better Tomorrow II: The servant - hitman Chong is given a pile of cash by his terrified employer, but completely ignores it, indicating that his only concern is finding a Worthy Opponent, which he ultimately finds in Ken Gor.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "white", 
+                    "white", 
+                    "final"
+                ], 
+                "role": "Man in White: The white suit is used as a status symbol in the triad, and Shing wears a white longcoat in the final showdown.", 
+                "id": "ManInWhite"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Kit and Ho's father.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cute Clumsy Girl: Jackie's introduction.", 
+                "id": "CuteClumsyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092263", 
+    "poster_url": "ABetterTomorrow.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGreatRace", 
+            "name": "The Great Race", 
+            "poster_url": "TheGreatRace.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "JusticeLeagueCrisisOnTwoEarths", 
+            "name": "Crisis on Two Earths", 
+            "poster_url": "JusticeLeagueCrisisOnTwoEarths.jpg"
+        }
+    ], 
+    "id": "ABetterTomorrow", 
+    "name": "A Better Tomorrow"
+}

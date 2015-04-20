@@ -1,0 +1,107 @@
+{
+    "plot": "All Tess Trueheart wants is to settle down to a quiet life with her boyfriend, detective Dick Tracy. But there's something pretty rotten going on in town, with someone pretty rotten behind it, and Tracy has his hands full with the likes of villain Big Boy Caprice and with the almost irresistable Breathless Mahoney.", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "drive", 
+                    "final", 
+                    "last"
+                ], 
+                "role": "Dirty Coward: Big Boy instructs all his men to gather in their cars and drive out into the street in front of the Club Ritz to meet the police in a final showdown - but himself chickens out at the last minute, attempting to flee across the river with Tess as his hostage. Although a smart move on his part; the criminals get mowed down easily since they're bottlenecked coming out of the garage.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Dude: Tracy winds up as this on more than one occasion.", 
+                "id": "DistressedDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Breathless loves playing with this trope.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Madonna.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "classic"
+                ], 
+                "role": "The 1990 Dick Tracy movie had Breathless Mahoney, classic nightclub Femme Fatale played by no one less than Madonna. Her performance of \"Sooner or Later (I Always Get My Man)\" actually won an Academy Award.", 
+                "id": "TheChanteuse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Breathless Mahoney.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0099422", 
+    "poster_url": "DickTracy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "FemmeFatale", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse", 
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "FemmeFatale", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "CoolWorld", 
+            "name": "Cool World", 
+            "poster_url": "CoolWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "Lucifer", 
+            "name": "Lucifer"
+        }
+    ], 
+    "id": "DickTracy", 
+    "name": "Dick Tracy"
+}

@@ -1,0 +1,65 @@
+{
+    "plot": "\"Farewell, My Concubine\" is a movie with two parallel, intertwined stories. It is the story of two performers in the Beijing Opera, stage brothers, and the woman who comes between them. At the same time, it attempts to do no less than squeeze the entire political history of China in the twentieth century into a three-hour time-frame.", 
+    "genres": "Drama, Music, Romance", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Well, Dirty Old Eunuch...", 
+                "id": "DirtyOldMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0106332", 
+    "poster_url": "FarewellMyConcubine.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AgentForHARM", 
+            "name": "Agent for H.A.R.M.", 
+            "poster_url": "AgentForHARM.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }
+    ], 
+    "id": "FarewellMyConcubine", 
+    "name": "Farewell My Concubine"
+}

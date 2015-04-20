@@ -1,0 +1,65 @@
+{
+    "plot": "A government agent assigns a scientist to help one of his agents track down a Russian defector who is a cyborg. Meanwhile, an organization known as The Upper Order is plotting to take over the world by using the cyborg's powers.", 
+    "genres": "Action, Sci-Fi, Thriller", 
+    "release_year": "1991", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "forth"
+                ], 
+                "role": "Neutral Female: Myla, in more ways than one. Hart and Vaughn pass her back and forth like a frisbee, she initiates none of the action, and everybody is confused about what side she's on.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0099577", 
+    "poster_url": "Firehead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "RawDeal", 
+            "name": "Raw Deal", 
+            "poster_url": "RawDeal.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScarletPumpernickel", 
+            "name": "The Scarlet Pumpernickel"
+        }
+    ], 
+    "id": "Firehead", 
+    "name": "Firehead"
+}

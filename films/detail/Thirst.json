@@ -1,0 +1,86 @@
+{
+    "plot": "Sang-hyun, a priest working for a hospital, selflessly volunteers for a secret vaccine development project intended to eradicate a deadly virus. However, the virus eventually takes over the priest. He nearly dies, but makes a miraculous recovery by an accidental transfusion of vampire blood. He realizes his sole reason for living: the pleasures of the flesh.", 
+    "genres": "Drama, Horror, Thriller", 
+    "release_year": "2009", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Tae-ju", 
+                    "amoral"
+                ], 
+                "role": "Femme Fatale: Tae-ju, who seduces Sang-hyun, convinces him to murder her husband and, after he turns her into a vampire, becomes a gleefully amoral predator.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Lady Ra dotes on Kang-woo, who always seems to be ill.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [
+                    "tough", 
+                    "Tae-ju", 
+                    "care", 
+                    "Tae-ju", 
+                    "Sang-hyun", 
+                    "much"
+                ], 
+                "role": "Wicked Stepmother: A subversion. Lady Ra is tough on Tae-ju, but during a drinking session she reveals that she does care about Tae-ju and plans to put the family business in her name. Tae-ju makes Sang-hyun believe that her family is much worse than they really are.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0762073", 
+    "poster_url": "Thirst.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FemmeFatale", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "ThrowMommaFromTheTrain", 
+            "name": "Throw Momma from the Train", 
+            "poster_url": "ThrowMommaFromTheTrain.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }
+    ], 
+    "id": "Thirst", 
+    "name": "Thirst"
+}

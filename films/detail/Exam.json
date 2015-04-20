@@ -1,0 +1,92 @@
+{
+    "plot": "Eight talented candidates have reached the final stage of selection to join the ranks of a mysterious and powerful corporation. Entering a windowless room, an Invigilator gives them eighty minutes to answer one simple question. He outlines three rules they must obey or be disqualified: don't talk to him or the armed guard by the door, don't spoil their papers and don't leave the room. He starts the clock and leaves. The candidates turn over their question papers, only to find they're completely blank. After the initial confusion has subsided, one frustrated candidate writes 'I believe I deserve...,' and is promptly ejected for spoiling. The remaining candidates soon figure out they're permitted to talk to each other, and they agree to cooperate in order to figure out the question: then they can compete to answer it. At first they suspect the question may be hidden in their papers like a security marker in a credit card, and they figure out ways to change their environment to expose the hidden words. But light, liquids and other plans all come to naught. Soon enough, the candidates begin to uncover each other's background, prejudices and hidden agendas. Tensions rise as the clock steadily descends towards zero, and each candidate must decide how far they are willing to go to secure the ultimate job . . .", 
+    "genres": "Mystery, Thriller", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "significant", 
+                    "stubble", 
+                    "full", 
+                    "villainous"
+                ], 
+                "role": "Beard of Evil: White has a significant amount of stubble when compared to Black.  Brown also has a full grown beard, although he's less villainous than White.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "black", 
+                    "scary"
+                ], 
+                "role": "Scary Black Man: the Invigilator is black and disqualifies people; the lattter makes him scary.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Self-Made"
+                ], 
+                "role": "Never a Self-Made Woman: White accuses Blonde of this.", 
+                "id": "NeverASelfMadeWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt1258197", 
+    "poster_url": "Exam.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeverASelfMadeWoman", 
+                "BeardOfEvil", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "NeverASelfMadeWoman", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "HorribleBosses", 
+            "name": "Horrible Bosses", 
+            "poster_url": "HorribleBosses.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverASelfMadeWoman", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TransformersDarkOfTheMoon", 
+            "name": "Transformers: Dark of the Moon", 
+            "poster_url": "TransformersDarkOfTheMoon.jpg"
+        }
+    ], 
+    "id": "Exam", 
+    "name": "Exam"
+}

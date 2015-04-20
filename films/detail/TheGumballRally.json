@@ -1,0 +1,98 @@
+{
+    "plot": "A group of people from different backgrounds have one thing in common: when they hear the world \"gumball\" whispered by one of the others, they know that it's time for the Gumball Rally: a no-holds barred, secret, winner-take-all rally across the USA.", 
+    "genres": "Comedy", 
+    "release_year": "1976", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Good Ol' Boys: The Camaro Z28 team. Also the Arizona state trooper.", 
+                "id": "GoodOlBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The redneck team in the Camaro Z-28 in The Gumball Rally. Also the Arizona state trooper.", 
+                "id": "GoodOlBoy"
+            }, 
+            {
+                "adjectives": [
+                    "Quintessential", 
+                    "British", 
+                    "Mercedes-Benz"
+                ], 
+                "role": "Quintessential British Gentleman: The crew of the Mercedes-Benz 300SL.", 
+                "id": "QuintessentialBritishGentleman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Mercedez Benz team in The Gumball Rally, played by J. Pat O'Malley and Vaugn Taylor.", 
+                "id": "QuintessentialBritishGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "original", 
+                    "superior"
+                ], 
+                "role": "At least start with Joann Nail and Susan Flannery from the original (and superior) The Gumball Rally.", 
+                "id": "BikerBabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Biker Babe: Joann Nail and Susan Flannery play a pair in a Porsche 911.", 
+                "id": "BikerBabe"
+            }
+        ]
+    }, 
+    "imdbid": "tt0074597", 
+    "poster_url": "TheGumballRally.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BikerBabe"
+            ], 
+            "shared_count": 1, 
+            "id": "SkyCaptainAndTheWorldOfTomorrow", 
+            "name": "Sky Captain and the World of Tomorrow", 
+            "poster_url": "SkyCaptainAndTheWorldOfTomorrow.jpg"
+        }, 
+        {
+            "shared": [
+                "QuintessentialBritishGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "BikerBabe"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "GoodOlBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "BikerBabe"
+            ], 
+            "shared_count": 1, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }
+    ], 
+    "id": "TheGumballRally", 
+    "name": "The Gumball Rally"
+}

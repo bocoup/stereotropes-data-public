@@ -1,0 +1,86 @@
+{
+    "plot": "Desperate to cure her near catatonic sister, intrepid authoress Ad\u00e8le Blanc-Sec braves ancient Egyptian tombs and modern Egyptian lowlife to locate a mummified doctor and get him back to Paris. Her hope is that oddball Professor Esp\u00e9randieu will then use his unusual powers to bring the doctor back to life so he, in turn, can use his centuries-old skills on the unfortunate sister. In Paris however Esp\u00e9randieu is already causing mayhem, having brought to life what was a safe museum egg but is now a very active pterodactyl. Paris 1911 may not be the healthiest place to be.", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded", 
+                    "rescue", 
+                    "tired"
+                ], 
+                "role": "Absent-Minded Professor \u2014 even refuses rescue from the guillotine because he's too tired to leave the prison", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Great White Hunter", 
+                "id": "GreatWhiteHunter"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Ad\u00e8le"
+                ], 
+                "role": "Action Girl: Ad\u00e8le, though she relies on her wits most of her time.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1179025", 
+    "similar": [
+        {
+            "shared": [
+                "GreatWhiteHunter", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "JurassicPark", 
+            "name": "Jurassic Park", 
+            "poster_url": "JurassicPark.jpg"
+        }, 
+        {
+            "shared": [
+                "GreatWhiteHunter", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 2, 
+            "id": "BringingUpBaby", 
+            "name": "Bringing Up Baby", 
+            "poster_url": "BringingUpBaby.jpg"
+        }, 
+        {
+            "shared": [
+                "GreatWhiteHunter", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Congo", 
+            "name": "Congo", 
+            "poster_url": "Congo.jpg"
+        }, 
+        {
+            "shared": [
+                "GreatWhiteHunter", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLostWorldJurassicPark", 
+            "name": "The Lost World: Jurassic Park", 
+            "poster_url": "TheLostWorldJurassicPark.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ToTheLimit", 
+            "name": "To The Limit", 
+            "poster_url": "ToTheLimit.jpg"
+        }
+    ], 
+    "id": "TheExtraordinaryAdventuresOfAdeleBlancSec", 
+    "name": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec"
+}

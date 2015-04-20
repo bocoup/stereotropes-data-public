@@ -1,0 +1,82 @@
+{
+    "plot": "The marriage of architect Mike Brady and homemaker Carol Martin n\u00e9e Tyler will be the second for both. They have the issue of blending their two already large families, Mike who has three children and Carol who has three children. One additional issue is that the Brady household was testosterone laden with Mike's children being three boys - Greg, Peter and Bobby - and the Martin household was estrogen laden with Carol's children being three girls - Marcia, Jan and Cindy. The six children not only have their usual issues in growing from children to teenagers, and in this situation in getting used to a new parent and new siblings, but also interacting with new siblings whose mentality generally reflects their specific gender, which more often than not is totally foreign to them. Mike and Carol also have the new roles of parent to daughters and sons respectively. Add to the mix the girls' cat Fluffy, the boys' dog Tiger, and Mike's longtime housekeeper Alice, and the collective new Brady bunch has the potential to get into one misadventure after another.", 
+    "genres": "Comedy, Family", 
+    "release_year": "1969\u20131974", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "'Roy", 
+                    "bad"
+                ], 
+                "role": "Evil Roy: Subverted slightly as 'Roy Martin' is an alias used by the bad guy.", 
+                "id": "EvilRoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Even the Girls Want Her: Marcia's friend Noreen lusts for her.", 
+                "id": "EvenTheGirlsWantHer"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Marcia at the pool. And yes, it is lampshaded.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0063878", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "EvilRoy"
+            ], 
+            "shared_count": 2, 
+            "id": "CrocodileDundee", 
+            "name": "Crocodile Dundee", 
+            "poster_url": "CrocodileDundee.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }
+    ], 
+    "id": "TheBradyBunch", 
+    "name": "The Brady Bunch"
+}

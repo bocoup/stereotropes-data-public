@@ -1,0 +1,71 @@
+{
+    "plot": "Stephen has agoraphobia and, in the flat he won't leave, meticulously labels and stores everything from nail clippings to urine. In long flashbacks we see a trip to the continent he took with his only friend Bunny, an outgoing, inveterate gambler. The European trip is a bit dull (Stephen wants to visit every museum imaginable) until one night in Poland they meet Eloisa, a Spanish waitress, and offer to drive her home for her city's fiesta. We can guess that the trip won't end well - because Stephen is now stuck in his flat with occasional visits from Bunny - but will anything in the reverie move Stephen to action?", 
+    "genres": "Comedy", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Non-Action Guy: Stephen, until the end.", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: deconstructed with Eloisa", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1251725", 
+    "poster_url": "BunnyAndTheBull.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AfterHours", 
+            "name": "After Hours", 
+            "poster_url": "AfterHours.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Lo", 
+            "name": "Lo"
+        }
+    ], 
+    "id": "BunnyAndTheBull", 
+    "name": "Bunny and the Bull"
+}

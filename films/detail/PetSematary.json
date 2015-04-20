@@ -1,0 +1,85 @@
+{
+    "plot": "The Creeds have just moved to a new house in the countryside. Their house is perfect, except for two things: the semi-trailers that roar past on the narrow road, and the mysterious cemetery in the woods behind the house. The Creed's neighbours are reluctant to talk about the cemetery, and for good reason too.", 
+    "genres": "Horror", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Jud Crandall. Louis starts to feel like Jud is the father he never had.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Louis Creed in Pet Sematary. His father died when he was three.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "wrong"
+                ], 
+                "role": "Ill Girl: Averted. The Goldmans knew exactly what was wrong with Zelda, and she doesn't endure her suffering gracefully, to say the least.", 
+                "id": "IllGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098084", 
+    "poster_url": "PetSematary.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "IllGirl", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }
+    ], 
+    "id": "PetSematary", 
+    "name": "Pet Sematary"
+}

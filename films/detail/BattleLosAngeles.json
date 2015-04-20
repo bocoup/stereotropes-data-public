@@ -1,0 +1,80 @@
+{
+    "plot": "N/A", 
+    "genres": "Action", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "few", 
+                    "sure", 
+                    "entire"
+                ], 
+                "role": "A Father to His Men: Sgt. Nantz strives to be one. A few of his men aren't so sure, especially since there's been rumors that he purposefully got his entire team killed in Iraq.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "slow", 
+                    "young"
+                ], 
+                "role": "Cool Old Guy: Staff Sergeant Nantz. 20 long years in the Corps, and the first scene we see him in plays up him starting to slow down compared to the young guys. Once the aliens land in downtown LA, he turns into a Sergeant Rock.", 
+                "id": "CoolOldGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt2359006", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHuntForRedOctober", 
+            "name": "The Hunt for Red October", 
+            "poster_url": "TheHuntForRedOctober.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TowerHeist", 
+            "name": "Tower Heist", 
+            "poster_url": "TowerHeist.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "RedCliff", 
+            "name": "Red Cliff", 
+            "poster_url": "RedCliff.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "BattleLosAngeles", 
+    "name": "Battle: Los Angeles"
+}

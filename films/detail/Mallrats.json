@@ -1,0 +1,96 @@
+{
+    "plot": "Brodie Bruce, a Sega and comic book obsessed college student, and his best friend, TS Quint, are both dumped by their girlfriends on the same day, and to deal with their loss, they both go to the local mall. Along the way, they meet up with some friends, including Willam, a guy who stares at Magic Eye pictures, desprately trying to see the hidden image; Gwen, one of TS's ex-girlfriends; and Jay & Silent Bob, of Clerks fame. Eventually, they decide to try and win back their significant others, and take care of their respective nemesises (TS's girlfriend's father, and a store clerk who hates the two for not having any shopping agenda).", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "comic"
+                ], 
+                "role": "In Mallrats, comic loving slacker Brodie lives in his mothers basement.  His girlfriend dumps him for this reason", 
+                "id": "BasementDweller"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Brodie in Mallrats", 
+                "id": "BromanticFoil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Leg Cling: The poster.\u25ca", 
+                "id": "LegCling"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Catholic School Girls Rule: Invoked deliberately by Tricia, as part of her sex research.", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [
+                    "15-year-old"
+                ], 
+                "role": "Mallrats: Tricia Jones, the 15-year-old sex researcher, dons a schoolgirl uniform.", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Leg Cling: The poster.\u25ca", 
+                "id": "LegCling"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113749", 
+    "poster_url": "Mallrats.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule", 
+                "LegCling"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "BromanticFoil"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 1, 
+            "id": "BoyzNTheHood", 
+            "name": "Boyz n the Hood", 
+            "poster_url": "BoyzNTheHood.jpg"
+        }
+    ], 
+    "id": "Mallrats", 
+    "name": "Mallrats"
+}

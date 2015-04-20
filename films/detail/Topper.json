@@ -1,0 +1,81 @@
+{
+    "plot": "The funloving Kerbys, stockholders in the bank of which henpecked, stuffy Cosmo Topper is president, drive recklessly once too often and become ghosts. In limbo because they've never done either good or bad deeds, they decide to try a good one now: rehabilitating Topper. Lovely, flirtatious Marion takes a keen personal interest in the job. Will Topper survive the wrath of jealous ghost George? Will Mrs. Topper find that a scandalous husband isn't all bad?", 
+    "genres": "Comedy, Fantasy, Romance", 
+    "release_year": "1937", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "strict"
+                ], 
+                "role": "Henpecked Husband: Clara Topper exercises pretty strict control over her husband's life, regimenting his schedule and his habits.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "jealous"
+                ], 
+                "role": "Manic Pixie Dream Girl: Both the Kerbys are this to Topper, actually, getting him drunk and taking him out on the town. Marion fills this role even more, though, by dragging Topper into a lingerie shop, demanding he take her out for ice cream, and eventually getting him to take her to a seaside resort, causing George to be jealous.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0029682", 
+    "poster_url": "Topper.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HotTubTimeMachine", 
+            "name": "Hot Tub Time Machine", 
+            "poster_url": "HotTubTimeMachine.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HeavenlyCreatures", 
+            "name": "Heavenly Creatures", 
+            "poster_url": "HeavenlyCreatures.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSevenYearItch", 
+            "name": "The Seven Year Itch", 
+            "poster_url": "TheSevenYearItch.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BringingUpBaby", 
+            "name": "Bringing Up Baby", 
+            "poster_url": "BringingUpBaby.jpg"
+        }
+    ], 
+    "id": "Topper", 
+    "name": "Topper"
+}

@@ -1,0 +1,63 @@
+{
+    "plot": "N/A", 
+    "genres": "Drama", 
+    "release_year": "1964", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Vika", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0194918", 
+    "similar": [
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowCake", 
+            "name": "Snow Cake", 
+            "poster_url": "SnowCake.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "TheGirlAndTheEcho", 
+    "name": "The Girl And The Echo"
+}

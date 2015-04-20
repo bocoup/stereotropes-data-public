@@ -1,0 +1,84 @@
+{
+    "plot": "Harold Meadows (Lloyd) is a shy, stuttering bachelor working in a tailor shop, who is writing a guide book for other bashful young men, \"The Secret of Making Love,\" chapters from which are portrayed as fantasy sequences. Fate has him meet rich girl, Mary (Ralston), and they fall in love. But she is about to wed an already married man, so our hero embarks upon a hair-raising daredevil ride to prevent the wedding.", 
+    "genres": "Action, Comedy, Romance", 
+    "release_year": "1924", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Shy features Harold Lloyd imagining seducing a flapper. She is smoking and dancing to jazz, of course.", 
+                "id": "TheFlapper"
+            }, 
+            {
+                "adjectives": [
+                    "imaginary", 
+                    "music"
+                ], 
+                "role": "The Flapper: One of the imaginary girls Harold describes seducing. This one of course is smoking a cigarette and dancing to jazz music.", 
+                "id": "TheFlapper"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: One of the chapters of Harold's book is titled \"My Vampire\" and shows him using the \"Indifference\" method in order to seduce her.", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Women Drivers: Some guy is teaching a woman how to drive, but she's having trouble starting the car, and the stops and starts torture Harold, who thinks the car is stopping to give him a ride. When he finally hops on the back the woman gets the car stuck in a circle.", 
+                "id": "WomenDrivers"
+            }
+        ]
+    }, 
+    "imdbid": "tt0014945", 
+    "poster_url": "GirlShy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheFlapper", 
+                "WomenDrivers"
+            ], 
+            "shared_count": 2, 
+            "id": "TheArtist", 
+            "name": "The Artist", 
+            "poster_url": "TheArtist.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "Sunrise", 
+            "name": "Sunrise", 
+            "poster_url": "Sunrise.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "WomenDrivers"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }, 
+        {
+            "shared": [
+                "WomenDrivers"
+            ], 
+            "shared_count": 1, 
+            "id": "QueenOfOuterSpace", 
+            "name": "Queen Of Outer Space", 
+            "poster_url": "QueenOfOuterSpace.jpg"
+        }
+    ], 
+    "id": "GirlShy", 
+    "name": "Girl Shy"
+}

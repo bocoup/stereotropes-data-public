@@ -1,0 +1,120 @@
+{
+    "plot": "This British movie is about a group of inept criminals who decide to rob a bank so they can save their grandfather's retirement home from being demolished by developers. Meanwhile on another building site some workers dig up an old graveyard and they get bitten by the \"undead\" which sets off a chain reaction. Then the bank robbers are cornered by the police while in the process of the robbery, but when they exit they find that they are all dead as a result of the horde of zombies. They have to get to the retirement home before the zombies do!", 
+    "genres": "Comedy, Horror", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "dad", 
+                    "short", 
+                    "audible"
+                ], 
+                "role": "Action Dad and Action Mom: In a flashback of Terry and Andy's childhood, we are treated to their parents, where the dad gives a short speech to them about the importance of family and doing what's right. Then they both pick up shotguns and leave, with audible police sirens outside and \"Come on you fucking pigs!\" from the mother. Also an example of Hippie Parents maybe, considering how they're dressed.", 
+                "id": "ActionDad"
+            }, 
+            {
+                "adjectives": [
+                    "verbal", 
+                    "verbal", 
+                    "brief", 
+                    "German", 
+                    "single", 
+                    "whole", 
+                    "first", 
+                    "wonderful"
+                ], 
+                "role": "Badass Grandpa: Granddad Ray is immediately demonstrated to be one, handing out verbal smackdown after verbal smackdown on anyone who pisses him off. A very brief flashback shows his experience in the war, in which he breaches a German bunker and single handedly takes out a whole Jerry platoon with either rifle or bayonet. His first response upon seeing the zombies is to slice one\u2019s head off with a set of pincers, and he\u2019s the source of some wonderful swearing.", 
+                "id": "BadassGrandpa"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "adorable"
+                ], 
+                "role": "Action Girl: Katy is this from the beginning, and Emma gradually becomes more of one as the film progresses, when everything about her would make you expect her to become just a Damsel in Distress, even having her adorable \"Your time has come!\" one liner.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "effective", 
+                    "adorable", 
+                    "main"
+                ], 
+                "role": "Distressed Damsel: Subverted with Emma, who skims the edge of becoming this but in the end becomes an effective zombie killer, with a couple of brilliantly adorable one liners. If anything, the Badass Grandpa is the damsel in distress since his rescue is the main objective for much of the film.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "old", 
+                    "old", 
+                    "suspicious"
+                ], 
+                "role": "Girls with Guns: There's Katey and Emma, not to mention the old ladies. Special mention goes to the old woman who immediately knows how to assemble an AK-74. Anyone else suspicious about her past?", 
+                "id": "GirlsWithGuns"
+            }
+        ]
+    }, 
+    "imdbid": "tt1362058", 
+    "poster_url": "CockneysVsZombies.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlsWithGuns", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Battleship", 
+            "name": "Battleship", 
+            "poster_url": "Battleship.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "DiaryOfTheDead", 
+            "name": "Diary of the Dead", 
+            "poster_url": "DiaryOfTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlsWithGuns", 
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "ThreeNinjas", 
+            "name": "3 Ninjas", 
+            "poster_url": "ThreeNinjas.jpg"
+        }
+    ], 
+    "id": "CockneysVsZombies", 
+    "name": "Cockneys Vs Zombies"
+}

@@ -1,0 +1,72 @@
+{
+    "plot": "During the final days at the Yankee Pedlar Inn, two employees determined to reveal the hotel's haunted past begin to experience disturbing events as old guests check in for a stay.", 
+    "genres": "Horror", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Claire from The Innkeepers is a female example. Her coworker Luke is a slacker, too.", 
+                "id": "TheSlacker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Slacker: Claire and Luke.", 
+                "id": "TheSlacker"
+            }
+        ]
+    }, 
+    "imdbid": "tt1594562", 
+    "poster_url": "TheInnkeepers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RedHill", 
+            "name": "Red Hill", 
+            "poster_url": "RedHill.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "MainHoonNa", 
+            "name": "Main Hoon Na", 
+            "poster_url": "MainHoonNa.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "IVitelloni", 
+            "name": "I Vitelloni", 
+            "poster_url": "IVitelloni.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "TrueRomance", 
+            "name": "True Romance", 
+            "poster_url": "TrueRomance.jpg"
+        }
+    ], 
+    "id": "TheInnkeepers", 
+    "name": "The Innkeepers"
+}

@@ -1,0 +1,84 @@
+{
+    "plot": "Sir Laurence Olivier is making a movie in London. Young Colin Clark, an eager film student, wants to be involved and he navigates himself a job on the set. When film star Marilyn Monroe arrives for the start of shooting, all of London is excited to see the blonde bombshell, while Olivier is struggling to meet her many demands and acting ineptness, and Colin is intrigued by her. Colin's intrigue is met when Marilyn invites him into her inner world where she struggles with her fame, her beauty and her desire to be a great actress.", 
+    "genres": "Biography, Drama", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "generous"
+                ], 
+                "role": "Cool Old Lady: Dame Sybil is generous and kind to everyone, and even manages to help Marilyn under the guise of asking Marilyn to help her. It helps that she's played by Judi Dench, of course.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Inverted. Colin tries to \"save\" Marilyn from her crazy Hollywood life but she admits that she likes it, even though it drives her crazy.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "flat"
+                ], 
+                "role": "Woman Scorned: A very mild example in Lucy, who considers Colin's date with Marilyn as jilting her, never mind that Colin believed it accidental. What's the worst thing she does to him? Tell him flat out that his heart needed to be broken after learning that Marilyn did break his heart \"a little\".", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt1655420", 
+    "poster_url": "MyWeekWithMarilyn.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldLady", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Titanic", 
+            "name": "Titanic", 
+            "poster_url": "Titanic.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HaroldAndMaude", 
+            "name": "Harold and Maude", 
+            "poster_url": "HaroldAndMaude.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "GreyGardens", 
+            "name": "Grey Gardens", 
+            "poster_url": "GreyGardens.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSoundOfMusic", 
+            "name": "The Sound of Music", 
+            "poster_url": "TheSoundOfMusic.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "May", 
+            "name": "May", 
+            "poster_url": "May.jpg"
+        }
+    ], 
+    "id": "MyWeekWithMarilyn", 
+    "name": "My Week With Marilyn"
+}

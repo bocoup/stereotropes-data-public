@@ -1,0 +1,95 @@
+{
+    "plot": "Ian is a high school senior in suburban Chicago, plagued by being a virgin. Online he's inflated his resume, met Ms. Tasty, and agreed to drive to Knoxville where she promises sex. He steals his homophobic, macho brother's GTO, and, with his two best friends, Lance and Felicia, heads south. Every young woman who meets Lance, including Felicia, is attracted to him, as he practices his aptly learned \"Pick-Up Artist\" skills. Ian, on the other hand, is a decent guy who wouldn't mind if his friendship with Felicia became a romance. By the time they get to Knoxville, they have encountered a jealous boyfriend, a menacing hitchhiker, jail birds, carjackers, an Amish community, and Ian's better judgment.", 
+    "genres": "Adventure, Comedy, Romance", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "classic"
+                ], 
+                "role": "Armoured Closet Gay: Rex is a pretty classic example of this.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [
+                    "violent", 
+                    "homophobic"
+                ], 
+                "role": "Rex from Sex Drive. Loves his car more than anything and is violent (and violently homophobic) towards Ian, who he thinks is gay, but he comes out at the end, and his sexuality is implied to be the motivation for his Jerkass behavior.", 
+                "id": "ArmouredClosetGay"
+            }, 
+            {
+                "adjectives": [
+                    "sexual", 
+                    "drunk", 
+                    "desperate"
+                ], 
+                "role": "Kavorka Man: Lance. He's a portly, nerdy looking guy whose had multiple sexual conquests and thinks he's God's gift to women even though in reality, no girl would get with this guy unless they're drunk or extremely desperate.", 
+                "id": "KavorkaMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Miss Tasty.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt1135985", 
+    "poster_url": "SexDrive.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KavorkaMan", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveActually", 
+            "name": "Love Actually", 
+            "poster_url": "LoveActually.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "BitterMoon", 
+            "name": "Bitter Moon", 
+            "poster_url": "BitterMoon.jpg"
+        }
+    ], 
+    "id": "SexDrive", 
+    "name": "Sex Drive"
+}

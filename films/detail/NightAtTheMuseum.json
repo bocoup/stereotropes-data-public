@@ -1,0 +1,84 @@
+{
+    "plot": "In New York, unemployed and divorced Larry Daley is a complete loser. His son Nick is very disappointed with his father who is going to be evicted. Larry accepts the job of night watchman in the Museum of Natural History and takes the place of three old security guards that have just retired in order to raise some money and pay his bills. On his first shift, Larry soon realizes that everything at the museum is not as it seems as the statues begin to come to life after the sun sets. The Museum transforms into complete chaos with the inexperienced Larry in charge as he learns that an old Egyptian stone that came to the Museum in 1950 brings these statues to life until dawn. When Larry brings his son to spend a night with him, the three old guards break into the Museum to try to steal the magical stone. Larry organizes all the historic characters to help him stop the criminals and save the museum.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Night guard Cecil is a badass. Justified in that the tablet also reinvigorated him.", 
+                "id": "BadassGrandpa"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Amy Adams as Amelia Earhart.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Amelia Earhart.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0477347", 
+    "poster_url": "NightAtTheMuseum.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLEGOMovie", 
+            "name": "The LEGO Movie", 
+            "poster_url": "TheLEGOMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }
+    ], 
+    "id": "NightAtTheMuseum", 
+    "name": "Night at the Museum"
+}

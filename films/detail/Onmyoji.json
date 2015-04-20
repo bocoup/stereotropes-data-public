@@ -1,0 +1,72 @@
+{
+    "plot": "N/A", 
+    "genres": "Action, Fantasy, Drama", 
+    "release_year": "2001", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Tomboy Princess: Himiko, to the chagrin of her father and handmaidens.", 
+                "id": "TomboyPrincess"
+            }, 
+            {
+                "adjectives": [
+                    "full", 
+                    "ogre"
+                ], 
+                "role": "Woman Scorned: Sukehime, which makes her go full on batshit and turn into an ogre!", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0355857", 
+    "poster_url": "Onmyoji.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanScorned"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned"
+            ], 
+            "shared_count": 1, 
+            "id": "Krull", 
+            "name": "Krull"
+        }, 
+        {
+            "shared": [
+                "WomanScorned"
+            ], 
+            "shared_count": 1, 
+            "id": "X-Men", 
+            "name": "X-Men", 
+            "poster_url": "X-Men.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }
+    ], 
+    "id": "Onmyoji", 
+    "name": "Onmyoji"
+}

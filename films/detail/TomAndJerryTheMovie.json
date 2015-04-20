@@ -1,0 +1,85 @@
+{
+    "plot": "The popular cartoon cat and mouse are thrown into a feature film. The story has the twosome trying to help an orphan girl who is being berated and exploited by a greedy guardian.", 
+    "genres": "Animation, Family, Musical", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Robyn's father.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "dead"
+                ], 
+                "role": "Disappeared Dad: Robyn's father, who is presumed dead.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "Missing Mom: Robyn Starling's mom died when she was little, another reason she's the designated Woobie.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0105616", 
+    "poster_url": "TomAndJerryTheMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "StarTrekInsurrection", 
+            "name": "Star Trek: Insurrection", 
+            "poster_url": "StarTrekInsurrection.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }
+    ], 
+    "id": "TomAndJerryTheMovie", 
+    "name": "Tom and Jerry: The Movie"
+}

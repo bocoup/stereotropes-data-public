@@ -1,0 +1,78 @@
+{
+    "plot": "Six New Yorkers juggle love, friendship, and the keenly challenging specter of adulthood. Sam Wexler is a struggling writer who's having a particularly bad day. When a young boy gets separated from his family on the subway, Sam makes the questionable decision to bring the child back to his apartment and thus begins a rewarding, yet complicated, friendship. Sam's life revolves around his friends-Annie, whose self-image keeps her from commitment; Charlie and Mary Catherine, a couple whose possible move to Los Angeles tests their relationship; and Mississippi, a cabaret singer who catches Sam's eye.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Sam #2 towards Annie.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Mississippi.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt1481572", 
+    "poster_url": "Happythankyoumoreplease.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheImaginariumOfDoctorParnassus", 
+            "name": "The Imaginarium of Doctor Parnassus", 
+            "poster_url": "TheImaginariumOfDoctorParnassus.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Sparkle", 
+            "name": "Sparkle", 
+            "poster_url": "Sparkle.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowDay", 
+            "name": "Snow Day", 
+            "poster_url": "SnowDay.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }
+    ], 
+    "id": "Happythankyoumoreplease", 
+    "name": "Happythankyoumoreplease"
+}

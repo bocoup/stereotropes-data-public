@@ -1,0 +1,115 @@
+{
+    "plot": "Chris embarks on an odyssey of self-discovery that spans the globe. Kidnapped and enslaved by gun smugglers, sold by pirates and thrust into the murky underworld of gambling and kickboxing, Chris' journey takes him to forbidding Muay Thai Island where deadly martial arts are taught, the colonial splendor of British East Asia, the dank back alleys of Bangkok, desolate deserts once trod by the warriors of Genghis Khan and finally, the ancient Lost City. There he must face the ultimate test of his manhood in the fabled Ghang-gheng, the ancient winner-take-all competition in which the deadliest fighters from around the world employ the most spectacular feats of martial arts skills ever displayed in order to win the prized Golden Dragon. But fighting prowess alone will not be enough for Chris to triumph over such daunting foes. He must reach deep inside and access all of the determination, strength of character and sense of selfless honor within in order to triumph over this final obstacle on his long trek home.", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "big", 
+                    "clumsy"
+                ], 
+                "role": "Husky Russkie: The Soviet fighter is expectedly big, burly and clumsy.", 
+                "id": "HuskyRusskie"
+            }, 
+            {
+                "adjectives": [
+                    "Scottish"
+                ], 
+                "role": "Man in a Kilt: The Scottish fighter.", 
+                "id": "ManInAKilt"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pec Flex: Some fighters (including the sumo) do this.", 
+                "id": "PecFlex"
+            }, 
+            {
+                "adjectives": [
+                    "Japanese", 
+                    "large"
+                ], 
+                "role": "Stout Strength: The Japanese fighter, who happens to be a large sumo wrestler.", 
+                "id": "StoutStrength"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene: Well, it's a Van Damme film.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scoop: Carrie.", 
+                "id": "HotScoop"
+            }, 
+            {
+                "adjectives": [
+                    "Several"
+                ], 
+                "role": "Kick Dudes: Several of the fighters and of course Dubois.", 
+                "id": "KickChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0117420", 
+    "poster_url": "TheQuest.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "PecFlex", 
+                "StoutStrength", 
+                "HotScoop"
+            ], 
+            "shared_count": 4, 
+            "id": "Bloodsport", 
+            "name": "Bloodsport", 
+            "poster_url": "Bloodsport.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "PecFlex", 
+                "KickChick"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "StoutStrength", 
+                "PecFlex"
+            ], 
+            "shared_count": 2, 
+            "id": "Madagascar", 
+            "name": "Madagascar", 
+            "poster_url": "Madagascar.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength", 
+                "KickChick"
+            ], 
+            "shared_count": 2, 
+            "id": "StreetFighter", 
+            "name": "Street Fighter", 
+            "poster_url": "StreetFighter.jpg"
+        }, 
+        {
+            "shared": [
+                "ManInAKilt", 
+                "HotScoop"
+            ], 
+            "shared_count": 2, 
+            "id": "Fantomas", 
+            "name": "Fant\u00f4mas"
+        }
+    ], 
+    "id": "TheQuest", 
+    "name": "The Quest"
+}

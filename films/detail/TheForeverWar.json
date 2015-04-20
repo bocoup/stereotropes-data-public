@@ -1,0 +1,84 @@
+{
+    "plot": "An elite task force returns home after a brief interstellar military operation, but discovers that 20 years have past and the planet they once knew is completely different. Based on Joe Haldeman's 1974 novel 'The Forever War'.", 
+    "genres": "Sci-Fi", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "'deviant", 
+                    "sexual", 
+                    "suspicious", 
+                    "normal", 
+                    "shoulder-to-shoulder"
+                ], 
+                "role": "A Father to His Men: Subverted. Mandella tries to be this but his 'deviant' sexual practises (he's hetero), and the fact that he is a stranger to their language and culture, as well as the suspicious death of a soldier who tried to assassinate him, all exacerbate the normal tension the grunts feel towards their Commanding Officer. Eventually most of his men end up getting killed because they ignore his order to evacuate a bunker. Mandella only succeeds in breaking down these barriers after he fights shoulder-to-shoulder with them against the Taurans and comes up with the plan that saves their lives (those that are left).", 
+                "id": "AFatherToHisMen"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "near-even", 
+                    "male", 
+                    "female", 
+                    "co-ed", 
+                    "bunks\u2014", 
+                    "mandatory", 
+                    "first"
+                ], 
+                "role": "The Forever War: Has a near-even mix of male and female with most women being Squadettes, plus co-ed locker rooms and bunks\u2014 it's literally mandatory to share a bed, at least before the first Time Skip.", 
+                "id": "TheSquadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt1307468", 
+    "similar": [
+        {
+            "shared": [
+                "TheSquadette", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheSquadette"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "TheSquadette"
+            ], 
+            "shared_count": 1, 
+            "id": "Basic", 
+            "name": "Basic", 
+            "poster_url": "Basic.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }
+    ], 
+    "id": "TheForeverWar", 
+    "name": "The Forever War"
+}

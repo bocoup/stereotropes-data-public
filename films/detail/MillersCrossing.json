@@ -1,0 +1,141 @@
+{
+    "plot": "A highly styled 'genre' film which can perhaps be seen as a pastiche of all gangster movies. Tom Reagan is the laconic anti-hero of this amoral tale which is also, paradoxically, a look at morals within the criminal underworld of the 1930s. Two rival gangs vie for control of a city where the police are pawns, and the periodic busts of illicit drinking establishments are no more than a way for one gang to get back at the other. Black humour and shocking violence compete for screen time as we question whether or not Tom, right-hand man of the Irish mob leader, really has a heart.", 
+    "genres": "Crime, Drama, Thriller", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "old", 
+                    "chair", 
+                    "No-Holds-Barred"
+                ], 
+                "role": "Badass Grandpa: Leo. \"The old man's still an artist with a Thompson.\" Tic-Tac. Moments after Tom has hit a Giant Mook across the face with a chair, Tic Tac strides into the room and without pausing snatches the chair from Tom's hands, whereupon he and the Giant Mook inflict a No-Holds-Barred Beatdown on Tom.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "quite", 
+                    "likely", 
+                    "due", 
+                    "main", 
+                    "straight", 
+                    "loyal", 
+                    "cast", 
+                    "villainous"
+                ], 
+                "role": "Depraved Homosexual: Played around with quite a bit, most likely due to the trope's frequency in Film Noir. Two of the three main antagonists, Bernie and Eddie Dane, are gay. Depending on how you look at it, they could be considered straight examples or aversions - Bernie's sexuality is never really connected with his villainy, while Eddie Dane is loyal to his employer and Mink. Not to mention that the rest of the cast is also pretty villainous, including the hero.", 
+                "id": "DepravedHomosexual"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Bernie Bernbaum", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bernie Bernbaum and Eddie Dane from Millers Crossing.", 
+                "id": "Gayngster"
+            }, 
+            {
+                "adjectives": [
+                    "straight"
+                ], 
+                "role": "Gayngster: Bernie, the Dane, and Mink. J.E. Freeman, who plays the Dane, is gay himself. Interestingly, so is Jon Polito, who plays the straight (and married) Johnny Caspar.", 
+                "id": "Gayngster"
+            }, 
+            {
+                "adjectives": [
+                    "He-Man"
+                ], 
+                "role": "He-Man Woman Hater: Eddie Dane", 
+                "id": "HeManWomanHater"
+            }, 
+            {
+                "adjectives": [
+                    "homosexual"
+                ], 
+                "role": "Sissy Villain: Bernie. Subverted by Dane, who is implied to have a homosexual attraction to his employer, but he is everything but.", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bernie, Mink and the Dane in Millers Crossing, who are all Gayngsters", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "kind", 
+                    "double-subverted", 
+                    "alternate"
+                ], 
+                "role": "Actually, this one is kind of double-subverted, in that the character who plays the Femme Fatale character type much more closely is not even a woman...it's Verna's brother, Bernie (maybe an alternate definition for \"femme\")", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0100150", 
+    "poster_url": "MillersCrossing.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "SissyVillain", 
+                "FemmeFatale", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "Gayngster", 
+                "SissyVillain", 
+                "StraightGay", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "SissyVillain", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "SissyVillain", 
+                "DepravedHomosexual"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "Gayngster", 
+                "HeManWomanHater", 
+                "StraightGay"
+            ], 
+            "shared_count": 3, 
+            "id": "SexyBeast", 
+            "name": "Sexy Beast", 
+            "poster_url": "SexyBeast.jpg"
+        }
+    ], 
+    "id": "MillersCrossing", 
+    "name": "Miller's Crossing"
+}

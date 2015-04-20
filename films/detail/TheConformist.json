@@ -1,0 +1,84 @@
+{
+    "plot": "This story opens in 1938 in Rome, where Marcello has just taken a job working for Mussollini and is courting a beautiful young woman who will make him even more of a conformist. Marcello is going to Paris on his honeymoon and his bosses have an assignment for him there. Look up an old professor who fled Italy when the fascists came into power. At the border of Italy and France, where Marcello and his bride have to change trains, his bosses give him a gun with a silencer. In a flashback to 1917, we learn why sex and violence are linked in Marcello's mind.", 
+    "genres": "Drama", 
+    "release_year": "1970", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bish\u014dnen", 
+                    "several", 
+                    "good"
+                ], 
+                "role": "Bish\u014dnen: In his teenage and adult years, several comments are made about Marcello's good looks and feminine appearance.", 
+                "id": "Bishonen"
+            }, 
+            {
+                "adjectives": [
+                    "feminine-looking"
+                ], 
+                "role": "Marcello Clerici, the protagonist of the 1951 novel The Conformist, is described as very handsome and feminine-looking both in adolescence and adulthood.", 
+                "id": "PrettyBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pretty Boy: Marcello", 
+                "id": "PrettyBoy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0065571", 
+    "poster_url": "TheConformist.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Bishonen", 
+                "PrettyBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "Bishonen", 
+                "PrettyBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanGothamKnight", 
+            "name": "Batman Gotham Knight", 
+            "poster_url": "BatmanGothamKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "Bishonen", 
+                "PrettyBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheOutsiders", 
+            "name": "The Outsiders", 
+            "poster_url": "TheOutsiders.jpg"
+        }, 
+        {
+            "shared": [
+                "PrettyBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "Bishonen"
+            ], 
+            "shared_count": 1, 
+            "id": "BreakfastOnPluto", 
+            "name": "Breakfast on Pluto", 
+            "poster_url": "BreakfastOnPluto.jpg"
+        }
+    ], 
+    "id": "TheConformist", 
+    "name": "The Conformist"
+}

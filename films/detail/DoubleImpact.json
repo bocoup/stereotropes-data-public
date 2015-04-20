@@ -1,0 +1,116 @@
+{
+    "plot": "Jean Claude Van Damme plays a dual role as Alex and Chad, twins separated at the death of their parents. Chad is raised by a family retainer in Paris, Alex becomes a petty crook in Hong Kong. Seeing a picture of Alex, Chad rejoins him and convinces him that his rival in Hong Kong is also the man who killed their parents. Alex is suspicious of Chad, especially when it comes to his girlfriend.", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Alex!", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Griffith and Zhang.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "crafty", 
+                    "vicious"
+                ], 
+                "role": "Dumb Muscle: Averted with Moon who is clever, crafty, and vicious.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Moon and Chad during their fight.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Amazonian", 
+                    "world-class"
+                ], 
+                "role": "Amazonian Beauty: Kara, who is played by a world-class bodybuilder.", 
+                "id": "AmazonianBeauty"
+            }, 
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Butch Lesbian: Kara.", 
+                "id": "ButchLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Distressed Damsel / Distressed Dude: Danielle and Frank later in the movie.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0101764", 
+    "poster_url": "DoubleImpact.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ButchLesbian", 
+                "CrazyJealousGuy", 
+                "DamselInDistress", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "StreetsOfFire", 
+            "name": "Streets of Fire", 
+            "poster_url": "StreetsOfFire.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ShirtlessScene", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "AmazonianBeauty", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 3, 
+            "id": "StreetFighter", 
+            "name": "Street Fighter", 
+            "poster_url": "StreetFighter.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "DoubleImpact", 
+    "name": "Double Impact"
+}

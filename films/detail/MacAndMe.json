@@ -1,0 +1,65 @@
+{
+    "plot": "A Mysterious Alien Creature (MAC ?) trying to escape from NASA is befriended by a young boy in a wheel chair.", 
+    "genres": "Adventure, Family, Fantasy", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: We're not told why.", 
+                "id": "DisappearedDad"
+            }
+        ]
+    }, 
+    "imdbid": "tt0095560", 
+    "poster_url": "MacAndMe.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFog", 
+            "name": "The Fog", 
+            "poster_url": "TheFog.jpg"
+        }
+    ], 
+    "id": "MacAndMe", 
+    "name": "Mac And Me"
+}

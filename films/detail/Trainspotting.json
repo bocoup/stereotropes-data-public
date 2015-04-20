@@ -1,0 +1,96 @@
+{
+    "plot": "A wild, freeform, Rabelaisian trip through the darkest recesses of Edinburgh low-life, focusing on Mark Renton and his attempt to give up his heroin habit, and how the latter affects his relationship with family and friends: Sean Connery wannabe Sick Boy, dimbulb Spud, psycho Begbie, 14-year-old girlfriend Diane, and clean-cut athlete Tommy, who's never touched drugs but can't help being curious about them...", 
+    "genres": "Drama", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "homosexual", 
+                    "frisky", 
+                    "sexual"
+                ], 
+                "role": "Armoured Closet Gay: Begbie in the film. Robert Carlyle played him as a closeted homosexual whose bursts of rage stemmed partially from his fear of being outed, and Word of God agreed with the interpretation. When a girl he's getting frisky with turns out to be a man he amazingly doesn't attack the person in question, which at a glance seems very out of character. It's also insinuated with a scene in which Begbie makes Renton put a cigarette in his mouth, which is charged with sexual tension.", 
+                "id": "ArmouredClosetGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Diane, in Trainspotting. Subverted in the fact that Renton has no idea she's underage when she picks him up (out of uniform, natch) at a club.", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Diane in Trainspotting.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [
+                    "fetish", 
+                    "Jewish", 
+                    "other", 
+                    "same"
+                ], 
+                "role": "In Trainspotting, Spud has a fetish for Jewish princesses, apparently acquired through listening to Frank Zappa as he mentions Moon Unit Zappa and alludes to Zappa's other songs \"Catholic Girls\" and \"Valley Girl\" in the same chapter.", 
+                "id": "JewishAmericanPrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0117951", 
+    "poster_url": "Trainspotting.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FilleFatale", 
+                "CatholicSchoolGirlsRule", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 3, 
+            "id": "CruelIntentions", 
+            "name": "Cruel Intentions", 
+            "poster_url": "CruelIntentions.jpg"
+        }, 
+        {
+            "shared": [
+                "FilleFatale", 
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 2, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "FilleFatale", 
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 2, 
+            "id": "Election", 
+            "name": "Election", 
+            "poster_url": "Election.jpg"
+        }, 
+        {
+            "shared": [
+                "FilleFatale", 
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 2, 
+            "id": "CryWolf", 
+            "name": "Cry_Wolf"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule", 
+                "ArmouredClosetGay"
+            ], 
+            "shared_count": 2, 
+            "id": "ScaryMovie", 
+            "name": "Scary Movie", 
+            "poster_url": "ScaryMovie.jpg"
+        }
+    ], 
+    "id": "Trainspotting", 
+    "name": "Trainspotting"
+}

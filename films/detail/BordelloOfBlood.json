@@ -1,0 +1,74 @@
+{
+    "plot": "The old bag of bones 'Cryptkeeper' returns for his second full length feature flick about a funeral home that's a front for a whorehouse run by vampires.", 
+    "genres": "Horror, Comedy", 
+    "release_year": "1996", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Catherine, though she does manage to kill Lilith at the end.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Bordello of Blood features a scene with Lilith, the female vampire boss, standing above the bound heroine, discussing how she was about to take her for a \"test drive\". She escapes. Then, after you think the story's over, the heroine does get turned into a vampire - the vampire didn't bite her on the neck, but on the inner thigh instead.", 
+                "id": "LesbianVampire"
+            }
+        ]
+    }, 
+    "imdbid": "tt0117826", 
+    "poster_url": "BordelloOfBlood.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "LesbianVampire"
+            ], 
+            "shared_count": 2, 
+            "id": "DraculasDaughter", 
+            "name": "Dracula's Daughter", 
+            "poster_url": "DraculasDaughter.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "LesbianVampire"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFearlessVampireKillers", 
+            "name": "The Fearless Vampire Killers", 
+            "poster_url": "TheFearlessVampireKillers.jpg"
+        }, 
+        {
+            "shared": [
+                "LesbianVampire"
+            ], 
+            "shared_count": 1, 
+            "id": "RazorBladeSmile", 
+            "name": "Razor Blade Smile", 
+            "poster_url": "RazorBladeSmile.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }
+    ], 
+    "id": "BordelloOfBlood", 
+    "name": "Bordello of Blood"
+}

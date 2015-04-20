@@ -1,0 +1,97 @@
+{
+    "plot": "Three manic idiots; a lawyer, cab driver and a handyman team up to run a ballet company to fulfill the will of a millionaire. Stooge-like antics result as the trio try to outwit the rich widow and her scheming big-shot lawyer, who also wants to run the ballet.", 
+    "genres": "Comedy", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "great"
+                ], 
+                "role": "Brain Donors: Roland T. Flakfizer talks a great game.", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [
+                    "great"
+                ], 
+                "role": "Casanova Wannabe: Flakfizer talks a great game, at any rate.", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disguised in Drag: Jacques dresses up as a ballerina during Volare's premiere.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [
+                    "big"
+                ], 
+                "role": "In Brain Donors, handyman Jacques dresses up as a ballerina during the big premiere.", 
+                "id": "DisguisedInDrag"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Lillian", 
+                    "true"
+                ], 
+                "role": "Grande Dame: Lillian Oglethorpe, in true Margaret Dumont fashion.", 
+                "id": "GrandeDame"
+            }
+        ]
+    }, 
+    "imdbid": "tt0103872", 
+    "poster_url": "BrainDonors.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GrandeDame", 
+                "CasanovaWannabe", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "GrandeDame", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "AFunnyThingHappenedOnTheWayToTheForum", 
+            "name": "A Funny Thing Happened on the Way to the Forum", 
+            "poster_url": "AFunnyThingHappenedOnTheWayToTheForum.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "LupinIIIOperationReturnTheTreasure", 
+            "name": "Lupin III Operation Return The Treasure"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "SororityBoys", 
+            "name": "Sorority Boys", 
+            "poster_url": "SororityBoys.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }
+    ], 
+    "id": "BrainDonors", 
+    "name": "Brain Donors"
+}

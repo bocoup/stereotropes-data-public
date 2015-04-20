@@ -1,0 +1,85 @@
+{
+    "plot": "The film follows a girl named Madison Penrose, spoiled throughout her life to the extent that she convinces her parents to re-open Rollerdome for her Sweet 16. Obviously, the Rollerdome once closed because a series of brutal murders took place at the locale, and, of course, the killer comes back to wreak havoc during her party.", 
+    "genres": "Horror", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Kevin. Nico from Part 3.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Madison. Brynn in Part 3.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "happy"
+                ], 
+                "role": "Girl Posse: Chloe and Olivia make up Madison's teen girl squad. Lilly is also a part of it, although she's not very happy about it. Alex and Molly make up Zoe's from Part 2.", 
+                "id": "GirlPosse"
+            }
+        ]
+    }, 
+    "imdbid": "tt1488584", 
+    "similar": [
+        {
+            "shared": [
+                "GirlPosse", 
+                "AlphaBitch", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlPosse", 
+                "AlphaBitch", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlPosse", 
+                "AlphaBitch", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "GeekCharming", 
+            "name": "Geek Charming"
+        }, 
+        {
+            "shared": [
+                "GirlPosse", 
+                "AlphaBitch", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "TheFinal", 
+            "name": "The Final", 
+            "poster_url": "TheFinal.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRageCarrie2", 
+            "name": "The Rage: Carrie 2"
+        }
+    ], 
+    "id": "MySuperPsychoSweet16", 
+    "name": "My Super Psycho Sweet 16"
+}

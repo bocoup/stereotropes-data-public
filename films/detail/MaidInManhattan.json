@@ -1,0 +1,105 @@
+{
+    "plot": "Marisa Ventura is a single mother born and bred in the boroughs of New York City, who works as a maid in a first-class Manhattan hotel. By a twist of fate and mistaken identity, Marisa meets Christopher Marshall, a handsome heir to a political dynasty, who believes that she is a guest at the hotel. Fate steps in and throws the unlikely pair together for one night. When Marisa's true identity is revealed, the two find that they are worlds apart, even though the distance separating them is just a subway ride between Manhattan and the Bronx.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Ty's father is not in the picture. As if a phone call in which he cancels plans to take Ty away for the weekend isn't enough of a hint, his failure to show up at Ty's school for a performance solidifies the fact that he's a deadbeat.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "platonic"
+                ], 
+                "role": "Manic Pixie Dream Girl: In a sense, Steph works as a platonic version of this for Marissa.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Marissa's mother, though she seems to be the type who wants to hold her child back, condescendingly discouraging her from applying for a management position, as well as from pursuing a relationship with Chris.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: One of Marissa and Steph's co-workers.", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spicy Latina: Steph. Marissa is an aversion.", 
+                "id": "SpicyLatina"
+            }, 
+            {
+                "adjectives": [
+                    "vapid", 
+                    "good", 
+                    "enough"
+                ], 
+                "role": "Spoiled Sweet: Caroline. She comes across as a bit of a vapid airhead but seems good natured enough.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0252076", 
+    "poster_url": "MaidInManhattan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "SassyBlackWoman", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DisappearedDad", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSisterhoodOfTheTravelingPants", 
+            "name": "The Sisterhood of the Traveling Pants", 
+            "poster_url": "TheSisterhoodOfTheTravelingPants.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "KalHoNaaHo", 
+            "name": "Kal Ho Naa Ho", 
+            "poster_url": "KalHoNaaHo.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FerrisBuellersDayOff", 
+            "name": "Ferris Bueller's Day Off", 
+            "poster_url": "FerrisBuellersDayOff.jpg"
+        }
+    ], 
+    "id": "MaidInManhattan", 
+    "name": "Maid In Manhattan"
+}

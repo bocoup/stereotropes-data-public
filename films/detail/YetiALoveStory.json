@@ -1,0 +1,83 @@
+{
+    "plot": "Five college students go on a camping trip that leads them to a horrible secret. With no way home after the brutal murder of one of their friends, the group must battle an evil cult and a ravenous gay yeti. But the yeti might not be so bad after all...", 
+    "genres": "Comedy, Horror, Romance", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "interested"
+                ], 
+                "role": "Chick Magnet: Sex Piss. The girls aren't interested in him, but Joe seems to be...", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr Seahorse:  Adam, at the end.", 
+                "id": "MisterSeahorse"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "young"
+                ], 
+                "role": "Femme Fatale: Debra. She lures young men into the clutches of the cult.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0765488", 
+    "poster_url": "YetiALoveStory.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChickMagnet", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "MisterSeahorse", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Lucifer", 
+            "name": "Lucifer"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "MisterSeahorse"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "MisterSeahorse"
+            ], 
+            "shared_count": 2, 
+            "id": "Switch", 
+            "name": "Switch!"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTenCommandments", 
+            "name": "The Ten Commandments", 
+            "poster_url": "TheTenCommandments.jpg"
+        }
+    ], 
+    "id": "YetiALoveStory", 
+    "name": "Yeti A Love Story"
+}

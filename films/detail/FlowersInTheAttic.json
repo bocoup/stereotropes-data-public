@@ -1,0 +1,125 @@
+{
+    "plot": "After the death of her husband, a mother takes her kids off to live with their grandparents in a huge, decrepit old mansion. However, the kids are kept hidden in a room just below the attic, visited only by their mother who becomes less and less concerned about them and their failing health, and more concerned about herself and the inheritence she plans to win back from her dying father, to the point of murder...", 
+    "genres": "Drama, Mystery, Thriller", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Christopher will not tolerate any criticism or questioning of their mother.", 
+                "id": "MommasBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Cathy. Corrine aspires to become this again.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: The Grandmother.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "Mama Bear: Averted with Corrine, who doesn\u2019t give a rat's ass about her kids. Played Straight with Cathy, who is a surrogate mother to her little brother and sister.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Corrine becomes one.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [
+                    "stern", 
+                    "dangerous"
+                ], 
+                "role": "The grandmother in Flowers in the Attic, who wore gray in the novel. The black serves as a constant reminder that she is stern at best and dangerous at worst.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [
+                    "stern", 
+                    "dangerous"
+                ], 
+                "role": "Woman in Black: The grandmother, who wore gray in the novel. The black serves as a constant reminder that she is stern at best and dangerous at worst.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [
+                    "virginal", 
+                    "white"
+                ], 
+                "role": "Woman in White: Corrine on her wedding day. She is determined to pass herself off as the virginal bride. Cathy notably wears a white nightgown when her grandmother attacks her.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093036", 
+    "poster_url": "FlowersInTheAttic.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInBlack", 
+                "EvilMatriarch", 
+                "WomanInWhite", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "DaddysGirl", 
+                "WomanInWhite", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "SnowWhiteATaleOfTerror", 
+            "name": "Snow White: A Tale of Terror", 
+            "poster_url": "SnowWhiteATaleOfTerror.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "EvilMatriarch", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "MamaBear", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "OneHundredAndOneDalmatians", 
+            "name": "101 Dalmatians", 
+            "poster_url": "OneHundredAndOneDalmatians.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "DaddysGirl", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "FlowersInTheAttic", 
+    "name": "Flowers in the Attic"
+}

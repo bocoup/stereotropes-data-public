@@ -1,0 +1,111 @@
+{
+    "plot": "Michael Harding returns home from military school to find his mother happily in love and living with her new boyfriend, David. As the two men get to know each other, Michael becomes more and more suspicious of the man who is always there with a helpful hand. Is he really the man of her dreams or could David be hiding a dark side?", 
+    "genres": "Crime, Thriller", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "sad"
+                ], 
+                "role": "Cool Old Guy: Father Brennan from Stepfather III. His death is actually pretty sad.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kavorka Man", 
+                "id": "KavorkaMan"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "original"
+                ], 
+                "role": "Overprotective Dad: When the stepfather sees his stepdaughter Stephanie kissing a boy named Paul in the original film he completely freaks out, claiming Paul was going to try and rape Stephanie.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Standard '50s Father: The stepfather seems to think of himself as this, and at one point is explicitly compared to Ward Cleaver.", 
+                "id": "StandardFiftiesFather"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The title character of The Stepfather cultivates this image for himself, and seems to think of himself as this. At one point, he's explicitly compared to Ward Cleaver. Unfortunately, the accent here is on cleaver . . .", 
+                "id": "StandardFiftiesFather"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Bluebeard", 
+                "id": "TheBlueBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "commentary"
+                ], 
+                "role": "Ms. Fanservice: Kelly (played by Amber Heard) in the remake. She almost never wears pants. This is lampshaded in the commentary.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0814335", 
+    "poster_url": "TheStepfather.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KavorkaMan", 
+                "OverprotectiveDad", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "ClashOfTheTitans", 
+            "name": "Clash of the Titans", 
+            "poster_url": "ClashOfTheTitans.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }
+    ], 
+    "id": "TheStepfather", 
+    "name": "The Stepfather"
+}

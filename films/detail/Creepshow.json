@@ -1,0 +1,79 @@
+{
+    "plot": "Five tales of terror are presented. The first deals with a demented old man returning from the grave to get the Father's Day cake his murdering daughter never gave him. The second is about a not-too-bright farmer discovering a meteor that turns everything into plant-life. The third is about a vengeful husband burying his wife and her lover up to their necks on the beach. The fourth is about a creature that resides in a crate under the steps of a college. The final story is about an ultra-rich businessman who gets his comeuppance from cockroaches.", 
+    "genres": "Comedy, Horror", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "fourth", 
+                    "alcoholic", 
+                    "several"
+                ], 
+                "role": "The fourth story of Creepshow, \"The Crate\", has this in the form of Henry Northrup and his alcoholic wife Wilma (but call her Billy, everyone does) to the point he imagines killing her several times. He eventually does kill by feeding her to monster in the title crate.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "real"
+                ], 
+                "role": "Papa Wolf: A behind the scenes moment. Tom Atkins once said, Stephen King was concerned about the scene where the father hit his son. Said son was played by King's real life son Joe Hill. However the father played by Atkins assured him that during the scene he would do nothing to hurt Joe.", 
+                "id": "PapaWolf"
+            }
+        ]
+    }, 
+    "imdbid": "tt0083767", 
+    "poster_url": "Creepshow.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "BigBadWolves", 
+            "name": "Big Bad Wolves", 
+            "poster_url": "BigBadWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "StayTuned", 
+            "name": "Stay Tuned", 
+            "poster_url": "StayTuned.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }
+    ], 
+    "id": "Creepshow", 
+    "name": "Creepshow"
+}

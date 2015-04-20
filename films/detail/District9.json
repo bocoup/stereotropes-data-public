@@ -1,0 +1,102 @@
+{
+    "plot": "In 1982, a massive star ship bearing a bedraggled alien population, nicknamed \"The Prawns,\" appeared over Johannesburg, South Africa. Twenty-eight years later, the initial welcome by the human population has faded. The refugee camp where the aliens were located has deteriorated into a militarized ghetto called District 9, where they are confined and exploited in squalor. In 2010, the munitions corporation, Multi-National United, is contracted to forcibly evict the population with operative Wikus van der Merwe in charge. In this operation, Wikus is exposed to a strange alien chemical and must rely on the help of his only two new 'Prawn' friends.", 
+    "genres": "Action, Sci-Fi, Thriller", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Mr. Fixit: Christopher's son.", 
+                "id": "MrFixit"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "worthy", 
+                    "first"
+                ], 
+                "role": "Overprotective Dad: Smit, who obviously thinks Wikus isn't worthy of his daughter Tania, from his first appearance in that interview.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [
+                    "scary"
+                ], 
+                "role": "District 9 has the Nigerian gangsters, especially the leader Obesandjo who is confined to a wheelchair but is still scary as hell.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "scary"
+                ], 
+                "role": "Scary Black Man: Generally averted given that the film takes place in South Africa, but damn the Nigerian gang boss Obesanjo is one scary dude, despite being in a wheelchair and never raising his voice.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "manipulative"
+                ], 
+                "role": "Daddy's Girl: Tania. Only that her dad is a manipulative liar.", 
+                "id": "DaddysGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1136608", 
+    "poster_url": "District9.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "MrFixit", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Battleship", 
+            "name": "Battleship", 
+            "poster_url": "Battleship.jpg"
+        }
+    ], 
+    "id": "District9", 
+    "name": "District 9"
+}

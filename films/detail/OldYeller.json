@@ -1,0 +1,83 @@
+{
+    "plot": "Young Travis Coates is left to take care of the family ranch with his mother and younger brother while his father goes off on a cattle drive in the 1860's. When a yellow mongrel comes for an uninvited stay with the family, Travis reluctantly adopts the dog. After a series of scrapes involving raccoons, snakes, bears and all manner of animals, Travis grows to love and respect Old Yeller, who comes to have a profound effect on the boy's life.", 
+    "genres": "Family, Drama, Adventure", 
+    "release_year": "1957", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "dead"
+                ], 
+                "role": "Disappeared Dad: Not dead, but gone on a cattle drive until the end of the story. This means Travis is the man of the house until he returns.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "able"
+                ], 
+                "role": "Determined Homesteader's Wife: She cooks and cleans, works the farm, is able to handle a gun, settles disputes between Travis and Arliss, and doesn't bat an eye at stitching a wound shut.", 
+                "id": "DeterminedHomesteadersWife"
+            }, 
+            {
+                "adjectives": [
+                    "easy-to-miss"
+                ], 
+                "role": "Lisbeth in Old Yeller, in an easy-to-miss line.", 
+                "id": "WhiteHairedPrettyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0050798", 
+    "poster_url": "OldYeller.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteHairedPrettyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "XMen1", 
+            "name": "X-Men", 
+            "poster_url": "XMen1.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }
+    ], 
+    "id": "OldYeller", 
+    "name": "Old Yeller"
+}

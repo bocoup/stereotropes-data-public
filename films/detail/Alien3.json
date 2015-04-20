@@ -1,0 +1,75 @@
+{
+    "plot": "After escaping from the alien planet, the ship carrying Ellen Ripley crashes onto a remote and inhabited ore refinery. While living in the ore refinery until she is rescued by her employers, Ripley discovers the horrifying reason for her crash: An alien stowaway. As the alien matures and begins to kill off the inhabitants, Ripley is unaware that her true enemy is more than just the killer alien.", 
+    "genres": "Action, Sci-Fi, Thriller", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "small", 
+                    "all-male", 
+                    "religious"
+                ], 
+                "role": "Dillon in Alien\u00b3. Granted, he's merely a leader of a small group of all-male convicts turned religious zealots, but still.", 
+                "id": "BaldBlackLeaderGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman: Ripley screams when the gang of inmates attempt to rape her.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0103644", 
+    "similar": [
+        {
+            "shared": [
+                "BaldBlackLeaderGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "AmericanHistoryX", 
+            "name": "American History X", 
+            "poster_url": "AmericanHistoryX.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Lajja", 
+            "name": "Lajja", 
+            "poster_url": "Lajja.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "KingdomOfTheSpiders", 
+            "name": "Kingdom of the Spiders", 
+            "poster_url": "KingdomOfTheSpiders.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Them", 
+            "name": "Them!", 
+            "poster_url": "Them.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "They", 
+            "name": "They", 
+            "poster_url": "They.jpg"
+        }
+    ], 
+    "id": "Alien3", 
+    "name": "Alien\u00b3"
+}

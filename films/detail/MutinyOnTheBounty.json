@@ -1,0 +1,86 @@
+{
+    "plot": "Midshipman Roger Byam joins Captain Bligh and Fletcher Christian aboard the HMS Bounty for a voyage to Tahiti. Bligh proves to be a brutal tyrant and, after six pleasant months on Tahiti, Christian leads the crew to mutiny on the homeward voyage. Even though Byam takes no part in the mutiny, he must defend himself against charges that he supported Christian.", 
+    "genres": "Adventure, Drama, History", 
+    "release_year": "1935", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Fletcher Christian", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Officer and a Gentleman", 
+                "id": "OfficerAndAGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Various", 
+                    "native", 
+                    "many", 
+                    "other"
+                ], 
+                "role": "Various interpretations of Mutiny on the Bounty frequently has Fletcher Christian fall in love with her. Truth in Television, however, as he did take a native wife as did many of the other men.", 
+                "id": "TheChiefsDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0026752", 
+    "poster_url": "MutinyOnTheBounty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChiefsDaughter", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBounty", 
+            "name": "The Bounty", 
+            "poster_url": "TheBounty.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "MisterRoberts", 
+            "name": "Mister Roberts", 
+            "poster_url": "MisterRoberts.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "TwentyEightDaysLater", 
+            "name": "28 Days Later", 
+            "poster_url": "TwentyEightDaysLater.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGunsOfNavarone", 
+            "name": "The Guns of Navarone", 
+            "poster_url": "TheGunsOfNavarone.jpg"
+        }
+    ], 
+    "id": "MutinyOnTheBounty", 
+    "name": "Mutiny on the Bounty"
+}

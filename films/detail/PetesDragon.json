@@ -1,0 +1,95 @@
+{
+    "plot": "In New England in the early 20th century, Pete is a nine-year-old orphan escaping from his brutal adoptive parents, the Gogans, with his only friend, a cartoon dragon named Elliott. They successfully escape to Passamaquoddy, Maine, and live with Nora, a lighthouse keeper, and her father, Lampie. Elliott is sought for medicinal purposes by the corrupt Dr. Terminus.", 
+    "genres": "Adventure, Family, Fantasy", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: The Gogan family.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Petes Dragon, the Gogan family.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dastardly Whiplash: Dr. Terminus, more or less.", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Elliot to Pete.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "second"
+                ], 
+                "role": "Mama Bear: Nora. She constantly interrupts the Gogan's second Villain Song with threats toward them if they even think of hurting Pete.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0076538", 
+    "poster_url": "PetesDragon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "CorruptHick", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "HomeAlone", 
+            "name": "Home Alone", 
+            "poster_url": "HomeAlone.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }
+    ], 
+    "id": "PetesDragon", 
+    "name": "Pete's Dragon"
+}

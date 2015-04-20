@@ -1,0 +1,65 @@
+{
+    "plot": "The Minivers, an English \"middle-class\" family experience life in the first months of World War II. While dodging bombs, the Minivers' son courts Lady Beldon's granddaughter. A rose is named after Mrs. Miniver and entered in the competition against Lady Beldon's rose.", 
+    "genres": "Drama, Romance, War", 
+    "release_year": "1942", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Grande Dame: Lady Beldon", 
+                "id": "GrandeDame"
+            }
+        ]
+    }, 
+    "imdbid": "tt0035093", 
+    "poster_url": "MrsMiniver.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "AnimalCrackers", 
+            "name": "Animal Crackers", 
+            "poster_url": "AnimalCrackers.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScarletPimpernel", 
+            "name": "The Scarlet Pimpernel", 
+            "poster_url": "TheScarletPimpernel.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWomen", 
+            "name": "The Women", 
+            "poster_url": "TheWomen.jpg"
+        }
+    ], 
+    "id": "MrsMiniver", 
+    "name": "Mrs. Miniver"
+}

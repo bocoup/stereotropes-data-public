@@ -1,0 +1,134 @@
+{
+    "plot": "A clown fish named Marlin lives in the Great Barrier Reef loses his son, Nemo. After he ventures into the open sea, despite his father's constant warnings about many of the ocean's dangers. Nemo is abducted by a boat and netted up and sent to a dentist's office in Sydney. So, while Marlin ventures off to try to retrieve Nemo, Marlin meets a fish named Dory, a blue tang suffering from short-term memory loss. The companions travel a great distance, encountering various dangerous sea creatures such as sharks, anglerfish and jellyfish, in order to rescue Nemo from the dentist's office, which is situated by Sydney Harbor. While the two are doing this, Nemo and the other sea animals in the dentist's fish tank plot a way to return to Sydney Harbor to live their lives free again.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Dude: Nemo, who is captured at the beginning and trapped in an aquarium for most of the film.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Keet: Nemo on a good day. The baby sea turtles also count.", 
+                "id": "Keet"
+            }, 
+            {
+                "adjectives": [
+                    "anglerfish", 
+                    "jellyfish", 
+                    "pelican", 
+                    "human"
+                ], 
+                "role": "Papa Wolf: Marlin. Shark, anglerfish, jellyfish, pelican, human... He will topple the food chain to get his son back.", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [
+                    "balls-out", 
+                    "cool", 
+                    "scene-stealer"
+                ], 
+                "role": "Finding Nemo had that awesome elder statesman of surfing, Crush the Turtle. For a totally bogus time, he was going to be more of a gnarly balls-out insane hippie dude. Then the director hung out with some aging surfers, realized how totally cool they were, and a scene-stealer was born.", 
+                "id": "SurferDude"
+            }, 
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Surfer Dude: Crush, and the turtles. Apparently, all of them. Crush is 150 years old, it's not like he needs to do anything in a rush.", 
+                "id": "SurferDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Darla", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Dory to Marlin.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "unhatched"
+                ], 
+                "role": "Finding Nemo: Nemo's mother is missing because she was killed by a barracuda, along with all of Nemo's unhatched siblings.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick/Team Mom: Deb", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0266543", 
+    "poster_url": "FindingNemo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "Keet", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MissingMom", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "Keet", 
+                "SurferDude", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "HotelTransylvania", 
+            "name": "Hotel Transylvania", 
+            "poster_url": "HotelTransylvania.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "GirlishPigtails", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom", 
+                "DistressedDude", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }
+    ], 
+    "id": "FindingNemo", 
+    "name": "Finding Nemo"
+}

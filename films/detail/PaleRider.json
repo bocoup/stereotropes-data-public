@@ -1,0 +1,76 @@
+{
+    "plot": "A gold mining camp in the California foothills is besieged by a neighboring landowner intent on stealing their claims. A preacher rides into camp and uses all of his powers of persuasion to convince the landowner to give up his attacks on the miners.", 
+    "genres": "Romance, Western", 
+    "release_year": "1985", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Megan", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "weird"
+                ], 
+                "role": "Megan to Preacher in Pale Rider. What's really weird is that he's at least thirty.", 
+                "id": "SmittenTeenageGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Smitten Teenage Girl", 
+                "id": "SmittenTeenageGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089767", 
+    "poster_url": "PaleRider.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PluckyGirl", 
+                "SmittenTeenageGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FairyTail", 
+            "name": "Fairy Tail"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowCake", 
+            "name": "Snow Cake", 
+            "poster_url": "SnowCake.jpg"
+        }
+    ], 
+    "id": "PaleRider", 
+    "name": "Pale Rider"
+}

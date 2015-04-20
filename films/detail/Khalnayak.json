@@ -1,0 +1,98 @@
+{
+    "plot": "N/A", 
+    "genres": "Action", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Carpet of Virility: Displayed frequently by Ballu", 
+                "id": "CarpetOfVirility"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disguised in Drag: Ballu and his men dress up in skirts and veils and mock The Item Number that Ganga performed", 
+                "id": "DisguisedInDrag"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Ganga. Faux Action Girl: Arguably. Although she is a police officer and has infiltrated a group of bandits by posing as a dancer, she ends up in waaay over her head, and doesn't really do much fighting. In fact, she usually tries to talk her way out of problems. May be justified in that she's making it up as she goes.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "criminal"
+                ], 
+                "role": "Dirty Harriet: Ganga goes undercover to chase the criminal.", 
+                "id": "DirtyHarriet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Khalnayak Ganga (Madhuri Dixit) goes undercover as a dancer to try to catch Ballu (Sanjay Dutt) and save her boyfriend's reputation. She gets in waaay over her head, however, when Ballu develops feelings for her.", 
+                "id": "DirtyHarriet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Faux Action Girl: Arguably. Although she is a police officer and has infiltrated a group of bandits by posing as a dancer, she ends up in waaay over her head, and doesn't really do much fighting. In fact, she usually tries to talk her way out of problems. May be justified in that she's making it up as she goes.", 
+                "id": "FauxActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt4319640", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "FauxActionGirl", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 3, 
+            "id": "TotalRecall1990", 
+            "name": "Total Recall ", 
+            "poster_url": "TotalRecall1990.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ResidentEvilDegeneration", 
+            "name": "Resident Evil Degeneration"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveExposure", 
+            "name": "Love Exposure", 
+            "poster_url": "LoveExposure.jpg"
+        }
+    ], 
+    "id": "Khalnayak", 
+    "name": "Khalnayak"
+}

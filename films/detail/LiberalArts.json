@@ -1,0 +1,110 @@
+{
+    "plot": "Thirty-five year old Jesse Fisher, an admissions officer at a New York City post-secondary institution he who loves English and literature, has somewhat lost his passion in life, which includes recently being unceremoniously dumped by his latest girlfriend, who could no longer be the person to prop him up emotionally. He has a chance to find that passion again when he is invited to the retirement dinner of his second favorite Ohio University college professor, Peter Hoberg, as his time there was when his life held the most passion. Jesse's encounters with five people there may determine if he does find that passion again. They are: Hoberg, who is resisting the notion of retirement; Judith Fairfield, Jesse's favorite professor, although for a different reason than his like of Hoberg; Nat, a free spirit who navigates life at the institution on his own terms; undergraduate student Dean, who Jesse sees as a younger more destructive version of himself; and nineteen year old undergraduate student Zibby, who is seemingly wise beyond her years and with who Jesse embarks on a relationship despite their sixteen year age difference.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "happy"
+                ], 
+                "role": "Cool Old Guy: Downplayed with Prof. Hoberg. He is warm, but he isn't always shown to be happy.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Dean stated that his mom raised him alone.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: Gender Flipped with Prof. Fairfield.", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hard-Drinking"
+                ], 
+                "role": "Hard-Drinking Party Girl: Zibby.", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ice Queen: Prof. Fairfield, which is lampshaded early in the film.", 
+                "id": "IceQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Zibby has traits of this.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Hecate Sisters: Zibby is the child, Ana is the maiden, and Professor Fairfield is the crone.", 
+                "id": "TheHecateSisters"
+            }
+        ]
+    }, 
+    "imdbid": "tt1872818", 
+    "poster_url": "LiberalArts.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ManicPixieDreamGirl", 
+                "CoolOldGuy", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 4, 
+            "id": "Up", 
+            "name": "Up", 
+            "poster_url": "Up.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "GrumpyOldMan", 
+                "IceQueen"
+            ], 
+            "shared_count": 3, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "IceQueen", 
+                "GrumpyOldMan", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Network", 
+            "name": "Network", 
+            "poster_url": "Network.jpg"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "DisappearedDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "OliverTwist", 
+            "name": "Oliver Twist"
+        }
+    ], 
+    "id": "LiberalArts", 
+    "name": "Liberal Arts"
+}

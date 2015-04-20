@@ -1,0 +1,82 @@
+{
+    "plot": "Louise is not very popular at her highschool. Then she learns that she's descended from the witches of Salem and has inherited their powers. At first she uses them to get back at the girls and teachers who teased her and to win the heart of the handsome footballer's captain. But soon she has doubts if it's right to 'cheat' her way to popularity.", 
+    "genres": "Comedy, Fantasy, Romance", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Big Man on Campus: Brad.", 
+                "id": "BigManOnCampus"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Almost all of the cheerleaders.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Teen Witch", 
+                "id": "MagicalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098453", 
+    "poster_url": "TeenWitch.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BigManOnCampus", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBreakfastClub", 
+            "name": "The Breakfast Club", 
+            "poster_url": "TheBreakfastClub.jpg"
+        }, 
+        {
+            "shared": [
+                "BigManOnCampus", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Fame", 
+            "name": "Fame", 
+            "poster_url": "Fame.jpg"
+        }, 
+        {
+            "shared": [
+                "BigManOnCampus", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "AllTheBoysLoveMandyLane", 
+            "name": "All the Boys Love Mandy Lane", 
+            "poster_url": "AllTheBoysLoveMandyLane.jpg"
+        }, 
+        {
+            "shared": [
+                "BigManOnCampus", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "BigManOnCampus", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "ShesAllThat", 
+            "name": "She's All That", 
+            "poster_url": "ShesAllThat.jpg"
+        }
+    ], 
+    "id": "TeenWitch", 
+    "name": "Teen Witch"
+}

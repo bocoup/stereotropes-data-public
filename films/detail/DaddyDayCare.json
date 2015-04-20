@@ -1,0 +1,57 @@
+{
+    "plot": "In the comedy Daddy Day Care, two fathers lose their jobs in product development at a large food company and are forced to take their sons out of the exclusive Chapman Academy and become stay-at-home fathers. With no job possibilities on the horizon, the two dads open their own day care facility, \"Daddy Day Care\", and employ some fairly unconventional and sidesplitting methods of caring for children. As \"Daddy Day Care\" starts to catch on, it launches them into a highly comedic rivalry with Chapman Academy's tough-as-nails director... who has driven all previous competitors out of business.", 
+    "genres": "Comedy, Family", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "day-care"
+                ], 
+                "role": "House Husband: Charlie and Phil slowly have to learn how to become one while running his day-care center.", 
+                "id": "HouseHusband"
+            }, 
+            {
+                "adjectives": [
+                    "successful", 
+                    "other", 
+                    "reluctant"
+                ], 
+                "role": "In Daddy Day Care, Eddie Murphy has to learn how to be a house husband, and eventually turns it into a successful business watching other people's kids. They initially encounter a bit of Double Standard, however, as people are reluctant to trust a daycare run solely by men.", 
+                "id": "HouseHusband"
+            }
+        ]
+    }, 
+    "imdbid": "tt0317303", 
+    "poster_url": "DaddyDayCare.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HouseHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "MrMom", 
+            "name": "Mr. Mom", 
+            "poster_url": "MrMom.jpg"
+        }, 
+        {
+            "shared": [
+                "HouseHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "Cypher", 
+            "name": "Cypher", 
+            "poster_url": "Cypher.jpg"
+        }, 
+        {
+            "shared": [
+                "HouseHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFiveYearEngagement", 
+            "name": "The Five Year Engagement"
+        }
+    ], 
+    "id": "DaddyDayCare", 
+    "name": "Daddy Day Care"
+}

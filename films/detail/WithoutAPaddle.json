@@ -1,0 +1,95 @@
+{
+    "plot": "Three friends, whose lives have been drifting apart, reunite for the funeral of a fourth childhood friend. When looking through their childhood belongings, they discover a trunk which contained details on a quest their friend was attempting. It revealed that he was hot on the trail of the $200,000 that went missing with airplane hijacker D.B. Cooper in 1971. They decide to continue his journey, but do not understand the dangers they will soon encounter.", 
+    "genres": "Adventure, Comedy, Mystery", 
+    "release_year": "2004", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Granola Girl: Flower and Butterfly.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [
+                    "stumble", 
+                    "first", 
+                    "several", 
+                    "cold", 
+                    "other"
+                ], 
+                "role": "Without A Paddle: While lost in the woods, the protagonists stumble upon some Granola Girls who have taken to living in a tree to prevent it from being cut down. Their joy at seeing the first women after several days of cold, starvation, and hugging each other to stay warm quickly diminishes when they notice the girls' hairy legs (both because they didn't have access to shaving supplies and because they consciously decided to go back to nature).", 
+                "id": "HairyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "literal"
+                ], 
+                "role": "Mama Bear: A literal one, who displays maternal instincts towards Dan.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Flower for Dan.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0364751", 
+    "poster_url": "WithoutAPaddle.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GranolaGirl", 
+                "HairyGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "ThePerksOfBeingAWallflower", 
+            "name": "The Perks of Being a Wallflower", 
+            "poster_url": "ThePerksOfBeingAWallflower.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "MamaBear", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Hanna", 
+            "name": "Hanna", 
+            "poster_url": "Hanna.jpg"
+        }, 
+        {
+            "shared": [
+                "HairyGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "HomeAlone", 
+            "name": "Home Alone", 
+            "poster_url": "HomeAlone.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "StrangerThanFiction", 
+            "name": "Stranger Than Fiction", 
+            "poster_url": "StrangerThanFiction.jpg"
+        }
+    ], 
+    "id": "WithoutAPaddle", 
+    "name": "Without A Paddle"
+}

@@ -1,0 +1,81 @@
+{
+    "plot": "Nancy Archer is a rich socialite who is unhappily married to husband Harry who left her once but came back to her when he needed money. It hasn't stopped him from continuing his affair with Honey Parker and Nancy knows it. After a confrontation at a local bar, Nancy takes off in her car and has an encounter with a large sphere on the road. There have been rumors of UFOs in the area but no one will believe her. After a second encounter, Nancy grows to an amazing size. More than enough to get her revenge.", 
+    "genres": "Horror, Sci-Fi", 
+    "release_year": "1958", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "rumble"
+                ], 
+                "role": "Battle Butler: Jess, Nancy's butler since childhood, gets in a rumble with Harry when he tries to skip town.", 
+                "id": "BattleButler"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "naive", 
+                    "sweet"
+                ], 
+                "role": "The Ingenue: Nancy falls way into this, being too naive and sweet to realize that she's used as a pawn by both her father and husband to get her money.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: She grows when she's scorned, too.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0051380", 
+    "poster_url": "AttackOfThe50FootWoman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "WomanScorned"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned"
+            ], 
+            "shared_count": 1, 
+            "id": "Krull", 
+            "name": "Krull"
+        }
+    ], 
+    "id": "AttackOfThe50FootWoman", 
+    "name": "Attack of the 50-Foot Woman"
+}

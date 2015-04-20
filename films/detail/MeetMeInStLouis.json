@@ -1,0 +1,73 @@
+{
+    "plot": "St. Louis 1903. The well-off Smith family has four beautiful daughters, including Esther and little Tootie. 17-year old Esther has fallen in love with the boy next door who has just moved in, John. He however barely notices her at first. The family is shocked when Mr. Smith reveals that he has been transfered to a nice position in New York, which means that the family has to leave St. Louis and the St. Louis Fair.", 
+    "genres": "Comedy, Drama, Family", 
+    "release_year": "1944", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "Girl Next Door: Inverted, as the girl is the main character and sings about \"The Boy Next Door.\"", 
+                "id": "GirlNextDoor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Lucille Ballard turns out to be this, even though Rose and Esther had her pegged as the Alpha Bitch.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0037059", 
+    "poster_url": "MeetMeInStLouis.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "GirlNextDoor"
+            ], 
+            "shared_count": 2, 
+            "id": "BrightStar", 
+            "name": "Bright Star", 
+            "poster_url": "BrightStar.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlNextDoor"
+            ], 
+            "shared_count": 1, 
+            "id": "OurTown", 
+            "name": "Our Town", 
+            "poster_url": "OurTown.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet"
+            ], 
+            "shared_count": 1, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet"
+            ], 
+            "shared_count": 1, 
+            "id": "ComingToAmerica", 
+            "name": "Coming to America", 
+            "poster_url": "ComingToAmerica.jpg"
+        }
+    ], 
+    "id": "MeetMeInStLouis", 
+    "name": "Meet Me in St. Louis"
+}

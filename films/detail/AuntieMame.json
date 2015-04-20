@@ -1,0 +1,82 @@
+{
+    "plot": "Mame is an unconventional individualist socialite from the roaring 20's. When her brother dies, she is forced to raise her nephew Patrick. However, Patrick's father has designated an executor to his will to protect the boy from absorbing too much of Mame's rather unconventional perspective. Patrick and Mame become devoted to each other in spite of this restriction, and together journey through Patrick's childhood and the great depression, amidst some rather zaney adventures.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1958", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "sundry", 
+                    "other", 
+                    "fond"
+                ], 
+                "role": "Lady Drunk: Mame and Vera (and sundry other chums of Mame's) are very fond of wetting their whistles, usually with something like a martini...or two, or three.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Maiden Aunt: Mame is very much a subversion of this.", 
+                "id": "MaidenAunt"
+            }, 
+            {
+                "adjectives": [
+                    "notable"
+                ], 
+                "role": "The title character in Patrick Dennis' Auntie Mame is a notable subversion of the trope.", 
+                "id": "MaidenAunt"
+            }
+        ]
+    }, 
+    "imdbid": "tt0051383", 
+    "poster_url": "AuntieMame.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "BulletsOverBroadway", 
+            "name": "Bullets Over Broadway", 
+            "poster_url": "BulletsOverBroadway.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "MaidenAunt"
+            ], 
+            "shared_count": 1, 
+            "id": "Hausu", 
+            "name": "Hausu"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "Detention", 
+            "name": "Detention", 
+            "poster_url": "Detention.jpg"
+        }
+    ], 
+    "id": "AuntieMame", 
+    "name": "Auntie Mame"
+}

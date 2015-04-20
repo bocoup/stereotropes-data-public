@@ -1,0 +1,90 @@
+{
+    "plot": "Epic story about two former Texas rangers who decide to move cattle from the south to Montana. Augustus McCrae and Woodrow Call run into many problems on the way, and the journey doesn't end without numerous casualties. (6 hrs approx)", 
+    "genres": "Adventure, Drama, Western", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Gus", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Gus", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: Call", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "late"
+                ], 
+                "role": "Hooker with a Heart of Gold: Lorena Maggie, Newt's late mother, who appears in the prequels Dead Man's Walk and Commanche Moon.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0096639", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "BadAssMustache", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "QuigleyDownUnder", 
+            "name": "Quigley Down Under", 
+            "poster_url": "QuigleyDownUnder.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "BadAssMustache", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "MorningGlory", 
+            "name": "Morning Glory", 
+            "poster_url": "MorningGlory.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TeenageMutantNinjaTurtles2014", 
+            "name": "Teenage Mutant Ninja Turtles ", 
+            "poster_url": "TeenageMutantNinjaTurtles2014.jpg"
+        }
+    ], 
+    "id": "LonesomeDove", 
+    "name": "Lonesome Dove"
+}

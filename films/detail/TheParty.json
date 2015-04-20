@@ -1,0 +1,77 @@
+{
+    "plot": "An Indian actor makes a huge mistake during the filming of a costume epic. When the 'Fire this guy' list gets confused with the studio head's guest list for a party, he appears there and everyone assumes he must belong.", 
+    "genres": "Comedy", 
+    "release_year": "1968", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "gratuitous", 
+                    "bikini-clad", 
+                    "dead", 
+                    "last"
+                ], 
+                "role": "The Party has a gratuitous shot of a bikini-clad starlet toward the end of the opening sequence. Linda Gaye Scott is credited dead last as \"Starlet.\"", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [
+                    "party\u2019s"
+                ], 
+                "role": "Granola Girl \u2013 The daughter of the party\u2019s hosts, along with her friends.", 
+                "id": "GranolaGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0063415", 
+    "poster_url": "TheParty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekIIITheSearchForSpock", 
+            "name": "Star Trek III: The Search for Spock", 
+            "poster_url": "StarTrekIIITheSearchForSpock.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra"
+            ], 
+            "shared_count": 1, 
+            "id": "ConanTheBarbarian2011", 
+            "name": "Conan the Barbarian ", 
+            "poster_url": "ConanTheBarbarian2011.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "MyGirl", 
+            "name": "My Girl", 
+            "poster_url": "MyGirl.jpg"
+        }
+    ], 
+    "id": "TheParty", 
+    "name": "The Party"
+}

@@ -1,0 +1,107 @@
+{
+    "plot": "A passenger ship, on her way to the scrap yard is pushed to her limits by the new owners to save on the dismantling fees. A tidal wave hits her, flipping her over so that all the internal rooms are upside down. A priest takes a mixed band of survivors on a journey through the bowels of the ship in an attempt to survive.", 
+    "genres": "Action, Adventure", 
+    "release_year": "1972", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Wilbur.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dad the Veteran: Frank.", 
+                "id": "DadTheVeteran"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "suspicious"
+                ], 
+                "role": "Overprotective Dad: Frank, who becomes suspicious of Larry simply because his daughter's dress is torn.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sexy Priest: Susan, at least, is clearly very attracted to Rev. Scott. Of course, part of that is Rescue Romance.", 
+                "id": "SexyPriest"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Detective"
+                ], 
+                "role": "Detective Rogo's wife Linda in the 1970s version of The Poseidon Adventure in which basically he kept arresting her to get her off the street until she agreed to marry him.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Linda Rogo was a hooker before her husband kept arresting her to keep her off the street.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman: Celeste, very often.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0069113", 
+    "poster_url": "ThePoseidonAdventure.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Lajja", 
+            "name": "Lajja", 
+            "poster_url": "Lajja.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "QuigleyDownUnder", 
+            "name": "Quigley Down Under", 
+            "poster_url": "QuigleyDownUnder.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "ClashOfTheTitans", 
+            "name": "Clash of the Titans", 
+            "poster_url": "ClashOfTheTitans.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }
+    ], 
+    "id": "ThePoseidonAdventure", 
+    "name": "The Poseidon Adventure"
+}

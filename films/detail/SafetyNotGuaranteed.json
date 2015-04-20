@@ -1,0 +1,91 @@
+{
+    "plot": "Darius is a young intern at a Seattle-based magazine and jumps at the chance to investigate the author of a classified ad seeking someone to travel back in time with. Along with Jeff, the staff writer, and Arnau, a fellow intern, the three go on a road trip to a coastal town. While Jeff just wants to chase after his high school crush and Arnau wants some kind of life experience, Darius spends her time with Kenneth, a man who believes that he has built a time machine. The closer they become and the more they understand about each other, the less clear it becomes if Kenneth is just crazy or if he actually is going to successfully travel back in time.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe: Jeff.", 
+                "id": "CasanovaWannabe"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Darius in SafetyNotGuaranteed.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [
+                    "eventual"
+                ], 
+                "role": "Emotionless Girl: Darius starts the film emotionally numb from her mother's death. Her friendship and eventual romance with Kenneth helps bring some joy back into her life.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [
+                    "gender-flipped"
+                ], 
+                "role": "Manic Pixie Dream Girl: Kenneth is essentially a gender-flipped version. (The Pathological Savant Man-Child?)", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1862079", 
+    "poster_url": "SafetyNotGuaranteed.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Waitress", 
+            "name": "Waitress", 
+            "poster_url": "Waitress.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "May", 
+            "name": "May", 
+            "poster_url": "May.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "GardenState", 
+            "name": "Garden State", 
+            "poster_url": "GardenState.jpg"
+        }
+    ], 
+    "id": "SafetyNotGuaranteed", 
+    "name": "Safety Not Guaranteed"
+}

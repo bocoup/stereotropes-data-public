@@ -1,0 +1,78 @@
+{
+    "plot": "A young boy draws on the inspiration of legendary western characters to find the strength to fight an evil land baron in the old west who wants to steal his family's farm and destroy their idyllic community. When Daniel Hackett sees his father Jonas gravely wounded by the villainous Stiles, his first urge is for his family to flee the danger, and give up their life on a farm which Daniel has come to despise anyway. Going alone to a lake to try to decide what to do, he falls asleep on a boat and wakes to find himself in the wild west, in the company of such \"tall tale\" legends as Pecos Bill, Paul Bunyan, John Henry and Calamity Jane. Together, they battle the same villains Daniel is facing in his \"real\" world, ending with a heroic confrontation in which the boy stands up to Stiles and his henchmen, and rallies his neighbors to fight back against land grabbers who want to destroy their town.", 
+    "genres": "Adventure, Family, Fantasy", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "giant"
+                ], 
+                "role": "Stout Strength: Paul Bunyan in this movie is not a giant, just \"Three Hundred Pounds of Raging Fury!''", 
+                "id": "StoutStrength"
+            }, 
+            {
+                "adjectives": [
+                    "tall"
+                ], 
+                "role": "World's Strongest Man: John Henry, at least according to Pa's tall tales.", 
+                "id": "WorldsStrongestMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0111359", 
+    "poster_url": "TallTale.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WorldsStrongestMan", 
+                "StoutStrength"
+            ], 
+            "shared_count": 2, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }, 
+        {
+            "shared": [
+                "WorldsStrongestMan", 
+                "StoutStrength"
+            ], 
+            "shared_count": 2, 
+            "id": "Godzilla2014", 
+            "name": "Godzilla ", 
+            "poster_url": "Godzilla2014.jpg"
+        }, 
+        {
+            "shared": [
+                "WorldsStrongestMan", 
+                "StoutStrength"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "WorldsStrongestMan", 
+                "StoutStrength"
+            ], 
+            "shared_count": 2, 
+            "id": "PippiLongstocking", 
+            "name": "Pippi Longstocking", 
+            "poster_url": "PippiLongstocking.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength"
+            ], 
+            "shared_count": 1, 
+            "id": "Misery", 
+            "name": "Misery", 
+            "poster_url": "Misery.jpg"
+        }
+    ], 
+    "id": "TallTale", 
+    "name": "Tall Tale"
+}

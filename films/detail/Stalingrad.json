@@ -1,0 +1,105 @@
+{
+    "plot": "A depiction of the brutal battle of Stalingrad, the Third Reich's 'high water mark', as seen through the eyes of German officer Hans von Witzland and his battalion.", 
+    "genres": "Drama, War", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "young", 
+                    "Russian"
+                ], 
+                "role": "Child Soldiers: A young Russian boy named Kolya is captured by the platoon after attempting to attack them with a grenade.", 
+                "id": "ChildSoldiers"
+            }, 
+            {
+                "adjectives": [
+                    "Russian"
+                ], 
+                "role": "The 1993 German film Stalingrad has Kolya, a Russian child who is captured by the platoon after attempting to attack them with a grenade.", 
+                "id": "ChildSoldiers"
+            }, 
+            {
+                "adjectives": [
+                    "German"
+                ], 
+                "role": "Officer and a Gentleman: Leutnant Von Witzland is a German nobleman serving in the Wehrmacht. The clue is in the \"Von\".", 
+                "id": "OfficerAndAGentleman"
+            }, 
+            {
+                "adjectives": [
+                    "Italian"
+                ], 
+                "role": "Shirtless Scene: The opening scene in Italy is laden with it, though with less focus on the women at the Italian beach.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Russian", 
+                    "several"
+                ], 
+                "role": "The Squadette: Irina, a Russian sniper the unit encounter several times.", 
+                "id": "TheSquadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0108211", 
+    "poster_url": "Stalingrad.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheSquadette", 
+                "ShirtlessScene", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSquadette", 
+                "ChildSoldiers", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "Soldier", 
+            "name": "Soldier", 
+            "poster_url": "Soldier.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "RedScorpion", 
+            "name": "Red Scorpion", 
+            "poster_url": "RedScorpion.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "TwentyEightDaysLater", 
+            "name": "28 Days Later", 
+            "poster_url": "TwentyEightDaysLater.jpg"
+        }
+    ], 
+    "id": "Stalingrad", 
+    "name": "Stalingrad"
+}

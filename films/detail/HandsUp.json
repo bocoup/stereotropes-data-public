@@ -1,0 +1,79 @@
+{
+    "plot": "March 22, 2067. At dawn of life, Milana remembers her life, when she was a young Chechen immigrant in Paris, struggling for a better life along with her school friends.", 
+    "genres": "Drama", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Capt. Logan, the Union officer sent to take custody of the gold, abandons Jack, Silas, and the girls when the Indians attack.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "Sharp-Dressed", 
+                    "whole", 
+                    "West\u2014fleeing", 
+                    "stagecoaches\u2014Jack", 
+                    "white", 
+                    "top"
+                ], 
+                "role": "Sharp-Dressed Man: During his whole time in the West\u2014fleeing from Indians, blowing up gold mines, running away from a posse, stealing stagecoaches\u2014Jack is dressed in white tie and tails, with a top hat, a cape, and a walking stick to boot. This was Griffith's Iconic Outfit.", 
+                "id": "SharpDressedMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt1634334", 
+    "similar": [
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "RawDeal", 
+            "name": "Raw Deal", 
+            "poster_url": "RawDeal.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "HeavyRain", 
+            "name": "Heavy Rain"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Inception", 
+            "name": "Inception", 
+            "poster_url": "Inception.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }
+    ], 
+    "id": "HandsUp", 
+    "name": "Hands Up"
+}

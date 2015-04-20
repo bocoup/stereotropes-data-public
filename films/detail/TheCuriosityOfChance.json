@@ -1,0 +1,91 @@
+{
+    "plot": "Chance Marquis, a confident, self-assured, quick-witted, perceptive, outspoken and clear-headed gay teenager, reflects back on his first year at an international high school. While meeting and making friends with an assortment of types, he also has the targeted attentions of a mirthless vice principal and a bullying, homophobic soccer jock out to make his life miserable. At home, Chance's perceptive little sister openly shares all his confidential secrets with their widowed career-army father seeking common ground with his atypical children. Introduced to a drag club, Chance finds fun and success in a cross-dressing contest, but a photo of his participation makes life at a school a living hell. Time to find out the depths of your friendships.", 
+    "genres": "Comedy", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Chance, part time, and the drag queens all the time.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "great"
+                ], 
+                "role": "Jerk Jock: Brad, who takes great delight in tormenting Chance", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Chance and Sienna's mother died sometime before the movie", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Girl: Twyla", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0481273", 
+    "poster_url": "TheCuriosityOfChance.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MissingMom", 
+                "CampGay", 
+                "SassyBlackWoman", 
+                "JerkJock"
+            ], 
+            "shared_count": 4, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "JerkJock", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }
+    ], 
+    "id": "TheCuriosityOfChance", 
+    "name": "The Curiosity Of Chance"
+}

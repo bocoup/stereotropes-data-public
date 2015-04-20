@@ -1,0 +1,128 @@
+{
+    "plot": "It's the Great Depression. In the process of robbing a bank of $10,000, Ben Harper kills two people. Before he is captured, he is able to convince his adolescent son John and his daughter Pearl not to tell anyone, including their mother Willa, where he hid the money, namely in Pearl's favorite toy, a doll that she carries everywhere with her. Ben, who is captured, tried and convicted, is sentenced to death. But before he is executed, Ben is in the state penitentiary with a cell mate, a man by the name of Harry Powell, a self-professed man of the cloth, who is really a con man and murderer, swindling lonely women, primarily rich widows, of their money before he kills them. Harry does whatever he can, unsuccessfully, to find out the location of the $10,000 from Ben. After Ben's execution, Harry decides that Willa will be his next mark, he figuring that someone in the family knowing where the money is. Despite vowing not to get remarried, Willa ends up being easy prey for Harry's outward evangelicalism, as she is a pious woman who feels she needs to atone for her sins which led to Ben doing what he did, especially as Harry presents himself as the preacher who worked at the prison and provided salvation to Ben before his death. But Harry also quickly figures that John and Pearl know where the money is. Conversely, John doesn't trust Harry, John who first tries not to show to Harry that he indeed does know where the money is, and then second constantly reminds a more-trusting Pearl of their promise to their now-deceased father. With Willa devoted to her new husband, John and Pearl may need some other adult assistance in evading Harry's veiled threats, an adult who not only can see the honesty and goodness in children but who can also see a true wolf in sheep's clothing like Harry.", 
+    "genres": "Crime, Film-Noir, Thriller", 
+    "release_year": "1955", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Walt Spoon, who notably has to endure his wife ignoring his presence to tell half the town about  how she ignores him during sex.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Harry Powell from ''The Night Of The Hunter'.", 
+                "id": "TheBlueBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Bluebeard: Lampshaded during the finale.", 
+                "id": "TheBlueBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Lady: Rachel", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [
+                    "serious", 
+                    "psychological"
+                ], 
+                "role": "Fille Fatale: Ruby, who has some serious psychological problems.", 
+                "id": "FilleFatale"
+            }, 
+            {
+                "adjectives": [
+                    "later", 
+                    "meant"
+                ], 
+                "role": "The Night of the Hunter: The villain Harry Powell has this \u2014 being caught at a strip club at the beginning of the film, then later refusing to have sex with his wife on their wedding night and lecturing her that her body is only meant for having children.", 
+                "id": "MadonnaWhoreComplex"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Never Mess with Granny: Rachel pulls a shotgun on Powell when he goes after John.", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [
+                    "Lean"
+                ], 
+                "role": "The Night of the Hunter. Rachel Cooper faces off Knife Nut Sinister Minister Harry Powell, cradling a shotgun in her lap, singing \"Lean on Jesus\".", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [
+                    "evil"
+                ], 
+                "role": "The Night of the Hunter has an evil stepfather.", 
+                "id": "WickedStepmother"
+            }, 
+            {
+                "adjectives": [
+                    "cinematic"
+                ], 
+                "role": "Wicked Stepfather: Harry Powell, one of the worst examples in cinematic history.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0048424", 
+    "poster_url": "TheNightOfTheHunter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFamilyThatPreys", 
+            "name": "The Family That Preys", 
+            "poster_url": "TheFamilyThatPreys.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "LuckyLuke", 
+            "name": "Lucky Luke", 
+            "poster_url": "LuckyLuke.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "Belle", 
+            "name": "Belle", 
+            "poster_url": "Belle.jpg"
+        }
+    ], 
+    "id": "TheNightOfTheHunter", 
+    "name": "The Night of the Hunter"
+}

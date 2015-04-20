@@ -1,0 +1,100 @@
+{
+    "plot": "In April of 1945, Germany stands at the brink of defeat with the Soviet Armies closing in from the west and south. In Berlin, capital of the Third Reich, Adolf Hitler proclaims that Germany will still achieve victory and orders his Generals and advisers to fight to the last man. \"Downfall\" explores these final days of the Reich, where senior German leaders (such as Himmler and Goring) began defecting from their beloved Fuhrer, in an effort to save their own lives, while still others (Joseph Goebbels) pledge to die with Hitler. Hitler, himself, degenerates into a paranoid shell of a man, full of optimism one moment and suicidal depression the next. When the end finally does comes, and Hitler lies dead by his own hand, what is left of his military must find a way to end the killing that is the Battle of Berlin, and lay down their arms in surrender.", 
+    "genres": "Biography, Drama, History", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "ordinary", 
+                    "own", 
+                    "selfish/crazy", 
+                    "entire", 
+                    "straightforward"
+                ], 
+                "role": "A Father to His Men: Subverted with Hitler. Many ordinary German soldiers and civilians still look up to him as a father figure, but it turns out he has no qualms about sacrificing them all for his own selfish/crazy reasons (he thought the entire German people had \"failed\" him). Weidling, who surrenders after Hitler's death and tells German soldiers to lay down their weapons because Hitler has abandoned them, is a more straightforward example of this trope.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "short", 
+                    "particular", 
+                    "well-known"
+                ], 
+                "role": "Child Soldiers: The Germans are so short of troops that they're using children. One particular scene has Hitler inspecting a line of kids and giving them medals. This scene is essentially a recreation of well-known newsreel footage of Hitler doing just that on his birthday on 20 April 1945.", 
+                "id": "ChildSoldiers"
+            }, 
+            {
+                "adjectives": [
+                    "'manning", 
+                    "own"
+                ], 
+                "role": "Downfall features a girl of about 12 'manning' an 88mm gun at the Battle of Berlin. When everything appears hopeless, her not-much-older comrade shoots her at her own request, then kills himself.", 
+                "id": "ChildSoldiers"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Mama Bear/Papa Wolf: Subverted. Many parents in this film kill themselves and their own children.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0363163", 
+    "similar": [
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Soldier", 
+            "name": "Soldier", 
+            "poster_url": "Soldier.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "CrossOfIron", 
+            "name": "Cross Of Iron", 
+            "poster_url": "CrossOfIron.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "AfterEarth", 
+            "name": "After Earth", 
+            "poster_url": "AfterEarth.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Taps", 
+            "name": "Taps", 
+            "poster_url": "Taps.jpg"
+        }
+    ], 
+    "id": "Downfall", 
+    "name": "Downfall"
+}

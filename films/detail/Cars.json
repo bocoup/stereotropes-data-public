@@ -1,0 +1,151 @@
+{
+    "plot": "While traveling to California for the dispute of the final race of the Piston Cup against The King and Chick Hicks, the famous Lightning McQueen accidentally damages the road of the small town Radiator Springs and is sentenced to repair it. Lightning McQueen has to work hard and finds friendship and love in the simple locals, changing its values during his stay in the small town and becoming a true winner.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Car: Doc Hudson.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "off-road", 
+                    "suburban"
+                ], 
+                "role": "Drill Sergeant Nasty: Sarge does this during the end credits montage when running a boot camp for pampered SUVs. Funnier considering that the complaining SUV is a Hummer - an off-road gas-guzzler known for being more commonly used for suburban driving.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "off-road", 
+                    "gas-guzzling", 
+                    "suburban"
+                ], 
+                "role": "Sarge in Cars does this during the end credits montage, when he runs a boot camp for pampered SUVs.\n Fittingly enough, the boot camp vehicles are Hummers. He complains, \"Yo! I've never been off-road!\" a Take That to the use of the gas-guzzling Hummer in suburban environments.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Trunkovs and Ivan from Cars 2, despite the latter being sided with the Hugos.", 
+                "id": "HuskyRusskie"
+            }, 
+            {
+                "adjectives": [
+                    "popular", 
+                    "real"
+                ], 
+                "role": "Both can also be considered Jerk Jocks, since they're talented athletes and are popular for it. Kurt Busch or even Kyle Busch would be the closest thing to finding a real Chick Hicks in NASCAR.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lightning McQueen from Cars starts out as a Jerk Jock, before mellowing out in Radiator Springs.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "In-universe", 
+                    "open"
+                ], 
+                "role": "Mr. Fanservice: In-universe, Francesco Bernoulli. Sally and Flo are heavily attracted to his open tires.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "old", 
+                    "Japanese", 
+                    "three-wheeled", 
+                    "traditional", 
+                    "Japanese", 
+                    "large", 
+                    "white", 
+                    "long", 
+                    "appropriate", 
+                    "various", 
+                    "old", 
+                    "martial"
+                ], 
+                "role": "The Zen Master (an old Japanese three-wheeled truck wearing a coolie hat and traditional Japanese robes and carrying a rake on one of his wheels who runs Tokyo Art Museum's zen gardens) from Cars 2 has a large white fender over his front wheel that looks like a long, flowing beard (appropriate since he's supposed to be a parody of various old men that coach martial artists).\n For some reason, his toy and the accompanying blister package art did not show him with his \"beard\", making him look much younger than he actually is. The toy also incorrectly referred him to as the \"Zen Master Pitty\", despite not being a forklift.", 
+                "id": "WeirdBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "odd", 
+                    "three-wheeled", 
+                    "local", 
+                    "black"
+                ], 
+                "role": "Cars 2: During the scene where Mater, Finn McMissile and Holly Shiftwell are looking for Tomber, an odd three-wheeled car running the local black market in Paris, France; Mater actually sees a car facing away from him while inside the black market, and as soon as Mater talks to her, the car immediately turns around, revealing that her eyes are actually on her headlights instead of her windshield like everyone else's! Mater than screams and drives away to find his teammates.", 
+                "id": "ButterFace"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Woman: Lizzie, who slaps bumper stickers on strangers and ogles McQueen.", 
+                "id": "DirtyOldWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0317219", 
+    "poster_url": "Cars.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WeirdBeard", 
+                "DirtyOldWoman", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 4, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "WeirdBeard", 
+                "JerkJock", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "AmericanHistoryX", 
+            "name": "American History X", 
+            "poster_url": "AmericanHistoryX.jpg"
+        }
+    ], 
+    "id": "Cars", 
+    "name": "Cars"
+}

@@ -1,0 +1,93 @@
+{
+    "plot": "A simple caveman accidently becomes leader of a clan of cavemisfits and outcasts. But he ultimately wants to outsmart the bigger, stronger leader of his former clan and win the affection of a beautiful cavewoman.", 
+    "genres": "Comedy, Sci-Fi", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Atouk is this to Lana, gender inverted with Tala towards Atouk.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "superficial", 
+                    "dogged"
+                ], 
+                "role": "In Caveman, the protagonist Atouk (played by Ringo Starr), is this to the villain's superficial girl Lana. Subverted in the end, since he literally dumps her on dinosaur poo and goes for the dogged nice girl Tala.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Tonda.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "cast"
+                ], 
+                "role": "Nubile Savage: Lana. The rest of the cast to a lesser extent.", 
+                "id": "NubileSavage"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082146", 
+    "poster_url": "Caveman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "DeadPoetsSociety", 
+            "name": "Dead Poets Society", 
+            "poster_url": "DeadPoetsSociety.jpg"
+        }, 
+        {
+            "shared": [
+                "NubileSavage", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "EncinoMan", 
+            "name": "Encino Man", 
+            "poster_url": "EncinoMan.jpg"
+        }, 
+        {
+            "shared": [
+                "NubileSavage", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHungerGames", 
+            "name": "The Hunger Games", 
+            "poster_url": "TheHungerGames.jpg"
+        }, 
+        {
+            "shared": [
+                "NubileSavage", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTwilightSamurai", 
+            "name": "The Twilight Samurai", 
+            "poster_url": "TheTwilightSamurai.jpg"
+        }
+    ], 
+    "id": "Caveman", 
+    "name": "Caveman"
+}

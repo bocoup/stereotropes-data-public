@@ -1,0 +1,147 @@
+{
+    "plot": "Professional daredevil and white-suited hero, The Great Leslie, convinces turn-of-the-century auto makers that a race from New York to Paris (westward across America, the Bering Straight and Russia) will help to promote automobile sales. Leslie's arch-rival, the mustached and black-attired Professor Fate vows to beat Leslie to the finish line in a car of Fate's own invention. The Blake Edwards style of slapstick and song originated with this movie. A dedication to Laurel and Hardy appears at the beginning of the film. Edwards' tribute to Stan and Ollie can be seen most clearly in the interaction between Professor Fate and his cohort Max, as well as in the operatic Pottsdorf pie fight.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1965", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "domestic"
+                ], 
+                "role": "Battle Butler: Max and Hezekiah both act as domestic servants to their employers, in addition to their duties as bodyguards and assistants in their daredevil acts.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "villainous", 
+                    "secondary", 
+                    "prominent", 
+                    "clean-shaven"
+                ], 
+                "role": "Beard of Evil: Baron Von Stuppe rocks a villainous goatee, and both secondary antagonists General Kuhster and Texas Jack have prominent moustaches. Leslie, as the hero, is constantly clean-shaven.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "Chivalrous", 
+                    "good"
+                ], 
+                "role": "Chivalrous Pervert: Leslie, who can't resist the good will of any woman.", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [
+                    "likely"
+                ], 
+                "role": "Dastardly Whiplash: Professor Fate is quite possibly the Trope Codifier. Dick Dastardly is actually based on him. And he resembles Snidely Whiplash, as well, though that is likely a coincidence.", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Professor Fate, Jack Lemmon's character in The Great Race. In fact, Dick Dastardly was clearly based on Professor Fate, so this is, in fact, the (half-)Trope Namer's origin.", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [
+                    "semi-conscious"
+                ], 
+                "role": "Dirty Coward: The Sheriff of Boracho. Once the saloon fight starts, he pins his badge on a semi-conscious cowboy and quickly runs out the door.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Maggie's editor, Mr Goodbody.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Man in White: Leslie.", 
+                "id": "ManInWhite"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Decoy Damsel: When her car breaks down, Maggie lies down on the ground as if she had fainted, so Leslie would stop and help her.", 
+                "id": "DecoyDamsel"
+            }, 
+            {
+                "adjectives": [
+                    "significant", 
+                    "third", 
+                    "underwear"
+                ], 
+                "role": "Ms. Fanservice: Maggie, who spends a significant amount of time in the third act in just her underwear.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Maggie, of course", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0059243", 
+    "poster_url": "TheGreatRace.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "BeardOfEvil", 
+                "MsFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "TransformersDarkOfTheMoon", 
+            "name": "Transformers: Dark of the Moon", 
+            "poster_url": "TransformersDarkOfTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "PluckyGirl", 
+                "BeardOfEvil", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "MsFanservice", 
+                "PluckyGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "BeardOfEvil", 
+                "MsFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "MsFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }
+    ], 
+    "id": "TheGreatRace", 
+    "name": "The Great Race"
+}

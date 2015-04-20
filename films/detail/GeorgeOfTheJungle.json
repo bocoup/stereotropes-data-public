@@ -1,0 +1,112 @@
+{
+    "plot": "Baby George got into a plane crash in a jungle, stayed alive and was adopted by a wise ape. Ursula Stanhope, US noble woman is saved from death on safari by grown-up George, and he takes her to jungle to live with him. He slowly learns a rules of human relationships, while Ursula's lover Lyle is looking for her and the one who took her. After they are found, Ursula takes George to the USA.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Ursula's father who takes a shining to George and encourages Ursula to follow her heart.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Lyle; when a lion attacks him and Ursula, he runs away. Ursula calls him out on this, but he just waves it off.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Miles Gloriosus: Lyle towards Ursula when he finally reunites with her after the lion incident.", 
+                "id": "MilesGloriosus"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Brendan Fraser as George.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "giant"
+                ], 
+                "role": "Male version: in George of the Jungle, George ships himself back to Africa in a giant UPS carton.", 
+                "id": "GirlInABox"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Innocent Fanservice Boy: George complains about the shower, saying that the \"waterfall\" is too warm and he slipped on a \"strange slippery rock\"... while nude, in front of the heroine and her best friend.", 
+                "id": "InnocentFanserviceGirl"
+            }, 
+            {
+                "adjectives": [
+                    "wealthy", 
+                    "rich", 
+                    "nice"
+                ], 
+                "role": "Spoiled Sweet: Ursula. Despite being a wealthy heiress who's rich enough to have a man completely treated for being shot in the head, she's a very nice person.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119190", 
+    "poster_url": "GeorgeOfTheJungle.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DirtyCoward", 
+                "GirlInABox", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 5, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "MrFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "MortalKombat", 
+            "name": "Mortal Kombat", 
+            "poster_url": "MortalKombat.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "GeorgeOfTheJungle", 
+    "name": "George of the Jungle"
+}

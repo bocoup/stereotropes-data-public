@@ -1,0 +1,82 @@
+{
+    "plot": "After his former girlfriend is killed and he becomes the prime suspect, D.A. Rusty Sabich goes on a search to find the real killer and finds out he/she may be closer to him than he thinks.", 
+    "genres": "Crime, Drama, Mystery", 
+    "release_year": "1990", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Carolyn", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "moment"
+                ], 
+                "role": "Lady Macbeth: Carolyn goads Rusty to force Raymond into retirement. She loses all interest in him the very moment Sabich outright refuses her plans to betray his mentor.", 
+                "id": "LadyMacBeth"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: Leads to  Murder the Hypotenuse", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0100404", 
+    "poster_url": "PresumedInnocent.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyMacBeth", 
+                "WomanScorned", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "TheTenCommandments", 
+            "name": "The Ten Commandments", 
+            "poster_url": "TheTenCommandments.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyMacBeth", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "DoubleIndemnity", 
+            "name": "Double Indemnity", 
+            "poster_url": "DoubleIndemnity.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanScorned"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "PresumedInnocent", 
+    "name": "Presumed Innocent"
+}

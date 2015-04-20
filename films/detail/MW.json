@@ -1,0 +1,79 @@
+{
+    "plot": "N/A", 
+    "genres": "Drama, Thriller", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Man in White: Michio, in the beginning of the movie.", 
+                "id": "ManInWhite"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Distressed Damsel: Subverted when Aiko is collaborating with Michio all this time; therefore, she wasn't kidnapped in the first place. Double subverted when he kills her after her father got his money.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt1242755", 
+    "poster_url": "MW.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "RaidersOfTheLostArk", 
+            "name": "Raiders of the Lost Ark", 
+            "poster_url": "RaidersOfTheLostArk.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheProphecy", 
+            "name": "The Prophecy", 
+            "poster_url": "TheProphecy.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanForever", 
+            "name": "Batman Forever", 
+            "poster_url": "BatmanForever.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "DjangoUnchained", 
+            "name": "Django Unchained", 
+            "poster_url": "DjangoUnchained.jpg"
+        }
+    ], 
+    "id": "MW", 
+    "name": "MW"
+}

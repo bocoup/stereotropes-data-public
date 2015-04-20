@@ -1,0 +1,128 @@
+{
+    "plot": "It's 1818 in Hampstead Village on the outskirts of London. Poet Charles Brown lives in one half of a house, the Dilkes family who live in the other half. Through their association with the Dilkes, the fatherless Brawne family know Mr. Brown. The Brawne's eldest daughter, Fanny Brawne, and Mr. Brown don't like each other. She thinks he's arrogant and rude, and he feels that she is pretentious, knowing only how to sew (admittedly well as she makes all her own fashionable clothes), flirt and give opinions on subjects about which she knows nothing. Insecure struggling poet John Keats comes to live with his friend, Mr. Brown. Miss Brawne and Mr. Keats have a mutual attraction to each other, a relationship which however is slow to develop in part since Mr. Brown does whatever he can to keep the two apart. But other obstacles face the couple, including their eventual overwhelming passion for each other clouding their view of what the other does, Mr. Keats' struggling career which offers him little in the way of monetary security (which will lead to Mrs. Brawne not giving consent for them to marry), and health issues which had earlier taken the life of Mr. Keats' brother, Tom.", 
+    "genres": "Biography, Drama, Romance", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Keats' parents have died. Brawne's father has, too.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "correct"
+                ], 
+                "role": "Alpha Bitch: Brown worries that Brawne is a Alpha Bitch. Initially, Keats shares his concern. Turns out instead she's Spoiled Sweet. (Although in Real Life, they just might have been correct.)", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "next", 
+                    "open"
+                ], 
+                "role": "Girl Next Door: Possibly. Brawne literally lives next door to Keats, but how well she fits the trope is open to debate.", 
+                "id": "GirlNextDoor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ill Girl: In this case, an Ill Boy. (More than one, if you include Keats' brother Tom.)", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Meido: Brown becomes romantically entangled with his scullery maid. A scathing bit of Hypocritical Humor considering all he's said about Brawne up to that point.", 
+                "id": "Meido"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Keats' parents have died.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "possible"
+                ], 
+                "role": "Spoiled Sweet: Brawne, in the movie. Probably in Real Life, too, although it's also possible she really was Alpha Bitch.", 
+                "id": "SpoiledSweet"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "few", 
+                    "brilliant", 
+                    "young", 
+                    "financial", 
+                    "capable", 
+                    "brilliant", 
+                    "romantic", 
+                    "love"
+                ], 
+                "role": "The Muse: Brawne. Although at first she insists she'd rather amuse and be amused than muse, bemuse, or be a muse. Although the movie generally skips over this, it's also worth noting that Keats had a few muses before Brawne, including a pretty and brilliant young woman named Isabella Jones, with whom Keats shared a \"flirtation\" that overlapped somewhat with the time he knew Brawne. She has not merely been Demoted to Extra but completely expunged from the movie's account, and in fact scholars don't really know what became of her. (Did Keats dump her for Brawne? Did she dump him to marry someone else with better financial prospects?) For that matter, Keats was perfectly capable of producing a brilliant poem without the involvement of any romantic muse, and only a minority of poems are truly love poems.", 
+                "id": "TheMuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0810784", 
+    "poster_url": "BrightStar.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "AlphaBitch", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DisappearedDad", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "ALittlePrincess", 
+            "name": "A Little Princess", 
+            "poster_url": "ALittlePrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "GraveOfTheFireflies", 
+            "name": "Grave of the Fireflies", 
+            "poster_url": "GraveOfTheFireflies.jpg"
+        }
+    ], 
+    "id": "BrightStar", 
+    "name": "Bright Star"
+}

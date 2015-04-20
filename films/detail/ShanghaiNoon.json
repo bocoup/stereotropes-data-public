@@ -1,0 +1,106 @@
+{
+    "plot": "A 19th century Western. Chon Wang is a clumsy Imperial Guard to the Emperor of China. When Princess Pei Pei is kidnapped from the Forbidden City, Wang feels personally responsible and insists on joining the guards sent to rescue the Princess, who has been whisked away to the United States. In Nevada and hot on the trail of the kidnappers, Wang is separated from the group and soon finds himself an unlikely partner with Roy O'Bannon, a small time robber with delusions of grandeur. Together, the two forge onto one misadventure after another.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "nice", 
+                    "poor", 
+                    "stupid", 
+                    "Ax-Crazy", 
+                    "ambitious"
+                ], 
+                "role": "Gentleman Thief: Roy was a particularly nice one of these as leader of his gang before meeting Chon, but had the unfortunately poor judge of character to choose underlings who are cruel, stupid, Ax-Crazy and far too ambitious all at once.", 
+                "id": "GentlemanThief"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "brief", 
+                    "ass-kicking", 
+                    "first"
+                ], 
+                "role": "Action Girl: Lin. Princess Pei-Pei gets a brief spurt of ass-kicking against Lo Fong at the end of the first.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Everything's Better with Princesses: Princess Pei-Pei (played by Lucy Liu) in the first movie.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Shanghai Noon, Jackie Chan's character gets engaged (married?) to the Indian chief's daughter somewhat by accident. But it all works out when she decides to elope with Owen Wilson's character instead.", 
+                "id": "TheChiefsDaughter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chief's Daughter: Chon Wang ends up married to her in Noon.", 
+                "id": "TheChiefsDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0184894", 
+    "poster_url": "ShanghaiNoon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "TheChiefsDaughter", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }, 
+        {
+            "shared": [
+                "GentlemanThief", 
+                "EverythingsBetterWithPrincesses", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Tangled", 
+            "name": "Tangled", 
+            "poster_url": "Tangled.png"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChiefsDaughter", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FreeBirds", 
+            "name": "Free Birds", 
+            "poster_url": "FreeBirds.jpg"
+        }
+    ], 
+    "id": "ShanghaiNoon", 
+    "name": "Shanghai Noon"
+}

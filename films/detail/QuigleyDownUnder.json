@@ -1,0 +1,91 @@
+{
+    "plot": "Sharpshooter Matt Quigley is hired from America by an Australian rancher so he can shoot aborigines at a distance. Quigley takes exception to this and leaves. The rancher tries to kill him for refusing, and Quigley escapes into the brush with a woman he rescued from some of the rancher's men, and are helped by aborigines. Quigley returns the help, before going on to destroy all his enemies.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Quigley. He is played by Tom Selleck.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Grimmelman the gunsmith.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Crazy Cora.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "hair", 
+                    "Australian"
+                ], 
+                "role": "Crazy Cora in Quigley Down Under goes between this and being more or less sane. She has very long hair which is sometimes down and tangled, though no flowers or water motif as it takes place in the Australian Outback.", 
+                "id": "TheOphelia"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102744", 
+    "poster_url": "QuigleyDownUnder.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "BadAssMustache", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "BadAssMustache", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "LonesomeDove", 
+            "name": "Lonesome Dove"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TeenageMutantNinjaTurtles2014", 
+            "name": "Teenage Mutant Ninja Turtles ", 
+            "poster_url": "TeenageMutantNinjaTurtles2014.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TopGun", 
+            "name": "Top Gun", 
+            "poster_url": "TopGun.jpg"
+        }
+    ], 
+    "id": "QuigleyDownUnder", 
+    "name": "Quigley Down Under"
+}

@@ -1,0 +1,76 @@
+{
+    "plot": "Captain Red runs a hardy pirate ship with the able assistance of Frog, a dashing young French sailor. One day Capt. Red is captured and taken aboard a Spanish galleon, but thanks to his inventiveness, he raises the crew to mutiny, takes over the ship, and kidnaps the niece of the governor of Maracaibo. The question is, can he keep this pace up?", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "hard"
+                ], 
+                "role": "Badass Beard: Captain Red has a face, but it's hard to spot.", 
+                "id": "BadAssBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Jean"
+                ], 
+                "role": "Jean Peters played a pirate woman called \"Anne Providence\" in Anne of the Indies (1951); Binnie Barnes played Anne Bonney in The Spanish Main (1945); Hope Emerson played her in Double Crossbones (1951); Sonia Sorell played her in Captain Kidd and the Slave Girl (1954); and Lorna Bennett played her in Pirates (1998).", 
+                "id": "PirateGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0091757", 
+    "poster_url": "Pirates.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssBeard", 
+                "PirateGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "PirateGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "PirateGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "KnockinOnHeavensDoor", 
+            "name": "Knockin' on Heaven's Door", 
+            "poster_url": "KnockinOnHeavensDoor.jpg"
+        }
+    ], 
+    "id": "Pirates", 
+    "name": "Pirates"
+}

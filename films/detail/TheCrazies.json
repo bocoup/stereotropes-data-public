@@ -1,0 +1,77 @@
+{
+    "plot": "As a toxin begins to turn the residents of Ogden Marsh, Iowa into violent psychopaths, sheriff David Dutton tries to make sense of the situation while he, his wife, and two other unaffected townspeople band together in a fight for survival.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Subverted. Artie is too scared to protect his daughter Kathy effectively, and ends up going crazy and having sex with her.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Any time David leaves Judy alone for more than two minutes, she ends up facing a crazy and needing rescuing.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0455407", 
+    "poster_url": "TheCrazies.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "KingKong", 
+            "name": "King Kong", 
+            "poster_url": "KingKong.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }
+    ], 
+    "id": "TheCrazies", 
+    "name": "The Crazies"
+}

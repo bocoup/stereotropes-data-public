@@ -1,0 +1,103 @@
+{
+    "plot": "Based on the 60's-era cartoon of the same name. Royal Canadian Mountie Dudley Do-right is busy keeping the peace in his small mountain town when his old rival, Snidely Whiplash, comes up with a plot to buy all the property in town, then start a phony gold rush by seeding the river with nuggets. Can this well-meaning (though completely incompetent) Mountie stop Whiplash's evil plan?", 
+    "genres": "Comedy, Family, Romance", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache Snidely Whiplash", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "Partial"
+                ], 
+                "role": "Dastardly Whiplash: Partial Trope Namer.", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [
+                    "Do-Right", 
+                    "prominent", 
+                    "straight"
+                ], 
+                "role": "Snidely Whiplash from Dudley Do-Right is among the most prominent examples, although the character type had already existed beforehand, and, like everything else about the show, Whiplash was more of a parody than a straight example.", 
+                "id": "DastardlyWhiplash"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Nell.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Do-Right"
+                ], 
+                "role": "Dudley Do-Right once lost his uniform, and so he couldn't be a mountie any longer. He lived in the woods until he grew a beard long enough to cover himself. (\"Lucky for him\", says the Narrator.) Also lucky for him, when Nell finds him and brings him his uniform, she also brings him a razor.", 
+                "id": "GodivaHair"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Godiva Hair: Dudley in one episode. Though in this case, it was a beard.", 
+                "id": "GodivaHair"
+            }
+        ]
+    }, 
+    "imdbid": "tt0160236", 
+    "poster_url": "DudleyDoRight.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DastardlyWhiplash"
+            ], 
+            "shared_count": 2, 
+            "id": "BettyBoop", 
+            "name": "Betty Boop"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "GodivaHair"
+            ], 
+            "shared_count": 2, 
+            "id": "Machete", 
+            "name": "Machete", 
+            "poster_url": "Machete.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "DastardlyWhiplash"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGrandBudapestHotel", 
+            "name": "The Grand Budapest Hotel", 
+            "poster_url": "TheGrandBudapestHotel.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DastardlyWhiplash"
+            ], 
+            "shared_count": 2, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }
+    ], 
+    "id": "DudleyDoRight", 
+    "name": "Dudley Do-Right"
+}

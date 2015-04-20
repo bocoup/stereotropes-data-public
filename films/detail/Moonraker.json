@@ -1,0 +1,126 @@
+{
+    "plot": "James Bond is back for another mission and this time, he is blasting off into space. A spaceship traveling through space is mysteriously hi-jacked and Bond must work quickly to find out who was behind it all. He starts with the rockets creators, Drax Industries and the man behind the organisation, Hugo Drax. On his journey he ends up meeting Dr. Holly Goodhead and encounters the metal-toothed Jaws once again.", 
+    "genres": "Action, Adventure, Crime", 
+    "release_year": "1979", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Hugo Drax", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "evil"
+                ], 
+                "role": "Hugo Drax of Moonraker plans to remake the world to make it a better place to have an evil beard in.", 
+                "id": "BeardOfEvil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Dr. Goodhead from Moonraker has them all beat. She flies a space shuttle.", 
+                "id": "BikerBabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fanservice Extra: For once a Chekhov's Gun.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [
+                    "pregnant"
+                ], 
+                "role": "Faux Action Girl: For a CIA agent with proper spy equipment, Dr. Goodhead sure doesn't get a lot of action (pun not quite intended) until the finale. Justified trope, as Lois Chiles was pregnant during shooting.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Dr. Holly Goodhead, who gets bonus points for being close to Bond's age.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "100-Mile-High"
+                ], 
+                "role": "There was also Dr. Holly Goodhead in Moonraker. The film ends with her and Bond becoming the first members of the 100-Mile-High Club.\n Memorably mocked in Mad magazine's Moonraker spoof:", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Meganekko: Dolly", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Moonraker: Dolly, Jaws's love interest.", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sexy Stewardess: Unfortunately she turns out to be a Femme Fatale.", 
+                "id": "SexyStewardess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0079574", 
+    "poster_url": "Moonraker.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Meganekko", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanBegins", 
+            "name": "Batman Begins", 
+            "poster_url": "BatmanBegins.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Tekken", 
+            "name": "Tekken", 
+            "poster_url": "Tekken.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAmazingSpiderMan", 
+            "name": "The Amazing Spider-Man", 
+            "poster_url": "TheAmazingSpiderMan.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "BikerBabe"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMatrixReloaded", 
+            "name": "The Matrix Reloaded", 
+            "poster_url": "TheMatrixReloaded.jpg"
+        }
+    ], 
+    "id": "Moonraker", 
+    "name": "Moonraker"
+}

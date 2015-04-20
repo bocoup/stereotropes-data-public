@@ -1,0 +1,103 @@
+{
+    "plot": "Take a ride through the life and memories of Barney Panofsky, a hard-drinking, cigar-smoking, foulmouthed 65-year old hockey fanatic and television producer, as he reflects on his life's successes and (numerous) gaffes and failures as the final chapters of his own existence come sharply into focus.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Barney grows up to be one.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "supportive"
+                ], 
+                "role": "Daddy's Girl: Barney's daughter Kate is the most supportive of his three children. He himself professes to be confused by this, since he wasn't really that involved in her childhood compared to Miriam.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Canadian", 
+                    "Jewish", 
+                    "real", 
+                    "American"
+                ], 
+                "role": "Minnie Driver portrays a Canadian Jewish princess in Barney's Version, a film adaptation of the novel by Mordecai Richler, and stated that she based her character on a Montreal real estate agent who was a friend of the producer and American Jewish princesses that Driver knows.", 
+                "id": "JewishAmericanPrincess"
+            }, 
+            {
+                "adjectives": [
+                    "Jewish", 
+                    "own"
+                ], 
+                "role": "Jewish Mother: Averted. Barney notes that unlike this stereotype, his Jewish mother was generally uninterested in how he was doing at school and spent most of her time listening to the radio. This is Richler's Take That at his own mother, who he hated.", 
+                "id": "JewishMother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mrs. Robinson: Barney's teacher.", 
+                "id": "MrsRobinson"
+            }
+        ]
+    }, 
+    "imdbid": "tt1423894", 
+    "poster_url": "BarneysVersion.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "JewishMother", 
+                "MrsRobinson", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 4, 
+            "id": "ptitleh790movp", 
+            "name": "Barney's Version", 
+            "poster_url": "ptitleh790movp.jpg"
+        }, 
+        {
+            "shared": [
+                "MrsRobinson", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "LosOlvidados", 
+            "name": "Los Olvidados", 
+            "poster_url": "LosOlvidados.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "JewishMother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHebrewHammer", 
+            "name": "The Hebrew Hammer", 
+            "poster_url": "TheHebrewHammer.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother", 
+                "MrsRobinson"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRebound", 
+            "name": "The Rebound", 
+            "poster_url": "TheRebound.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }
+    ], 
+    "id": "BarneysVersion", 
+    "name": "Barney's Version"
+}

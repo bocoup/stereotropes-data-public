@@ -1,0 +1,108 @@
+{
+    "plot": "During the Vietnam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade colonel who has set himself up as a god among a local tribe.", 
+    "genres": "Drama, War", 
+    "release_year": "1979", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "In Apocalypse Now, Captain Willard (Martin Sheen) alludes to Lieutenant-Colonel \"I love the smell of napalm in the morning\" Kilgore (Robert Duvall) as falling into this trope. Arguably he comes across as more of a Cool Uncle or Older Brother.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pretty Boy: Lance, the blonde California surfer whom Willard describes as \"Looking like he never held a gun in his life\".", 
+                "id": "PrettyBoy"
+            }, 
+            {
+                "adjectives": [
+                    "hot"
+                ], 
+                "role": "Shirtless Scene: Sheen spends a lot of the time shirtless, and is naked in the beginning. Robert Duvall, too, right in the middle of a battle. Vietnam is hot.", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [
+                    "much", 
+                    "straightforward"
+                ], 
+                "role": "in Apocalypse Now, Lt. Col. Bill Kilgore is a rarified creature; a Blood Knight Surfer Dude. Lance is a much more straightforward example.", 
+                "id": "SurferDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Bird Lady: One of the playmates love birds a little too much.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Apocalypse Now- although these are actually Playboy playmates rather than singers, and their presence causes a riot.", 
+                "id": "GlamorousWartimeSinger"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Playboy Bunny: Cynthia Wood (Miss February 1973, Playmate of the Year 1974) and Linda Carpenter (Miss August 1976). Possibly examples of As Herself, since Wood and Carpenter are both playing Playmates.", 
+                "id": "PlayboyBunny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0078788", 
+    "poster_url": "ApocalypseNow.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrettyBoy", 
+                "SurferDude", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 3, 
+            "id": "TeenBeachMovie", 
+            "name": "Teen Beach Movie", 
+            "poster_url": "TeenBeachMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "PrettyBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Soldier", 
+            "name": "Soldier", 
+            "poster_url": "Soldier.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Centurion", 
+            "name": "Centurion", 
+            "poster_url": "Centurion.jpg"
+        }
+    ], 
+    "id": "ApocalypseNow", 
+    "name": "Apocalypse Now"
+}

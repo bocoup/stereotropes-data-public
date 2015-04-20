@@ -1,0 +1,82 @@
+{
+    "plot": "Ramon the alligator is flushed down the toilet as a baby and grows into a gargantuan monster by eating the corpses of laboratory animals who have undergone dubious hormone experiments, thus providing all the ecological and social subtext that one could possibly wish for, even if one doesn't normally go for films about giant alligators eating people left, right, and center--which is the inevitable and tragic result of Ramon's decision that the outside world looks rather more interesting than the sewers....", 
+    "genres": "Horror", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Great White Hunter: Again, an overt parody in the form of Col. Brock.", 
+                "id": "GreatWhiteHunter"
+            }, 
+            {
+                "adjectives": [
+                    "horror/comedy", 
+                    "pith-helmet"
+                ], 
+                "role": "Subverted by Colonel Brock in the horror/comedy Alligator; he wears a safari suit and pith-helmet even though the film is set in Chicago.", 
+                "id": "GreatWhiteHunter"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist", 
+                "id": "HotScientist"
+            }
+        ]
+    }, 
+    "imdbid": "tt0080354", 
+    "poster_url": "Alligator.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GreatWhiteHunter", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "DeepBlueSea", 
+            "name": "Deep Blue Sea", 
+            "poster_url": "DeepBlueSea.jpg"
+        }, 
+        {
+            "shared": [
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExtraordinaryAdventuresOfAdeleBlancSec", 
+            "name": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "GreatWhiteHunter"
+            ], 
+            "shared_count": 1, 
+            "id": "AnimalCrackers", 
+            "name": "Animal Crackers", 
+            "poster_url": "AnimalCrackers.jpg"
+        }
+    ], 
+    "id": "Alligator", 
+    "name": "Alligator"
+}

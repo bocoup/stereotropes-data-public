@@ -1,0 +1,101 @@
+{
+    "plot": "One thousand years after cataclysmic events forced humanity's escape from Earth, Nova Prime has become mankind's new home. Legendary General Cypher Raige returns from an extended tour of duty to his estranged family, ready to be a father to his 13-year-old son, Kitai. When an asteroid storm damages Cypher and Kitai's craft, they crash-land on a now unfamiliar and dangerous Earth. As his father lies dying in the cockpit, Kitai must trek across the hostile terrain to recover their rescue beacon. His whole life, Kitai has wanted nothing more than to be a soldier like his father. Today, he gets his chance.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "fellow"
+                ], 
+                "role": "A Father to His Men: General Cypher Raige is respected and looked up to by his fellow rangers, including one who was apparently saved by him from an Ursa.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "fellow"
+                ], 
+                "role": "In After Earth General Cypher Raige is respected and looked up to by his fellow rangers, including one who was apparently saved by him from an Ursa.", 
+                "id": "AFatherToHisMen"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "big"
+                ], 
+                "role": "Cool Big Sis: Kitai's big sis, Ranger Senshi. She was killed by an Ursa protecting him as a child.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [
+                    "big"
+                ], 
+                "role": "Kitai's big sis, Ranger Senshi in After Earth.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [
+                    "giant", 
+                    "protective"
+                ], 
+                "role": "Mama Bear: Do not come between the giant eagle and her offspring. She also becomes protective of Kitai after she loses all her chicks, watching over him from above and saving him from freezing to death.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt1815862", 
+    "poster_url": "AfterEarth.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MamaBear", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TigerCruise", 
+            "name": "Tiger Cruise", 
+            "poster_url": "TigerCruise.png"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "DespicableMe", 
+            "name": "Despicable Me", 
+            "poster_url": "DespicableMe.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuPanda2", 
+            "name": "Kung Fu Panda 2", 
+            "poster_url": "KungFuPanda2.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "ChildsPlay", 
+            "name": "Child's Play"
+        }
+    ], 
+    "id": "AfterEarth", 
+    "name": "After Earth"
+}

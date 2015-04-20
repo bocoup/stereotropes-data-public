@@ -1,0 +1,103 @@
+{
+    "plot": "Two sisters who, after spending time in a mental institution, return to the home of their father and cruel stepmother. Once there, in addition to dealing with their stepmother's obsessive and unbalanced ways, an interfering ghost also affects their recovery.", 
+    "genres": "Drama, Horror, Mystery", 
+    "release_year": "2003", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Su-mi"
+                ], 
+                "role": "Broken Bird: Su-mi.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ill Girl: The girls' mother.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "A Tale of Two Sisters has one.", 
+                "id": "StringyHairedGhostGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Stringy-Haired", 
+                    "freaky"
+                ], 
+                "role": "Stringy-Haired Ghost Girl: This film contains the scariest damn one you may EVER see. And, if you look closely, you can see that it appears to be the girls' mother. This is confirmed by Word of God. The Uninvited had a suitably freaky one as well  and it's confirmed to be the girls' mother.", 
+                "id": "StringyHairedGhostGirl"
+            }, 
+            {
+                "adjectives": [
+                    "likely", 
+                    "hard", 
+                    "sure"
+                ], 
+                "role": "A Tale of Two Sisters, the Korean movie on which The Uninvited is based, plays the scenario very similarly  although it seems a lot more likely that the stepmother did in fact have a hand in the mother's death. Given the Mind Screw that is this movie, it's hard to be sure.", 
+                "id": "WickedStepmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wicked Stepmother: Legendary.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0365376", 
+    "poster_url": "ATaleOfTwoSisters.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StringyHairedGhostGirl", 
+                "BrokenBird", 
+                "IllGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheGrudge", 
+            "name": "The Grudge", 
+            "poster_url": "TheGrudge.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "UncleTomsCabin", 
+            "name": "Uncle Tom's Cabin"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MansfieldPark", 
+            "name": "Mansfield Park", 
+            "poster_url": "MansfieldPark.jpg"
+        }
+    ], 
+    "id": "ATaleOfTwoSisters", 
+    "name": "A Tale of Two Sisters"
+}

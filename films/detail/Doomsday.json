@@ -1,0 +1,115 @@
+{
+    "plot": "A lethal virus spreads throughout Scotland, infecting millions and killing hundreds of thousands. To contain the threat, acting authorities brutally quarantine the country as it succumbs to fear and chaos. The quarantine is successful. Three decades later, the Reaper virus violently resurfaces in London. An elite group of specialists, including Eden Sinclair, is urgently dispatched into Scotland to retrieve a cure by any means necessary. Shut off from the rest of the world, the unit must battle through a landscape that has become a waking nightmare.", 
+    "genres": "Action, Sci-Fi, Thriller", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene: Sol.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Eden Sinclair. Kick-boxing sharp-shooting one-eyed badass.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bathing Beauty: some unnamed blonde chick in a bathtub that has a shot gun.", 
+                "id": "BathingBeauty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dark Action Girl: Viper. Tattooed machete-wielding cannibal babe.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "memorable"
+                ], 
+                "role": "Viper from Doomsday, although her most memorable scene was not fighting but lighting a man on fire in order to cook him for the hungry crowd.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "easy", 
+                    "fellow"
+                ], 
+                "role": "Faux Action Girl: Viper, who for all her looks and attitude, goes down pretty easy against Eden. Justified, as Eden is a trained and expierenced soldier where as Viper would unlikely to have received any combat training worth mentioning and lets her fellow cannibals do the fighting.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cally in Doomsday. Notable mostly because her father has given up on winning her over to his cause, and now just wants her dead.", 
+                "id": "MadScientistsBeautifulDaughter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mad Scientist's Beautiful Daughter: Cally.", 
+                "id": "MadScientistsBeautifulDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0483607", 
+    "poster_url": "Doomsday.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "FauxActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TotalRecall1990", 
+            "name": "Total Recall ", 
+            "poster_url": "TotalRecall1990.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "DarkActionGirl", 
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "GuardiansOfTheGalaxy", 
+            "name": "Guardians of the Galaxy", 
+            "poster_url": "GuardiansOfTheGalaxy.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "ActionGirl", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendOfTheSeeker", 
+            "name": "Legend of the Seeker"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DarkActionGirl", 
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 3, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }
+    ], 
+    "id": "Doomsday", 
+    "name": "Doomsday"
+}

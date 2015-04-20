@@ -1,0 +1,76 @@
+{
+    "plot": "Biker Cary Ford is framed by an old rival and biker gang leader for the murder of another gang member who happens to be the brother of Trey (Ice Cube), leader of the most feared biker gang in the country. Ford is now on the run trying to clear his name from the murder with Trey and his gang looking for his blood.", 
+    "genres": "Action, Thriller", 
+    "release_year": "2004", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Biker Babe: Or this?", 
+                "id": "BikerBabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in Black: China. Played straight... or parodied?", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wrench Wench: Shane.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt0329691", 
+    "poster_url": "Torque.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WrenchWench", 
+                "BikerBabe"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "WrenchWench"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "WrenchWench", 
+                "BikerBabe"
+            ], 
+            "shared_count": 2, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "BikerBabe"
+            ], 
+            "shared_count": 2, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }
+    ], 
+    "id": "Torque", 
+    "name": "Torque"
+}

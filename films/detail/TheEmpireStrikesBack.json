@@ -1,0 +1,70 @@
+{
+    "plot": "The game follows the storyline of the movie. You play as Luke Skywalker, who must find Yoda to learn the path of the Jedi.", 
+    "genres": "Sci-Fi, Adventure, Action", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Archnemesis Dad: Vader is revealed to be one to Luke himself.", 
+                "id": "ArchnemesisDad"
+            }, 
+            {
+                "adjectives": [
+                    "famous"
+                ], 
+                "role": "The most famous aversion of all comes in The Empire Strikes Back:", 
+                "id": "OverlordJr"
+            }
+        ]
+    }, 
+    "imdbid": "tt0295234", 
+    "similar": [
+        {
+            "shared": [
+                "ArchnemesisDad", 
+                "OverlordJr"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "ArchnemesisDad"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "ArchnemesisDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Shocker", 
+            "name": "Shocker", 
+            "poster_url": "Shocker.jpg"
+        }, 
+        {
+            "shared": [
+                "OverlordJr"
+            ], 
+            "shared_count": 1, 
+            "id": "OneCrazySummer", 
+            "name": "One Crazy Summer", 
+            "poster_url": "OneCrazySummer.jpg"
+        }, 
+        {
+            "shared": [
+                "ArchnemesisDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Pusher", 
+            "name": "Pusher"
+        }
+    ], 
+    "id": "TheEmpireStrikesBack", 
+    "name": "The Empire Strikes Back"
+}

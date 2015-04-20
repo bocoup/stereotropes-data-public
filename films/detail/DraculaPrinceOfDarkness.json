@@ -1,0 +1,77 @@
+{
+    "plot": "Two couples traveling in eastern Europe decide to visit Karlsbad despite dire local warnings. Left outside the village by a coachman terrified at the approach of night, they find themselves in the local castle and are surprised at the hospitality extended by the sinister Klove. It turns out the owner, Count Dracula, dead for ten years, has been hoping for such a visit.", 
+    "genres": "Horror", 
+    "release_year": "1966", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crusty Caretaker: Klove", 
+                "id": "CrustyCaretaker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "aside", 
+                    "first"
+                ], 
+                "role": "Distressed Damsel: Diana Hidden Depths: When Charles is being menaced by Dracula, Diana grabs Sandor's rifle and shoots at the Count.  While of course bullets are useless against Dracula and she misses anyway, it does show Sandor how they can kill Dracula. Besides, Diana doesn't know the rifle alone won't kill Dracula and her act shows she isn't prepared to stand aside and do nothing while her husband is in danger. She's also the first person in the movie to recognize the power of the cross and use it to defend herself.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0059127", 
+    "poster_url": "DraculaPrinceOfDarkness.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "TheChangeling", 
+            "name": "The Changeling", 
+            "poster_url": "TheChangeling.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }
+    ], 
+    "id": "DraculaPrinceOfDarkness", 
+    "name": "Dracula: Prince of Darkness"
+}

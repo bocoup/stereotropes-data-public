@@ -1,0 +1,81 @@
+{
+    "plot": "In 1912, the notorious and violent prisoner Robert Franklin Stroud is transferred to the Leavenworth Prison convicted for murdering a man. When a guard cancels the visit of his mother, Elizabeth Stroud, due to a violation of the internal rules, he stabs and kills the guard and goes to trial three times. He is sentenced to be executed by the gallows, but his mother appeals to President Woodrow Wilson who commutes his sentence to life imprisonment. However, the warden, Harvey Shoemaker, decides to keep Stroud in solitary for the rest of his life. One day, Stroud finds a sparrow that has fallen from the nest in the yard and he raises the bird until it is strong enough to fly. Stroud finds a motivation for his life raising and caring for birds and becomes an expert in birds. He marries Stella Johnson and together they run a business, providing medicine developed by Stroud. But a few years after, Stroud is transferred to Alcatraz and has to leave his birds behind.", 
+    "genres": "Biography, Drama", 
+    "release_year": "1962", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Stroud in the latter half of Birdman Of Alcatraz, having grown into this role over the course of his years in prison.", 
+                "id": "TheOldConvict"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Old Convict: Stroud in the latter half of the movie.", 
+                "id": "TheOldConvict"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "protective", 
+                    "alive", 
+                    "dead"
+                ], 
+                "role": "My Beloved Smother: Stroud's mother is intensely protective of her son, so much so that she personally appeals to the First Lady to save him from execution, despite the fact that Stroud himself doesn't really care. It works. Then when she jealously begs him to abandon his wife he accuses her of wanting to keep him alive in prison and dependent on her for the outside world. She takes this as her abandoning him and after she publicly denounces him he burns his photo of her and says she is dead to him.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0055798", 
+    "poster_url": "BirdmanOfAlcatraz.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "TheOldConvict"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TuckEverlasting", 
+            "name": "Tuck Everlasting", 
+            "poster_url": "TuckEverlasting.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "FiftyFifty", 
+            "name": "50/50", 
+            "poster_url": "FiftyFifty.jpg"
+        }
+    ], 
+    "id": "BirdmanOfAlcatraz", 
+    "name": "Birdman Of Alcatraz"
+}

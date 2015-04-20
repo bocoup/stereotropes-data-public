@@ -1,0 +1,78 @@
+{
+    "plot": "When notorious pirate Henry Morgan is made governor of Jamaica, he enlists the help of some of his former partners in ridding the Carribean of Buccaneers. When one of them apparently abducts the previous governor's pretty daughter and joins up with the rebels, things are set for a fight.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "1942", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Father Neptune: Tommy Blue.", 
+                "id": "FatherNeptune"
+            }, 
+            {
+                "adjectives": [
+                    "single"
+                ], 
+                "role": "Sissy Villain: Ingram, who is defeated with a single blow.", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Dandy: Ingram.", 
+                "id": "TheDandy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0034522", 
+    "poster_url": "TheBlackSwan1940.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SissyVillain", 
+                "TheDandy"
+            ], 
+            "shared_count": 2, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "FatherNeptune", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "SissyVillain"
+            ], 
+            "shared_count": 1, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "TheDandy"
+            ], 
+            "shared_count": 1, 
+            "id": "AlmostHeroes", 
+            "name": "Almost Heroes", 
+            "poster_url": "AlmostHeroes.jpg"
+        }
+    ], 
+    "id": "TheBlackSwan1940", 
+    "name": "The Black Swan"
+}

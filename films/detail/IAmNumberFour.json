@@ -1,0 +1,133 @@
+{
+    "plot": "Extraordinary teen John Smith (Pettyfer) is a fugitive on the run from ruthless enemies sent to destroy him. Changing his identity, moving from town to town with his guardian Henri (Olyphant), John is always the new kid with no ties to his past. In the small Ohio town he now calls home, John encounters unexpected, life-changing events-his first love (Agron), powerful new abilities and a connection to the others who share his incredible destiny.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "able", 
+                    "distinct"
+                ], 
+                "role": "Dirty Coward: Setrakus Ra. He's somehow able to cut off the Garde's Legacies, leading Six to call him a coward because he won't fight them unless he puts them at a distinct disadvantage.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Sam's, and John's to an extent - but he claims Henri as his father.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "local", 
+                    "scott", 
+                    "free"
+                ], 
+                "role": "I Am Number Four: Mark James, the local Jerk Sue who gets away with assault, kidnapping, breaking into people's lockers and planting paint bombs in them, stalking his ex, has the NERVE to tell her that she's the problem, and gets away scott free from everything because the plot says so.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Number Six", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "central"
+                ], 
+                "role": "Number Six from I Am Number Four. Especially in the sequel book, when she is promoted from an Eleventh Hour Ranger to one of the central characters.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "dead"
+                ], 
+                "role": "Missing Mom: Number Four's parents are both dead, but he mentions to Sarah's family that his parents are just separated. Also, Sam has lived with his dad and stepdad but no mom is ever mentioned.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "dead"
+                ], 
+                "role": "Missing Mom: Number Four's parents are both dead, but he mentions to Sarah's family that his parents are just separated. Also, Sam has lived with his dad and stepdad but no mom is ever mentioned. Sam lives with his mom in the book, and he has no stepfather.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Sarah", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Ella", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1464540", 
+    "poster_url": "IAmNumberFour.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BrokenBird", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom", 
+                "BrokenBird", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom", 
+                "JerkJock", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick", 
+                "JerkJock", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "GeekCharming", 
+            "name": "Geek Charming"
+        }
+    ], 
+    "id": "IAmNumberFour", 
+    "name": "I Am Number Four"
+}

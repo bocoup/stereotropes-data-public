@@ -1,0 +1,122 @@
+{
+    "plot": "A thief awakens Valerie, just 13, taking earrings left to her by her mother. By morning, the earrings have been returned, Valerie's first period has begun, and a troupe and a missionary have arrived in her Medieval town. The thief is Orick; he reports to a cloaked constable who may also be the missionary. Attention to sexuality is everywhere: Valerie's grandmother's puritanical nature, the missionary's sermon to the town's virgins, the parish priest's attempt to seduce Valerie, and lusty adults at play. Valerie's nascent sexuality puts her in great danger. Can she navigate the passage from innocence to experience, a route teaming with vampires, a murderer, and an obscure family tree?", 
+    "genres": "Adventure, Drama, Fantasy", 
+    "release_year": "1970", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Tcho\u0159"
+                ], 
+                "role": "Archnemesis Dad: Tcho\u0159 enslaves, tortures and harasses his offspring.", 
+                "id": "ArchnemesisDad"
+            }, 
+            {
+                "adjectives": [
+                    "Orl\u00edk"
+                ], 
+                "role": "Distressed Dude: Orl\u00edk is rescued three times by his sister.", 
+                "id": "DistressedDude"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Valerie and Her Week of Wonders, Valerie rescues her brother Eagle first from being chained in the town square, and then from being handcuffed in the middle of a river.", 
+                "id": "DistressedDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "several", 
+                    "magic"
+                ], 
+                "role": "Damsel in Distress: Valerie on several occasions. One some occasions she escapes using a magic pearl, alternately she is rescued by her brother.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: Babicka.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "white", 
+                    "white", 
+                    "Victorian", 
+                    "white", 
+                    "whitish"
+                ], 
+                "role": "Valerie in Valerie and Her Week of Wonders with her white smock symbolizing her innocence.\n More dramatically, Babicka, who often is covered up in a white Victorian dress with white gloves (her skin and hair are also whitish).", 
+                "id": "WomanInWhite"
+            }, 
+            {
+                "adjectives": [
+                    "white", 
+                    "white", 
+                    "Victorian", 
+                    "white", 
+                    "whitish"
+                ], 
+                "role": "Woman in White: Valerie with her white smock and, more dramatically, Babicka, who often is covered up in a white Victorian dress with white gloves (her skin and hair are also whitish).", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0066516", 
+    "poster_url": "ValerieAndHerWeekOfWonders.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ArchnemesisDad", 
+                "DistressedDude", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DistressedDude", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DistressedDude", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "MirrorMirror", 
+            "name": "Mirror, Mirror"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DistressedDude"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }
+    ], 
+    "id": "ValerieAndHerWeekOfWonders", 
+    "name": "Valerie and Her Week of Wonders"
+}

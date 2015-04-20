@@ -1,0 +1,86 @@
+{
+    "plot": "The familiar story of Lieutenant Bligh, whose cruelty leads to a mutiny on his ship. This version follows both the efforts of Fletcher Christian to get his men beyond the reach of British retribution, and the epic voyage of Lieutenant Bligh to get his loyalists safely to East Timor in a tiny lifeboat.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Christian\u2014too", 
+                    "much"
+                ], 
+                "role": "A Father to His Men: Christian\u2014too much, as this causes him to lead the mutiny against Bligh.", 
+                "id": "AFatherToHisMen"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Tahitian", 
+                    "open"
+                ], 
+                "role": "Innocent Fanservice Girl / National Geographic Nudity: The Tahitian women generally go topless. Their frank and open sexuality winds up being one of the reasons the Bounty crew mutinies.", 
+                "id": "InnocentFanserviceGirl"
+            }, 
+            {
+                "adjectives": [
+                    "actual"
+                ], 
+                "role": "The Chief's Daughter: Mauatua, daughter of the king of Tahiti, who falls in love with Fletcher Christian. (Her name in actual history was Maimiti.)", 
+                "id": "TheChiefsDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0086993", 
+    "poster_url": "TheBounty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChiefsDaughter", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "MutinyOnTheBounty", 
+            "name": "Mutiny on the Bounty", 
+            "poster_url": "MutinyOnTheBounty.jpg"
+        }, 
+        {
+            "shared": [
+                "InnocentFanserviceGirl", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "StarshipTroopers", 
+            "name": "Starship Troopers", 
+            "poster_url": "StarshipTroopers.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChiefsDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "TheChiefsDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "FreeBirds", 
+            "name": "Free Birds", 
+            "poster_url": "FreeBirds.jpg"
+        }
+    ], 
+    "id": "TheBounty", 
+    "name": "The Bounty"
+}

@@ -1,0 +1,88 @@
+{
+    "plot": "The centenary of the small seaside town of Antonio Bay, California is approaching. One hundred years ago, the wealthy leper Blake bought the clipper ship Elizabeth Dane and sailed with his people to form a leper colony. However, while sailing through a thick fog, they were deliberately misguided by a campfire onshore, steering the course of the ship toward the light and crashing her against the rocks. While the townsfolk prepare to celebrate, the victims of this heinous crime that the town's founding fathers committed rise from the sea to claim retribution. Under cover of the fog, they carry out their vicious attacks, searching for what is rightly theirs.", 
+    "genres": "Horror", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "single"
+                ], 
+                "role": "Disappeared Dad: Stevie is a single parent with no explanation given.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "final", 
+                    "few"
+                ], 
+                "role": "Action Mom: Stevie becomes one of these in the film's final few minutes as she has to fight off the ghosts.", 
+                "id": "ActionMom"
+            }, 
+            {
+                "adjectives": [
+                    "Hysterical", 
+                    "panic"
+                ], 
+                "role": "Hysterical Woman: Subverted. Stevie's panic slowly starts to increase but she keeps her act together long enough to warn people about the fog and to fight off the pirates, and this is Justified Trope when its taken into consideration that she is trapped in a lighthouse while her home and her son are left at the mercy of undead pirates and all she can do is spread warnings over the radio.", 
+                "id": "HystericalWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0080749", 
+    "poster_url": "TheFog.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ActionMom"
+            ], 
+            "shared_count": 2, 
+            "id": "CastleInTheSky", 
+            "name": "Castle in the Sky", 
+            "poster_url": "CastleInTheSky.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ActionMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLorax", 
+            "name": "The Lorax", 
+            "poster_url": "TheLorax.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ActionMom"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ActionMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Terminator", 
+            "name": "Terminator"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ActionMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Looper", 
+            "name": "Looper", 
+            "poster_url": "Looper.jpg"
+        }
+    ], 
+    "id": "TheFog", 
+    "name": "The Fog"
+}

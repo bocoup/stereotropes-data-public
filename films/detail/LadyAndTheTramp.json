@@ -1,0 +1,118 @@
+{
+    "plot": "Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while. This turns out to be a bad move, as no dog is above the law.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1955", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "In Lady and the Tramp II: Scamp's Adventure Scamp sees his father as one of these, a lazy dad who could never understand his desire to be a wild dog. Little does he know that his father was THE wild dog back in the day.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Boris from Lady and the Tramp, who is the largest of Lady's inmates while she is still in the dog pound.", 
+                "id": "HuskyRusskie"
+            }, 
+            {
+                "adjectives": [
+                    "long", 
+                    "other"
+                ], 
+                "role": "Ladykiller in Love: Tramp has a long background with other... dogs.", 
+                "id": "LadyKillerInLove"
+            }, 
+            {
+                "adjectives": [
+                    "same"
+                ], 
+                "role": "Tramp from Lady and the Tramp, particularly in the sequel, because he didn't want his son to make the same mistakes he did.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [
+                    "unable", 
+                    "only"
+                ], 
+                "role": "Papa Wolf: When Lady is unable to stop the rat from entering the baby's room, without hesitation, Tramp takes on this role to kill the rat and save the baby. He's also this to his only son in the sequel.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Lady to the baby. See also: Papa Wolf.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Lady.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0048280", 
+    "poster_url": "LadyAndTheTramp.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "SpoiledSweet", 
+                "BumblingDad", 
+                "LadyKillerInLove", 
+                "MamaBear"
+            ], 
+            "shared_count": 5, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "SpoiledSweet", 
+                "HuskyRusskie", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "SpoiledSweet", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "OverprotectiveDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "SpoiledSweet", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteATaleOfTerror", 
+            "name": "Snow White: A Tale of Terror", 
+            "poster_url": "SnowWhiteATaleOfTerror.jpg"
+        }
+    ], 
+    "id": "LadyAndTheTramp", 
+    "name": "Lady and the Tramp"
+}

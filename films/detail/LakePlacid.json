@@ -1,0 +1,97 @@
+{
+    "plot": "What happens when a man-eating crocodile begins picking off tourists in beautiful Lake Placid? What if the crocodile wants to make it his home?", 
+    "genres": "Comedy, Horror", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Kavorka Man: Hector.", 
+                "id": "KavorkaMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "major", 
+                    "alive", 
+                    "true"
+                ], 
+                "role": "Final Girl: Averted in that all of the major characters stay alive through the end. Although, the crocodile tries to get this trope to be true.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hot", 
+                    "male"
+                ], 
+                "role": "Hot Scientist: Kelly and on the male side, arguably Jack.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Screaming Woman: Both Kelly and the Sheriff's female deputy do this.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0139414", 
+    "poster_url": "LakePlacid.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "KingdomOfTheSpiders", 
+            "name": "Kingdom of the Spiders", 
+            "poster_url": "KingdomOfTheSpiders.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "Them", 
+            "name": "Them!", 
+            "poster_url": "Them.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "They", 
+            "name": "They", 
+            "poster_url": "They.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackChristmas1974", 
+            "name": "Black Christmas ", 
+            "poster_url": "BlackChristmas1974.jpg"
+        }
+    ], 
+    "id": "LakePlacid", 
+    "name": "Lake Placid"
+}

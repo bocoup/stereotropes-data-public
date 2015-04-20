@@ -1,0 +1,76 @@
+{
+    "plot": "A comedy/sci-fi/adventure about three high school kids who invent a time machine to spare others just like them from the humiliation they've endured.", 
+    "genres": "Adventure, Comedy, Sci-Fi", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Derrick.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "kind", 
+                    "scary", 
+                    "unapproachable"
+                ], 
+                "role": "This trope is Discussed and mocked through Zeke in Disney Channel's movie Minutemen, when girls come up to him and ask, \"You know, you're kind of scary and unapproachable... can we sit with you?\"", 
+                "id": "TroubledButCute"
+            }
+        ]
+    }, 
+    "imdbid": "tt1072755", 
+    "poster_url": "Minutemen.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TroubledButCute", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "Gunslinger", 
+            "name": "Gunslinger", 
+            "poster_url": "Gunslinger.gif"
+        }
+    ], 
+    "id": "Minutemen", 
+    "name": "Minutemen"
+}

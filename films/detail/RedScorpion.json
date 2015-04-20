@@ -1,0 +1,73 @@
+{
+    "plot": "A Russian KGB agent is sent to Africa to kill an anti-Communist black revolutionary. However, he has a change of heart when he sees how the Russians and their Cuban allies are killing and repressing the locals, so he switches sides and helps the rebels.", 
+    "genres": "Action, Adventure", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Child Soldiers: Seen among Sundata's rebel camp.", 
+                "id": "ChildSoldiers"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene", 
+                "id": "ShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098180", 
+    "poster_url": "RedScorpion.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "Soldier", 
+            "name": "Soldier", 
+            "poster_url": "Soldier.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "Stalingrad", 
+            "name": "Stalingrad", 
+            "poster_url": "Stalingrad.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "RedScorpion", 
+    "name": "Red Scorpion"
+}

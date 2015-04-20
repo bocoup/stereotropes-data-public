@@ -1,0 +1,77 @@
+{
+    "plot": "A group of Yokohama teens look to save their school's clubhouse from the wrecking ball in preparations for the 1964 Tokyo Olympics.", 
+    "genres": "Animation, Drama, Family", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "all-male-occupied", 
+                    "filthy"
+                ], 
+                "role": "Men Can't Keep House: The all-male-occupied Quartier Latin is filthy.", 
+                "id": "MenCantKeepHouse"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Umi is rarely seen without them.", 
+                "id": "GirlishPigtails"
+            }
+        ]
+    }, 
+    "imdbid": "tt1798188", 
+    "poster_url": "FromUpOnPoppyHill.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MenCantKeepHouse", 
+                "GirlishPigtails"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "MonsterHouse", 
+            "name": "Monster House", 
+            "poster_url": "MonsterHouse.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMuppetMovie", 
+            "name": "The Muppet Movie", 
+            "poster_url": "TheMuppetMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "MenCantKeepHouse"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }
+    ], 
+    "id": "FromUpOnPoppyHill", 
+    "name": "From Up on Poppy Hill"
+}

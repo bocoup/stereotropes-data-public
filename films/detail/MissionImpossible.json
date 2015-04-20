@@ -1,0 +1,102 @@
+{
+    "plot": "Based on the hit T.V. series. Jim Phelps was sent to Prague for a mission to prevent the theft of classified material. His wife Claire and his trusted partner Ethan Hunt were members of Phelps' team. Unfortunately, something went horribly wrong and the mission failed, leaving Ethan Hunt the lone survivor. After he reported the failed mission, Kettridge the head if the agency suspects Ethan of being the culprit for the failed mission. Now, Ethan uses unorthodox methods (Which includes the aid of an arms dealer going by the name \"Max\") to try to find who set him up and to clear his name.", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "cognitive", 
+                    "vocal"
+                ], 
+                "role": "Bash Brothers: Once Ethan brings Farris back up to cognitive shape using adrenaline in a syringe, they proceed to fight off the opposition in this manner (including Farris reloading Ethan's gun for him without any vocal communication).", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [
+                    "unconscious"
+                ], 
+                "role": "Happens at the end of Mission Impossible III, after Tom Cruise's character electrocutes himself to short out the bomb in his head (yes, really), the Love Interest he just rescued has to revive him, but before doing so has to take out the Big Bad and his mooks all by her lonesome while the hero lies prone and unconscious.", 
+                "id": "DistressedDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Jane Carter.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "second", 
+                    "Cat-Burglar"
+                ], 
+                "role": "In the second, Ethan is directed to recruit a Classy Cat-Burglar, but assumes it's for her skills - and gets egg on his face because she's actually the Big Bad's Old Flame, recruited to spy on him.", 
+                "id": "ClassyCatBurglar"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Emotionless Girl Sabine openly panics when she realizes Carter, whose partner she killed, was running toward her with murder in her eyes.", 
+                "id": "EmotionlessGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0117060", 
+    "poster_url": "MissionImpossible.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DistressedDude", 
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "ManOfTaiChi", 
+            "name": "Man Of Tai Chi", 
+            "poster_url": "ManOfTaiChi.jpg"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "MissionImpossible", 
+    "name": "Mission: Impossible"
+}

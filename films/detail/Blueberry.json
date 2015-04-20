@@ -1,0 +1,71 @@
+{
+    "plot": "N/A", 
+    "genres": "Short", 
+    "release_year": "2001", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "In the \"peyote western\" Blueberry (AKA Renegade), the hero's prostitute sweetheart is killed by him by accident while trying to save her from the Big Bad, though we only learn this in the end. She is basically a prostitute Gwen Stacy.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Chihuahua Pearl.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0353249", 
+    "similar": [
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "DarkCity", 
+            "name": "Dark City"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "StrangeDays", 
+            "name": "Strange Days", 
+            "poster_url": "StrangeDays.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }
+    ], 
+    "id": "Blueberry", 
+    "name": "Blueberry"
+}

@@ -1,0 +1,74 @@
+{
+    "plot": "The Hansen kids are in a jam. Adam and his best friend Duffy have gotten their hands on some tickets for the Headless Horseman concert, and his sister Chelsea has a date with her dreamy boyfriend Peter. The only problem is they're both grounded. Chelsea and Adam will do whatever it takes to get their mom Lynette out of the house, even if it includes a chance meeting with a very mysterious man. Everything seems to go according to plan until their little brother Taylor realizes that this stranger might be a vampire.", 
+    "genres": "Comedy, Family, Fantasy", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Troubled, but Cute: The vampire hunter, Malachi Van Helsing.", 
+                "id": "TroubledButCute"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Bratty Teenage Sister: Arguably Chelsea at first, but she gets better.", 
+                "id": "BrattyTeenageDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0250593", 
+    "poster_url": "MomsGotADateWithAVampire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "Gunslinger", 
+            "name": "Gunslinger", 
+            "poster_url": "Gunslinger.gif"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWildOne", 
+            "name": "The Wild One", 
+            "poster_url": "TheWildOne.jpg"
+        }, 
+        {
+            "shared": [
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }
+    ], 
+    "id": "MomsGotADateWithAVampire", 
+    "name": "Mom's Got A Date With A Vampire"
+}

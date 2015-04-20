@@ -1,0 +1,76 @@
+{
+    "plot": "17 year old Pete Riley works at the local 26-screen megaplex. He, the senior manager of the theater, and all the other employees are working to keep the theater neat for the giant premiere gala that night where they are going to premiere \"Midnight Mayhem\". He also has to keep his younger siblings out of the way for the premiere. He also has his girlfriend and her friend going to an early movie heading into the premiere. The movies are having major screw-ups like real tornadoes or title problems.", 
+    "genres": "Action, Comedy, Family", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Donny Hollie", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "sweet", 
+                    "old"
+                ], 
+                "role": "Team Mom: Hillary Horan, a.k.a. Hillary Honey. Pete himself likens her to a sweet old grandmother, in the body of a teenager.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0266850", 
+    "poster_url": "PhantomOfTheMegaplex.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TeamMom", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom"
+            ], 
+            "shared_count": 1, 
+            "id": "ALeagueOfTheirOwn", 
+            "name": "A League of Their Own", 
+            "poster_url": "ALeagueOfTheirOwn.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom"
+            ], 
+            "shared_count": 1, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }
+    ], 
+    "id": "PhantomOfTheMegaplex", 
+    "name": "Phantom of the Megaplex"
+}

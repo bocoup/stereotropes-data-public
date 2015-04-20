@@ -1,0 +1,115 @@
+{
+    "plot": "The pilot of a rescue copter, Captain Karen Walden, died shortly before her helicopter crew was rescued after it crashed in Desert Storm. It first appears that she made a spectacular rescue of a downed helicopter crew, then held her own crew together to fight off the Iraqis after her copter crashed. Lt. Colonel Serling, who is struggling with his own demons from Desert Storm is assigned to investigate and award her the Medal of Honor. But some conflicting accounts, from her crew and soldiers in the area, cause him to question whether she deserves it.", 
+    "genres": "Drama, Mystery, Thriller", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty: Monfriez has become this since the war.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "He-Man"
+                ], 
+                "role": "He-Man Woman Hater: Monfriez has elements of this.", 
+                "id": "HeManWomanHater"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Non-Action Guy: Matt Damon's character.", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "anti-gay"
+                ], 
+                "role": "Female Misogynist: Rady's wife shows some of this, feeling that Walden needlessly took them into danger and makes some comments that border on being anti-gay against Walden. Rady basically tells her to shut up and that she doesn't know what she's talking about.", 
+                "id": "FemaleMisogynist"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "butch"
+                ], 
+                "role": "The film Courage Under Fire Colonel Nat Serling is investigating whether helicopter pilot Captain Emma Walden deserves the Medal of Honor for her actions in the first Gulf War. When he interviews the members of Walden's crew, the wife of one crew member repeatedly insults Walden, making comments about her being \"too butch\", taking them into danger because she needed to be a hero, and starts to make a comment about \"those women who want to be officers...\" before her husband cuts her off, tells her to shut up and that she doesn't know what she's talking about.", 
+                "id": "FemaleMisogynist"
+            }, 
+            {
+                "adjectives": [
+                    "medical"
+                ], 
+                "role": "Courage Under Fire. Captain Karen Walden (Meg Ryan). She's a medical chopper pilot, but the movie revolves around her having to take this role when she and her crew are shot down in enemy territory.", 
+                "id": "TheSquadette"
+            }, 
+            {
+                "adjectives": [
+                    "Medical", 
+                    "shot"
+                ], 
+                "role": "The Squadette: Walden. Justified as she's actually a Medical helicopter pilot, but the plot revolves around her having to take this role for her crew when they're shot down.", 
+                "id": "TheSquadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0115956", 
+    "poster_url": "CourageUnderFire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "HeManWomanHater", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSquadette", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSquadette", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Basic", 
+            "name": "Basic", 
+            "poster_url": "Basic.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSquadette", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }
+    ], 
+    "id": "CourageUnderFire", 
+    "name": "Courage Under Fire"
+}

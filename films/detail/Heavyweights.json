@@ -1,0 +1,92 @@
+{
+    "plot": "N/A", 
+    "genres": "Biography, Comedy", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Tony Perkis Sr. seems to have it a lot more together than his son.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "High", 
+                    "kid"
+                ], 
+                "role": "High School Hustler: Josh is a kid version of this.", 
+                "id": "HighSchoolHustler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Tony again, and also the kids and coach from Camp MVP.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Gaussian"
+                ], 
+                "role": "Gaussian Girl: One of the girls at the dance.", 
+                "id": "GaussianGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0780134", 
+    "similar": [
+        {
+            "shared": [
+                "GaussianGirl", 
+                "CoolOldGuy", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "Superman", 
+            "name": "Superman", 
+            "poster_url": "Superman.jpg"
+        }, 
+        {
+            "shared": [
+                "HighSchoolHustler", 
+                "CoolOldGuy", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "BigFatLiar", 
+            "name": "Big Fat Liar", 
+            "poster_url": "BigFatLiar.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "JeepersCreepers", 
+            "name": "Jeepers Creepers", 
+            "poster_url": "JeepersCreepers.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }, 
+        {
+            "shared": [
+                "GaussianGirl", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }
+    ], 
+    "id": "Heavyweights", 
+    "name": "Heavyweights"
+}

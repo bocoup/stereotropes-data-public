@@ -1,0 +1,90 @@
+{
+    "plot": "Change comes slowly to a small New Hampshire town in the early 20th century. People grow up, get married, live, and die. Milk and the newspaper get delivered every morning, and nobody locks their front doors.", 
+    "genres": "Drama", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded"
+                ], 
+                "role": "Absent-Minded Professor: Professor Willard.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: George almost becomes one.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Emily.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl Next Door: Emily, to George.", 
+                "id": "GirlNextDoor"
+            }
+        ]
+    }, 
+    "imdbid": "tt0032881", 
+    "poster_url": "OurTown.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "JerkJock", 
+                "GirlNextDoor"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "JerkJock", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 3, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAbsentMindedProfessor", 
+            "name": "The Absent-Minded Professor", 
+            "poster_url": "TheAbsentMindedProfessor.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TeenWolf", 
+            "name": "Teen Wolf"
+        }, 
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "NightOfTheCreeps", 
+            "name": "Night of the Creeps", 
+            "poster_url": "NightOfTheCreeps.jpg"
+        }
+    ], 
+    "id": "OurTown", 
+    "name": "Our Town"
+}

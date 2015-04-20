@@ -1,0 +1,107 @@
+{
+    "plot": "The stenographer Alice Sycamore is in love with her boss Tony Kirby, who is the vice-president of the powerful company owned by his greedy father Anthony P. Kirby. Kirby Sr. is dealing a monopoly in the trade of weapons, and needs to buy one last house in a twelve block area owned by Alice's grandparent Martin Vanderhof. However, Martin is the patriarch of an anarchic and eccentric family where the members do not care for money but for having fun and making friends. When Tony proposes Alice, she states that it would be mandatory to introduce her simple and lunatic family to the snobbish Kirbys, and Tone decides to visit Alice with his parents one day before the scheduled. There is an inevitable clash of classes and lifestyles, the Kirbys spurn the Sycamores and Alice breaks with Tony, changing the lives of the Kirby family.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1938", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Grandpa", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "enormous"
+                ], 
+                "role": "Boris Kolenkhov is described in the script of You Can't Take It With You as \"enormous, hairy, loud, and very, very Russian.\" Though he's a dance tutor, he recommends wrestling as a hobby to Mr. Kirby, on whom he performs some wrestling moves to demonstrate.", 
+                "id": "HuskyRusskie"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Husky Russkie: Kolenkhov, played in the movie by Mischa Auer.", 
+                "id": "HuskyRusskie"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Gay Wellington in You Can't Take It With You.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Gay Wellington, in spades.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [
+                    "Rich", 
+                    "mean"
+                ], 
+                "role": "Rich Bitch: Mrs. Kirby is flat-out mean.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: It's The Thirties, so naturally the maid is this.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0030993", 
+    "poster_url": "YouCantTakeItWithYou.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HuskyRusskie", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "BulletsOverBroadway", 
+            "name": "Bullets Over Broadway", 
+            "poster_url": "BulletsOverBroadway.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongestYard", 
+            "name": "The Longest Yard", 
+            "poster_url": "TheLongestYard.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "AllAboutEve", 
+            "name": "All About Eve", 
+            "poster_url": "AllAboutEve.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TowerHeist", 
+            "name": "Tower Heist", 
+            "poster_url": "TowerHeist.jpg"
+        }
+    ], 
+    "id": "YouCantTakeItWithYou", 
+    "name": "You Can't Take It With You"
+}

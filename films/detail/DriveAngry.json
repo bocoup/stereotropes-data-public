@@ -1,0 +1,92 @@
+{
+    "plot": "John Milton is up against the clock: Jonah King, the leader of a Satanic cult, has murdered Milton's daughter and kidnapped her baby. In three days, King and his followers will sacrifice the child at midnight. Milton picks up the trail in Oklahoma as well as rescuing a waitress named Piper from her brutal, two-timing fianc\u00e9. There are odd things about Milton: his driver's license is out of date, he has a very strange gun, and he's being pursued by a man in a suit who carries FBI ID and calls himself the Accountant. Piper, who's lived a life on the sidelines, has to piece things together on the fly as they close in on King.", 
+    "genres": "Action, Crime, Fantasy", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Milton", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "godawful", 
+                    "hook-up", 
+                    "second"
+                ], 
+                "role": "Chick Magnet: Milton, with a smattering of Kavorka Man. He's downright rude to both waitresses, his hairpiece is godawful, and he's not actively looking for a hook-up (though the second time he doesn't turn it down), yet somehow they are both lusting after him the minute he walks in the door.", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Right Through His Pants: Milton never disrobes before gunplay.", 
+                "id": "RightThroughHisPants"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Piper", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1502404", 
+    "poster_url": "DriveAngry.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "RightThroughHisPants", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "DriveAngry", 
+    "name": "Drive Angry"
+}

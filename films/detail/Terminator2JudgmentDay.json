@@ -1,0 +1,104 @@
+{
+    "plot": "Almost 10 years have passed since the first cyborg called The Terminator tried to kill Sarah Connor and her unborn son, John Connor. John Connor, the future leader of the human resistance, is now a healthy young boy. However another Terminator is sent back through time called the T-1000, which is more advanced and more powerful than its predecessor. The Mission: to kill John Connor when he's still a child. However, Sarah and John do not have to face this threat of a Terminator alone. Another Terminator is also sent back through time. The mission: to protect John and Sarah Connor at all costs. The battle for tomorrow has begun...", 
+    "genres": "Action, Sci-Fi", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "dad", 
+                    "absent", 
+                    "first"
+                ], 
+                "role": "Terminator 2: Judgment Day: We know why the dad is absent: Kyle was John's father and didn't survive the first movie. We also know Sarah tried the substitute dad treatment. It never took. You'd think after, like, 6 or 7 times...", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: The T-800 to John.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl / Action Mom: Sarah Connor learned a lot between films.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "In Terminator 2: Judgment Day, Sarah Connor was a fighter who would do anything to protect her son, John, from the machines. She was only figuratively a widow (she and John's father never having had the benefit of clergy), but fits the trope in every other way.", 
+                "id": "DeterminedWidow"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Sarah Connor is the patron saint of the trope.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0103064", 
+    "poster_url": "Terminator2JudgmentDay.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DeterminedWidow", 
+                "ActionGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "TheSecretOfNIMH", 
+            "name": "The Secret of NIMH", 
+            "poster_url": "TheSecretOfNIMH.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }
+    ], 
+    "id": "Terminator2JudgmentDay", 
+    "name": "Terminator 2: Judgment Day"
+}

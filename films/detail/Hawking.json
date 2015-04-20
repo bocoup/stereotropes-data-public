@@ -1,0 +1,82 @@
+{
+    "plot": "A drama documenting the life and work of the theoretical physicist Professor Stephen Hawking who, despite being diagnosed with motor neurone disease at the age of 21, has galvanized the scientific world with his ground-breaking work on the nature of the universe. Starring Benedict Cumberbatch (Sherlock)", 
+    "genres": "Biography, Drama", 
+    "release_year": "2004", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "young", 
+                    "hospital"
+                ], 
+                "role": "Ill Boy: Stephen, although he survives, and the young leukemia patient at the hospital.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Adorkable"
+                ], 
+                "role": "Cute Glasses Boy: Stephen's Nerd Glasses only make him more Adorkable.", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Jane, particularly when she's standing up to the Bursar on Stephen's behalf.", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0395571", 
+    "similar": [
+        {
+            "shared": [
+                "IllGirl", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Arrietty", 
+            "name": "Arrietty", 
+            "poster_url": "Arrietty.jpg"
+        }, 
+        {
+            "shared": [
+                "Meganekko", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "Meganekko", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LittleWomen", 
+            "name": "Little Women", 
+            "poster_url": "LittleWomen.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }
+    ], 
+    "id": "Hawking", 
+    "name": "Hawking"
+}

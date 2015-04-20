@@ -1,0 +1,74 @@
+{
+    "plot": "A disparate group are trapped on a remote island by a hurricane. On the island, a doctor works to make humans twice as small as we already are. This, apparently, will help prevent over population. Unfortunately, his experiments have also created some giant shrews. As the shrews run out of smaller animals to eat, they move in on the people in the house.", 
+    "genres": "Horror, Sci-Fi", 
+    "release_year": "1959", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Lab assistant Jerry.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mad Scientist's Beautiful Daughter", 
+                "id": "MadScientistsBeautifulDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0052969", 
+    "poster_url": "TheKillerShrews.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMouseThatRoared", 
+            "name": "The Mouse That Roared", 
+            "poster_url": "TheMouseThatRoared.jpg"
+        }, 
+        {
+            "shared": [
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "IslandOfLostSouls", 
+            "name": "Island of Lost Souls", 
+            "poster_url": "IslandOfLostSouls.jpg"
+        }
+    ], 
+    "id": "TheKillerShrews", 
+    "name": "The Killer Shrews"
+}

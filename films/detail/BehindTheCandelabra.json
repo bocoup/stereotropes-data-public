@@ -1,0 +1,89 @@
+{
+    "plot": "Scott Thorson, a young bisexual man raised in foster homes, is introduced to flamboyant entertainment giant Liberace and quickly finds himself in a romantic relationship with the legendary pianist. Swaddled in wealth and excess, Scott and Liberace have a long affair, one that eventually Scott begins to find suffocating. Kept away from the outside world by the flashily effeminate yet deeply closeted Liberace, and submitting to extreme makeovers and even plastic surgery at the behest of his lover, Scott eventually rebels. When Liberace finds himself a new lover, Scott is tossed on the street. He then seeks legal redress for what he feels he has lost. But throughout, the bond between the young man and the star never completely tears.", 
+    "genres": "Biography, Drama, Romance", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Both Liberace and Scott to varying degrees.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "high", 
+                    "drive", 
+                    "young"
+                ], 
+                "role": "Dirty Old Man: Liberace is depicted as having a very high sex drive, a preference for young men, and a habit of visiting adult establishments.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Scott", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Lee's mother, who is always angling to try to move in with her son.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt1291580", 
+    "similar": [
+        {
+            "shared": [
+                "StraightGay", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionInWinter", 
+            "name": "The Lion in Winter", 
+            "poster_url": "TheLionInWinter.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "DropDeadFred", 
+            "name": "Drop Dead Fred", 
+            "poster_url": "DropDeadFred.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "BehindTheCandelabra", 
+    "name": "Behind The Candelabra"
+}

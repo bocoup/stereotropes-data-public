@@ -1,0 +1,126 @@
+{
+    "plot": "The movie combines songs, color and sequences of live action blended with the movements of animated figures. Mary Poppins is a kind of Super-nanny who flies in with her umbrella in response to the request of the Banks children and proceeds to put things right with the aid of her rather extraordinary magical powers.", 
+    "genres": "Comedy, Family, Fantasy", 
+    "release_year": "1964", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "comedy"
+                ], 
+                "role": "Henpecked Husband: In the cartoon band sequence, as comedy.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "willing"
+                ], 
+                "role": "In Mary Poppins, the owners of the bank Mr. Banks work at, who are willing to basically force a child to part with a shilling to \"invest it\" against his will. However, by the end they seriously lighten up.", 
+                "id": "MorallyBankruptBanker"
+            }, 
+            {
+                "adjectives": [
+                    "Bankrupt"
+                ], 
+                "role": "Morally Bankrupt Banker: Mr. Banks's employers.", 
+                "id": "MorallyBankruptBanker"
+            }, 
+            {
+                "adjectives": [
+                    "top", 
+                    "absolute"
+                ], 
+                "role": "Admiral Boom in Mary Poppins, if you sidestep the fact that he shoots cannons from the top of his roof with absolute punctuality.", 
+                "id": "OfficerAndAGentleman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Banks from Mary Poppins. At least, until Mary's message gets through.", 
+                "id": "QuintessentialBritishGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The bird lady from Mary Poppins.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mary Poppins had one.", 
+                "id": "KindlyHousekeeper"
+            }, 
+            {
+                "adjectives": [
+                    "Magical", 
+                    "original"
+                ], 
+                "role": "Magical Nanny: The original, endlessly referenced and parodied.", 
+                "id": "MagicalNanny"
+            }, 
+            {
+                "adjectives": [
+                    "no-nonsense", 
+                    "magic", 
+                    "sky"
+                ], 
+                "role": "Mary Poppins: Poppins is the no-nonsense nanny with magic powers who draws the family closer together, tames the unruly children, then vanishes into the sky.", 
+                "id": "MagicalNanny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0058331", 
+    "poster_url": "MaryPoppins.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CrazyCatLady", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady", 
+                "MagicalNanny"
+            ], 
+            "shared_count": 2, 
+            "id": "HarrietTheSpy", 
+            "name": "Harriet the Spy", 
+            "poster_url": "HarrietTheSpy.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "KindlyHousekeeper", 
+                "MorallyBankruptBanker"
+            ], 
+            "shared_count": 2, 
+            "id": "ItsAWonderfulLife", 
+            "name": "It's a Wonderful Life", 
+            "poster_url": "ItsAWonderfulLife.jpg"
+        }, 
+        {
+            "shared": [
+                "MagicalNanny", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSoundOfMusic", 
+            "name": "The Sound of Music", 
+            "poster_url": "TheSoundOfMusic.jpg"
+        }
+    ], 
+    "id": "MaryPoppins", 
+    "name": "Mary Poppins"
+}

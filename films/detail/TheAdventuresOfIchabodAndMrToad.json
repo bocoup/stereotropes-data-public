@@ -1,0 +1,92 @@
+{
+    "plot": "Two stories. The Wind in the Willows: Concise version of Kenneth Grahame's story of the same name. J. Thaddeus Toad, owner of Toad Hall, is prone to fads, such as the newfangled motor car. This desire for the very latest lands him in much trouble with the wrong crowd, and it is up to his friends, Mole, Rat and Badger to save him from himself. - The Legend of Sleepy Hollow: Retelling of Washington Irving's story set in a tiny New England town. Ichabod Crane, the new schoolmaster, falls for the town beauty, Katrina Van Tassel, and the town Bully Brom Bones decides that he is a little too successful and needs \"convincing\" that Katrina is not for him.", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "1949", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Chick Magnet: The ladies quickly take to Ichabod because of his fascinating lanky appearance, sophistication and charisma. Ichabod notices their food.", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Disguised in Drag: Mr. Toad disguises himself as a woman to get out of prison. Cyril, whose idea it was in the first place, who also dressed up as Mr. Toad's grandmother.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kavorka Man: Ichabod.", 
+                "id": "KavorkaMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "puddle"
+                ], 
+                "role": "Spoiled Sweet: Despite charming suitors she has little interest in doing favors for her, Katrina is not without her kindness and does does not take well to Brom's bullying of her suitors. When Ichabod is knocked into a puddle he tried to help her cross, she tosses her handkerchief to him.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0041094", 
+    "poster_url": "TheAdventuresOfIchabodAndMrToad.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "ChickMagnet", 
+                "DisguisedInDrag", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 4, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "PootieTang", 
+            "name": "Pootie Tang", 
+            "poster_url": "PootieTang.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "ChickMagnet"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }
+    ], 
+    "id": "TheAdventuresOfIchabodAndMrToad", 
+    "name": "The Adventures of Ichabod and Mr. Toad"
+}

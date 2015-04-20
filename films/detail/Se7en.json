@@ -1,0 +1,83 @@
+{
+    "plot": "A film about two homicide detectives' desperate hunt for a serial killer who justifies his crimes as absolution for the world's ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains of one victim to the next as the sociopathic \"John Doe\" sermonizes to Detectives Sommerset and Mills -- one sin at a time. The sin of Gluttony comes first and the murderer's terrible capacity is graphically demonstrated in the dark and subdued tones characteristic of film noir. The seasoned and cultured but jaded Sommerset researches the Seven Deadly Sins in an effort to understand the killer's modus operandi while the bright but green and impulsive Detective Mills scoffs at his efforts to get inside the mind of a killer...", 
+    "genres": "Drama, Mystery, Thriller", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "equal", 
+                    "religious", 
+                    "good", 
+                    "long", 
+                    "on-screen"
+                ], 
+                "role": "Cultured Badass: Somerset is Doe's equal in his knowledge of literature and religious philosophy, and managing to be a good cop for as long as he has in that city surely qualifies him as a kind of badass, even if he never actually demonstrates it on-screen.", 
+                "id": "CulturedBadass"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "only"
+                ], 
+                "role": "Disposable Sex Worker: The Lust victim. She and the Gluttony victim are the only ones to go unnamed.", 
+                "id": "DisposableSexWorker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0114369", 
+    "poster_url": "Se7en.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CulturedBadass", 
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 2, 
+            "id": "Deadman", 
+            "name": "Deadman"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 2, 
+            "id": "TheProposition", 
+            "name": "The Proposition", 
+            "poster_url": "TheProposition.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGrey", 
+            "name": "The Grey", 
+            "poster_url": "TheGrey.jpg"
+        }
+    ], 
+    "id": "Se7en", 
+    "name": "Se7en"
+}

@@ -1,0 +1,92 @@
+{
+    "plot": "Dexter Reed, a high-schooler is forced to get a summer job at a fast food restaurant called Good Burger after causing a car wreck by his school teacher Mr. Wheat. So Dexter must pay off his teacher's car by working very hard at Good Burger. Meanwhile things turned worse when Mondo Burger, a mammoth fast-food chain opens across the street, it looks like Good Burger is soon going to be history for good! Now it is up to Dexter and his new friend Ed the not-so bright cashier to save the day, as they develop a delicious special secret sauce that Ed created brings hundreds of new customers to their door and makes their new competition desperate to steal the recipe and all of their customers.", 
+    "genres": "Comedy", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Otis", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Dexter's dad.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Roxanne.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Carmen Electra, aka Roxanne.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119215", 
+    "poster_url": "GoodBurger.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 4, 
+            "id": "TronLegacy", 
+            "name": "TRON: Legacy", 
+            "poster_url": "TronLegacy.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "WildWildWest", 
+            "name": "Wild Wild West", 
+            "poster_url": "WildWildWest.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }
+    ], 
+    "id": "GoodBurger", 
+    "name": "Good Burger"
+}

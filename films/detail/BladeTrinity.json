@@ -1,0 +1,86 @@
+{
+    "plot": "Blade finds himself alone surrounded by enemies, fighting an up hill battle with the vampire nation and now humans. He joins forces with a group of vampire hunters whom call themselves the Nightstalkers. The vampire nation awakens the king of vampires Dracula from his slumber with intentions of using his primitive blood to become day-walkers. On the other side is Blade and his team manifesting a virus that could wipe out the vampire race once and for all. In the end the two sides will collide and only one will come out victorious, a battle between the ultimate vampire whom never knew defeat, facing off against the greatest vampire slayer.", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first", 
+                    "fair", 
+                    "later"
+                ], 
+                "role": "Dirty Coward: In their first confrontation, Drake grabs a baby to keep Blade from attacking him, then tosses it as a distraction to escape. This while making a speech about how they, unlike everyone else, know about honour and dying by the sword. Possibly justified in that Drake was unarmed while Blade was not; Drake does fight Blade on fair terms later on, which would suggest he was waiting for an even match or simply wanted to talk first.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "wounded"
+                ], 
+                "role": "This happens to a wounded Hannibal King in Blade: Trinity when he gets captured by vampires.", 
+                "id": "DistressedDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Abigail.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0359013", 
+    "poster_url": "BladeTrinity.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DistressedDude", 
+                "ActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "ResidentEvilDegeneration", 
+            "name": "Resident Evil Degeneration"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }
+    ], 
+    "id": "BladeTrinity", 
+    "name": "Blade: Trinity"
+}

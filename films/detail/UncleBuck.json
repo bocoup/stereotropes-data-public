@@ -1,0 +1,96 @@
+{
+    "plot": "As an idle, good-natured bachelor, Uncle Buck is the last person you would think of to watch the kids. However, during a family crisis, he is suddenly left in charge of his nephew and nieces. Unaccustomed to suburban life, fun-loving Uncle Buck soon charms his younger relatives Miles and Maizy with his hefty cooking and his new way of doing the laundry. His carefree style does not impress everyone though - especially his rebellious teenage niece, Tia, and his impatient girlfriend, Chanice. With a little bit of luck and a lot of love, Uncle Buck manages to surprise everyone in this heartwarming family comedy.", 
+    "genres": "Comedy, Drama, Family", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: The children's father isn't really in the film enough to qualify either way, but Buck fulfills this trope to a T (for \"Trope\").", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Buck is this to all of the kids, but especially Tia.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "assistant", 
+                    "beautiful"
+                ], 
+                "role": "Beauty Mark: Inverted; the assistant principal's mole is anything but beautiful.", 
+                "id": "BeautyMark"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bratty Teenage Daughter: Tia Russell.", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Emotionless Girl: Again, Tia.", 
+                "id": "EmotionlessGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098554", 
+    "poster_url": "UncleBuck.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "EmotionlessGirl", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 3, 
+            "id": "Hanna", 
+            "name": "Hanna", 
+            "poster_url": "Hanna.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "BeautyMark", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "AGoofyMovie", 
+            "name": "A Goofy Movie", 
+            "poster_url": "AGoofyMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "MrMom", 
+            "name": "Mr. Mom", 
+            "poster_url": "MrMom.jpg"
+        }
+    ], 
+    "id": "UncleBuck", 
+    "name": "Uncle Buck"
+}

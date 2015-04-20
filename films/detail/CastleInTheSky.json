@@ -1,0 +1,132 @@
+{
+    "plot": "A young boy stumbles into a mysterious girl who floats down from the sky. The girl, Sheeta, was chased by pirates, army and government secret agents. In saving her life, they begin a high flying adventure that goes through all sorts of flying machines, eventually searching for Sheeta's identity in a floating castle of a lost civilization.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "one-liner"
+                ], 
+                "role": "In the Disney dub of Castle in the Sky, Papa (the engineer on the Tiger Moth) gets to say this in a one-liner cut from the 2010 DVD release:", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "own", 
+                    "implied"
+                ], 
+                "role": "Disappeared Dad: Pazu's father, the only man who had seen Laputa with his own eyes. It's implied he was Driven to Suicide when everyone mocked him for making it up. Sheeta also never talks about her father.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "admiral"
+                ], 
+                "role": "Action Mom: Dola may not be a stunner (anymore, if her portrait in her room is anything to go by), but she still leads her pirate clan (consisting of mostly her sons). And she's no armchair admiral either.", 
+                "id": "ActionMom"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Badass Princess: Taking into account her Establishing Character Moment, and later willingness to pitch into battles however she can.", 
+                "id": "BadassPrincess"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Everything's Better with Princesses: Sheeta turns out to be one.  Badass Princess: Taking into account her Establishing Character Moment, and later willingness to pitch into battles however she can.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "Girlish", 
+                    "Important"
+                ], 
+                "role": "Girlish Pigtails: Sheeta, until her Important Haircut. Dola also wears her hair like this.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [
+                    "last"
+                ], 
+                "role": "Sheeta in Castle in the Sky... at least until Colonel Muska shoots them off \u2014 which, not coincidentally, comes at the point where Sheeta stops running and confronts him for the last time.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Sheeta. Being a Miyazaki heroine, this is a given.", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092067", 
+    "poster_url": "CastleInTheSky.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EverythingsBetterWithPrincesses", 
+                "PluckyGirl", 
+                "ActionMom", 
+                "BadassPrincess"
+            ], 
+            "shared_count": 5, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EverythingsBetterWithPrincesses", 
+                "PluckyGirl", 
+                "BadassPrincess"
+            ], 
+            "shared_count": 4, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "GirlishPigtails", 
+                "BadassPrincess"
+            ], 
+            "shared_count": 4, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "PluckyGirl", 
+                "BadassPrincess"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EverythingsBetterWithPrincesses", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "PansLabyrinth", 
+            "name": "Pan's Labyrinth", 
+            "poster_url": "PansLabyrinth.jpg"
+        }
+    ], 
+    "id": "CastleInTheSky", 
+    "name": "Castle in the Sky"
+}

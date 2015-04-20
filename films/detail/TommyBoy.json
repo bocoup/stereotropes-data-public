@@ -1,0 +1,86 @@
+{
+    "plot": "Tommy Callahan Jr. is a slow-witted, clumsy guy who recently graduated college after attending for seven years. His father, Big Tom Callahan, owns an auto parts factory in Ohio. When Tommy arrives back home, he finds he has a position at the factory waiting for him. His dad also introduces Tommy to the new brake pad division of the factory and to Tommy's soon-to-be stepmother, Beverly, and her son Paul. But when Big Tom dies, the factory threatens to go under unless the new brake pads are to be sold. Therefore, Tommy must go on the road to sell them, along with the assistance of Richard, Big Tom's right-hand man. Will Tommy save the company, or will the factory, and the town, go under?", 
+    "genres": "Comedy", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Straight: Richard", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [
+                    "accident-prone", 
+                    "pneumatic", 
+                    "nonchalant"
+                ], 
+                "role": "Shirtless Scene: Involuntary on accident-prone Paul's part, after it gets caught in a pneumatic tube. He's very nonchalant about it. But maybe it was on purpose...", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Wicked Stepmother: Beverly was this to Tommy until it was revealed she was already married to Paul, thus making her marriage to Big Tom illegal.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0114694", 
+    "poster_url": "TommyBoy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampStraight", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Gutterballs", 
+            "name": "Gutterballs", 
+            "poster_url": "Gutterballs.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteATaleOfTerror", 
+            "name": "Snow White: A Tale of Terror", 
+            "poster_url": "SnowWhiteATaleOfTerror.jpg"
+        }
+    ], 
+    "id": "TommyBoy", 
+    "name": "Tommy Boy"
+}

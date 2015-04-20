@@ -1,0 +1,81 @@
+{
+    "plot": "Segments: \"Once Upon a Wintertime,\" two lovers rescued from an icy river by friendly animals; \"Bumble Boogie,\" bee beset by musical instruments and symbols come to life; \"Johnny Appleseed,\" story of the legendary pioneer tree-planter; \"Trees,\" mood piece set to musical treatment of Joyce Kilmer's poem; \"Little Toot,\" story of a heroic little tugboat who saves an ocean liner; \"Blame it on the Samba,\" Donald Duck and Jose Carioca have the blues blown away at a Latin cafe; \"Pecos Bill,\" story of the legendary cowpoke, his trusty mount Widowmaker and his sweetheart Slue Foot Sue.", 
+    "genres": "Animation, Family, Music", 
+    "release_year": "1948", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Slue-foot", 
+                    "giant", 
+                    "dangerous"
+                ], 
+                "role": "Action Girl: Slue-foot Sue from the Pecos Bill segment, who can ride a giant catfish standing up. It's her dangerous nature that leads to her demise in the end.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "bad"
+                ], 
+                "role": "Kicking Ass in All Her Finery: Subverted. Slue-foot Sue tries to ride Widowmaker in the bustled dress she was wearing for the wedding. It was a bad idea.", 
+                "id": "KickingAssInAllHerFinery"
+            }
+        ]
+    }, 
+    "imdbid": "tt0040580", 
+    "poster_url": "MelodyTime.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KickingAssInAllHerFinery", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "KickingAssInAllHerFinery", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "KickingAssInAllHerFinery", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "KickingAssInAllHerFinery", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGrandmaster", 
+            "name": "The Grandmaster", 
+            "poster_url": "TheGrandmaster.jpg"
+        }, 
+        {
+            "shared": [
+                "KickingAssInAllHerFinery", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }
+    ], 
+    "id": "MelodyTime", 
+    "name": "Melody Time"
+}

@@ -1,0 +1,104 @@
+{
+    "plot": "A small town gradually becomes aware of a strange creature which picks off people one by one. But what is this creature, and where is it? At the same time, a seismologist is working in the area, she detects _tremors_. The creature lives underground, and can 'pop up' without warning. Trapped in their town, the town-folk have no escape.", 
+    "genres": "Comedy, Horror, Sci-Fi", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Burt, of course.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "gun-nut", 
+                    "Upper-Class"
+                ], 
+                "role": "The Dandy: Hilariously, gun-nut Burt Gummer's ancestor is one, bordering on Upper-Class Twit.", 
+                "id": "TheDandy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "attractive", 
+                    "attractive"
+                ], 
+                "role": "In Tremors, the Kevin Bacon's character is disappointed to discover that the girl scientist he's sent to meet is not particularly attractive, in that she's wearing a floppy hat and glasses. When the graboids start attacking, however, she loses some of her clothing and becomes more attractive to him.", 
+                "id": "AdrenalineMakeover"
+            }, 
+            {
+                "adjectives": [
+                    "odd", 
+                    "thin", 
+                    "cold", 
+                    "logical", 
+                    "watering", 
+                    "next", 
+                    "few", 
+                    "soaked", 
+                    "white", 
+                    "single"
+                ], 
+                "role": "Ms. Fanservice: Geez, Rosalita, put a bra on. It's also quite odd that she always wears thin T-shirts, as judging by her chest it's very cold in Perfection. Taken to its logical extreme in one episode where she dives into a watering trough to avoid being eaten. She actually spends the next few scenes in a soaked white t-shirt. Amazingly, not a single character draws attention to this.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0100814", 
+    "poster_url": "Tremors.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "TheDandy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "ButchCassidyAndTheSundanceKid", 
+            "name": "Butch Cassidy and the Sundance Kid", 
+            "poster_url": "ButchCassidyAndTheSundanceKid.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }, 
+        {
+            "shared": [
+                "AdrenalineMakeover", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Tarzan", 
+            "name": "Tarzan", 
+            "poster_url": "Tarzan.jpg"
+        }
+    ], 
+    "id": "Tremors", 
+    "name": "Tremors"
+}

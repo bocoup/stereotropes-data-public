@@ -1,0 +1,76 @@
+{
+    "plot": "Adam Weber is the child of an eccentric inventor and his wife. Following a bomb scare in the 1960s that locked the Webers in their bomb shelter for 35 years, Adam Weber must venture out into Los Angeles and obtain food and supplies for his family. He meets Eve, who reluctantly agrees to help him out.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Past"
+                ], 
+                "role": "Christopher Walken's character in Blast from the Past.", 
+                "id": "StandardFiftiesFather"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Past"
+                ], 
+                "role": "The mom in Blast from the Past.", 
+                "id": "LadyDrunk"
+            }
+        ]
+    }, 
+    "imdbid": "tt0124298", 
+    "poster_url": "BlastFromThePast.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "AuntieMame", 
+            "name": "Auntie Mame", 
+            "poster_url": "AuntieMame.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "StandardFiftiesFather"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWoman", 
+            "name": "The Woman", 
+            "poster_url": "TheWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "StandardFiftiesFather"
+            ], 
+            "shared_count": 1, 
+            "id": "VanillaSky", 
+            "name": "Vanilla Sky", 
+            "poster_url": "VanillaSky.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "BulletsOverBroadway", 
+            "name": "Bullets Over Broadway", 
+            "poster_url": "BulletsOverBroadway.jpg"
+        }
+    ], 
+    "id": "BlastFromThePast", 
+    "name": "Blast from the Past"
+}

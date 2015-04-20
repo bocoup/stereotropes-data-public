@@ -1,0 +1,74 @@
+{
+    "plot": "C.K. Dexter-Haven, a successful popular jazz musician, lives in a mansion near his ex-wife's Tracy Lord's family estate. She is on the verge of marrying a man blander and safer than Dex, who tries to win Tracy's heart again. Mike Connor, an undercover tabloid reporter, also falls for Tracy while covering the nuptials for Spy magazine. Tracy must choose between the three men as she discovers that \"safe\" can mean \"deadly dull\" when it comes to husbands and life.", 
+    "genres": "Comedy, Musical, Romance", 
+    "release_year": "1956", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Friday: Liz to Mike", 
+                "id": "GirlFriday"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Tracy, though somewhat toned and does improve over time.", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0049314", 
+    "poster_url": "HighSociety.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlFriday", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlFriday", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePhiladelphiaStory", 
+            "name": "The Philadelphia Story", 
+            "poster_url": "ThePhiladelphiaStory.jpg"
+        }, 
+        {
+            "shared": [
+                "RichBitch"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlFriday"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }, 
+        {
+            "shared": [
+                "RichBitch"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFamilyThatPreys", 
+            "name": "The Family That Preys", 
+            "poster_url": "TheFamilyThatPreys.jpg"
+        }
+    ], 
+    "id": "HighSociety", 
+    "name": "High Society"
+}

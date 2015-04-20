@@ -1,0 +1,69 @@
+{
+    "plot": "Neil Jordan's depiction of the controversial life and death of Michael Collins, the 'Lion of Ireland', who led the IRA against British rule and founded the Irish Free State (Eire) in 1921.", 
+    "genres": "Biography, Drama, Thriller", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Crazy-Prepared", 
+                    "alive", 
+                    "tearful", 
+                    "likely"
+                ], 
+                "role": "A Father to His Men: Collins, who takes Crazy-Prepared measures to keep his men alive during Bloody Sunday and is almost tearful when he realizes that Broy has been arrested and is most likely doomed.", 
+                "id": "AFatherToHisMen"
+            }
+        ]
+    }, 
+    "imdbid": "tt0117039", 
+    "poster_url": "MichaelCollins.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "TheKeep", 
+            "name": "The Keep", 
+            "poster_url": "TheKeep.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "BeneathHill60", 
+            "name": "Beneath Hill 60", 
+            "poster_url": "BeneathHill60.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "Lincoln", 
+            "name": "Lincoln", 
+            "poster_url": "Lincoln.jpg"
+        }
+    ], 
+    "id": "MichaelCollins", 
+    "name": "Michael Collins"
+}

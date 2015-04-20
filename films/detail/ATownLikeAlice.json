@@ -1,0 +1,77 @@
+{
+    "plot": "In 1941, The advancing Japanese army captures a lot of British territory very quickly. The men are sent off to labor camps, but they have no plan on what to do with the women and children of the British. A group is sent on a forced march from place to place searching for a Women's Camp. Told from the point of view of one of the women, she meets an Australian soldier who sneaks food for them from his labor camp. After the war, she goes to Australia to see the town he was from and hopefully reunite with the soldier.", 
+    "genres": "Crime, Drama, Romance", 
+    "release_year": "1956", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first", 
+                    "Japanese"
+                ], 
+                "role": "Officer and a Gentleman : The first Japanese officer they meet.", 
+                "id": "OfficerAndAGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Jean"
+                ], 
+                "role": "Spirited Young Lady : Jean Paget.", 
+                "id": "SpiritedYoungLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0049871", 
+    "similar": [
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDuchess", 
+            "name": "The Duchess", 
+            "poster_url": "TheDuchess.jpg"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "EnemyAtTheGates", 
+            "name": "Enemy at the Gates", 
+            "poster_url": "EnemyAtTheGates.jpg"
+        }
+    ], 
+    "id": "ATownLikeAlice", 
+    "name": "A Town Like Alice"
+}

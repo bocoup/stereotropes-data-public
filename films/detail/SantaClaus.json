@@ -1,0 +1,78 @@
+{
+    "plot": "This dazzling, heartwarming Christmas classic is the story of a master toymaker who discovers a magical kingdom of elves in the North Pole and becomes Santa Claus. But when Santa's eager-to-please elf Patch leaves the North Pole for the big streets of New York City, he becomes mixed up with a dastardly toy tycoon's plans to take over Christmas. And so begins Santa's greatest adventure of all - to rescue his faithful elf and to save Christmas for all the children of the world!", 
+    "genres": "Adventure, Family, Fantasy", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Pitch, and a case can be made for Santa.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Leg Cling: Santa, out of pity, appears in front of the Lonely Rich Kid... who then grabs Santa's boot and begs for someone to love him. Seriously, if you didn't feel a tug inside during this scene, you have no soul.", 
+                "id": "LegCling"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Leg Cling: Santa, out of pity, appears in front of the Lonely Rich Kid... who then grabs Santa's boot and begs for someone to love him. Seriously, if you didn't feel a tug inside during this scene, you have no soul.", 
+                "id": "LegCling"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089961", 
+    "poster_url": "SantaClaus.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "LegCling"
+            ], 
+            "shared_count": 2, 
+            "id": "FlashGordon", 
+            "name": "Flash Gordon", 
+            "poster_url": "FlashGordon.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "LegCling"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "SantaClaus", 
+    "name": "Santa Claus"
+}

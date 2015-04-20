@@ -1,0 +1,94 @@
+{
+    "plot": "It is the 21st birthday of Prince Akeem of Zamunda and he is to marry a woman he never saw before. Now the prince breaks with tradition and travels to America to look for the love of his life.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "rich"
+                ], 
+                "role": "Papa Wolf: Cleo McDowell surprisingly enough. He may want his girls to marry rich guys but insult her and offer to give him money for troubling you and he'll \"break a foot off in your royal ass.\" Plus the fact that he's not a gold digger and genuinely just wants his girls to not have to struggle financially.", 
+                "id": "PapaWolf"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "And not so much in Coming to America, Jurassic Park... or Loaded Weapon 1.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The prince from Coming to America had never so much as gone to the bathroom by himself before he left home.", 
+                "id": "ShelteredAristocrat"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "good", 
+                    "kind"
+                ], 
+                "role": "Spoiled Sweet: Akeem has definitely lead a pampered and privileged life, but he's got a good, kind heart and actually adjusts quite well to the life on a minimum-wage.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0094898", 
+    "poster_url": "ComingToAmerica.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "ShelteredAristocrat", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "PapaWolf", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "PapaWolf", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Hook", 
+            "name": "Hook", 
+            "poster_url": "Hook.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "OliverAndCompany", 
+            "name": "Oliver & Company"
+        }
+    ], 
+    "id": "ComingToAmerica", 
+    "name": "Coming to America"
+}

@@ -1,0 +1,73 @@
+{
+    "plot": "N/A", 
+    "genres": "Short", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bromantic"
+                ], 
+                "role": "Bromantic Foil: Belcher", 
+                "id": "BromanticFoil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Tammy", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0323085", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "Sunrise", 
+            "name": "Sunrise", 
+            "poster_url": "Sunrise.jpg"
+        }, 
+        {
+            "shared": [
+                "BromanticFoil"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "DrMabuseTheGambler", 
+            "name": "Dr. Mabuse, the Gambler", 
+            "poster_url": "DrMabuseTheGambler.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "Neighbors2014", 
+            "name": "Neighbors", 
+            "poster_url": "Neighbors2014.jpg"
+        }
+    ], 
+    "id": "LivingWill", 
+    "name": "Living Will"
+}

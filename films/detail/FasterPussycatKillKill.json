@@ -1,0 +1,80 @@
+{
+    "plot": "N/A", 
+    "genres": "Action", 
+    "release_year": "2009", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Dark Action Girl: Varla. Possibly the Ur Example, if not Trope Maker.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Billie and Rosie", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Varla", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt1276114", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp", 
+                "DarkActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "Lucifer", 
+            "name": "Lucifer"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "DarkActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "TheWorldIsNotEnough", 
+            "name": "The World Is Not Enough", 
+            "poster_url": "TheWorldIsNotEnough.jpg"
+        }, 
+        {
+            "shared": [
+                "DarkActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "DarkActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCounselor", 
+            "name": "The Counselor", 
+            "poster_url": "TheCounselor.jpg"
+        }
+    ], 
+    "id": "FasterPussycatKillKill", 
+    "name": "Faster Pussycat Kill Kill"
+}

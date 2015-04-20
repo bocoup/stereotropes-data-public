@@ -1,0 +1,88 @@
+{
+    "plot": "Batman discovers a mysterious teen-aged girl with super-human powers and a connection to Superman. When the girl comes to the attention of Darkseid, the evil overlord of Apokolips, events take a decidedly dangerous turn.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Kal-El"
+                ], 
+                "role": "Papa Wolf: Superman. Any indication of someone even attempting to harm Kara is pretty much Kal-El's Berserk Button.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Superman/Batman"
+                ], 
+                "role": "Gilotina, a member of the Female Furies in Superman/Batman: Apocalypse.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "rescue"
+                ], 
+                "role": "Statuesque Stunner: Big Barda appears to help rescue Supergirl.", 
+                "id": "StatuesqueStunner"
+            }
+        ]
+    }, 
+    "imdbid": "tt1673430", 
+    "poster_url": "SupermanBatmanApocalypse.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "BlondesAreEvil", 
+                "StatuesqueStunner"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCrowWickedPrayer", 
+            "name": "The Crow Wicked Prayer", 
+            "poster_url": "TheCrowWickedPrayer.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "ClassOf1984", 
+            "name": "Class Of", 
+            "poster_url": "ClassOf1984.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "StatuesqueStunner"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "SupermanBatmanApocalypse", 
+    "name": "Superman/Batman: Apocalypse"
+}

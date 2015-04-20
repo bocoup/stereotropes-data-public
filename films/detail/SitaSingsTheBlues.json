@@ -1,0 +1,82 @@
+{
+    "plot": "The movie is about Sita, the Hindu Goddess from the epic \"The Ramayana\", who accompanies Lord Rama on a 14 year exile in forest. Sita is abducted by Ravana, the ruler of Lanka. This movie tells the story of Rama and Sita, along-with a biographical account of the director's relationship with her husband.", 
+    "genres": "Animation, Comedy, Fantasy", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "Top Heavy Guy: several, but Ravana takes the cake by having like, ten heads.", 
+                "id": "TopHeavyGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Top-Heavy", 
+                    "Several"
+                ], 
+                "role": "Top-Heavy Guy: Several, but Ravana takes the cake by having like, ten heads.", 
+                "id": "TopHeavyGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Sita.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt1172203", 
+    "poster_url": "SitaSingsTheBlues.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "SitaSingsTheBlues", 
+    "name": "Sita Sings the Blues"
+}

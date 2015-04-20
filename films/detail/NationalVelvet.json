@@ -1,0 +1,76 @@
+{
+    "plot": "Mi Taylor was a young wanderer and opportunist whose father had given him \"all the roads in the Kingdom\" to travel. One of the roads, and a notation in his father's journal, leads him to the quiet English country-side home of the Brown family. The youngest daughter, Velvet, has a passion for horses and when she wins the spirited steed Pie in a town lottery, Mi is encouraged to train the horse for the Grand National - England's greatest racing event.", 
+    "genres": "Drama, Family, Sport", 
+    "release_year": "1944", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "weak", 
+                    "frail"
+                ], 
+                "role": "Ill Girl: Velvet has a weak stomach and generally frail nature.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "in-universe", 
+                    "short"
+                ], 
+                "role": "Sweet Polly Oliver: More so in-universe than out. Elizabeth Taylor with a short haircut and a jockey's uniform still looks exactly like a girl with a bob.", 
+                "id": "SweetPollyOliver"
+            }
+        ]
+    }, 
+    "imdbid": "tt0037120", 
+    "poster_url": "NationalVelvet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IllGirl", 
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 2, 
+            "id": "UncleTomsCabin", 
+            "name": "Uncle Tom's Cabin"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 1, 
+            "id": "Lockout", 
+            "name": "Lockout", 
+            "poster_url": "Lockout.jpg"
+        }, 
+        {
+            "shared": [
+                "SweetPollyOliver"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }
+    ], 
+    "id": "NationalVelvet", 
+    "name": "National Velvet"
+}

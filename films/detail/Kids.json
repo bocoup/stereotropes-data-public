@@ -1,0 +1,85 @@
+{
+    "plot": "Disturbing, dark, low-budget independent film about teen-agers in New York City. The story focuses on Telly (Leo Fitzpatrick), a teen who has a goal to de-flower as many virgins as he can. When one of his old encounters discovers that she is H.I.V.-positive, after only one encounter with a guy, Telly remains undaunted.", 
+    "genres": "Drama", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "KidAnova: Telly.", 
+                "id": "KidAnova"
+            }, 
+            {
+                "adjectives": [
+                    "17-year-old", 
+                    "last", 
+                    "13-years-old", 
+                    "HIV-positive"
+                ], 
+                "role": "The 1995 Larry Clark film Kids is about a 17-year-old Casanova who specializes in virgins. After his last conquest (13-years-old) discovers she's HIV-positive, she decides he has to be stopped before he passes the gift that keeps on giving on to another girl.", 
+                "id": "KidAnova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "extensive", 
+                    "sexual", 
+                    "kind", 
+                    "sweet"
+                ], 
+                "role": "Good Bad Girl: Ruby's extensive resume of sexual experience is actually kind of astonishing, but she's really a very sweet girl.", 
+                "id": "GoodBadGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113540", 
+    "poster_url": "Kids.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GoodBadGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowCake", 
+            "name": "Snow Cake", 
+            "poster_url": "SnowCake.jpg"
+        }, 
+        {
+            "shared": [
+                "GoodBadGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "GoodBadGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "LaBoheme", 
+            "name": "La Boheme"
+        }, 
+        {
+            "shared": [
+                "GoodBadGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "BetelnutBeauty", 
+            "name": "Betelnut Beauty", 
+            "poster_url": "BetelnutBeauty.jpg"
+        }, 
+        {
+            "shared": [
+                "GoodBadGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "BettyBoop", 
+            "name": "Betty Boop"
+        }
+    ], 
+    "id": "Kids", 
+    "name": "Kids"
+}

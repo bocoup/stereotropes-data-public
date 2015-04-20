@@ -1,0 +1,94 @@
+{
+    "plot": "Christmas in Tokyo, Japan. Three homeless friends: a young girl, a transvestite, and a middle-aged bum. While foraging through some trash, they find an abandoned newborn. Hana, the transvestite with delusions of being a mother, convinces the others to keep it overnight. The next day, using a key found with the baby, they start tracking down the parents, with many adventures along the way.", 
+    "genres": "Adventure, Animation, Drama", 
+    "release_year": "2003", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Bratty Teenage Daughter: Taken to extremes by Miyuki.", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "legitimate", 
+                    "handsomely-built"
+                ], 
+                "role": "Fat Girl: Played as legitimate characters. There are four handsomely-built ladies in the movie: Kiyoko the yakuza's daughter, Kiyoko the nurse, the kind Spanish-speaking mother, and Miyuki in flashback.", 
+                "id": "FatGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gossipy Hens", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Hana. The Hispanic mother also counts, seeing as she protectively held both Kiyoko and her baby when she saw Hana.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team Mom: Hana, definitely. Her dream for most of her life was to be the mother she never had growing up.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0388473", 
+    "poster_url": "TokyoGodfathers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FatGirl", 
+                "BrattyTeenageDaughter", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "WhatsEatingGilbertGrape", 
+            "name": "What's Eating Gilbert Grape", 
+            "poster_url": "WhatsEatingGilbertGrape.jpg"
+        }, 
+        {
+            "shared": [
+                "BrattyTeenageDaughter", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "GossipyHens"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "FatGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "OneHundredAndOneDalmatians", 
+            "name": "101 Dalmatians", 
+            "poster_url": "OneHundredAndOneDalmatians.jpg"
+        }
+    ], 
+    "id": "TokyoGodfathers", 
+    "name": "Tokyo Godfathers"
+}

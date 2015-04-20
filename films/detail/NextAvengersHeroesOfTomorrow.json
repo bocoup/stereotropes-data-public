@@ -1,0 +1,98 @@
+{
+    "plot": "The children of the Avengers hone their powers and go head to head with the very enemy responsible for their parents' demise.", 
+    "genres": "Animation, Action, Family", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Tony Stark and Bruce Banner/The Hulk have both become one.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "whole"
+                ], 
+                "role": "Dirty Coward: Thor comes off as this as he spends the whole film sitting it out on the sidelines.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Tony becomes one of these when Ultron arrives to kill the children. First thing he does after ensuring that they have an escape route is donning on his Iron Man armor and using it to battle Ultron.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "X-Men", 
+                    "same", 
+                    "true", 
+                    "likely", 
+                    "original"
+                ], 
+                "role": "Missing Mom: Azari's mother is strongly implied to be Storm from the X-Men, but we have no idea what happens to her. Likewise, Toruun's mother is never seen and she only makes reference to her father (Thor) and the same is true of Francis Barton (though Word of God says his mother is Mockingbird). Though it's obviously unconfirmed, Toruun's mother would more than likely be Sif as she was Thor's wife in the original Norse myths.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt1259998", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "BadassGrandpa", 
+                "MissingMom", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BadassGrandpa", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BadassGrandpa", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MissingMom", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BadassGrandpa", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "JusticeLeagueCrisisOnTwoEarths", 
+            "name": "Crisis on Two Earths", 
+            "poster_url": "JusticeLeagueCrisisOnTwoEarths.jpg"
+        }
+    ], 
+    "id": "NextAvengersHeroesOfTomorrow", 
+    "name": "Next Avengers: Heroes of Tomorrow"
+}

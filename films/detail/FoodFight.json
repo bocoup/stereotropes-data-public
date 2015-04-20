@@ -1,0 +1,94 @@
+{
+    "plot": "Dex, a superdog sleuth, is the law of the land when the world's most recognized brands take on the forces of evil and the devilish Brand X.", 
+    "genres": "Animation, Action, Comedy", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Lieutenant X.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Depraved Homosexual: Vlad Chocool who is constantly trying to sexually harass Dan.", 
+                "id": "DepravedHomosexual"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "last", 
+                    "give", 
+                    "good"
+                ], 
+                "role": "Faux Action Girl: Sunshine is built up to be one  then spends all but the last ten minutes of the film being held hostage though we don't know she's still alive. Though she did give a pretty good beat down.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "ugly", 
+                    "old"
+                ], 
+                "role": "Ms. Fanservice: Lady X. Until it's revealed that she's  an ugly, old prune mascot, of course.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0249516", 
+    "poster_url": "FoodFight.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CampGay", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CampGay", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "DiamondsAreForever", 
+            "name": "Diamonds Are Forever", 
+            "poster_url": "DiamondsAreForever.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "AsGoodAsItGets", 
+            "name": "As Good As It Gets", 
+            "poster_url": "AsGoodAsItGets.jpg"
+        }
+    ], 
+    "id": "FoodFight", 
+    "name": "Foodfight!"
+}

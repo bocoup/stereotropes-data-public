@@ -1,0 +1,77 @@
+{
+    "plot": "Corey and Jimmy Woods are two brothers who are being separated due to their parents divorcing. Jimmy is a mentally unstable kid that has had problems ever since his sister died at a young age. One day, Corey discovers that Jimmy has a natural talent for playing video games. He is one of the best around, and the two journey to the West Coast to compete in a video game championship, but along the way, they must avoid the adults, who are trying to take Jimmy away.", 
+    "genres": "Adventure, Comedy, Drama", 
+    "release_year": "1989", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Gamer Chick: A Trope Codifier.", 
+                "id": "GamerChick"
+            }, 
+            {
+                "adjectives": [
+                    "appear", 
+                    "early"
+                ], 
+                "role": "The Wizard had one appear as early as 1989. A bratty tween tomboy (played by Jenny Lewis, who's now the frontwoman of the indie band Rilo Kiley) joins Fred Savage and Withdrawn Kid for their trek to California.", 
+                "id": "GamerChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: When Corey asks Haley about her mom, she tells him that \"she packed it in\".", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098663", 
+    "poster_url": "TheWizard.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekInsurrection", 
+            "name": "Star Trek: Insurrection", 
+            "poster_url": "StarTrekInsurrection.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "TheWizard", 
+    "name": "The Wizard"
+}

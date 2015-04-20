@@ -1,0 +1,78 @@
+{
+    "plot": "In this satire of the Nazis the stooges are paperhangers in the country of Moronica. When evil cabinet ministers overthrow the king, they decide to make Moe the new ruler as he'll be stupid enough to follow their orders. Moe becomes Dictator, Curly is a Field Marshal and Larry becomes Minister of propaganda. After successfully preventing a female spy from committing mayhem, the boys are run out of office by a mob and eaten by lions.", 
+    "genres": "Comedy, Short", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Generalissimo: Field Marshal Curly.", 
+                "id": "TheGeneralissimo"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mata Hari: Mattie Herring", 
+                "id": "MataHari"
+            }, 
+            {
+                "adjectives": [
+                    "classic"
+                ], 
+                "role": "Mati Herring, from You Nazty Spy, a classic The Three Stooges film.", 
+                "id": "MataHari"
+            }
+        ]
+    }, 
+    "imdbid": "tt0033281", 
+    "similar": [
+        {
+            "shared": [
+                "TheGeneralissimo"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "TheGeneralissimo"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGreatDictator", 
+            "name": "The Great Dictator", 
+            "poster_url": "TheGreatDictator.jpg"
+        }, 
+        {
+            "shared": [
+                "MataHari"
+            ], 
+            "shared_count": 1, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "MataHari"
+            ], 
+            "shared_count": 1, 
+            "id": "CounterfeitTraitor", 
+            "name": "Counterfeit Traitor", 
+            "poster_url": "CounterfeitTraitor.jpg"
+        }, 
+        {
+            "shared": [
+                "MataHari"
+            ], 
+            "shared_count": 1, 
+            "id": "InglouriousBasterds", 
+            "name": "Inglourious Basterds", 
+            "poster_url": "InglouriousBasterds.jpg"
+        }
+    ], 
+    "id": "YouNaztySpy", 
+    "name": "You Nazty Spy"
+}

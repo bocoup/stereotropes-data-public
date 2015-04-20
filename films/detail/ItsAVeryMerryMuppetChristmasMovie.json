@@ -1,0 +1,79 @@
+{
+    "plot": "The owner of a bank (Miss Bitterman) wants to own the Muppet Theatre so she can build a nightclub over it. After she tricks Pepe into giving her the only copy of the contract between her father and the Muppets, she changes it so the Muppets have very little time to pay a debt they owe. Meanwhile, the Muppets are trying to put on a Christmas show. After the Muppets are confronted by Bitterman, they make a lot of sacrifices to save up so they can keep the Theatre.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "2002", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "martial", 
+                    "ensemble"
+                ], 
+                "role": "Adrenaline Makeover: More of an Adrenaline Costume Change; Piggy changes into a martial arts ensemble really quickly to face off Bitterman.", 
+                "id": "AdrenalineMakeover"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crazy Cat Lady: Piggy has been reduced to one of these in the reality where Kermit never existed.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [
+                    "cold"
+                ], 
+                "role": "Ice Queen: Rachel Bitterman, who is so cold that even the Muppets can't melt her heart.", 
+                "id": "IceQueen"
+            }
+        ]
+    }, 
+    "imdbid": "tt0329737", 
+    "poster_url": "ItsAVeryMerryMuppetChristmasMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CrazyCatLady"
+            ], 
+            "shared_count": 1, 
+            "id": "Gremlins", 
+            "name": "Gremlins", 
+            "poster_url": "Gremlins.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "AdrenalineMakeover"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "AdrenalineMakeover"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "IceQueen"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }
+    ], 
+    "id": "ItsAVeryMerryMuppetChristmasMovie", 
+    "name": "It's a Very Merry Muppet Christmas Movie"
+}

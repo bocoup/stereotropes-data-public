@@ -1,0 +1,94 @@
+{
+    "plot": "The Fury of Zoroark Has Been Unleashed. The Pok\u00e9mon Baccer World Cup is the most anticipated event of the year...", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Mom: Zoroark.", 
+                "id": "ActionMom"
+            }, 
+            {
+                "adjectives": [
+                    "Pok\u00e9mon"
+                ], 
+                "role": "Zoroark from the Pok\u00e9mon: Zoroark: Master of Illusions movie most certainly falls under this trope.", 
+                "id": "ActionMom"
+            }, 
+            {
+                "adjectives": [
+                    "green/blue", 
+                    "vital"
+                ], 
+                "role": "A Cool Old Lady with green/blue hair who provides the characters with vital information about Celebi.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [
+                    "bad", 
+                    "angry", 
+                    "and/or"
+                ], 
+                "role": "Actually somewhat less; Zorua quickly dispels the belief that Zoroark is the bad guy to Ash and the gang almost instantly. And as to the Legendary Beasts attacking Zoroark, she did think her son was in danger at the time and may have been too angry and/or not had enough time to explain.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt1690470", 
+    "similar": [
+        {
+            "shared": [
+                "ActionMom", 
+                "CoolOldLady", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLorax", 
+            "name": "The Lorax", 
+            "poster_url": "TheLorax.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "CoolOldLady", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "TheSecretOfNIMH", 
+            "name": "The Secret of NIMH", 
+            "poster_url": "TheSecretOfNIMH.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "ActionMom", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }
+    ], 
+    "id": "PokemonZoroarkMasterOfIllusions", 
+    "name": "Pok\u00e9mon: Zoroark: Master of Illusions"
+}

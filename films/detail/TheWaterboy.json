@@ -1,0 +1,86 @@
+{
+    "plot": "Bobby Boucher is the lowly waterboy for a college football team, until the coach discovers his amazing talent for tackling people much bigger than him. He signs the Waterboy as the new star player, but Bobby must keep it secret from his overbearing and domineering mother.", 
+    "genres": "Comedy, Sport", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Bobby's father Robert died of dehydration in a desert while serving in the Peace Corps. His dad actually left his mother for another woman. He gets his comeuppance in the end.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "evil", 
+                    "hard"
+                ], 
+                "role": "The Waterboy: One of Bobby's professors \u2014 so much so that Bobby calls him Colonel Sanders. He isn't evil so much as a Butt Monkey, and he quickly finds out the hard way you don't make fun of Mama.", 
+                "id": "FatSweatySouthernerInAWhiteSuit"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "My Beloved Smother: Though not without good reason.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120484", 
+    "poster_url": "TheWaterboy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "Rango", 
+            "name": "Rango", 
+            "poster_url": "Rango.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "ThrowMommaFromTheTrain", 
+            "name": "Throw Momma from the Train", 
+            "poster_url": "ThrowMommaFromTheTrain.jpg"
+        }
+    ], 
+    "id": "TheWaterboy", 
+    "name": "The Waterboy"
+}

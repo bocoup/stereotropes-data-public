@@ -1,0 +1,91 @@
+{
+    "plot": "Elizabeth Masterson, a dedicated doctor in San Francisco, had almost no time for anything. When her sister with two kids set her up on a date, she gets into a tragic car crash and gets in a coma. Meanwhile, a landscape architect named David Abbott moves into San Francisco and coincidentally, into Elizabeth's apartment for rent. While at the apartment, Elizabeth's spirit haunts him. She doesn't remember who she is, who her family is, and what she did - All that she remembered was her apartment and where everything was. To settle the arguments, David agrees to figure out who Elizabeth really is. When they get close to figuring out who she is, they eventually find love with one another and as they finally know who she really is, they learn that fate really has put them both together.", 
+    "genres": "Comedy, Fantasy, Romance", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Troubled, but Cute: David.", 
+                "id": "TroubledButCute"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cute Ghost Girl: Elizabeth...or so she seems.", 
+                "id": "CuteGhostGirl"
+            }, 
+            {
+                "adjectives": [
+                    "much", 
+                    "same", 
+                    "responsible"
+                ], 
+                "role": "Manic Pixie Dream Girl: Elizabeth is a bit of an aversion, as she fulfills much the same role in the plot, but is actually the subdued and responsible force in David's life, in contrast to his wild friend Jack.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Katrina.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0425123", 
+    "poster_url": "JustLikeHeaven.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TroubledButCute", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CrocodileDundee", 
+            "name": "Crocodile Dundee", 
+            "poster_url": "CrocodileDundee.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }
+    ], 
+    "id": "JustLikeHeaven", 
+    "name": "Just Like Heaven"
+}

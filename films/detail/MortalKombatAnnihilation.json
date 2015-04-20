@@ -1,0 +1,74 @@
+{
+    "plot": "Mortal Kombat is an ancient tournament where the Earth Realm warriors battle against the forces of Outworld. Liu Kang and a few chosen fighters fought and defeated the powerful sorcerer Shang Tsung, their victory would preserve the peace on Earth for one more generation. Taking place now where the first movie left off, the Earth realm warriors live a short period of peace when evil forces from another dimension come to invade and wreak havoc on Earth. They are guided by the forces of Outworld leader, Shao Kahn and his generals such as: Motaro, Rain, Ermac, Sheeva and Sindel. Now Liu Kang, Raiden, Jax, Sonya and Kitana must defeat Shao Kahn in six days before the Earth realm merges with the Outworld.", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "1997", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Sonya manages to be this in this movie, though Kitana picks up her discarded incompetence.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Kitana.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119707", 
+    "poster_url": "MortalKombatAnnihilation.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastStand", 
+            "name": "The Last Stand", 
+            "poster_url": "TheLastStand.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hausu", 
+            "name": "Hausu"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HaloLegends", 
+            "name": "Halo Legends", 
+            "poster_url": "HaloLegends.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Ironclad", 
+            "name": "Ironclad", 
+            "poster_url": "Ironclad.jpg"
+        }
+    ], 
+    "id": "MortalKombatAnnihilation", 
+    "name": "Mortal Kombat: Annihilation"
+}

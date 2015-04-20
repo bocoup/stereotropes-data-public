@@ -1,0 +1,99 @@
+{
+    "plot": "N/A", 
+    "genres": "Animation, Comedy, Sci-Fi", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "French"
+                ], 
+                "role": "Sissy Villain: The prince in the French story.", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "early", 
+                    "modern"
+                ], 
+                "role": "Action Girl: The Mountain Girl in the Babylonian arc is a very early film example of this trope. She likes to eat onions and kill Persians, and she is clearly enjoying herself as she fires arrows from the battlements of Babylon. Constance Talmadge's performance is a strikingly modern one.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: The Dear One, The Boy, Brown Eyes, none of them have moms.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "visible", 
+                    "innocent", 
+                    "stupid", 
+                    "similar"
+                ], 
+                "role": "Streetwalker: One is visible in the slum that the mill workers have relocated to. The Dear One, who is both very innocent and kind of stupid, gets the idea to strut down the sidewalk like the streetwalker does so people will like her. Oddly enough, the Mountain Girl does something similar, but only in the standalone version of the Babylonian story.", 
+                "id": "Streetwalker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0359483", 
+    "similar": [
+        {
+            "shared": [
+                "SissyVillain", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "Intolerance", 
+    "name": "Intolerance"
+}

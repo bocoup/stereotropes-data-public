@@ -1,0 +1,77 @@
+{
+    "plot": "In a post-apocalyptic world, a group of children move from one uncertain world to another in their quest for sanctuary.", 
+    "genres": "Sci-Fi", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy \u2014 William", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Magical", 
+                    "realistic", 
+                    "crazy"
+                ], 
+                "role": "Magical Girl \u2014 In an otherwise mostly realistic world, we have Lizzie, who can do crazy stuff with fire.", 
+                "id": "MagicalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0135997", 
+    "poster_url": "DoomRunners.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MagicalGirl", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "MagicalGirl", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekNemesis", 
+            "name": "Star Trek: Nemesis", 
+            "poster_url": "StarTrekNemesis.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "DoomRunners", 
+    "name": "Doom Runners"
+}

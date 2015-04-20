@@ -1,0 +1,85 @@
+{
+    "plot": "A motley crew of tourists embark on a boat ride of the haunted Louisiana bayous where they learn the terrifying tale of local legend \"Victor Crowley\"; a horribly disfigured man who was tragically and accidentally killed with a hatchet by the hands of his own father. But when the boat sinks and the ghost story turns out to be real, the group tries desperately to escape the swamp with their lives...and all of their pieces.", 
+    "genres": "Comedy, Horror", 
+    "release_year": "2006", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Both Misty and Jenna.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Final", 
+                    "double", 
+                    "only"
+                ], 
+                "role": "Final Girl: Marybeth, along with a Final Guy in Ben. Subverted when they go for a Kill 'em All ending, and double subverted by the sequel's revelation that Marybeth survived the Bolivian Army Ending.  Turns into a Final Guy trope at the end of Hatchet III with Andrew being the only survivor while Marybeth is impaled on a tree branch, though she might live.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Valley Girl: Misty.", 
+                "id": "ValleyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0422401", 
+    "poster_url": "Hatchet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ValleyGirl", 
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Halloween2007", 
+            "name": "Halloween ", 
+            "poster_url": "Halloween2007.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "ValleyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Shrooms", 
+            "name": "Shrooms", 
+            "poster_url": "Shrooms.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Triangle", 
+            "name": "Triangle", 
+            "poster_url": "Triangle.jpg"
+        }
+    ], 
+    "id": "Hatchet", 
+    "name": "Hatchet"
+}

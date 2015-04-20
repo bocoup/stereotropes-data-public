@@ -1,0 +1,96 @@
+{
+    "plot": "Rich socialite, Sandra Dee meets and marries photographer Bobby Darin and attempts to \"train\" him to be the perfect husband. Look for a very young Stephanie Powers as the devious friend .", 
+    "genres": "Comedy", 
+    "release_year": "1962", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "exact", 
+                    "several"
+                ], 
+                "role": "Dirty Old Man: These exact words are used several times to describe Eugene's father.  Once we see finally him onscreen, he doesn't disappoint.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "willing"
+                ], 
+                "role": "Overprotective Dad: Mr. Stacy, who's willing to punch a guy in the face for doing his job as a model photographer.", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "self-described", 
+                    "'incredible", 
+                    "'the"
+                ], 
+                "role": "Feminine Women Can Cook: Chantal, a self-described 'incredible cook' who is also 'the perfect wife.' This probably applies to Chantal's mother as well.", 
+                "id": "FeminineWomenCanCook"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hello Nurse: Chantal. This is most clearly demonstrated in the opening sequence.", 
+                "id": "HelloNurse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0056093", 
+    "poster_url": "IfAManAnswers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheKarateKid", 
+            "name": "The Karate Kid", 
+            "poster_url": "TheKarateKid.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "ToyStory2", 
+            "name": "Toy Story 2", 
+            "poster_url": "ToyStory2.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "SomeLikeItHot", 
+            "name": "Some Like It Hot", 
+            "poster_url": "SomeLikeItHot.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }
+    ], 
+    "id": "IfAManAnswers", 
+    "name": "If A Man Answers"
+}

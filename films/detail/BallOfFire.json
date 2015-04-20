@@ -1,0 +1,94 @@
+{
+    "plot": "Sexy, wisecracking nightclub singer Sugarpuss O'Shea is a hot tomato who needs to be kept on ice: mobster boyfriend Joe Lilac is suspected of murder and Sugarpuss' testimony could put him away. Naive Professor Bertram Potts meets Miss O'Shea while researching an article on slang and in true romantic comedy fashion the two worlds collide. When Miss O'Shea hides out with Potts and his fellow professors, everyone learns something new: the professors how to cha-cha and Potts the meaning of \"yum-yum\"!", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1941", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "effeminate", 
+                    "old", 
+                    "due", 
+                    "formal", 
+                    "only", 
+                    "previous", 
+                    "romantic"
+                ], 
+                "role": "Camp Straight: Professor Oddly is a rather mannered and slightly effeminate old gentleman (presumably due to having come of age in a more formal era), but he's the only one of the professors to have any previous romantic experience with women.", 
+                "id": "CampStraight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Ms. Fanservice: Sugarpuss, played by Barbara Stanwyck, wearing dance clothes in her first appearance.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Ms. Fanservice: Sugerpuss, played by Barbara Stanwyck, wearing dance clothes in her first appearance.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0033373", 
+    "poster_url": "BallOfFire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampStraight", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TronLegacy", 
+            "name": "TRON: Legacy", 
+            "poster_url": "TronLegacy.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "BlazingSaddles", 
+            "name": "Blazing Saddles", 
+            "poster_url": "BlazingSaddles.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "DiamondsAreForever", 
+            "name": "Diamonds Are Forever", 
+            "poster_url": "DiamondsAreForever.jpg"
+        }
+    ], 
+    "id": "BallOfFire", 
+    "name": "Ball of Fire"
+}

@@ -1,0 +1,93 @@
+{
+    "plot": "In 1831, Irishman Charles Adare travels to Australia to start a new life with the help of his cousin who has just been appointed governor. When he arrives he meets powerful landowner and ex-convict Sam Flusky, who wants to do a business deal with him. Whilst attending a dinner party at Flusky's house, Charles meets Flusky's wife Henrietta who he had known as a child back in Ireland. Henrietta is an alcoholic and seems to be on the verge of madness.", 
+    "genres": "Crime, Drama, Romance", 
+    "release_year": "1949", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Samson.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Dandy: Charles prides himself on his taste in clothing.", 
+                "id": "TheDandy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Creepy Housekeeper: Milly has her moments.", 
+                "id": "CreepyHouseKeeper"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Henrietta.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [
+                    "Rebellious", 
+                    "kind"
+                ], 
+                "role": "Rebellious Princess: Henrietta in her younger years. The years have not been kind to her.", 
+                "id": "RebelliousPrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0042004", 
+    "poster_url": "UnderCapricorn.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyDrunk", 
+                "TheDandy"
+            ], 
+            "shared_count": 2, 
+            "id": "AllAboutEve", 
+            "name": "All About Eve", 
+            "poster_url": "AllAboutEve.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "TheDandy"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "TheDandy"
+            ], 
+            "shared_count": 2, 
+            "id": "StreetsOfFire", 
+            "name": "Streets of Fire", 
+            "poster_url": "StreetsOfFire.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "UnderCapricorn", 
+    "name": "Under Capricorn"
+}

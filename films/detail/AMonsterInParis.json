@@ -1,0 +1,94 @@
+{
+    "plot": "Paris,1910. Emile, a shy movie projectionist, and Raoul, a colorful inventor, find themselves embarked on the hunt for a monster terrorizing citizens. They join forces with Lucille, the big-hearted star of the Rare Bird cabaret, an eccentric scientist and his irascible monkey to save the monster, who turns out to be an oversized but harmless flea, from the city's ruthlessly ambitious police chief.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Franc\u0153ur"
+                ], 
+                "role": "Man in White: Franc\u0153ur dresses to compliment.", 
+                "id": "ManInWhite"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Meganekko: Maude", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spirited Young Lady: Lucille.", 
+                "id": "SpiritedYoungLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chanteuse: Lucille.", 
+                "id": "TheChanteuse"
+            }, 
+            {
+                "adjectives": [
+                    "Franc\u0153ur"
+                ], 
+                "role": "Woman in White: Lucille in her stage costume. Man in White: Franc\u0153ur dresses to compliment.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0961097", 
+    "poster_url": "AMonsterInParis.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBlueBird", 
+            "name": "The Blue Bird", 
+            "poster_url": "TheBlueBird.jpg"
+        }, 
+        {
+            "shared": [
+                "Meganekko", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHitchhikersGuideToTheGalaxy", 
+            "name": "The Hitchhiker's Guide to the Galaxy"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "SomeLikeItHot", 
+            "name": "Some Like It Hot", 
+            "poster_url": "SomeLikeItHot.jpg"
+        }
+    ], 
+    "id": "AMonsterInParis", 
+    "name": "A Monster in Paris"
+}

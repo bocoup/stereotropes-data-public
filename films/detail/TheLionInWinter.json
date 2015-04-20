@@ -1,0 +1,110 @@
+{
+    "plot": "Christmas 1183--an aging and conniving King Henry II plans a reunion where he hopes to name his successor. He summons the following people for the holiday: his scheming but imprisoned wife, Queen Eleanor of Aquitaine; his mistress, Princess Alais, whom he wishes to marry; his three sons (Richard, Geoffrey, and John), all of whom desire the throne; and the young but crafty King Philip of France (who is also Alais' brother). With the fate of Henry's empire at stake, everybody engages in their own brand of deception and treachery to stake their claim.", 
+    "genres": "Drama, History", 
+    "release_year": "1968", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Richard as a child. Not any more now that he's grown up, though.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Richard and Philip both.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: Eleanor, at least as Richard sees her.", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "Real-Life", 
+                    "trouble-maker"
+                ], 
+                "role": "God Save Us from the Queen!: when it's Eleanor of Aquitaine, a Real-Life Chess Master and trouble-maker...", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Queen Eleanor of Aquitaine in The Lion in Winter from the point of view of her husband Henry II and at least some of their sons.", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: One of the reasons Eleanor is pissed. Richard calls her \"Medea to the teeth.\"", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0063227", 
+    "poster_url": "TheLionInWinter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanScorned", 
+                "EvilMatriarch", 
+                "StraightGay", 
+                "MommasBoy"
+            ], 
+            "shared_count": 4, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "ThrowMommaFromTheTrain", 
+            "name": "Throw Momma from the Train", 
+            "poster_url": "ThrowMommaFromTheTrain.jpg"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "EvilMatriarch", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "MirrorMask", 
+            "name": "MirrorMask", 
+            "poster_url": "MirrorMask.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "Notorious", 
+            "name": "Notorious", 
+            "poster_url": "Notorious.jpg"
+        }
+    ], 
+    "id": "TheLionInWinter", 
+    "name": "The Lion in Winter"
+}

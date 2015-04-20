@@ -1,0 +1,99 @@
+{
+    "plot": "James Bond 007's mission is to firstly, organise the defection of a top Soviet general. When the general is re-captured, Bond heads off to find why an ally of General Koskov was sent to murder him. Bond's mission continues to take him to Afghanistan, where he must confront an arms dealer known as Brad Whitaker. Everything eventually reveals its self to Bond.", 
+    "genres": "Action, Adventure, Romance", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Battle Butler: At the safehouse where Koskov is being debriefed, everyone from gardeners to butlers is shown to be a guard.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "British", 
+                    "Green", 
+                    "serious"
+                ], 
+                "role": "The extreme end of this trope is seen in The Living Daylights. At a British Intelligence safehouse where a KGB defector is being held, everyone from gardeners to butlers is a hidden guard. One of them (callsign \"Green 4\") actually puts up a serious fight against Necros.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Miles Gloriosus: Koskov implies Whitaker is one of these. Pushkin does more than imply, he goes into extremely unimpressed detail about the multiple ways that Whitaker fails to live up to the image he tries to present.", 
+                "id": "MilesGloriosus"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "stocky", 
+                    "German", 
+                    "good", 
+                    "played", 
+                    "same"
+                ], 
+                "role": "A stocky German woman appears in The Living Daylights, who does a fairly good job at distracting her supervisor while Bond helps Koskov defect to the West.\n She's played by the same actor, Julie T. Wallace, who provides the example from The Fifth Element.", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Meganekko: Moneypenny (Caroline Bliss).", 
+                "id": "Meganekko"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093428", 
+    "poster_url": "TheLivingDaylights.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanBegins", 
+            "name": "Batman Begins", 
+            "poster_url": "BatmanBegins.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "Meganekko", 
+                "MilesGloriosus"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanReturns", 
+            "name": "Batman Returns", 
+            "poster_url": "BatmanReturns.jpg"
+        }, 
+        {
+            "shared": [
+                "MilesGloriosus"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCommitments", 
+            "name": "The Commitments", 
+            "poster_url": "TheCommitments.jpg"
+        }, 
+        {
+            "shared": [
+                "BrawnHilda"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "TheLivingDaylights", 
+    "name": "The Living Daylights"
+}

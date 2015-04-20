@@ -1,0 +1,124 @@
+{
+    "plot": "Barbie stars as Blair, a kind-hearted girl who is chosen to attend Princess Charm School. In this magical place, she makes new friends and discovers that there's a princess in every girl!", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Alpha Bitch: Delancy, at first.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Blair to Emily.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cute Clumsy Girl: Blair is teased and humiliated relentlessly for it. To a lesser extent, her fairy.", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "strong"
+                ], 
+                "role": "Damsel out of Distress: The three heroines locked in a strong room immediately try strength, technology and finally intelligence to run away. It works.", 
+                "id": "DamselOutOfDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: The premise.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "young", 
+                    "big"
+                ], 
+                "role": "Barbie: Princess Charm School: Emily is so firmly in the phase that, being too young to register in the princess school, she did it for her big sister instead.", 
+                "id": "PrincessPhase"
+            }, 
+            {
+                "adjectives": [
+                    "young", 
+                    "big"
+                ], 
+                "role": "Princess Phase: Emily is so firmly in the phase that, being too young to register in the princess school, she did it for her big sister instead. It works.", 
+                "id": "PrincessPhase"
+            }, 
+            {
+                "adjectives": [
+                    "much", 
+                    "horrible"
+                ], 
+                "role": "Spoiled Sweet: Delancy is much sweeter than you might think from her horrible mother.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt2066832", 
+    "poster_url": "BarbiePrincessCharmSchool.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "EverythingsBetterWithPrincesses", 
+                "DamselOutOfDistress", 
+                "CuteClumsyGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "EverythingsBetterWithPrincesses", 
+                "PrincessPhase", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 4, 
+            "id": "ALittlePrincess", 
+            "name": "A Little Princess", 
+            "poster_url": "ALittlePrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "EverythingsBetterWithPrincesses", 
+                "DamselOutOfDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "EverythingsBetterWithPrincesses", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "ShrekTheThird", 
+            "name": "Shrek the Third", 
+            "poster_url": "ShrekTheThird.jpg"
+        }
+    ], 
+    "id": "BarbiePrincessCharmSchool", 
+    "name": "Barbie: Princess Charm School"
+}

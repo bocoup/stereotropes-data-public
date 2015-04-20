@@ -1,0 +1,67 @@
+{
+    "plot": "Gang tries to take over small town to rob its banks.", 
+    "genres": "Crime, Drama", 
+    "release_year": "1971", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "fellow"
+                ], 
+                "role": "In Day of the Wolves, each of the Wolves is instructed to grow a beard before arriving to train for The Heist, and then to shave it off after they have split up, so that none of their fellow thieves knows what they look like without the beard.", 
+                "id": "BeardnessProtectionProgram"
+            }
+        ]
+    }, 
+    "imdbid": "tt0069948", 
+    "poster_url": "DayOfTheWolves.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardnessProtectionProgram"
+            ], 
+            "shared_count": 1, 
+            "id": "LuckyLuke", 
+            "name": "Lucky Luke", 
+            "poster_url": "LuckyLuke.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardnessProtectionProgram"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardnessProtectionProgram"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWorldAccordingToGarp", 
+            "name": "The World According To Garp", 
+            "poster_url": "TheWorldAccordingToGarp.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardnessProtectionProgram"
+            ], 
+            "shared_count": 1, 
+            "id": "ManOfSteel", 
+            "name": "Man of Steel", 
+            "poster_url": "ManOfSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardnessProtectionProgram"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFugitive", 
+            "name": "The Fugitive", 
+            "poster_url": "TheFugitive.jpg"
+        }
+    ], 
+    "id": "DayOfTheWolves", 
+    "name": "Day of the Wolves"
+}

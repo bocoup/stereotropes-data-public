@@ -1,0 +1,121 @@
+{
+    "plot": "After the battle between the Autobots and Decepticons that leveled Chicago, humanity thinks that all alien robots are a threat. So Harold Attinger, a CIA agent, establishes a unit whose sole purpose is to hunt down all of them. But it turns out that they are aided by another alien robot who is searching for Optimus Prime. Cade Yeager, a \"robotics expert\", buys an old truck and upon examining it, he thinks it's a Transformer. When he powers it up, he discovers it's Optimus Prime. Later, men from the unit show up looking for Optimus. He helps Yeager and his daughter Tessa escape but are pursued by the hunter. They escape and Yeager learns from technology he took from the men that a technology magnate and defense contractor named Joshua Joyce is part of what's going on, so they go to find out what's going on.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Bash Brothers: Hound and Bumblebee, and later Optimus and Grimlock.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [
+                    "new"
+                ], 
+                "role": "Knight in Shining Armor: The Dinobots' robot modes seem to be based off this trope. Optimus's new design is very knightly as well. The toyline even gives Optimus a variation called \"Silver Knight\".", 
+                "id": "KnightInShiningArmor"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective"
+                ], 
+                "role": "Overprotective Dad: Cade is this towards his daughter following the death of his wife.", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "able", 
+                    "helpful", 
+                    "later"
+                ], 
+                "role": "Damsel in Distress: Tessa seems to get in trouble repeatedly throughout the movie and have the guys save her. Despite this she is not The Load and is able to take care of herself and be helpful for the most part. She later refuses to run away and runs back into the fight to save her father.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Tessa's mother died sometime before the events of the film.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Tessa, although she's downplayed compared to Carly and Mikaela.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Tessa.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt2109248", 
+    "poster_url": "TransformersAgeOfExtinction.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MissingMom", 
+                "DamselInDistress", 
+                "OverprotectiveDad", 
+                "MsFanservice", 
+                "BashBrothers"
+            ], 
+            "shared_count": 5, 
+            "id": "ClashOfTheTitans", 
+            "name": "Clash of the Titans", 
+            "poster_url": "ClashOfTheTitans.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom", 
+                "BashBrothers", 
+                "MsFanservice", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 4, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "OverprotectiveDad", 
+                "TheChick", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "Super8", 
+            "name": "Super 8", 
+            "poster_url": "Super8.jpg"
+        }, 
+        {
+            "shared": [
+                "BashBrothers", 
+                "MsFanservice", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheChick", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "TransformersAgeOfExtinction", 
+    "name": "Transformers: Age of Extinction"
+}

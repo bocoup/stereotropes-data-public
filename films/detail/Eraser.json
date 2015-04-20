@@ -1,0 +1,67 @@
+{
+    "plot": "John Kruger is a U.S. marshal who is assigned to protect Lee Cullen, who works for the Cyrez Corporation, a company that manufactures top secret weapons for the military. Lee knows about a scam going on within Cyrez Corporation, and the man behind it is determined to silence Lee, because without Lee, the FBI has no case against the Cyrez Corporation. After taking Lee to New York City to hide her, John discovers that his friend, U.S. Marshal Robert Deguerin, is the mastermind behind the scam!", 
+    "genres": "Action, Drama, Mystery", 
+    "release_year": "1996", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Dr. Lee Cullen.", 
+                "id": "HotScientist"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116213", 
+    "poster_url": "Eraser.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AgentForHARM", 
+            "name": "Agent for H.A.R.M.", 
+            "poster_url": "AgentForHARM.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Sphere", 
+            "name": "Sphere", 
+            "poster_url": "Sphere.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }
+    ], 
+    "id": "Eraser", 
+    "name": "Eraser"
+}

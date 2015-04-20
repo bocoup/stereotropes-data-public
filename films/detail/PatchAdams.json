@@ -1,0 +1,76 @@
+{
+    "plot": "Patch Adams is determined to become a medical doctor because he enjoys helping people. Unfortunately, the medical and scientific community does not appreciate his methods of healing the sick, while the actual patients, medical professors, and hospital nurses all appreciate the work *he* can do, because they are unable to do it.", 
+    "genres": "Biography, Comedy, Drama", 
+    "release_year": "1998", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable"
+                ], 
+                "role": "Disposable Woman:  Carin.", 
+                "id": "DisposableWoman"
+            }, 
+            {
+                "adjectives": [
+                    "insane"
+                ], 
+                "role": "Neutral Female: Carin once she stops being a Straw Feminist. Really, she answers the phone and hears an obviously insane man who wants \"somebody to talk to.\" So naturally, she goes to his house alone. It doesn't go well.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0129290", 
+    "poster_url": "PatchAdams.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DisposableWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "LicenceToKill", 
+            "name": "Licence to Kill", 
+            "poster_url": "LicenceToKill.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DisposableWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "CasinoRoyale", 
+            "name": "Casino Royale", 
+            "poster_url": "CasinoRoyale.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DisposableWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "QuantumOfSolace", 
+            "name": "Quantum of Solace", 
+            "poster_url": "QuantumOfSolace.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "KamenRider", 
+            "name": "Kamen Rider"
+        }, 
+        {
+            "shared": [
+                "DisposableWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }
+    ], 
+    "id": "PatchAdams", 
+    "name": "Patch Adams"
+}

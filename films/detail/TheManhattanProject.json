@@ -1,0 +1,87 @@
+{
+    "plot": "A teen and his girlfriend make an atomic bomb with plutonium stolen from a scientist dating his mother.", 
+    "genres": "Sci-Fi, Thriller", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "bitter", 
+                    "brilliant", 
+                    "kind", 
+                    "personal"
+                ], 
+                "role": "Disappeared Dad: Paul's dad left his family and is now in Saudi Arabia. Paul is understandably somewhat bitter: \"I guess he didn't like being married anymore. Actually he's a brilliant architect; he's just kind of a shit in his personal life.\"", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "bitter", 
+                    "brilliant", 
+                    "kind", 
+                    "personal"
+                ], 
+                "role": "The Manhattan Project: Prior to the film, Paul's dad left his family and is now in Saudi Arabia. Paul is understandably somewhat bitter: \"I guess he didn't like being married anymore. Actually he's a brilliant architect; he's just kind of a shit in his personal life.\"", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High School Hustler: Paul", 
+                "id": "HighSchoolHustler"
+            }
+        ]
+    }, 
+    "imdbid": "tt0091472", 
+    "poster_url": "TheManhattanProject.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFog", 
+            "name": "The Fog", 
+            "poster_url": "TheFog.jpg"
+        }
+    ], 
+    "id": "TheManhattanProject", 
+    "name": "The Manhattan Project"
+}

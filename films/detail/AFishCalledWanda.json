@@ -1,0 +1,110 @@
+{
+    "plot": "Sexy American diamonds lover Wanda and her boyfriend Otto are in England to plot alongside George and Ken the robbery of a diamond collection. Wanda and Otto want the stolen diamonds for themselves, and inform the police about George not knowing that he has already moved the diamonds to another secret place. Wanda thinks the best way to find out is by getting close to George's lawyer - Archie Leach.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Otto over Wanda", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "good", 
+                    "other"
+                ], 
+                "role": "Dumb Muscle: Otto is really good with violence but he's challenged by almost every other task. Did he ever work for the CIA or is he lying?", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [
+                    "old", 
+                    "overly-grumpy", 
+                    "self-centered"
+                ], 
+                "role": "The old lady is overly-grumpy and self-centered.", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "lock-up", 
+                    "empty", 
+                    "real"
+                ], 
+                "role": "Femme Fatale: Wanda, who is planning on stabbing every guy she gets involved with in the back (even Otto \u2014 when they think the loot is safely locked in the safe at the lock-up, she's seconds away from koshing Otto and running off with it before they realize it's empty). Then she ends up falling in love with Archie for real.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "blue"
+                ], 
+                "role": "Manic Pixie Dream Girl: Wanda appears out of the blue and snaps Archie of his stuffiness until he wises up.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Jamie Lee Curtis", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0095159", 
+    "poster_url": "AFishCalledWanda.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "CrazyJealousGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "FrenchCancan", 
+            "name": "French Cancan", 
+            "poster_url": "FrenchCancan.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "StarshipTroopersInvasion", 
+            "name": "Starship Troopers: Invasion"
+        }
+    ], 
+    "id": "AFishCalledWanda", 
+    "name": "A Fish Called Wanda"
+}

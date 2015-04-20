@@ -1,0 +1,87 @@
+{
+    "plot": "A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier. They reach a fragile peace, but it proves short-lived, as both sides are brought to the brink of a war that will determine who will emerge as Earth's dominant species.", 
+    "genres": "Action, Drama, Sci-Fi", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "previous", 
+                    "dangerous"
+                ], 
+                "role": "Badass Grandpa: The four apes returning from the previous film, Maurice and Rocket especially. This doesn't stop them from actively participating in dangerous situations, however.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Maurice.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "former", 
+                    "dead", 
+                    "dead"
+                ], 
+                "role": "Crusading Widower: Both Malcomlm and Dreyfuss. The former has a dead wife, while the latter has a dead family. Both caused by the outbreak.", 
+                "id": "CrusadingWidower"
+            }
+        ]
+    }, 
+    "imdbid": "tt2103281", 
+    "poster_url": "DawnOfThePlanetOfTheApes.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CrusadingWidower", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "CrusadingWidower", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CrusadingWidower"
+            ], 
+            "shared_count": 2, 
+            "id": "EscapePlan", 
+            "name": "Escape Plan", 
+            "poster_url": "EscapePlan.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }
+    ], 
+    "id": "DawnOfThePlanetOfTheApes", 
+    "name": "Dawn Of The Planet Of The Apes"
+}

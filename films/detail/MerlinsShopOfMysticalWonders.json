@@ -1,0 +1,83 @@
+{
+    "plot": "This is a movie within a TV movie within a made-for-video movie. A boy is watching TV when a power outage forces him to talk to his grandpa for entertainment. His grandpa, a former screenwriter, re-tells an old screenplay about Merlin's Shop of Mystical Wonders. In it, Merlin sets up an enchanting store in a modern-day strip mall, accompanied by his gleeful wife and gnomes, snakes, dragons, etc. From this framing device, we then see two stories about people's encounters with items from the shop. The first sequence (created for this film but looking like an episode of \"Tales From The Darkside\") involves a pompous, cranky newspaper critic who begins casting spells using Merlin's spell book. The second story, an edited version of the full length movie, The Devil's Gift, is about an evil monkey doll (you know, the wicked grin and the cymbals?) who kills every time his hands clap. Merlin of the 1990s is disjointedly tied-in with the 1980 movie.", 
+    "genres": "Fantasy", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Leg Cling: Though why they thought Merlin's wife was a good choice for this...", 
+                "id": "LegCling"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Leg Cling: Though why they thought Merlin's wife was a good choice for this...", 
+                "id": "LegCling"
+            }, 
+            {
+                "adjectives": [
+                    "jerkish", 
+                    "magic", 
+                    "young"
+                ], 
+                "role": "Rare, non-fey male example: Merlin's Shop of Mystical Wonders (which 99% of viewers probably saw on MST3K) featured a jerkish newspaper reviewer who dabbled in magic and discovered that doing so caused him to age rapidly. He then concocted a spell to make himself young again, but it worked a little too well...", 
+                "id": "VainSorceress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0174917", 
+    "poster_url": "MerlinsShopOfMysticalWonders.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "VainSorceress"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWitchesOfOz", 
+            "name": "The Witches Of Oz", 
+            "poster_url": "TheWitchesOfOz.jpg"
+        }, 
+        {
+            "shared": [
+                "VainSorceress"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "VainSorceress"
+            ], 
+            "shared_count": 1, 
+            "id": "BarbieAndTheDiamondCastle", 
+            "name": "Barbie & The Diamond Castle"
+        }, 
+        {
+            "shared": [
+                "LegCling"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBurning", 
+            "name": "The Burning", 
+            "poster_url": "TheBurning.jpg"
+        }, 
+        {
+            "shared": [
+                "LegCling"
+            ], 
+            "shared_count": 1, 
+            "id": "JoeDirt", 
+            "name": "Joe Dirt", 
+            "poster_url": "JoeDirt.jpg"
+        }
+    ], 
+    "id": "MerlinsShopOfMysticalWonders", 
+    "name": "Merlin's Shop of Mystical Wonders"
+}

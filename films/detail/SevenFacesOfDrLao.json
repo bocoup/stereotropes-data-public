@@ -1,0 +1,78 @@
+{
+    "plot": "An old Chinese gentleman rides into the town of Abalone, Arizona and changes it forever, as the citizens see themselves reflected in the mirror of Lao's mysterious circus of mythical beasts.", 
+    "genres": "Fantasy, Mystery, Western", 
+    "release_year": "1964", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Mr. Lindquist; happily, his wife appears to take Dr. Lao's lesson to heart.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "One of these is a supporting character in 7 Faces of Dr. Lao; his wife becomes nicer after surviving being turned into stone by Medusa.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Angela Benedict", 
+                "id": "BrokenBird"
+            }
+        ]
+    }, 
+    "imdbid": "tt0057812", 
+    "poster_url": "SevenFacesOfDrLao.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "GreatExpectations", 
+            "name": "Great Expectations", 
+            "poster_url": "GreatExpectations.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "OliverTwist", 
+            "name": "Oliver Twist"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "Scarecrow", 
+            "name": "Scarecrow", 
+            "poster_url": "Scarecrow.jpg"
+        }
+    ], 
+    "id": "SevenFacesOfDrLao", 
+    "name": "7 Faces of Dr. Lao"
+}

@@ -1,0 +1,82 @@
+{
+    "plot": "The rise and fall of legendary war hero Thomas \"Stonewall\" Jackson as he leads the Confederacy to great success against the Union from 1861 to 1863. Prequel to the 1993 classic \"Gettysburg\".", 
+    "genres": "Drama, History, War", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Jackson", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "personal", 
+                    "dependent", 
+                    "free"
+                ], 
+                "role": "Stonewall Jackson's personal slave in Gods and Generals. Sadly Jackson feels so dependent on him that he can't quite bring himself to free him. In a way he seems almost enslaved to his slave.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Chick Magnet: John Wilkes Booth in the Director's cut.", 
+                "id": "ChickMagnet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0279111", 
+    "poster_url": "GodsAndGenerals.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheChargeOfTheLightBrigade", 
+            "name": "The Charge Of The Light Brigade", 
+            "poster_url": "TheChargeOfTheLightBrigade.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TroopBeverlyHills", 
+            "name": "Troop Beverly Hills", 
+            "poster_url": "TroopBeverlyHills.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "LawrenceOfArabia", 
+            "name": "Lawrence of Arabia", 
+            "poster_url": "LawrenceOfArabia.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "GodsAndGenerals", 
+    "name": "Gods And Generals"
+}

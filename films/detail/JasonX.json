@@ -1,0 +1,113 @@
+{
+    "plot": "Set way in the future, Earth is no longer inhabitable, so humans have colonized in outer space. One colony receives two cryogenically frozen bodies, and when they defrost them, one of the bodies turns out to be.....who else? Jason Voorhees. No longer in the forest or Camp Crystal Lake, Jason stalks the colonists in a whole new environment.", 
+    "genres": "Horror, Sci-Fi, Thriller", 
+    "release_year": "2001", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Sgt. Brodski.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Rowan.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Ms. Fanservice: The female cast, especially Janessa.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "related", 
+                    "real"
+                ], 
+                "role": "On a related note, Bella Morte (real surname Morrison) from Jason X Planet Of The Beast is a Perky Goth IN SPACE!.", 
+                "id": "PerkyGoth"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Perky Goth: Bella Morte in Planet of the Beast.", 
+                "id": "PerkyGoth"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kay-Em 14 from Jason X.", 
+                "id": "RobotGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Kay-Em"
+                ], 
+                "role": "Robot Girl: Kay-Em 14.", 
+                "id": "RobotGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0211443", 
+    "poster_url": "JasonX.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotScientist", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ScaryBlackMan", 
+                "RobotGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TransformersRevengeOfTheFallen", 
+            "name": "Transformers: Revenge of The Fallen", 
+            "poster_url": "TransformersRevengeOfTheFallen.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "PerkyGoth", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AsGoodAsItGets", 
+            "name": "As Good As It Gets", 
+            "poster_url": "AsGoodAsItGets.jpg"
+        }
+    ], 
+    "id": "JasonX", 
+    "name": "Jason X"
+}

@@ -1,0 +1,105 @@
+{
+    "plot": "300 years have passed since the Sanderson sisters were executed for practicing dark witchcraft. Returning to life thanks to a combination of a spell spoken before their demise and the accidental actions of Max, the new-kid-in-town, the sisters have but one night to secure their continuing existence...", 
+    "genres": "Comedy, Family, Fantasy", 
+    "release_year": "1993", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "malicious"
+                ], 
+                "role": "Blondes are Evil: Downplayed with Sarah, who is less malicious than Winifred, and averted by Allison.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bratty Teenage Son: Max is this in the beginning, but he gets over it.", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick - Allison", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Hecate Sisters", 
+                "id": "TheHecateSisters"
+            }, 
+            {
+                "adjectives": [
+                    "-year-old", 
+                    "young", 
+                    "old"
+                ], 
+                "role": "The witches in Hocus Pocus spend all their time looking for children to suck the life out of to make themselves look younger, with the added impetus once they've been resurrected of having to do this or they'll turn to dust. At one point, the 8(?)-year-old heroine says, \"It doesn't matter how young or old you are. You sold your soul! You're the ugliest thing that's ever lived! And you know it!\"", 
+                "id": "VainSorceress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Vain Sorceress", 
+                "id": "VainSorceress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wicked Witch: Three of them.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107120", 
+    "poster_url": "HocusPocus.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "VainSorceress", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "Super8", 
+            "name": "Super 8", 
+            "poster_url": "Super8.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "WickedWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SydneyWhite", 
+            "name": "Sydney White", 
+            "poster_url": "SydneyWhite.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "WickedWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepyHollow", 
+            "name": "Sleepy Hollow", 
+            "poster_url": "SleepyHollow.jpg"
+        }
+    ], 
+    "id": "HocusPocus", 
+    "name": "Hocus Pocus"
+}

@@ -1,0 +1,65 @@
+{
+    "plot": "A group of hobgoblins, who allow you to live out your fantasies but kill you in the process, escape from a studio vault, and a security guard and his friends must stop them before dawn.", 
+    "genres": "Comedy, Horror, Sci-Fi", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty: Appears as part of Nick's \"fantasy.\" He starts randomly chucking grenades around and viciously pointing a submachine gun at his surroundings (though never actually firing it\u2014 perhaps fake explosions were cheaper than a prop gun that could fire blanks?)", 
+                "id": "DrillSergeantNasty"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089280", 
+    "poster_url": "Hobgoblins.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "Basic", 
+            "name": "Basic", 
+            "poster_url": "Basic.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "ProblemChild", 
+            "name": "Problem Child", 
+            "poster_url": "ProblemChild.jpg"
+        }
+    ], 
+    "id": "Hobgoblins", 
+    "name": "Hobgoblins"
+}

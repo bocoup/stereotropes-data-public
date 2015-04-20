@@ -1,0 +1,74 @@
+{
+    "plot": "An animated feature which begins, ends and occasionally combines with, live-action filmed on location. A white dropout struggles to create comics and animated films, drawing inspiration from the harsh, gritty world around him. Still sharing his run-down apartment with his middle-aged parents, an oafish slob of an Italian father and a ditzy nut-case of a Jewish mother, he is ridiculed and looked down upon by his friends, hypocrites who run with violent gangs and the Italian Mafia, and a shallow Black girl who makes her living downtown with the pimps and pushers. This cartoonist gets a chance to pitch a film idea to a movie mogul, but the story proves too outrageous: a far-future Earth, destroyed by war and pollution, where a mutant antihero challenges and kills God. Complications ensue when the cartoonist's parents react in irrational ways to his various involvements.", 
+    "genres": "Animation, Drama", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gayngster: Snowflake and his brothers.", 
+                "id": "Gayngster"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Jewish"
+                ], 
+                "role": "Jewish Mother: Ida.", 
+                "id": "JewishMother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070165", 
+    "poster_url": "HeavyTraffic.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Gayngster", 
+                "JewishMother"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "JewishMother"
+            ], 
+            "shared_count": 1, 
+            "id": "SaturdayNightFever", 
+            "name": "Saturday Night Fever", 
+            "poster_url": "SaturdayNightFever.jpg"
+        }, 
+        {
+            "shared": [
+                "Gayngster"
+            ], 
+            "shared_count": 1, 
+            "id": "IchiTheKiller", 
+            "name": "Ichi the Killer", 
+            "poster_url": "IchiTheKiller.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLastTemptationOfChrist", 
+            "name": "The Last Temptation of Christ", 
+            "poster_url": "TheLastTemptationOfChrist.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother"
+            ], 
+            "shared_count": 1, 
+            "id": "FiddlerOnTheRoof", 
+            "name": "Fiddler on the Roof", 
+            "poster_url": "FiddlerOnTheRoof.jpg"
+        }
+    ], 
+    "id": "HeavyTraffic", 
+    "name": "Heavy Traffic"
+}

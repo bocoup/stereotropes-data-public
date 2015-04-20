@@ -1,0 +1,115 @@
+{
+    "plot": "When Adams and his crew are sent to investigate the silence from a planet inhabited by scientists, he finds all but two have died. Dr. Morbius and his daughter Altaira have somehow survived a hideous monster which roams the planet. Unknown to Adams, Morbius has made a discovery, and has no intention of sharing it (or his daughter!) with anyone.", 
+    "genres": "Action, Adventure, Family", 
+    "release_year": "1956", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Officer and a Gentleman: The Captain is one, and protects naive Altaira from his lewd crew.", 
+                "id": "OfficerAndAGentleman"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "unconscious", 
+                    "different"
+                ], 
+                "role": "Overprotective Dad: Morbius, subconsciously. Morbius said Altaira could leave for Earth whenever she wished, and might have even believed it at the time. The unconscious desires of his id have a different opinion, to the point that they manifest as a monster to destroy others in order to protect her.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [
+                    "'creature", 
+                    "id", 
+                    "possessive"
+                ], 
+                "role": "Papa Bear: A shipload of sex starved spacemen sniffing around his daughter brings out Morbius' 'creature from the id' eventually endangering even her with its unreasoning possessive rage.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "skinny-dipping"
+                ], 
+                "role": "Altaira from Forbidden Planet has no problem skinny-dipping in front of strangers, having lived with only her father and a robot most of her life.", 
+                "id": "InnocentFanserviceGirl"
+            }, 
+            {
+                "adjectives": [
+                    "normal", 
+                    "social", 
+                    "flesh"
+                ], 
+                "role": "Innocent Fanservice Girl: Altaira, being completely unaccustomed to normal social mores. (Though if you look when she gets out of the water you can see she's wearing a flesh colored suit)", 
+                "id": "InnocentFanserviceGirl"
+            }, 
+            {
+                "adjectives": [
+                    "social"
+                ], 
+                "role": "Mad Scientist's Beautiful Daughter: Altaira's father, Dr. Morbius, keeps her completely isolated from the social world outside Altair IV.", 
+                "id": "MadScientistsBeautifulDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0049223", 
+    "poster_url": "ForbiddenPlanet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "OverprotectiveDad", 
+                "InnocentFanserviceGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "OverprotectiveDad", 
+                "MadScientistsBeautifulDaughter"
+            ], 
+            "shared_count": 3, 
+            "id": "DespicableMe", 
+            "name": "Despicable Me", 
+            "poster_url": "DespicableMe.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MadScientistsBeautifulDaughter", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }
+    ], 
+    "id": "ForbiddenPlanet", 
+    "name": "Forbidden Planet"
+}

@@ -1,0 +1,89 @@
+{
+    "plot": "After twelve years of imprisonment by their own parents, two sisters are finally released by social workers to face the outside world for the first time.", 
+    "genres": "Drama", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "huge"
+                ], 
+                "role": "Sissy Villain: A huge portion of Shake / Buoogalow's inner circle fits one overblown Camp Gay stereotype or another. Unfortunate Implications abound.", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "High", 
+                    "later"
+                ], 
+                "role": "High Heel-Face Turn: Bibi  and later Pandi", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [
+                    "Jewish", 
+                    "landlady"
+                ], 
+                "role": "Jewish Mother: Alphie's landlady.", 
+                "id": "JewishMother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0156901", 
+    "poster_url": "TheApple.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "JewishMother", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFifthElement", 
+            "name": "The Fifth Element", 
+            "poster_url": "TheFifthElement.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "DiamondsAreForever", 
+            "name": "Diamonds Are Forever", 
+            "poster_url": "DiamondsAreForever.jpg"
+        }
+    ], 
+    "id": "TheApple", 
+    "name": "The Apple"
+}

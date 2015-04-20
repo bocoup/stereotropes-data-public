@@ -1,0 +1,97 @@
+{
+    "plot": "A mysterious man who has multiple jobs as a garage mechanic, a Hollywood stuntman and a getaway driver seems to be trying to escape his shady past as he falls for his neighbor - whose husband is in prison and who's looking after her child alone. Meanwhile, his garage mechanic boss is trying to set up a race team using gangland money, which implicates our driver as he is to be used as the race team's main driver. Our hero gets more than he bargained for when he meets the man who is married to the woman he loves.", 
+    "genres": "Crime, Drama", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "bright", 
+                    "white", 
+                    "tight", 
+                    "nice", 
+                    "pretty-boy", 
+                    "busy", 
+                    "flamboyant", 
+                    "whole", 
+                    "debatable"
+                ], 
+                "role": "The Driver, from Drive. Yeah, he wears a bright white satin jacket with tight jeans and nice shoes, and being played by pretty-boy Ryan Gosling doesn't help...but when he's not stomping on peoples skulls, breaking arms with hammers, and being the best damn getaway driver ever, he's busy romancing Carey Mulligans character Irene. Also, he's only really flamboyant in appearance - he doesn't say more than 20 sentences the whole movie - and as the movie goes on, he totally ignores the blood coating his nice clothes, so this is debatable.", 
+                "id": "AgentPeacock"
+            }, 
+            {
+                "adjectives": [
+                    "capable", 
+                    "advanced"
+                ], 
+                "role": "Badass Grandpa: Bernie Rose is still a scarily capable man at his advanced age.", 
+                "id": "BadassGrandpa"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "sole"
+                ], 
+                "role": "Damsel in Distress: Protecting Irene and her child is the sole reason Driver gets involved in the crime spree of the film.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0780504", 
+    "poster_url": "Drive.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "LaserMission", 
+            "name": "Laser Mission", 
+            "poster_url": "LaserMission.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "AgentPeacock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "TransformersDarkOfTheMoon", 
+            "name": "Transformers: Dark of the Moon", 
+            "poster_url": "TransformersDarkOfTheMoon.jpg"
+        }
+    ], 
+    "id": "Drive", 
+    "name": "Drive"
+}

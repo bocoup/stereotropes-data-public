@@ -1,0 +1,76 @@
+{
+    "plot": "Gallavants are ants living in a their own fairy-tale land, Ganteville. The little ones have to go to school in preparation of their adult life as working ants. However, one pupil thinks he doesn't need to take lessons in order to find his destination in life. He has to learn the hard way...", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "1984", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Action Girl: Eegee, a female Gallavant. Eventually joins the Enforce-ants, the group that protects the colony from Vantervipers", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "The High Queen: Queen Mallikam", 
+                "id": "TheHighQueen"
+            }
+        ]
+    }, 
+    "imdbid": "tt0272101", 
+    "similar": [
+        {
+            "shared": [
+                "TheHighQueen", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "TheHighQueen", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }, 
+        {
+            "shared": [
+                "TheHighQueen", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "TheHighQueen", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }, 
+        {
+            "shared": [
+                "TheHighQueen", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "DungeonsAndDragons", 
+            "name": "Dungeons & Dragons", 
+            "poster_url": "DungeonsAndDragons.jpg"
+        }
+    ], 
+    "id": "Gallavants", 
+    "name": "Gallavants"
+}

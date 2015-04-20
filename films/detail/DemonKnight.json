@@ -1,0 +1,120 @@
+{
+    "plot": "Brayker is a man who carries the last of seven keys, special containers which held the blood of Christ and were scattered across the universe to prevent the forces of evil from taking over. If The Collector gets the last key, the universe will fall into Chaos, and he has been tracking Brayker all the way to a small inn in a nowhere town. And now the final battle for the universe begins......", 
+    "genres": "Action, Horror, Thriller", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: Roach has a Southern drawl and treats Cordelia like crap.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Dirty Coward: Roach. During the demons' attack on the hotel, he ventures outside with Cordelia and tries to make it to his truck, only to spot a demon that then comes right at him and Cordelia. What does good ol' Roach do? He pushes Cordelia toward the demon as he hauls ass back into the hotel.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "fantasy"
+                ], 
+                "role": "Dirty Old Man: Uncle Willy. Just look at his topless women fantasy for evidence.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "Other"
+                ], 
+                "role": "Scary Black Man: The Other Collector.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cordelia, Hooker with a Heart of Gold.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "closing", 
+                    "sexual", 
+                    "long", 
+                    "hard"
+                ], 
+                "role": "Ms. Fanservice: Peggy Trentini in the opening framing segment. Cordelia, Hooker with a Heart of Gold. The two ladies with our horror host in the closing framing segment. The temptation the Collector offers to Uncle Willy is a bar of nude women offering him beer and making sexual innuendos about \"enjoying a long, hard one.\" And for the kicker, some of them were played by porn stars.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Jeryline. Irene gets her moments, too.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0114608", 
+    "poster_url": "DemonKnight.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "CorruptHick", 
+                "MsFanservice", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 4, 
+            "id": "FoxyBrown", 
+            "name": "Foxy Brown", 
+            "poster_url": "FoxyBrown.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "HookerWithAHeartOfGold", 
+                "SassyBlackWoman", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 4, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SassyBlackWoman", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Grindhouse", 
+            "name": "Grindhouse", 
+            "poster_url": "Grindhouse.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "DirtyOldMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "SassyBlackWoman", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "MadeaGoesToJail", 
+            "name": "Madea Goes To Jail", 
+            "poster_url": "MadeaGoesToJail.jpg"
+        }
+    ], 
+    "id": "DemonKnight", 
+    "name": "Demon Knight"
+}

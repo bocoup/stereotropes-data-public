@@ -1,0 +1,119 @@
+{
+    "plot": "When a bottle containing a plea for help from a little girl named Penny makes its way to the Rescue Aid Society, a mouse organization in the basement of the United Nations building dedicated to the rescue and well-being of anyone in need, it is up to the brave mouse Miss Bianca and her chosen partner, the shy janitor Bernard, to rescue the girl. Searching for clues at her home at Morningside Orphanage in New York City, the two mice discover that the girl has been kidnapped by the evil pawn shop owner Madame Medusa and her companion Mr. Snoops. On the back of Orville the albatross, Miss Bianca and Bernard travel to the terrifyingly gloomy Devil's Bayou where they learn the shocking truth: the innocent young girl is being forced down into a dangerous, dark underground pirate's cave where she must find the Devil's Eye, the world's largest diamond and Madame Medusa's greatest obsession. Before returning safely home, Miss Bianca, Bernard, and Penny will have to combat Madame Medusa's two ferocious pet alligators Brutus and Nero with the help of Ellie Mae and Evinrude the dragonfly, as well as survive the raging tides inside the horrible pirate's cave.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Battle Butler: Mr. Snoops.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "unaware"
+                ], 
+                "role": "In The Rescuers Down Under, Bernard competes with Jake over Bianca's affections. Though in this case, Jake isn't openly competing with Bernard, just unaware of his relationship status with Bianca.", 
+                "id": "CockFight"
+            }, 
+            {
+                "adjectives": [
+                    "strong", 
+                    "friendly"
+                ], 
+                "role": "Averted in The Rescuers. The film has a location named Devil's Bayou, which could be located in Louisiana or Texas. Either way, it is a swamp with alligators in it. The swamp folks living there seem to have some hillbilly qualities, like Luke who drinks strong liquor that turns out to be gasoline. However, they turn out to be rather friendly, and actually aided in the rescue of Penny from Medusa, Snoops, Brutus and Nero.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Cody mentions that his dad is \"gone\" and empathizes with the unborn eagles whose father was shot pre-movie.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Rescuers Down Under: Cody lost his father.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Penny.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Penny from The Rescuers is an orphan.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Penny", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0076618", 
+    "poster_url": "TheRescuers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "DisappearedDad", 
+                "CorruptHick", 
+                "GirlishPigtails", 
+                "CockFight"
+            ], 
+            "shared_count": 5, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CockFight", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Bambi", 
+            "name": "Bambi", 
+            "poster_url": "Bambi.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CorruptHick", 
+                "GirlishPigtails"
+            ], 
+            "shared_count": 3, 
+            "id": "Rango", 
+            "name": "Rango", 
+            "poster_url": "Rango.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Dinosaur", 
+            "name": "Dinosaur", 
+            "poster_url": "Dinosaur.jpg"
+        }
+    ], 
+    "id": "TheRescuers", 
+    "name": "The Rescuers"
+}

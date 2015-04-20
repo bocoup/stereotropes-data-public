@@ -1,0 +1,90 @@
+{
+    "plot": "Another Disney underdog sports team of misfit kids (soccer this time) learns to play a new sport and become champions, while building self-esteem, making friends and solving a variety of dramatic family crises, through the able assistance of a foreign exchange teacher and a former local sports hero as coaches.", 
+    "genres": "Comedy, Family, Sport", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe: Sheriff Tom.", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Just about all of the Knights.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Hello, Nurse!: Both Sheriff Tom and Jay have this reaction when they see Miss Montgomery for the first time.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Kate's mother left her and her father three years prior to the setting of the movie.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112499", 
+    "poster_url": "TheBigGreen.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "JerkJock", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCuriosityOfChance", 
+            "name": "The Curiosity Of Chance", 
+            "poster_url": "TheCuriosityOfChance.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGirlCantHelpIt", 
+            "name": "The Girl Can't Help It", 
+            "poster_url": "TheGirlCantHelpIt.jpg"
+        }
+    ], 
+    "id": "TheBigGreen", 
+    "name": "The Big Green"
+}

@@ -1,0 +1,77 @@
+{
+    "plot": "A little girl comes to a town that is embattled by feuds and intimidated by her aunt. By the time she must leave, she has transformed the community with her indominatable will to see the good side of even the worst situations and bring it out for the betterment of all.", 
+    "genres": "Drama, Family", 
+    "release_year": "1960", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pollyanna, anyone?", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "cheerful", 
+                    "angry"
+                ], 
+                "role": "Pollyanna is all but the Trope Namer of The Pollyanna, an archetype which is used to describe irrepressibly cheerful characters. She lives in a town of bitter and angry people and slowly makes them cheery.", 
+                "id": "TheCutie"
+            }
+        ]
+    }, 
+    "imdbid": "tt0054195", 
+    "poster_url": "Pollyanna.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowCake", 
+            "name": "Snow Cake", 
+            "poster_url": "SnowCake.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "Pollyanna", 
+    "name": "Pollyanna"
+}

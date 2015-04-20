@@ -1,0 +1,126 @@
+{
+    "plot": "An orphaned brontosaurus named Littlefoot sets off in search of the legendary Great Valley. A land of lush vegetation where the dinosaurs can thrive and live in peace. Along the way he meets four other young dinosaurs, each one a different species, and they encounter several obstacles as they learn to work together in order to survive.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "long", 
+                    "own"
+                ], 
+                "role": "Dirty Coward: Subverted. It seems that Rinkus is this but it's revealed he just played on long Pterano's plans for his own ambitions.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "male", 
+                    "many", 
+                    "neutral"
+                ], 
+                "role": "Dude Looks Like a Lady: People's first reaction to finding out Tippy from VIII is male was \"So many Fan Fics suddenly got much, much gayer.\" Rinkus's gender is never explicitly stated and his name is pretty gender neutral...", 
+                "id": "DudeLooksLikeALady"
+            }, 
+            {
+                "adjectives": [
+                    "willing", 
+                    "absolute", 
+                    "certain", 
+                    "full", 
+                    "own"
+                ], 
+                "role": "Papa Wolf and Mama Bear: The parents of the five main characters, but also Chomper's parents. Notably, they were willing to enter the Great Valley to search for their child (whom Littlefoot and his friends accidentially brought in when trying to rescue another egg that Ozzy and Strut stole), and when they saw Chomper in danger, they made absolute certain that whoever harmed them paid in full, even doing so to members of their own kind.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "definitive", 
+                    "massive", 
+                    "whip-like", 
+                    "epic", 
+                    "enraged"
+                ], 
+                "role": "Mama Bear: Or rather, Mama Bronto. Littlefoot's mother provides one of the definitive examples in animation, using her massive, whip-like tail in an epic battle with an enraged T. rex, in defense of her son.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Land Before Time: Littlefoot's mother is killed by the sharptooth.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shorttank: Cera.", 
+                "id": "ShortTank"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick - Ducky", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0095489", 
+    "poster_url": "TheLandBeforeTime.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DudeLooksLikeALady", 
+                "MissingMom", 
+                "MamaBear", 
+                "ShortTank"
+            ], 
+            "shared_count": 4, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MissingMom", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "NextAvengersHeroesOfTomorrow", 
+            "name": "Next Avengers: Heroes of Tomorrow"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "BrotherBear", 
+            "name": "Brother Bear", 
+            "poster_url": "BrotherBear.jpg"
+        }
+    ], 
+    "id": "TheLandBeforeTime", 
+    "name": "The Land Before Time"
+}

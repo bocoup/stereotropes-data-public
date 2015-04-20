@@ -1,0 +1,80 @@
+{
+    "plot": "Seventh-grade is no fun. Especially for Dawn Weiner when everyone at school calls you 'Dog-Face' or 'Wiener-Dog.' Not to mention if your older brother is 'King of the Nerds' and your younger sister is a cutesy ballerina who gets you in trouble but is your parents' favorite. And that's just the beginning--her life seems to be falling apart when she faces rejection from the older guy in her brother's band that she has a crush on, her parents want to tear down her 'Special People's Club' clubhouse, and her sister is abducted....", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Dawn's father comes across this way. When he tells her to listen to her mother and \"make things easier on herself,\" it's as though he's speaking from experience.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Charmer: Steve", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Lolita and Cookie at school, Missy at home.", 
+                "id": "AlphaBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0114906", 
+    "poster_url": "WelcomeToTheDollhouse.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Hairspray", 
+            "name": "Hairspray", 
+            "poster_url": "Hairspray.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Rebecca", 
+            "name": "Rebecca", 
+            "poster_url": "Rebecca.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "GingerSnaps", 
+            "name": "Ginger Snaps", 
+            "poster_url": "GingerSnaps.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch"
+            ], 
+            "shared_count": 1, 
+            "id": "SororityBoys", 
+            "name": "Sorority Boys", 
+            "poster_url": "SororityBoys.jpg"
+        }
+    ], 
+    "id": "WelcomeToTheDollhouse", 
+    "name": "Welcome To The Dollhouse"
+}

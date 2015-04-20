@@ -1,0 +1,76 @@
+{
+    "plot": "High school friends Andre Kriegman and Cal Gabriel declare war on their classmates and plan a terrifying assault on their high school. As they begin the deadly countdown to their final act of revenge, the two start a video diary to explain their feelings and chronicle their mission.", 
+    "genres": "Drama", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "Jerk Jock: Brad, one of the students whom the main characters hate the most.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "main", 
+                    "high"
+                ], 
+                "role": "Samurai: One of the main characters considers himself a kind of high school samurai.", 
+                "id": "Samurai"
+            }
+        ]
+    }, 
+    "imdbid": "tt0365960", 
+    "poster_url": "ZeroDay.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Samurai", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTwilightSamurai", 
+            "name": "The Twilight Samurai", 
+            "poster_url": "TheTwilightSamurai.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "Samurai"
+            ], 
+            "shared_count": 1, 
+            "id": "Kagemusha", 
+            "name": "Kagemusha", 
+            "poster_url": "Kagemusha.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "OurTown", 
+            "name": "Our Town", 
+            "poster_url": "OurTown.jpg"
+        }
+    ], 
+    "id": "ZeroDay", 
+    "name": "Zero Day"
+}

@@ -1,0 +1,115 @@
+{
+    "plot": "Mischievous grandma Madea lands in jail, where she meets a variety of mixed-up characters.", 
+    "genres": "Comedy, Crime, Drama", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "whole", 
+                    "many", 
+                    "dirty", 
+                    "old"
+                ], 
+                "role": "In the Tyler Perry movie Madea Goes To Jail, Madea's brother Joe invites a whole crowd of people over, many of which are dirty old people that harass her daughter Cora.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Linda and her maid of honor Tonya.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "foreign", 
+                    "other"
+                ], 
+                "role": "Brawn Hilda: Played nearly straight with Big Sal, minus a foreign accent, and bonus point as the actress is Hellga. Looks, on the other hand, could go either way.", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Candace.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Clingy Jealous Girl: Linda, sort of. She tells on herself after witnessing Josh caring for Candace after she shoots up and winds up tweaking alone at their doorstep.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Ironically, not the star protagonist, but her friend Donna.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: This is a Tyler Perry movie, right? Candace and Madea both, predictably enough. Tonya. Up to Eleven!", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt1142800", 
+    "poster_url": "MadeaGoesToJail.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "BrokenBird", 
+                "SassyBlackWoman", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 4, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "BrokenBird", 
+                "HookerWithAHeartOfGold", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 4, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "BrokenBird", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "MementoMori", 
+            "name": "Memento Mori"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "SassyBlackWoman", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "DiaryOfAMadBlackWoman", 
+            "name": "Diary of a Mad Black Woman", 
+            "poster_url": "DiaryOfAMadBlackWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "AlphaBitch", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }
+    ], 
+    "id": "MadeaGoesToJail", 
+    "name": "Madea Goes To Jail"
+}

@@ -1,0 +1,86 @@
+{
+    "plot": "John has lost all his money. He sits outside a diner in the desert when Sydney happens along, buys him coffee, then takes him to Reno and shows him how to get a free room without losing much money. Under Sydney's fatherly tutelage, John becomes a successful small-time professional gambler, and all is well, until he falls for Clementine, a cocktail waitress and sometimes hooker.", 
+    "genres": "Crime, Drama", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "such"
+                ], 
+                "role": "Cool Old Guy: Sydney. He is even referred to as such by Jimmy in his Reason Why You Suck Speech, though in a mocking way.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Samuel L. Jackson in his sweet spot. Jimmy wears a leather coat and leather driving gloves which only make him scarier.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "gracious", 
+                    "adamant"
+                ], 
+                "role": "Hooker with a Heart of Gold: Played with; Clementine is actually warm and gracious towards Sydney and John. However, she's rather adamant about getting paid on the job, which leads to...", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119256", 
+    "poster_url": "HardEight.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongestYard", 
+            "name": "The Longest Yard", 
+            "poster_url": "TheLongestYard.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "RevengeOfTheNerds", 
+            "name": "Revenge of the Nerds"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Witness", 
+            "name": "Witness", 
+            "poster_url": "Witness.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "HorribleBosses", 
+            "name": "Horrible Bosses", 
+            "poster_url": "HorribleBosses.jpg"
+        }
+    ], 
+    "id": "HardEight", 
+    "name": "Hard Eight"
+}

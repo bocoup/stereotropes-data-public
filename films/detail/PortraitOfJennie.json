@@ -1,0 +1,75 @@
+{
+    "plot": "Eben Adams is a talented but struggling artist in Depression era New York who has never been able to find inspiration for a painting. One day, after he finally finds someone to buy a painting from him, a pretty but odd young girl named Jennie Appleton appears and strikes up an unusual friendship with Eben.", 
+    "genres": "Drama, Romance, Fantasy", 
+    "release_year": "1948", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Magical"
+                ], 
+                "role": "Magical Girlfriend", 
+                "id": "MagicalGirlfriend"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jennie for Eben in Portrait Of Jennie", 
+                "id": "TheMuse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Muse: Jennie for Eben.", 
+                "id": "TheMuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0040705", 
+    "poster_url": "PortraitOfJennie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheMuse", 
+                "MagicalGirlfriend"
+            ], 
+            "shared_count": 2, 
+            "id": "Xanadu", 
+            "name": "Xanadu", 
+            "poster_url": "Xanadu.jpg"
+        }, 
+        {
+            "shared": [
+                "TheMuse"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "TheMuse"
+            ], 
+            "shared_count": 1, 
+            "id": "EightAndAHalf", 
+            "name": "8\u00bd"
+        }, 
+        {
+            "shared": [
+                "MagicalGirlfriend"
+            ], 
+            "shared_count": 1, 
+            "id": "MySuperExGirlfriend", 
+            "name": "My Super Ex Girlfriend"
+        }, 
+        {
+            "shared": [
+                "TheMuse"
+            ], 
+            "shared_count": 1, 
+            "id": "BarbieAndTheDiamondCastle", 
+            "name": "Barbie & The Diamond Castle"
+        }
+    ], 
+    "id": "PortraitOfJennie", 
+    "name": "Portrait Of Jennie"
+}

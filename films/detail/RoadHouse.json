@@ -1,0 +1,73 @@
+{
+    "plot": "Dalton is the Cooler in bars; He backs up and directs the bouncers. He takes a job in a Road House that has gotten far too rough. His attempts to clean things up put him in conflict with Brad Wesley, the town bully and rich person. Things heat up.", 
+    "genres": "Action, Thriller", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "no-gooder"
+                ], 
+                "role": "Corrupt Hick: There's a no-gooder trying to take over the bar and businesses in a little backwater town with his hired redneck muscle.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "no-gooder"
+                ], 
+                "role": "Road House, staring Patrick Swayze, features a no-gooder trying to take over the bar and businesses in a little backwater town with his hired redneck muscle.", 
+                "id": "CorruptHick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098206", 
+    "poster_url": "RoadHouse.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "Diggstown", 
+            "name": "Diggstown", 
+            "poster_url": "Diggstown.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "PootieTang", 
+            "name": "Pootie Tang", 
+            "poster_url": "PootieTang.jpg"
+        }
+    ], 
+    "id": "RoadHouse", 
+    "name": "Road House"
+}

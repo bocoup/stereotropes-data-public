@@ -1,0 +1,90 @@
+{
+    "plot": "Corporate billionaire Edward Cole and working class mechanic Carter Chambers have nothing in common except for their terminal illnesses. While sharing a hospital room together, they decide to leave it and do all the things they have ever wanted to do before they die according to their bucket list. In the process, both of them heal each other, become unlikely friends, and ultimately find joy in life.", 
+    "genres": "Adventure, Comedy, Drama", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Carter and Edward.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Millionaire Playboy: Edward, divorced four times.", 
+                "id": "MillionairePlayboy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "beautiful", 
+                    "estranged"
+                ], 
+                "role": "In The Bucket List, Jack Nicholson's character wants to kiss the world's most beautiful woman before he dies, which he plans to do by kissing a lot of women.  It's sweetly subverted when he reunites with his estranged daughter and discovers that he has a granddaughter, whom he kisses, and crosses that part off the list.", 
+                "id": "WorldsMostBeautifulWoman"
+            }, 
+            {
+                "adjectives": [
+                    "kiss", 
+                    "beautiful", 
+                    "squicky"
+                ], 
+                "role": "World's Most Beautiful Woman: One of Edward's points on his list is to kiss the world's most beautiful girl, who turns out to be his granddaughter. In a heartwarming way, not a squicky way.", 
+                "id": "WorldsMostBeautifulWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0825232", 
+    "poster_url": "TheBucketList.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WorldsMostBeautifulWoman", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "RedCliff", 
+            "name": "Red Cliff", 
+            "poster_url": "RedCliff.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekNemesis", 
+            "name": "Star Trek: Nemesis", 
+            "poster_url": "StarTrekNemesis.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }
+    ], 
+    "id": "TheBucketList", 
+    "name": "The Bucket List"
+}

@@ -1,0 +1,74 @@
+{
+    "plot": "Based on Gordon Korman's book 'Swindle,' this movie is about a boy named Griffin who finds a valuable multi-million dollar baseball card. After accidentally selling the card for a million dollar loss, he enlists the help of his best friend Ben and his colleagues to regain the baseball card.", 
+    "genres": "Adventure, Comedy", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Eddie toward Amanda.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High School Hustler: Griffin, though he isn't that way in the book.", 
+                "id": "HighSchoolHustler"
+            }
+        ]
+    }, 
+    "imdbid": "tt2545440", 
+    "similar": [
+        {
+            "shared": [
+                "HighSchoolHustler", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Rushmore", 
+            "name": "Rushmore", 
+            "poster_url": "Rushmore.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }, 
+        {
+            "shared": [
+                "HighSchoolHustler"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBurning", 
+            "name": "The Burning", 
+            "poster_url": "TheBurning.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Repulsion", 
+            "name": "Repulsion", 
+            "poster_url": "Repulsion.jpg"
+        }
+    ], 
+    "id": "Swindle", 
+    "name": "Swindle"
+}

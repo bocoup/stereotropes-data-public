@@ -1,0 +1,79 @@
+{
+    "plot": "In a future where energy is made from fecal matter, the government rewards defecation with \"juicybars\". Small-time hustlers try to get rich while fending off the mutated Diaper Gang.", 
+    "genres": "Animation, Action, Comedy", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "unconscious"
+                ], 
+                "role": "Dirty Coward: After Geko knocks Ssipak unconscious, Aachi threatens him and then promptly runs and hides behind his motorcycle.", 
+                "id": "DirtyCoward"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Beauty.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0972542", 
+    "poster_url": "AachiAndSsipak.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "KingKong", 
+            "name": "King Kong", 
+            "poster_url": "KingKong.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TransformersDarkOfTheMoon", 
+            "name": "Transformers: Dark of the Moon", 
+            "poster_url": "TransformersDarkOfTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }
+    ], 
+    "id": "AachiAndSsipak", 
+    "name": "Aachi and Ssipak"
+}

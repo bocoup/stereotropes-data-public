@@ -1,0 +1,121 @@
+{
+    "plot": "Wong Kar-Wai's movie about two love-struck cops is filmed in impressionistic splashes of motion and color. The first half deals with Cop 223, who has broken up with his girlfriend of five years. He purchases a tin of pineapples with an expiration date of May 1 each day for a month. By the end of that time, he feels that he will either be rejoined with his love or that it too will have expired forever. The second half shows Cop 663 dealing with his breakup with his flight attendant girlfriend. He talks to his apartment furnishings until he meets a new girl at a local lunch counter.", 
+    "genres": "Drama, Mystery, Romance", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: 223 can't take a hint if his life depended on it.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Brigitte Lin's character.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl Next Door: Faye.", 
+                "id": "GirlNextDoor"
+            }, 
+            {
+                "adjectives": [
+                    "-obsessed"
+                ], 
+                "role": "Chungking Express, features Faye the \"California Dreamin'\"-obsessed snack bar girl: to help a police officer get over his breakup with a flight attendant, she frequently breaks into (and floods) his apartment, switches the labels on all his canned foods, and rearranges his furniture.  Eventually, he falls for her, but she stands him up and decides to \"see the world\" by becoming \u2014 yes \u2014 a flight attendant. But don't worry: everything works out okay.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "wacky", 
+                    "free-spirited"
+                ], 
+                "role": "Manic Pixie Dream Girl: Faye. Childlike, wacky mannerisms? Check. Idealistic and free-spirited to cop #663's broken heart and outward stuffed shirt? Check. Tendency towards petty crime? Check. Amazingly cute? Very much check.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "second", 
+                    "former", 
+                    "next", 
+                    "usual", 
+                    "top", 
+                    "obvious"
+                ], 
+                "role": "Sexy Stewardess: The second cop's former girlfriend. His next girlfriend emulates her and becomes one as well. In a flashback scene, we see his then-girlfriend do her safety instruction routine over the usual voice recording (\"emergency exits are located at the front and back...\"), while at his place and with her top off. It's an obvious turn-on for him.", 
+                "id": "SexyStewardess"
+            }, 
+            {
+                "adjectives": [
+                    "second", 
+                    "usual", 
+                    "top", 
+                    "obvious"
+                ], 
+                "role": "The second cop of Chungking Express has a relationship with a flight attendant, and the girl who falls in love with him ultimately becomes one as well.\n In a flashback scene, we see his then-girlfriend do her safety instruction routine over the usual voice recording (\"emergency exits are located at the front and back...\"), while at his place and with her top off. It's an obvious turn-on for him. You can watch it here from 4'45 onwards.", 
+                "id": "SexyStewardess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109424", 
+    "poster_url": "ChungkingExpress.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlNextDoor", 
+                "DoggedNiceGuy", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Bridesmaids", 
+            "name": "Bridesmaids", 
+            "poster_url": "Bridesmaids.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }
+    ], 
+    "id": "ChungkingExpress", 
+    "name": "Chungking Express"
+}

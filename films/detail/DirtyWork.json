@@ -1,0 +1,99 @@
+{
+    "plot": "Mitch and Sam have to come up with $50,000 and fast! The only problem is neither one can hold down a job. Mitch finds a way to money by exploiting the only talents the two have, by opening a \"Revenge For Hire\" business.", 
+    "genres": "Comedy", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Pops, who used to be a boxer and scares the hell out of Mitch.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Slacker: Mitch, of course.", 
+                "id": "TheSlacker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "dead"
+                ], 
+                "role": "Disposable Sex Worker: Parodied when Mitch plays a prank that makes it appear that all the vehicles at a used car dealership have dead hookers in the trunks.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "dead"
+                ], 
+                "role": "Parodied in Norm Macdonald's Dirty Work, in which he hires a bunch of prostitutes to stuff themselves into the trunks of cars in a lot to humiliate the owner. Macdonald shouts, \"I've never seen so many dead hookers in my life!\"", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "complete"
+                ], 
+                "role": "Hooker with a Heart of Gold: Hilariously inverted. At the end of the film Jimmy gets married to the Vietnamese prostitute who bit his nose off, and she's a complete psychopath.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120654", 
+    "poster_url": "DirtyWork.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheSlacker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "TrueRomance", 
+            "name": "True Romance", 
+            "poster_url": "TrueRomance.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTown", 
+            "name": "The Town", 
+            "poster_url": "TheTown.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Unforgiven", 
+            "name": "Unforgiven", 
+            "poster_url": "Unforgiven.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "BrokenTrail", 
+            "name": "Broken Trail", 
+            "poster_url": "BrokenTrail.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Pusher", 
+            "name": "Pusher"
+        }
+    ], 
+    "id": "DirtyWork", 
+    "name": "Dirty Work"
+}

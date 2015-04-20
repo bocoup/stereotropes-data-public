@@ -1,0 +1,78 @@
+{
+    "plot": "For the first time ever, see the world of LEGO come to life in the all-new feature-length DVD movie adventure with Clutch Powers, the best builder and explorer in the LEGO universe.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Bernie.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Peg.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1587414", 
+    "poster_url": "LEGOTheAdventuresOfClutchPowers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "DeadPoetsSociety", 
+            "name": "Dead Poets Society", 
+            "poster_url": "DeadPoetsSociety.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Bridesmaids", 
+            "name": "Bridesmaids", 
+            "poster_url": "Bridesmaids.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Super8", 
+            "name": "Super 8", 
+            "poster_url": "Super8.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "LegendsOfTheFall", 
+            "name": "Legends Of The Fall"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowDay", 
+            "name": "Snow Day", 
+            "poster_url": "SnowDay.jpg"
+        }
+    ], 
+    "id": "LEGOTheAdventuresOfClutchPowers", 
+    "name": "LEGO: The Adventures of Clutch Powers"
+}

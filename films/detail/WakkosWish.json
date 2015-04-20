@@ -1,0 +1,65 @@
+{
+    "plot": "The Warner Brothers (and the Warner Sister) go on a quest.", 
+    "genres": "Animation, Family, Musical", 
+    "release_year": "1999", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ill Girl: Dot", 
+                "id": "IllGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0164226", 
+    "poster_url": "WakkosWish.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IllGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Balto", 
+            "name": "Balto", 
+            "poster_url": "Balto.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "MyGirl", 
+            "name": "My Girl", 
+            "poster_url": "MyGirl.jpg"
+        }
+    ], 
+    "id": "WakkosWish", 
+    "name": "Wakko's Wish"
+}

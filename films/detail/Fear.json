@@ -1,0 +1,92 @@
+{
+    "plot": "On the surface, the Walkers were a picture perfect family. Steve had a great job as an architect and a beautiful house in Seattle overlooking a lake. His new wife, Laura, loved him very much. Toby, her young son, looked up to him like his own father. And Nicole, his 16-year old daughter, meant the world to him. As Steve would be the first to admit, it was almost the perfect life. Until one day when Nicole went to a party at a local rave club with her best friend Margo and met a young man named David.", 
+    "genres": "Drama, Thriller", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Action Dad: Steven realizes what's going on and eventually has a showdown with David.", 
+                "id": "ActionDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: David goes above and beyond this trope", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "David in Fear attacks a boy for hugging his girlfriend  and later murders him.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Marky Mark shirtless a lot.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Steven goes into this mode towards the end.", 
+                "id": "PapaWolf"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116287", 
+    "poster_url": "Fear.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "ActionDad", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "PacificRim", 
+            "name": "Pacific Rim", 
+            "poster_url": "PacificRim.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }
+    ], 
+    "id": "Fear", 
+    "name": "Fear"
+}

@@ -1,0 +1,100 @@
+{
+    "plot": "GRAND BUDAPEST HOTEL recounts the adventures of Gustave H, a legendary concierge at a famous European hotel between the wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend. The story involves the theft and recovery of a priceless Renaissance painting and the battle for an enormous family fortune -- all against the back-drop of a suddenly and dramatically changing Continent.", 
+    "genres": "Adventure, Comedy, Drama", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "impossible", 
+                    "young"
+                ], 
+                "role": "Badass Mustache: Gustave manages the seemingly impossible feat of a mustache that is both Badass and elegant. In imitation a young Zero takes to penciling on a fake mustache  by the end he has grown one for real..", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "'darling", 
+                    "potent", 
+                    "much"
+                ], 
+                "role": "Camp Straight: Gustave is exceedingly camp, calls everyone (including men) 'darling' and covers himself with an extremely potent perfume. He is also a shameless womaniser with a taste for (much) older women.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [
+                    "main", 
+                    "'darling", 
+                    "potent", 
+                    "much"
+                ], 
+                "role": "M. Gustave H., the main character in The Grand Budapest Hotel is exceedingly camp, calls everyone (including men) 'darling' and covers himself with an extremely potent perfume. He is also a shameless womaniser with a taste for (much) older women.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dastardly Whiplash: Dmitri's moustache, dress sense and personality all approach this.", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [
+                    "dress-sense"
+                ], 
+                "role": "In The Grand Budapest Hotel, Dmitri's moustache, dress-sense and personality all play into this.", 
+                "id": "DastardlyWhiplash"
+            }
+        ]
+    }, 
+    "imdbid": "tt2278388", 
+    "poster_url": "TheGrandBudapestHotel.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssMustache", 
+                "DastardlyWhiplash"
+            ], 
+            "shared_count": 2, 
+            "id": "DudleyDoRight", 
+            "name": "Dudley Do-Right", 
+            "poster_url": "DudleyDoRight.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "TheGrandBudapestHotel", 
+    "name": "The Grand Budapest Hotel"
+}

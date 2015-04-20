@@ -1,0 +1,97 @@
+{
+    "plot": "The Frankenstein Monster demands that Dr. Frankenstein create a mate for him.", 
+    "genres": "Short", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "deliberate"
+                ], 
+                "role": "Which may have been deliberate \u2014 see Camp Gay, above.", 
+                "id": "CampGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Cute Monster Girl: Never in her career did Elsa Lanchester look so good.", 
+                "id": "CuteMonsterGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Elizabeth.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Hysterical"
+                ], 
+                "role": "Hysterical Woman: Minnie.", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt3919468", 
+    "similar": [
+        {
+            "shared": [
+                "HystericalWoman", 
+                "ScreamingWoman", 
+                "CampGay"
+            ], 
+            "shared_count": 3, 
+            "id": "StageFrightAquarius", 
+            "name": "StageFright -Aquarius-"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "KingKong", 
+            "name": "King Kong", 
+            "poster_url": "KingKong.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "HystericalWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "ObserveAndReport", 
+            "name": "Observe and Report", 
+            "poster_url": "ObserveAndReport.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Super8", 
+            "name": "Super 8", 
+            "poster_url": "Super8.jpg"
+        }
+    ], 
+    "id": "BrideOfFrankenstein", 
+    "name": "Bride of Frankenstein"
+}

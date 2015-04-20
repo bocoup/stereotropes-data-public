@@ -1,0 +1,96 @@
+{
+    "plot": "This action-comedy takes place on a world where the 15th Century finds Europe still caught in the grip of the Dark Ages. A young boy named Tee is sold into slavery, and bought by the beggar Raydoor, who takes him on as an apprentice. When Raydoor realizes that Tee is the subject of a prophecy, he reveals himself as one of the Delta Knights, a secret order dedicated to helping humanity. Trained by Raydoor, Tee also becomes a Delta Knight and joins forces with a ne'er-do-well painter named Leonardo (from the small town of Vinci), and a tavern girl, Thena. Pursued by Lord Vultare, minion of the wicked Mannerjay, they set out on a quest to find the lost treasures of Archimedes.", 
+    "genres": "Fantasy, Action, Adventure", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "hair"
+                ], 
+                "role": "Dude Looks Like a Lady: Travis, after he has long, fake hair.", 
+                "id": "DudeLooksLikeALady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wizard Beard: Baydool's fake beard, which according to Pearl also doubles as a toilet seat cover.", 
+                "id": "WizardBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "improbable"
+                ], 
+                "role": "Everything's Better with Princesses: Thena turns out to be the long-lost Princess Athena of a neighboring country, a fact revealed during an improbable run-in with her brother and his friends, who are running around being bandits for some reason.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Thena the bawdyhouse princess.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Thena", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107910", 
+    "poster_url": "QuestOfTheDeltaKnights.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "JesusChristSuperstar", 
+            "name": "Jesus Christ Superstar", 
+            "poster_url": "JesusChristSuperstar.jpg"
+        }, 
+        {
+            "shared": [
+                "DudeLooksLikeALady", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "BreakfastOnPluto", 
+            "name": "Breakfast on Pluto", 
+            "poster_url": "BreakfastOnPluto.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "WereTheMillers", 
+            "name": "We're the Millers", 
+            "poster_url": "WereTheMillers.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "WizardBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathstalkerAndTheWarriorsFromHell", 
+            "name": "Deathstalker and the Warriors from Hell", 
+            "poster_url": "DeathstalkerAndTheWarriorsFromHell.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFall", 
+            "name": "The Fall", 
+            "poster_url": "TheFall.jpg"
+        }
+    ], 
+    "id": "QuestOfTheDeltaKnights", 
+    "name": "Quest Of The Delta Knights"
+}

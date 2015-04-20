@@ -1,0 +1,115 @@
+{
+    "plot": "An interweaving narrative chronicling the antics of such diverse characters as: a transsexual taxi driver, a family obsessed with hygiene and toads, a fiery reverend, a carnival owner who kidnaps women into marriage, and a xenophobic couple who run a local shop for local people.", 
+    "genres": "Comedy, Horror", 
+    "release_year": "1999\u20132002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "young"
+                ], 
+                "role": "Camp Gay: The 'actors' who interrupt the planning meeting, one of whom is played by a young Oliver Reed!", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "implied", 
+                    "other", 
+                    "old", 
+                    "good"
+                ], 
+                "role": "Camp Straight: Race, an implied womanizer who refers to other men as \"old darling\" and thanks to his mother, is good at cooking and housekeeping.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Depraved Homosexual: Stevens isn't one, but Lexy obviously believes in the trope, given his worry about rooming with him.", 
+                "id": "DepravedHomosexual"
+            }, 
+            {
+                "adjectives": [
+                    "Gay/", 
+                    "post-war"
+                ], 
+                "role": "Manly Gay/ Straight Gay: Stevens, who also has some elements of Hard Gay, given his post-war profession.", 
+                "id": "ManlyGay"
+            }, 
+            {
+                "adjectives": [
+                    "True", 
+                    "ready-made", 
+                    "neat"
+                ], 
+                "role": "Men Can't Keep House: True of Hyde, who is separated from his wife and lives alone in a mansion, subsisting on ready-made food from cans and rarely cleans up dishes and doesn't keep the place particularly neat.", 
+                "id": "MenCantKeepHouse"
+            }, 
+            {
+                "adjectives": [
+                    "Quintessential", 
+                    "British", 
+                    "fit", 
+                    "polite", 
+                    "military"
+                ], 
+                "role": "Quintessential British Gentleman: Ironically invoked by the title of the film, since the protagonists either are or become criminals. However, Hyde and Race neatly fit into the trope being cultured and unfailingly polite military officers.", 
+                "id": "QuintessentialBritishGentleman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0184135", 
+    "similar": [
+        {
+            "shared": [
+                "CampStraight", 
+                "DepravedHomosexual", 
+                "CampGay"
+            ], 
+            "shared_count": 3, 
+            "id": "DiamondsAreForever", 
+            "name": "Diamonds Are Forever", 
+            "poster_url": "DiamondsAreForever.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "CampGay", 
+                "ManlyGay"
+            ], 
+            "shared_count": 3, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTurningPoint", 
+            "name": "The Turning Point", 
+            "poster_url": "TheTurningPoint.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }
+    ], 
+    "id": "TheLeagueOfGentlemen", 
+    "name": "The League of Gentlemen"
+}

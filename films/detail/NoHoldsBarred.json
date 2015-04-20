@@ -1,0 +1,87 @@
+{
+    "plot": "Rip is the World Wrestling Federation champion who is faithful to his fans and the network he wrestles for. Brell, the new head of the World Television Network, wants Rip to wrestle for his network. Rip refuses and goes back to his normal life. Still looking for a way to raise ratings, Brell initiates a show called \"The Battle of the Tough Guys\", a violent brawling competition. A mysterious man, Zeus, wins the competition. This gets Brell to use him as an angle to get at Rip.", 
+    "genres": "Action", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man Who Screams All The Time", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: It's a wrestling movie!", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [
+                    "Bad-Guy"
+                ], 
+                "role": "In No Holds Barred, a redneck wrestler mocks the miniscule manhoods of two of the Corrupt Corporate Executive's accomplices in the Bad-Guy Bar's bathroom.", 
+                "id": "TeenyWeenie"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Teeny Weenie: The redneck in the bar's restroom mocked two of Brell's partners for their minuscule manhoods.", 
+                "id": "TeenyWeenie"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097987", 
+    "poster_url": "NoHoldsBarred.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "StreetFighter", 
+            "name": "Street Fighter", 
+            "poster_url": "StreetFighter.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "TeenyWeenie"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TwentyEightDaysLater", 
+            "name": "28 Days Later", 
+            "poster_url": "TwentyEightDaysLater.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Predator", 
+            "name": "Predator", 
+            "poster_url": "Predator.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }
+    ], 
+    "id": "NoHoldsBarred", 
+    "name": "No Holds Barred"
+}

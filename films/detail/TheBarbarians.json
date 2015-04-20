@@ -1,0 +1,69 @@
+{
+    "plot": "N/A", 
+    "genres": "Fantasy, Adventure", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "other", 
+                    "equal", 
+                    "other", 
+                    "bad"
+                ], 
+                "role": "The films The Barbarians and Double Trouble, starring the bodybuilder twins Peter and David Paul, have their characters constantly bickering with each other and kicking equal amount of ass in fight scenes. This is taken even further in Twin Sitters, where their characters call backup from two other twin bash brothers to save two kids from the bad guys.", 
+                "id": "BashBrothers"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092615", 
+    "poster_url": "TheBarbarians.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "KamenRider", 
+            "name": "Kamen Rider"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BashBrothers"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }
+    ], 
+    "id": "TheBarbarians", 
+    "name": "The Barbarians"
+}

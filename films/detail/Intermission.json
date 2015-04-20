@@ -1,0 +1,83 @@
+{
+    "plot": "Intermission is an urban love story about people adrift and their convoluted journeys in the search for some kind of love. When the desperately insecure and emotionally inarticulate John breaks up with Deirdre to 'give her a little test' his plan backfires leaving her broken-hearted and him alone and miserable. Through chance and coincidence, their break-up triggers a roller coaster ride of interweaving escapades in the lives of everyone around them. Intermission presents a slice of life, the passage between breaking up and making up, exploring how our lives intersect, and the power we all possess to affect the lives of those around us.", 
+    "genres": "Comedy, Crime, Drama", 
+    "release_year": "2003", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "unique", 
+                    "abusive"
+                ], 
+                "role": "Beard of Sorrow: Rare possibly unique female example - Sally, traumatised by an abusive relationship. \"She's got a moustache! Whatever she was doing before, waxing, or shaving - she's stopped\"", 
+                "id": "BeardOfSorrow"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Sally", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Intermission: \"Do I have a Ronnie?\"", 
+                "id": "GirlsWithMoustaches"
+            }
+        ]
+    }, 
+    "imdbid": "tt0332658", 
+    "poster_url": "Intermission.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlsWithMoustaches", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "ForrestGump", 
+            "name": "Forrest Gump", 
+            "poster_url": "ForrestGump.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }
+    ], 
+    "id": "Intermission", 
+    "name": "Intermission"
+}

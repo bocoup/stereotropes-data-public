@@ -1,0 +1,80 @@
+{
+    "plot": "A small group of typical Tromaville citizens find themselves in the path of a terrorist army controlled by the power elite. The freedom of Tromaville and the world is at stake! Troma's War creates new kinds of heroes. A used car salesman, a handsome environmentalist, an obese junk-food gourmand, a seventy-year-old housewife, some sensational young women, a year old jingoistic baby and more sensational women all become deadly soldiers...", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandma", 
+                "id": "BadassGrandpa"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Parodied in the movie Troma's War, where a screaming woman appears during the opening... and is promptly shot.", 
+                "id": "ScreamingWoman"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Screaming Woman: Parodied - she's the first to go.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0096310", 
+    "poster_url": "TromasWar.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Batman", 
+            "name": "Batman", 
+            "poster_url": "Batman.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Outlander", 
+            "name": "Outlander", 
+            "poster_url": "Outlander.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Kagemusha", 
+            "name": "Kagemusha", 
+            "poster_url": "Kagemusha.jpg"
+        }
+    ], 
+    "id": "TromasWar", 
+    "name": "Troma's War"
+}

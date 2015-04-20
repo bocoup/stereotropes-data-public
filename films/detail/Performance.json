@@ -1,0 +1,90 @@
+{
+    "plot": "Chas, a violent and psychotic East London gangster needs a place to lie low after a hit that should never have been carried out. He finds the perfect cover in the form of guest house run by the mysterious Mr. Turner, a one-time rock superstar, who is looking for the right spark to rekindle his faded talent.", 
+    "genres": "Crime, Drama", 
+    "release_year": "1970", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "heavy", 
+                    "homoerotic", 
+                    "full"
+                ], 
+                "role": "Gayngster: What initially is heavy homoerotic innuendo about Flowers and his gang is then made full text when we see that he and one of his inner circle share a bedroom.", 
+                "id": "Gayngster"
+            }, 
+            {
+                "adjectives": [
+                    "homophobic"
+                ], 
+                "role": "Harry Flowers in Performance. The main character, Chas, is homophobic and in deep denial about his boss.", 
+                "id": "Gayngster"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sharp Dressed Man: Chas, until Turner persuades him to go from Mod to Hippie.", 
+                "id": "SharpDressedMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "White Dwarf Starlet: Turner", 
+                "id": "WhiteDwarfStarlet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0066214", 
+    "poster_url": "Performance.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "Gayngster"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "Gayngster"
+            ], 
+            "shared_count": 2, 
+            "id": "TheItalianJob1969", 
+            "name": "The Italian Job", 
+            "poster_url": "TheItalianJob1969.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "Gayngster"
+            ], 
+            "shared_count": 2, 
+            "id": "LayerCake", 
+            "name": "Layer Cake", 
+            "poster_url": "LayerCake.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan"
+            ], 
+            "shared_count": 1, 
+            "id": "X-Men", 
+            "name": "X-Men", 
+            "poster_url": "X-Men.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan"
+            ], 
+            "shared_count": 1, 
+            "id": "RawDeal", 
+            "name": "Raw Deal", 
+            "poster_url": "RawDeal.jpg"
+        }
+    ], 
+    "id": "Performance", 
+    "name": "Performance"
+}

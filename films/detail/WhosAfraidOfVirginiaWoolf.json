@@ -1,0 +1,82 @@
+{
+    "plot": "George and Martha are a middle aged married couple, whose charged relationship is defined by vitriolic verbal battles, which underlies what seems like an emotional dependence upon each other. This verbal abuse is fueled by an excessive consumption of alcohol. George being an associate History professor in a New Carthage university where Martha's father is the President adds an extra dimension to their relationship. Late one Saturday evening after a faculty mixer, Martha invites Nick and Honey, an ambitious young Biology professor new to the university and his mousy wife, over for a nightcap. As the evening progresses, Nick and Honey, plied with more alcohol, get caught up in George and Martha's games of needing to hurt each other and everyone around them. The ultimate abuse comes in the form of talk of George and Martha's unseen sixteen year old son, whose birthday is the following day.", 
+    "genres": "Drama", 
+    "release_year": "1966", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Henpecked Husband: At first George appears to be this in relation to Martha.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Loins Sleep Tonight: Nick turns out to be \"a flop.\"", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "future"
+                ], 
+                "role": "Lady Drunk: Martha. Heavily implied to be Honey's future.", 
+                "id": "LadyDrunk"
+            }
+        ]
+    }, 
+    "imdbid": "tt0061184", 
+    "poster_url": "WhosAfraidOfVirginiaWoolf.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyDrunk", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "AnimalHouse", 
+            "name": "Animal House", 
+            "poster_url": "AnimalHouse.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "AuntieMame", 
+            "name": "Auntie Mame", 
+            "poster_url": "AuntieMame.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "SevenFacesOfDrLao", 
+            "name": "7 Faces of Dr. Lao", 
+            "poster_url": "SevenFacesOfDrLao.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "RebelWithoutACause", 
+            "name": "Rebel Without a Cause", 
+            "poster_url": "RebelWithoutACause.jpg"
+        }
+    ], 
+    "id": "WhosAfraidOfVirginiaWoolf", 
+    "name": "Who's Afraid of Virginia Woolf?"
+}

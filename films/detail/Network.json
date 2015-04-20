@@ -1,0 +1,104 @@
+{
+    "plot": "In the 1970s, terrorist violence is the stuff of networks' nightly news programming and the corporate structure of the UBS Television Network is changing. Meanwhile, Howard Beale, the aging UBS news anchor, has lost his once strong ratings share and so the network fires him. Beale reacts in an unexpected way. We then see how this affects the fortunes of Beale, his coworkers (Max Schumacher and Diana Christensen), and the network.", 
+    "genres": "Drama", 
+    "release_year": "1976", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: The president of the network, until he's replaced by Hackett.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: Beale.", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Howard Beale from Network", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "criminal", 
+                    "laid-back", 
+                    "big", 
+                    "Give"
+                ], 
+                "role": "Scary Black Man: The Great Ahmed Khan. Subverted in that he portrays himself as a criminal mastermind, but when he appears onscreen in person he's eating fried chicken and seems kind of dimwitted. Or at least very laid-back, even during the big argument in the contract discussion, where he quietly pulls out a gun and fires into the air to shut everybody up, then calmly says \"Give her the fucking overhead clause. Let's get to page twenty-two, 5(a), subsidiary rights....\"", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Emotionless Girl: Diana, in Max's opinion. See \"The Reason You Suck\" Speech.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ice Queen: Diana.", 
+                "id": "IceQueen"
+            }
+        ]
+    }, 
+    "imdbid": "tt0074958", 
+    "poster_url": "Network.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IceQueen", 
+                "GrumpyOldMan", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "LiberalArts", 
+            "name": "Liberal Arts", 
+            "poster_url": "LiberalArts.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan", 
+                "ScaryBlackMan", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "DjangoUnchained", 
+            "name": "Django Unchained", 
+            "poster_url": "DjangoUnchained.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "IceQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "MorningGlory", 
+            "name": "Morning Glory", 
+            "poster_url": "MorningGlory.jpg"
+        }
+    ], 
+    "id": "Network", 
+    "name": "Network"
+}

@@ -1,0 +1,83 @@
+{
+    "plot": "The Justice League are a team of great power, but also of personal secrets they thought safe. That changes when the immortal supervillain, Vandal Savage, has Batman's Batcave secretly raided to learn them all and more. Soon, the Leaguers are individually beset by their enemies who attack them with inescapable death traps specifically designed with that information. With that, all seems lost until an indomitable Knight and a young Titan combine to deliver salvation even as Savage uses the opportunity to implement a far grander scheme.", 
+    "genres": "Animation, Action, Fantasy", 
+    "release_year": "2012", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Ma'alefa'ak"
+                ], 
+                "role": "Blondes are Evil:  Ma'alefa'ak's disguise as a blonde woman.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "Ma'alefa'ak"
+                ], 
+                "role": "Lady in Red: A blonde woman in a red dress J'onn meets in the bar. It was Ma'alefa'ak in disguise.", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: Star Sapphire's problem with Green Lantern.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt2027128", 
+    "similar": [
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "WomanScorned", 
+                "LadyInRed"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "LadyInRed"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieInAChristmasCarol", 
+            "name": "Barbie in A Christmas Carol"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "LadyInRed"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMask", 
+            "name": "The Mask", 
+            "poster_url": "TheMask.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "FatalAttraction", 
+            "name": "Fatal Attraction", 
+            "poster_url": "FatalAttraction.jpg"
+        }
+    ], 
+    "id": "JusticeLeagueDoom", 
+    "name": "Justice League: Doom"
+}

@@ -1,0 +1,88 @@
+{
+    "plot": "A musical adaptation of Colin MacInnes' novel about life in late 1950s London. Nineteen-year-old photographer Colin is hopelessly in love with model Crepe Suzette, but her relationships are strictly connected with her progress in the fashion world. So Colin gets involved with a pop promoter and tries to crack the big time. Meanwhile, racial tension is brewing in Colin's Notting Hill housing estate...", 
+    "genres": "Drama, Fantasy, Musical", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Fabulous"
+                ], 
+                "role": "Camp Gay: The Fabulous Hoplite.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Arthur.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Dido.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian: Big Jill, who runs a brothel.", 
+                "id": "LipstickLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0090585", 
+    "poster_url": "AbsoluteBeginners.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 2, 
+            "id": "Bound", 
+            "name": "Bound", 
+            "poster_url": "Bound.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "KungFuHustle", 
+            "name": "Kung Fu Hustle", 
+            "poster_url": "KungFuHustle.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }
+    ], 
+    "id": "AbsoluteBeginners", 
+    "name": "Absolute Beginners"
+}

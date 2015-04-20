@@ -1,0 +1,94 @@
+{
+    "plot": "Recidivist hold-up man H.I. McDonnough and police woman Edwina marry, only to discover they are unable to conceive a child. Desperate for a baby, the pair decide to kidnap one of the quintuplets of furniture tycoon Nathan Arizona. The McDonnoughs try to keep their crime secret, while friends, co-workers and a feral bounty hunter look to use Nathan Jr. for their own purposes.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Leonard Smalls.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Played with in Raising Arizona:", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "menstrual", 
+                    "real", 
+                    "hard"
+                ], 
+                "role": "Scary Black Man: Sometimes he gets the menstrual cramps real hard.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "ready"
+                ], 
+                "role": "Mama Bear: Ed is ready to throw down with Leonard Smalls over Nathan, despite being unarmed.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093822", 
+    "poster_url": "RaisingArizona.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "MamaBear", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "HeavyRain", 
+            "name": "Heavy Rain"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "MamaBear", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "HorribleBosses", 
+            "name": "Horrible Bosses", 
+            "poster_url": "HorribleBosses.jpg"
+        }
+    ], 
+    "id": "RaisingArizona", 
+    "name": "Raising Arizona"
+}

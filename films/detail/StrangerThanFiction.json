@@ -1,0 +1,81 @@
+{
+    "plot": "Everybody knows that your life is a story. But what if a story was your life? Harold Crick is your average IRS agent: monotonous, boring, and repetitive. But one day this all changes when Harold begins to hear an author inside his head narrating his life. The narrator it is extraordinarily accurate, and Harold recognizes the voice as an esteemed author he saw on TV. But when the narration reveals that he is going to die, Harold must find the author of the story, and ultimately his life, to convince her to change the ending of the story before it is too late.", 
+    "genres": "Comedy, Drama, Fantasy", 
+    "release_year": "2006", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Granola Girl: Ana Pascal, our resident baker.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [
+                    "quite", 
+                    "tax-resistant"
+                ], 
+                "role": "Stranger Than Fiction has the quite badass tax-resistant anarchist baker Ana Pascal.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Ms. Pascal is one of the things that gives Harold something to live for.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0420223", 
+    "poster_url": "StrangerThanFiction.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GranolaGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WithoutAPaddle", 
+            "name": "Without A Paddle", 
+            "poster_url": "WithoutAPaddle.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePerksOfBeingAWallflower", 
+            "name": "The Perks of Being a Wallflower", 
+            "poster_url": "ThePerksOfBeingAWallflower.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hanna", 
+            "name": "Hanna", 
+            "poster_url": "Hanna.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AfterHours", 
+            "name": "After Hours", 
+            "poster_url": "AfterHours.jpg"
+        }
+    ], 
+    "id": "StrangerThanFiction", 
+    "name": "Stranger Than Fiction"
+}

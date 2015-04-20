@@ -1,0 +1,115 @@
+{
+    "plot": "In high school, Schmidt (Jonah Hill) was a dork and Jenko (Channing Tatum) was the popular jock. After graduation, both of them joined the police force and ended up as partners riding bicycles in the city park. Since they are young and look like high school students, they are assigned to an undercover unit to infiltrate a drug ring that is supplying high school students synthetic drugs.", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Angry Black Man: Lampshaded by Dickson. The biker gang also has one of these, their group leader.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Jenko, at least at the beginning of the movie, where he's a jock who's failing all his classes.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [
+                    "classic"
+                ], 
+                "role": "Hunk: Jenko is noted to be a \"classic handsome, none of that hipster 'Am I a girl? Am I a guy? I dunno'.\"", 
+                "id": "Hunk"
+            }, 
+            {
+                "adjectives": [
+                    "high", 
+                    "first"
+                ], 
+                "role": "Jerk Jock: Jenko was one of these in high school, and seemed to have this trait still when he went undercover by punching the first person he saw.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "Sensitive"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Schmidt and Jenko.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Two cops that are undercover as cheerleaders act like this at Jump Street.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Jr. Jr.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt1232829", 
+    "poster_url": "TwentyOneJumpStreet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "Hunk", 
+                "JerkJock", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 4, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "JerkJock", 
+                "AlphaBitch", 
+                "AngryBlackMan"
+            ], 
+            "shared_count": 4, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "SassyBlackWoman", 
+                "AngryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "JerkJock", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }
+    ], 
+    "id": "TwentyOneJumpStreet", 
+    "name": "21 Jump Street"
+}

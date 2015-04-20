@@ -1,0 +1,94 @@
+{
+    "plot": "A young girl is sent to live with her estranged father and his girlfriend at their new home. The father, Alex has plans to spruce up the home with the help of his interior decorator girlfriend, Kim. The previous owner of the home was a famous painter who mysteriously disappeared. Alex's daughter, Sally, soon discovers the cause of the painter's disappearance.", 
+    "genres": "Fantasy, Horror, Thriller", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crusty Caretaker: Mr. Harris.", 
+                "id": "CrustyCaretaker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Kim will do anything to protect Sally, and even gives her life to save her.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "perspective", 
+                    "long", 
+                    "correct"
+                ], 
+                "role": "Missing Mom: From Sally's perspective, her mother pretty much dumped her on her father. The saddest part? She's right. Even worse was that Sally thought she was just visiting. Then she asks her father how long she's going to be staying, and it turns out she's there for keeps. Her mother just didn't tell her, although one could make a case that this was because she thought Sally wouldn't go of she knew what was up. (Given the fact Sally has tried to run away before, she may well have been correct.)", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "due", 
+                    "initial"
+                ], 
+                "role": "Wicked Stepmother: Averted with Kim. She actually tells Alex that she feels like one due to Sally's initial coldness towards her, but she's not even close to actually being wicked.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt1270761", 
+    "poster_url": "DontBeAfraidOfTheDark.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WickedStepmother", 
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteATaleOfTerror", 
+            "name": "Snow White: A Tale of Terror", 
+            "poster_url": "SnowWhiteATaleOfTerror.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "HowToTrainYourDragon2", 
+            "name": "How To Train Your Dragon 2", 
+            "poster_url": "HowToTrainYourDragon2.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedStepmother", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "PansLabyrinth", 
+            "name": "Pan's Labyrinth", 
+            "poster_url": "PansLabyrinth.jpg"
+        }
+    ], 
+    "id": "DontBeAfraidOfTheDark", 
+    "name": "Don't be Afraid of the Dark"
+}

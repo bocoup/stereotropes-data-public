@@ -1,0 +1,73 @@
+{
+    "plot": "Gabriel Caine has just been released from prison when he sets up a bet with a business man. The business man owns most of a boxing-mad town called Diggstown. The bet is that Gabe can find a boxer that will knock out 10 Diggstown men, in a boxing ring, within 24 hours. \"Honey\" Roy Palmer is that man - although at 48, many say he is too old. A sub plot is thrown in about Charles Macum Diggs - the heavyweight champion that gave the town its name - and who is now confined to a wheel-chair.", 
+    "genres": "Drama, Sport", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Honey Roy Palmer is over-the-hill, but still kicks ass in the ring.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "and/or"
+                ], 
+                "role": "Corrupt Hick: Gillon, who has nothing against poisoning and/or killing people to win wagers.", 
+                "id": "CorruptHick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104107", 
+    "poster_url": "Diggstown.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "Troll2", 
+            "name": "Troll 2", 
+            "poster_url": "Troll2.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CorruptHick"
+            ], 
+            "shared_count": 2, 
+            "id": "Casino", 
+            "name": "Casino", 
+            "poster_url": "Casino.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Go", 
+            "name": "Go"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa"
+            ], 
+            "shared_count": 1, 
+            "id": "Kagemusha", 
+            "name": "Kagemusha", 
+            "poster_url": "Kagemusha.jpg"
+        }
+    ], 
+    "id": "Diggstown", 
+    "name": "Diggstown"
+}

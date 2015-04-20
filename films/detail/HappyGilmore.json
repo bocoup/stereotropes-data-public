@@ -1,0 +1,90 @@
+{
+    "plot": "A Hockey player wannabe finds out that he has the most powerful golf drive in history. He joins the P.G.A. tour to make some money to save grandma's house. The downside is that his hocky player mentality doesn't really go on the P.G.A. tour. Especially with the favorite to win the championship.", 
+    "genres": "Comedy, Sport", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "hard"
+                ], 
+                "role": "Badass Grandpa: Happy learns the hard way that Bob Barker is one of these; he gets the shit beaten out of him. Counts as a Real Life Example too; Barker practiced Tang So Doo and was even taught under Chuck Norris at one point.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "obnoxious", 
+                    "arrogant", 
+                    "stereotypical", 
+                    "professional"
+                ], 
+                "role": "Jerk Jock: Shooter McGavin is obnoxious and arrogant and looks down on Happy for being new. He's like the stereotypical high school jock that went professional.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Cool Old Lady: For someone presumably old enough to remember the Great Depression, Grandma Gilmore is surprisingly keen on who Gene Simmons and Brooke Shields are.", 
+                "id": "CoolOldLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116483", 
+    "poster_url": "HappyGilmore.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTripletsOfBelleville", 
+            "name": "The Triplets of Belleville"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "NausicaaOfTheValleyOfTheWind", 
+            "name": "Nausica\u00e4 of the Valley of the Wind", 
+            "poster_url": "NausicaaOfTheValleyOfTheWind.jpg"
+        }
+    ], 
+    "id": "HappyGilmore", 
+    "name": "Happy Gilmore"
+}

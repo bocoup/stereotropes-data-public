@@ -1,0 +1,80 @@
+{
+    "plot": "Cool and deadly NYPD detective John Shaft arrests Walter Wade, Jr. in a racially-motivated slaying. The eye witness disappears, Wade jumps bail for Switzerland, and Shaft is livid. Two years later, Wade returns to face trial, confident his father's money and influence (and racial politics) guarantee an innocent verdict. Shaft looks hard for the witness, so Wade wants someone to kill her. He turns to a ghetto drug king, Peoples Hernandez, who's willing to kill for money, use Wade as a route to rich drug customers, and shaft Shaft. Can Shaft find the witness, convince her to testify, and shepherd her through the hail of bullets that Peoples is sure to let fly?", 
+    "genres": "Action, Crime, Thriller", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Angry Black Man", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shaft! Damn right.", 
+                "id": "AngryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "African", 
+                    "first"
+                ], 
+                "role": "The Chief's Daughter: Shaft woos an African princess in the first sequel.", 
+                "id": "TheChiefsDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0162650", 
+    "poster_url": "Shaft.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChiefsDaughter", 
+                "AngryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChiefsDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChiefsDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "FreeBirds", 
+            "name": "Free Birds", 
+            "poster_url": "FreeBirds.jpg"
+        }, 
+        {
+            "shared": [
+                "AngryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AmericanHistoryX", 
+            "name": "American History X", 
+            "poster_url": "AmericanHistoryX.jpg"
+        }, 
+        {
+            "shared": [
+                "AngryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }
+    ], 
+    "id": "Shaft", 
+    "name": "Shaft"
+}

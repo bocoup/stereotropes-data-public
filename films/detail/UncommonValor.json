@@ -1,0 +1,96 @@
+{
+    "plot": "A group of Vietnam War veterans re-unite to rescue one of their own left behind and taken prisoner by the Vietnamese. Led by his father (a retired Marine Colonel) and supported by a rich businessman whose son is also a POW, the group engages in a dangerous and violent adventure trying to rescue the POWs and at the same time re-direct their lives.", 
+    "genres": "Action, Drama, Thriller", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "snuggle"
+                ], 
+                "role": "Casanova Wannabe: Charts hits on anything that moves. He even tries to sneak up and, erm, snuggle with Action Girl Lai Fun. It doesn't go well.", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [
+                    "capable", 
+                    "anti-personnel"
+                ], 
+                "role": "Cool Old Guy / Badass Grandpa: Xiang, the drug dealer who supplies the mission, and then comes along to man the recoilless rifle and be awesome. Rhodes qualifies, both as a capable leader, and as an anti-personnel sniper.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "early"
+                ], 
+                "role": "Drill Sergeant Nasty: Scott tries to be this early in the veteran's re-training. It doesn't work, as the men see him as The Neidermeyer, when the situation is actually that his father was a pilot shot down in Vietnam, and this is Kevin's way of coming to terms with his loss.", 
+                "id": "DrillSergeantNasty"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Lai Fun, and to a lesser extent, her sister.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0086508", 
+    "poster_url": "UncommonValor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ActionGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ActionGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "InTheNameOfTheKing", 
+            "name": "In The Name Of The King", 
+            "poster_url": "InTheNameOfTheKing.jpg"
+        }
+    ], 
+    "id": "UncommonValor", 
+    "name": "Uncommon Valor"
+}

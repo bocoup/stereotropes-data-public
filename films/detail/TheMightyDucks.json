@@ -1,0 +1,99 @@
+{
+    "plot": "Gordon Bombay, a hotshot lawyer, is haunted by memories of his childhood, when, as the star player in his champion hockey team, he lost the winning goal in a shootout, thereby losing the game, and the approval of his coach. After being charged for drunk driving, the court orders him to coach a peewee hockey team, the worst in the league, Gordon is at first very reluctant. However, he eventually gains the respect of the kids and teaches them how to win, gaining a sponsor on the way and giving the team the name of The Ducks. In the finals, they face Gordon's old team, coached by Gordon's old coach, giving Gordon a chance to face old ghosts.", 
+    "genres": "Action, Comedy, Drama", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Dean"
+                ], 
+                "role": "Bash Brothers: Dean and Fulton are explicitly called \"The Bash Brothers.\"", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [
+                    "unofficial", 
+                    "dirty"
+                ], 
+                "role": "Fulton Reed and Dean Portman in D2: The Mighty Ducks were explicitly called \"the Bash Brothers.\" Also affectionately called \"Enforcers.\"\n An enforcer is actually an unofficial role on an ice hockey team, not a title. Their job is to play dirty and violent.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Charlie has one in The Mighty Ducks.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Charlie (divorce) and Gordon (death) bond over theirs.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "nice"
+                ], 
+                "role": "Spoiled Sweet: Adam Banks turns out to be nice.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104868", 
+    "poster_url": "TheMightyDucks.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DisappearedDad", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "DisappearedDad"
+            ], 
+            "shared_count": 2, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "Hook", 
+            "name": "Hook", 
+            "poster_url": "Hook.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }
+    ], 
+    "id": "TheMightyDucks", 
+    "name": "The Mighty Ducks"
+}

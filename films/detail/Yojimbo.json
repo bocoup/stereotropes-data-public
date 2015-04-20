@@ -1,0 +1,75 @@
+{
+    "plot": "Sanjuro, a wandering samurai enters a rural town in nineteenth century Japan. After learning from the innkeeper that the town is divided between two gangsters, he plays one side off against the other. His efforts are complicated by the arrival of the wily Unosuke, the son of one of the gangsters, who owns a revolver. Unosuke has Sanjuro beaten after he reunites an abducted woman with her husband and son, then massacres his father's opponents. During the slaughter, the samurai escapes with the help of the innkeeper; but while recuperating at a nearby temple, he learns of innkeeper's abduction by Unosuke, and returns to the town to confront him.", 
+    "genres": "Action, Drama", 
+    "release_year": "1961", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Tokuemon, the Sake Brewer.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "nasty"
+                ], 
+                "role": "Evil Matriarch: Seibei's wife is the really nasty one in the family.", 
+                "id": "EvilMatriarch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0055630", 
+    "poster_url": "Yojimbo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "DropDeadGorgeous", 
+            "name": "Drop Dead Gorgeous"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch"
+            ], 
+            "shared_count": 1, 
+            "id": "GangsOfWasseypur", 
+            "name": "Gangs Of Wasseypur", 
+            "poster_url": "GangsOfWasseypur.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }
+    ], 
+    "id": "Yojimbo", 
+    "name": "Yojimbo"
+}

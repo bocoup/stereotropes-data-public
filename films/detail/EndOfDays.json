@@ -1,0 +1,75 @@
+{
+    "plot": "On December 28th, 1999, the citizens of New York City are getting ready for the turn of the millennium. However, the Devil decides to crash the party by coming to the city, inhabiting a man's body, and searching for his chosen bride, a 20-year-old woman named Christine York. [If he bears her child between 11:00 PM and midnight on New Year's Eve], the world will end, and the only hope lies within an atheist ex-cop named Jericho Cane, who no longer believes in God because of the murder of his wife and daughter.", 
+    "genres": "Action, Fantasy, Horror", 
+    "release_year": "1999", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "Damsel in Distress: Christine is chased and/or captured several times in this story because she's a MacGuffin Girl. The Satanists want her for their Evil Plan and some of the Catholics want to kill her to prevent this from happening.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "dark"
+                ], 
+                "role": "Wicked Stepmother: Downplayed with Mabel. She has raised Christine well enough except for keeping that dark secret from her. She also has Super Strength, probably as a result of being part of the cult.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0146675", 
+    "poster_url": "EndOfDays.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "WickedStepmother"
+            ], 
+            "shared_count": 2, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "WickedStepmother"
+            ], 
+            "shared_count": 2, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }
+    ], 
+    "id": "EndOfDays", 
+    "name": "End of Days"
+}

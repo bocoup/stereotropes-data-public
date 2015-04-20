@@ -1,0 +1,79 @@
+{
+    "plot": "Oil billionaire Happer sends Mac to a remote Scotish villiage to secure the property rights for an oil refinery they want to build. Mac teams up with Danny and starts the negotiations, the locals are keen to get their hands on the 'Silver Dollar' and can't believe their luck. However a local hermit and beach scavenger, Ben Knox, lives in a shack on the crucial beach which he also owns. Happer is more interested in the Northern Lights and Danny in a surreal girl with webbed feet, Marina. Mac is used to a Houston office with fax machines but is forced to negotiate on Bens terms.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1983", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cute Clumsy Girl: A rare male example in Danny.", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Marina", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Marina in Local Hero, who actually has an excuse for wearing a bathing suit in the lab and in the field. Played for Laughs, for the most part.", 
+                "id": "HotScientist"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085859", 
+    "poster_url": "LocalHero.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteClumsyGirl", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "Evolution", 
+            "name": "Evolution", 
+            "poster_url": "Evolution.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AgentForHARM", 
+            "name": "Agent for H.A.R.M.", 
+            "poster_url": "AgentForHARM.jpg"
+        }
+    ], 
+    "id": "LocalHero", 
+    "name": "Local Hero"
+}

@@ -1,0 +1,103 @@
+{
+    "plot": "Scott Pilgrim plays in a band which aspires to success. He dates Knives Chau, a high-school girl five years younger, and he hasn't recovered from being dumped by his former girlfriend, now a success with her own band. When Scott falls for Ramona Flowers, he has trouble breaking up with Knives and tries to romance Ramona. As if juggling two women wasn't enough, Ramona comes with baggage: seven ex-lovers, with each of whom Scott must do battle to the death in order to win Ramona.", 
+    "genres": "Action, Comedy, Romance", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "real", 
+                    "stereotypical"
+                ], 
+                "role": "Wallace in Scott Pilgrim vs. The World has no real stereotypical gay affectations. At one point he even remarks that Scott is acting more gay than he is.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Knives Chau from Scott Pilgrim vs. The World though it is probably mostly to emphasize her youth.", 
+                "id": "AsianAirhead"
+            }, 
+            {
+                "adjectives": [
+                    "certain", 
+                    "actual"
+                ], 
+                "role": "Referenced in Scott Pilgrim vs. The World, when Scott admits with a certain scandalized pride that Knives is an actual Catholic schoolgirl, with the uniform and everything.", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "In Scott Pilgrim VS The World, Knives Chau is little too obsessed with Envy Adams.", 
+                "id": "EvenTheGirlsWantHer"
+            }, 
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Scott Pilgrim vs. The World: Ramona Flowers. Arguably it makes sense, because it can be interpreted as Scott having to get over her past and not Ramona having to get over her own, but we still only see her engage female opponents and eventually has to be rescued because she just can't stand up to  Gideon. Being Brainwashed and Crazy may have had something to do with it. In any case, it is explicitly stated that Scott has to be the one fight and defeat the evil X's.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Envy Adams from Scott Pilgrim vs. The World fits the criteria, despite not being Film Noir.", 
+                "id": "TheChanteuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0446029", 
+    "poster_url": "ScottPilgrimVsTheWorld.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChanteuse", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "StraightGay", 
+                "AsianAirhead"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CatholicSchoolGirlsRule"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }
+    ], 
+    "id": "ScottPilgrimVsTheWorld", 
+    "name": "Scott Pilgrim vs. The World"
+}

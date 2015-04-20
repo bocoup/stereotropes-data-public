@@ -1,0 +1,76 @@
+{
+    "plot": "The California coast is terrorized by two enormous prehistoric sea creatures as they battle each other for supremacy of the sea.", 
+    "genres": "Horror, Sci-Fi", 
+    "release_year": "2009", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hot", 
+                    "plain-looking"
+                ], 
+                "role": "Hot Scientist: Clearly what they were going for, but both our protagonists are sort of plain-looking at best.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [
+                    "protective", 
+                    "trouble"
+                ], 
+                "role": "Mama Bear: The Crocodile is extremely protective of her eggs and young. The explanation the two monsters are fighting is the shark is attracted to the cherping sound emitted by the eggs and the Croc is fighting to defend them. They even come to her aid when she's in trouble.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt1350498", 
+    "poster_url": "MegaSharkVsGiantOctopus.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HotScientist", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "RiseOfThePlanetOfTheApes", 
+            "name": "Rise of the Planet of the Apes", 
+            "poster_url": "RiseOfThePlanetOfTheApes.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }
+    ], 
+    "id": "MegaSharkVsGiantOctopus", 
+    "name": "Mega Shark vs. Giant Octopus"
+}

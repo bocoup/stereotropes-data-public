@@ -1,0 +1,81 @@
+{
+    "plot": "This is a very black comedy. A mob courier is hired to transport the heads of eight murder victims to a mob boss. However, the duffel bag gets mixed up with the bag of a college student who is off on a vacation in Mexico with his girlfriend and her parents. However, the mother is a recovering alcoholic whom everyone believes is delusional when she claims to have found heads.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: Dick Bennett (George Hamilton's character)", 
+                "id": "BumblingDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Annette.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman: Both generations of Bennett females.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0118541", 
+    "poster_url": "EightHeadsInADuffelBag.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyDrunk", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackChristmas1974", 
+            "name": "Black Christmas ", 
+            "poster_url": "BlackChristmas1974.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "ManosTheHandsOfFate", 
+            "name": "Manos The Hands of Fate", 
+            "poster_url": "ManosTheHandsOfFate.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "VisitingHours", 
+            "name": "Visiting Hours", 
+            "poster_url": "VisitingHours.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad", 
+                "LadyDrunk"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "AuntieMame", 
+            "name": "Auntie Mame", 
+            "poster_url": "AuntieMame.jpg"
+        }
+    ], 
+    "id": "EightHeadsInADuffelBag", 
+    "name": "8 Heads In A Duffel Bag"
+}

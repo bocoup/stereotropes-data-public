@@ -1,0 +1,116 @@
+{
+    "plot": "Wayne Szalinski is your average \"nutty scientist\", working on a top secret machine that shrinks objects. When it unexpectedly starts working, he's so amazed he forgets to tell his family to be careful. And when they wander into his lab...", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded"
+                ], 
+                "role": "Absent-Minded Professor: Wayne, of course.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [
+                    "absent-minded"
+                ], 
+                "role": "Wayne Szalinski from Honey, I Shrunk the Kids. He is an absent-minded professor, mixed with Man Child to the point of lampshading it in Honey, We Shrunk Ourselves, and he's even more so in the TV series starring Peter Scolari.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [
+                    "intelligent", 
+                    "irresponsible", 
+                    "other"
+                ], 
+                "role": "Honey, I Shrunk the Kids Wayne Szalinski is a more highly intelligent version of the Bumbling Dad. But he is far from irresponsible, even though his inventions have done bizarre things to his loved ones. Big Russ Thompson, on the other hand...", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Ricky in Honey, We Shrunk Ourselves.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Russ Sr.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "good", 
+                    "only"
+                ], 
+                "role": "Amy Szalinski in Honey, I Shrunk the Kids is an example of the daughter of a good guy mad scientist, Wayne Szalinski. However, she's not an only child, as she has a younger brother, Nick, and the sequels include another younger brother named Adam. She is, however, the only girl.", 
+                "id": "MadScientistsBeautifulDaughter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: From Honey, I Blew Up The Kid:", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097523", 
+    "poster_url": "HoneyIShrunkTheKids.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AbsentMindedProfessor", 
+                "MadScientistsBeautifulDaughter", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BumblingDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BumblingDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "LadyAndTheTramp", 
+            "name": "Lady and the Tramp", 
+            "poster_url": "LadyAndTheTramp.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }
+    ], 
+    "id": "HoneyIShrunkTheKids", 
+    "name": "Honey, I Shrunk the Kids"
+}

@@ -1,0 +1,111 @@
+{
+    "plot": "Ben has recently graduated college, with his parents now expecting great things from him. At his \"Homecoming\" party, Mrs. Robinson, the wife of his father's business partner, has Ben drive her home, which leads to an affair between the two. The affair eventually ends, but comes back to haunt him when he finds himself falling for Elaine, Mrs. Robinson's daughter.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1967", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "clear", 
+                    "later", 
+                    "whole", 
+                    "much", 
+                    "young", 
+                    "closing"
+                ], 
+                "role": "Ben from The Graduate. He's unemployed (having just graduated) and doesn't seem to have any prospects, and is never presented as particularly handsome. The script makes it pretty clear he was a virgin (he denies it, but not convincingly.) And yet Mrs. Robinson seduces him, and then later her daughter ditches her whole life, including the man she literally just married, to run off with him. Their actions don't have much to do with him: the mother is lonely and looking for some young meat, while the daughter is dissatisfied and looking to rebel, an act she clearly begins to regret in the closing shot.", 
+                "id": "KavorkaMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Kavorka Man: Ben is plain, awkward, unemployed, with no prospects or ambition for getting them. And yet a mother and daughter fight over and both throw their lives away for him.", 
+                "id": "KavorkaMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "alcoholic", 
+                    "tragic", 
+                    "major", 
+                    "pregnant", 
+                    "young", 
+                    "sympathetic"
+                ], 
+                "role": "Broken Bird: Mrs. Robinson is a lonely, depressed, alcoholic housewife. Just try not to pity her with her tragic expression when she confesses her major was  art. She had to give up on her dreams when she got pregnant and married young, and she'd be the most sympathetic character in the story if not for the fact she apparently feels that since she had to suffer a Shotgun Wedding because of her daughter, then she should force her daughter to have one too.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Mrs. Robinson, of course.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mrs. Robinson: The Trope Namer.", 
+                "id": "MrsRobinson"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Mrs. Robinson becomes a rather twisted version of this vis-\u00e0-vis Elaine.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0061722", 
+    "poster_url": "TheGraduate.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "Nixon", 
+            "name": "Nixon", 
+            "poster_url": "Nixon.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "MrsRobinson"
+            ], 
+            "shared_count": 2, 
+            "id": "CloselyWatchedTrains", 
+            "name": "Closely Watched Trains", 
+            "poster_url": "CloselyWatchedTrains.jpg"
+        }
+    ], 
+    "id": "TheGraduate", 
+    "name": "The Graduate"
+}

@@ -1,0 +1,95 @@
+{
+    "plot": "The tough biker Harley and his no less tough cowboy friend Marlboro learn that an old friend of theirs will lose his bar, because a bank wants to build a new complex there and demands 2.5 million dollars for a new contract in advance. Harley and Marlboro decide to help him by robbing the corrupt bank. Unfortunately they rob the wrong safety transport and get hold of an amount of a new synthetic drug. Now they are targeted both by criminal bankers and killers of the drug mob.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Marlboro's.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: The owner of the Rock n' Roll Bar, who also acts as a surrogate father figure for Harley, Marlboro, Jack and Jose.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "beaten"
+                ], 
+                "role": "Neutral Female: Kimiko does absolutely nothing but stand and watch as her boss is, in order: held at gunpoint, beaten and bloodied, and sent careening to his death.", 
+                "id": "NeutralFemale"
+            }, 
+            {
+                "adjectives": [
+                    "secretary"
+                ], 
+                "role": "Sexy Secretary: Chance's secretary Kimiko, as played by Tia Carrere.", 
+                "id": "SexySecretary"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chanteuse: Lulu Daniels.", 
+                "id": "TheChanteuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102005", 
+    "poster_url": "HarleyDavidsonAndTheMarlboroMan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SexySecretary", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "RIPD", 
+            "name": "R.I.P.D.", 
+            "poster_url": "RIPD.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheKarateKid", 
+            "name": "The Karate Kid", 
+            "poster_url": "TheKarateKid.jpg"
+        }
+    ], 
+    "id": "HarleyDavidsonAndTheMarlboroMan", 
+    "name": "Harley Davidson and the Marlboro Man"
+}

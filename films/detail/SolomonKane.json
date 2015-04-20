@@ -1,0 +1,84 @@
+{
+    "plot": "Once a mercenary of Queen Elizabeth I fighting Spaniards in Africa, Solomon met the Devil's Reaper and discovered he was bound for hell. Barely escaping, he soon renounced violence to atone for his past sins, seeking out redemption in a life of peace. That is until the followers of sorcerer Malachi kidnap a Puritan girl, Meredith Crowthorn, and brutally slaughter her family before his very eyes, forcing Solomon to take up arms and return to his violent ways once more to rescue her.", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Knight Errant: Solomon Kane is this trope.  The film is essentially how he becomes the Knight Errant, hunting evil across the world.", 
+                "id": "KnightErrant"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Meredith Crowthorn", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "classic", 
+                    "hag", 
+                    "complete"
+                ], 
+                "role": "Wicked Witch: Pretty much your classic ugly hag, complete with cackling.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0970452", 
+    "poster_url": "SolomonKane.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "KnightErrant"
+            ], 
+            "shared_count": 2, 
+            "id": "LemonadeJoe", 
+            "name": "Lemonade Joe", 
+            "poster_url": "LemonadeJoe.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "WickedWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBeastmaster", 
+            "name": "The Beastmaster", 
+            "poster_url": "TheBeastmaster.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "WickedWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDayTheEarthFroze", 
+            "name": "The Day the Earth Froze", 
+            "poster_url": "TheDayTheEarthFroze.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }
+    ], 
+    "id": "SolomonKane", 
+    "name": "Solomon Kane"
+}

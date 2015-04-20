@@ -1,0 +1,65 @@
+{
+    "plot": "The film tells the story of the life of Mexican \"Tejano\" style singer Selena Quintanilla-Perez and the progress of her career resulting in her No. 1 US album.", 
+    "genres": "Biography, Drama, Music", 
+    "release_year": "1997", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Tomboy Selena who enjoyed playing outdoors, vs. girly girl Suzette who did not want to be a drummer because \"girls don't play drums\".", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120094", 
+    "poster_url": "Selena.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "KuchKuchHotaHai", 
+            "name": "Kuch Kuch Hota Hai", 
+            "poster_url": "KuchKuchHotaHai.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ALeagueOfTheirOwn", 
+            "name": "A League of Their Own", 
+            "poster_url": "ALeagueOfTheirOwn.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "NowAndThen", 
+            "name": "Now And Then", 
+            "poster_url": "NowAndThen.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheDarkKnightReturns", 
+            "name": "Batman: The Dark Knight Returns", 
+            "poster_url": "BatmanTheDarkKnightReturns.jpg"
+        }
+    ], 
+    "id": "Selena", 
+    "name": "Selena"
+}

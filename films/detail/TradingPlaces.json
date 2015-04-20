@@ -1,0 +1,111 @@
+{
+    "plot": "Louis Winthorpe is a businessman who works for commodities brokerage firm of Duke and Duke owned by the brothers Mortimer and Randolph Duke. Now they bicker over the most trivial of matters and what they are bickering about is whether it's a person's environment or heredity that determines how well they will do in life. When Winthorpe bumps into Billy Ray Valentine, a street hustler and assumes he is trying to rob him, he has him arrested. Upon seeing how different the two men are, the brothers decide to make a wager as to what would happen if Winthorpe loses his job, his home and is shunned by everyone he knows and if Valentine was given Winthorpe's job. So they proceed to have Winthorpe arrested and to be placed in a compromising position in front of his girlfriend. So all he has to rely on is the hooker who was hired to ruin him.", 
+    "genres": "Comedy", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "certain"
+                ], 
+                "role": "Angry Black Man: Billy Ray to a certain extent.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "scary"
+                ], 
+                "role": "Scary Black Man: \"Big Black Guy\" and \"Even Bigger Black Guy.\" They're less scary after getting drunk at his house party.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Fanservice Extra: The topless girls at Billy Ray's party.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Ophelia to a T.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "current", 
+                    "many", 
+                    "other", 
+                    "guilty", 
+                    "fianc\u00e9e"
+                ], 
+                "role": "Ophelia in Trading Places. She explains that she might be a hooker, but she does not use drugs, she does not have a pimp, and at her current pace she will have enough money to retire in five years, which puts her far in advance of many other women, both in and out of her profession. She helps out Winthrope because she feels guilty that she accidently ruined his relationship with his fianc\u00e9e.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Jamie Lee Curtis in lederhosen and topless! Winthorpe's fiance ain't too shabby either when she strips down.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0086465", 
+    "poster_url": "TradingPlaces.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "HookerWithAHeartOfGold", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "AngryBlackMan", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "HaroldAndKumarEscapeFromGuantanamoBay", 
+            "name": "Harold & Kumar Escape from Guantanamo Bay", 
+            "poster_url": "HaroldAndKumarEscapeFromGuantanamoBay.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HookerWithAHeartOfGold", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "DemonKnight", 
+            "name": "Demon Knight", 
+            "poster_url": "DemonKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "AngryBlackMan", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "DoTheRightThing", 
+            "name": "Do the Right Thing", 
+            "poster_url": "DoTheRightThing.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }
+    ], 
+    "id": "TradingPlaces", 
+    "name": "Trading Places"
+}

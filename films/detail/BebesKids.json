@@ -1,0 +1,89 @@
+{
+    "plot": "Robin Harris recounting his disastrous first date with the beautiful girl named Jamika. Tagging along for the date are Jamika's mild-mannered son Leon and Jamika's friend Bebe's three rude, crude, and obnoxious kids to a theme park called Fun World. Chaos ensues when Bebe's kids enter the theme park with adventures including being chased by a group of government agents, destroying the Titanic, and being on trial. Also causing trouble when a first date turns sour due to interference by Harris' alimony-demanding ex-wife Dorthea and her best friend Vivian.", 
+    "genres": "Animation, Comedy, Musical", 
+    "release_year": "1992", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Lashawn.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: LaShawn.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Little Miss Badass: LaShawn.", 
+                "id": "LittleMissBadass"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Women", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0103783", 
+    "poster_url": "BebesKids.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "GirlishPigtails", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "GirlishPigtails", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Kick-Ass", 
+            "name": "Kick-Ass", 
+            "poster_url": "Kick-Ass.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MysteryMen", 
+            "name": "Mystery Men", 
+            "poster_url": "MysteryMen.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "BebesKids", 
+    "name": "Bebe's Kids"
+}

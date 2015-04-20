@@ -1,0 +1,90 @@
+{
+    "plot": "Three pets (Chance, a young dog unfamiliar with the world; Shadow, an aging, wise dog; and Sassy, a snobby cat) are left behind when their family goes on vacation. Unsure of what happened, the animals set out on a quest to find their family. This journey across America is very dangerous and the animals risk never seeing their masters again. The group of pets travel across forested mountains and areas of wide-open countryside, while their family searches for them in the same areas.", 
+    "genres": "Adventure, Drama, Family", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Shadow's an older dog, but that won't stop him from trekking across the wilderness to get his boy back.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Bando thinks of Delilah as his girlfriend, in spite of the fact that Delilah has told him multiple times that they're friends, nothing else.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "literal", 
+                    "bear", 
+                    "later"
+                ], 
+                "role": "Mama Bear: A rather literal example: Chance scares away two bear cubs who were stealing his fish. He later regrets this decision and barely escape with his life when their mom arrives.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Fake Cutie: Sassy acts less bratty around humans.", 
+                "id": "TheFakeCutie"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107131", 
+    "poster_url": "HomewardBoundTheIncredibleJourney.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "TheFakeCutie", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDescent", 
+            "name": "The Descent", 
+            "poster_url": "TheDescent.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "LegendsOfTheFall", 
+            "name": "Legends Of The Fall"
+        }
+    ], 
+    "id": "HomewardBoundTheIncredibleJourney", 
+    "name": "Homeward Bound: The Incredible Journey"
+}

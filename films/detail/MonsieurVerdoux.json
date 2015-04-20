@@ -1,0 +1,64 @@
+{
+    "plot": "Monsieur Verdoux is a bluebeard, he marries women and kills them after the marriage to get the money he needs for his family. But with two ladies he has bad luck.", 
+    "genres": "Comedy, Crime, Drama", 
+    "release_year": "1947", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Bluebeard: Henri Verdoux.", 
+                "id": "TheBlueBeard"
+            }
+        ]
+    }, 
+    "imdbid": "tt0039631", 
+    "poster_url": "MonsieurVerdoux.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheBlueBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "SoulsForSale", 
+            "name": "Souls For Sale"
+        }, 
+        {
+            "shared": [
+                "TheBlueBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "CriminallyInsane", 
+            "name": "Criminally Insane", 
+            "poster_url": "CriminallyInsane.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBlueBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScreamingSkull", 
+            "name": "The Screaming Skull", 
+            "poster_url": "TheScreamingSkull.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBlueBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "TheAmazingSpiderMan", 
+            "name": "The Amazing Spider-Man", 
+            "poster_url": "TheAmazingSpiderMan.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBlueBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "ShadowOfADoubt", 
+            "name": "Shadow of a Doubt", 
+            "poster_url": "ShadowOfADoubt.jpg"
+        }
+    ], 
+    "id": "MonsieurVerdoux", 
+    "name": "Monsieur Verdoux"
+}

@@ -1,0 +1,78 @@
+{
+    "plot": "A kindergarten director Troshkin is a dead ringer for a criminal nicknamed \"Docent\" who stole the priceless headpiece of Alexander the Great during an archaeological expedition. But after militia \"inputs\" Troshkin into the criminal environment he has nothing left to do but to carefully play out the part of his \"evil twin\".", 
+    "genres": "Comedy, Crime, Drama", 
+    "release_year": "1971", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "gang", 
+                    "low-profile", 
+                    "old", 
+                    "Cross-eyed"
+                ], 
+                "role": "Disguised in Drag: gang, to keep low-profile in Moscow, disguise themselves as bunch of old women. Then, Cross-eyed tries to flirt with a girl he met on the street. And then enters men's room in the theater.", 
+                "id": "DisguisedInDrag"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "whole"
+                ], 
+                "role": "The Chick: Vasily Alibabaevich. He was incarcerated for petty fraud (mixing gasoline with donkey urine and then selling it), has soft heart, loves children and his mother, hates himself for stealing money, cooks the food, washes clothes, and works as a conscience for the whole gang", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0068519", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "LupinIIIOperationReturnTheTreasure", 
+            "name": "Lupin III Operation Return The Treasure"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick"
+            ], 
+            "shared_count": 1, 
+            "id": "BarbieAFashionFairytale", 
+            "name": "Barbie A Fashion Fairytale"
+        }
+    ], 
+    "id": "GentlemenOfFortune", 
+    "name": "Gentlemen of Fortune"
+}

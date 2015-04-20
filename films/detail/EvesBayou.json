@@ -1,0 +1,106 @@
+{
+    "plot": "The story is set in 1962 Louisiana. The Batiste family is headed by charming doctor Louis. Though he is married to beautiful Roz, he has a weakness for attractive female patients. One night Louis trysts with married and sexy Metty Mereaux, not knowing that he is observed by his youngest daughter Eve, who is there by accident. Eve can not forget the traumatic incident and shares a secret with older sister Cisely. Lies start to roll...", 
+    "genres": "Drama", 
+    "release_year": "1997", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "Gossipy Hens: A few women at the Batistes' party in the beginning. They are even the rare variety that provides exposition, revealing to the audience that Mrs. Moreaux sleeps around and that Louis is the best colored doctor in Louisiana.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Witch: Mozelle.", 
+                "id": "HotWitch"
+            }, 
+            {
+                "adjectives": [
+                    "recent", 
+                    "aware"
+                ], 
+                "role": "Voodoo fortuneteller Elzora from Eve's Bayou. The movie taking place in relatively recent times, she's aware of the imagery and seems to enjoy playing it up as part of her fortuneteller act, and gets cheap laughs from scaring children.", 
+                "id": "WickedWitch"
+            }, 
+            {
+                "adjectives": [
+                    "voodoo-flavored", 
+                    "bad"
+                ], 
+                "role": "Wicked Witch: Elzora is a voodoo-flavored one. She and Mozelle have some unexplained bad blood, and she likes scaring children for laughs.", 
+                "id": "WickedWitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Eve's Bayou, Mozelle is a fortuneteller and hoodoo practitioner whose husbands have a tendency to die.  This isn't always the result of a curse, however. One husband was murdered by her secret lover when they fought over her.", 
+                "id": "WidowWitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Widow Witch: Mozelle, who has gone through three husbands at the start of the movie.", 
+                "id": "WidowWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119080", 
+    "poster_url": "EvesBayou.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WidowWitch", 
+                "HotWitch", 
+                "GossipyHens"
+            ], 
+            "shared_count": 3, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "WidowWitch", 
+                "HotWitch", 
+                "GossipyHens"
+            ], 
+            "shared_count": 3, 
+            "id": "TheWitchesOfEastwick", 
+            "name": "The Witches of Eastwick", 
+            "poster_url": "TheWitchesOfEastwick.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWizardOfOz", 
+            "name": "The Wizard of Oz", 
+            "poster_url": "TheWizardOfOz.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepyHollow", 
+            "name": "Sleepy Hollow", 
+            "poster_url": "SleepyHollow.jpg"
+        }, 
+        {
+            "shared": [
+                "WickedWitch", 
+                "HotWitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }
+    ], 
+    "id": "EvesBayou", 
+    "name": "Eve's Bayou"
+}

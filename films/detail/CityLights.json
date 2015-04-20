@@ -1,0 +1,65 @@
+{
+    "plot": "A tramp falls in love with a beautiful blind girl. Her family is in financial trouble. The tramp's on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1931", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "blind"
+                ], 
+                "role": "Innocent Flower Girl: Poor and blind.", 
+                "id": "InnocentFlowerGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0021749", 
+    "poster_url": "CityLights.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "InnocentFlowerGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "LaBoheme", 
+            "name": "La Boheme"
+        }, 
+        {
+            "shared": [
+                "InnocentFlowerGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Deadman", 
+            "name": "Deadman"
+        }, 
+        {
+            "shared": [
+                "InnocentFlowerGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Hamlet", 
+            "name": "Hamlet", 
+            "poster_url": "Hamlet.jpg"
+        }, 
+        {
+            "shared": [
+                "InnocentFlowerGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Hugo", 
+            "name": "Hugo", 
+            "poster_url": "Hugo.jpg"
+        }, 
+        {
+            "shared": [
+                "InnocentFlowerGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Oliver", 
+            "name": "Oliver!", 
+            "poster_url": "Oliver.jpg"
+        }
+    ], 
+    "id": "CityLights", 
+    "name": "City Lights"
+}

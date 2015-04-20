@@ -1,0 +1,105 @@
+{
+    "plot": "Orphan Mary Katherine Gallagher, an ugly duckling at St. Monica High School, has a dream: to be kissed soulfully. She decides she can realize this dream if she becomes a superstar, so her prayers, her fantasies, and her conversations with her only friend focus on achieving super-stardom. Her big chance is a school talent contest; her main competition is Evian, the school beauty, who is dancing with Sky, the object of Mary Katherine's kiss dream. Mary Katherine gets some talent-show help from her fellow special education students, her grandma, and Jesus, and inspiration from secrets in her past. Watching are Sky, Evian, and a silent classmate.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Big Man on Campus: Skye", 
+                "id": "BigManOnCampus"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Slater", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Evian"
+                ], 
+                "role": "Alpha Bitch: Evian", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Catholic School Girls Rule", 
+                "id": "CatholicSchoolGirlsRule"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Grandma Gallagher is perceived as this.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [
+                    "Evian"
+                ], 
+                "role": "The Cheerleader: Evian", 
+                "id": "TheCheerleader"
+            }
+        ]
+    }, 
+    "imdbid": "tt0167427", 
+    "poster_url": "Superstar.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCheerleader", 
+                "BigManOnCampus", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCheerleader", 
+                "CatholicSchoolGirlsRule", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "JennifersBody", 
+            "name": "Jennifer's Body", 
+            "poster_url": "JennifersBody.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCheerleader", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "BigManOnCampus"
+            ], 
+            "shared_count": 2, 
+            "id": "DeadPoetsSociety", 
+            "name": "Dead Poets Society", 
+            "poster_url": "DeadPoetsSociety.jpg"
+        }
+    ], 
+    "id": "Superstar", 
+    "name": "Superstar"
+}

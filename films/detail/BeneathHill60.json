@@ -1,0 +1,73 @@
+{
+    "plot": "The extraordinary true story of Oliver Woodward. It's 1916 and Woodward must tear himself from his new young love to go to the mud and carnage of the Western Front. Deep beneath the German lines. Woodward and his secret platoon of Australian tunnelers fight to defend a leaking, labyrinthine tunnel system packed with enough high explosives to change the course of the War.", 
+    "genres": "Drama, History, War", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Woodward.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Sgt. Bill Fraser.", 
+                "id": "BadAssMustache"
+            }
+        ]
+    }, 
+    "imdbid": "tt1418646", 
+    "poster_url": "BeneathHill60.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssMustache", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "CrossOfIron", 
+            "name": "Cross Of Iron", 
+            "poster_url": "CrossOfIron.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGunsOfNavarone", 
+            "name": "The Guns of Navarone", 
+            "poster_url": "TheGunsOfNavarone.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "MajorLeague", 
+            "name": "Major League", 
+            "poster_url": "MajorLeague.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "BeneathHill60", 
+    "name": "Beneath Hill 60"
+}

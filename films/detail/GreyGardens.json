@@ -1,0 +1,116 @@
+{
+    "plot": "In 1973, documentary filmmaking brothers Albert Maysles and David Maysles decide to change the focus of their latest project from Jacqueline Kennedy Onassis to her aunt and older cousin, mother and daughter Edith Bouvier Beale - called Big Edie - and Edith 'Little Edie' Bouvier Beale, who were found living in squalor and isolation in the longtime family mansion, Grey Gardens, in East Hampton, New York. Through flashbacks starting in 1936, the path mother and daughter take from their socialite past to the time that the Mayles brothers show their completed film is shown. Big Edie's husband/Little Edie's father, Phelan Beale, controlled the family money, which included providing singing lessons to Big Edie with musician Gould Strong, with who she had more than a musical interest. Big Edie saw herself as a singer, first and foremost. Mother and father also controlled Little Edie's life, they who wanted her to stay at Grey Gardens rather than pursue her dream of becoming a professional dancer and actress in New York City. Phelan and Big Edie's eventual divorce, Little Edie's ill-fated relationship with Cap Krug in New York City, Big Edie's failing health, the pressure Little Edie faced to care for her mother, and a dwindling trust, which is used to maintain a life at Grey Gardens, slowly transform the lives of mother and daughter over the four decades. Mother and daughter agree to be the subjects of the documentary film in an effort to regain their past careers and glories, which never really materialized in their younger days.", 
+    "genres": "Biography, Drama", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "teenaged", 
+                    "only", 
+                    "regulary", 
+                    "thirty-odd"
+                ], 
+                "role": "Handy Man: \"The Marble Faun\", Jerry Torre, the teenaged handyman who is the only person who regulary visits the Beales. Little Edie thinks that Jerry wants sex with her and also is terrified at the prospect that he might move in and become a companion to Big Edie. Torre, who was gay, never did move into the house. He surfaced thirty-odd years later, working as a cab driver in New York City.", 
+                "id": "HandyMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Ladies", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [
+                    "fictional", 
+                    "various"
+                ], 
+                "role": "Crazy Cat Lady: Could be Ur Example. A lot of the fictional cat ladies in various works have been inspired by the Beales. The scene where Big Edie matter-of-factly notes that one of the cats is urinating behind her portrait stands out.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [
+                    "musical", 
+                    "manic", 
+                    "Little", 
+                    "creative", 
+                    "total"
+                ], 
+                "role": "Edith \"Big Edie\" Bouvier-Beales of the Grey Gardens documentary / musical / HBO movie certainly seemed to be this: she loved to sing and dance and host parties, to the annoyance of her staid lawyer husband. Unfortunately she was as stubborn as she was \"manic\" and refused to leave the title 28 room summer cottage even after the money ran out and she and her daughter \"Little\" Edie (a creative MPDG herself) became total recluses.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "My Beloved Smother: Big Edie. Any scenes Little Edie has on her own usually have her mother calling for her in the background.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Old Maid: Little Edie, who has conflicting feelings about the matter.", 
+                "id": "OldMaid"
+            }
+        ]
+    }, 
+    "imdbid": "tt0758751", 
+    "poster_url": "GreyGardens.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CrazyCatLady", 
+                "CoolOldLady", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Titanic", 
+            "name": "Titanic", 
+            "poster_url": "Titanic.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother", 
+                "OldMaid", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "CoolOldLady", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 3, 
+            "id": "HaroldAndMaude", 
+            "name": "Harold and Maude", 
+            "poster_url": "HaroldAndMaude.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }
+    ], 
+    "id": "GreyGardens", 
+    "name": "Grey Gardens"
+}

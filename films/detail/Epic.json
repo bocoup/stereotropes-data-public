@@ -1,0 +1,132 @@
+{
+    "plot": "Young Mary Katherine (M.K.) returns to her eccentric scientist father's home, but his all-consuming quest to discover a tiny civilization in the neighboring forest drives them apart. However, M.K. soon finds herself shrunken down by Queen Tara of that forest who was mortally wounded by the putrefying Boggans, and charged to deliver a pod bearing the new Queen to safety. Together with a veteran Leafman warrior, two goofy mollusks and a young maverick, M.K. agrees to help. As the villainous Boggan leader, Mandrake closes in, M.K. and her new friends must draw on the best of themselves together and discover what they have to save their world.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "messy"
+                ], 
+                "role": "Professor Bomba from Epic, his outdated computers and messy house suggest he really doesn't get out much.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "Professor Bomba from Epic is already unused to interacting with humans, let alone his own daughter.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "single-minded", 
+                    "terrible", 
+                    "free"
+                ], 
+                "role": "Disappeared Dad: Played with. Professor Bomba's single-minded focus on finding the Leafmen caused his wife to leave with his child. But when she returns at age 17, he does a terrible job of bonding with her because he has been alone so long with only a dog for company that he can't shake free of his obsession. When he finally does, it's when she's realized he was right all along.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "Nod's father died prior to the events of Epic. This is mentioned several times.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "In Epic Queen Tara runs through the forest in a leaf dress while commanding the forest to smack her pursuers around.", 
+                "id": "KickingAssInAllHerFinery"
+            }, 
+            {
+                "adjectives": [
+                    "dramatic"
+                ], 
+                "role": "In Epic MK moves in with her father because her mother passed away. It becomes the source of where most of MK's and her dad's dramatic moments come from.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "dramatic"
+                ], 
+                "role": "Missing Mom: MK moves in with her father because her mother passed away. It becomes the source of where most of MK's and her dad's dramatic moments come from.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "MK from Epic.", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: MK, a rare combination with The Protagonist", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0848537", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "PluckyGirl", 
+                "KickingAssInAllHerFinery", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "PluckyGirl", 
+                "KickingAssInAllHerFinery", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "PluckyGirl", 
+                "AbsentMindedProfessor", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "AbsentMindedProfessor", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TheChick", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Dinosaur", 
+            "name": "Dinosaur", 
+            "poster_url": "Dinosaur.jpg"
+        }
+    ], 
+    "id": "Epic", 
+    "name": "Epic"
+}

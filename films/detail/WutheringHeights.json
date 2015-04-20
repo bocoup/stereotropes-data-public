@@ -1,0 +1,94 @@
+{
+    "plot": "The story of unfortunate lovers Heathcliff and Cathy who, despite a deep affection for one another, are forced by circumstance and prejudice to live their apart. Heathcliff and Cathy first meet as children when her father brings the abandoned boy to live with them. When the old man dies several years later Cathy's brother, now the master of the estate, turns Heathcliff out forcing him to live with the servants and working as a stable boy. The barrier of class comes between them and she eventually marries a rich neighbor, Mr. Edgar Linton, at which point Heathcliff disappears. He returns several years later, now a rich man but little can be done.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1939", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "jealous"
+                ], 
+                "role": "Heathcliff in any TV adaptation of Wuthering Heights and Sparkhouse, based on Wuthering Heights, had the character Andrew, who was so jealous at the idea of his ex having sex with someone else that he banged his head against a wall.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Joseph in Wuthering Heights.", 
+                "id": "CrustyCaretaker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ill Boy: Linton Heathcliff", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "bad"
+                ], 
+                "role": "The Ingenue: Isabella Linton, who has no idea what she's getting into when she falls in love with the resident bad boy, Heathcliff.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Catherine of Wuthering Heights has attacks of this towards the end.", 
+                "id": "TheOphelia"
+            }
+        ]
+    }, 
+    "imdbid": "tt0032145", 
+    "poster_url": "WutheringHeights.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IllGirl", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Balto", 
+            "name": "Balto", 
+            "poster_url": "Balto.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGrudge", 
+            "name": "The Grudge", 
+            "poster_url": "TheGrudge.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMothDiaries", 
+            "name": "The Moth Diaries", 
+            "poster_url": "TheMothDiaries.jpg"
+        }
+    ], 
+    "id": "WutheringHeights", 
+    "name": "Wuthering Heights"
+}

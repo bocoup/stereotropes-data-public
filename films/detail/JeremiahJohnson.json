@@ -1,0 +1,94 @@
+{
+    "plot": "A mountain man who wishes to live the life of a hermit becomes the unwilling object of a long vendetta by Indians, and proves to be a match for their warriors in one-on-one combat on the early frontier.", 
+    "genres": "Adventure, Drama, Western", 
+    "release_year": "1972", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Johnson, most of the time, and Bear Claw.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [
+                    "same", 
+                    "famous", 
+                    "real"
+                ], 
+                "role": "Jeremiah Johnson from the movie of the same name is probably one of the most famous examples of this character, he in turn is based of the real life John Johnson, or Liver Eatin' Johnson.", 
+                "id": "MountainMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mountain Man: This is a FILM ABOUT MOUNTAIN MEN.", 
+                "id": "MountainMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "little", 
+                    "reluctant", 
+                    "nice", 
+                    "little"
+                ], 
+                "role": "The Chief's Daughter: Averted. When Johnson is little short of forced into marrying Swan, the daughter of Flathead chief Two Tongues, she isn't attracted to Johnson. She's reluctant to marry him and initially hates the situation she finds herself in. Though we do get a nice little scene in which she kills a bird by throwing a stone at it. So not totally averted.", 
+                "id": "TheChiefsDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt0068762", 
+    "poster_url": "JeremiahJohnson.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChiefsDaughter", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "BrotherBear", 
+            "name": "Brother Bear", 
+            "poster_url": "BrotherBear.jpg"
+        }, 
+        {
+            "shared": [
+                "MountainMan", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "TheOutlawJoseyWales", 
+            "name": "The Outlaw Josey Wales", 
+            "poster_url": "TheOutlawJoseyWales.jpg"
+        }, 
+        {
+            "shared": [
+                "MountainMan", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "DontGoInTheWoods", 
+            "name": "Don't Go in the Woods", 
+            "poster_url": "DontGoInTheWoods.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChiefsDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "Pirates", 
+            "name": "Pirates", 
+            "poster_url": "Pirates.jpg"
+        }
+    ], 
+    "id": "JeremiahJohnson", 
+    "name": "Jeremiah Johnson"
+}

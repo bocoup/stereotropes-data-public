@@ -1,0 +1,100 @@
+{
+    "plot": "N/A", 
+    "genres": "N/A", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Jean-Claude"
+                ], 
+                "role": "The Charmer: Jean-Claude, sometimes.", 
+                "id": "TheCharmer"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Loins Sleep Tonight: Pierrot, while recovering from the shot in his groin. He gets better.", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Bratty Teenage Daughter: Jacqueline (Isabelle Huppert).", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "Marie-Ange", 
+                    "first"
+                ], 
+                "role": "Emotionless Girl: Marie-Ange, at first.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Marie-Ange", 
+                    "first"
+                ], 
+                "role": "Ice Queen: Marie-Ange, at first.", 
+                "id": "IceQueen"
+            }
+        ]
+    }, 
+    "imdbid": "tt0285317", 
+    "similar": [
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "TheCharmer", 
+                "IceQueen"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCharmer", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "MansfieldPark", 
+            "name": "Mansfield Park", 
+            "poster_url": "MansfieldPark.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "IceQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMothDiaries", 
+            "name": "The Moth Diaries", 
+            "poster_url": "TheMothDiaries.jpg"
+        }
+    ], 
+    "id": "LesValseuses", 
+    "name": "Les Valseuses"
+}

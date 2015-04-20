@@ -1,0 +1,101 @@
+{
+    "plot": "An unprecedented blend of real-life heroism and original filmmaking, Act of Valor stars a group of active-duty Navy SEALs in a powerful story of contemporary global anti-terrorism. Inspired by true events, the film combines stunning combat sequences, up-to-the minute battlefield technology and heart-pumping emotion for the ultimate action adventure. Act of Valor takes audiences deep into the secretive world of the most elite, highly trained group of warriors in the modern world. When the rescue of a kidnapped CIA operative leads to the discovery of a deadly terrorist plot against the U.S., a team of SEALs is dispatched on a worldwide manhunt. As the valiant men of Bandito Platoon race to stop a coordinated attack that could kill and wound thousands of American civilians, they must balance their commitment to country, team and their families back home. Each time they accomplish their mission, a new piece of intelligence reveals another shocking twist to the deadly terror plot, which stretches from Chechnya to the Philippines and from Ukraine to Somalia. The widening operation sends the SEALs across the globe as they track the terrorist ring to the U.S.-Mexico border, where they engage in an epic firefight with an outcome that has potentially unimaginable consequences for the future of America.", 
+    "genres": "Action, Thriller, War", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "team-based"
+                ], 
+                "role": "Bash Brothers: A team-based one, with the SEALs and the Mexican Special Forces teaming up to kick cartel and terrorist ass.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "good"
+                ], 
+                "role": "Beard of Evil: Both Christo and Shabal are bearded. Senior Chief, on the other hand, is bearded but good.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Christo and Shabal from Act of Valor. Averted with Senior Chief who is bearded but good.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "semi-Retired", 
+                    "major"
+                ], 
+                "role": "Non-Action Guy: Senior Chief, who serves as the intel specialist and interrogator. Chief's narration suggests that he's more of a semi-Retired Badass and a major part of Mission Control.", 
+                "id": "NonActionGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Sharp-Dressed"
+                ], 
+                "role": "Sharp-Dressed Man: Senior Chief's attire when interrogating Christo, contrasting the fatigues worn earlier.", 
+                "id": "SharpDressedMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt1591479", 
+    "poster_url": "ActOfValor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "SharpDressedMan", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 3, 
+            "id": "HeavyRain", 
+            "name": "Heavy Rain"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Pocahontas", 
+            "name": "Pocahontas", 
+            "poster_url": "Pocahontas.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "SharpDressedMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGodfather", 
+            "name": "The Godfather", 
+            "poster_url": "TheGodfather.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "PacificRim", 
+            "name": "Pacific Rim", 
+            "poster_url": "PacificRim.jpg"
+        }
+    ], 
+    "id": "ActOfValor", 
+    "name": "Act of Valor"
+}

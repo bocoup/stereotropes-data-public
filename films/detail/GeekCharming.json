@@ -1,0 +1,155 @@
+{
+    "plot": "Dylan Shoenfield is the pink princess of the upscale Los Angeles Woodlands Academy. She has the coolest boyfriend, the most popular friends, and a brand-new it bag that everyone covets, but when she accidentally tosses her Serge Sanchez bag into a fountain, this princess comes face-to-face with her own personal frog - self-professed film geek Josh Rosen. In return for rescuing Dylan's bag, Josh convinces Dylan to let him film her for his documentary on high school popularity. Reluctantly, Dylan lets F-list Josh into her A-list world, and is shocked to realize that sometimes nerds can be pretty cool. But when Dylan's so-called prince charming of a boyfriend dumps her flat, her life and her social status comes to a crashing halt. Can Dylan win the Woodlands Academy Fall Formal Leaf Queen crown? Can Josh win the Woodlands Academy 10th Annual Film Festival? Can Dylan, with Josh's help, pull the pieces together to create her own happily-ever-after?", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bastard Boyfriend: Asher.", 
+                "id": "BastardBoyfriend"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Josh's parents are divorced.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: The volleyball team and by extension, Asher.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Alpha Bitch: Dylan. Nicole as well. Suffice it to say that two Alpha Bitches competing against each other is not a pretty sight.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Disposable"
+                ], 
+                "role": "Disposable Woman: The populars treat Dylan like this.", 
+                "id": "DisposableWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl Posse: Hannah and Lola for Dylan, bonus points for their names rhyming.", 
+                "id": "GirlPosse"
+            }, 
+            {
+                "adjectives": [
+                    "typical", 
+                    "reasonable", 
+                    "earth"
+                ], 
+                "role": "Granola Girl: Amy, although in contrast to the typical portrayal of this trope, she is played as very reasonable and down to earth.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Lovable", 
+                    "lovable"
+                ], 
+                "role": "Lovable Alpha Bitch: Dylan, of course. The story revolves around Dylan learning to show her more lovable side openly.", 
+                "id": "LovableAlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Meganekko: Dylan unwillingly has to be this when she accidentally loses a contact lense. She tries to avert it at first, but it doesn't end well.", 
+                "id": "Meganekko"
+            }, 
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "Missing Mom: Dylan's mom passed away when she was a kid. Dylan's main motivation for winning Blossom Queen is because her mother was Blossom Queen.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Caitlin's this for the \"Nontourage\".", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Valley Girl: Dylan and the other \"populars\".", 
+                "id": "ValleyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1835977", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "AlphaBitch", 
+                "JerkJock", 
+                "LovableAlphaBitch", 
+                "MissingMom"
+            ], 
+            "shared_count": 5, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "TheChick", 
+                "JerkJock", 
+                "LovableAlphaBitch", 
+                "Meganekko"
+            ], 
+            "shared_count": 5, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "AlphaBitch", 
+                "JerkJock", 
+                "LovableAlphaBitch"
+            ], 
+            "shared_count": 4, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlPosse", 
+                "JerkJock", 
+                "AlphaBitch", 
+                "ValleyGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "JerkJock", 
+                "LovableAlphaBitch", 
+                "GirlPosse"
+            ], 
+            "shared_count": 4, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }
+    ], 
+    "id": "GeekCharming", 
+    "name": "Geek Charming"
+}

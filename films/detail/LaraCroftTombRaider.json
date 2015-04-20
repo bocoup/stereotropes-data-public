@@ -1,0 +1,119 @@
+{
+    "plot": "A member of a rich British aristocratic family, Lara Croft is a \"tomb raider\" who enjoys collecting ancient artifacts from ruins of temples, cities, etc. worldwide, and doesn't mind going through death-defying dangers to get them. She is skilled in hand-to-hand combat, weapons training, and foreign languages - and does them all in tight outfits. Well, the planets of the solar system are going into planetary alignment (Which occurs every 5,000 years), and a secret society called the Illuminati is seeking an ancient talisman that gives its possessor the ability to control time. However, they need a certain clock/key to help them in their search, and they have to find the talisman in one week or wait until the next planetary alignment to find it again. Lara happens to find that key hidden in a wall of her mansion. The Illuminati steal it, and Lara gets an old letter from her deceased father telling her about the society's agenda (Her father was also the one who hid the key). Now, she must retrieve the key and find and destroy the talisman before the Illuminati can get their hands on it.", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "2001", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "actual"
+                ], 
+                "role": "An actual battling butler appears in the Lara Croft: Tomb Raider movies, dutifully putting on an armoured vest and loading a shotgun before calmly blowing away stooges invading Lara's manor.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "bad", 
+                    "upper"
+                ], 
+                "role": "Battle Butler: When her mansion is being invaded by Manfred's men in the first film, Hillary dons a bulletproof vest and wields a shotgun. Too bad we never get to see him do anything. He shoots from the upper level at the mercenaries breaking into the vault. Unfortunately, he's outgunned.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Alex West and Terry Sheridan.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "ready"
+                ], 
+                "role": "Lara Croft in Tomb Raider (the movie) even screws up reheating a ready meal in a microwave.", 
+                "id": "FeminineWomenCanCook"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Lara Croft, naturally.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0146316", 
+    "poster_url": "LaraCroftTombRaider.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "ActionGirl", 
+                "MsFanservice", 
+                "MrFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 5, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "MsFanservice", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MsFanservice", 
+                "MrFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 4, 
+            "id": "TheScorpionKing", 
+            "name": "The Scorpion King", 
+            "poster_url": "TheScorpionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MsFanservice", 
+                "MrFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 4, 
+            "id": "EscapeFromNewYork", 
+            "name": "Escape from New York", 
+            "poster_url": "EscapeFromNewYork.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "LaraCroftTombRaider", 
+    "name": "Lara Croft: Tomb Raider"
+}

@@ -1,0 +1,73 @@
+{
+    "plot": "The teenage DJ is observing his neighbor Nebbercracker on the other side of their street in the suburb that destroys tricycles of children that trespass his lawn. When DJ's parents travel on the eve of Halloween and the abusive nanny Zee stays with him, he calls his clumsy best friend Chowder to play basketball. But when the ball falls in Nebbercracker's lawn, the old man has a siege, and soon they find that the house is a monster. Later the boys rescue the smart Jenny from the house and the trio unsuccessfully tries to convince the babysitter, her boyfriend Bones and two police officers that the haunted house is a monster, but nobody believes them. The teenagers ask their video-game addicted acquaintance Skull how to destroy the house, and they disclose its secret on the Halloween night.", 
+    "genres": "Animation, Comedy, Family", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: Mr. Nebbercracker at least this is what he pretends to be.", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Jenny wears these.", 
+                "id": "GirlishPigtails"
+            }
+        ]
+    }, 
+    "imdbid": "tt0385880", 
+    "poster_url": "MonsterHouse.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMuppetMovie", 
+            "name": "The Muppet Movie", 
+            "poster_url": "TheMuppetMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Balto", 
+            "name": "Balto", 
+            "poster_url": "Balto.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "HorrorOfDracula", 
+            "name": "Horror of Dracula", 
+            "poster_url": "HorrorOfDracula.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AttackOfTheEyeCreatures", 
+            "name": "Attack of the Eye Creatures"
+        }
+    ], 
+    "id": "MonsterHouse", 
+    "name": "Monster House"
+}

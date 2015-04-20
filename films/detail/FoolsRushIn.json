@@ -1,0 +1,92 @@
+{
+    "plot": "Sparks fly and cultures collide in this romantic comedy about a casual night of passion that turns into the love of a lifetime. Alex Whitman is a New Yorker sent to Las Vegas to oversee a construction project. There he meets Isabel Fuentes, and some serious chemistry brings them together for one night. But Alex doesn't see Isabel again until three months later, when he learns she is pregnant. On a whim and prayer, he proposes. However, there's more to marriage than a Vegas chapel and an Elvis impersonator, as Alex and Isabel soon learn.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "concrete"
+                ], 
+                "role": "Papa Wolf: Isabel's father drives his truck into freshly poured concrete and threatens Alex with a baseball bat when he finds out what has happened.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hello, Nurse!: \"Her? The one with the body?\"", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Salma Hayek's character in Fools Rush In, and probably any other movie role she has ever had.", 
+                "id": "SpicyLatina"
+            }, 
+            {
+                "adjectives": [
+                    "classic"
+                ], 
+                "role": "Spicy Latina: Isabel is a classic example", 
+                "id": "SpicyLatina"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119141", 
+    "poster_url": "FoolsRushIn.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HelloNurse", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "Machete", 
+            "name": "Machete", 
+            "poster_url": "Machete.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "MajorPayne", 
+            "name": "Major Payne", 
+            "poster_url": "MajorPayne.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "FourBrothers", 
+            "name": "Four Brothers"
+        }
+    ], 
+    "id": "FoolsRushIn", 
+    "name": "Fools Rush In"
+}

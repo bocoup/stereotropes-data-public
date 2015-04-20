@@ -1,0 +1,121 @@
+{
+    "plot": "Calvin is a genius novelist who begins to type a new novel on his manual typewriter about Ruby, his dream girl. He can't believe his eyes, because the next day, Ruby becomes a real person, and they begin to have a beautiful relationship together. If the relationship isn't perfect, all Calvin has to do is simply type the words on the page and Ruby's actions change to what he needs.", 
+    "genres": "Comedy, Drama, Fantasy", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "social", 
+                    "dependent"
+                ], 
+                "role": "Crazy Jealous Guy: When Ruby's burgeoning social life gets in the way of their time together, Calvin uses his power as her creator to write her into becoming obsessively dependent on him.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: It's implied that Calvin still has not quite gotten over the death of his father.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "Sensitive", 
+                    "gym-addict"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Depressed and cultured writer Calvin and his gym-addict brother Harry.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "great"
+                ], 
+                "role": "Feminine Women Can Cook: Ruby is a great cook.", 
+                "id": "FeminineWomenCanCook"
+            }, 
+            {
+                "adjectives": [
+                    "fictional"
+                ], 
+                "role": "Ruby Sparks - a fictional woman come to life.", 
+                "id": "MagicalGirlfriend"
+            }, 
+            {
+                "adjectives": [
+                    "written/dreamt", 
+                    "real"
+                ], 
+                "role": "In Ruby Sparks, all of Calvin's written/dreamt interactions with Ruby play out like this. Once she's real,  their relationship becomes a Deconstruction.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "written/dreamt", 
+                    "real"
+                ], 
+                "role": "Manic Pixie Dream Girl: All of Calvin's written/dreamt interactions with Ruby play out like this. Once she's real,  their relationship becomes a Deconstruction, with Ruby being a Deconstructed Character Archetype.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1839492", 
+    "poster_url": "RubySparks.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MagicalGirlfriend", 
+                "SensitiveGuyAndManlyMan", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CrazyJealousGuy", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "MagicalGirlfriend", 
+                "SensitiveGuyAndManlyMan", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheFifthElement", 
+            "name": "The Fifth Element", 
+            "poster_url": "TheFifthElement.jpg"
+        }, 
+        {
+            "shared": [
+                "MagicalGirlfriend", 
+                "SensitiveGuyAndManlyMan", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }
+    ], 
+    "id": "RubySparks", 
+    "name": "Ruby Sparks"
+}

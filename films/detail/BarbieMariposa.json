@@ -1,0 +1,96 @@
+{
+    "plot": "Join Barbie in an all-new world of Butterfly Fairies! When the Queen falls ill, it's up to brave Mariposa and her friends to journey beyond the safe borders of the city to find a cure.", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Miles Gloriosus: Lord Gastrous.", 
+                "id": "MilesGloriosus"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Alpha Bitch: Rayna and Rayla, at first.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ill Girl: Queen Marabella.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "The High Queen: Queen Marabella.", 
+                "id": "TheHighQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Valley Girl: The mermaids.", 
+                "id": "ValleyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1201561", 
+    "poster_url": "BarbieMariposa.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ValleyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "MilesGloriosus", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "ObserveAndReport", 
+            "name": "Observe and Report", 
+            "poster_url": "ObserveAndReport.jpg"
+        }, 
+        {
+            "shared": [
+                "MilesGloriosus", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Rango", 
+            "name": "Rango", 
+            "poster_url": "Rango.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Excision", 
+            "name": "Excision", 
+            "poster_url": "Excision.jpg"
+        }, 
+        {
+            "shared": [
+                "MilesGloriosus", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBreakfastClub", 
+            "name": "The Breakfast Club", 
+            "poster_url": "TheBreakfastClub.jpg"
+        }
+    ], 
+    "id": "BarbieMariposa", 
+    "name": "Barbie Mariposa"
+}

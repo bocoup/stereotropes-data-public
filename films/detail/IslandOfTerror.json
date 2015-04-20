@@ -1,0 +1,65 @@
+{
+    "plot": "A small island community is overrun with creeping, blobbish, tentacled monsters which liquefy and digest the bones from living creatures. The community struggles to fight back.", 
+    "genres": "Horror, Sci-Fi", 
+    "release_year": "1966", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Halsey.", 
+                "id": "DirtyCoward"
+            }
+        ]
+    }, 
+    "imdbid": "tt0060548", 
+    "poster_url": "IslandOfTerror.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "ISpitOnYourGrave", 
+            "name": "I Spit on Your Grave", 
+            "poster_url": "ISpitOnYourGrave.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "WomanInTheMoon", 
+            "name": "Woman in the Moon", 
+            "poster_url": "WomanInTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "TheKillerShrews", 
+            "name": "The Killer Shrews", 
+            "poster_url": "TheKillerShrews.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "TheVikings", 
+            "name": "The Vikings", 
+            "poster_url": "TheVikings.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward"
+            ], 
+            "shared_count": 1, 
+            "id": "EscapeFromLA", 
+            "name": "Escape from L.A.", 
+            "poster_url": "EscapeFromLA.jpg"
+        }
+    ], 
+    "id": "IslandOfTerror", 
+    "name": "Island of Terror"
+}

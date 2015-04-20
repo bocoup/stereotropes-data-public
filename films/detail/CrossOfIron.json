@@ -1,0 +1,101 @@
+{
+    "plot": "In 1943, in the Russian front, the decorated leader Rolf Steiner is promoted to Sergeant after another successful mission. Meanwhile the upper-class and arrogant Prussian Captain Hauptmann Stransky is assigned as the new commander of his squad. After a bloody battle of Steiner's squad against the Russian troops led by the brave Lieutenant Meyer that dies in the combat, the coward Stransky claims that he led his squad against the Russian and requests to be awarded with the Iron of Cross to satisfy his personal ambition together with his aristocratic family. Stransky gives the names of Steiner and of the homosexual Lieutenant Triebig as witnesses of his accomplishment, but Steiner, who has problems with the chain of command in the army and with the arrogance of Stransky, refuses to participate in the fraud. When Colonel Brandt gives the order to leave the position in the front, Stransky does not retransmit the order to Steiner's squad, and they are left alone surrounded by the enemy and having to fight to survive.", 
+    "genres": "Action, Drama, War", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Sergeant Steiner, Lieutenant Meyer and Colonel Brandt.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Lance Corporal Reisenauer sports a doozy. His nickname is Schnurrbart (German for mustache.)", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "Russian", 
+                    "same", 
+                    "dyed"
+                ], 
+                "role": "Child Soldiers: The squad capture one during an attack on a Russian mortar position. They adopt him, but Steiner eventually releases him.  he is gunned down by attacking Russians. Another one, played by the same actor but with dyed hair, shows up in the finale  and shoots at Stransky.", 
+                "id": "ChildSoldiers"
+            }, 
+            {
+                "adjectives": [
+                    "stereotypical"
+                ], 
+                "role": "Straight Gay:  Triebig and his orderly show no stereotypical behaviour.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "several", 
+                    "female", 
+                    "Russian", 
+                    "third"
+                ], 
+                "role": "Amazon Brigade: The squad captures several female Russian soldiers in the third act.", 
+                "id": "AmazonBrigade"
+            }
+        ]
+    }, 
+    "imdbid": "tt0074695", 
+    "poster_url": "CrossOfIron.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "BeneathHill60", 
+            "name": "Beneath Hill 60", 
+            "poster_url": "BeneathHill60.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Soldier", 
+            "name": "Soldier", 
+            "poster_url": "Soldier.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "RedCliff", 
+            "name": "Red Cliff", 
+            "poster_url": "RedCliff.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }
+    ], 
+    "id": "CrossOfIron", 
+    "name": "Cross Of Iron"
+}

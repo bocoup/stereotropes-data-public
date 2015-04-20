@@ -1,0 +1,78 @@
+{
+    "plot": "At the beginning of the film, we learn from one of the characters that earthworms can be called to the surface with electricity, but somehow it turns them into vicious flesh-eaters. Sure enough, a storm that night causes some power lines to break and touch the ground, drawing millions of man-eating worms out of the earth, and into town where they quickly start munching on the locals.", 
+    "genres": "Horror", 
+    "release_year": "1976", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "local", 
+                    "trouble-making", 
+                    "murderous", 
+                    "several"
+                ], 
+                "role": "Corrupt Hick: The Sheriff would rather make time with a local waitress than listen to some random, trouble-making city boy tell him about murderous, mutated worms who've killed several citizens - and actually, when you put it like that it's sorta hard to blame him.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "mental", 
+                    "capable"
+                ], 
+                "role": "Dumb Muscle: Roger is clearly lacking in mental faculties, but he's just as plainly capable of snapping Mick in two on his knee.", 
+                "id": "DumbMuscle"
+            }
+        ]
+    }, 
+    "imdbid": "tt0075261", 
+    "poster_url": "Squirm.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "FreeBirds", 
+            "name": "Free Birds", 
+            "poster_url": "FreeBirds.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "FourLions", 
+            "name": "Four Lions", 
+            "poster_url": "FourLions.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "TheAmazingMrBlunden", 
+            "name": "The Amazing Mr Blunden", 
+            "poster_url": "TheAmazingMrBlunden.jpg"
+        }
+    ], 
+    "id": "Squirm", 
+    "name": "Squirm"
+}

@@ -1,0 +1,73 @@
+{
+    "plot": "There's trouble brewing in Bikini Bottom. Someone has stolen King Neptune's crown, and it look like Mr. Krab, SpongeBob's boss, is the culprit. Though he's just been passed over for the promotion of his dreams, SpongeBob stands by his boss, and along with his best pal Patrick, sets out on a treacherous mission to Shell City to reclaim the crown and save Mr. Krab's life.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "instant"
+                ], 
+                "role": "Dennis growing his Badass Mustache in an instant to prove how much manlier he was than SpongeBob and Patrick.", 
+                "id": "BadAssMustache"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Meganekko: Mindy.", 
+                "id": "Meganekko"
+            }
+        ]
+    }, 
+    "imdbid": "tt0345950", 
+    "poster_url": "TheSpongebobSquarepantsMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssMustache"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "Meganekko"
+            ], 
+            "shared_count": 1, 
+            "id": "BarbieAFashionFairytale", 
+            "name": "Barbie A Fashion Fairytale"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache"
+            ], 
+            "shared_count": 1, 
+            "id": "TheOriginalKingsOfComedy", 
+            "name": "The Original Kings of Comedy", 
+            "poster_url": "TheOriginalKingsOfComedy.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache"
+            ], 
+            "shared_count": 1, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }
+    ], 
+    "id": "TheSpongebobSquarepantsMovie", 
+    "name": "The SpongeBob SquarePants Movie"
+}

@@ -1,0 +1,77 @@
+{
+    "plot": "Six friends are on their way to a football game. They decide to camp out for the night and continue driving the next day. The next day the friends find that they're having car troubles, so two of the friends accept a stranger's ride into a small town named Ambrose. The main attraction in Ambrose is the House of Wax. Except something is not right in this town, the wax figures are so realistic and the whole town is deserted - except for two murderous twin brothers. The six friends must fight to survive and escape from being the next exhibits in the House of Wax.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene: Nick and Blake.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Carly,  she kills both of the villains.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0397065", 
+    "poster_url": "HouseOfWax2005.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ConanTheBarbarian2011", 
+            "name": "Conan the Barbarian ", 
+            "poster_url": "ConanTheBarbarian2011.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheDarkKnightReturns", 
+            "name": "Batman: The Dark Knight Returns", 
+            "poster_url": "BatmanTheDarkKnightReturns.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ReignOfFire", 
+            "name": "Reign of Fire", 
+            "poster_url": "ReignOfFire.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "JohnCarter", 
+            "name": "John Carter", 
+            "poster_url": "JohnCarter.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HouseOfWax", 
+            "name": "House of Wax", 
+            "poster_url": "HouseOfWax.jpg"
+        }
+    ], 
+    "id": "HouseOfWax2005", 
+    "name": "House of Wax "
+}

@@ -1,0 +1,77 @@
+{
+    "plot": "Captain James B. Pirk of the Starship C.P.P. Kickstart and his crew, Commander Dwarf and Commander Info, find themselves stranded on 21st Century Earth after a previous adventure to save the planet from hostile aliens.", 
+    "genres": "Animation, Short, Comedy", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe: Pirk, when he actually is around women.", 
+                "id": "CasanovaWannabe"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "primary", 
+                    "good", 
+                    "Captain/Emperor", 
+                    "female", 
+                    "high"
+                ], 
+                "role": "Bridge Bunnies: In \"In the Pirkinning\" the primary job of the helmswoman is to look darn good and make fun of the Captain/Emperor Pirk. The extras at the back of the bridge are also all female (and all in high heels).", 
+                "id": "BridgeBunnies"
+            }
+        ]
+    }, 
+    "imdbid": "tt0978717", 
+    "similar": [
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "SlapShot", 
+            "name": "Slap Shot", 
+            "poster_url": "SlapShot.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "JohnDiesAtTheEnd", 
+            "name": "John Dies at the End", 
+            "poster_url": "JohnDiesAtTheEnd.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 1, 
+            "id": "Shame", 
+            "name": "Shame", 
+            "poster_url": "Shame.jpg"
+        }
+    ], 
+    "id": "StarWreck", 
+    "name": "Star Wreck"
+}

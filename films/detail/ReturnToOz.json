@@ -1,0 +1,104 @@
+{
+    "plot": "Dorothy Gale has recently come home to Kansas from the Land of Oz is now almost back to perfect health since the incident of the tornado, only she cannot get that wonderful place out of her head. She frequently talks about it and cannot get any sleep at night. Aunt Em worries about her health/well-being. Thinking that she is suffering delusional depression and acute insomnia, she decides to take her to see a special doctor in another town. While he tries to treat her with electro-shock treatment and take those nasty dreams away from her head, she is rescued by a mysterious girl who leads her back to Oz for a new adventure.", 
+    "genres": "Adventure, Family, Fantasy", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "ridiculous", 
+                    "first", 
+                    "LARGE"
+                ], 
+                "role": "Battle Butler: Tik-Tok. He even calls himself Oz's \"army\". This looks patently ridiculous at first glance, with him appearing to be a clumsy copper boiler with a head, two spindly arms, and thick legs that make him slower than a glacier... and then you see him single-handedly wipe the floor with a LARGE pack of Wheelers who are pure terror until this point in the story. Then, as the rest of the Wheelers flee, he grabs one in a chokehold and mercilessly interrogates him.", 
+                "id": "BattleButler"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Princess Ozma.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: Played straight with Princess Ozma, averted with Mombi.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Jack Pumpkinhead", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [
+                    "female", 
+                    "ditzy"
+                ], 
+                "role": "Return to Oz features a witch who collects pretty female heads, and swaps between them like another woman changes dresses. (The idea came from the novel Ozma Of Oz, although the character was far less malevolent and more ditzy.)", 
+                "id": "VainSorceress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Vain Sorceress: Princess Mombi.", 
+                "id": "VainSorceress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089908", 
+    "poster_url": "ReturnToOz.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "EverythingsBetterWithPrincesses", 
+                "VainSorceress"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "VainSorceress"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }
+    ], 
+    "id": "ReturnToOz", 
+    "name": "Return to Oz"
+}

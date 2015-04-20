@@ -1,0 +1,105 @@
+{
+    "plot": "A multi-layered satire of race relations in America. Live-action sequences of a prison break bracket the animated story of Brother Rabbit, Brother Bear, and Preacher Fox, who rise to the top of the crime ranks in Harlem by going up against a con-man, a racist cop, and the Mafia.", 
+    "genres": "Animation, Crime, Drama", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Angry Black Man: all three Br'ers are this, but especially Brother Rabbit.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: All of the Godfather's sons, except Sonny.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "black"
+                ], 
+                "role": "Corrupt Hick: The Sheriff who likes to end his Saturday nights with some \"black whoring\".", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Depraved Homosexual/All Gays Are Promiscuous: It was 1975 and this can be easily seen as a parody of gay people. An orgy of Unfortunate Implications ensues. Even Brother Brother Incest.", 
+                "id": "DepravedHomosexual"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "black"
+                ], 
+                "role": "Femme Fatale: Miss America, who routinely uses her sexuality and feminine wiles to murder black men.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms Fan Service: Miss America.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0071361", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "AngryBlackMan", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBigLebowski", 
+            "name": "The Big Lebowski", 
+            "poster_url": "TheBigLebowski.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "Clue", 
+            "name": "Clue", 
+            "poster_url": "Clue.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "BlazingSaddles", 
+            "name": "Blazing Saddles", 
+            "poster_url": "BlazingSaddles.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CampGay", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "DiamondsAreForever", 
+            "name": "Diamonds Are Forever", 
+            "poster_url": "DiamondsAreForever.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CampGay", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "FoodFight", 
+            "name": "Foodfight!", 
+            "poster_url": "FoodFight.jpg"
+        }
+    ], 
+    "id": "Coonskin", 
+    "name": "Coonskin"
+}

@@ -1,0 +1,117 @@
+{
+    "plot": "Henri Danglard, proprietor of the fashionable (but bankrupt) cafe 'Le Paravent Chinois' featuring his mistress, belly dancer Lola, goes slumming in Montmarte (circa 1890) where the then-old-fashioned cancan is still danced. There, he conceives the idea of reviving the cancan as the feature of a new, more popular establishment...and meets Nini, a laundress and natural dancer, whom he hopes to star in his new show. But a tangled maze of jealousies intervenes...", 
+    "genres": "Comedy, Musical, Drama", 
+    "release_year": "1954", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Chivalrous"
+                ], 
+                "role": "Chivalrous Pervert: Danglard may hop from lover to lover, but he behaves like a perfect gentleman with each.", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [
+                    "starlets/creative"
+                ], 
+                "role": "Theater impresario Henri Danglard in French Cancan. He goes through starlets/creative muses/lovers like Kleenex, but whatever woman he's with at the time he treats like gold.", 
+                "id": "ChivalrousPervert"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Paolo.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Kavorka Man: Danglard's mistresses are consistently a couple of decades younger than he is. On the other hand, Danglard is played by the handsome, urbane Jean Gabin...", 
+                "id": "KavorkaMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Lola.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice/Foreign Fanservice: Francoise Arnaul as Nini and Maria Felix as Lola.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Stage Mom: Nini's mother. When she finds out how much stage performers earn, she all but shoves her daughter into Danglard's arms.", 
+                "id": "StageMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ingenue: Nini.", 
+                "id": "TheIngenue"
+            }
+        ]
+    }, 
+    "imdbid": "tt0046998", 
+    "poster_url": "FrenchCancan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KavorkaMan", 
+                "FemmeFatale", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 3, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CrazyJealousGuy", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "FemmeFatale", 
+                "ChivalrousPervert"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "FemmeFatale", 
+                "StageMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TemptationIsland", 
+            "name": "Temptation Island"
+        }
+    ], 
+    "id": "FrenchCancan", 
+    "name": "French Cancan"
+}

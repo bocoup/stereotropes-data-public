@@ -1,0 +1,77 @@
+{
+    "plot": "After her doctors declare her ready to return to society, Ethel leaves the psychiatric hospital and goes to live with her grandmother. She soon develops a few odd habits, in particular a insatiable compulsion to eat massive amounts of food. When grandma locks away the food supply out of fear for her granddaughter's health, Ethel kills her for the keys to the pantry. Left to her own devices, she now indulges her hunger non-stop, murdering anyone who dares to stand in her way. Will anyone be able to put a stop to her?", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1975", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Bluebeard: Edgar.", 
+                "id": "TheBlueBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: The briefly mentioned Mrs. Janowski.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Streetwalker: Rosalie.", 
+                "id": "Streetwalker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0072831", 
+    "poster_url": "CriminallyInsane.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyDrunk", 
+                "Streetwalker"
+            ], 
+            "shared_count": 2, 
+            "id": "Barfly", 
+            "name": "Barfly", 
+            "poster_url": "Barfly.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "AuntieMame", 
+            "name": "Auntie Mame", 
+            "poster_url": "AuntieMame.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "Streetwalker"
+            ], 
+            "shared_count": 1, 
+            "id": "ManOfLaMancha", 
+            "name": "Man Of La Mancha", 
+            "poster_url": "ManOfLaMancha.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBlueBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "SoulsForSale", 
+            "name": "Souls For Sale"
+        }
+    ], 
+    "id": "CriminallyInsane", 
+    "name": "Criminally Insane"
+}

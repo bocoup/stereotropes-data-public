@@ -1,0 +1,110 @@
+{
+    "plot": "Bilbo Baggins the Hobbit was just minding his own business, when his occasional visitor Gandalf the Wizard drops in one evening . One by one, a whole group of dwarves drop in, and before he knows it, Bilbo has joined their quest to reclaim their kingdom, taken from them by an evil dragon named Smaug. The only problem is that Gandalf has told the dwarves that Bilbo is an expert burglar, but he isn't....", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "rightful", 
+                    "general", 
+                    "monster-killing", 
+                    "song", 
+                    "whole"
+                ], 
+                "role": "Thorin, as played by Richard Armitage, in The Hobbit. Warrior, rightful king returning, general monster-killing badass, and a baritone. He even gets to sing a song perfectly suited for his voice.\n Smaug has, by far, the deepest voice in the whole cast. And he's one hell of a dragon.", 
+                "id": "BadassBaritone"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Baritone / Badass Boast: Smaug.", 
+                "id": "BadassBaritone"
+            }, 
+            {
+                "adjectives": [
+                    "short"
+                ], 
+                "role": "Inverted in The Hobbit: according to Word of God, Thorin Oakenshield has a short beard as a sign of mourning, and might grow the beard again should he succeed in claiming back Erebor.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "Gl\u00f3in", 
+                    "bankrupt", 
+                    "willing", 
+                    "good"
+                ], 
+                "role": "Gl\u00f3in in The Hobbit isn't quite so morally bankrupt as not willing to part with his money unless there's a very good reason. Gl\u00f3in initially did not want to contribute his share to paying Bard for supplies and safe passage, but then he saw the Lonely Mountain...", 
+                "id": "MorallyBankruptBanker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "appropriate"
+                ], 
+                "role": "The Hobbit: Dwarves are supposed to be much like what you see in LOTR, with Gimli and his father Gloin looking properly stout and bearded and not what you'd call hot. Then Peter Jackson decided that it'd be appropriate to give the parts of the Line of Durin to Richard Armitage\u25ca as Thorin, Aidan Turner\u25ca as Kili, and David O'Gorman\u25ca as Fili. It worked.", 
+                "id": "EstrogenBrigade"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Balin takes on this role in The Hobbit. So does Dori, but usually when it concerns his youngest brother Ori.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0077687", 
+    "poster_url": "TheHobbit.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TeamMom", 
+                "MorallyBankruptBanker"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "EstrogenBrigade", 
+                "BadassBaritone"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "BadassBaritone"
+            ], 
+            "shared_count": 2, 
+            "id": "MirrorMirror", 
+            "name": "Mirror, Mirror"
+        }, 
+        {
+            "shared": [
+                "EstrogenBrigade", 
+                "BadassBaritone"
+            ], 
+            "shared_count": 2, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "BadassBaritone"
+            ], 
+            "shared_count": 2, 
+            "id": "Stalingrad2013", 
+            "name": "Stalingrad", 
+            "poster_url": "Stalingrad2013.jpg"
+        }
+    ], 
+    "id": "TheHobbit", 
+    "name": "The Hobbit"
+}

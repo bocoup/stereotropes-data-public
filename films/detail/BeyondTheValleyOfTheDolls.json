@@ -1,0 +1,118 @@
+{
+    "plot": "This film is a sequel in name only to Valley of the Dolls (1967). An all-girl rock band goes to Hollywood to make it big. There they find success, but luckily for us, they sink into a cesspool of decadence. This film has a sleeping woman performing on a gun which is in her mouth. It has women posing as men. It has lesbian sex scenes. It is also written by Roger Ebert, who had become friends with Russ Meyer after writing favorable reviews of several of his films.", 
+    "genres": "Comedy, Music", 
+    "release_year": "1970", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Troubled, but Cute: Harris.", 
+                "id": "TroubledButCute"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene: Randy doesn't wear a shirt at all until he gets out of jail", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Z-Man"
+                ], 
+                "role": "Action Girl:  Z-Man, possibly.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Casey.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian: Roxanne and Casey", 
+                "id": "LipstickLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "female", 
+                    "elderly", 
+                    "orange"
+                ], 
+                "role": "Ms. Fanservice: every female character, except perhaps for the elderly woman with orange hair", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Pet.", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Baroness: Roxanne.", 
+                "id": "TheBaroness"
+            }
+        ]
+    }, 
+    "imdbid": "tt0065466", 
+    "poster_url": "BeyondTheValleyOfTheDolls.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheBaroness", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "TroubledButCute", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute", 
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "MsFanservice", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "Grindhouse", 
+            "name": "Grindhouse", 
+            "poster_url": "Grindhouse.jpg"
+        }
+    ], 
+    "id": "BeyondTheValleyOfTheDolls", 
+    "name": "Beyond The Valley Of The Dolls"
+}

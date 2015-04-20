@@ -1,0 +1,153 @@
+{
+    "plot": "This is the story of a young witch, named Kiki who is now thirteen years old. But she is still a little green and plenty headstrong, but also resourceful, imaginative, and determined. With her trusty wisp of a talking cat named Jiji by her side she's ready to take on the world, or at least the quaintly European seaside village she's chosen as her new home.", 
+    "genres": "Animation, Adventure, Drama", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "lovable"
+                ], 
+                "role": "Bumbling Dad: Kiki's father is a lovable version.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Tombo, who combines this with Extraverted Nerd. It takes a while, but eventually Kiki warms up to him.", 
+                "id": "DoggedNiceGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Bitch/Spoiled", 
+                    "brief", 
+                    "first", 
+                    "other", 
+                    "rich"
+                ], 
+                "role": "Alpha Bitch/Spoiled Brat: Two of them, both with very brief screentime. The first one is a snobby older witch Kiki encounters while flying, and the other is Ketto, the rich granddaughter of Madame (who shows up in the credits sequence as a friend of Kiki and Tombo, so she presumably got better.)", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cute Clumsy Girl: Kiki.", 
+                "id": "CuteClumsyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "cute"
+                ], 
+                "role": "Cute Witch: A rather mild version of it (though Kiki's still cute).", 
+                "id": "CuteWitch"
+            }, 
+            {
+                "adjectives": [
+                    "overly", 
+                    "magical"
+                ], 
+                "role": "Kiki from Kiki's Delivery Service. She's a relatively mild version of the folklore witch rather than the overly cute magical girl type.", 
+                "id": "CuteWitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Kiki, although she also takes after her mother.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Kiki's a poster child for this trope. She's a Miyazaki heroine, after all.", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "pregnant", 
+                    "college-student/artist", 
+                    "young", 
+                    "late", 
+                    "teens/early", 
+                    "sweet", 
+                    "old"
+                ], 
+                "role": "In the anime movie Kiki's Delivery Service, Kiki the Witch (Hecate is the Goddess of Witches) is befriended by three women \u2014 Osono (a pregnant woman \u2014 \"Mother\"), the college-student/artist Ursula (young woman in her late teens/early 20's \u2014 \"Maiden\") and \"Madame\", a sweet old lady (quite elderly \u2014 \"Crone\"). Whether or not the authors intended it, there it is.", 
+                "id": "TheHecateSisters"
+            }, 
+            {
+                "adjectives": [
+                    "new", 
+                    "young", 
+                    "mother-to-be", 
+                    "elderly", 
+                    "prior", 
+                    "intentional", 
+                    "actual", 
+                    "modern"
+                ], 
+                "role": "The Hecate Sisters: Kiki in her new life befriends and learns from a young artist, a mother-to-be, and an elderly lady. Given that Miyazaki studied enough Greek mythology to name a prior heroine Nausicaa, this is probably intentional (even though the trope does not occur in actual, genuine Greek myths, only in modern interpretations of them.)", 
+                "id": "TheHecateSisters"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097814", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "DoggedNiceGuy", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "ShowMeLove", 
+            "name": "Show Me Love", 
+            "poster_url": "ShowMeLove.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "DoggedNiceGuy", 
+                "PluckyGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "PluckyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "PluckyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "ALittlePrincess", 
+            "name": "A Little Princess", 
+            "poster_url": "ALittlePrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "PluckyGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheTwilightSamurai", 
+            "name": "The Twilight Samurai", 
+            "poster_url": "TheTwilightSamurai.jpg"
+        }
+    ], 
+    "id": "KikisDeliveryService", 
+    "name": "Kiki's Delivery Service"
+}

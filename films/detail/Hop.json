@@ -1,0 +1,95 @@
+{
+    "plot": "Blending state-of-the-art animation with live action, Hop tells the comic tale of Fred, an out-of-work slacker who accidentally injures the Easter Bunny and must take him in as he recovers. As Fred struggles with the world's worst house guest, both will learn what it takes to finally grow up.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Slacker: James Marsden's character, Fred, at least according to synopsis.", 
+                "id": "TheSlacker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "penchant"
+                ], 
+                "role": "Amazon Brigade: The Pink Berets, fluffy female rabbits who have a penchant for blowgun darts.", 
+                "id": "AmazonBrigade"
+            }, 
+            {
+                "adjectives": [
+                    "female", 
+                    "royal"
+                ], 
+                "role": "In Hop, we have the Pink Berets, a squad of female bunnies described at one point as \"the Easter Bunny's royal guards\".", 
+                "id": "AmazonBrigade"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Samantha, who is actually a cool younger sis but plays the role of an older sibling in trying to help Fred get his act together.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Playboy Bunny: Referenced. See Getting Crap Past the Radar above.", 
+                "id": "PlayboyBunny"
+            }
+        ]
+    }, 
+    "imdbid": "tt1411704", 
+    "poster_url": "Hop.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "AmazonBrigade", 
+                "PlayboyBunny"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "AmazonBrigade"
+            ], 
+            "shared_count": 2, 
+            "id": "StarWarsTheCloneWars", 
+            "name": "Star Wars: The Clone Wars", 
+            "poster_url": "StarWarsTheCloneWars.jpg"
+        }, 
+        {
+            "shared": [
+                "PlayboyBunny", 
+                "AmazonBrigade"
+            ], 
+            "shared_count": 2, 
+            "id": "FairyTail", 
+            "name": "Fairy Tail"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmerica1990", 
+            "name": "Captain America ", 
+            "poster_url": "CaptainAmerica1990.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonBrigade"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }
+    ], 
+    "id": "Hop", 
+    "name": "Hop"
+}

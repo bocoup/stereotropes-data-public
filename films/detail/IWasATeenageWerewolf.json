@@ -1,0 +1,65 @@
+{
+    "plot": "A troubled teenager seeks help through hypnotherapy, but his evil doctor uses him for regression experiments that transform him into a rampaging werewolf.", 
+    "genres": "Horror, Sci-Fi", 
+    "release_year": "1957", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Troubled, but Cute: Tony.", 
+                "id": "TroubledButCute"
+            }
+        ]
+    }, 
+    "imdbid": "tt0050530", 
+    "poster_url": "IWasATeenageWerewolf.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "Gunslinger", 
+            "name": "Gunslinger", 
+            "poster_url": "Gunslinger.gif"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWildOne", 
+            "name": "The Wild One", 
+            "poster_url": "TheWildOne.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "TroubledButCute"
+            ], 
+            "shared_count": 1, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "IWasATeenageWerewolf", 
+    "name": "I Was a Teenage Werewolf"
+}

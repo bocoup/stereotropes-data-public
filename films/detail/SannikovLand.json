@@ -1,0 +1,64 @@
+{
+    "plot": "N/A", 
+    "genres": "Adventure", 
+    "release_year": "1974", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gentleman Adventurer", 
+                "id": "GENTLEMANADVENTURER"
+            }
+        ]
+    }, 
+    "imdbid": "tt0136624", 
+    "similar": [
+        {
+            "shared": [
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScarletPimpernel", 
+            "name": "The Scarlet Pimpernel", 
+            "poster_url": "TheScarletPimpernel.jpg"
+        }, 
+        {
+            "shared": [
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 1, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }, 
+        {
+            "shared": [
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 1, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 1, 
+            "id": "TheSaint", 
+            "name": "The Saint", 
+            "poster_url": "TheSaint.jpg"
+        }
+    ], 
+    "id": "SannikovLand", 
+    "name": "Sannikov Land"
+}

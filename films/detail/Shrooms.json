@@ -1,0 +1,102 @@
+{
+    "plot": "3 couples go to Ireland woods to collect magic mushrooms and trip out. On their way they meet some strange inhabitants of the woods and it doesn't take long until a creepy story is being told at the campfire which might be more than just a story. So strange things happen, people start disappearing, silhouettes move through the woods and the creepy story starts to melt into reality. The horror kicks in along with the effect of the mushrooms.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Bluto.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "certain"
+                ], 
+                "role": "Alpha Bitch: Lisa, to a certain extent.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "Final", 
+                    "final"
+                ], 
+                "role": "Final Girl: Played straight, yet twisted on its head - Tara is not only the final girl, but also the killer.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "whole", 
+                    "driven", 
+                    "titular"
+                ], 
+                "role": "The movie Shrooms gleefully takes aim at the whole concept of the Final Girl. At the end  the Final Girl discovers that she herself is the killer, having been driven insane by the titular Shrooms.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: Possibly Tara.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0492486", 
+    "poster_url": "Shrooms.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "AllTheBoysLoveMandyLane", 
+            "name": "All the Boys Love Mandy Lane", 
+            "poster_url": "AllTheBoysLoveMandyLane.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Carrie", 
+            "name": "Carrie", 
+            "poster_url": "Carrie.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRageCarrie2", 
+            "name": "The Rage: Carrie 2"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }
+    ], 
+    "id": "Shrooms", 
+    "name": "Shrooms"
+}

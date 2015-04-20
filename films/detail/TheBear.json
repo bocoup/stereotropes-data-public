@@ -1,0 +1,63 @@
+{
+    "plot": "The director of _Quest for Fire_ creates yet another film in nature with almost no human dialogue in this picturesque story of an orphaned bear cub who is adopted by an adult male bear and must avoid hunters. Bart the Bear stars in this anthropomorphic fantasy.", 
+    "genres": "Adventure, Family, Drama", 
+    "release_year": "1988", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Papa Bear: Take a wild guess.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0095800", 
+    "poster_url": "TheBear.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "PokemonZoroarkMasterOfIllusions", 
+            "name": "Pok\u00e9mon: Zoroark: Master of Illusions"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }
+    ], 
+    "id": "TheBear", 
+    "name": "The Bear"
+}

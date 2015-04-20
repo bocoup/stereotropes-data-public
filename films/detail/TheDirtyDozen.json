@@ -1,0 +1,90 @@
+{
+    "plot": "A Major with an attitude problem and a history of getting things done is told to interview military prisoners with death sentences or long terms for a dangerous mission; To parachute behind enemy lines and cause havoc for the German Generals at a rest house on the eve of D-Day.", 
+    "genres": "Action, Adventure, War", 
+    "release_year": "1967", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Franko. Justified in that he's smart enough to know the Dozen are getting sent on a Suicide Mission, and he doesn't want to die for nobody.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "major", 
+                    "nasty"
+                ], 
+                "role": "Drill Sergeant Nasty: Although this one is a major (Reisman). The drill sergeant under his command \u2014 Bowren \u2014 is more Reisman's aide de camp to be nasty enough.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Major Reisman serves this role in The Dirty Dozen, \"encouraging\" one of his \"recruits\" up a rope with a submachine gun.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "serial", 
+                    "loose"
+                ], 
+                "role": "Straw Misogynist: Maggott is basically a serial killer who targets women of loose morals (in his view).", 
+                "id": "StrawMisogynist"
+            }
+        ]
+    }, 
+    "imdbid": "tt0061578", 
+    "poster_url": "TheDirtyDozen.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "WatershipDown", 
+            "name": "Watership Down", 
+            "poster_url": "WatershipDown.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "EdgeOfTomorrow", 
+            "name": "Edge of Tomorrow", 
+            "poster_url": "EdgeOfTomorrow.jpg"
+        }
+    ], 
+    "id": "TheDirtyDozen", 
+    "name": "The Dirty Dozen"
+}

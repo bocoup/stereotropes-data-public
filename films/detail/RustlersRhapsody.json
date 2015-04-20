@@ -1,0 +1,79 @@
+{
+    "plot": "While the audience watches a black and white horse opera, a narrator's voice wonders what such a movie would be like today. Rex O'Herlihan, The Singing Cowboy, finds himself in color and enters a clich\u00e9-ridden town, in which the evil cattle baron (Andy Griffith) and the new Italian cowboys (who always wear raincoats no matter how hot it gets) join forces to get him and the sheep ranchers to leave the valley.", 
+    "genres": "Comedy, Western", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "bad", 
+                    "odd", 
+                    "Bad"
+                ], 
+                "role": "In Rustlers Rhapsody, Peter (the sidekick) tells Rex (the hero) that the hired gun the bad guys are sicking on him is named Bob Barber. This sounds odd to Rex. \"Just Bob? Not Bad Bob Barber? Bothersome Bob Barber? Bob the Butcher Barber?\"", 
+                "id": "TheButcher"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "trope-attacking"
+                ], 
+                "role": "Parodied / lampshaded in the trope-attacking movie Rustlers Rhapsody, when the cowboy breezes into town and the drunk offers to show him how it is, he points out a prostitute. \"But I bet she has a heart of gold.\" \"How did you know?\"", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089945", 
+    "poster_url": "RustlersRhapsody.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "TheButcher"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManWhoKnewTooLittle", 
+            "name": "The Man Who Knew Too Little", 
+            "poster_url": "TheManWhoKnewTooLittle.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Purgatory", 
+            "name": "Purgatory", 
+            "poster_url": "Purgatory.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Django", 
+            "name": "Django", 
+            "poster_url": "Django.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "McCabeAndMrsMiller", 
+            "name": "McCabe & Mrs. Miller", 
+            "poster_url": "McCabeAndMrsMiller.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }
+    ], 
+    "id": "RustlersRhapsody", 
+    "name": "Rustlers' Rhapsody"
+}

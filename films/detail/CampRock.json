@@ -1,0 +1,111 @@
+{
+    "plot": "\"Camp Rock\" centers on a teen girl who desperately wants to spend her summer at a prestigious rock camp but can only attend if she works in the kitchen as one of its cooks. When she's overheard singing (but not seen) by a teen pop star at the camp, he is completely taken and sets out to find the girl behind the beautiful voice. But first she must confront her fears, step out of the kitchen and into the spotlight.", 
+    "genres": "Comedy, Family, Musical", 
+    "release_year": "2008", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "over-the-top", 
+                    "song", 
+                    "cool"
+                ], 
+                "role": "Alpha Bitch: Tess, one of the most over-the-top examples. Hell, she even sings a song with lyrics like \"I'm too cool for you\" and \"You see, some are born with beauty, brains, and talent, and they got it all\".", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "over-the-top", 
+                    "song", 
+                    "cool"
+                ], 
+                "role": "Alpha Bitch - Tess, one of the most over-the-top examples. Hell, she even sings a song with lyrics like \"I'm too cool for you\" and \"You see, some are born with beauty, brains, and talent, and they got it all\".", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Her Camp Rock role. It's a miracle there haven't been mass protests at Disney yet.", 
+                "id": "AsianAirhead"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl Posse: Peggy, Ella and briefly Mitchie.", 
+                "id": "GirlPosse"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "second"
+                ], 
+                "role": "Tess Tyler from Camp Rock becomes one by the end of the first movie. And again by the end of the second one.", 
+                "id": "LovableAlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tess Tyler from Camp Rock.", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt1055366", 
+    "poster_url": "CampRock.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlPosse", 
+                "AlphaBitch", 
+                "LovableAlphaBitch", 
+                "RichBitch"
+            ], 
+            "shared_count": 4, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlPosse", 
+                "AlphaBitch", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "ALittlePrincess", 
+            "name": "A Little Princess", 
+            "poster_url": "ALittlePrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "LovableAlphaBitch", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "AlphaBitch", 
+                "LovableAlphaBitch", 
+                "GirlPosse"
+            ], 
+            "shared_count": 3, 
+            "id": "GeekCharming", 
+            "name": "Geek Charming"
+        }, 
+        {
+            "shared": [
+                "GirlPosse", 
+                "AlphaBitch", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHelp", 
+            "name": "The Help", 
+            "poster_url": "TheHelp.jpg"
+        }
+    ], 
+    "id": "CampRock", 
+    "name": "Camp Rock"
+}

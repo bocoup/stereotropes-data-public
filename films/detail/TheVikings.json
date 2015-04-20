@@ -1,0 +1,87 @@
+{
+    "plot": "Einar and Eric are two Viking half-brothers. The former is a great warrior whilst the other is an ex-slave, but neither knows the true identity of the other. When the throne of Northumbria in Britain becomes free for the taking, the two brothers compete against one another for the prize, but they have very different motives - both involving the princess Morgana, however.", 
+    "genres": "Action, Adventure", 
+    "release_year": "1958", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "only"
+                ], 
+                "role": "Beard of Barbarism / Badass Beard: Einar (Kirk Douglas) is the only Viking to not sport one. It doesn't make him any less badass. It does earn him some ridicule from his father.", 
+                "id": "BeardOfBarbarism"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Aella tries to do a runner when the Vikings storm his castle.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Einar.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl in the Tower: Morgana (Janet Leigh) is praying in the dungeon's chapel during the siege.", 
+                "id": "GirlInTheTower"
+            }
+        ]
+    }, 
+    "imdbid": "tt0052365", 
+    "poster_url": "TheVikings.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "GirlInTheTower"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "HellsAngels", 
+            "name": "Hell's Angels", 
+            "poster_url": "HellsAngels.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }
+    ], 
+    "id": "TheVikings", 
+    "name": "The Vikings"
+}

@@ -1,0 +1,80 @@
+{
+    "plot": "A madcap portrayal of William Lightbody's stay at the health farm run by cereal king Dr. John Harvey Kellogg. William's wife, Eleanor, has persuaded him to go to Kellogg to have his system cleaned of impurities. Kellogg is very unconventional, and almost barbaric in his treatments.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Fat, Sweaty Southerner in a White Suit: Dr. Kellogg.", 
+                "id": "FatSweatySouthernerInAWhiteSuit"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Will Lightbody.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hello, Nurse!", 
+                "id": "HelloNurse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0111001", 
+    "poster_url": "TheRoadToWellville.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "SomeLikeItHot", 
+            "name": "Some Like It Hot", 
+            "poster_url": "SomeLikeItHot.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSevenYearItch", 
+            "name": "The Seven Year Itch", 
+            "poster_url": "TheSevenYearItch.jpg"
+        }, 
+        {
+            "shared": [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "HelloNurse"
+            ], 
+            "shared_count": 2, 
+            "id": "Casablanca", 
+            "name": "Casablanca", 
+            "poster_url": "Casablanca.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "HelloNurse"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }
+    ], 
+    "id": "TheRoadToWellville", 
+    "name": "The Road To Wellville"
+}

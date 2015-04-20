@@ -1,0 +1,81 @@
+{
+    "plot": "Mister Roberts is aboard a US cargo ship, working in the Pacific during the Second World War. He'd do anything to leave the quiet of the ship to join in the \"action\". Trouble is, the captain of the ship, is a bit of a tyrant, and isn't willing to sign Roberts' transfer requests. Also on board is Ensign Pulver, who avoids work as best he can, whilst living off the riches of his buying and selling. Roberts and the crew are in constant battle, even over the smallest of disagreements.", 
+    "genres": "Comedy, Drama, War", 
+    "release_year": "1955", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Roberts. He's the one who really runs the supply ship, and he takes care of the men. Completely averted with the ship's official captain Morton.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "higher-ranking", 
+                    "high-class"
+                ], 
+                "role": "Officer and a Gentleman: Roberts. Which upsets the higher-ranking Morton, whose life \u2014 before The War made him a captain \u2014 was getting ordered about by high-class Naval officers.", 
+                "id": "OfficerAndAGentleman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ensign Pulver in Mister Roberts.", 
+                "id": "TheSlacker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0048380", 
+    "poster_url": "MisterRoberts.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "MutinyOnTheBounty", 
+            "name": "Mutiny on the Bounty", 
+            "poster_url": "MutinyOnTheBounty.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "TwentyEightDaysLater", 
+            "name": "28 Days Later", 
+            "poster_url": "TwentyEightDaysLater.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheSlacker", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGunsOfNavarone", 
+            "name": "The Guns of Navarone", 
+            "poster_url": "TheGunsOfNavarone.jpg"
+        }
+    ], 
+    "id": "MisterRoberts", 
+    "name": "Mister Roberts"
+}

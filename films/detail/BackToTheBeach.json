@@ -1,0 +1,81 @@
+{
+    "plot": "Frankie and Annette grow up and have kids in the midwest. They return to LA to visit their daughter who is shacked up with her boyfriend and tries to hide the fact. They begin to have marriage problems when Frankie runs into Connie, who has erected a shrine to him in her night club. Their punk son has joined up with the local surf toughs, and things all come to a head when the toughs challenge the good guys to a surfing duel.", 
+    "genres": "Comedy, Musical", 
+    "release_year": "1987", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Overprotective"
+                ], 
+                "role": "Overprotective Dad", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Surfer Dude: Mountain.", 
+                "id": "SurferDude"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Troy (though in Annette's case he's a Casanova Wannabe).", 
+                "id": "TheCasanova"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092608", 
+    "poster_url": "BackToTheBeach.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "OverprotectiveDad"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "SurferDude"
+            ], 
+            "shared_count": 2, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }
+    ], 
+    "id": "BackToTheBeach", 
+    "name": "Back To The Beach"
+}

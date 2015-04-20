@@ -1,0 +1,104 @@
+{
+    "plot": "In Jersey City, an African American hit man follows \"Hagakure: The Way of the Samurai.\" He lives alone, in simplicity with homing pigeons for company, calling himself Ghost Dog. His master, who saved his life eight years ago, is part of the local mob. When the boss' daughter witnesses one of Ghost Dog's hits, he becomes expendable. The first victims are his birds, and in response, Ghost Dog goes right at his attackers but does not want to harm his master or the young woman. On occasion, he talks with his best friend, a French-speaking Haitian who sells ice cream in the park, and with a child with whom he discusses books. Can he stay true to his code? And if he does, what is his fate?", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "knowledgeable", 
+                    "classic", 
+                    "social", 
+                    "fantasy", 
+                    "multiple"
+                ], 
+                "role": "Cultured Badass: Lets see: Ghost Dog is deeply knowledgeable about and dedicated to the code of Bushido, has a love of everything from classic literature to social rights philosophy to fantasy, he has warrior symbols from multiple cultures in his shack, and raises and trains pigeons.", 
+                "id": "CulturedBadass"
+            }, 
+            {
+                "adjectives": [
+                    "enormous", 
+                    "classic", 
+                    "philosophy", 
+                    "civil", 
+                    "fantasy", 
+                    "multiple"
+                ], 
+                "role": "Ghost Dog is a hitman who is also an enormous fan of Samurai culture and philosophy. And that's only the start of it: he also trains pigeons, reads classic literature along with books about philosophy, civil rights struggles, fantasy novels, and has warrior symbols from multiple cultures in his tiny shack.", 
+                "id": "CulturedBadass"
+            }, 
+            {
+                "adjectives": [
+                    "modern"
+                ], 
+                "role": "Ghost Dog: The Way of the Samurai is a film about a modern samurai (Forrest Whitaker) serving a mob boss on the streets of Jersey City. He reads passages from The Hagakure, a Samurai code, throughout the movie.", 
+                "id": "Samurai"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Rebellious", 
+                    "weird", 
+                    "gothy", 
+                    "rebellious"
+                ], 
+                "role": "Rebellious Mafia Princess: Louise Vargo has a rather weird, slightly gothy, slightly Broken Bird rebellious streak going on.", 
+                "id": "RebelliousPrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0165798", 
+    "poster_url": "GhostDogTheWayOfTheSamurai.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CulturedBadass", 
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 2, 
+            "id": "Dune", 
+            "name": "Dune", 
+            "poster_url": "Dune.jpg"
+        }, 
+        {
+            "shared": [
+                "Samurai", 
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHiddenFortress", 
+            "name": "The Hidden Fortress", 
+            "poster_url": "TheHiddenFortress.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "Samurai"
+            ], 
+            "shared_count": 1, 
+            "id": "Kagemusha", 
+            "name": "Kagemusha", 
+            "poster_url": "Kagemusha.jpg"
+        }, 
+        {
+            "shared": [
+                "RebelliousPrincess"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "GhostDogTheWayOfTheSamurai", 
+    "name": "Ghost Dog: The Way of the Samurai"
+}

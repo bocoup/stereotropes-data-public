@@ -1,0 +1,92 @@
+{
+    "plot": "Protagonist Alex DeLarge is an \"ultraviolent\" youth in futuristic Britain. As with all luck, his eventually runs out and he's arrested and convicted of murder and rape. While in prison, Alex learns of an experimental program in which convicts are programed to detest violence. If he goes through the program, his sentence will be reduced and he will be back on the streets sooner than expected. But Alex's ordeals are far from over once he hits the mean streets of Britain that he had a hand in creating.", 
+    "genres": "Crime, Drama, Sci-Fi", 
+    "release_year": "1971", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "evil"
+                ], 
+                "role": "Mr. Fanservice: Alex may be evil incarnate, but haven't you heard? Evil Is Sexy.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "ill-tempered", 
+                    "kinky"
+                ], 
+                "role": "Crazy Cat Lady: Well, she's not so much \"crazy\" as she is ill-tempered and into really kinky art.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The lady in A Clockwork Orange.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [
+                    "beautiful", 
+                    "very", 
+                    "good-looking"
+                ], 
+                "role": "Fanservice Extra: Alex's fantasies tend to involve beautiful naked women. Then there's the very good-looking woman who's brought out onstage to demonstrate the effect of the Ludovico Treatment on Alex.", 
+                "id": "FanserviceExtra"
+            }
+        ]
+    }, 
+    "imdbid": "tt0066921", 
+    "similar": [
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCovenant", 
+            "name": "The Covenant", 
+            "poster_url": "TheCovenant.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Hellboy", 
+            "name": "Hellboy", 
+            "poster_url": "Hellboy.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady"
+            ], 
+            "shared_count": 1, 
+            "id": "Gremlins", 
+            "name": "Gremlins", 
+            "poster_url": "Gremlins.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "AClockworkOrange", 
+    "name": "A Clockwork Orange"
+}

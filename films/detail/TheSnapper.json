@@ -1,0 +1,76 @@
+{
+    "plot": "Set in Ireland, Sharon Curley is a 20 year old living with her parents and many brothers and sisters. When she gets herself pregnant and refuses to name the father, she becomes the talk of the town.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1993", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hard-Drinking", 
+                    "pregnant"
+                ], 
+                "role": "Hard-Drinking Party Girl: Even while heavily pregnant, Sharon takes the time to get pissed and go clubbing.", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "immediate", 
+                    "other", 
+                    "pair", 
+                    "local"
+                ], 
+                "role": "Mama Bear / Papa Wolf / Big Brother Instinct: All of Sharon's immediate family have elements of this. Kay slaps Mrs. Burgess when she accuses Sharon of being a slut, Craig starts breaking the windows of the Burgess house and Dessie rallies around Sharon like no other, even threatening to castrate Burgess with a pair of gardening shears. Even her younger sister starts beating up the local boys when they start making fun of Sharon's situation.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0108170", 
+    "poster_url": "TheSnapper.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "PokemonZoroarkMasterOfIllusions", 
+            "name": "Pok\u00e9mon: Zoroark: Master of Illusions"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }
+    ], 
+    "id": "TheSnapper", 
+    "name": "The Snapper"
+}

@@ -1,0 +1,83 @@
+{
+    "plot": "As a parting shot, fired reporter Ann Mitchell prints a fake letter from unemployed \"John Doe,\" who threatens suicide in protest of social ills. The paper is forced to rehire Ann and hires John Willoughby to impersonate \"Doe.\" Ann and her bosses cynically milk the story for all it's worth, until the made-up \"John Doe\" philosophy starts a whole political movement. At last everyone, even Ann, takes her creation seriously...but publisher D.B. Norton has a secret plan.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1941", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Hobos: John and the Colonel, among others. John is just down on his luck, but the Colonel sincerely believes in the hobo way of life, with its freedom from responsibilities.", 
+                "id": "Hobos"
+            }, 
+            {
+                "adjectives": [
+                    "sympathy", 
+                    "former", 
+                    "fictional", 
+                    "public"
+                ], 
+                "role": "In Meet John Doe, a reporter fabricates a letter from a John Doe who says he will kill himself on Christmas to protest the state of the country. When the story draws sympathy from the readership, she hires a former baseball player hobo to portray this fictional person in public.", 
+                "id": "Hobos"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scoop: Ann. This is what happened when Barbara Stanwyck played a reporter.", 
+                "id": "HotScoop"
+            }
+        ]
+    }, 
+    "imdbid": "tt0033891", 
+    "poster_url": "MeetJohnDoe.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HotScoop"
+            ], 
+            "shared_count": 1, 
+            "id": "SkyCaptainAndTheWorldOfTomorrow", 
+            "name": "Sky Captain and the World of Tomorrow", 
+            "poster_url": "SkyCaptainAndTheWorldOfTomorrow.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScoop"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScoop"
+            ], 
+            "shared_count": 1, 
+            "id": "WhiteChicks", 
+            "name": "White Chicks", 
+            "poster_url": "WhiteChicks.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScoop"
+            ], 
+            "shared_count": 1, 
+            "id": "CountdownToLookingGlass", 
+            "name": "Countdown to Looking Glass"
+        }, 
+        {
+            "shared": [
+                "HotScoop"
+            ], 
+            "shared_count": 1, 
+            "id": "TheHudsuckerProxy", 
+            "name": "The Hudsucker Proxy", 
+            "poster_url": "TheHudsuckerProxy.jpg"
+        }
+    ], 
+    "id": "MeetJohnDoe", 
+    "name": "Meet John Doe"
+}

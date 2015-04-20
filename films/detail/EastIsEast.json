@@ -1,0 +1,111 @@
+{
+    "plot": "In 1971 Salford fish-and-chip shop owner George Khan expects his family to follow his strict Pakistani Muslim ways. But his children, with an English mother and having been born and brought up in Britain, increasingly see themselves as British and start to reject their father's rules on dress, food, religion, and living in general.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Straight"
+                ], 
+                "role": "Camp Gay: Etienne. Nazir seems more Straight Gay.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "East", 
+                    "old", 
+                    "big", 
+                    "sympathy", 
+                    "dead"
+                ], 
+                "role": "Rare British (Islamic) example: on East is East, when George finds out his 9 year old son was never circumcised (it's a big family and he's constantly overlooked) it's decided that he needs to get it done. His older brothers and sister show all the sympathy and understanding that you would expect in the circumstances. Contrary to how the trope usually works, he's understandably dead against it himself.", 
+                "id": "CircumcisionAngst"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Saj's constantly wearing a parka, and is horrified when the hood gets torn off.", 
+                "id": "CircumcisionAngst"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Tariq", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Ella.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "Lad-ette", 
+                    "Foul-mouthed", 
+                    "rough-housing", 
+                    "trouser-wearing", 
+                    "further"
+                ], 
+                "role": "The Lad-ette: Foul-mouthed, rough-housing, trouser-wearing Meena. See her fancy footie for further proof.", 
+                "id": "TheLadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0166175", 
+    "poster_url": "EastIsEast.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheLadette", 
+                "CircumcisionAngst", 
+                "TheCasanova"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLadette", 
+                "TheCasanova"
+            ], 
+            "shared_count": 2, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "IVitelloni", 
+            "name": "I Vitelloni", 
+            "poster_url": "IVitelloni.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }
+    ], 
+    "id": "EastIsEast", 
+    "name": "East is East"
+}

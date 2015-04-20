@@ -1,0 +1,92 @@
+{
+    "plot": "In this 6-story anthology collection, Batman faces new villains and old ones in a time-line after Batman Begins. In \"Have I Got A Story For You\", 3 kids tell wildly different stories about Batman during a fight through Gotham. \"Crossfire\" focuses on two policemen who end up getting in the middle of a crime battle. \"Field Test\" has Lucius Fox creating a new technology for Batman, but is it too powerful? \"In Darkness Dwells\" features Killer Croc and Scarecrow, who have kidnapped a priest. \"Working Through Pain\" goes through flashbacks of Bruce Wayne's training while Batman finds his way through the sewers. Finally, \"Deadshot\" focuses on the titular sniper, who has a new target in Gotham.", 
+    "genres": "Animation, Action, Crime", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bish\u014dnen", 
+                    "young", 
+                    "particular"
+                ], 
+                "role": "Bish\u014dnen: Field Test featured a far more \"animesque\" Batman, whose appearance fits this trope. Bruce Timm was concerned that Kevin Conroy might not be convincing as a very young looking Bruce Wayne, although Kevin certainly pulled it off. The Japanese version had the younger sounding Shinichiro Miki voice that particular segment.", 
+                "id": "Bishonen"
+            }, 
+            {
+                "adjectives": [
+                    "pain-control", 
+                    "local", 
+                    "real", 
+                    "female", 
+                    "entire"
+                ], 
+                "role": "In Batman Gotham Knight, the flashback sequences of the \"Working Through Pain\" vignette where Bruce Wayne goes to India for pain-control training seemed to be set in one of these. The female mentor Bruce Wayne seeks out is a pariah by her local community because she dared to undergo Training from Hell reserved for Men Only. This is in spite of the fact that in real life India women who make it as female warriors are highly respected and have led entire armies as far back the twelfth century.", 
+                "id": "NoWomansLand"
+            }, 
+            {
+                "adjectives": [
+                    "third", 
+                    "pretty-boy-esque"
+                ], 
+                "role": "\"Field Test\", the third segment of Batman Gotham Knight, gives Bruce Wayne a rather pretty-boy-esque look (which doesn't exactly fit Kevin Conroy's voice that well).", 
+                "id": "PrettyBoy"
+            }
+        ]
+    }, 
+    "imdbid": "tt1117563", 
+    "poster_url": "BatmanGothamKnight.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrettyBoy", 
+                "NoWomansLand"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "Bishonen", 
+                "PrettyBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "Bishonen", 
+                "PrettyBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheConformist", 
+            "name": "The Conformist", 
+            "poster_url": "TheConformist.jpg"
+        }, 
+        {
+            "shared": [
+                "Bishonen", 
+                "PrettyBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheOutsiders", 
+            "name": "The Outsiders", 
+            "poster_url": "TheOutsiders.jpg"
+        }, 
+        {
+            "shared": [
+                "NoWomansLand"
+            ], 
+            "shared_count": 1, 
+            "id": "Django", 
+            "name": "Django", 
+            "poster_url": "Django.jpg"
+        }
+    ], 
+    "id": "BatmanGothamKnight", 
+    "name": "Batman Gotham Knight"
+}

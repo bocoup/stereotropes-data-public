@@ -1,0 +1,79 @@
+{
+    "plot": "In the style of a Howard Hawks comedy, Baxter follows the twists and turns of a young man's life during the two weeks before his wedding.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Louis Lewis, who warns Elliott that this fate is in store for him.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "primary-red", 
+                    "next", 
+                    "primary-red", 
+                    "first", 
+                    "sky-blue"
+                ], 
+                "role": "Lady in Red: The first time we meet Cecil Mills, she's wearing a primary-red overcoat. The next time we meet Cecil, she's wearing a primary-red scarf. In contrast, the first time we meet Caroline Swann, she's wearing a sky-blue beret.", 
+                "id": "LadyInRed"
+            }
+        ]
+    }, 
+    "imdbid": "tt0401244", 
+    "poster_url": "TheBaxter.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "LadyInRed"
+            ], 
+            "shared_count": 2, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "LadyInRed"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "SevenFacesOfDrLao", 
+            "name": "7 Faces of Dr. Lao", 
+            "poster_url": "SevenFacesOfDrLao.jpg"
+        }
+    ], 
+    "id": "TheBaxter", 
+    "name": "The Baxter"
+}

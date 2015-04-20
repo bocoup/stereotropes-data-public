@@ -1,0 +1,80 @@
+{
+    "plot": "Berlin's plushest, most expensive hotel is the setting where in the words of Dr. Otternschlag \"People come, people go. Nothing ever happens.\". The doctor is usually drunk so he missed the fact that Baron von Geigern is broke and trying to steal eccentric dancer Grusinskaya's pearls. He ends up stealing her heart instead. Powerful German businessman Preysing brow beats Kringelein, one of his company's lowly bookkeepers but it is the terminally ill Kringelein who holds all the cards in the end. Meanwhile, the Baron also steals the heart of Preysing's mistress, Flaemmchen, but she doesn't end up with either one of them in the end...", 
+    "genres": "Drama, Romance", 
+    "release_year": "1932", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gentleman Thief: \"Baron\" Felix von Gaigern, making his living as a hotel thief.", 
+                "id": "GentlemanThief"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Sexy Secretary: Flaemmchen, who models in her spare time.", 
+                "id": "SexySecretary"
+            }, 
+            {
+                "adjectives": [
+                    "White-Dwarf"
+                ], 
+                "role": "White-Dwarf Starlet: Grusinskaya notices that no one misses her after she doesn't show up for the ballet.", 
+                "id": "WhiteDwarfStarlet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0022958", 
+    "poster_url": "GrandHotel.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "SexySecretary"
+            ], 
+            "shared_count": 2, 
+            "id": "TheProducers", 
+            "name": "The Producers", 
+            "poster_url": "TheProducers.jpg"
+        }, 
+        {
+            "shared": [
+                "SexySecretary"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "SexySecretary"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet"
+            ], 
+            "shared_count": 1, 
+            "id": "DinnerAtEight", 
+            "name": "Dinner At Eight", 
+            "poster_url": "DinnerAtEight.jpg"
+        }, 
+        {
+            "shared": [
+                "GentlemanThief"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }
+    ], 
+    "id": "GrandHotel", 
+    "name": "Grand Hotel"
+}

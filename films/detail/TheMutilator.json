@@ -1,0 +1,98 @@
+{
+    "plot": "A group of teenagers decide to take a vacation at the beach house of one of their fathers. The kid whose father owns the house just happened to accidentally kill his mother when he was a child. When they get to the house, the father has mysteriously disappeared. Hmmm...", 
+    "genres": "Horror", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Carpet of Virility: Ed and Ralph.", 
+                "id": "CarpetOfVirility"
+            }, 
+            {
+                "adjectives": [
+                    "great", 
+                    "white"
+                ], 
+                "role": "Great White Hunter: \"Well, he likes to come down with his drinking buddies, and they swap lies about the good old days about when they were great white hunters and macho men.\"", 
+                "id": "GreatWhiteHunter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Mike and Ralph.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Pam, although Ed also survives.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sweater Girl: Pam and Sue.", 
+                "id": "SweaterGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0124014", 
+    "poster_url": "TheMutilator.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CarpetOfVirility", 
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "MotorHomeMassacre", 
+            "name": "Motor Home Massacre", 
+            "poster_url": "MotorHomeMassacre.jpg"
+        }, 
+        {
+            "shared": [
+                "GreatWhiteHunter", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGrey", 
+            "name": "The Grey", 
+            "poster_url": "TheGrey.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Gutterballs", 
+            "name": "Gutterballs", 
+            "poster_url": "Gutterballs.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCabinInTheWoods", 
+            "name": "The Cabin in the Woods", 
+            "poster_url": "TheCabinInTheWoods.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FridayThe13th1980", 
+            "name": "Friday the 13th ", 
+            "poster_url": "FridayThe13th1980.jpg"
+        }
+    ], 
+    "id": "TheMutilator", 
+    "name": "The Mutilator"
+}

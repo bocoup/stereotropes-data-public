@@ -1,0 +1,116 @@
+{
+    "plot": "USA, summer of 1969. Man is about to walk on the moon, the Vietnam War is breaking out, and there is the great concert in Woodstock. In a holiday camp for Jewish families not far from Woodstock, Alison and her family are on vacation. Pearl, the mother is young and attractive, but defeated by life, having become pregnant on her first loving relationship, forgetting her dreams to devote herself to her children. Marty, the father is absent because he is busily occupied by the television company broadcasting the moon landing. One day a charming salesman arrives at the camp, selling clothes and knick-knacks. He lives an intense life of love and passion, culminating in an escape to Woodstock with Alison, where events have a deep impact.", 
+    "genres": "Romance, Drama", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Dad: Marty.", 
+                "id": "HotDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Marty, particularly since he had to look out for his mother and provide for her after his father and walked out on them. He only subverts this trope once, in a fit of rage in the middle of the night.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [
+                    "contrary", 
+                    "such", 
+                    "nice", 
+                    "sixteen-year-old", 
+                    "straight"
+                ], 
+                "role": "Nice Jewish Boy: Ross, contrary to what Marty thinks. Marty: There is no such thing as a nice sixteen-year-old boy. Marty plays this trope fairly straight as well.", 
+                "id": "NiceJewishBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "love/favor"
+                ], 
+                "role": "Daddy's Girl: Alison. It doesn't seem overtly so at first, but she takes his side and seems to show a lot of disdain for her mother and love/favor for her father as the movie wears on.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Mom: Pearl.", 
+                "id": "HotMom"
+            }, 
+            {
+                "adjectives": [
+                    "Jewish", 
+                    "young", 
+                    "Lillian", 
+                    "overprotective", 
+                    "Jewish"
+                ], 
+                "role": "Jewish Mother: Subverted with Pearl in that she walks on the wild side, and basically leaves care of her young son to her mother-in-law and lets Alison fend for herself for the most part. Played straight with Lillian, an overprotective Jewish Grandmother.", 
+                "id": "JewishMother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120613", 
+    "poster_url": "AWalkOnTheMoon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "MommasBoy", 
+                "HotDad"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "HotMom", 
+                "HotDad"
+            ], 
+            "shared_count": 2, 
+            "id": "Premonition", 
+            "name": "Premonition", 
+            "poster_url": "Premonition.jpg"
+        }, 
+        {
+            "shared": [
+                "NiceJewishBoy", 
+                "JewishMother"
+            ], 
+            "shared_count": 2, 
+            "id": "FiddlerOnTheRoof", 
+            "name": "Fiddler on the Roof", 
+            "poster_url": "FiddlerOnTheRoof.jpg"
+        }, 
+        {
+            "shared": [
+                "NiceJewishBoy", 
+                "JewishMother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMadAdventuresOfRabbiJacob", 
+            "name": "The Mad Adventures of Rabbi Jacob", 
+            "poster_url": "TheMadAdventuresOfRabbiJacob.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "JewishMother"
+            ], 
+            "shared_count": 2, 
+            "id": "BarneysVersion", 
+            "name": "Barney's Version", 
+            "poster_url": "BarneysVersion.jpg"
+        }
+    ], 
+    "id": "AWalkOnTheMoon", 
+    "name": "A Walk On The Moon"
+}

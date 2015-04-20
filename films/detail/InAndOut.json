@@ -1,0 +1,79 @@
+{
+    "plot": "N/A", 
+    "genres": "Family, Animation, Short", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "obvious", 
+                    "understandable", 
+                    "no-one", 
+                    "in-story"
+                ], 
+                "role": "Camp Gay: Averted. Howard's gayness is played up just enough that it's obvious to the audience, but lets it still be understandable that no-one in-story noticed it.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay / Flamboyant Gay: Howard and Peter both straddle the line, Peter leaning towards Straight and Howard towards Flamboyant.", 
+                "id": "StraightGay"
+            }
+        ]
+    }, 
+    "imdbid": "tt0123908", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "LatterDays", 
+            "name": "Latter Days", 
+            "poster_url": "LatterDays.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "AnotherGayMovie", 
+            "name": "Another Gay Movie", 
+            "poster_url": "AnotherGayMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBigGayMusical", 
+            "name": "The Big Gay Musical", 
+            "poster_url": "TheBigGayMusical.jpg"
+        }
+    ], 
+    "id": "InAndOut", 
+    "name": "In And Out"
+}

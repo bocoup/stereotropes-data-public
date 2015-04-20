@@ -1,0 +1,120 @@
+{
+    "plot": "Painfully shy Todd Anderson has been sent to the school where his popular older brother was valedictorian. His room-mate, Neil, although exceedingly bright and popular, is very much under the thumb of his overbearing father. The two, along with their other friends, meet Professor Keating, their new English teacher, who tells them of the Dead Poets Society, and encourages them to go against the status quo. Each, in their own way, does this, and are changed for life.", 
+    "genres": "Drama", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Head \u2014 Neil", 
+                "id": "BigManOnCampus"
+            }, 
+            {
+                "adjectives": [
+                    "former", 
+                    "quiet", 
+                    "shy", 
+                    "real"
+                ], 
+                "role": "Dead Poets Society: Todd is this to Neil. Both trapped by controlling parents, the latter is outgoing, confident and seen rebelling and taking charge of life, while the former is quiet and shy and appears rather timid. In a surprise twist Neil is revealed to be the Decoy Protagonist, and Todd is the real hero.", 
+                "id": "BromanticFoil"
+            }, 
+            {
+                "adjectives": [
+                    "certain"
+                ], 
+                "role": "To a certain extent Knox Overstreet from Dead Poets Society in his subplot with Chris. It is unresolved whether they wind up together or not by the end.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Chris's boyfriend Chet from Dead Poets Society. This is naturally a bit of an obstacle for Knox when he falls for Chris.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "former"
+                ], 
+                "role": "Jerk Jock: Chet. Which of course leads to problems when Knox falls head-over-heels for the former's girlfriend.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "no-no"
+                ], 
+                "role": "Dead Poets Society: Neil Perry's father. He wants his son to be a doctor even though it's not where Neil's heart is. The poor boy manages to have the best marks but still, students' theatre is a no-no for his father as it might distract him.", 
+                "id": "EducationMama"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Knox", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097165", 
+    "poster_url": "DeadPoetsSociety.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EducationMama", 
+                "BigManOnCampus", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBreakfastClub", 
+            "name": "The Breakfast Club", 
+            "poster_url": "TheBreakfastClub.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "BigManOnCampus", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "TheChick", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendsOfTheFall", 
+            "name": "Legends Of The Fall"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "DeadPoetsSociety", 
+    "name": "Dead Poets Society"
+}

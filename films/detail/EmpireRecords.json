@@ -1,0 +1,109 @@
+{
+    "plot": "A day in the life of the employees of Empire Records. Except this is a day where everything comes to a head for a number of them facing personal crises - can they pull through together? And more importantly, can they keep their record store independent and not swallowed up by corporate greed?", 
+    "genres": "Comedy, Drama, Music", 
+    "release_year": "1995", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Education Papa: Corey's father.", 
+                "id": "EducationMama"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Good Bad Girl: As mentioned above, Gina.", 
+                "id": "GoodBadGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Joe.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "tight", 
+                    "blue", 
+                    "cropped"
+                ], 
+                "role": "As Corey in Empire Records, Liv Tyler wears a tight blue cropped sweater, which is featured prominently\u25ca on the poster.", 
+                "id": "SweaterGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sweater Girl: Corey.", 
+                "id": "SweaterGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Faded", 
+                    "single", 
+                    "has-been"
+                ], 
+                "role": "Faded rock star Rex Manning in Empire Records. This is lampshaded by a teenage boy who gets an autograph from Manning because \"my mom has all your albums\" despite never personally having heard a single one of Manning's songs. Subverted in the Director's Cut version of the film. In an alternate take of the \"You're just a has-been\" scene, he trades his cocky attitude and quote from The Who's \"My Generation\", for a heartfelt and bitter \"you might be right\" acknowledgement.", 
+                "id": "WhiteDwarfStarlet"
+            }, 
+            {
+                "adjectives": [
+                    "White-Dwarf", 
+                    "male"
+                ], 
+                "role": "White-Dwarf Starlet: Rex Manning, a male singer variation.", 
+                "id": "WhiteDwarfStarlet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112950", 
+    "poster_url": "EmpireRecords.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EducationMama", 
+                "SweaterGirl", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Election", 
+            "name": "Election", 
+            "poster_url": "Election.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "GoodBadGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "EducationMama", 
+                "GoodBadGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBreakfastClub", 
+            "name": "The Breakfast Club", 
+            "poster_url": "TheBreakfastClub.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }
+    ], 
+    "id": "EmpireRecords", 
+    "name": "Empire Records"
+}

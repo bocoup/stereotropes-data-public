@@ -1,0 +1,98 @@
+{
+    "plot": "County Durham, during the endless, violent 1984 strike against the Thatcher closure of British coal mines. Widower Jackie Elliot and his firstborn, fellow miner Tony, take a dim view of 11 year-old second son Billy's poor record in boxing class, which worsens when they discover he sneakily transferred to the neighboring, otherwise girls-only-attended ballet class. Only one schoolmate, closet-gay Michael Caffrey, encourages Billy's desire, aroused by the teacher, who judged him talented enough for private lesson, to train and try out for the world-renowned Royal Ballet audition. Only the prospect of a fancy career unimagined in the pauper quarter may twist pa and big brother's opposition to indispensable support.", 
+    "genres": "Comedy, Drama, Music", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Billy's best friend Michael.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "ballet", 
+                    "high"
+                ], 
+                "role": "Camp Straight: Billy, arguably. He's not camp at all but he's into ballet, in which a very disproportionately high number of gay men are involved.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [
+                    "Sensitive", 
+                    "sensitive", 
+                    "masculine", 
+                    "other"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Billy and Michael, kind of. Billy is sensitive and into ballet, but the film takes pains to show him as quite conventionally masculine in some ways  (punching that boy at the auditions, for example). Michael, on the other hand, is Camp Gay and a Wholesome Crossdresser.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "dead"
+                ], 
+                "role": "Missing Mom: Billy Elliot suffers from dead mother syndrome.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0249462", 
+    "poster_url": "BillyElliot.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "SensitiveGuyAndManlyMan", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "CampGay", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 3, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }
+    ], 
+    "id": "BillyElliot", 
+    "name": "Billy Elliot"
+}

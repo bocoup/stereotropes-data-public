@@ -1,0 +1,64 @@
+{
+    "plot": "Buster is a bank clerk. Overturned glue gets everything, mostly the money, stuck to everything else. When robbers show up he can't \"stick 'em up\" because his hands are stuck in his pockets. The robbers' hideout is a haunted house designed to scare off police.", 
+    "genres": "Short, Comedy, Horror", 
+    "release_year": "1921", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: The bank president's daughter tracks the chief villain to his lair.", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0012255", 
+    "poster_url": "TheHauntedHouse.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowCake", 
+            "name": "Snow Cake", 
+            "poster_url": "SnowCake.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "TheHauntedHouse", 
+    "name": "The Haunted House"
+}

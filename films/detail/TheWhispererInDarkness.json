@@ -1,0 +1,64 @@
+{
+    "plot": "In 1931 H.P. Lovecraft wrote his classic tale of alien horror, \"The Whisperer in Darkness\". Lovecraft is now considered one of America's foremost writers of horror fiction, standing alongside the likes of Stephen King and Edgar Allan Poe.", 
+    "genres": "Mystery, Sci-Fi, Thriller", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Hannah", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1498878", 
+    "poster_url": "TheWhispererInDarkness.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowCake", 
+            "name": "Snow Cake", 
+            "poster_url": "SnowCake.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "TheWhispererInDarkness", 
+    "name": "The Whisperer in Darkness"
+}

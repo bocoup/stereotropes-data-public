@@ -1,0 +1,95 @@
+{
+    "plot": "Simon is a timid man, scratching out an isolated existence in an indifferent world. He is overlooked at work, scorned by his mother, and ignored by the woman of his dreams. He feels powerless to change any of these things. The arrival of a new co-worker, James, serves to upset the balance. James is both Simons exact physical double and his opposite - confident, charismatic and good with women. To Simons horror, James slowly starts taking over his life.", 
+    "genres": "Comedy, Drama, Thriller", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "shy"
+                ], 
+                "role": "In The Double, Simon is shy and reserved, while James gets into fights and, probably sleeps with half of the women in the movie.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }, 
+            {
+                "adjectives": [
+                    "Sensitive", 
+                    "shy"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Simon is shy and reserved, while James gets into fights and, as mentioned above, probably sleeps with half of the women in the movie.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In The Double, James probably sleeps with half the women in the movie.", 
+                "id": "TheCasanova"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: James probably sleeps with half the women in the movie.", 
+                "id": "TheCasanova"
+            }, 
+            {
+                "adjectives": [
+                    "quite"
+                ], 
+                "role": "The Charmer: James. He wins people over quite effortlessly.", 
+                "id": "TheCharmer"
+            }
+        ]
+    }, 
+    "imdbid": "tt1825157", 
+    "poster_url": "TheDouble.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }
+    ], 
+    "id": "TheDouble", 
+    "name": "The Double"
+}

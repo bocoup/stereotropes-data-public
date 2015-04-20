@@ -1,0 +1,93 @@
+{
+    "plot": "A woman named Grace retires with her two children to a mansion on Jersey, towards the end of the Second World War, where she's waiting for her husband to come back from battle. The children have a disease which means they cannot be touched by direct sunlight without being hurt in some way. They will live alone there with oppressive, strange and almost religious rules, until she needs to hire a group of servants for them. Their arrival will accidentally begin to break the rules with unexpected consequences.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "2001", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "pre-broken"
+                ], 
+                "role": "Broken Bird: Poor Lydia comes conveniently pre-broken.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "haunted"
+                ], 
+                "role": "Grace from The Others (Subverted with a twist: the haunted heroine and her children are the ghosts)", 
+                "id": "HauntedHeroine"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Grace.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "Team Mom: Mrs. Mills. She's very kindly, comforts Anne and Nicholas several times, acts as something of a mother towards Lydia, and gently offers to make Grace a cup of tea after The Reveal.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0230600", 
+    "poster_url": "TheOthers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "HauntedHeroine", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkWater", 
+            "name": "Dark Water", 
+            "poster_url": "DarkWater.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "HauntedHeroine", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SympathyForLadyVengeance", 
+            "name": "Sympathy for Lady Vengeance", 
+            "poster_url": "SympathyForLadyVengeance.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "CurseOfTheGoldenFlower", 
+            "name": "Curse of the Golden Flower", 
+            "poster_url": "CurseOfTheGoldenFlower.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Sybil", 
+            "name": "Sybil", 
+            "poster_url": "Sybil.jpg"
+        }
+    ], 
+    "id": "TheOthers", 
+    "name": "The Others"
+}

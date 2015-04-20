@@ -1,0 +1,94 @@
+{
+    "plot": "Cecily, Reggie, and Wilfred are in a home for retired musicians. Every year, on October 10, there is a concert to celebrate Verdi's birthday and they take part. Jean, who used to be married to Reggie, arrives at the home and disrupts their equilibrium. She still acts like a diva, but she refuses to sing. Still, the show must go on... and it does.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "music", 
+                    "local", 
+                    "music"
+                ], 
+                "role": "Cool Old Guy: Reg gives talks on Opera and music to groups of local youth, and compares Opera to rap music, despite being the stuffiest member of the Quartet.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "Dirty Old Man: Wilf freely admits to this, and flirts with pretty much all of the female residents and staff of Beecham House.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "White-Dwarf", 
+                    "Jean", 
+                    "particular", 
+                    "true", 
+                    "many", 
+                    "free", 
+                    "usual"
+                ], 
+                "role": "White-Dwarf Starlet: Jean in particular refuses to perform because she believes she's this, but it is arguably true of many of the residents. Reg points out that this trope means that she is free to perform without fear because nobody in the press cares enough about her to rain their usual criticism that she was accustomed to as a celebrity.", 
+                "id": "WhiteDwarfStarlet"
+            }
+        ]
+    }, 
+    "imdbid": "tt1441951", 
+    "poster_url": "Quartet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheProducers", 
+            "name": "The Producers", 
+            "poster_url": "TheProducers.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "LupinIIIThePursuitOfHarimaosTreasure", 
+            "name": "Lupin III: The Pursuit Of Harimao's Treasure"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Giant", 
+            "name": "Giant", 
+            "poster_url": "Giant.jpg"
+        }
+    ], 
+    "id": "Quartet", 
+    "name": "Quartet"
+}

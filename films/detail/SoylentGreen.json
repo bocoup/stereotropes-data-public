@@ -1,0 +1,80 @@
+{
+    "plot": "In 2022, Earth is overpopulated and totally polluted; the natural resources have been exhausted and the nourishment of the population is provided by Soylent Industries, a company that makes a food consisting of plankton from the oceans. In New York, when Soylent's member of the board William R. Simonson is murdered apparently by a burglar at the Chelsea Towers West where he lives, efficient Detective Thorn is assigned to investigate the case with his partner Solomon \"Sol\" Roth. Thorn comes to the fancy apartment and meets Simonson's bodyguard Tab Fielding and the \"furniture\" (woman that is rented together with the flat) Shirl and the detective concludes that the executive was not victim of burglary but executed. Further, he finds that the Governor Santini and other powerful men want to disrupt and end Thorn's investigation. But Thorn continues his work and discovers a bizarre and disturbing secret of the ingredient used to manufacture Soylent Green.", 
+    "genres": "Mystery, Sci-Fi, Thriller", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Sol Roth.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "quite", 
+                    "few", 
+                    "low"
+                ], 
+                "role": "Ms. Fanservice: Shirl struts her stuff in quite a few low cut dresses and takes it all off at least once or twice.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070723", 
+    "poster_url": "SoylentGreen.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Sharknado", 
+            "name": "Sharknado"
+        }
+    ], 
+    "id": "SoylentGreen", 
+    "name": "Soylent Green"
+}

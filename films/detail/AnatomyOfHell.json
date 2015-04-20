@@ -1,0 +1,80 @@
+{
+    "plot": "A man rescues a woman from a suicide attempt in a gay nightclub. Walking the streets together, she propositions him: She'll pay him to visit her at her isolated house for four consecutive nights. There he will silently watch her. He's reluctant, but agrees. As the four nights progress, they become more intimate with each other, and a mutual fascination/revulsion develops. By the end of the four-day \"contract\", these two total strangers will have had a profound impact on each other.", 
+    "genres": "Drama", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Depraved Homosexual: See above; The Man murders The Woman in the end.", 
+                "id": "DepravedHomosexual"
+            }, 
+            {
+                "adjectives": [
+                    "He-Man"
+                ], 
+                "role": "He-Man Woman Hater: The Man.", 
+                "id": "HeManWomanHater"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straw Misogynist: The Man.", 
+                "id": "StrawMisogynist"
+            }
+        ]
+    }, 
+    "imdbid": "tt0348529", 
+    "poster_url": "AnatomyOfHell.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "HeManWomanHater"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWoman", 
+            "name": "The Woman", 
+            "poster_url": "TheWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "HeManWomanHater"
+            ], 
+            "shared_count": 2, 
+            "id": "MillersCrossing", 
+            "name": "Miller's Crossing", 
+            "poster_url": "MillersCrossing.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "DepravedHomosexual"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHouseOfTheSpirits", 
+            "name": "The House of the Spirits", 
+            "poster_url": "TheHouseOfTheSpirits.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "HeManWomanHater"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }
+    ], 
+    "id": "AnatomyOfHell", 
+    "name": "Anatomy of Hell"
+}

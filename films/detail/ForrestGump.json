@@ -1,0 +1,152 @@
+{
+    "plot": "Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, create the smiley, write bumper stickers and songs, donating to people and meeting the president several times. However, this is all irrelevant to Forrest who can only think of his childhood sweetheart Jenny Curran. Who has messed up her life. Although in the end all he wants to prove is that anyone can love anyone.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Angry Black Man: Jenny's Black Panther acquaintances, to the letter.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jenny's Black Panther acquaintances in Forrest Gump, to the latter.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "cross-country"
+                ], 
+                "role": "Beard of Sorrow: Forrest ends up with one on his cross-country jogging spree. Lieutenant Dan also has one when he first meets Forrest again after the war.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "long"
+                ], 
+                "role": "Forrest Gump:\n Forrest Gump decided to just start running non stop after Jenny left him. He didn't care about anything besides running and as a result grew a long beard.\n Lt. Dan also has one when he first meets Forrest again after the war.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Forrest's father is unmentioned and unseen.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "similar"
+                ], 
+                "role": "Similarly, in Forrest Gump, Forrest's father is unmentioned and unseen, perhaps for similar reasons.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Forrest. Jenny abandons him multiple times throughout the film and generally treats him like crap.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "exact", 
+                    "favorite", 
+                    "same"
+                ], 
+                "role": "Drill Sergeant Nasty: A subversion is that he frequently praises Forrest for his dedication and obedience in the exact same tone of voice he'd use to berate anyone else. Of course, he does offer some backhanded compliments along the way: Here's another one: This is actually how a Drill Sergeant is supposed to act - having a favorite may inspire people to turn on them, destabilising the team. The Drill Sergeant is just letting them know that Forrest is getting it right, but at the same time lets the team know nobody's getting any slack.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "other"
+                ], 
+                "role": "Forrest Gump and many other folks from Greenbow, Alabama.", 
+                "id": "GoodOlBoy"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "other"
+                ], 
+                "role": "Good Ol' Boy: Forrest and many other folks from Greenbow, Alabama.", 
+                "id": "GoodOlBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Black Panther cell in Forrest Gump has a handful of Scary Black Men, and one Malcolm Xerox ranting about The Man.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "self-destructive", 
+                    "cynical", 
+                    "due"
+                ], 
+                "role": "Broken Bird: Jenny. Engaged in a lot of self-destructive behavior and was very cynical due to her unhappy childhood.", 
+                "id": "BrokenBird"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109830", 
+    "poster_url": "ForrestGump.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "BrokenBird", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "BrokenBird", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "DoggedNiceGuy", 
+                "AngryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "DisappearedDad", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "HeavyRain", 
+            "name": "Heavy Rain"
+        }, 
+        {
+            "shared": [
+                "GoodOlBoy", 
+                "ScaryBlackMan", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "AnOfficerAndAGentleman", 
+            "name": "An Officer and a Gentleman", 
+            "poster_url": "AnOfficerAndAGentleman.jpg"
+        }
+    ], 
+    "id": "ForrestGump", 
+    "name": "Forrest Gump"
+}

@@ -1,0 +1,79 @@
+{
+    "plot": "In London in the 1970s, Scotland Yard police investigators think they have uncovered a case of vampirism. They call in an expert vampire researcher named Van Helsing (a descendant of the great vampire-hunter himself, no less) to help them put a stop to these hideous crimes. It becomes apparent that the culprit is Count Dracula himself, disguised as a reclusive property developer, but secretly plotting to unleash a fatal virus upon the world.", 
+    "genres": "Horror", 
+    "release_year": "1973", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "recent"
+                ], 
+                "role": "Distressed Damsel: Jessica, Van Helsing's granddaughter and Drac's recent infatuation in this movie.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dragon Lady: Chin Yang", 
+                "id": "DragonLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Meganekko: Jane before being kidnapped and turned.", 
+                "id": "Meganekko"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070634", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieInThePinkShoes", 
+            "name": "Barbie In The Pink Shoes"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DragonLady"
+            ], 
+            "shared_count": 2, 
+            "id": "WildWildWest", 
+            "name": "Wild Wild West", 
+            "poster_url": "WildWildWest.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DragonLady"
+            ], 
+            "shared_count": 2, 
+            "id": "RushHour", 
+            "name": "Rush Hour", 
+            "poster_url": "RushHour.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DragonLady"
+            ], 
+            "shared_count": 2, 
+            "id": "AroundTheWorldInEightyDays", 
+            "name": "Around the World in Eighty Days"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "Meganekko"
+            ], 
+            "shared_count": 2, 
+            "id": "TankGirl", 
+            "name": "Tank Girl", 
+            "poster_url": "TankGirl.jpg"
+        }
+    ], 
+    "id": "TheSatanicRitesOfDracula", 
+    "name": "The Satanic Rites of Dracula"
+}

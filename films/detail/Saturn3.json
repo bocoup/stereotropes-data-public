@@ -1,0 +1,88 @@
+{
+    "plot": "Two lovers stationed at a remote base in the asteroid fields of Saturn are intruded upon by a retentive technocrat from Earth and his charge: a malevolent 8-ft robot. Remember, in space no one can hear you scream...", 
+    "genres": "Adventure, Sci-Fi, Thriller", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Kirk Douglas was 63 when he filmed this movie.", 
+                "id": "BadassGrandpa"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Damsel in Distress: Farrah Fawcett's character Alex. Constantly harassed by Harvey Keitel's character, and later stalked by the Hector the Killer Robot, who possesses Benson's character's memories and bits of his personality.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Ms Fan Service: Farrah Fawcett's Alex. So much that all the other characters (even the robot) are fighting over her.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0079285", 
+    "poster_url": "Saturn3.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MsFanservice", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 3, 
+            "id": "TransformersDarkOfTheMoon", 
+            "name": "Transformers: Dark of the Moon", 
+            "poster_url": "TransformersDarkOfTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MsFanservice", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 3, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }
+    ], 
+    "id": "Saturn3", 
+    "name": "Saturn 3"
+}

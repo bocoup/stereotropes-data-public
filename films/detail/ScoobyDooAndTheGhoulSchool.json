@@ -1,0 +1,124 @@
+{
+    "plot": "Scooby Doo and the gang visited a haunted school. After the girls are kidnapped, it's up to Scooby and the gang to save them.", 
+    "genres": "Animation, Comedy, Fantasy", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "protective", 
+                    "friendly"
+                ], 
+                "role": "Papa Wolf: All of the girls' monster fathers are highly protective of their daughters. Bonus points to Papa Werewolf who is literally a wolf. This is best shown when they warn Shaggy and Scooby not to let any harm befall their daughters, despite having been friendly to them beforehand.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "body", 
+                    "female", 
+                    "willing"
+                ], 
+                "role": "Big Beautiful Woman: Miss Grimwood, the headmistress of Grimwood's Finishing School for Girls. She has a bit more body mass than the rest of the female characters in the movie, but Colonel Calloway is still willing to dance with her when they hold a celebratory \"dance party\" at the end.", 
+                "id": "BigBeautifulWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cute Ghost Girl: Phantasma.", 
+                "id": "CuteGhostGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Phantasma from Scooby-Doo and the Ghoul School.", 
+                "id": "CuteGhostGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cute Monster Girl: All five ghouls. Which ones are the \"best\" examples of this trope depends on the viewer. Cute Ghost Girl: Phantasma.", 
+                "id": "CuteMonsterGirl"
+            }, 
+            {
+                "adjectives": [
+                    "famous"
+                ], 
+                "role": "The girls from Scooby-Doo and the Ghoul School. They're all the daughters of famous monsters, Sibella for example is Dracula's daughter.", 
+                "id": "CuteMonsterGirl"
+            }, 
+            {
+                "adjectives": [
+                    "open"
+                ], 
+                "role": "Missing Mom: Only the girls' fathers show up for their open house night, who are Dracula, a werewolf, Frankenstein's Monster, a mummy, and a phantom respectively. Nothing is ever mentioned about the identities of any of their mothers.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "complete", 
+                    "evil"
+                ], 
+                "role": "Wicked Witch: Revolta, complete with creepy skin color, evil spells, and flying broom.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0189071", 
+    "poster_url": "ScoobyDooAndTheGhoulSchool.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "WickedWitch", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "WickedWitch", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "HotelTransylvania", 
+            "name": "Hotel Transylvania", 
+            "poster_url": "HotelTransylvania.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CuteMonsterGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "ClashOfTheTitans", 
+            "name": "Clash of the Titans", 
+            "poster_url": "ClashOfTheTitans.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CuteMonsterGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "ScoobyDooAndTheGhoulSchool", 
+    "name": "Scooby-Doo and the Ghoul School"
+}

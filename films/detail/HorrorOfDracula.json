@@ -1,0 +1,67 @@
+{
+    "plot": "After Jonathan Harker attacks Dracula at his castle (apparently somewhere in Germany), the vampire travels to a nearby city, where he preys on the family of Harker's fianc\u00e9e. The only one who may be able to protect them is Dr. van Helsing, Harker's friend and fellow-student of vampires, who is determined to destroy Dracula, whatever the cost.", 
+    "genres": "Horror", 
+    "release_year": "1958", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Girlish", 
+                    "first"
+                ], 
+                "role": "Girlish Pigtails: Lucy in her first scene with Dracula.", 
+                "id": "GirlishPigtails"
+            }
+        ]
+    }, 
+    "imdbid": "tt0051554", 
+    "poster_url": "HorrorOfDracula.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "MonsterHouse", 
+            "name": "Monster House", 
+            "poster_url": "MonsterHouse.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMuppetMovie", 
+            "name": "The Muppet Movie", 
+            "poster_url": "TheMuppetMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "SwitchbladeSisters", 
+            "name": "Switchblade Sisters", 
+            "poster_url": "SwitchbladeSisters.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "HorrorOfDracula", 
+    "name": "Horror of Dracula"
+}

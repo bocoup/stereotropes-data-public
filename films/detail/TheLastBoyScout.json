@@ -1,0 +1,83 @@
+{
+    "plot": "A down and out cynical detective teams up with a down and out ex-quarterback to try and solve a murder case involving a pro football team and a politician.", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "1991", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "understandable"
+                ], 
+                "role": "Bratty Teenage Daughter: Darian. However, she comes from an extremely troubled home so it's understandable (mostly).", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "Darian"
+                ], 
+                "role": "Little Miss Badass: Darian Hallenbeck.", 
+                "id": "LittleMissBadass"
+            }, 
+            {
+                "adjectives": [
+                    "Last", 
+                    "cutthroat", 
+                    "corporate"
+                ], 
+                "role": "The Last Boy Scout: The daughter of Bruce Willis' character, who rescued her dad by pretending to be a lost little girl and approaching a gang of cutthroat corporate mercenaries and hands her father a .357 hidden in her teddy bear.", 
+                "id": "LittleMissBadass"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102266", 
+    "poster_url": "TheLastBoyScout.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "Hanna", 
+            "name": "Hanna", 
+            "poster_url": "Hanna.jpg"
+        }, 
+        {
+            "shared": [
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass"
+            ], 
+            "shared_count": 1, 
+            "id": "PokemonMewtwoReturns", 
+            "name": "Pok\u00e9mon: Mewtwo Returns"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass"
+            ], 
+            "shared_count": 1, 
+            "id": "Oculus", 
+            "name": "Oculus", 
+            "poster_url": "Oculus.jpg"
+        }
+    ], 
+    "id": "TheLastBoyScout", 
+    "name": "The Last Boy Scout"
+}

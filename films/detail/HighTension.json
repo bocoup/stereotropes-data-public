@@ -1,0 +1,106 @@
+{
+    "plot": "Alexia travels with her friend Marie to spend a couple of days with her family in their farm in the country. They arrive late and they are welcomed by Alexia's father. Late in the night, a sadistic and sick killer breaks into the farmhouse, slaughters Alexia's family--including their dog--and kidnaps Alexia. Marie hides from the criminal and tries to help the hysterical and frightened Alexia, chase the maniac, and disclose his identity in the end.", 
+    "genres": "Horror", 
+    "release_year": "2003", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "alive"
+                ], 
+                "role": "Final Girl: Subverted, in that the protagonist  is also the killer, leaving both Alex and the killer alive in the end.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "lesbian", 
+                    "driven", 
+                    "insane", 
+                    "final", 
+                    "survive"
+                ], 
+                "role": "In High Tension, a lesbian spends most of the film trying to rescue the girl she likes from the hands of a slasher. It turns out that her alternate personality is actually the killer, having been driven murderously insane by her secret crush. Both the killer and the final girl survive.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "circular"
+                ], 
+                "role": "Girl with Psycho Weapon: During the film Marie is depicted weilding both a wooden club wrapped in barbed wire (as shown above) and a circular saw.", 
+                "id": "GirlWithPsychoWeapon"
+            }, 
+            {
+                "adjectives": [
+                    "depraved", 
+                    "circular", 
+                    "industrial"
+                ], 
+                "role": "In High Tension, when the protagonist Marie's best friend Alex is abducted by a depraved serial killer, Marie fights psycho with psycho by wielding a butcher knife, a club wrapped in barbed wire, and even a circular saw in her efforts to get her friend back. In fact the saw is an industrial concrete/steel saw, a tool that can be used to cut through reinforced walls. You could probably take on the Terminator with one of those things.", 
+                "id": "GirlWithPsychoWeapon"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Marie from High Tension (2003).", 
+                "id": "PsychoLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Psycho Lesbian", 
+                "id": "PsychoLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0338095", 
+    "poster_url": "HighTension.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PsychoLesbian", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "VHS", 
+            "name": "V/H/S", 
+            "poster_url": "VHS.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "NineDead", 
+            "name": "Nine Dead", 
+            "poster_url": "NineDead.jpg"
+        }
+    ], 
+    "id": "HighTension", 
+    "name": "High Tension"
+}

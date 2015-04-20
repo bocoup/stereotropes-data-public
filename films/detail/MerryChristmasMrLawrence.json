@@ -1,0 +1,70 @@
+{
+    "plot": "In 1942 British soldier Jack Celliers comes to a Japanese prison camp. The camp is run by Yonoi, who has a firm belief in discipline, honor and glory. In his view, the allied prisoners are cowards when they chose to surrender instead of committing suicide. One of the prisoners, interpreter John Lawrence, tries to explain the Japanese way of thinking, but is considered a traitor.", 
+    "genres": "Drama, War", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Officer and a Gentleman: Both Lawrence and Yonoi.", 
+                "id": "OfficerAndAGentleman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Samurai: While Yonoi is not exactly one of these, he would clearly like to be.", 
+                "id": "Samurai"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085933", 
+    "poster_url": "MerryChristmasMrLawrence.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }, 
+        {
+            "shared": [
+                "Samurai"
+            ], 
+            "shared_count": 1, 
+            "id": "Kagemusha", 
+            "name": "Kagemusha", 
+            "poster_url": "Kagemusha.jpg"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "EnemyAtTheGates", 
+            "name": "Enemy at the Gates", 
+            "poster_url": "EnemyAtTheGates.jpg"
+        }, 
+        {
+            "shared": [
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGreatDictator", 
+            "name": "The Great Dictator", 
+            "poster_url": "TheGreatDictator.jpg"
+        }
+    ], 
+    "id": "MerryChristmasMrLawrence", 
+    "name": "Merry Christmas, Mr. Lawrence"
+}

@@ -1,0 +1,65 @@
+{
+    "plot": "A vulgar private detective is hired to find a missing groupie and is drawn into a mystery involving a series of murders tied to the music industry.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Kavorka Man: While he's not exactly ugly, Ford Fairlane is crass, rude, and incredibly sexist. Yet, the hot young women are all over him.", 
+                "id": "KavorkaMan"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098987", 
+    "poster_url": "TheAdventuresOfFordFairlane.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCommitments", 
+            "name": "The Commitments", 
+            "poster_url": "TheCommitments.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }
+    ], 
+    "id": "TheAdventuresOfFordFairlane", 
+    "name": "The Adventures of Ford Fairlane"
+}

@@ -1,0 +1,79 @@
+{
+    "plot": "On the day he gets married and hangs up his badge, lawman Will Kane is told that a man he sent to prison years before, Frank Miller, is returning on the noon train to exact his revenge. Having initially decided to leave with his new spouse, Will decides he must go back and face Miller. However, when he seeks the help of the townspeople he has protected for so long, they turn their backs on him. It seems Kane may have to face Miller alone, as well as the rest of Miller's gang, who are waiting for him at the station...", 
+    "genres": "Western", 
+    "release_year": "1952", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "only", 
+                    "bad", 
+                    "able", 
+                    "free", 
+                    "many", 
+                    "female"
+                ], 
+                "role": "Neutral Female: Subverted. Amy vows not to support or help her husband fight the thugs, but ultimately she is the only person to help him fight. She shoots a bad guy and is even able to break free of Miller's hold so her husband can shoot him. Played straight by many of the female townspeople. Some seem disgusted at their husbands refusal to help Kane, but do nothing themselves.", 
+                "id": "NeutralFemale"
+            }, 
+            {
+                "adjectives": [
+                    "such", 
+                    "neutral", 
+                    "bad"
+                ], 
+                "role": "Subverted in High Noon, where the hero's wife is built in such a way to expect her to be a Neutral Female \u2014 she's a Quaker and a pacifist, and so would supposedly be neutral even if she were male. However, she eventually shoots one of the bad guys, and when the leader takes her hostage, she claws into his face, allowing her husband to shoot him.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0044706", 
+    "poster_url": "HighNoon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "RawDeal", 
+            "name": "Raw Deal", 
+            "poster_url": "RawDeal.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScarletPumpernickel", 
+            "name": "The Scarlet Pumpernickel"
+        }
+    ], 
+    "id": "HighNoon", 
+    "name": "High Noon"
+}

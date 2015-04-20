@@ -1,0 +1,79 @@
+{
+    "plot": "Andrew Largeman is a semi-successful television actor who plays a intellectually disabled quarterback. His somewhat controlling and psychiatrist father has led Andrew (\"Large\") to believe that his mother's wheelchair bound life was his fault. Andrew decides to lay off the drugs that his father and his doctor made him believe that he needed, and began to see life for what it is. He began to feel the pain he had longed for, and began to have a genuine relationship with a girl who had some problems of her own.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2004", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "psychiatric"
+                ], 
+                "role": "Emotionless Guy: Andrew Largeman. He gradually opens up during the course of the film because he's finally off his psychiatric medications and because he meets Sam.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [
+                    "famous"
+                ], 
+                "role": "Manic Pixie Dream Girl: Sam. Certainly not the Ur Example, but one of the most famous examples.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0333766", 
+    "poster_url": "GardenState.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SafetyNotGuaranteed", 
+            "name": "Safety Not Guaranteed", 
+            "poster_url": "SafetyNotGuaranteed.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Waitress", 
+            "name": "Waitress", 
+            "poster_url": "Waitress.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "May", 
+            "name": "May", 
+            "poster_url": "May.jpg"
+        }
+    ], 
+    "id": "GardenState", 
+    "name": "Garden State"
+}

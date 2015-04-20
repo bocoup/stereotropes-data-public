@@ -1,0 +1,144 @@
+{
+    "plot": "Edward is a rich, ruthless businessman who specializes in taking over companies and then selling them off piece by piece. He travels to Los Angeles for a business trip and decides to hire a prostitute. They take a liking to each other and he offers her money if she'll stay with him for an entire week while he makes the \"rich and famous\" scene (since it doesn't do for a man of his stature to be alone at society parties and polo matches). Romantic comedy (and complications) ensue.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "imaginary"
+                ], 
+                "role": "Knight In Shining Armour: The knight rescuing the imaginary Princess Vivian.", 
+                "id": "KnightInShiningArmor"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Vivian"
+                ], 
+                "role": "Farmer's Daughter: Vivian.", 
+                "id": "FarmersDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "street-corner"
+                ], 
+                "role": "In Pretty Woman, Julia Roberts' character essentially goes from street-corner hooker to this in one fell swoop.", 
+                "id": "HighClassCallGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Vivian"
+                ], 
+                "role": "Hooker with a Heart of Gold: Vivian.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "dead", 
+                    "real", 
+                    "new", 
+                    "former"
+                ], 
+                "role": "Subverted in one episode when Nick develops feelings for a prostitute. She told him that she was planning on leaving the life and going back to college. Then she is found dead in her home after Nick spent the night there. Nick is nearly charged on suspicion of being her murderer, but Catherine finds the real killer in time. The subversion comes at the very end when Nick confronts her killer. The killer claims that she wasn't going back to college for an education. Instead, she was planning to recruit more girls as prostitutes to start a new career as a pimp. He was her former pimp and he killed her to preemptively remove the competition. He mocks Nick, saying \"this isn't Pretty Woman, she's not Julia Roberts, and you're not Richard Gere.\"", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "Vivian"
+                ], 
+                "role": "Early in Pretty Woman, when Vivian and her roommate are preparing to work the street.", 
+                "id": "LipstickAndLoadMontage"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick and Load Montage", 
+                "id": "LipstickAndLoadMontage"
+            }, 
+            {
+                "adjectives": [
+                    "Vivian", 
+                    "striking"
+                ], 
+                "role": "Ms. Fanservice: Vivian; it's especially striking given Roberts purposely avoided the trope the rest of her career.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "Vivian", 
+                    "wicked", 
+                    "white"
+                ], 
+                "role": "Princess Phase: When Vivian was a little girl she would pretend she was a princess... trapped in a tower by a wicked queen. And then suddenly this knight... on a white horse with these colors flying would come charging up and draw his sword. And she would wave. And he would climb up the tower and rescue her.", 
+                "id": "PrincessPhase"
+            }, 
+            {
+                "adjectives": [
+                    "Vivian", 
+                    "wicked", 
+                    "white"
+                ], 
+                "role": "When Vivian of Pretty Woman was a little girl she would pretend she was a princess... trapped in a tower by a wicked queen. And then suddenly this knight... on a white horse with these colors flying would come charging up and draw his sword. And she would wave. And he would climb up the tower and rescue her.", 
+                "id": "PrincessPhase"
+            }
+        ]
+    }, 
+    "imdbid": "tt0100405", 
+    "poster_url": "PrettyWoman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "HighClassCallGirl", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "FoxyBrown", 
+            "name": "Foxy Brown", 
+            "poster_url": "FoxyBrown.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "FarmersDaughter", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBeverlyHillbillies", 
+            "name": "The Beverly Hillbillies", 
+            "poster_url": "TheBeverlyHillbillies.jpg"
+        }
+    ], 
+    "id": "PrettyWoman", 
+    "name": "Pretty Woman"
+}

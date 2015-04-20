@@ -1,0 +1,77 @@
+{
+    "plot": "To protect Japan from yet another monster attack, this time from a new and malevolent member of the Godzilla (Gojira) species, the Japanese government creates a human-piloted cyborg, codenamed Kiriyu, using the skeleton of the original Godzilla (Gojira) that attacked Japan in 1954.", 
+    "genres": "Action, Sci-Fi, Thriller", 
+    "release_year": "2002", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Akane Yashiro.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "pregnant", 
+                    "sensitive"
+                ], 
+                "role": "Missing Mom: Not really missing. When Sara's mom was pregnant with Sara's younger sibling, she became sick. Both her mom and sibling ended up dying, and Sara became very sensitive about life and death as a result.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0314111", 
+    "poster_url": "GodzillaAgainstMechagodzilla.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanMysteryOfTheBatwoman", 
+            "name": "Batman: Mystery of the Batwoman", 
+            "poster_url": "BatmanMysteryOfTheBatwoman.jpg"
+        }
+    ], 
+    "id": "GodzillaAgainstMechagodzilla", 
+    "name": "Godzilla Against Mechagodzilla"
+}

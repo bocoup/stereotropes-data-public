@@ -1,0 +1,86 @@
+{
+    "plot": "During Grant's presidency, Jonah Hex is a remorseless bounty hunter. In the Civil War, he was a rebel whose honor put him afoul of a Confederate general, Quentin Turnbull, who murdered Jonah's family while Jonah watched. As a result of the ordeal, Jonah's face is disfigured and he can talk with the dead. After staging his own death, Turnbull, with a group of rebel stalwarts, hatches a plan to bring the Union to its knees. Grant wants Hex to stop it. While the nation readies to celebrate Independence Day, Hex and an unlikely ally have little time to stop Turnbull and his weapon of mass destruction.", 
+    "genres": "Action, Drama, Fantasy", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Jonah sports one.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crusading Widower", 
+                "id": "CrusadingWidower"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl/Dark Action Girl: Lilah.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Lilah.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt1075747", 
+    "poster_url": "JonahHex.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssMustache", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CrusadingWidower", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "CrusadingWidower", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "QuigleyDownUnder", 
+            "name": "Quigley Down Under", 
+            "poster_url": "QuigleyDownUnder.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TotalRecall1990", 
+            "name": "Total Recall ", 
+            "poster_url": "TotalRecall1990.jpg"
+        }
+    ], 
+    "id": "JonahHex", 
+    "name": "Jonah Hex"
+}

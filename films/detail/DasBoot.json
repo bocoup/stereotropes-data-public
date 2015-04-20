@@ -1,0 +1,100 @@
+{
+    "plot": "It is 1942 and the German submarine fleet is heavily engaged in the so-called \"Battle of the Atlantic\" to harass and destroy British shipping. With better escorts of the Destroyer Class, however, German U-Boats have begun to take heavy losses. \"Das Boot\" is the story of one such U-Boat crew, with the film examining how these submariners maintained their professionalism as soldiers and attempted to accomplish impossible missions, all the while attempting to understand and obey the ideology of the government under which they served.", 
+    "genres": "Adventure, Drama, War", 
+    "release_year": "1981", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "old", 
+                    "young"
+                ], 
+                "role": "A Father to His Men: The Captain feels too old among his young children.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "much", 
+                    "thirty", 
+                    "old", 
+                    "late"
+                ], 
+                "role": "The Captain in Das Boot is very much like this, although he is only thirty years old and the men are in their late teens.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "u-boat", 
+                    "only", 
+                    "whole", 
+                    "young", 
+                    "new"
+                ], 
+                "role": "Beard of Sorrow: After weeks of being stuck on the u-boat, the 1WO is pretty much the only one who still bothers to shave. Nicely foreshadowed, when the Captain advises Werner to save some pictures for when they return, as the whole crew of mostly young new recruits will have beards by then.", 
+                "id": "BeardOfSorrow"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Das Boot", 
+                "id": "GlamorousWartimeSinger"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082096", 
+    "poster_url": "DasBoot.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunted", 
+            "name": "The Hunted", 
+            "poster_url": "TheHunted.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "StarshipTroopers", 
+            "name": "Starship Troopers", 
+            "poster_url": "StarshipTroopers.jpg"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "PathsOfGlory", 
+            "name": "Paths of Glory", 
+            "poster_url": "PathsOfGlory.jpg"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "ApocalypseNow", 
+            "name": "Apocalypse Now", 
+            "poster_url": "ApocalypseNow.jpg"
+        }
+    ], 
+    "id": "DasBoot", 
+    "name": "Das Boot"
+}

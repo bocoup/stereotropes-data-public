@@ -1,0 +1,90 @@
+{
+    "plot": "This is an English language film (made in America) adapted from a novel by German author Erich Maria Remarque. The film follows a group of German schoolboys, talked into enlisting at the beginning of World War 1 by their jingoistic teacher. The story is told entirely through the experiences of the young German recruits and highlights the tragedy of war through the eyes of individuals. As the boys witness death and mutilation all around them, any preconceptions about \"the enemy\" and the \"rights and wrongs\" of the conflict disappear, leaving them angry and bewildered. This is highlighted in the scene where Paul mortally wounds a French soldier and then weeps bitterly as he fights to save his life while trapped in a shell crater with the body. The film is not about heroism but about drudgery and futility and the gulf between the concept of war and the actuality.", 
+    "genres": "Drama, War", 
+    "release_year": "1930", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Lt. Bertinck; it helps that he was field promoted from the ranks.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Cool Old Guy: Kat. He's 40, but still counts, as he's old compared to the people around him.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "later", 
+                    "light"
+                ], 
+                "role": "Corporal Himmelstoss of All Quiet on the Western Front, possibly one of the earliest examples of the trope (it was written by a German veteran of World War I shortly after said war). A coward who dreads going to the front, his troops get their revenge.\n Himmelstoss is redeemed later in the book, when one character meets him again after he's been wounded and placed on light duty with supply. Himmelstoss is there as the supply sergeant, and has after seeing the elephant and realising what the characters go through, turned into Sergeant Friendly, getting the character good food and even sneaking him some goodies on the side.", 
+                "id": "DrillSergeantNasty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Drill Sergeant Nasty: Corporal Himmelstoss, who trained Paul and his friends. Himmelstoss does a Heel-Face Turn after having been forced to actually serve in the trenches.", 
+                "id": "DrillSergeantNasty"
+            }
+        ]
+    }, 
+    "imdbid": "tt0020629", 
+    "poster_url": "AllQuietOnTheWesternFront.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenTheLastStand", 
+            "name": "X-Men: The Last Stand", 
+            "poster_url": "XMenTheLastStand.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHuntForRedOctober", 
+            "name": "The Hunt for Red October", 
+            "poster_url": "TheHuntForRedOctober.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TowerHeist", 
+            "name": "Tower Heist", 
+            "poster_url": "TowerHeist.jpg"
+        }
+    ], 
+    "id": "AllQuietOnTheWesternFront", 
+    "name": "All Quiet on the Western Front"
+}

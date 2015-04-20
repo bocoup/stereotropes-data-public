@@ -1,0 +1,101 @@
+{
+    "plot": "Amy is only 13 years old when her mother is killed in an auto wreck in New Zealand. She goes to Canada to live with her father, an eccentric inventor whom she barely knows. Amy is miserable in her new life...that is until she discovers a nest of goose eggs that were abandoned when developers began tearing up a local forest. The eggs hatch and Amy becomes \"Mama Goose\". The young birds must fly south for the winter, but who will lead them there? With a pair of ultralight airplanes, Amy, her dad and their friends must find a way to do it...", 
+    "genres": "Adventure, Drama, Family", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Why Amy doesn't really get along with Thomas at first. Although it is implied by the dialogue that Amy and her mom left him (presumably because he was more focused on his art projects than them)", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pretty Boy: Barry.", 
+                "id": "PrettyBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "elderly"
+                ], 
+                "role": "Cool Old Lady: The elderly woman with the hunter rifle.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Goose: (hee hee!) Amy, of course; especially after Igor gets his wing clipped.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fly Away Home begins with the heroine's mother dying in a car crash.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116329", 
+    "poster_url": "FlyAwayHome.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "PrettyBoy", 
+                "CoolOldLady", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "PrettyBoy", 
+                "CoolOldLady", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "TheLorax", 
+            "name": "The Lorax", 
+            "poster_url": "TheLorax.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldLady", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldLady", 
+                "MamaBear", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheFoxAndTheHound", 
+            "name": "The Fox and the Hound", 
+            "poster_url": "TheFoxAndTheHound.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldLady", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Dinosaur", 
+            "name": "Dinosaur", 
+            "poster_url": "Dinosaur.jpg"
+        }
+    ], 
+    "id": "FlyAwayHome", 
+    "name": "Fly Away Home"
+}

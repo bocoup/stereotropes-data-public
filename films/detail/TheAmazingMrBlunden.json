@@ -1,0 +1,70 @@
+{
+    "plot": "A mysterious, very old solicitor Mr. Blunden visits Mrs. Allen and her young children in her squalid, tiny Camden Town flat and makes her an offer she cannot refuse. The family become the housekeepers to a derelict country mansion in the charge of the solicitors. One day the children meet the spirits of two other children who died in the mansion nearly a hundred years previously. The children prepare a magic potion that allows them to travel backwards in time to the era of the ghost children. Will the children be able to help their new friends and what will happen to them if they do??", 
+    "genres": "Family, Mystery, Fantasy", 
+    "release_year": "1972", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Mr. Allen has died during the war sometime before the story, as have Sara and Georgie's parents.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Mr. Wickens.", 
+                "id": "DumbMuscle"
+            }
+        ]
+    }, 
+    "imdbid": "tt0068200", 
+    "poster_url": "TheAmazingMrBlunden.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "BladeRunner", 
+            "name": "Blade Runner", 
+            "poster_url": "BladeRunner.jpg"
+        }
+    ], 
+    "id": "TheAmazingMrBlunden", 
+    "name": "The Amazing Mr Blunden"
+}

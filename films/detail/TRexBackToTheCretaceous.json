@@ -1,0 +1,72 @@
+{
+    "plot": "Ally Hayden is a teenager who shares her father's interest in dinosaurs and archaeology. When he brings a mysterious fossil back from a dig, she is convinced it's the egg of a Tyrannosaurus Rex. After accidentally knocking the egg to the floor, Ally begins to experience visions, as if she was being transported back in time to the Cretaceous period. There, she encounters several different dinosaurs, including her favorite, the mighty T-Rex.", 
+    "genres": "Adventure", 
+    "release_year": "1998", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Ally adores her father, which arguably inspires her fascination with palaeontology.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Hot", 
+                    "radiant"
+                ], 
+                "role": "Hot Scientist: Elizabeth Sample is a slender blonde with a radiant smile.", 
+                "id": "HotScientist"
+            }
+        ]
+    }, 
+    "imdbid": "tt0163862", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AnneFrankTheWholeStory", 
+            "name": "Anne Frank The Whole Story"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }
+    ], 
+    "id": "TRexBackToTheCretaceous", 
+    "name": "T Rex Back To The Cretaceous"
+}

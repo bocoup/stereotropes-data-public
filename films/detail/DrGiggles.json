@@ -1,0 +1,93 @@
+{
+    "plot": "The psychopathic son of a mass-murdering doctor, escapes from his mental institution to seek revenge on the town where his father was caught. The giggling doctor kills his victims with a surgical theme. His goal being to give one of the townfolk a heart transplant.", 
+    "genres": "Comedy, Drama, Horror", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Freddie has one when prepares for sex.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Jennifer.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Jennifer.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "close", 
+                    "modern"
+                ], 
+                "role": "Wicked Stepmother: Tamara is close to a modern example.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104139", 
+    "poster_url": "DrGiggles.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "WickedStepmother", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteATaleOfTerror", 
+            "name": "Snow White: A Tale of Terror", 
+            "poster_url": "SnowWhiteATaleOfTerror.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Gutterballs", 
+            "name": "Gutterballs", 
+            "poster_url": "Gutterballs.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCabinInTheWoods", 
+            "name": "The Cabin in the Woods", 
+            "poster_url": "TheCabinInTheWoods.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FridayThe13th1980", 
+            "name": "Friday the 13th ", 
+            "poster_url": "FridayThe13th1980.jpg"
+        }
+    ], 
+    "id": "DrGiggles", 
+    "name": "Dr. Giggles"
+}

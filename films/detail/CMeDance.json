@@ -1,0 +1,76 @@
+{
+    "plot": "A drama centered on a teenage girl who has trained her entire life to dance for the Pittsburgh Ballet.", 
+    "genres": "Drama, Thriller", 
+    "release_year": "2009", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ill Girl: Sheri.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "young"
+                ], 
+                "role": "Missing Mom: When Sheri was very young, her mom died in a car accident.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt1314645", 
+    "poster_url": "CMeDance.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "MyGirl", 
+            "name": "My Girl", 
+            "poster_url": "MyGirl.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "GraveOfTheFireflies", 
+            "name": "Grave of the Fireflies", 
+            "poster_url": "GraveOfTheFireflies.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "GameraTheBrave", 
+            "name": "Gamera The Brave", 
+            "poster_url": "GameraTheBrave.jpg"
+        }
+    ], 
+    "id": "CMeDance", 
+    "name": "C Me Dance"
+}

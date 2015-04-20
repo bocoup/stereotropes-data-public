@@ -1,0 +1,119 @@
+{
+    "plot": "Harriet M. Welsch is a spy. But when Harriet's friends find her secret notebook the tables are turned on her. Can she win her friends back and still keep on going with the spy business?", 
+    "genres": "Family, Comedy, Drama", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "interesting"
+                ], 
+                "role": "Disappeared Dad: Rachel Hennessey. Also Harriet, in an interesting way. When her father isn't at work, he's mostly unavailable. He does greet her when he comes home from work, and he tries to help her with her Method Acting homework for dramatics class.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Marion Hawthorne.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crazy Cat Lady: The birdcage maker. He's got 26 cats, and the health department is after him. They get him in the end and take away all his cats. But then at the end of the book, he sneaks in a little kitten... Awwwww.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [
+                    "seclusive", 
+                    "last", 
+                    "little"
+                ], 
+                "role": "In Harriet the Spy, one of Harriet's spy targets is a very seclusive man with some twenty cats. He's constantly attempting to avoid Animal Control, who have him pegged as a hoarder although he clearly cares for the cats \u2014 they eat better than he does. By the end of the book, they catch him and take the cats away. He's despondent... until the last time we see him, when he's started over with one little kitten.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [
+                    "own", 
+                    "private"
+                ], 
+                "role": "Beth Ellen Hanson of Harriet the Spy is described as \"Always look[ing] like she might cry\". In a subversion, Harriet writes that this just makes her want to kick her and get it over with.\n In Beth Ellen's own book, The Long Secret, we learn that Beth Ellen cries in private because her grandmother has taught her that's what a Proper Lady does. But she has a crying fit during a sleepover after her Rich Bitch mother returns \u2014 and Harriet gently takes her hand and holds it until she's through.", 
+                "id": "FragileFlower"
+            }, 
+            {
+                "adjectives": [
+                    "magic"
+                ], 
+                "role": "The nanny in Harriet the Spy isn't magic, but is amazing.", 
+                "id": "MagicalNanny"
+            }, 
+            {
+                "adjectives": [
+                    "Rich", 
+                    "different"
+                ], 
+                "role": "Rich Bitch: Marion Hawthorne, again. Also Harriet in a slightly different way.", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116493", 
+    "poster_url": "HarrietTheSpy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "AlphaBitch", 
+                "CrazyCatLady"
+            ], 
+            "shared_count": 3, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "AlphaBitch", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "ALittlePrincess", 
+            "name": "A Little Princess", 
+            "poster_url": "ALittlePrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "FragileFlower", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CrazyCatLady"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }
+    ], 
+    "id": "HarrietTheSpy", 
+    "name": "Harriet the Spy"
+}

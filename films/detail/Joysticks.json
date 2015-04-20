@@ -1,0 +1,76 @@
+{
+    "plot": "There's trouble in town and it's video games. High school students spend so much time with the electronic monsters that there's no time for schoolwork. Shucks.", 
+    "genres": "Comedy", 
+    "release_year": "1983", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "female", 
+                    "attractive"
+                ], 
+                "role": "Ms. Fanservice: Pretty much every female character is...quite attractive.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "Valley Girl: Joseph Rutter's daughter Patsy exhibits several mannerisms and ideals of this archtype.", 
+                "id": "ValleyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085764", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "ValleyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ValleyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HotTubTimeMachine", 
+            "name": "Hot Tub Time Machine", 
+            "poster_url": "HotTubTimeMachine.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "RazorBladeSmile", 
+            "name": "Razor Blade Smile", 
+            "poster_url": "RazorBladeSmile.jpg"
+        }
+    ], 
+    "id": "Joysticks", 
+    "name": "Joysticks"
+}

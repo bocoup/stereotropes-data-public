@@ -1,0 +1,80 @@
+{
+    "plot": "Adam is a 27 year old writer of radio programs and is diagnosed with a rare form of spinal cancer. With the help of his best friend, his mother, and a young therapist at the cancer center, Adam learns what and who the most important things in his life are.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Straw Misogynist: Kyle has shades of this, although his objectification problems are Played for Laughs , mostly.", 
+                "id": "StrawMisogynist"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Angelica Houston goes into this mode, both to try to care for Adam and to try to get him to open up to her.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "My Beloved Smother: Anjelica Huston's character. She admits to Katherine that she smothers him because she loves him.", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt1306980", 
+    "poster_url": "FiftyFifty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MamaBear", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TuckEverlasting", 
+            "name": "Tuck Everlasting", 
+            "poster_url": "TuckEverlasting.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "Brave", 
+            "name": "Brave", 
+            "poster_url": "Brave.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Showgirls", 
+            "name": "Showgirls", 
+            "poster_url": "Showgirls.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "StrawMisogynist"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "FiftyFifty", 
+    "name": "50/50"
+}

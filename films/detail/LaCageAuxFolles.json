@@ -1,0 +1,92 @@
+{
+    "plot": "Two gay men living in St. Tropez have their lives turned upside down when the son of one of the men announces he is getting married. They try conceal their lifestyle and their ownership of the drag club downstairs when the fianc\u00e9e and her parents come for dinner.", 
+    "genres": "Comedy", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Gay/Transsexual"
+                ], 
+                "role": "Camp Gay/Transsexual", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disguised in Drag", 
+                "id": "DisguisedInDrag"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "French", 
+                    "Maid/French", 
+                    "amusing"
+                ], 
+                "role": "French Maid/French Maid Outfit: Jacob, an amusing male example.", 
+                "id": "FrenchMaid"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black \"Woman\": Jacob, the \"maid\", though a man, is essentially this.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0077288", 
+    "poster_url": "LaCageAuxFolles.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SassyBlackWoman", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "WhiteChicks", 
+            "name": "White Chicks", 
+            "poster_url": "WhiteChicks.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCuriosityOfChance", 
+            "name": "The Curiosity Of Chance", 
+            "poster_url": "TheCuriosityOfChance.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBirdcage", 
+            "name": "The Birdcage", 
+            "poster_url": "TheBirdcage.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "LaCageAuxFolles", 
+    "name": "La Cage aux folles"
+}

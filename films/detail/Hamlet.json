@@ -1,0 +1,145 @@
+{
+    "plot": "Hamlet, son of the king of Denmark, is summoned home for his father's funeral and his mother's wedding to his uncle. In a supernatural episode, he discovers that his uncle, whom he hates anyway, murdered his father. In an incredibly convoluted plot--the most complicated and most interesting in all literature--he manages to (impossible to put this in exact order) feign (or perhaps not to feign) madness, murder the \"prime minister,\" love and then unlove an innocent whom he drives to madness, plot and then unplot against the uncle, direct a play within a play, successfully conspire against the lives of two well-meaning friends, and finally take his revenge on the uncle, but only at the cost of almost every life on stage, including his own and his mother's.", 
+    "genres": "Drama", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Osric in some performances.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "present"
+                ], 
+                "role": "Hamlet: Polonius towards Ophelia. Definitely. Insists that Ophelia reject Hamlet's advances, lest she \"present [him] with a fool.\"", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [
+                    "Protective"
+                ], 
+                "role": "Over Protective Dad: Polonius again.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [
+                    "several", 
+                    "late", 
+                    "debatable"
+                ], 
+                "role": "In Hamlet, it's mentioned by several characters that Hamlet's late father was this. In the end, it seemed some subjects thought Hamlet himself would become this, though the truth of this is highly debatable.", 
+                "id": "TheGoodKing"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "generous", 
+                    "level-headed", 
+                    "betrayal", 
+                    "own", 
+                    "unable"
+                ], 
+                "role": "Broken Bird: We don't meet Hamlet until after he has been broken, but according to his friends he used to be a generous, loving, and level-headed man. Due to his father's death and his uncle's betrayal, he is consumed by his own sadness and therefore unable to trust or show compassion to anyone. He cruelly mocks Ophelia, but he would not be this way if it hadn't been for the tragedy of his father's murder.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "innocent"
+                ], 
+                "role": "Ophelia, Hamlet. Depending on one's interpretation of the scene, the flowers Ophelia hands out may only exist in her mind. And they're not so innocent, considering each of her flowers represents a thinly veiled criticism of the people she hands them to.", 
+                "id": "InnocentFlowerGirl"
+            }, 
+            {
+                "adjectives": [
+                    "slang", 
+                    "due", 
+                    "anti-Catholic"
+                ], 
+                "role": "\"Nunnery\" was apparently slang for a brothel in Shakespeare's day, which is how he uses it in Hamlet.\n This was, at least partly, due to the extreme anti-Catholic bias operating in England at the time. Being Catholic was, in itself, a capital offense for most if not all of his lifetime, and he worked in the serving levels of the courts of both Elizabeth I and James I (the players company he was part of was the official court theater troupe).", 
+                "id": "NaughtyNuns"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Hamlet, Hamlet tells Ophelia \"Get Thee to a Nunnery,\" which is nowadays taken at face value rather than as a Double Entendre.", 
+                "id": "TakingTheVeil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ophelia from Hamlet, the Trope Namer.", 
+                "id": "TheOphelia"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ophelia: Trope Namer. Ophelia becomes the Ophelia after going mad in Act IV.", 
+                "id": "TheOphelia"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "funeral"
+                ], 
+                "role": "Ophelia from Hamlet might be seen as one. Against the warning of her father, she's fallen in love with the Prince, and as soon as Hamlet begins to feign madness, the first thing he does is try to break off his relationship with Ophelia. She doesn't take it well, and then things go From Bad to Worse. At her funeral, Hamlet sobs profusely for his love for her.", 
+                "id": "UnrequitedTragicMaiden"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116477", 
+    "poster_url": "Hamlet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "UnrequitedTragicMaiden", 
+                "OverprotectiveDad", 
+                "BrokenBird"
+            ], 
+            "shared_count": 3, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "TheGoodKing"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "Sybil", 
+            "name": "Sybil", 
+            "poster_url": "Sybil.jpg"
+        }
+    ], 
+    "id": "Hamlet", 
+    "name": "Hamlet"
+}

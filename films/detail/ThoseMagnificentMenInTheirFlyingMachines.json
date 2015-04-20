@@ -1,0 +1,82 @@
+{
+    "plot": "In the early days of the 20th century, a British Newspaper offers a prize for the winner of a cross channel air race which brings flyers from all over the world. There are many sub-plots as the flyers jockey for position and the affections of various women.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1965", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Richard", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dastardly Whiplash: Sir Percy Ware-Armitage.", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [
+                    "disreputable"
+                ], 
+                "role": "Sir Percy Ware-Armitage in Those Magnificent Men in Their Flying Machines. With his clipped moustache, clipped English accent, and clipped morals, he was the epitome of the \"disreputable cad\".", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sir Cuthbert Ware-Armitage (Those Daring Young Men in Their Jaunty Jalopies)", 
+                "id": "QuintessentialBritishGentleman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0059797", 
+    "poster_url": "ThoseMagnificentMenInTheirFlyingMachines.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "QuintessentialBritishGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "UnfaithfullyYours", 
+            "name": "Unfaithfully Yours", 
+            "poster_url": "UnfaithfullyYours.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Paprika", 
+            "name": "Paprika", 
+            "poster_url": "Paprika.jpg"
+        }
+    ], 
+    "id": "ThoseMagnificentMenInTheirFlyingMachines", 
+    "name": "Those Magnificent Men in Their Flying Machines"
+}

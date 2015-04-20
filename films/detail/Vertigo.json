@@ -1,0 +1,75 @@
+{
+    "plot": "Former Police detective John \"Scottie\" Ferguson was asked by a friend to investigate his wife named Madeleine since he was afraid that she might attempt to kill herself due to probable insanity as she thinks that she might be possessed by a dead woman. Scottie agrees and ended up falling in love with her. Unfortunately for him, Madeleine died and he was left alone until a woman named Judy came along and things start to unfold.", 
+    "genres": "Mystery, Romance, Thriller", 
+    "release_year": "1958", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "mysterious"
+                ], 
+                "role": "In Vertigo, the cool, mysterious blond Madeleine is the Light Feminine that Scottie obsesses over and the earthier brunet Judy is the Dark Feminine that Scottie tries to mold into Madeleine's image.", 
+                "id": "LightFeminineAndDarkFeminine"
+            }, 
+            {
+                "adjectives": [
+                    "standard", 
+                    "ensemble", 
+                    "earthy"
+                ], 
+                "role": "Sweater Girl: Judy Norton's standard tight-sweater-and-bullet-bra ensemble contrast Judy's earthy sexuality with Madeline the icy blond in the gray suit.", 
+                "id": "SweaterGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0052357", 
+    "poster_url": "Vertigo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 1, 
+            "id": "Sunrise", 
+            "name": "Sunrise", 
+            "poster_url": "Sunrise.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "SweaterGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "LightFeminineAndDarkFeminine"
+            ], 
+            "shared_count": 1, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "Vertigo", 
+    "name": "Vertigo"
+}

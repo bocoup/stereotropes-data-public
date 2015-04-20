@@ -1,0 +1,88 @@
+{
+    "plot": "Surreal character study focusing on the friendship between two male hustlers, Mike and Scott, in Portland, Oregon. They live on the streets, do drugs, and sell themselves to men and women. Mike is quiet, gay and suffers from narcolepsy. Abandoned as a child, he is obsessed with finding his long-lost mother. Scott is the rebellious son of a high-ranking family, who lives this life mostly to embarrass his father. Mike is in love with Scott, who still maintains he is straight and insists that his wild lifestyle on the streets is only temporary. Together, they embark on a quest to find Mike's mother, traveling from Portland to Idaho to Italy, with Scott picking up a beautiful girl along the way.", 
+    "genres": "Drama", 
+    "release_year": "1991", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Many"
+                ], 
+                "role": "Depraved Homosexual: Many of the hustlers' clients.", 
+                "id": "DepravedHomosexual"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Mike Waters.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "disadvantaged", 
+                    "narcolepsy", 
+                    "normal", 
+                    "inconvenient", 
+                    "other", 
+                    "great", 
+                    "safe"
+                ], 
+                "role": "My Own Private Idaho: Mike Waters is a prostitute because he is from a disadvantaged background and has narcolepsy, thus ensuring that he can't really have any normal job, as he falls asleep at the most inconvenient times. Many of the other prostitutes are shown to be in the profession by circumstance rather than thinking it's a great job. His friend Scott starts out like this, caring for Mike and making sure he stays safe but then  turns into a jerkass and abandons him.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102494", 
+    "poster_url": "MyOwnPrivateIdaho.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHouseOfTheSpirits", 
+            "name": "The House of the Spirits", 
+            "poster_url": "TheHouseOfTheSpirits.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Purgatory", 
+            "name": "Purgatory", 
+            "poster_url": "Purgatory.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Django", 
+            "name": "Django", 
+            "poster_url": "Django.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "McCabeAndMrsMiller", 
+            "name": "McCabe & Mrs. Miller", 
+            "poster_url": "McCabeAndMrsMiller.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }
+    ], 
+    "id": "MyOwnPrivateIdaho", 
+    "name": "My Own Private Idaho"
+}

@@ -1,0 +1,82 @@
+{
+    "plot": "China in the 1920's. After her father's death, nineteen year old Songlian is forced to marry Chen Zuoqian, the lord of a powerful family. Fifty year old Chen has already three wives, each of them living in separate houses within the great castle. The competition between the wives is tough, as their master's attention carries power, status and privilege. Each night Chen must decide with which wife to spend the night and a red lantern is lit in front of the house of his choice. And each wife schemes and plots to make sure it's hers. However, things get out of hand...", 
+    "genres": "Drama", 
+    "release_year": "1991", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Songlian"
+                ], 
+                "role": "Ice Queen: Songlian.", 
+                "id": "IceQueen"
+            }, 
+            {
+                "adjectives": [
+                    "Songlian"
+                ], 
+                "role": "The Ophelia: Songlian at the film's end.", 
+                "id": "TheOphelia"
+            }, 
+            {
+                "adjectives": [
+                    "classic", 
+                    "different"
+                ], 
+                "role": "Yamato Nadeshiko: The First and the Second Mistress are a classic example. Songlian and Meishan are a subversion, as pointed out by Meishan, a singer and a student are \"different\".", 
+                "id": "YamatoNadeshiko"
+            }
+        ]
+    }, 
+    "imdbid": "tt0101640", 
+    "poster_url": "RaiseTheRedLantern.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IceQueen", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMothDiaries", 
+            "name": "The Moth Diaries", 
+            "poster_url": "TheMothDiaries.jpg"
+        }, 
+        {
+            "shared": [
+                "YamatoNadeshiko"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "TheOphelia"
+            ], 
+            "shared_count": 1, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }, 
+        {
+            "shared": [
+                "IceQueen"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "YamatoNadeshiko"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }
+    ], 
+    "id": "RaiseTheRedLantern", 
+    "name": "Raise the Red Lantern"
+}

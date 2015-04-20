@@ -1,0 +1,63 @@
+{
+    "plot": "Musical adaptation of Charles Dickens's classic tale of an orphan who runs away from the orphanage and hooks up with a group of boys trained to be pickpockets by an elderly mentor.", 
+    "genres": "Drama, Family, Musical", 
+    "release_year": "1968", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Though unnamed, the Rose Seller in \"Who Will Buy?\" has one of the loveliest solos in Oliver!. The part is often cast and costumed to evoke this character archetype.", 
+                "id": "InnocentFlowerGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0063385", 
+    "poster_url": "Oliver.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "InnocentFlowerGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "LaBoheme", 
+            "name": "La Boheme"
+        }, 
+        {
+            "shared": [
+                "InnocentFlowerGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Deadman", 
+            "name": "Deadman"
+        }, 
+        {
+            "shared": [
+                "InnocentFlowerGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Hamlet", 
+            "name": "Hamlet", 
+            "poster_url": "Hamlet.jpg"
+        }, 
+        {
+            "shared": [
+                "InnocentFlowerGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Hugo", 
+            "name": "Hugo", 
+            "poster_url": "Hugo.jpg"
+        }, 
+        {
+            "shared": [
+                "InnocentFlowerGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Yellowbeard", 
+            "name": "Yellowbeard", 
+            "poster_url": "Yellowbeard.jpg"
+        }
+    ], 
+    "id": "Oliver", 
+    "name": "Oliver!"
+}

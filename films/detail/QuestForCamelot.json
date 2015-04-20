@@ -1,0 +1,66 @@
+{
+    "plot": "During the times of King Arthur, the story of an adventurous brave girl, named Kayley, whose father, a Knight of the Round Table, is killed by Sir Ruber, a maniacal brute who steals Excalibur and ultimately threatens to seize King Arthur's Camelot. Kayley enlists the blind, reclusive knight-aspirant Garrett and a young blind hermit and a goofy two headed dragon to brave the Enchanted Forest and retrieve the magic sword, and their adventure is also of course fraught with danger.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1998", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "dangerous", 
+                    "clear"
+                ], 
+                "role": "Faux Action Girl: Kayley aspires to knighthood and heroism, but when things get dangerous it quickly becomes clear that a background of farm chores and haphazard self-training hasn't left her very well equipped to defend herself, and she spends most of the film running away or relying on Garrett.", 
+                "id": "FauxActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120800", 
+    "poster_url": "QuestForCamelot.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ShrekTheThird", 
+            "name": "Shrek the Third", 
+            "poster_url": "ShrekTheThird.jpg"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBladeMaster", 
+            "name": "The Blade Master"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ResidentEvilDegeneration", 
+            "name": "Resident Evil Degeneration"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Speed2CruiseControl", 
+            "name": "Speed 2: Cruise Control", 
+            "poster_url": "Speed2CruiseControl.jpg"
+        }
+    ], 
+    "id": "QuestForCamelot", 
+    "name": "Quest for Camelot"
+}

@@ -1,0 +1,83 @@
+{
+    "plot": "Judd runs the Starlight Hotel out in some sort of swampy place and is unfortunately a few slices short of a loaf. He has a crocodile conveniently placed on the other side of the hotel's front porch railing. The croc will eat just about anything, as the hapless guests of the hotel find out soon enough. A reformed hooker, an unlucky family, and the father and sister of the hooker all suffer various rates of attrition as Judd tries to implement damage control.", 
+    "genres": "Horror", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Buck before his death.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "fresh", 
+                    "ex-prostitute"
+                ], 
+                "role": "Disposable Sex Worker: Faye is a fresh ex-prostitute on her moment of death.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Miss Kitty: Miss Hattie.", 
+                "id": "MissKitty"
+            }
+        ]
+    }, 
+    "imdbid": "tt0074455", 
+    "poster_url": "EatenAlive.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBurning", 
+            "name": "The Burning", 
+            "poster_url": "TheBurning.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Nekromantik", 
+            "name": "Nekromantik", 
+            "poster_url": "Nekromantik.jpg"
+        }, 
+        {
+            "shared": [
+                "MissKitty", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongHotSummer", 
+            "name": "The Long Hot Summer"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "EatenAlive", 
+    "name": "Eaten Alive"
+}

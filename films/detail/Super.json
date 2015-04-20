@@ -1,0 +1,140 @@
+{
+    "plot": "Frank Darrbo is a hapless fry cook. When his wife Sarah falls off the wagon and dumps him for Jacques, a drug dealer, Frank tries to get her back by reporting her kidnapped, grabbing her from Jacques' car, and wailing for her to return. After watching Christian TV and having a vision, he becomes a superhero to fight evil. He sews a costume, finds a weapon (a pipe wrench) and looks for crimes to stop. He has problems: his wrench inflicts real injury, so the cops want him for being a vigilante, his sense of boundaries is flawed, and Jacques' gang has guns. Libby, a clerk at a comic book store, becomes his sidekick, and it's time to go save Sarah. What chance do they have?", 
+    "genres": "Comedy, Crime, Drama", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "ambiguous", 
+                    "jealous", 
+                    "new", 
+                    "own", 
+                    "free"
+                ], 
+                "role": "Crazy Jealous Guy: It's ambiguous at the start whether Frank is a Knight In Shining Armour trying to rescue a Damsel in Distress, or just a jealous jilted lover who thinks his wife's new lover is \"stealing her from me\". The latter implication is certainly the one the police take, understandably. However, over the course of them film Jacques treatment of Sarah and Frank's willingness to graciously give her up when she ultimately leaves him of her own free will suggest this is not the case. At least not entirely.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crusading Widower: Well, not quite a widower, but it plays out very much like this trope.", 
+                "id": "CrusadingWidower"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "first"
+                ], 
+                "role": "Dogged Nice Guy: Frank seems like this at first, but he takes far too much pleasure in his \"crime fighting\" and violence.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [
+                    "hair"
+                ], 
+                "role": "Looks Like Jesus: Nathan Fillion requested that the Holy Avenger have long hair because of this.", 
+                "id": "LooksLikeJesus"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Jacques' drug dealer client.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Boltie.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Sarah is recovering from her addiction.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Sarah becomes this when Jacques gets her hooked on drugs again.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl with Psycho Weapon: Libby straps a pair of Wolverine Claws to her hand.", 
+                "id": "GirlWithPsychoWeapon"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Little Miss Badass: Boltie.", 
+                "id": "LittleMissBadass"
+            }
+        ]
+    }, 
+    "imdbid": "tt1512235", 
+    "poster_url": "Super.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "ScaryBlackMan", 
+                "GirlWithPsychoWeapon", 
+                "LittleMissBadass", 
+                "CrusadingWidower", 
+                "ActionGirl"
+            ], 
+            "shared_count": 6, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "CrusadingWidower", 
+                "DoggedNiceGuy", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 5, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "CrusadingWidower", 
+                "DoggedNiceGuy", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 5, 
+            "id": "Kick-Ass", 
+            "name": "Kick-Ass", 
+            "poster_url": "Kick-Ass.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CrazyJealousGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BrokenBird", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "Super", 
+    "name": "Super"
+}

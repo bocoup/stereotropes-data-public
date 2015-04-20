@@ -1,0 +1,111 @@
+{
+    "plot": "Blue is a young girl navigating the streets of a terrifying, sinister fantasy world all alone. When she meets Emmm, a fellow lost soul, she joins him on a quest for some ice cream. Upon arriving, they realize the ice cream shop has been taken over by dark forces, and the whole city is teeming with evil. Bizarre monsters surround Blue and Emmm on all sides until Rain, a sadistic hero, arrives to rescue them and exterminate the source of the evil.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bash Brothers: Rain and Ori", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "blue"
+                ], 
+                "role": "Effeminate Misogynistic Guy: HIM is a literally pink guy who is shown in the intro abusing a literally blue girl, all while claiming that women are \"tools\" for him to pleasure himself with and \"nothing more.\"", 
+                "id": "EffeminateMisogynisticGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "HIM, from We Are the Strange, is a pink guy who looks like he's wearing lipstick while smacking around a woman at his strip club and stating that women are \"mere tools\" of pleasure for him.", 
+                "id": "EffeminateMisogynisticGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Blue, at the end", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Blue has shades of this underneath the Shrinking Violet.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0923985", 
+    "poster_url": "WeAreTheStrange.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EffeminateMisogynisticGuy", 
+                "DisappearedDad", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BrokenBird", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "IAmNumberFour", 
+            "name": "I Am Number Four", 
+            "poster_url": "IAmNumberFour.jpg"
+        }, 
+        {
+            "shared": [
+                "EffeminateMisogynisticGuy", 
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom", 
+                "ActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }
+    ], 
+    "id": "WeAreTheStrange", 
+    "name": "We Are the Strange"
+}

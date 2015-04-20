@@ -1,0 +1,97 @@
+{
+    "plot": "If you had a love-potion, who would you make fall madly in love with you? Timothy, prone to escaping his dismal high school reality through dazzling musical daydreams, gets to answer that question in a very real way. After his eccentric teacher casts him as Puck in A Midsummer Night's Dream, he stumbles upon a recipe hidden within the script to create the play's magical, purple love-pansy. Armed with the pansy, Timothy's fading spirit soars as he puckishly imposes a new reality by turning much of his narrow-minded town gay, beginning with the rugby-jock of his dreams. Ensnaring family, friends and enemies in this chaos, Timothy forces them to walk a mile in his musical shoes. The course of true love never did run smooth; it's a bumpy ride.", 
+    "genres": "Adventure, Comedy, Fantasy", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Timothy's father kicked his son out for being gay.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: All of Timothy's classmates except Jonathon.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: All of Timothy's classmates except Jonathan.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Plenty of them.", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Timothy doesn't hide his sexuality, but neither is it in your face.  Likewise, Jonathon is implied to be attracted to Timothy before the pansy's spell, though only Frankie and Max comment on it.", 
+                "id": "StraightGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay: Timothy doesn't hide his sexuality, but neither is it in your face.  Likewise, Jonathan is implied to be attracted to Timothy before the pansy's spell, though only Frankie and Max comment on it.", 
+                "id": "StraightGay"
+            }
+        ]
+    }, 
+    "imdbid": "tt0476991", 
+    "poster_url": "WereTheWorldMine.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "StraightGay", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ShirtlessScene", 
+                "StraightGay"
+            ], 
+            "shared_count": 3, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "DeadPoetsSociety", 
+            "name": "Dead Poets Society", 
+            "poster_url": "DeadPoetsSociety.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Gutterballs", 
+            "name": "Gutterballs", 
+            "poster_url": "Gutterballs.jpg"
+        }
+    ], 
+    "id": "WereTheWorldMine", 
+    "name": "Were the World Mine"
+}

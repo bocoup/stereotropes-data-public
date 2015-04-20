@@ -1,0 +1,94 @@
+{
+    "plot": "The cartoonish and childish character Pee Wee Herman goes on a big adventure for the first time ever when his beloved shiny new bicycle is stolen by his nemesis Francis Buxton, a fellow man-child and neighborhood rich \"kid.\" And he sets off on an obsessive cross-country journey, determined to recover it. Pee-wee's awkward and childish attempts to be cool and mature.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disguised in Drag: Pee Wee. Both the policeman and Mickey seem to like what they see.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [
+                    "Pee-wee", 
+                    "Pee-Wee", 
+                    "Pee-Wee", 
+                    "squicky", 
+                    "Pee-Wee"
+                ], 
+                "role": "Pee-wee's Big Adventure: Pee-Wee quickly pulls together a drag masquerade while approaching a police roadblock, playing wife to escaped convict Mickey. It's not much of a disguise - just Pee-Wee in a chenille housecoat - but it fools the police and gets a squicky leering gaze from Mickey. Toward movie's end, Pee-Wee also dresses as a nun to sneak onto a movie set and reclaim his bike.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [
+                    "Pee-Wee", 
+                    "friendly", 
+                    "old", 
+                    "much"
+                ], 
+                "role": "Pee Wees Big Adventure - Pee-Wee encounters a friendly hobo when he hops a freight train, but the hobo's delight in singing old songs finally becomes too much for him.", 
+                "id": "Hobos"
+            }, 
+            {
+                "adjectives": [
+                    "Pee-wee", 
+                    "jealous"
+                ], 
+                "role": "Pee-wee's Big Adventure: Andy, the jealous boyfriend of Simone.", 
+                "id": "StoutStrength"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089791", 
+    "poster_url": "PeeWeesBigAdventure.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StoutStrength", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "Hobos", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "StoutStrength"
+            ], 
+            "shared_count": 1, 
+            "id": "Misery", 
+            "name": "Misery", 
+            "poster_url": "Misery.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "LupinIIIOperationReturnTheTreasure", 
+            "name": "Lupin III Operation Return The Treasure"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "SororityBoys", 
+            "name": "Sorority Boys", 
+            "poster_url": "SororityBoys.jpg"
+        }
+    ], 
+    "id": "PeeWeesBigAdventure", 
+    "name": "Pee-wee's Big Adventure"
+}

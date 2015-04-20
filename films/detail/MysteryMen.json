@@ -1,0 +1,103 @@
+{
+    "plot": "In order to generate more endorsement revenue, Champion City's resident superhero Captain Amazing arranges for the release of supervillain Casanova Frankenstein, only to be captured by him. The city's fate rests in the hands of seven loser superhero wannabes: the spoon-flinging Blue Rajah, the shovel-wielding Shoveler, the possessed bowling ball-hurling Bowler, the flatulent Spleen, the only-when-nobody's-looking Invisible Boy, the mysterious Sphinx, and the perpetually-angry Mr. Furious.", 
+    "genres": "Action, Comedy, Fantasy", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Momma's Boy who throws forks.", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fixit: Heller. He restores the Herkimer Battle Jitney, for starters.", 
+                "id": "MrFixit"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "mystic", 
+                    "soul", 
+                    "original"
+                ], 
+                "role": "Action Girl: The Bowler wipes out enemies by throwing a mystic bowling ball  possessed by the soul of her father, the original Bowler.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dark Mistress: Dr. Anabel Leek, Cassanova's psychiatrist and then lover.", 
+                "id": "DarkMistress"
+            }, 
+            {
+                "adjectives": [
+                    "disturbing", 
+                    "true"
+                ], 
+                "role": "The Bowler (aka Baby Bowler) from Mystery Men happens to own a bowling ball haunted by her murdered father. He can levitate himself just fine, but needs her to carry him around to get from place to place without disturbing anyone. It's especially glaring because, while the rest of the heroes have to come to terms with their true powers and learn to believe in themselves, she doesn't actually have any powers to believe in, and specifically joins because her father made her. She'd rather go back to school.", 
+                "id": "NeverASelfMadeWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Lucille, The Shoveler's wife, sasses and nags him about his superheroing.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0132347", 
+    "poster_url": "MysteryMen.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DarkMistress", 
+                "NeverASelfMadeWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "MrFixit", 
+                "NeverASelfMadeWoman", 
+                "MommasBoy"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "NeverASelfMadeWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverASelfMadeWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenDaysOfFuturePast", 
+            "name": "X-Men: Days of Future Past", 
+            "poster_url": "XMenDaysOfFuturePast.jpg"
+        }, 
+        {
+            "shared": [
+                "DarkMistress", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIncredibles", 
+            "name": "The Incredibles"
+        }
+    ], 
+    "id": "MysteryMen", 
+    "name": "Mystery Men"
+}

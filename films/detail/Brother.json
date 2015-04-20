@@ -1,0 +1,79 @@
+{
+    "plot": "A Japanese Yakuza gangster is exiled to the United States. Takeshi settles in Los Angeles where his younger, half brother lives and finds that although the turf is new, the rules are still the same as they try to take over the local drug trade.", 
+    "genres": "Crime, Drama, Thriller", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "occasional", 
+                    "Russian", 
+                    "good", 
+                    "Russian"
+                ], 
+                "role": "Cool Old Guy: \"The German\", occasional friend of Danila, who saves Danila's life, when he was wounded, in exchange for Danila's saving him from robber. He is also somewhat of a philosophier: his goal in life is to refute Russian proverb \"What is good for Russian - is death to German\".", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Danila's brother.", 
+                "id": "DirtyCoward"
+            }
+        ]
+    }, 
+    "imdbid": "tt0222851", 
+    "poster_url": "Brother.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWagesOfFear", 
+            "name": "The Wages of Fear", 
+            "poster_url": "TheWagesOfFear.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "GeorgeOfTheJungle", 
+            "name": "George of the Jungle", 
+            "poster_url": "GeorgeOfTheJungle.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "DancesWithWolves", 
+            "name": "Dances with Wolves", 
+            "poster_url": "DancesWithWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "MortalKombat", 
+            "name": "Mortal Kombat", 
+            "poster_url": "MortalKombat.jpg"
+        }
+    ], 
+    "id": "Brother", 
+    "name": "Brother"
+}

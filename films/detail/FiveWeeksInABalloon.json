@@ -1,0 +1,76 @@
+{
+    "plot": "Professor Fergusson plans to make aviation history by making his way across Africa by balloon. He plans to claim uncharted territories in West Africa as proof of his inventions worth.", 
+    "genres": "Adventure, Comedy, Romance", 
+    "release_year": "1962", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Quintessential", 
+                    "British", 
+                    "upper"
+                ], 
+                "role": "Quintessential British Gentleman: Sir Henry Vining is an upper class twit/snob version.", 
+                "id": "QuintessentialBritishGentleman"
+            }, 
+            {
+                "adjectives": [
+                    "upper"
+                ], 
+                "role": "Sir Henry Vining in Five Weeks in a Balloon (1962) is an upper class twit/snob version.", 
+                "id": "QuintessentialBritishGentleman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0055988", 
+    "poster_url": "FiveWeeksInABalloon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "QuintessentialBritishGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "QuintessentialBritishGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "SlaughterhouseFive", 
+            "name": "Slaughterhouse-Five", 
+            "poster_url": "SlaughterhouseFive.jpg"
+        }, 
+        {
+            "shared": [
+                "QuintessentialBritishGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "BottleShock", 
+            "name": "Bottle Shock", 
+            "poster_url": "BottleShock.jpg"
+        }, 
+        {
+            "shared": [
+                "QuintessentialBritishGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "StreetFighter", 
+            "name": "Street Fighter", 
+            "poster_url": "StreetFighter.jpg"
+        }, 
+        {
+            "shared": [
+                "QuintessentialBritishGentleman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGumballRally", 
+            "name": "The Gumball Rally", 
+            "poster_url": "TheGumballRally.jpg"
+        }
+    ], 
+    "id": "FiveWeeksInABalloon", 
+    "name": "Five Weeks in a Balloon"
+}

@@ -1,0 +1,77 @@
+{
+    "plot": "A couple own an airfield which makes its money on skydiving in the middle of New Mexico. They are having marital problems because the man is cheating on his wife, but remains she tries to remain true to him. The woman he is cheating with is jealous of the man's wife, so she seduces another guy to conspire with her to kill him. Meanwhile, the wife is cheating on the cheating husband with the husband's old Army buddy... and they all enjoy coffee all the while.", 
+    "genres": "Drama", 
+    "release_year": "1963", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "love-struck"
+                ], 
+                "role": "Femme Fatale: Suzy, who manipulates love-struck Frankie into helping her murder Harry.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "Rich", 
+                    "mean"
+                ], 
+                "role": "Rich Bitch: Suzy. Her \"paw\" gave her everything, but she's still \"mean\".", 
+                "id": "RichBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0057507", 
+    "poster_url": "TheSkydivers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FemmeFatale", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TemptationIsland", 
+            "name": "Temptation Island"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "AllOfMe", 
+            "name": "All of Me", 
+            "poster_url": "AllOfMe.jpg"
+        }, 
+        {
+            "shared": [
+                "RichBitch"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "FemmeFatale"
+            ], 
+            "shared_count": 1, 
+            "id": "AssassinationOfAHighSchoolPresident", 
+            "name": "Assassination Of A High School President", 
+            "poster_url": "AssassinationOfAHighSchoolPresident.jpg"
+        }
+    ], 
+    "id": "TheSkydivers", 
+    "name": "The Skydivers"
+}

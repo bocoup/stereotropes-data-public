@@ -1,0 +1,65 @@
+{
+    "plot": "Fictionalized account of the life of famed French author Emile Zola. As portrayed in the film, he was a penniless writer sharing an apartment in Paris with painter Paul Cezanne when he finally wrote a best-seller, Nana. He has always had difficulty holding onto a job as he is quite outspoken, being warned on several occasions by the public prosecutor that he risks charges if he does not temper his writings. The bulk of the film deals with his involvement in the case of Captain Alfred Dreyfus who was falsely convicted of giving secret military information to the Germans and sentenced to life imprisonment on Devils Island. Antisemitism played an important role in the real-life case but is hardly mentioned in the film. Even after the military found definitive evidence that Dreyfus was innocent, the army decided to cover it up rather than face the scandal of having arbitrarily convicted the wrong man. Zola's famous letter, J'Accuse (I Accuse), led to his own trial for libel where he was found guilty and forced to flee to England. Dreyfus was eventually exonerated and restored to his military rank.", 
+    "genres": "Biography, Drama", 
+    "release_year": "1937", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Streetwalker: Nana, the whore that Zola and Cezanne save from a police raid. Her story inspires Zola to write Nana, the book that makes him a success.", 
+                "id": "Streetwalker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0029146", 
+    "poster_url": "TheLifeOfEmileZola.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "Streetwalker"
+            ], 
+            "shared_count": 1, 
+            "id": "ManOfLaMancha", 
+            "name": "Man Of La Mancha", 
+            "poster_url": "ManOfLaMancha.jpg"
+        }, 
+        {
+            "shared": [
+                "Streetwalker"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBurning", 
+            "name": "The Burning", 
+            "poster_url": "TheBurning.jpg"
+        }, 
+        {
+            "shared": [
+                "Streetwalker"
+            ], 
+            "shared_count": 1, 
+            "id": "CatOnAHotTinRoof", 
+            "name": "Cat On A Hot Tin Roof", 
+            "poster_url": "CatOnAHotTinRoof.jpg"
+        }, 
+        {
+            "shared": [
+                "Streetwalker"
+            ], 
+            "shared_count": 1, 
+            "id": "CriminallyInsane", 
+            "name": "Criminally Insane", 
+            "poster_url": "CriminallyInsane.jpg"
+        }, 
+        {
+            "shared": [
+                "Streetwalker"
+            ], 
+            "shared_count": 1, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }
+    ], 
+    "id": "TheLifeOfEmileZola", 
+    "name": "The Life Of Emile Zola"
+}

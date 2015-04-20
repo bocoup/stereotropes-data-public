@@ -1,0 +1,93 @@
+{
+    "plot": "Alice, having survived the previous installment of the Nightmare series, finds the deadly dreams of Freddy Krueger starting once again. This time, the taunting murderer is striking through the sleeping mind of Alice's unborn child. His intention is to be \"born again\" into the real world. The only one who can stop Freddy is his dead mother, but can Alice free her spirit in time to save her own son?", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "pregnant"
+                ], 
+                "role": "Mr. Seahorse: One of the posters for the film shows Freddy being pregnant.", 
+                "id": "MisterSeahorse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "One of the posters for A Nightmare on Elm Street 5: The Dream Child depicts Freddy Krueger this way\u25ca. Lord of nightmares, indeed.", 
+                "id": "MisterSeahorse"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Alice Johnson.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "last"
+                ], 
+                "role": "Mama Bear: Alice Johnson. She refused to let Freddy use her unborn child as a means to continuing murdering innocents, and she refused to abort Jacob just to stop Freddy. Granted she worded it that he was the last link to Dan she had, but even before she knew the truth about him she demonstrated concern for him and told him that she cared about him.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097981", 
+    "poster_url": "ANightmareOnElmStreet5TheDreamChild.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MamaBear", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FridayThe13th1980", 
+            "name": "Friday the 13th ", 
+            "poster_url": "FridayThe13th1980.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FridayThe13thTheFinalChapter", 
+            "name": "Friday the 13th: The Final Chapter", 
+            "poster_url": "FridayThe13thTheFinalChapter.jpg"
+        }, 
+        {
+            "shared": [
+                "MisterSeahorse", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Godzilla1998", 
+            "name": "Godzilla ", 
+            "poster_url": "Godzilla1998.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Triangle", 
+            "name": "Triangle", 
+            "poster_url": "Triangle.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDescent", 
+            "name": "The Descent", 
+            "poster_url": "TheDescent.jpg"
+        }
+    ], 
+    "id": "ANightmareOnElmStreet5TheDreamChild", 
+    "name": "A Nightmare on Elm Street 5: The Dream Child"
+}

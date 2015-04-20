@@ -1,0 +1,65 @@
+{
+    "plot": "A young police officer must survive his first day's duty in a small country town.", 
+    "genres": "Action, Thriller, Western", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Slacker: Barlow", 
+                "id": "TheSlacker"
+            }
+        ]
+    }, 
+    "imdbid": "tt1530983", 
+    "poster_url": "RedHill.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "MainHoonNa", 
+            "name": "Main Hoon Na", 
+            "poster_url": "MainHoonNa.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "IVitelloni", 
+            "name": "I Vitelloni", 
+            "poster_url": "IVitelloni.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "TrueRomance", 
+            "name": "True Romance", 
+            "poster_url": "TrueRomance.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker"
+            ], 
+            "shared_count": 1, 
+            "id": "BetelnutBeauty", 
+            "name": "Betelnut Beauty", 
+            "poster_url": "BetelnutBeauty.jpg"
+        }
+    ], 
+    "id": "RedHill", 
+    "name": "Red Hill"
+}

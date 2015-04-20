@@ -1,0 +1,77 @@
+{
+    "plot": "Rene Vidal, a director in decline, decides to remake Louis Feuillade's silent serial \"Les Vampires.\" Believing no French actress can match Musidora as Irma Vep (an anagram for vampire), he casts Hong Kong action heroine Maggie Cheung, though she speaks no French. On the chaotic set, she's aided by Zoe, the wardrobe mistress with a crush on her; she defends Vidal to a Parisian journalist who trashes all French film and praises John Woo and Schwarzenegger; she befriends Vidal when he goes over the edge; and, in costume, she breaks into a hotel suite to steal jewels as her victim talks on the phone. We also watch the making, the rushes, and the remains of Vidal's unfinished film.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1996", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Classy Cat Burglar: Irma Vep herself, but also Maggie Cheung when she gets in character and turns into one for a night.", 
+                "id": "ClassyCatBurglar"
+            }, 
+            {
+                "adjectives": [
+                    "French"
+                ], 
+                "role": "Maggie Cheung turns into one for a night in Irma Vep.\n Which is based off of a French silent film serial called Les Vampyres. The Character of Irma Vep may be the Ur Example.", 
+                "id": "ClassyCatBurglar"
+            }, 
+            {
+                "adjectives": [
+                    "in-story", 
+                    "real-life"
+                ], 
+                "role": "The Muse: Maggie Cheung to the in-story director, as well as the real-life director.", 
+                "id": "TheMuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116650", 
+    "poster_url": "IrmaVep.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheMuse"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "TheMuse"
+            ], 
+            "shared_count": 1, 
+            "id": "EightAndAHalf", 
+            "name": "8\u00bd"
+        }, 
+        {
+            "shared": [
+                "ClassyCatBurglar"
+            ], 
+            "shared_count": 1, 
+            "id": "ACatInParis", 
+            "name": "A Cat in Paris", 
+            "poster_url": "ACatInParis.jpg"
+        }, 
+        {
+            "shared": [
+                "TheMuse"
+            ], 
+            "shared_count": 1, 
+            "id": "BarbieAndTheDiamondCastle", 
+            "name": "Barbie & The Diamond Castle"
+        }, 
+        {
+            "shared": [
+                "ClassyCatBurglar"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "IrmaVep", 
+    "name": "Irma Vep"
+}

@@ -1,0 +1,67 @@
+{
+    "plot": "Johnny Jones is an action reporter on a New York newspaper. The editor appoints him European correspondent because he is fed up with the dry, reports he currently gets. Jones' first assignment is to get the inside story on a secret treaty agreed between two European countries by the famous diplomat, Mr. Van Meer. However things don't go to plan and Jones enlists the help of a young woman to help track down a group of spies.", 
+    "genres": "Film-Noir, Mystery, Romance", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "epic"
+                ], 
+                "role": "Cool Old Guy: Ambassador Van Meer, who stands up to his captors with an epic \"The Reason You Suck\" Speech.", 
+                "id": "CoolOldGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0032484", 
+    "poster_url": "ForeignCorrespondent.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekNemesis", 
+            "name": "Star Trek: Nemesis", 
+            "poster_url": "StarTrekNemesis.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }
+    ], 
+    "id": "ForeignCorrespondent", 
+    "name": "Foreign Correspondent"
+}

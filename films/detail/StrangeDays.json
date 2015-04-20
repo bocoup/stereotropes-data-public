@@ -1,0 +1,148 @@
+{
+    "plot": "Set in the year 1999 during the last days of the old millennium, the movie tells the story of Lenny Nero, an ex-cop who now deals with data-discs containing recorded memories and emotions. One day he receives a disc which contains the memories of a murderer killing a prostitute. Lenny investigates and is pulled deeper and deeper in a whirl of blackmail, murder and rape. Will he survive and solve the case?", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "social"
+                ], 
+                "role": "Angry Black Man: Jeriko One, an outspoken gangster rapper and social activist.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "classic", 
+                    "former"
+                ], 
+                "role": "Lenny Nero in Strange Days is a classic example of this as a protagonist! He spends much of the action in the movie getting saved by Mace. This is made a little strange when it's revealed that he's a former cop.", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "entire"
+                ], 
+                "role": "Action Girl: Mace. It pretty much takes an entire police SWAT team to kick her ass. Also an Action Mom.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "literal"
+                ], 
+                "role": "Broken Bird: Faith, when Nero first met her. She was a literal crack whore.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "muscular"
+                ], 
+                "role": "Dark Action Girl: One of Gant's three thugs is a muscular woman.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "vicious"
+                ], 
+                "role": "The vicious rape-murder of a prostitute is what precipitates the action in Strange Days.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "point-of-view", 
+                    "real"
+                ], 
+                "role": "In Strange Days, Ralph Fiennes' character acquires a SQUID recording in a bar that was recorded from point-of-view of a very buxom stoner girl, played by real life porn star Kylie Ireland. The recording in question plays no role in the plot of the movie.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Faith", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "black"
+                ], 
+                "role": "Woman in Black: Mace is a black woman who wears black while on the job.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [
+                    "white"
+                ], 
+                "role": "Woman in White: Gant's Dark Action Girl has bleached white hair, pale skin, and a pale wardrobe.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0114558", 
+    "poster_url": "StrangeDays.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "WomanInBlack", 
+                "ActionGirl", 
+                "WomanInWhite", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 5, 
+            "id": "KillBill", 
+            "name": "Kill Bill", 
+            "poster_url": "KillBill.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "ActionGirl", 
+                "DarkActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 4, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "ActionGirl", 
+                "DarkActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 4, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "FanserviceExtra", 
+                "WomanInWhite", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 4, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "ActionGirl", 
+                "AngryBlackMan", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 4, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }
+    ], 
+    "id": "StrangeDays", 
+    "name": "Strange Days"
+}

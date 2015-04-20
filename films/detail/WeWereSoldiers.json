@@ -1,0 +1,103 @@
+{
+    "plot": "In a place soon to be known as The Valley of Death, in a football field-sized clearing called landing zone X-Ray, Lt. Colonel Hal Moore and 400 young troopers from the newly formed 1/7th Cavalry Regiment of the US 1st \"Air\" Cavalry Division were surrounded by 2,000 North Vietnamese soldiers dug into the tunnel warren mountainside. The ensuing battle was one of the most savage in U.S. history and is portrayed here as the signal encounter between the American and North Vietnamese armies. We Were Soldiers Once... And Young is a tribute to the nobility of those men under fire, their common acts of uncommon valor, and their loyalty to and love for one another.", 
+    "genres": "Action, Drama, History", 
+    "release_year": "2002", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Hal Moore, and the North Vietnamese commander.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "knew", 
+                    "real"
+                ], 
+                "role": "Badass Grandpa: Sergeant Major Plumley. Don't you dare tell him that. Best part? While the people who knew Plumley agreed Sam Eliot did an excellent job portraying him, he actually underplayed how badass the real man was.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bash Brothers: Lieutenant Geoghegan and Private Godbolt end up becoming quite the team on the battlefield.  They both die after Geoghegan tries to carry mortally wounded Godbolt to safety.", 
+                "id": "BashBrothers"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "anguish"
+                ], 
+                "role": "Julia Moore and Barbara Geoghegan take it upon themselves to deliver the letters themselves, both to save the taxi driver from some of the anguish and out of a sense of responsibility to their neighbors.", 
+                "id": "ApronMatron"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "other", 
+                    "bad", 
+                    "anonymous"
+                ], 
+                "role": "Team Mom Julia and a group of the other army wives take it upon themselves to deliver the Death Notification telegrams to each other, preferring to become a hated bearer of bad news than to let their friends' hearts be broken by an anonymous courier in a taxi cab.", 
+                "id": "TeamMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0277434", 
+    "poster_url": "WeWereSoldiers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "ApronMatron", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "AFatherToHisMen", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "StarTrek", 
+            "name": "Star Trek", 
+            "poster_url": "StarTrek.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BashBrothers"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TeamMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCowboys", 
+            "name": "The Cowboys", 
+            "poster_url": "TheCowboys.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunted", 
+            "name": "The Hunted", 
+            "poster_url": "TheHunted.jpg"
+        }
+    ], 
+    "id": "WeWereSoldiers", 
+    "name": "We Were Soldiers"
+}

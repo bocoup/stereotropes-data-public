@@ -1,0 +1,106 @@
+{
+    "plot": "Each year, three brothers, Samuel, Jeffrey and Michael Douglas visit their grandfather, Mori Tanaka, for the summer. Mori is highly skilled in ninjutsu, and for years he has trained the boys in his techniques. After an organized crime ring proves to be too much for the F.B.I., it's time for the three ninja brothers! Using their martial artistry, they team up to battle the crime ring and outwit some very persistent kidnappers!", 
+    "genres": "Action, Comedy, Family", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa", 
+                "id": "BadassGrandpa"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Miyo", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "third", 
+                    "bad", 
+                    "fourth"
+                ], 
+                "role": "Distressed Damsel: Emily in the first film, Jo in the third film (though Jo tries to take down the bad guys and is simply overpowered), and Jennifer in the fourth film. Thankfully, Miyo averts this.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "interested"
+                ], 
+                "role": "Girl of the Week: Er, Girl Of the Movie. Rocky seems to be quite the player. Except with Jo, who's more interested in Colt.", 
+                "id": "GirlOfTheWeek"
+            }, 
+            {
+                "adjectives": [
+                    "relative"
+                ], 
+                "role": "Little Miss Badass: Miyo defeats multiple opponents with relative ease.", 
+                "id": "LittleMissBadass"
+            }
+        ]
+    }, 
+    "imdbid": "tt0103596", 
+    "poster_url": "ThreeNinjas.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "DamselInDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "GirlOfTheWeek", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CockneysVsZombies", 
+            "name": "Cockneys Vs Zombies", 
+            "poster_url": "CockneysVsZombies.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "DiaryOfTheDead", 
+            "name": "Diary of the Dead", 
+            "poster_url": "DiaryOfTheDead.jpg"
+        }
+    ], 
+    "id": "ThreeNinjas", 
+    "name": "3 Ninjas"
+}

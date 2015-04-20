@@ -1,0 +1,164 @@
+{
+    "plot": "Helen, a writer, and Madeline, an actress, have hated each other for years. Madeline is married to Ernest, who was once Helen's fiance. After she recovers from a mental breakdown, Helen vows revenge by stealing back Ernest and plotting to kill Madeline. Both rivals have secretly drunk a miracle cure for aging; they accidentally discover, when each tries to eliminate the other, that they have become immortal and that \"life\" will never be the same again.", 
+    "genres": "Comedy, Fantasy", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "near-fatal", 
+                    "tall", 
+                    "athletic", 
+                    "weak"
+                ], 
+                "role": "Dr. Ernest Menville from Death Becomes Her, at least until he starts developing a spine. In fact, he prefers suffering a near-fatal fall to being with his bothersome wife for the rest of his life. However, he is fairly tall and athletic, in contrast to the physically weak part of the trope. Also, he's played by Bruce Willis", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "fatal", 
+                    "bitchy"
+                ], 
+                "role": "Henpecked Husband: Ernest. So much. He would rather suffer a potentially fatal fall than deal with his bitchy wife for the rest of his life.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "middle-aged", 
+                    "alcoholic", 
+                    "shallow"
+                ], 
+                "role": "In Death Becomes Her Madeline accuses Ernest of this. He doesn't deny it, just tells her to shut up. Since he's a middle-aged alcoholic and she's turned into a shallow bitch he no longer loves, this is pretty well justified.", 
+                "id": "TheLoinsSleepTonight"
+            }, 
+            {
+                "adjectives": [
+                    "later", 
+                    "unhappy"
+                ], 
+                "role": "The Loins Sleep Tonight: Madeline accuses Ernest of this. He doesn't deny it. He does  later remarry and have children, so it's probably cured by quitting drinking and being with someone who loves him. It could also have something to do with being trapped in an unhappy marriage.", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "White-Dwarf"
+                ], 
+                "role": "Alpha Bitch: Implied with Madeline, not so much when she's a White-Dwarf Starlet.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crazy Cat Lady: Helen. Correction: Morbidly Obese Crazy Cat Lady.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Both Madeline and Helen, but Helen really plays it up.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Witch: Lisle.", 
+                "id": "HotWitch"
+            }, 
+            {
+                "adjectives": [
+                    "fantasy", 
+                    "white"
+                ], 
+                "role": "Lady in Red: Helen. Woman in White / True Blue Femininity: Madeline. Their colorschemes are switched in Helen's fantasy of killing Madeline (and in the picture), and from Lisle's (who wears both colors; a dark red shawl and a white \"bathrobe\") party onwards they're both Women in Black.", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Lisle and, to a lesser extent, Madeline and - post makeover - Helen", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [
+                    "White-Dwarf"
+                ], 
+                "role": "White-Dwarf Starlet: Madeline Ashton.", 
+                "id": "WhiteDwarfStarlet"
+            }, 
+            {
+                "adjectives": [
+                    "fantasy", 
+                    "white"
+                ], 
+                "role": "Their colorschemes are switched in Helen's fantasy of killing Madeline (and in the picture), and from Lisle's (who wears both colors; a dark red shawl and a white \"bathrobe\") party onwards they're both Women in Black.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White / True Blue Femininity: Madeline.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0104070", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp", 
+                "AlphaBitch", 
+                "FemmeFatale", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 4, 
+            "id": "CoolWorld", 
+            "name": "Cool World", 
+            "poster_url": "CoolWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "TheVamp", 
+                "WomanInWhite", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 4, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "LadyInRed", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "AlphaBitch", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "HotWitch", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }
+    ], 
+    "id": "DeathBecomesHer", 
+    "name": "Death Becomes Her"
+}

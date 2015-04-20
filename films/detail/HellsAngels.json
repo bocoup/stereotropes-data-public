@@ -1,0 +1,79 @@
+{
+    "plot": "Two brothers attending Oxford enlist with the RAF when World War I breaks out. Roy and Monte Rutledge have very different personalities. Monte is a freewheeling womanizer, even with his brother's girlfriend Helen. He also proves to have a yellow streak when it comes to his Night Patrol duties. Roy is made of strong moral fiber and attempts to keep his brother in line. Both volunteer for an extremely risky two man bombing mission for different reasons. Monte wants to lose his cowardly reputation and Roy seeks to protect his brother. Their assignment to knock out a strategic German munitions facility is a booming success, but with a squadron of fighters bearing down on them afterwards, escape seems unlikely.", 
+    "genres": "Drama, War", 
+    "release_year": "1930", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "last", 
+                    "willing", 
+                    "British", 
+                    "own", 
+                    "quiet"
+                ], 
+                "role": "Dirty Coward: In the last scene, Monte is perfectly willing to tell the Germans about the attack and condemn a British division to slaughter in order to save his own skin. His brother has to shoot him In the Back to keep him quiet.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Monte. In his Establishing Character Moment, he brings one girl to a bar where another one of his girls works as a waitress.", 
+                "id": "TheCasanova"
+            }
+        ]
+    }, 
+    "imdbid": "tt0020960", 
+    "poster_url": "HellsAngels.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheVikings", 
+            "name": "The Vikings", 
+            "poster_url": "TheVikings.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheRocketeer", 
+            "name": "The Rocketeer", 
+            "poster_url": "TheRocketeer.jpg"
+        }
+    ], 
+    "id": "HellsAngels", 
+    "name": "Hell's Angels"
+}

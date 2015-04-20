@@ -1,0 +1,114 @@
+{
+    "plot": "James' happy life at the English seaside is rudely ended when his parents are killed by a rhinoceros and he goes to live with his two horrid aunts. Daringly saving the life of a spider he comes into possession of magic boiled crocodile tongues, after which an enormous peach starts to grow in the garden. Venturing inside he meets not only the spider but a number of new friends including a ladybug and a centipede who help him with his plan to try and get to New York.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "dangerous", 
+                    "old"
+                ], 
+                "role": "Miles Gloriosus: Centipede. In the book, he's always going on about what a dangerous pest he is, but he's really pretty harmless. In the movie, he also brags about being a globetrotter, but his knowledge about navigation and geography are severely lacking.  Turns out all his knowledge comes from the time when he lived between two pages of an old issue of the National Geographic magazine.", 
+                "id": "MilesGloriosus"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cute Monster Girl: Miss Spider in the film.", 
+                "id": "CuteMonsterGirl"
+            }, 
+            {
+                "adjectives": [
+                    "French"
+                ], 
+                "role": "Cute Monster Girl: Miss Spider in the film. She's really more of a Drider with a beret and French accent.", 
+                "id": "CuteMonsterGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dark Action Girl: Miss Spider in the film.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "maternal"
+                ], 
+                "role": "Miss Spider from James and the Giant Peach Interestingly, she displays some maternal feelings towards James.", 
+                "id": "StrangeGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: The Ladybug.", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: The Ladybird", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The evil aunts Spiker and Sponge in James and the Giant Peach.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0116683", 
+    "poster_url": "JamesAndTheGiantPeach.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "TheChick", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "VanHelsing", 
+            "name": "Van Helsing"
+        }, 
+        {
+            "shared": [
+                "StrangeGirl", 
+                "TheChick", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "FairyTail", 
+            "name": "Fairy Tail"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "StrangeGirl", 
+                "WickedStepmother"
+            ], 
+            "shared_count": 2, 
+            "id": "Beetlejuice", 
+            "name": "Beetlejuice", 
+            "poster_url": "Beetlejuice.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Bionicle", 
+            "name": "BIONICLE", 
+            "poster_url": "Bionicle.jpg"
+        }
+    ], 
+    "id": "JamesAndTheGiantPeach", 
+    "name": "James and the Giant Peach"
+}

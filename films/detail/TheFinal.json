@@ -1,0 +1,122 @@
+{
+    "plot": "A group of high school outcasts get revenge on the students that torment them.", 
+    "genres": "Drama, Horror, Thriller", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "own", 
+                    "personal", 
+                    "black"
+                ], 
+                "role": "Corrupt Hick: The Dirty Cop who seizes the jocks' weed for his own personal use. Later, Kurtis gets the police to head to the ranch where the outcasts are carrying out their torture by telling the police that the ranch was being robbed by black people.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "tough", 
+                    "same"
+                ], 
+                "role": "Dirty Coward: Bradley. Acts tough early in the movie, and goes to the party dressed as a Roman centurion, but once the \"party\" gets going, he whines constantly, and rather pathetically. When given the chance to save himself pain by cutting off Bridget's fingers, he accepts pretty quickly... right after Bridget refused to do the same to him. Parker sees himself as this, feeling that he had dishonored himself in Vietnam by running away and letting his squadmates get killed.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Bradley and his friends Bernard and Miles.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch/Girl Posse: Kelly, Bridget and Heather.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Emotionless Girl: Emily.  Until Ravi is killed, that is. Then she goes right back to this.", 
+                "id": "EmotionlessGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Just as the Girl Posse are getting ready for the party, Bridget remarks \"Red meat is for people who don't care how they look.\" In the opening scene, which takes place after her face was disfigured, she orders a burger.", 
+                "id": "GirlPosse"
+            }, 
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Worn by Emily during the torture session.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Valley Girl: Again, the Girl Posse.", 
+                "id": "ValleyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1390535", 
+    "poster_url": "TheFinal.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlPosse", 
+                "JerkJock", 
+                "AlphaBitch", 
+                "ValleyGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlPosse", 
+                "JerkJock", 
+                "AlphaBitch", 
+                "ValleyGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "GeekCharming", 
+            "name": "Geek Charming"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "AlphaBitch", 
+                "GirlPosse"
+            ], 
+            "shared_count": 3, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "EmotionlessGirl", 
+                "JerkJock", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "GirlishPigtails", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Rango", 
+            "name": "Rango", 
+            "poster_url": "Rango.jpg"
+        }
+    ], 
+    "id": "TheFinal", 
+    "name": "The Final"
+}

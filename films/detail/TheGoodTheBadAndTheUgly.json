@@ -1,0 +1,76 @@
+{
+    "plot": "Blondie (The Good) is a professional gunslinger who is out trying to earn a few dollars. Angel Eyes (The Bad) is a hit man who always commits to a task and sees it through, as long as he is paid to do so. And Tuco (The Ugly) is a wanted outlaw trying to take care of his own hide. Tuco and Blondie share a partnership together making money off Tuco's bounty, but when Blondie unties the partnership, Tuco tries to hunt down Blondie. When Blondie and Tuco come across a horse carriage loaded with dead bodies, they soon learn from the only survivor (Bill Carson) that he and a few other men have buried a stash of gold in a cemetery. Unfortunately Carson dies and Tuco only finds out the name of the cemetery, while Blondie finds out the name on the grave. Now the two must keep each other alive in order to find the gold. Angel Eyes (who had been looking for Bill Carson) discovers that Tuco and Blondie meet with Carson and knows they know the location of the gold. All he needs is for the two to lead him to it. Now The Good, The Bad and The Ugly must all battle it out to get their hands on $200,000 worth of gold.", 
+    "genres": "Western", 
+    "release_year": "1966", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Coward/Lovable"
+                ], 
+                "role": "Dirty Coward/Lovable Coward: Tuco", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dumb Muscle: Wallace", 
+                "id": "DumbMuscle"
+            }
+        ]
+    }, 
+    "imdbid": "tt0060196", 
+    "poster_url": "TheGoodTheBadAndTheUgly.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "NewJackCity", 
+            "name": "New Jack City", 
+            "poster_url": "NewJackCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "WatershipDown", 
+            "name": "Watership Down", 
+            "poster_url": "WatershipDown.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWarriors", 
+            "name": "The Warriors", 
+            "poster_url": "TheWarriors.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "DoubleImpact", 
+            "name": "Double Impact", 
+            "poster_url": "DoubleImpact.jpg"
+        }
+    ], 
+    "id": "TheGoodTheBadAndTheUgly", 
+    "name": "The Good, the Bad and the Ugly"
+}

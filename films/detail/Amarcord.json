@@ -1,0 +1,76 @@
+{
+    "plot": "A year in the life of a small Italian coastal town in the nineteen-thirties, as is recalled by a director with a superstar's access to the resources of the Italian film industry and a piper's command over our imaginations. Federico Fellini's film combines the free form and make-believe splendor with the comic, bittersweet feeling for character and narrative we remember from some of his best films of the 1950s. The town in the film is based on Rimini, where Mr. Fellini grew up. Yet there is now something magical, larger-than-life about the town, its citizens and many of the things that happen to them.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: Titto's father.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Titta's grandfather.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Big Beautiful Woman: The tobacconist.", 
+                "id": "BigBeautifulWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0071129", 
+    "poster_url": "Amarcord.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }, 
+        {
+            "shared": [
+                "BigBeautifulWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }
+    ], 
+    "id": "Amarcord", 
+    "name": "Amarcord"
+}

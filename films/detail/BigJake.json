@@ -1,0 +1,99 @@
+{
+    "plot": "The McCandles ranch is run over by a gang of cutthroats led by the evil John Fain. They kidnap little Jacob McCandles and hold him for a million dollar ransom. There is only one man who is brave enough and smart enough to bring him back and that man is Big Jake.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1971", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "literal"
+                ], 
+                "role": "Badass Grandpa: Jacob McCandles is a literal example of this trope.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "poor"
+                ], 
+                "role": "Cool Old Guy: Jake McCandles is one, his Indian companion, Sam, is another. Both of them suffer from poor eyesight, fading hearing, and slower reflexes than they used to have, but they make up for it with skill and experience.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Big Jake.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Apron Matron: Martha McCandles With more than a bit of Iron Lady as well.", 
+                "id": "ApronMatron"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "With more than a bit of Iron Lady as well.", 
+                "id": "IronLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0066831", 
+    "poster_url": "BigJake.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "BadassGrandpa", 
+                "ApronMatron", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 4, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "IronLady", 
+                "BadassGrandpa", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "IronLady", 
+                "ApronMatron", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "BadassGrandpa", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "BigJake", 
+    "name": "Big Jake"
+}

@@ -1,0 +1,93 @@
+{
+    "plot": "Two years after the events in \"Final Fantasy VII\", a disease called 'Seikon-Shoukougun', or 'Geostigma', is spreading through the planet. This disease is believed to have been caused by the body fighting off foreign material that invaded the body two years earlier, at the end of \"Final Fantasy VII\". Guilt-ridden and haunted by his past, ex-SOLDIER Cloud Strife has decided to live a secluded, solitary life away from his friends while maintaining \"Strife's Delivery Service\", whose headquarters is located in Tifa Lockheart's bar, the Seventh Heaven. Tifa's bar serves as an orphanage for children stricken with Geostigma. Here, Tifa keeps an eye on Barret's six-year-old daughter, Marlene, while Barret searches the planet for an alternative energy source to the Planet's energy, Mako. One day, Cloud receives a phone call from the former Shinra, Inc. president, Rufus, asking him for protection from a mysterious man named Kadaj. Kadaj, in the meantime, along with his brothers Loz and Yazoo, are searching for their \"mother\", and seem to believe that Cloud knows where to find her. Meanwhile, Vincent Valentine has been wandering the planet gathering information on Kadaj's scheme, and Cloud and his friends must come together again to fight these new enemies.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "mental"
+                ], 
+                "role": "Dumb Muscle: Loz is physically the strongest of the Remnants, but has the mental capacity of a child.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [
+                    "Final", 
+                    "white", 
+                    "new"
+                ], 
+                "role": "Final Fantasy VII: Advent Children, the fact that Rufus Shinra still wears his white suit really highlights Cloud's new black outfit (and Tifa's).", 
+                "id": "ManInWhite"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Gaussian"
+                ], 
+                "role": "In Advent Children, Cloud has visions of Aerith in a Gaussian Girl way (though he himself is also gaussianed there as well).", 
+                "id": "GaussianGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Tifa towards Marlene and Denzel.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0385700", 
+    "poster_url": "FinalFantasyVIIAdventChildren.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GaussianGirl", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManInTheWhiteSuit", 
+            "name": "The Man In The White Suit", 
+            "poster_url": "TheManInTheWhiteSuit.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear", 
+                "ManInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "Big", 
+            "name": "Big", 
+            "poster_url": "Big.jpg"
+        }, 
+        {
+            "shared": [
+                "ManInWhite", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 2, 
+            "id": "EvilRoySlade", 
+            "name": "Evil Roy Slade", 
+            "poster_url": "EvilRoySlade.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DumbMuscle"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }
+    ], 
+    "id": "FinalFantasyVIIAdventChildren", 
+    "name": "Final Fantasy VII: Advent Children"
+}

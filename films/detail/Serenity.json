@@ -1,0 +1,151 @@
+{
+    "plot": "In the future, a spaceship called Serenity is harboring a passenger with a deadly secret. Six rebels on the run. An assassin in pursuit. When the renegade crew of Serenity agrees to hide a fugitive on their ship, they find themselves in an awesome action-packed battle between the relentless military might of a totalitarian regime who will destroy anything - or anyone - to get the girl back and the bloodthirsty creatures who roam the uncharted areas of space. But, the greatest danger of all may be on their ship.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cultured Badass: The Operative. Also, as it turns out, Mal.", 
+                "id": "CulturedBadass"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Knight Errant: Mal.", 
+                "id": "KnightErrant"
+            }, 
+            {
+                "adjectives": [
+                    "commentary", 
+                    "such", 
+                    "close", 
+                    "full"
+                ], 
+                "role": "Shirtless Scene: Both Mal and Simon get this. Joss Whedon actually apologizes in the commentary for shooting shirtless!Mal at such a close angle and not allowing a full look at his physique.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "At the end of Serenity, River uses a sword and axe taken from the Reavers to wipe out every Reaver in a hallway during the battle on Mr. Universe's moon.", 
+                "id": "GirlWithPsychoWeapon"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "High-Class Call Girl: Inara.", 
+                "id": "HighClassCallGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Inara, to name one.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ill Girl: River, of course.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "messed", 
+                    "super"
+                ], 
+                "role": "Serenity: River Tam. She's a teenage girl and a genius skilled in everything, and she's also a psychic. She's messed up because the Alliance played with her brain and turned her into a super soldier.", 
+                "id": "LittleMissBadass"
+            }, 
+            {
+                "adjectives": [
+                    "Mysterious"
+                ], 
+                "role": "Mysterious Waif: River.", 
+                "id": "MysteriousWaif"
+            }, 
+            {
+                "adjectives": [
+                    "justifiable", 
+                    "same", 
+                    "able", 
+                    "effective"
+                ], 
+                "role": "And again in \"Ariel\", while escaping from the Feds. Simon and Jayne attack the guards together, but River just stands by the door sobbing. Again, this is justifiable, for much the same reasons as above. Simon still hasn't found a way of treating her for the aforementioned cut-up brain, and so River cannot intervene. Once he is able to begin treating her, she becomes a lot more effective, as seen in \"Objects in Space\" and \"Serenity\".", 
+                "id": "NeutralFemale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Neutral Female: Subverted.", 
+                "id": "NeutralFemale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Cutie: Kaylee and River Cute and Psycho: River", 
+                "id": "TheCutie"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wrench Wench: Kaylee.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt0379786", 
+    "poster_url": "Serenity.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CulturedBadass", 
+                "LittleMissBadass", 
+                "KnightErrant", 
+                "WrenchWench"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "NeutralFemale", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 3, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "WrenchWench", 
+                "TheCutie"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLEGOMovie", 
+            "name": "The LEGO Movie", 
+            "poster_url": "TheLEGOMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ShirtlessScene", 
+                "WrenchWench"
+            ], 
+            "shared_count": 3, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "Serenity", 
+    "name": "Serenity"
+}

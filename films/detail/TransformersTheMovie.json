@@ -1,0 +1,85 @@
+{
+    "plot": "It is the year 2005. And the battle between the heroic Autobots led by Optimus Prime and the evil Decepticons led by Megatron. Two warring factions of transforming robots from the planet Cybertron. The Autobots must save their homeworld from an evil entity known as Unicron, who's ready to consume anything that stands in its way. At the same time, they must defend themselves against an all-out attack from the Decepticons. Along the way, lives are lost, battles are fought, and a new Autobot leader is born as another dies.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "ancient", 
+                    "shy"
+                ], 
+                "role": "Cool Old Guy: Kup, who shows up out of nowhere, is an ancient Autobot who's Seen It All and is not shy about telling everyone.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Affirmative", 
+                    "sole"
+                ], 
+                "role": "Affirmative Action Girl: Arcee is introduced as the sole female Transformer, for no apparent reason. Writer Ron Friedman wanted to include her because his daughter was a fan. The decision faced a lot of opposition.", 
+                "id": "AffirmativeActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Arcee in Transformers: The Movie and Season 3 of Transformers Generation One.", 
+                "id": "AffirmativeActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0092106", 
+    "poster_url": "TransformersTheMovie.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AffirmativeActionGirl", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "AffirmativeActionGirl", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "ToyStory", 
+            "name": "Toy Story", 
+            "poster_url": "ToyStory.jpg"
+        }, 
+        {
+            "shared": [
+                "AffirmativeActionGirl", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "StarTrekNemesis", 
+            "name": "Star Trek: Nemesis", 
+            "poster_url": "StarTrekNemesis.jpg"
+        }
+    ], 
+    "id": "TransformersTheMovie", 
+    "name": "Transformers: The Movie"
+}

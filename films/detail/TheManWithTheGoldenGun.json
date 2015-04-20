@@ -1,0 +1,87 @@
+{
+    "plot": "Scaramanga is a hit-man who charges a million dollars per job. He becomes linked to the death of a scientist working on a powerful solar cell, and James Bond is called in to investigate. As he tracks down Scaramanga, he realises that he is highly respected by the killer, but will this prove to be an advantage in the final showdown?", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1974", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Nick Nack in The Man with the Golden Gun. When not cooking, serving drinks or hiring killers to off his boss as a training exercise, he personally goes to the field on Scaramanga's orders.", 
+                "id": "BattleButler"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "delightful", 
+                    "karate-kicking"
+                ], 
+                "role": "Action Girl: In a delightful subversion of the Faux Action Girl trope, two karate-kicking schoolgirls save Bond from a gang of mooks while he looks on in appreciation.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "different", 
+                    "former"
+                ], 
+                "role": "Maud Adams, meanwhile, has appeared as two different Bond girls: Andrea Anders in The Man with the Golden Gun, and the title character in Octopussy. The former doesn't make it.", 
+                "id": "GirlOfTheWeek"
+            }
+        ]
+    }, 
+    "imdbid": "tt0071807", 
+    "poster_url": "TheManWithTheGoldenGun.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlOfTheWeek", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Titanic", 
+            "name": "Titanic", 
+            "poster_url": "Titanic.jpg"
+        }
+    ], 
+    "id": "TheManWithTheGoldenGun", 
+    "name": "The Man with the Golden Gun"
+}

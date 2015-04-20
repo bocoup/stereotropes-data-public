@@ -1,0 +1,87 @@
+{
+    "plot": "A tough detective's mother comes to visit him, and promptly starts trying to fix up his life, much to his embarrassment. For his birthday she buys him a machine gun out of the back of a van, and begins to further interfere with his job and love life, eventually helping him with a case he's on.", 
+    "genres": "Action, Comedy", 
+    "release_year": "1992", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "whole"
+                ], 
+                "role": "My Beloved Smother: The whole plot.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [
+                    "entire"
+                ], 
+                "role": "The entire point of Stop! Or My Mom Will Shoot is Stallone's character being humiliated by the presence of his mother.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Never Mess with Granny", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [
+                    "pistol-packing"
+                ], 
+                "role": "Stop! Or My Mom Will Shoot featuring Sly Stallone as a cop who is troubled by his pistol-packing elderly mother. The film was universally reviled.", 
+                "id": "NeverMessWithGranny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0105477", 
+    "poster_url": "StopOrMyMomWillShoot.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeverMessWithGranny", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "Paul", 
+            "name": "Paul", 
+            "poster_url": "Paul.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TuckEverlasting", 
+            "name": "Tuck Everlasting", 
+            "poster_url": "TuckEverlasting.jpg"
+        }
+    ], 
+    "id": "StopOrMyMomWillShoot", 
+    "name": "Stop! Or My Mom Will Shoot"
+}

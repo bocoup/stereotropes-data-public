@@ -1,0 +1,71 @@
+{
+    "plot": "N/A", 
+    "genres": "Short, Comedy", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "popular"
+                ], 
+                "role": "Also popular in Spaghetti Westerns with the Sissy Villain type: Django Kill, Sabata and The Grand Duel have flamboyantly gay baddies.", 
+                "id": "GayCowboy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Every Spaghetti Western.\n The Man With No Name from the Dollars Trilogy.\n Harmonica from Once Upon a Time in the West.", 
+                "id": "KnightErrant"
+            }
+        ]
+    }, 
+    "imdbid": "tt3522950", 
+    "similar": [
+        {
+            "shared": [
+                "KnightErrant"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMagnificentSeven", 
+            "name": "The Magnificent Seven", 
+            "poster_url": "TheMagnificentSeven.jpg"
+        }, 
+        {
+            "shared": [
+                "GayCowboy"
+            ], 
+            "shared_count": 1, 
+            "id": "MidnightCowboy", 
+            "name": "Midnight Cowboy", 
+            "poster_url": "MidnightCowboy.jpg"
+        }, 
+        {
+            "shared": [
+                "KnightErrant"
+            ], 
+            "shared_count": 1, 
+            "id": "LuckyLuke", 
+            "name": "Lucky Luke", 
+            "poster_url": "LuckyLuke.jpg"
+        }, 
+        {
+            "shared": [
+                "GayCowboy"
+            ], 
+            "shared_count": 1, 
+            "id": "WagonsEast", 
+            "name": "Wagons East", 
+            "poster_url": "WagonsEast.jpg"
+        }, 
+        {
+            "shared": [
+                "GayCowboy"
+            ], 
+            "shared_count": 1, 
+            "id": "LoneStarStateOfMind", 
+            "name": "Lone Star State of Mind", 
+            "poster_url": "LoneStarStateOfMind.jpg"
+        }
+    ], 
+    "id": "SpaghettiWestern", 
+    "name": "Spaghetti Western"
+}

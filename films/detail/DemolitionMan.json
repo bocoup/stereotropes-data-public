@@ -1,0 +1,85 @@
+{
+    "plot": "Frozen in 1996, Simon Phoenix, a convicted crime lord, is revived for a parole hearing well into the 21st century. Revived into a society free from crime, Phoenix resumes his murderous rampage, and no one can stop him. John Spartan, the police officer who captured Phoenix in 1996, has also been cryogenically frozen, this time for a crime he did not commit. In 2032, the former cities of Los Angeles, San Diego and Santa Barbara have merged into peaceful, utopian San Angeles. Unable to stop him with their non-violent solutions, the police release Spartan to help recapture Phoenix. Now after 36 years, Spartan has to adapt himself to the future society he has no knowledge about.", 
+    "genres": "Action, Crime, Sci-Fi", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Simon Phoenix.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "several", 
+                    "fabric"
+                ], 
+                "role": "Dr. Cocteau in Demolition Man wears what appears to be several layers of kimono fabric as a \"vest\".", 
+                "id": "WaistcoatOfStyle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Fanservice Extra: The nude video call wrong number.", 
+                "id": "FanserviceExtra"
+            }
+        ]
+    }, 
+    "imdbid": "tt0106697", 
+    "poster_url": "DemolitionMan.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "PulpFiction", 
+            "name": "Pulp Fiction", 
+            "poster_url": "PulpFiction.jpg"
+        }, 
+        {
+            "shared": [
+                "WaistcoatOfStyle", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHungerGames", 
+            "name": "The Hunger Games", 
+            "poster_url": "TheHungerGames.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "HaroldAndKumarEscapeFromGuantanamoBay", 
+            "name": "Harold & Kumar Escape from Guantanamo Bay", 
+            "poster_url": "HaroldAndKumarEscapeFromGuantanamoBay.jpg"
+        }, 
+        {
+            "shared": [
+                "FanserviceExtra", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TradingPlaces", 
+            "name": "Trading Places", 
+            "poster_url": "TradingPlaces.jpg"
+        }, 
+        {
+            "shared": [
+                "WaistcoatOfStyle", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Predators", 
+            "name": "Predators", 
+            "poster_url": "Predators.jpg"
+        }
+    ], 
+    "id": "DemolitionMan", 
+    "name": "Demolition Man"
+}

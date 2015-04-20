@@ -1,0 +1,89 @@
+{
+    "plot": "A shower of meteorites produces a glow that blinds anyone that looks at it. As it was such a beautiful sight, most people were watching, and as a consequence, 99% of the population go blind. In the original novel, this chaos results in the escape of some Triffids: experimental plants that are capable of moving themselves around and attacking people. In the film version, however, the Triffids are not experimental plants. Instead they are space aliens whose spores have arrived in an earlier meteor shower.", 
+    "genres": "Horror, Sci-Fi", 
+    "release_year": "1963", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sharp-Dressed"
+                ], 
+                "role": "Sharp-Dressed Man: Torrence loots a Saville Row suit and wears it from then on.", 
+                "id": "SharpDressedMan"
+            }, 
+            {
+                "adjectives": [
+                    "charismatic"
+                ], 
+                "role": "The Charmer: Torrence is a pretty charismatic leader though not quite the ladies' man he fancies himself to be.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "famous", 
+                    "Double"
+                ], 
+                "role": "Screaming Woman: Janette Scott in the movie. And despite that famous line from \"Science Fiction / Double Feature\" in The Rocky Horror Picture Show, she doesn't actually do any fighting.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0055894", 
+    "poster_url": "TheDayOfTheTriffids.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "ScreamingWoman", 
+                "TheCharmer"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolfMan1941", 
+            "name": "The Wolf Man ", 
+            "poster_url": "TheWolfMan1941.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan", 
+                "TheCharmer"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolfman2010", 
+            "name": "The Wolfman ", 
+            "poster_url": "TheWolfman2010.jpg"
+        }, 
+        {
+            "shared": [
+                "SharpDressedMan"
+            ], 
+            "shared_count": 1, 
+            "id": "X-Men", 
+            "name": "X-Men", 
+            "poster_url": "X-Men.jpg"
+        }
+    ], 
+    "id": "TheDayOfTheTriffids", 
+    "name": "The Day of the Triffids"
+}

@@ -1,0 +1,102 @@
+{
+    "plot": "Mytyl and her brother Tyltyl, a woodchopper's children, are led by the Fairy Berylune on a magical trip through the past, present, and future to locate the Blue Bird of Happiness.", 
+    "genres": "Drama, Family, Fantasy", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Man in White: Both Sugar and Father Time.", 
+                "id": "ManInWhite"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "whole", 
+                    "clear", 
+                    "attractive", 
+                    "specific", 
+                    "typical", 
+                    "symbolic", 
+                    "clear"
+                ], 
+                "role": "Femme Fatale: Luxury is this to Tyltyl \u2014 she ends up diverting the whole party from their quest when she convinces him to come with her to the Palace of Luxury and enjoy the fun and food there. It's clear he finds her attractive, and when he asks her which specific luxury she happens to be (after she introduces him to ones like The Luxury of Eating When You Are Not Hungry and The Luxury of Knowing Nothing), she tells him that he'll find out when he's older. She even dresses in red; while her gowns are not typical of the Lady in Red trope, the symbolic function of the color is clear.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "African-American", 
+                    "black"
+                ], 
+                "role": "Woman in Black: Night. Tylette was supposed to be this as well, but actress Cicely Tyson (an African-American) didn't like the implication of \"black = evil\", so instead she wears brown.", 
+                "id": "WomanInBlack"
+            }, 
+            {
+                "adjectives": [
+                    "simple"
+                ], 
+                "role": "Woman in White: Both Light and Milk; Light's dress is sparkly while Milk's is simple and homey.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0032264", 
+    "poster_url": "TheBlueBird.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInBlack", 
+                "FemmeFatale", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "FemmeFatale", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "DeathBecomesHer", 
+            "name": "Death Becomes Her"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "FemmeFatale", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "StrangeDays", 
+            "name": "Strange Days", 
+            "poster_url": "StrangeDays.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInBlack", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }
+    ], 
+    "id": "TheBlueBird", 
+    "name": "The Blue Bird"
+}

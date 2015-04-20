@@ -1,0 +1,133 @@
+{
+    "plot": "Indiana Jones, famed adventurer and archaeologist acquires a diary that holds clues and a map with no names to find the mysterious Holy Grail- which was sent from his father, Dr. Henry Jones, in Italy. Upon hearing from a private collector, Walter Donavan, that the mission for the Holy Grail went astray with the disappearance of his father, Indiana Jones and museum curator Marcus Brody venture to Italy in search of Indy's father. However, upon retrieving Dr. Henry Jones in Nazi territory, the rescue mission turns into a race to find the Holy Grail before the Nazis do- who plan to use it for complete world domination for their super-race. With the diary as a vital key and the map with no names as a guide, Indiana Jones once again finds himself in another death defying adventure of pure excitement.", 
+    "genres": "Action, Adventure", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Absent-Minded"
+                ], 
+                "role": "Absent-Minded Professor: Multiple examples.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [
+                    "own", 
+                    "multiple", 
+                    "helpful", 
+                    "real", 
+                    "same", 
+                    "many", 
+                    "absent-minded"
+                ], 
+                "role": "Indiana Jones and the Last Crusade.\n Dr. Marcus Brody is turned into something like this. It's frequently mentioned he got lost in his own museum (one that he was the curator for)! Granted, he was getting older... Also, while he speaks multiple languages, he doesn't appear to know any that would be helpful in the real world:\n At one point, Indy tries to return to his office and is besieged by students because he hasn't been grading any of their work. He has to climb out the window to escape.\n Subverted by Henry Jones, Sr. in the same movie: he is taken by many (including Indy) be an absent-minded professor, but in the end betrays himself as a man who is more attuned to his environment than originally thought.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [
+                    "same"
+                ], 
+                "role": "Disappeared Dad: Well, it's the motivation for Indy to chase after the Grail, but even when they were in the same house, they had no relationship. Especially after Indy's mother and Henry's wife passed away.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "evil"
+                ], 
+                "role": "Dr. Elsa Schneider in Indiana Jones and the Last Crusade. While not completely \"evil\", she does side with the Nazis to find the Holy Grail, and suffers a Disney Villain Death when she tries to keep said Grail for herself.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "huge"
+                ], 
+                "role": "He also misses a huge red flag when Elsa is taken hostage at gunpoint and urges Indy to surrender to her captor. No Distressed Damsel that's actually on the hero's side ever does that, and what's worse, his Genre Savvy dad is right there with him, warning Indy that it's a setup.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "true"
+                ], 
+                "role": "Elsa in Indiana Jones and the Last Crusade. Albeit she's not the Big Bad. And she explains that she isn't really a Nazi, but just wants recognition for finding the Holy Grail and believes that the Nazis are the best equipped to help her do that. Later, however, she actually becomes a true Damsel in Distress when she takes the grail past the seal. This causes the temple to collapse and she nearly falls into a chasm, but Indy grabs her in time. Despite the danger of falling, she insists on reaching for the grail below her. Indy can\u2019t keep her gloved hand from slipping and she plunges to her Death by Materialism.", 
+                "id": "DecoyDamsel"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Dr. Elsa Schneider, after she stops pretending to be a Distressed Damsel.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "double-crossing", 
+                    "Austrian"
+                ], 
+                "role": "Dr Elsa Schneider from Indiana Jones and the Last Crusade - the hot, blonde, double-crossing Austrian archaeologist who sucks on Indy's earlobe, played by Irish actress, Alison Doody. Also an example of The Vamp, Blondes are Evil, and Evil Is Sexy.", 
+                "id": "TheBaroness"
+            }
+        ]
+    }, 
+    "imdbid": "tt0097576", 
+    "poster_url": "IndianaJonesAndTheLastCrusade.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BlondesAreEvil", 
+                "DecoyDamsel", 
+                "FemmeFatale", 
+                "TheBaroness"
+            ], 
+            "shared_count": 5, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DecoyDamsel", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "DecoyDamsel", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BlondesAreEvil", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "AbsentMindedProfessor"
+            ], 
+            "shared_count": 2, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }
+    ], 
+    "id": "IndianaJonesAndTheLastCrusade", 
+    "name": "Indiana Jones and the Last Crusade"
+}

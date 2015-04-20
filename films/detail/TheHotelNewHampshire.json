@@ -1,0 +1,65 @@
+{
+    "plot": "The film talks about a family that weathers all sorts of disasters and keeps going in spite of it all. It is noted for its wonderful assortment of oddball characters.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1984", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Both Franny and Susie.", 
+                "id": "BrokenBird"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087428", 
+    "poster_url": "TheHotelNewHampshire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "Scarecrow", 
+            "name": "Scarecrow", 
+            "poster_url": "Scarecrow.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "SevenFacesOfDrLao", 
+            "name": "7 Faces of Dr. Lao", 
+            "poster_url": "SevenFacesOfDrLao.jpg"
+        }
+    ], 
+    "id": "TheHotelNewHampshire", 
+    "name": "The Hotel New Hampshire"
+}

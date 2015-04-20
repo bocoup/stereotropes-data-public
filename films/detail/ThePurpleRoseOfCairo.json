@@ -1,0 +1,75 @@
+{
+    "plot": "Cecilia is a waitress in New Jersey during the Depression and is searching for an escape from her dreary life. Tom Baxter is a dashing young archaeologist in the film \"The Purple Rose of Cairo.\" After losing her job Cecilia goes to see the film in hopes of raising her spirits. Much to her surprise Tom Baxter walks off the screen and into her life. There's only one problem..Tom isn't real. Meanwhile Hollywood is up in arms when they dicover that other Tom Baxters are trying to leave the screen in other theatres. Will Tom ever return and finish the film or will he decide to stay in the real world?", 
+    "genres": "Comedy, Fantasy, Romance", 
+    "release_year": "1985", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "penny"
+                ], 
+                "role": "The Gambler: Monk spends what little money he has either on alcohol, card games, or penny pitching.", 
+                "id": "TheGambler"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Emma.", 
+                "id": "HookerWithAHeartOfGold"
+            }
+        ]
+    }, 
+    "imdbid": "tt0089853", 
+    "poster_url": "ThePurpleRoseOfCairo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "TheGambler"
+            ], 
+            "shared_count": 2, 
+            "id": "Stagecoach", 
+            "name": "Stagecoach", 
+            "poster_url": "Stagecoach.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Purgatory", 
+            "name": "Purgatory", 
+            "poster_url": "Purgatory.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "Django", 
+            "name": "Django", 
+            "poster_url": "Django.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "McCabeAndMrsMiller", 
+            "name": "McCabe & Mrs. Miller", 
+            "poster_url": "McCabeAndMrsMiller.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBarberOfSiberia", 
+            "name": "The Barber of Siberia", 
+            "poster_url": "TheBarberOfSiberia.jpg"
+        }
+    ], 
+    "id": "ThePurpleRoseOfCairo", 
+    "name": "The Purple Rose of Cairo"
+}

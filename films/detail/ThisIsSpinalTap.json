@@ -1,0 +1,101 @@
+{
+    "plot": "In 1982 legendary British heavy metal band Spinal Tap attempt an American comeback tour accompanied by a fan who is also a film-maker. The resulting documentary, interspersed with powerful performances of Tap's pivotal music and profound lyrics, candidly follows a rock group heading towards crisis, culminating in the infamous affair of the eighteen-inch-high Stonehenge stage prop.", 
+    "genres": "Comedy, Music", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gag Penis: Subverted with Derek Smalls. In the MGM commentary, David is amused at the fact that Derek wrapped the zucchini in aluminum foil.", 
+                "id": "GagPenis"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "good", 
+                    "many"
+                ], 
+                "role": "Team Mom: Jeanine believes herself to be this. In reality she isn't terribly good at it, and tends to create as many (if not more) problems as she solves.", 
+                "id": "TeamMom"
+            }, 
+            {
+                "adjectives": [
+                    "entire", 
+                    "popular", 
+                    "big"
+                ], 
+                "role": "The entire band in This Is Spinal Tap. Not that they aren't popular anymore, not by any means, it's just that \"their appeal has grown more selective.\" Ultimately subverted: it turns out they're big in Japan.", 
+                "id": "WhiteDwarfStarlet"
+            }, 
+            {
+                "adjectives": [
+                    "White-Dwarf", 
+                    "entire"
+                ], 
+                "role": "White-Dwarf Starlet: The entire band, although it's a parody.", 
+                "id": "WhiteDwarfStarlet"
+            }, 
+            {
+                "adjectives": [
+                    "in-universe", 
+                    "such", 
+                    "piss-poor"
+                ], 
+                "role": "Yoko Oh No: An in-universe example. Janine (David's girlfriend) takes over Faith's job of managing the band and does such a piss-poor job that it nearly results in the band breaking up. In fact, Janine was actually created as a parody of Yoko Ono.", 
+                "id": "YokoOhNo"
+            }
+        ]
+    }, 
+    "imdbid": "tt0088258", 
+    "poster_url": "ThisIsSpinalTap.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "YokoOhNo"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "YokoOhNo", 
+                "TeamMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom"
+            ], 
+            "shared_count": 1, 
+            "id": "ALeagueOfTheirOwn", 
+            "name": "A League of Their Own", 
+            "poster_url": "ALeagueOfTheirOwn.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet"
+            ], 
+            "shared_count": 1, 
+            "id": "DinnerAtEight", 
+            "name": "Dinner At Eight", 
+            "poster_url": "DinnerAtEight.jpg"
+        }, 
+        {
+            "shared": [
+                "YokoOhNo"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }
+    ], 
+    "id": "ThisIsSpinalTap", 
+    "name": "This Is Spinal Tap"
+}

@@ -1,0 +1,83 @@
+{
+    "plot": "When 3 Muppet fans learn that Tex Richman wants to drill under the Muppet Theater for oil, Gary, Mary and Walter set out to find the Muppets who have been split up for years so that they can put on one last show and save the Muppet Theater. Kermit the Frog now lives in his own mansion depressed in Hollywood, 'The Great Gonzo' is a high class plumber at Gonzo's Royal Flush, Fozzie Bear performs with a tribute band called The Moopets, Miss Piggy is the plus-size fashion editor at Vogue Paris, and Animal is at a celebrity anger management rehab center in Santa Barbara.", 
+    "genres": "Comedy, Family, Musical", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Played straight with Tex Richman from The Muppets 2011, however.", 
+                "id": "CorruptHick"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Mary in The Muppets is very good at working with cars and electricity.", 
+                "id": "WrenchWench"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Wrench Wench: Mary is very good at working with cars and electricity.", 
+                "id": "WrenchWench"
+            }
+        ]
+    }, 
+    "imdbid": "tt1204342", 
+    "poster_url": "TheMuppets.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "WrenchWench"
+            ], 
+            "shared_count": 2, 
+            "id": "NothingButTrouble", 
+            "name": "Nothing But Trouble", 
+            "poster_url": "NothingButTrouble.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "WrenchWench"
+            ], 
+            "shared_count": 2, 
+            "id": "MyCousinVinny", 
+            "name": "My Cousin Vinny", 
+            "poster_url": "MyCousinVinny.jpg"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "WrenchWench"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick"
+            ], 
+            "shared_count": 1, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }
+    ], 
+    "id": "TheMuppets", 
+    "name": "The Muppets"
+}

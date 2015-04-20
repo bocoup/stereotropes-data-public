@@ -1,0 +1,119 @@
+{
+    "plot": "The Griswold family are on a quest. A quest to a Walley World theme park for a family vacation, but things aren't going to go exactly as planned, especially when Clark Griswold is losing all thought towards a mysterious blonde in a red Ferrari.", 
+    "genres": "Comedy", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: Clark is the king of this trope.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Clark Griswald is very much this in the National Lampoons Vacation movies.\n Pretty much, every movie where Chevy Chase plays the dad, starting with Cops and Robbersons and going rapidly downhill. His role as Clark Griswold might have been an aversion if he could have kept his plans from going to hell, but that was rarely ever his fault; fate just doesn't like the Griswold clan.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "local", 
+                    "shady"
+                ], 
+                "role": "Corrupt Hick: The film features a scene where Chevy Chase is taken advantage of by a couple of hicks at a gas station, who barely fix his car, then take all of his money. Chevy asks them what their local sheriff thinks of their shady \"business\" dealings, leading the men to laugh, and one of them to pull out and display a sheriff's badge.", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Chevy Chase knows what we're talking about in National Lampoons Vacation.", 
+                "id": "LegCling"
+            }, 
+            {
+                "adjectives": [
+                    "original", 
+                    "classic", 
+                    "fellow"
+                ], 
+                "role": "Leg Cling: The original movie poster and home video covers, being a parody of classic Frank Frazetta Conan the Barbarian illustrations (in fact, they were designed by Frazetta's fellow Conan illustrator Boris Vallejo).", 
+                "id": "LegCling"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Chevy Chase knows what we're talking about in National Lampoons Vacation.", 
+                "id": "LegCling"
+            }, 
+            {
+                "adjectives": [
+                    "original", 
+                    "classic", 
+                    "fellow"
+                ], 
+                "role": "Leg Cling: The original movie poster and home video covers, being a parody of classic Frank Frazetta Conan the Barbarian illustrations (in fact, they were designed by Frazetta's fellow Conan illustrator Boris Vallejo).", 
+                "id": "LegCling"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Christie Brinkley. Beverly D'Angelo!", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085995", 
+    "poster_url": "NationalLampoonsVacation.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "LegCling"
+            ], 
+            "shared_count": 2, 
+            "id": "JoeDirt", 
+            "name": "Joe Dirt", 
+            "poster_url": "JoeDirt.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Troll2", 
+            "name": "Troll 2", 
+            "poster_url": "Troll2.jpg"
+        }
+    ], 
+    "id": "NationalLampoonsVacation", 
+    "name": "National Lampoon's Vacation"
+}

@@ -1,0 +1,102 @@
+{
+    "plot": "It is the mid-nineteenth century. Ada is a mute who has a young daughter, Flora. In an arranged marriage she leaves her native Scotland accompanied by her daughter and her beloved piano. Life in the rugged forests of New Zealand's North Island is not all she may have imagined and nor is her relationship with her new husband Stewart. She suffers torment and loss when Stewart sells her piano to a neighbour, George. Ada learns from George that she may earn back her piano by giving him piano lessons, but only with certain other conditions attached. At first Ada despises George but slowly their relationship is transformed and this propels them into a dire situation.", 
+    "genres": "Drama, Music, Romance", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Although not initially seeming to embody this trope Alistair Stewart from The Piano.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "real"
+                ], 
+                "role": "Disappeared Dad: Flora has never met her real father; he ran off before she was born.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "native"
+                ], 
+                "role": "Lonely Doll Girl: This is probably why Flora torments the dog in the first place. She has no one to socialize with as her mother increasingly ignores her and Alisdair forbids her to play with the native children.", 
+                "id": "LonelyDollGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Ada's mother is never seen or mentioned.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "pale"
+                ], 
+                "role": "Woman in Black: Ada wears black dresses through most of the film, making her look all the most pale and ghostly.  She finally wears color when she leaves with Baines.", 
+                "id": "WomanInBlack"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107822", 
+    "poster_url": "ThePiano.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInBlack", 
+                "DisappearedDad", 
+                "CrazyJealousGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CrazyJealousGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CrazyJealousGuy", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "BoysDontCry", 
+            "name": "Boys Don't Cry", 
+            "poster_url": "BoysDontCry.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }
+    ], 
+    "id": "ThePiano", 
+    "name": "The Piano"
+}

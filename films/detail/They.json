@@ -1,0 +1,78 @@
+{
+    "plot": "After witnessing a horrific and traumatic event, Julia Lund, a graduate student in psychology, gradually comes to the realization that everything which scared her as a child could be real. And what's worse, it might be coming back to get her...", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "2002", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl:  Julia", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Screaming Woman: Oh, good Lord. You just want them to take Julia already.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0283632", 
+    "poster_url": "They.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BlackChristmas1974", 
+            "name": "Black Christmas ", 
+            "poster_url": "BlackChristmas1974.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LakePlacid", 
+            "name": "Lake Placid", 
+            "poster_url": "LakePlacid.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "NoroiTheCurse", 
+            "name": "Noroi: The Curse", 
+            "poster_url": "NoroiTheCurse.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "StageFrightAquarius", 
+            "name": "StageFright -Aquarius-"
+        }
+    ], 
+    "id": "They", 
+    "name": "They"
+}

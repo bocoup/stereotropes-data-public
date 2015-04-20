@@ -1,0 +1,92 @@
+{
+    "plot": "Juan is a slacker trying to reconnect with his daughter, who plans to rejoin her mother in Miami. Lazaro, Juan's friend, is trying to connect with his own son, a persistent womanizer. They begin to notice that locals are \"going crazy\", killing people and eating their flesh, and the recently deceased are returning to life. The Cuban government and the media claim that the zombies are dissidents revolting against the government. Juan starts a business to profit off of killing the zombies, but the group may soon find their own lives at risk.", 
+    "genres": "Action, Comedy, Horror", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "flamboyant", 
+                    "drag-queen"
+                ], 
+                "role": "Camp Gay: La China is a flamboyant drag-queen.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Another zombie-film example: Juan, Lazaro and California in Juan Of The Dead.", 
+                "id": "TheSlacker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Slacker: Juan, Lazaro and California all qualify, to varying degrees.", 
+                "id": "TheSlacker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "The Chick - La China, later Camila", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1838571", 
+    "poster_url": "JuanOfTheDead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheSlacker", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "IVitelloni", 
+            "name": "I Vitelloni", 
+            "poster_url": "IVitelloni.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "JesusChristSuperstar", 
+            "name": "Jesus Christ Superstar", 
+            "poster_url": "JesusChristSuperstar.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "AnotherGayMovie", 
+            "name": "Another Gay Movie", 
+            "poster_url": "AnotherGayMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheToxicAvenger", 
+            "name": "The Toxic Avenger", 
+            "poster_url": "TheToxicAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBigLebowski", 
+            "name": "The Big Lebowski", 
+            "poster_url": "TheBigLebowski.jpg"
+        }
+    ], 
+    "id": "JuanOfTheDead", 
+    "name": "Juan of the Dead"
+}

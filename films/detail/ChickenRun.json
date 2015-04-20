@@ -1,0 +1,103 @@
+{
+    "plot": "Having been hopelessly repressed and facing eventual certain death at the chicken farm where they are held, Rocky the rooster and Ginger the chicken decide to rebel against the evil Mr. and Ms. Tweedy, the farm's owners. Rocky and Ginger lead their fellow chickens in a great escape from the murderous farmers and their farm of doom.", 
+    "genres": "Animation, Family, Comedy", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Chick Magnet: Rocky. Quite literally...", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Rooster: Fowler.", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Chicken Run, appropriately, has Mr. Tweedy in this role. His wife constantly berates him for his stupidity and never believes his claims that the chickens are plotting to escape. In the end, when Mrs. Tweedy's \"chicken pie\" plan backfires, he tells her, \"I told you they were organised!\"", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "clear"
+                ], 
+                "role": "Henpecked Husband (hee hee!): Mr. Tweedy. He gets some measure of revenge - most of it was edited out, but it's clear Mr. Tweedy pushed the wooden wall onto her as a Take That.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Brawn Hilda: Bunty.", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Macbeth: Mrs Tweedy", 
+                "id": "LadyMacBeth"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Babs", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120630", 
+    "poster_url": "ChickenRun.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "BrawnHilda"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "MyDogSkip", 
+            "name": "My Dog Skip", 
+            "poster_url": "MyDogSkip.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }
+    ], 
+    "id": "ChickenRun", 
+    "name": "Chicken Run"
+}

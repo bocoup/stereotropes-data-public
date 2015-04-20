@@ -1,0 +1,81 @@
+{
+    "plot": "During the Cultural Revolution in China in the mid-1960s, a French diplomat falls in love with a singer in the Beijing Opera. Interwoven with allusions to the Puccini opera \"Madama Butterfly\", a story of love and betrayal unfolds.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Handsome Devil : Though Gallimard initially describes himself as being far removed from this trope, his attitude upon entering his relationship with Song certainly shifts to that of a Handsome Devil type of character.", 
+                "id": "HandsomeDevil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Asian"
+                ], 
+                "role": "Asian Babymama: Complete with a child with blond hair. It's only another ruse by Song, of course.", 
+                "id": "AsianBabymama"
+            }, 
+            {
+                "adjectives": [
+                    "Chinese", 
+                    "French"
+                ], 
+                "role": "M. Butterfly in which Song, a Chinese spy, poses as a woman to get information from Gallimard, a French soldier. He ends up falling in love with him after being his \"mistress\" for years.", 
+                "id": "MataHari"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107468", 
+    "similar": [
+        {
+            "shared": [
+                "MataHari"
+            ], 
+            "shared_count": 1, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "AsianBabymama"
+            ], 
+            "shared_count": 1, 
+            "id": "TheYakuza", 
+            "name": "The Yakuza", 
+            "poster_url": "TheYakuza.jpg"
+        }, 
+        {
+            "shared": [
+                "MataHari"
+            ], 
+            "shared_count": 1, 
+            "id": "CounterfeitTraitor", 
+            "name": "Counterfeit Traitor", 
+            "poster_url": "CounterfeitTraitor.jpg"
+        }, 
+        {
+            "shared": [
+                "MataHari"
+            ], 
+            "shared_count": 1, 
+            "id": "InglouriousBasterds", 
+            "name": "Inglourious Basterds", 
+            "poster_url": "InglouriousBasterds.jpg"
+        }, 
+        {
+            "shared": [
+                "MataHari"
+            ], 
+            "shared_count": 1, 
+            "id": "MarsAttacks", 
+            "name": "Mars Attacks!", 
+            "poster_url": "MarsAttacks.jpg"
+        }
+    ], 
+    "id": "MButterfly", 
+    "name": "M. Butterfly"
+}

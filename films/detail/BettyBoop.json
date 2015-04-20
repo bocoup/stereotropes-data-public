@@ -1,0 +1,122 @@
+{
+    "plot": "N/A", 
+    "genres": "Short, Comedy, Thriller", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dastardly Whiplash: Heeza Ratt from the 1934 \"She Wronged Him Right\".", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Mr. Fixit: Grampy, an old man who seemingly can invent anything out of anything else.", 
+                "id": "MrFixit"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "seventeen"
+                ], 
+                "role": "Action Mom: \"The Bum Bandit\" has Betty (or Nan as she's called in this one) as a badass with seventeen kids.", 
+                "id": "ActionMom"
+            }, 
+            {
+                "adjectives": [
+                    "obvious"
+                ], 
+                "role": "Damsel in Distress: Betty every now and then for very obvious reasons.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Good Bad Girl", 
+                "id": "GoodBadGirl"
+            }, 
+            {
+                "adjectives": [
+                    "male"
+                ], 
+                "role": "Hello, Nurse!: Betty got this reaction from nearly every male character she encountered before the Hays Code interfered.", 
+                "id": "HelloNurse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: One of the pioneering animated examples.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Tease", 
+                "id": "TheTease"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Buzzy and Betty, Sally Swing and Betty.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1816467", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "GoodBadGirl", 
+                "HelloNurse"
+            ], 
+            "shared_count": 3, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MsFanservice", 
+                "HelloNurse"
+            ], 
+            "shared_count": 3, 
+            "id": "RedHotRidingHood", 
+            "name": "Red Hot Riding Hood"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TomBoyAndGirlyGirl", 
+                "DastardlyWhiplash"
+            ], 
+            "shared_count": 3, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MsFanservice", 
+                "HelloNurse"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFixit", 
+                "MsFanservice", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 3, 
+            "id": "TheRocketeer", 
+            "name": "The Rocketeer", 
+            "poster_url": "TheRocketeer.jpg"
+        }
+    ], 
+    "id": "BettyBoop", 
+    "name": "Betty Boop"
+}

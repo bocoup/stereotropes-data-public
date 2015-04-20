@@ -1,0 +1,120 @@
+{
+    "plot": "Mike Wazowski and James P. Sullivan are an inseparable pair, but that wasn't always the case. From the moment these two mismatched monsters met they couldn't stand each other. \"Monsters University\" unlocks the door to how Mike and Sulley overcame their differences and became the best of friends.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "academic", 
+                    "unusual", 
+                    "high-achieving", 
+                    "general", 
+                    "main"
+                ], 
+                "role": "Jerk Jock: Surprisingly, Sulley is this to Mike. He gets better. Johnny Worthington III also fits this role. Because scaring is an academic discipline, this creates the unusual scenario in which the jock is also a high-achieving student and proud of it. In general, this seems to be the main trait of Roar Omega Roar.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "cute"
+                ], 
+                "role": "Cute Monster Girl: Plenty around the campus, especially the PNK sorority girls. Of course, they're less cute when they show their Nightmare Face.", 
+                "id": "CuteMonsterGirl"
+            }, 
+            {
+                "adjectives": [
+                    "cute", 
+                    "other", 
+                    "monstrous"
+                ], 
+                "role": "Monsters University splits this trope down the middle: Claire Wheeler and the Python Nu Kappa sisters are on the \"cute\" side, while the other sororities and Dean Hardscrabble are on the \"monstrous\" side.", 
+                "id": "CuteMonsterGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl Posse: The Python Nu Kappa (PNK) sorority.", 
+                "id": "GirlPosse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Librarian: That's putting it mildly.", 
+                "id": "ScaryLibrarian"
+            }, 
+            {
+                "adjectives": [
+                    "librarian", 
+                    "incredible", 
+                    "slow", 
+                    "poor"
+                ], 
+                "role": "The librarian in Monsters University has tentacles, can grow to an incredible height, and will throw anyone who annoys her out the window. Fortunately, she's quite slow and has poor eyesight.", 
+                "id": "ScaryLibrarian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Sherry.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1453405", 
+    "poster_url": "MonstersUniversity.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CuteMonsterGirl", 
+                "TheChick", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "GirlPosse", 
+                "JerkJock"
+            ], 
+            "shared_count": 3, 
+            "id": "GeekCharming", 
+            "name": "Geek Charming"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlPosse", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }
+    ], 
+    "id": "MonstersUniversity", 
+    "name": "Monsters University"
+}

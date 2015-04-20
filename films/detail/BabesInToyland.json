@@ -1,0 +1,98 @@
+{
+    "plot": "Ollie Dee and Stanley Dum try to borrow money from their employer, the toymaker, to pay off the mortgage on Mother Peep's shoe and keep it and Little Bo Peep from the clutches of the evil Barnaby. When that fails, they trick Barnaby into marrying Stanley Dum instead of Bo Peep. Enraged, Barnaby unleashes the bogeymen from their caverns to destroy Toyland.", 
+    "genres": "Comedy, Family, Fantasy", 
+    "release_year": "1934", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dastardly Whiplash: Mr. Barnaby, especially as depicted by Ray Bolger.", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [
+                    "original", 
+                    "small"
+                ], 
+                "role": "In the Disney re-make (which reverted to the title of the original Victor Herbert operetta, Babes in Toyland), Barnaby (played by Ray Bolger) changes the side-whiskers for a small waxed moustache.", 
+                "id": "DastardlyWhiplash"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Barnaby.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "normal-sized", 
+                    "bad"
+                ], 
+                "role": "In Babes in Toyland, the hero and the villain are both shrunk down to toy size and then begin to engage in a sword fight while the normal-sized heroine watches them, very concerned. She could have just stepped on the bad guy!", 
+                "id": "NeutralFemale"
+            }, 
+            {
+                "adjectives": [
+                    "normal-sized", 
+                    "bad", 
+                    "cold-blooded"
+                ], 
+                "role": "Neutral Female: In the Disney version, the hero and the villain are both shrunk down to toy size and then begin to engage in a swordfight while the normal-sized heroine watches them, very concerned. She could have just stepped on the bad guy! (Granted, she could have easily caught the hero, too! Or she just didn't think she could live with committing a cold-blooded murder...)", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0024852", 
+    "poster_url": "BabesInToyland.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheKarateKid", 
+            "name": "The Karate Kid", 
+            "poster_url": "TheKarateKid.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "RawDeal", 
+            "name": "Raw Deal", 
+            "poster_url": "RawDeal.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }
+    ], 
+    "id": "BabesInToyland", 
+    "name": "Babes in Toyland"
+}

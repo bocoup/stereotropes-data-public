@@ -1,0 +1,98 @@
+{
+    "plot": "When Fiona's father and King of Far Far Away passes away, the clumsy Shrek becomes the immediate successor of the throne. However, Shrek decides to find the legitimate heir Artie in a distant kingdom with his friends Donkey and Puss in Boots to be able return to his beloved house in the swamp with the pregnant Fiona. Meanwhile, the envious and ambitious Prince Charming joins the villains of the fairytales plotting a coup d'\u00e9tat to become the new king.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Evil Prince: Prince Charming.", 
+                "id": "TheEvilPrince"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Guinevere.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "solid"
+                ], 
+                "role": "Cool Old Lady: Queen Lillian. Bashing a solid brick wall with her head Twice!", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses: Lots of princesses.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "non-mook", 
+                    "Madagascar-penguin-worthy"
+                ], 
+                "role": "Faux Action Girl: The Princess Rampage showcased in the trailer of Shrek the Third ends with meek surrender at the first sign of non-mook resistance. Their Storming the Castle sequence was certainly Madagascar-penguin-worthy, though.", 
+                "id": "FauxActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0413267", 
+    "poster_url": "ShrekTheThird.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "CoolOldLady", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "TheEvilPrince", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Stardust", 
+            "name": "Stardust", 
+            "poster_url": "Stardust.jpg"
+        }, 
+        {
+            "shared": [
+                "TheEvilPrince", 
+                "EverythingsBetterWithPrincesses"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "CoolOldLady"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "TheEvilPrince", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Sheena", 
+            "name": "Sheena", 
+            "poster_url": "Sheena.jpg"
+        }
+    ], 
+    "id": "ShrekTheThird", 
+    "name": "Shrek the Third"
+}

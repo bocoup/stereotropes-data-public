@@ -1,0 +1,103 @@
+{
+    "plot": "A veteran samurai, who has fallen on hard times, answers a village's request for protection from bandits. He gathers 6 other samurai to help him, and they teach the townspeople how to defend themselves, and they supply the samurai with three small meals a day. The film culminates in a giant battle when 40 bandits attack the village.", 
+    "genres": "Drama", 
+    "release_year": "1954", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Mustache: Kambei. Aw yeeah.\u25ca'", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Kambei is the oldest.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Kambei, although the village elder deserves mention.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "past", 
+                    "other", 
+                    "entire", 
+                    "first"
+                ], 
+                "role": "Knight in Shining Armor: Subverted. The samurai are enraged when they discover that the villagers whom they are defending have in the past sometimes killed samurai escaping from battles and stripped them of their armor and weapons. As the other samurai begin muttering about how they'd like to slaughter the entire village, Kikuchiyo (who was born a commoner) angrily reminds them that it was living under samurai rule that forced the villagers to live like that in the first place. This case of Writer on Board is widely held to be an apology by Kurosawa, who was from a family with samurai heritage.", 
+                "id": "KnightInShiningArmor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Samurai: Technically, like the Ronin entry above notes, they're not really samurai but all seven fight and four die like samurai.", 
+                "id": "Samurai"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Seven Samurai, which spawned a Sci-Fi anime based off it, Samurai 7. Also, The Magnificent Seven was a Foreign Remake of it.", 
+                "id": "Samurai"
+            }
+        ]
+    }, 
+    "imdbid": "tt0047478", 
+    "poster_url": "SevenSamurai.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadAssMustache", 
+                "CoolOldGuy", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BadAssMustache", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "TeenageMutantNinjaTurtles2014", 
+            "name": "Teenage Mutant Ninja Turtles ", 
+            "poster_url": "TeenageMutantNinjaTurtles2014.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "BadAssMustache", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }, 
+        {
+            "shared": [
+                "Samurai", 
+                "BadassGrandpa"
+            ], 
+            "shared_count": 2, 
+            "id": "Kagemusha", 
+            "name": "Kagemusha", 
+            "poster_url": "Kagemusha.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssMustache", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }
+    ], 
+    "id": "SevenSamurai", 
+    "name": "Seven Samurai"
+}

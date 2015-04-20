@@ -1,0 +1,124 @@
+{
+    "plot": "An alien race has hit the Earth in an unrelenting assault, unbeatable by any military unit in the world. Major William Cage (Cruise) is an officer who has never seen a day of combat when he is unceremoniously dropped into what amounts to a suicide mission. Killed within minutes, Cage now finds himself inexplicably thrown into a time loop-forcing him to live out the same brutal combat over and over, fighting and dying again...and again. But with each battle, Cage becomes able to engage the adversaries with increasing skill, alongside Special Forces warrior Rita Vrataski (Blunt). And, as Cage and Vrataski take the fight to the aliens, each repeated encounter gets them one step closer to defeating the enemy!", 
+    "genres": "Action, Sci-Fi", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "stunned"
+                ], 
+                "role": "Bash Brothers: Once Cage reaches Rita's level of skill, he and Rita are this, as shown when they fight in tandem on the beach while a stunned J Squad looks on.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [
+                    "grade-A", 
+                    "yellow-belly", 
+                    "several", 
+                    "first"
+                ], 
+                "role": "Dirty Coward: Major Cage is a grade-A yellow-belly officer pogue who tries to weasel and blackmail his way out of the front lines, and even tries running away several times on his first loop. He grows out of it.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "many"
+                ], 
+                "role": "Major William Cage in Edge of Tomorrow. Upon learning that he's going to be embedded with the invasion (which, admittedly, ends in failure), he panics and blackmails General Brigham, resulting in him being arrested and sent to the front lines. Over the many times he repeats this process, he gradually takes levels in badass and loses this tendency.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "second", 
+                    "horrible", 
+                    "other", 
+                    "fellow", 
+                    "Thousand-Yard", 
+                    "extra", 
+                    "entire"
+                ], 
+                "role": "His second comes after watching Rita die at the farmhouse. This one is so horrible that the Drill Sergeant Nasty who awakens him(who every other time prior to that treated him like garbage to be sorted) quietly hands him his gear in recognition of a fellow soldier's Thousand-Yard Stare. It also results in a Crowning Moment Of Awesome as he wields that trauma like a scalpel, bullying the supply officer into giving him extra gear, then charging right through Germany to kill the Omega without any regard to everything around him. Though this one reveals that the Omega has been sending false visions to its whereabouts the entire time.", 
+                "id": "DrillSergeantNasty"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Rita Vrataski, who is by far the most badass and competent soldier in the UDF. Also, Nance.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "large", 
+                    "female"
+                ], 
+                "role": "The Squadette: Nance, who is the only Action Girl in J Squad, although it should be noted that based on background footage a large number of the UDF is made of female soldiers.", 
+                "id": "TheSquadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt1631867", 
+    "poster_url": "EdgeOfTomorrow.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheSquadette", 
+                "BashBrothers", 
+                "ActionGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 4, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSquadette", 
+                "BashBrothers", 
+                "ActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "AlienS", 
+            "name": "Aliens", 
+            "poster_url": "AlienS.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyCoward", 
+                "ActionGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "WatershipDown", 
+            "name": "Watership Down", 
+            "poster_url": "WatershipDown.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSquadette", 
+                "ActionGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSquadette", 
+                "BashBrothers", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "EdgeOfTomorrow", 
+    "name": "Edge of Tomorrow"
+}

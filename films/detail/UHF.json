@@ -1,0 +1,101 @@
+{
+    "plot": "George Newman (Yankovic) is a normal man. Problem is, he's also a daydreamer, who can't keep hold of a steady job. His uncle decides George will be the perfect man to manage Channel 62, a station which is losing money and viewers fast. George's imagination is put to good use and he starts thinking up bizarre shows such as \"Wheels of Fish\" and \"Raul's Wild Kingdom\". The ratings start to soar again, but not everyone is happy.", 
+    "genres": "Comedy", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: R.J. Fletcher himself.", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "R.J. Fletcher from UHF", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "Big Edna in UHF throws two men several stories into the air.", 
+                "id": "StoutStrength"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "many", 
+                    "different", 
+                    "exotic", 
+                    "wild", 
+                    "running/flying/crawling", 
+                    "free", 
+                    "pile", 
+                    "high"
+                ], 
+                "role": "Although technically disqualified because he hoards so many different species, Raoul from UHF's \"Raoul's Wild Kingdom\" segments deserves honorary Crazy Cat Lady status for having dozens of exotic and wild animals living tucked into drawers, hidden in cupboards, and running/flying/crawling free in his apartment. He qualifies based on the number of poodles he sacrifices out the window in teaching them to fly. They make a pile about 8 feet high easily filling the trope, at least until they all die.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [
+                    "Librarian"
+                ], 
+                "role": "Scary Librarian: Conan: The Librarian.", 
+                "id": "ScaryLibrarian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098546", 
+    "poster_url": "UHF.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "StoutStrength", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady"
+            ], 
+            "shared_count": 1, 
+            "id": "Gremlins", 
+            "name": "Gremlins", 
+            "poster_url": "Gremlins.jpg"
+        }, 
+        {
+            "shared": [
+                "StoutStrength"
+            ], 
+            "shared_count": 1, 
+            "id": "Misery", 
+            "name": "Misery", 
+            "poster_url": "Misery.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }
+    ], 
+    "id": "UHF", 
+    "name": "UHF"
+}

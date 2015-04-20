@@ -1,0 +1,160 @@
+{
+    "plot": "The mercenary Royce; the military Isabelle; the Russian soldier Nikolai; the San Quentin criminal Stans; the Sierra Leone militia Mombasa; the drug lord Cuchillo; the Yakuza Hanzo; and the Doctor Edwin awake in free fall but they succeed to open their parachutes landing in a jungle. Soon they discover that they are on another planet and they are prey of aliens in a deadly hunting game, and they need to join forces to destroy their predators and survive.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "tough", 
+                    "attractive"
+                ], 
+                "role": "Amazon Chaser: Isabelle's tough as nails, and the guys explicitly find her attractive for it.", 
+                "id": "AmazonChaser"
+            }, 
+            {
+                "adjectives": [
+                    "mercenary", 
+                    "other"
+                ], 
+                "role": "Cultured Badass: Royce quotes Hemingway when describing his mercenary work - he likes the feeling of killing other men.", 
+                "id": "CulturedBadass"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Husky Russkie: Nikolai.", 
+                "id": "HuskyRusskie"
+            }, 
+            {
+                "adjectives": [
+                    "rare", 
+                    "such", 
+                    "Russian"
+                ], 
+                "role": "One of those rare non-Ivans is Nikolai from Predators, a beefy Spetznaz commando who's also one of the nicer dudes in the cast. He may be partially based on the Heavy Weapons Guy (see video games folder), since he befriends a bespectacled doctor, wields a minigun, and has a son named Sasha (which is what the Heavy calls his gun). Also one of the (formerly) rare cases where such a character is played by an actually Russian actor/bodybuilder.", 
+                "id": "HuskyRusskie"
+            }, 
+            {
+                "adjectives": [
+                    "professional", 
+                    "criminal", 
+                    "particular", 
+                    "true", 
+                    "murderous"
+                ], 
+                "role": "Topher Grace's character in Predators is introduced this way. In a team of professional and criminal badasses, he is an unassuming doctor with no particular combat or survival skills. The badasses spend most of the movie protecting him or at least trying to keep him from getting them all killed,  until the end, when he reveals his true nature as a murderous psychopath.", 
+                "id": "NonActionGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Predators has Mombasa.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "waistcoat", 
+                    "complete", 
+                    "powder-blue"
+                ], 
+                "role": "Predators: Hanzo, the impeccably dressed Yakuza enforcer, wears a waistcoat to complete his powder-blue three piece suit.", 
+                "id": "WaistcoatOfStyle"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "close"
+                ], 
+                "role": "Neutral Female: Ultimately subverted, although it's a close call.", 
+                "id": "NeutralFemale"
+            }, 
+            {
+                "adjectives": [
+                    "Special", 
+                    "able"
+                ], 
+                "role": "In Predators, one of the character is a Special Forces sniper played by Alice Braga. The actress went on the record as saying that she had to train a lot just to be able to carry the gun around.", 
+                "id": "SmallGirlBigGun"
+            }, 
+            {
+                "adjectives": [
+                    "Small"
+                ], 
+                "role": "Small Girl, Big Gun: Isabelle.", 
+                "id": "SmallGirlBigGun"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Isabelle", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Predators has Isabelle the sniper.", 
+                "id": "TheSquadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt1424381", 
+    "poster_url": "Predators.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "TheChick", 
+                "AmazonChaser", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 4, 
+            "id": "KungFuPanda", 
+            "name": "Kung Fu Panda", 
+            "poster_url": "KungFuPanda.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "NeutralFemale", 
+                "WaistcoatOfStyle"
+            ], 
+            "shared_count": 3, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "AmazonChaser", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "StreetFighter", 
+            "name": "Street Fighter", 
+            "poster_url": "StreetFighter.jpg"
+        }, 
+        {
+            "shared": [
+                "HuskyRusskie", 
+                "AmazonChaser", 
+                "TheSquadette"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "SmallGirlBigGun", 
+                "TheSquadette"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLosers", 
+            "name": "The Losers", 
+            "poster_url": "TheLosers.jpg"
+        }
+    ], 
+    "id": "Predators", 
+    "name": "Predators"
+}

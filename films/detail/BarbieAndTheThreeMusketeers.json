@@ -1,0 +1,82 @@
+{
+    "plot": "It's \"all for one and one for all\" in this action-filled adventure as Barbie stars as Corinne, a young country girl headed to Paris to pursue her big dream - to become a musketeer!", 
+    "genres": "Animation, Family", 
+    "release_year": "2009", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: One of the closest the Barbie films have gotten to this.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Graceful Ladies Like Purple: Viveca.", 
+                "id": "GracefulLadiesLikePurple"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Fashionista: Viveca.", 
+                "id": "TheFashionista"
+            }
+        ]
+    }, 
+    "imdbid": "tt1484922", 
+    "poster_url": "BarbieAndTheThreeMusketeers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheFashionista", 
+                "ActionGirl", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 3, 
+            "id": "HappilyEverAfter", 
+            "name": "Happily Ever After", 
+            "poster_url": "HappilyEverAfter.jpg"
+        }, 
+        {
+            "shared": [
+                "TheFashionista", 
+                "ActionGirl", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "TheFashionista", 
+                "ActionGirl", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 3, 
+            "id": "Barbie", 
+            "name": "Barbie"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "BarbieAndTheThreeMusketeers", 
+    "name": "Barbie And The Three Musketeers"
+}

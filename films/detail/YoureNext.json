@@ -1,0 +1,87 @@
+{
+    "plot": "When a gang of masked, ax-wielding murderers descend upon the Davison family reunion, the hapless victims seem trapped... until an unlikely guest of the family proves to be the most talented killer of all.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2011", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Erin.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Final", 
+                    "first", 
+                    "normal"
+                ], 
+                "role": "Final Girl: Erin could be considered a Deconstructive Parody of one. While at first she appears to be a normal variety, it quickly turns out that she is not only an Action Survivor, but also came from a Crazy Survivalist background. It reaches the point where the remaining masked killers are scared of her. It's also heavily implied that she will be arrested after the events of the movie for the people she killed, if she survives her wound.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Next", 
+                    "first", 
+                    "normal"
+                ], 
+                "role": "You're Next: Erin could be considered a Deconstructive Parody of one. While at first she appears to be a normal variety, it quickly turns out that she is not only an Action Survivor, but also came from a Crazy Survivalist background. It reaches the point where the remaining masked killers are scared of her. It's also heavily implied that she gets arrested after the events of the movie for the people she killed.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1853739", 
+    "poster_url": "YoureNext.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hausu", 
+            "name": "Hausu"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Scream", 
+            "name": "Scream", 
+            "poster_url": "Scream.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Madman", 
+            "name": "Madman", 
+            "poster_url": "Madman.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hostel", 
+            "name": "Hostel", 
+            "poster_url": "Hostel.jpg"
+        }
+    ], 
+    "id": "YoureNext", 
+    "name": "You're Next"
+}

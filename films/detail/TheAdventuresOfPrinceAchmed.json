@@ -1,0 +1,65 @@
+{
+    "plot": "Based on stories from \"The Arabian Nights.\" A wicked sorcerer tricks Prince Achmed into riding a magical flying horse. The heroic prince is able to subdue the magical horse, which he uses to fly off to many adventures. While travelling, he falls in love with the beautiful Princess Peri Banu, and must defeat an army of demons to win her heart. The entire film is animated using the silhouette technique, which employs movable cardboard and metal cutouts posed in front of illuminated sheets of glass.", 
+    "genres": "Animation, Adventure, Fantasy", 
+    "release_year": "1926", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Both Peri Banu and Dinarsade.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0015532", 
+    "poster_url": "TheAdventuresOfPrinceAchmed.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TurtlesForever", 
+            "name": "Turtles Forever", 
+            "poster_url": "TurtlesForever.png"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "Thunderball", 
+            "name": "Thunderball", 
+            "poster_url": "Thunderball.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }
+    ], 
+    "id": "TheAdventuresOfPrinceAchmed", 
+    "name": "The Adventures Of Prince Achmed"
+}

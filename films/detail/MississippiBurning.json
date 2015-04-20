@@ -1,0 +1,95 @@
+{
+    "plot": "Two FBI agents investigating the murder of civil rights workers during the 60s seek to breach the conspiracy of silence in a small Southern town where segregation divides black and white. The younger agent trained in FBI school runs up against the small town ways of his former Sheriff partner.", 
+    "genres": "Crime, Drama, Mystery", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick", 
+                "id": "CorruptHick"
+            }, 
+            {
+                "adjectives": [
+                    "professional", 
+                    "corrupt"
+                ], 
+                "role": "In Mississippi Burning, the FBI brings in a professional Scary Black Man to intimidate the corrupt mayor into revealing who committed a hate crime.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "professional", 
+                    "corrupt"
+                ], 
+                "role": "Scary Black Man: The FBI brings in a professional Scary Black Man to intimidate the corrupt mayor into revealing who committed a hate crime.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High Heel-Face Turn: Deputy Pell's wife informs on The Klan. She gets beaten up for it, but survives.", 
+                "id": "HighHeelFaceTurn"
+            }
+        ]
+    }, 
+    "imdbid": "tt0095647", 
+    "poster_url": "MississippiBurning.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "StirCrazy", 
+            "name": "Stir Crazy", 
+            "poster_url": "StirCrazy.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "DemonKnight", 
+            "name": "Demon Knight", 
+            "poster_url": "DemonKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "LiveAndLetDie", 
+            "name": "Live and Let Die", 
+            "poster_url": "LiveAndLetDie.jpg"
+        }
+    ], 
+    "id": "MississippiBurning", 
+    "name": "Mississippi Burning"
+}

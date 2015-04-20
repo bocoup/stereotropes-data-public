@@ -1,0 +1,68 @@
+{
+    "plot": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "In the movie Howard the Duck, Howard barely survives a butcher knife landing near his groin and he responds in a soprano.", 
+                "id": "InstantSoprano"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Instant Soprano: Howard barely survives a butcher knife landing near his groin and he responds in a soprano.", 
+                "id": "InstantSoprano"
+            }
+        ]
+    }, 
+    "imdbid": "tt0091225", 
+    "poster_url": "HowardTheDuck.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "InstantSoprano"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "InstantSoprano"
+            ], 
+            "shared_count": 1, 
+            "id": "HomeAlone", 
+            "name": "Home Alone", 
+            "poster_url": "HomeAlone.jpg"
+        }, 
+        {
+            "shared": [
+                "InstantSoprano"
+            ], 
+            "shared_count": 1, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "InstantSoprano"
+            ], 
+            "shared_count": 1, 
+            "id": "SummerRental", 
+            "name": "Summer Rental", 
+            "poster_url": "SummerRental.jpg"
+        }, 
+        {
+            "shared": [
+                "InstantSoprano"
+            ], 
+            "shared_count": 1, 
+            "id": "ThePirateMovie", 
+            "name": "The Pirate Movie"
+        }
+    ], 
+    "id": "HowardTheDuck", 
+    "name": "Howard the Duck"
+}

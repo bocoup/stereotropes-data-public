@@ -1,0 +1,66 @@
+{
+    "plot": "A documentary examining the early days of horror films, particularly those crafted at Universal Studios during the 1930s.", 
+    "genres": "Documentary, Horror", 
+    "release_year": "1998", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "eponymous"
+                ], 
+                "role": "Monster Old Maid, a deck for playing Old Maid featuring Universal monsters. Dracula's Daughter is the eponymous Old Maid.", 
+                "id": "OldMaid"
+            }
+        ]
+    }, 
+    "imdbid": "tt0214247", 
+    "similar": [
+        {
+            "shared": [
+                "OldMaid"
+            ], 
+            "shared_count": 1, 
+            "id": "LilAbner", 
+            "name": "Li'l Abner", 
+            "poster_url": "LilAbner.jpg"
+        }, 
+        {
+            "shared": [
+                "OldMaid"
+            ], 
+            "shared_count": 1, 
+            "id": "ThePaintedVeil", 
+            "name": "The Painted Veil", 
+            "poster_url": "ThePaintedVeil.jpg"
+        }, 
+        {
+            "shared": [
+                "OldMaid"
+            ], 
+            "shared_count": 1, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "OldMaid"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHood2010", 
+            "name": "Robin Hood ", 
+            "poster_url": "RobinHood2010.jpg"
+        }, 
+        {
+            "shared": [
+                "OldMaid"
+            ], 
+            "shared_count": 1, 
+            "id": "HelloDolly", 
+            "name": "Hello, Dolly!", 
+            "poster_url": "HelloDolly.jpg"
+        }
+    ], 
+    "id": "UniversalHorror", 
+    "name": "Universal Horror"
+}

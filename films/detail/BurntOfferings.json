@@ -1,0 +1,68 @@
+{
+    "plot": "Haunted house chiller from Dan Curtis has Oliver Reed and Karen Black as summer caretakers moving into gothic house with their young son. The catch? The house rejuvenates a part of itself with each death that occurs on its premises.", 
+    "genres": "Horror, Mystery", 
+    "release_year": "1976", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "funeral", 
+                    "funeral"
+                ], 
+                "role": "Haunted Hero: After moving into the house, Ben starts having nightmares about his mother's funeral and starts seeing the car and chauffeur from the funeral in both the driveway and in the house itself.", 
+                "id": "HauntedHeroine"
+            }
+        ]
+    }, 
+    "imdbid": "tt0074258", 
+    "poster_url": "BurntOfferings.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HauntedHeroine"
+            ], 
+            "shared_count": 1, 
+            "id": "Gothika", 
+            "name": "Gothika", 
+            "poster_url": "Gothika.jpg"
+        }, 
+        {
+            "shared": [
+                "HauntedHeroine"
+            ], 
+            "shared_count": 1, 
+            "id": "TheHauntingOfMollyHartley", 
+            "name": "The Haunting of Molly Hartley", 
+            "poster_url": "TheHauntingOfMollyHartley.jpg"
+        }, 
+        {
+            "shared": [
+                "HauntedHeroine"
+            ], 
+            "shared_count": 1, 
+            "id": "TheOrphanage", 
+            "name": "The Orphanage", 
+            "poster_url": "TheOrphanage.jpg"
+        }, 
+        {
+            "shared": [
+                "HauntedHeroine"
+            ], 
+            "shared_count": 1, 
+            "id": "DarkWater", 
+            "name": "Dark Water", 
+            "poster_url": "DarkWater.jpg"
+        }, 
+        {
+            "shared": [
+                "HauntedHeroine"
+            ], 
+            "shared_count": 1, 
+            "id": "ParanormalActivity", 
+            "name": "Paranormal Activity", 
+            "poster_url": "ParanormalActivity.jpg"
+        }
+    ], 
+    "id": "BurntOfferings", 
+    "name": "Burnt Offerings"
+}

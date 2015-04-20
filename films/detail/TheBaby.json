@@ -1,0 +1,109 @@
+{
+    "plot": "A social worker who recently lost her husband investigates the strange Wadsworth family. The Wadsworths might not seem too unusual to hear about them at first - consisting of the mother, two grown daughters and the diaper-clad, bottle-sucking baby. The problem is, the baby is twenty-one years old.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "different"
+                ], 
+                "role": "Disappeared Dad: All the Wadsworth kids were fathered by different men.", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Baby's mother and sisters", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Evil Matriarch: Mrs. Wadsworth", 
+                "id": "EvilMatriarch"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "dead", 
+                    "brain", 
+                    "damaged"
+                ], 
+                "role": "False Widow:  Ann, at first we assume he is dead, but it turns out that he's just brain damaged", 
+                "id": "FalseWidow"
+            }, 
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Alba", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Mrs. Wadsworth, Ann, and Ann's mother-in-law", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0069754", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EvilMatriarch", 
+                "AlphaBitch", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "GirlishPigtails", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Rango", 
+            "name": "Rango", 
+            "poster_url": "Rango.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "EvilMatriarch", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Carrie", 
+            "name": "Carrie", 
+            "poster_url": "Carrie.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "EvilMatriarch", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }
+    ], 
+    "id": "TheBaby", 
+    "name": "The Baby"
+}

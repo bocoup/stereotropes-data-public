@@ -1,0 +1,82 @@
+{
+    "plot": "Seduced by a satyr, Pluto celebrates spring. He goes around enjoying the scents, then imitating various animals. But when he imitates the butterfly (that transformed from a caterpillar before our eyes), he gets in trouble. The butterfly had done a little dance with a water droplet; Pluto picks a beehive as his \"ball\". The bees, of course, attack, and Pluto escapes by diving into some bushes of poison ivy. Then the \"gentle\" rains of spring come, along with the hail (\"hail, hail the rains\"), making a mess of Pluto's house.", 
+    "genres": "Animation, Comedy, Family", 
+    "release_year": "1944", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Humanoid Female Insect", 
+                "id": "HumanoidFemaleAnimal"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: The butterfly girl", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "playful", 
+                    "confident"
+                ], 
+                "role": "Spicy Latina: Well, playful, flirty and extremely confident applies well to the Butterfly.", 
+                "id": "SpicyLatina"
+            }
+        ]
+    }, 
+    "imdbid": "tt0037306", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "HumanoidFemaleAnimal"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "ManOnALedge", 
+            "name": "Man On A Ledge", 
+            "poster_url": "ManOnALedge.jpg"
+        }, 
+        {
+            "shared": [
+                "HumanoidFemaleAnimal", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "OpenSeason", 
+            "name": "Open Season", 
+            "poster_url": "OpenSeason.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 2, 
+            "id": "DoTheRightThing", 
+            "name": "Do the Right Thing", 
+            "poster_url": "DoTheRightThing.jpg"
+        }
+    ], 
+    "id": "SpringtimeForPluto", 
+    "name": "Springtime For Pluto"
+}

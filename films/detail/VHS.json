@@ -1,0 +1,85 @@
+{
+    "plot": "A POV, found footage horror film from the perspective of America's top genre filmmakers. A group of misfits are hired by an unknown third party to burglarize a desolate house in the countryside and acquire a rare tape. Upon searching the house, the guys are confronted with a dead body, a hub of old televisions and an endless supply of cryptic footage, each video stranger than the last.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Loins Sleep Tonight: A completely justified version in \"Amateur Night\", since  Clint's left arm just suffered a compound fracture while trying to flee from Lily, who tries to initiate a blowjob while coated in the blood of his friends.", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "17th", 
+                    "responsible"
+                ], 
+                "role": "Final Girl: Wendy in \"Tuesday the 17th\", but it's subverted; she is the one responsible for all the deaths, as she lured her friends up to the mountains to use as bait to catch the killer.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Second"
+                ], 
+                "role": "Psycho Lesbian: The \"twist\" of \"Second Honeymoon\" is that the stalker and the wife are in fact lovers who plotted to murder the latter's husband.", 
+                "id": "PsychoLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt2105044", 
+    "poster_url": "VHS.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PsychoLesbian", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HighTension", 
+            "name": "High Tension", 
+            "poster_url": "HighTension.jpg"
+        }, 
+        {
+            "shared": [
+                "TheLoinsSleepTonight", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSlumberPartyMassacre", 
+            "name": "The Slumber Party Massacre", 
+            "poster_url": "TheSlumberPartyMassacre.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }
+    ], 
+    "id": "VHS", 
+    "name": "V/H/S"
+}

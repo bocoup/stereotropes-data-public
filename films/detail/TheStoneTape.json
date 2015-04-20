@@ -1,0 +1,103 @@
+{
+    "plot": "A research team from an electronics company move into an old Victorian house to start work on finding a new recording medium. When team member Jill Greeley witnesses a ghost, team director Peter Brock decides not only to analyse the apparition, which he believes is a psychic impression trapped in a stone wall (dubbed a \"stone tape\"), but to exorcise it too - with terrifying results...", 
+    "genres": "Sci-Fi, Horror", 
+    "release_year": "1972", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hysterical", 
+                    "'erasing"
+                ], 
+                "role": "Hysterical Woman: Jill's warnings that 'erasing' the stone tape has only uncovered something else are dismissed by all concerned, even Roy.", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [
+                    "housemaid", 
+                    "female"
+                ], 
+                "role": "Played for horror in The Stone Tape where the scream of a housemaid killed back in the 1890's has become a Living Memory imprinted in the foundations of a castle. Later on a female colleague is killed by whatever lurks there, and it's her scream that's now imprinted in the building.", 
+                "id": "ScreamingWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman: Played for horror. Jill's dying scream ends up being imprinted on the stone tape.", 
+                "id": "ScreamingWoman"
+            }, 
+            {
+                "adjectives": [
+                    "long"
+                ], 
+                "role": "Sexy Secretary: One turns up with Crawford, and Brock doesn\u2019t take long to bed her.", 
+                "id": "SexySecretary"
+            }, 
+            {
+                "adjectives": [
+                    "female"
+                ], 
+                "role": "The ghost in The Stone Tape as she's dressed as a maid from the 19th century which gives one character fleeing the ghost gets a nasty shock when he runs into a female character dressed in her Labcoat of Science and Medicine.", 
+                "id": "WomanInWhite"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White: Louisa Hanks, as she's dressed as an undermaid from the 19th century. This gives Alan a shock when he flees the room, but runs into Jill in her lab coat.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0069316", 
+    "poster_url": "TheStoneTape.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HystericalWoman", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "BrideOfFrankenstein", 
+            "name": "Bride of Frankenstein"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLegendOfBoggyCreek", 
+            "name": "The Legend of Boggy Creek", 
+            "poster_url": "TheLegendOfBoggyCreek.jpg"
+        }, 
+        {
+            "shared": [
+                "SexySecretary", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSevenYearItch", 
+            "name": "The Seven Year Itch", 
+            "poster_url": "TheSevenYearItch.jpg"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "StageFrightAquarius", 
+            "name": "StageFright -Aquarius-"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Alien", 
+            "name": "Alien", 
+            "poster_url": "Alien.jpg"
+        }
+    ], 
+    "id": "TheStoneTape", 
+    "name": "The Stone Tape"
+}

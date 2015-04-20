@@ -1,0 +1,96 @@
+{
+    "plot": "This story follows a teenage rock hopper penguin named Cody Maverick from his hometown of Shiverpool, Antarctica, where all of the other penguins think he's nothing but a surfing fool, to the \"Big Z Memorial Surf Off\" on Pen Gu Island. Young Cody is determined to win the most important competition in the world of penguin surfing in honor of \"Big Z,\" a deceased surfing legend whom he has idolized since childhood. But the waves in Pen Gu are different than in Shiverpool, and the competition is steep. The current champ, egotistical Tank Evans, isn't just about to let this little penguin knock him from first place without a fight. When Cody wipes out and encounters Geek, a recluse aging former surfer, living in the jungle, he learns some important lessons about life and surfing, and even teaches Geek a thing or two.", 
+    "genres": "Animation, Comedy, Family", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "six-piece"
+                ], 
+                "role": "Disappeared Dad: Both Cody and Chicken Joe never knew their fathers. Cody's dad was eaten by a killer whale, while Joe's was served as part of a six-piece meal.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Tank. Oh so much.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy: Tank", 
+                "id": "MommasBoy"
+            }, 
+            {
+                "adjectives": [
+                    "Geek/Big"
+                ], 
+                "role": "Chicken Joe and Geek/Big Z from Surf's Up.", 
+                "id": "SurferDude"
+            }, 
+            {
+                "adjectives": [
+                    "funny"
+                ], 
+                "role": "Surfer Dude: Everyone on Pen Gu Island, but Chicken Joe is the funny stereotype.", 
+                "id": "SurferDude"
+            }
+        ]
+    }, 
+    "imdbid": "tt0423294", 
+    "poster_url": "SurfsUp.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SurferDude", 
+                "MommasBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "SurfNazisMustDie", 
+            "name": "Surf Nazis Must Die", 
+            "poster_url": "SurfNazisMustDie.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "WereTheWorldMine", 
+            "name": "Were the World Mine", 
+            "poster_url": "WereTheWorldMine.jpg"
+        }, 
+        {
+            "shared": [
+                "SurferDude", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "EncinoMan", 
+            "name": "Encino Man", 
+            "poster_url": "EncinoMan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MommasBoy"
+            ], 
+            "shared_count": 2, 
+            "id": "ThrowMommaFromTheTrain", 
+            "name": "Throw Momma from the Train", 
+            "poster_url": "ThrowMommaFromTheTrain.jpg"
+        }
+    ], 
+    "id": "SurfsUp", 
+    "name": "Surf's Up"
+}

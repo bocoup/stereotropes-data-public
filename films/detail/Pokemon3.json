@@ -1,0 +1,91 @@
+{
+    "plot": "Professor Shuri is a scientist looking for rare Pocket Monsters. He reads a storybook to his daughter Mi about the powerful Pokemon Entei. Shuri is currently searching for the heiroglyph Pokemon \"Unknown\". While searching through some ancient artifacts, Shuri awakens Unknown and is sucked into it. Mi next awakens Unknown while looking for her father. Unknown bonds with her and turns her mansion into a Crystal Tower. The crystallization begins to spread. Unknown lives to serve Mi and creates an Entei with the personality of her father to make her happy. When Mi next desires a mother, Entei kidnaps Satoshi's mother Hanako to give to Mi. Satoshi, Kasumi, Takeshi, and of course Pikachu set out to get her back.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Butler/Overprotective", 
+                    "former"
+                ], 
+                "role": "Battle Butler/Overprotective Dad: Entei has the latter personality, which results in him playing the former to the letter.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: What started the plot.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Momma's Boy", 
+                "id": "MommasBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "responsible"
+                ], 
+                "role": "Missing Mom: It's vaguely implied that the Unown are responsible for the disappearance of Molly's mother, hence Spencer Hale's persistence in researching them. The end credits show Spencer returning home to Molly with her mother in tow, suggesting the defeat of the Unown also brought her back as well. In the Japanese version, it's stated that she left her husband because he wouldn't stop obsessing over his work.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0266860", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MommasBoy", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheRescuers", 
+            "name": "The Rescuers", 
+            "poster_url": "TheRescuers.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Epic", 
+            "name": "Epic"
+        }
+    ], 
+    "id": "Pokemon3", 
+    "name": "Pok\u00e9mon 3"
+}

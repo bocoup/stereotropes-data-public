@@ -1,0 +1,108 @@
+{
+    "plot": "James Bond continues on his fourth mission, with his aim to recover two stolen warheads. They have been taken by the evil SPECTRE organisation. The world is held hostage and Bond heads to Nassau. Here, he meets the beautiful Domino and is forced into a thrilling confrontation with SPECTRE agent Emilio Largo, on board his boat, the Disco Volante. Will 007 prevent the killing of millions of innocent victims?", 
+    "genres": "Action, Adventure, Thriller", 
+    "release_year": "1965", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "adversary"
+                ], 
+                "role": "Thunderball opens with Colonel Bouvar, an adversary of Bond's, faking his death and dressing as his widow.\n Pretty much the inspiration for Austin Powers spotting a club employee as one of Dr. Evil's mooks in drag.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [
+                    "above", 
+                    "debatable"
+                ], 
+                "role": "It should be noted with the above example that, contrary to the stereotype that Bond regularly kills the women he sleeps with (invoked by the \"kiss kiss bang bang\" catchphrase of the 1960s), in truth this has happened exactly three times in the history of the movie franchise ( Fiona in Thunderball, Fatima in Never Say Never Again, and the above example of Elektra in The World Is Not Enough. And in the case of Fiona it's debatable whether Bond intentionally uses her as a human shield.).", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "mid-engined", 
+                    "anxious"
+                ], 
+                "role": "Thunderball had Fiona Volpe and her motorcycle; the remake Never Say Never Again had Fatima Blush, who led Bond on a chase in a (heavily modified) screaming mid-engined Renault 5. Volpe herself got Bond a bit anxious as a passenger in her Mustang.", 
+                "id": "BikerBabe"
+            }, 
+            {
+                "adjectives": [
+                    "fellow"
+                ], 
+                "role": "Damsel in Distress: Bond's fellow agent Paula is kidnapped by Largo's goons and taken to his estate to be interrogated.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dark Action Girl: SPECTRE assassin Fiona Volpe.", 
+                "id": "DarkActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Domino and Paula", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0059800", 
+    "poster_url": "Thunderball.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheChick", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 3, 
+            "id": "ScoobyDoo", 
+            "name": "Scooby-Doo", 
+            "poster_url": "ScoobyDoo.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "DarkActionGirl", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "TheChick", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "TheChick", 
+                "DarkActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "FairyTail", 
+            "name": "Fairy Tail"
+        }, 
+        {
+            "shared": [
+                "DarkActionGirl", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "LupinIIIOperationReturnTheTreasure", 
+            "name": "Lupin III Operation Return The Treasure"
+        }
+    ], 
+    "id": "Thunderball", 
+    "name": "Thunderball"
+}

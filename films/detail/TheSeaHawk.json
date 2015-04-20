@@ -1,0 +1,103 @@
+{
+    "plot": "Geoffrey Thorpe, a buccaneer, is hired by Queen Elizabeth I to nag the Spanish Armada. The Armada is waiting for the attack on England and Thorpe surprises them with attacks on their galleons where he shows his skills on the sword.", 
+    "genres": "Action, Adventure, Romance", 
+    "release_year": "1940", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Galley Slave: Thorpe and the other surviving crew of the Albatross are sentenced to this by the Inquisition. Why didn't they just hang him?", 
+                "id": "GalleySlave"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Sea Hawk", 
+                "id": "GalleySlave"
+            }, 
+            {
+                "adjectives": [
+                    "oar-slave"
+                ], 
+                "role": "Galley Slave: Oliver is put to work as an oar-slave on a Spanish ship.", 
+                "id": "GalleySlave"
+            }, 
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "In The Sea Hawk, this happens to the hero  when he is betrayed by his younger brother. He later returns the favor to said betrayer.", 
+                "id": "GalleySlave"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "future"
+                ], 
+                "role": "Mama Bear: Fenzileh will do anything to advance Marzak's future.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: The nameless \"woman from Malpas\" whom Lionel kills Peter Godolphin for.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0033028", 
+    "poster_url": "TheSeaHawk.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheVamp", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLongKissGoodnight", 
+            "name": "The Long Kiss Goodnight", 
+            "poster_url": "TheLongKissGoodnight.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "MildredPierce", 
+            "name": "Mildred Pierce", 
+            "poster_url": "MildredPierce.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTenCommandments", 
+            "name": "The Ten Commandments", 
+            "poster_url": "TheTenCommandments.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp"
+            ], 
+            "shared_count": 1, 
+            "id": "Sunrise", 
+            "name": "Sunrise", 
+            "poster_url": "Sunrise.jpg"
+        }
+    ], 
+    "id": "TheSeaHawk", 
+    "name": "The Sea Hawk"
+}

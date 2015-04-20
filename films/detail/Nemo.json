@@ -1,0 +1,87 @@
+{
+    "plot": "A young boy imagines being in a tale he's about to hear. In this magical world he encounters many famous characters from other tales, aliens and other beings and, of course, a beautiful princess.", 
+    "genres": "Adventure, Fantasy", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: At the end of the film, Nemo takes his shirt off for no apparent reason.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Everything's Better with Princesses", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "Green-Skinned", 
+                    "Rals-Akrai"
+                ], 
+                "role": "Green-Skinned Space Babe: Rals-Akrai", 
+                "id": "GreenSkinnedSpaceBabe"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Princess Classic: Alice", 
+                "id": "PrincessClassic"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087784", 
+    "similar": [
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "PrincessClassic"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSwanPrincess", 
+            "name": "The Swan Princess", 
+            "poster_url": "TheSwanPrincess.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "PrincessClassic"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "PrincessClassic"
+            ], 
+            "shared_count": 2, 
+            "id": "FelixTheCatTheMovie", 
+            "name": "Felix the Cat: The Movie", 
+            "poster_url": "FelixTheCatTheMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "PrincessClassic"
+            ], 
+            "shared_count": 2, 
+            "id": "Fantaghiro", 
+            "name": "Fantaghiro"
+        }
+    ], 
+    "id": "Nemo", 
+    "name": "Nemo"
+}

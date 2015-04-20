@@ -1,0 +1,80 @@
+{
+    "plot": "Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivor of an attack by giant hornets. Calling for help, Piel's father's friend Jaffar keeps contact with the kid and hurries across space toward Perdide.", 
+    "genres": "Animation, Drama, Mystery", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "hard"
+                ], 
+                "role": "Prince Charmless: It's hard to consider Matton a decent guy when he tries to drown a child.", 
+                "id": "PrinceCharmless"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "Missing Mom: We find out that the hornets killed little Piel's mom shortly before the start.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0084315", 
+    "poster_url": "TimeMasters.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrinceCharmless", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharmless", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharmless", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharmless", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom"
+            ], 
+            "shared_count": 1, 
+            "id": "IndependenceDay", 
+            "name": "Independence Day", 
+            "poster_url": "IndependenceDay.jpg"
+        }
+    ], 
+    "id": "TimeMasters", 
+    "name": "Time Masters"
+}

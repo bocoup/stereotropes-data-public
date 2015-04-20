@@ -1,0 +1,108 @@
+{
+    "plot": "This is an animated movie based on the book by Peter Dickinson. In this movie the realm of magic is being threatened by the realm of logic, so Carolinus, the green wizard decides to shield it for all time. Ommedon, the evil red wizard, stands in his way. Carolinus then calls for a quest that is to be led by a man named Peter Dickinson, who is the first man of both the realms of science and magic. It is Peter's job to defeat Ommedon.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Knight Errant: Sir Orrin Neville-Smythe. Guess \"Sir Brian\" was too boring of a name...", 
+                "id": "KnightErrant"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Knight in Shining Armor: Sir Orrin Neville-Smythe.", 
+                "id": "KnightInShiningArmor"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "evident", 
+                    "whole"
+                ], 
+                "role": "Daddy's Girl: Melisande, to Carolinus. It doesn't really become evident until she's in her weird coma, at which point he calls her \"my darling, darling child\" and weeps copiously. Possibly the most genuinely moving scene in the whole film.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Everything's Better With Princesses: Princess Melisande.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "only"
+                ], 
+                "role": "The Flight of Dragons has Princess Melisande, the Happily Adopted foster daughter of the wizard Carolinus. Her being a princess has nothing to do with the story, and probably the only reason she is one at all is so that the hero can win the heart of a princess like in any proper fairy tale.", 
+                "id": "EverythingsBetterWithPrincesses"
+            }, 
+            {
+                "adjectives": [
+                    "Mom/Disappeared", 
+                    "small"
+                ], 
+                "role": "Missing Mom/Disappeared Dad: Princess Melisande's parents were killed by \"the night demons\" when she was a small child, resulting in her being Happily Adopted by Carolinus. No explanation is ever offered for what became of the kingdom of which she is a princess.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0083951", 
+    "poster_url": "TheFlightOfDragons.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "KnightErrant", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "MissingMom", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "MissingMom", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "EverythingsBetterWithPrincesses", 
+                "MissingMom", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }
+    ], 
+    "id": "TheFlightOfDragons", 
+    "name": "The Flight of Dragons"
+}

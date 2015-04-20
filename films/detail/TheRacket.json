@@ -1,0 +1,77 @@
+{
+    "plot": "The big national crime syndicate has moved into town, partnering up with local crime boss Nick Scanlon. There are only two problems: First, Nick is the violent type, preferring to do things the old-fashioned way instead of using the syndicate's more genteel methods. The second problem is McQuigg, the only honest police captain on the force, and his loyal patrolman, Johnson. Together, they take on the violent Nick and try to foil the syndicate's plans to elect Welch, the crooked prosecutor running for a crooked judgeship.", 
+    "genres": "Crime, Drama, Film-Noir", 
+    "release_year": "1951", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "He-Man", 
+                    "angry"
+                ], 
+                "role": "He-Man Woman Hater: Nick hates women and will have nothing to do with them, calling them \"poison\" to him. He gets very angry when Joe is flirting with Helen.", 
+                "id": "HeManWomanHater"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "gold-digging", 
+                    "speakeasy"
+                ], 
+                "role": "The Chanteuse: Helen the gold-digging nightclub singer is this. She sings and dances at the speakeasy that the Scarcis patronize.", 
+                "id": "TheChanteuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0043955", 
+    "poster_url": "TheRacket.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "HeManWomanHater"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "HeManWomanHater"
+            ], 
+            "shared_count": 1, 
+            "id": "TheWoman", 
+            "name": "The Woman", 
+            "poster_url": "TheWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "DarkCity", 
+            "name": "Dark City"
+        }, 
+        {
+            "shared": [
+                "TheChanteuse"
+            ], 
+            "shared_count": 1, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }
+    ], 
+    "id": "TheRacket", 
+    "name": "The Racket"
+}

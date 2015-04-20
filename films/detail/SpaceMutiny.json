@@ -1,0 +1,124 @@
+{
+    "plot": "One of the funniest films featured on Mystery Science Theater 3000 in the Emmy\u00ae Award nominated show's 11-year run, Space Mutiny is a hilariously bad sci-fi epic that's guaranteed to have you in stitches. Combine a wardrobe of spandex and tinfoil; a set boasting AstroTurf\u00ae and spray-painted floor buffers; and special effects that, well, aren't so special, and you've got one of the most hysterical cheeseball movies to ever come out of the '80s. Grab your friends and have a riot with this underground cult hit!", 
+    "genres": "Action, Adventure, Romance", 
+    "release_year": "1988", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dude Looks Like a Lady (or is it Lady Looks Like A Dude?)", 
+                "id": "DudeLooksLikeALady"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: For an 80s heroine, Lea is actually pretty involved in the fighting.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bridge Bunnies: Some of whom are dressed so scantily they may as well be Hugh Hefner Bunnies.", 
+                "id": "BridgeBunnies"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "actual"
+                ], 
+                "role": "Space Mutiny had Bridge Bunnies who were downright Playboy Bunnies. They were wearing singlets and everything. (Granted, some other bridge staff wore actual uniforms, but still...)", 
+                "id": "BridgeBunnies"
+            }, 
+            {
+                "adjectives": [
+                    "Pesci-ish"
+                ], 
+                "role": "said daughter saves herself by deceiving a goofy, Joe Pesci-ish, Phil Collins lookalike.", 
+                "id": "DamselOutOfDistress"
+            }, 
+            {
+                "adjectives": [
+                    "female", 
+                    "hair"
+                ], 
+                "role": "Godiva Hair: One of the female bridge crew had extremely long hair that just happened to cover what little of a uniform she had on.", 
+                "id": "GodivaHair"
+            }, 
+            {
+                "adjectives": [
+                    "such", 
+                    "long", 
+                    "such", 
+                    "nude"
+                ], 
+                "role": "In Space Mutiny, one of the Bridge Bunnies has such long hair and such a skimpy uniform that Mike and the Bots immediately assume she's nude.", 
+                "id": "GodivaHair"
+            }, 
+            {
+                "adjectives": [
+                    "effective"
+                ], 
+                "role": "Neutral Female: Lea's attempts to help out in a firefight are marginally effective at best. At worst, she does more damage to Ryder than to Kalgan, because she shoots Ryder's go-kart.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0096149", 
+    "similar": [
+        {
+            "shared": [
+                "DudeLooksLikeALady", 
+                "DamselOutOfDistress", 
+                "ActionGirl", 
+                "GodivaHair"
+            ], 
+            "shared_count": 4, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselOutOfDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "FireAndIce", 
+            "name": "Fire and Ice", 
+            "poster_url": "FireAndIce.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselOutOfDistress", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TrueLies", 
+            "name": "True Lies", 
+            "poster_url": "TrueLies.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "GodivaHair"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }
+    ], 
+    "id": "SpaceMutiny", 
+    "name": "Space Mutiny"
+}

@@ -1,0 +1,116 @@
+{
+    "plot": "Roberta, Teeny, Samantha and Chrissy have been busy growing up, but they always remembered the promise they made to be there for each other. Now they're together again to relive the greatest summer of their lives.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "significant", 
+                    "last", 
+                    "different"
+                ], 
+                "role": "Disappeared Dad: Samantha's father walks out on the family. This is especially significant because of the time period (\"At the time, no one had ever gotten a divorce, and the last thing I wanted was to be different.\")", 
+                "id": "DisappearedDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "sweet", 
+                    "na\u00efve", 
+                    "Apathetic/Conflicted"
+                ], 
+                "role": "Four Girl Ensemble: Chrissy is the sweet na\u00efve one, Teeny the fashionista, Roberta the tomboy and Samantha is the omniscient narrator. Four-Temperament Ensemble: Sanguine: Teeny. Choleric: Roberta. Melancholic: Sam. Phegmatic: Chrissy. Four Philosophy Ensemble: The Cynic: Sam (she changes in the end though) The Optimist: Teeny The Realist: Chrissy The Apathetic/Conflicted: Roberta, before and after she finds her mother's news article.", 
+                "id": "FourGirlEnsemble"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Roberta's mother died when she was 4.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "Na\u00efve"
+                ], 
+                "role": "Na\u00efve Everygirl: Chrissy has shades of this.", 
+                "id": "NaiveEverygirl"
+            }, 
+            {
+                "adjectives": [
+                    "Phegmatic"
+                ], 
+                "role": "Phegmatic: Chrissy.", 
+                "id": "TeamMom"
+            }, 
+            {
+                "adjectives": [
+                    "snarky"
+                ], 
+                "role": "Tomboy and Girly Girl: Chrissy and Roberta. To a lesser degree, snarky, smart girl Sam and flirty, attention whoring glamour girl Teeny.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0114011", 
+    "poster_url": "NowAndThen.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "FourGirlEnsemble", 
+                "TomBoyAndGirlyGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "TheSisterhoodOfTheTravelingPants", 
+            "name": "The Sisterhood of the Traveling Pants", 
+            "poster_url": "TheSisterhoodOfTheTravelingPants.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "FourGirlEnsemble", 
+                "TomBoyAndGirlyGirl", 
+                "NaiveEverygirl"
+            ], 
+            "shared_count": 4, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "NaiveEverygirl", 
+                "TomBoyAndGirlyGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "TeamMom", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }, 
+        {
+            "shared": [
+                "NaiveEverygirl", 
+                "TeamMom", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "UncleTomsCabin", 
+            "name": "Uncle Tom's Cabin"
+        }
+    ], 
+    "id": "NowAndThen", 
+    "name": "Now And Then"
+}

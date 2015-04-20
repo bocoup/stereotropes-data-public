@@ -1,0 +1,84 @@
+{
+    "plot": "Lt. John Dunbar is dubbed a hero after he accidentally leads Union troops to a victory during the Civil War. He requests a position on the western frontier, but finds it deserted. He soon finds out he is not alone, but meets a wolf he dubs \"Two-socks\" and a curious Indian tribe. Dunbar quickly makes friends with the tribe, and discovers a white woman who was raised by the Indians. He gradually earns the respect of these native people, and sheds his white-man's ways.", 
+    "genres": "Adventure, Drama, Western", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "Cool Old Guy: Ten Bears. While he usually says little, he pays John the highest honor that he can - by offering to smoke with him a while to try and keep him from leaving the tribe.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "fellow", 
+                    "few"
+                ], 
+                "role": "Dirty Coward: When the platoon of soldiers who captured John is under attack by the Sioux, one of the soldiers immediately passes himself off as a corpse in order to make his escape, despite the fact that a fellow soldier is screaming for the man to come to his aid less than a few feet away.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Pretty much all the men, but Costner gets naked.", 
+                "id": "ShirtlessScene"
+            }
+        ]
+    }, 
+    "imdbid": "tt0099348", 
+    "poster_url": "DancesWithWolves.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWagesOfFear", 
+            "name": "The Wages of Fear", 
+            "poster_url": "TheWagesOfFear.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "DancesWithWolves", 
+    "name": "Dances with Wolves"
+}

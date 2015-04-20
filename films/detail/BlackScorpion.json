@@ -1,0 +1,99 @@
+{
+    "plot": "Darcy is a cop who is also a supehero named Black Scorpion at night who kicks and beats evildoers to a pulp. She soon catches wind of an asthmatic mad scientist who plans on tainting the city's air supply with a toxin. Only Darcy in her superhero garb can stop him with the assistance of a petty thief named Argyle and a really cool car.", 
+    "genres": "Action, Crime, Sci-Fi", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "tragic"
+                ], 
+                "role": "Firemen Are Hot: Darcy falls for firefighter Adam Burns, making it all the more tragic when he becomes the supervillain Inferno.", 
+                "id": "FiremenAreHot"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Black Scorpion (The Roger Corman \"superhero\" movie) features a scene were the heroine knocks a man in a business suit onto the bed. She takes off her costume (except for her mask and gloves) and the two have sex, while the man is still fully dressed. In the morning she is gone, and he wakes up in tighty whiteys.", 
+                "id": "RightThroughHisPants"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Black Scorpion, of course.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Common", 
+                    "female"
+                ], 
+                "role": "Most Common Superpower: Black Scorpion really fills out that suit, as do the female villains.", 
+                "id": "MostCommonSuperpower"
+            }, 
+            {
+                "adjectives": [
+                    "full", 
+                    "frontal"
+                ], 
+                "role": "Ms. Fanservice: Black Scorpion fights crime in what is essentially a one piece bathing suit. The films even feature full frontal nudity.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112519", 
+    "poster_url": "BlackScorpion.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "RightThroughHisPants", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }
+    ], 
+    "id": "BlackScorpion", 
+    "name": "Black Scorpion"
+}

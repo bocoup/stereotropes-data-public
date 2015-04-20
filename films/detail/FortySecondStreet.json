@@ -1,0 +1,72 @@
+{
+    "plot": "Renowned Broadway producer/director Julian Marsh is hired to put together a new musical revue. It's being financed by Abner Dillon to provide a starring vehicle for his girlfriend, songstress Dorothy Brock. Marsh, who is quite ill, is a difficult task master working long hours and continually pushing the cast to do better. When Brock breaks her ankle one of the chorus girls, Peggy Sawyer, gets her big chance to be the star. She also finds romance along the way.", 
+    "genres": "Comedy, Musical, Romance", 
+    "release_year": "1933", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Peggy Sawyer from 42nd Street.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "dewy-eyed", 
+                    "naive"
+                ], 
+                "role": "The Ingenue: Peggy is one, of the particularly dewy-eyed and naive variety.", 
+                "id": "TheIngenue"
+            }
+        ]
+    }, 
+    "imdbid": "tt0024034", 
+    "poster_url": "FortySecondStreet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheIngenue"
+            ], 
+            "shared_count": 1, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue"
+            ], 
+            "shared_count": 1, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue"
+            ], 
+            "shared_count": 1, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue"
+            ], 
+            "shared_count": 1, 
+            "id": "SleepingBeauty", 
+            "name": "Sleeping Beauty"
+        }, 
+        {
+            "shared": [
+                "TheIngenue"
+            ], 
+            "shared_count": 1, 
+            "id": "TheTurningPoint", 
+            "name": "The Turning Point", 
+            "poster_url": "TheTurningPoint.jpg"
+        }
+    ], 
+    "id": "FortySecondStreet", 
+    "name": "42nd Street"
+}

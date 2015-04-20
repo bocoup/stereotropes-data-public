@@ -1,0 +1,85 @@
+{
+    "plot": "Set against the sexy, glamorous golden age of Formula 1 racing in the 1970s, the film is based on the true story of a great sporting rivalry between handsome English playboy James Hunt (Hemsworth), and his methodical, brilliant opponent, Austrian driver Niki Lauda (Bruhl). The story follows their distinctly different personal styles on and off the track, their loves and the astonishing 1976 season in which both drivers were willing to risk everything to become world champion in a sport with no margin for error: if you make a mistake, you die.", 
+    "genres": "Action, Biography, Drama", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Chick Magnet: James Hunt, who allegedly slept with over 5000 women in his lifetime.", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [
+                    "biopic"
+                ], 
+                "role": "James Hunt in biopic Rush2013, who allegedly slept with over 5,000 women in his lifetime.", 
+                "id": "ChickMagnet"
+            }, 
+            {
+                "adjectives": [
+                    "hospital", 
+                    "jealous"
+                ], 
+                "role": "Crazy Jealous Guy: The film begins with James entering a hospital after being hit round the head with a crowbar by a jealous husband", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ladykiller in Love: Averted with James, who marries Suzy after knowing her for a matter of weeks but seemingly couldn't care less when she leaves him. In real life he even befriended the man she left him for.", 
+                "id": "LadyKillerInLove"
+            }
+        ]
+    }, 
+    "imdbid": "tt1979320", 
+    "poster_url": "Rush2013.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ChickMagnet"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "UnfaithfullyYours", 
+            "name": "Unfaithfully Yours", 
+            "poster_url": "UnfaithfullyYours.jpg"
+        }, 
+        {
+            "shared": [
+                "ChickMagnet"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }
+    ], 
+    "id": "Rush2013", 
+    "name": "Rush"
+}

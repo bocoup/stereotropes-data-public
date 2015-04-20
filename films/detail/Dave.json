@@ -1,0 +1,73 @@
+{
+    "plot": "Bill Mitchell is the philandering and distant President of the United States. Dave Kovic is a sweet-natured and caring Temp Agency operator, who by a staggering coincidence looks exactly like the President. As such, when Mitchell wants to escape an official luncheon, the Secret Service hires Dave to stand in for him. Unfortunately, Mitchell suffers a severe stroke whilst having sex with one of his aides, and Dave finds himself stuck in the role indefinitely. The corrupt and manipulative Chief of Staff, Bob Alexander, plans to use Dave to elevate himself to the White House - but unfortunately, he doesn't count on Dave enjoying himself in office, using his luck to make the country a better place, and falling in love with the beautiful First Lady...", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man / The Stoic: Dave's Secret Service bodyguard, Duane Stevensen.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Sexy Secretary: Laura Linney!", 
+                "id": "SexySecretary"
+            }
+        ]
+    }, 
+    "imdbid": "tt0106673", 
+    "poster_url": "Dave.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SexySecretary", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Intouchables", 
+            "name": "Intouchables", 
+            "poster_url": "Intouchables.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "KissOfTheSpiderWoman", 
+            "name": "Kiss of the Spider Woman", 
+            "poster_url": "KissOfTheSpiderWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "SexySecretary"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }
+    ], 
+    "id": "Dave", 
+    "name": "Dave"
+}

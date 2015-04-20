@@ -1,0 +1,87 @@
+{
+    "plot": "A weather man is reluctantly sent to cover a story about a weather forecasting \"rat\" (as he calls it). This is his fourth year on the story, and he makes no effort to hide his frustration. On awaking the 'following' day he discovers that it's Groundhog Day again, and again, and again. First he uses this to his advantage, then comes the realisation that he is doomed to spend the rest of eternity in the same place, seeing the same people do the same thing EVERY day.", 
+    "genres": "Comedy, Drama, Fantasy", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Casanova Wannabe: Larry the cameraman.", 
+                "id": "CasanovaWannabe"
+            }, 
+            {
+                "adjectives": [
+                    "whole", 
+                    "plausible", 
+                    "infinite"
+                ], 
+                "role": "Groundhog Day: Phil Connors, played by Bill Murray, manages to bed a whole lot of women who have known him for only a day despite looking like, well, Bill Murray. Here, however, it's more plausible because he takes advantage of his \"Groundhog Day\" Loop to have infinite opportunities to find out what will please the woman he's currently targeting.", 
+                "id": "KavorkaMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "French"
+                ], 
+                "role": "French Maid: One of the women that Phil seduces is dressed like that because she thinks she's going to a costume party.", 
+                "id": "FrenchMaid"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107048", 
+    "poster_url": "GroundhogDay.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "KavorkaMan", 
+                "CasanovaWannabe", 
+                "FrenchMaid"
+            ], 
+            "shared_count": 3, 
+            "id": "PitchPerfect", 
+            "name": "Pitch Perfect", 
+            "poster_url": "PitchPerfect.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveActually", 
+            "name": "Love Actually", 
+            "poster_url": "LoveActually.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "CasanovaWannabe", 
+                "FrenchMaid"
+            ], 
+            "shared_count": 2, 
+            "id": "Clue", 
+            "name": "Clue", 
+            "poster_url": "Clue.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "CasanovaWannabe"
+            ], 
+            "shared_count": 2, 
+            "id": "TheInbetweeners", 
+            "name": "The Inbetweeners"
+        }
+    ], 
+    "id": "GroundhogDay", 
+    "name": "Groundhog Day"
+}

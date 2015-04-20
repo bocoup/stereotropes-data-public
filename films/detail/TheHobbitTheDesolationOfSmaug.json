@@ -1,0 +1,98 @@
+{
+    "plot": "After successfully crossing over (and under) the Misty Mountains, Thorin and Company must seek aid from a powerful stranger before taking on the dangers of Mirkwood Forest--without their Wizard. If they reach the human settlement of Lake-town it will be time for the hobbit Bilbo Baggins to fulfill his contract with the dwarves. The party must complete the journey to Lonely Mountain and burglar Baggins must seek out the Secret Door that will give them access to the hoard of the dragon Smaug. And, where has Gandalf got off to? And what is his secret business to the south?", 
+    "genres": "Adventure, Fantasy", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "K\u00edli", 
+                    "several"
+                ], 
+                "role": "Distressed Dude: K\u00edli ends up needing to be rescued several times by Tauriel.", 
+                "id": "DistressedDude"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl / Affirmative Action Girl: Tauriel is the action girl Arwen almost became for The Lord of the Rings.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Bard's wife and the mother of Sigrid, Bain, and Tilda, who apparently died sometime prior to the film. Balin makes the mistake of bringing her up when he tries to persuade Bard to ferry them to Laketown.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "pluck", 
+                    "little"
+                ], 
+                "role": "Plucky Girl: Bard's elder daughter Sigrid has enough pluck to throw furniture and crockery at Bolg's orcs when they invade her home. She can even be seen grabbing the kitchen knives when an orc tries to hurt her little sister.", 
+                "id": "PluckyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1170358", 
+    "poster_url": "TheHobbitTheDesolationOfSmaug.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PluckyGirl", 
+                "DistressedDude", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DistressedDude", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl", 
+                "ActionGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }
+    ], 
+    "id": "TheHobbitTheDesolationOfSmaug", 
+    "name": "The Hobbit: The Desolation of Smaug"
+}

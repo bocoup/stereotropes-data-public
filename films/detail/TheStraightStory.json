@@ -1,0 +1,81 @@
+{
+    "plot": "\"The Straight Story\" chronicles a trip made by 73-year-old Alvin Straight from Laurens, Iowa, to Mt. Zion, Wis., in 1994 while riding a lawn mower. The man undertook his strange journey to mend his relationship with his ill, estranged, 75-year-old brother Lyle.", 
+    "genres": "Biography, Drama", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "German"
+                ], 
+                "role": "Child Soldiers: Invoked by Alvin, who mentions having to kill German soldiers during the war who couldn't have been more than seventeen.", 
+                "id": "ChildSoldiers"
+            }, 
+            {
+                "adjectives": [
+                    "logical"
+                ], 
+                "role": "In The Straight Story (David Lynch's most logical film yet), one scene has Alvin Straight recounting his experiences in WWII, in which he had to kill a bunch of Hitler Youth.", 
+                "id": "ChildSoldiers"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy", 
+                "id": "CoolOldGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0166896", 
+    "poster_url": "TheStraightStory.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ChildSoldiers"
+            ], 
+            "shared_count": 2, 
+            "id": "Persepolis", 
+            "name": "Persepolis", 
+            "poster_url": "Persepolis.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "TheStraightStory", 
+    "name": "The Straight Story"
+}

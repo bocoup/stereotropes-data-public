@@ -1,0 +1,83 @@
+{
+    "plot": "The making of Friday the 13th: A New Beginning (1985) with interviews with the cast and crew.", 
+    "genres": "Short", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "vagrant"
+                ], 
+                "role": "Handy Man. Raymond, the vagrant that appears on Ethel's doorstep and is then employed by her to work for food after claiming to be one.", 
+                "id": "HandyMan"
+            }, 
+            {
+                "adjectives": [
+                    "man-child"
+                ], 
+                "role": "Momma's Boy: Junior, a man-child who still lives his mother and comes screaming for her when he is hurt.", 
+                "id": "MommasBoy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Pam.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt2077806", 
+    "similar": [
+        {
+            "shared": [
+                "MommasBoy", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LaidToRest", 
+            "name": "Laid to Rest", 
+            "poster_url": "LaidToRest.jpg"
+        }, 
+        {
+            "shared": [
+                "MommasBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Suspiria", 
+            "name": "Suspiria", 
+            "poster_url": "Suspiria.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }
+    ], 
+    "id": "FridayThe13thPartVANewBeginning", 
+    "name": "Friday the 13th Part V: A New Beginning"
+}

@@ -1,0 +1,73 @@
+{
+    "plot": "A search for a winning lottery ticket in his dead father's grave causes Sardonicus' face to freeze in a horrible grimace, until he forces a doctor to treat his affliction--with even more grotesque results! The audience gets an opportunity to vote--via the \"Punishment Poll\"--for the penalty Sardonicus must pay for his deeds...", 
+    "genres": "Drama, Horror, Mystery", 
+    "release_year": "1961", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Sardonicus before the grave robbing incident.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Screaming Woman", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0055200", 
+    "poster_url": "MrSardonicus.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFunhouse", 
+            "name": "The Funhouse", 
+            "poster_url": "TheFunhouse.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "SevenFacesOfDrLao", 
+            "name": "7 Faces of Dr. Lao", 
+            "poster_url": "SevenFacesOfDrLao.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "RebelWithoutACause", 
+            "name": "Rebel Without a Cause", 
+            "poster_url": "RebelWithoutACause.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }
+    ], 
+    "id": "MrSardonicus", 
+    "name": "Mr. Sardonicus"
+}

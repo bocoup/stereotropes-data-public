@@ -1,0 +1,74 @@
+{
+    "plot": "Newly divorced Sarah and her daughter Elissa find the house of their dreams in a small, upscale, rural town. But when startling and unexplainable events begin to happen, Sarah and Elissa learn the town is in the shadows of a chilling secret.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "2012", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Badass Damsel: Elissa", 
+                "id": "BadassDamsel"
+            }, 
+            {
+                "adjectives": [
+                    "troubled"
+                ], 
+                "role": "Broken Bird: Elissa has a tendency to gravitate towards \"troubled\" boys, something which worries her mother deeply.", 
+                "id": "BrokenBird"
+            }
+        ]
+    }, 
+    "imdbid": "tt1582507", 
+    "poster_url": "HouseAtTheEndOfTheStreet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassDamsel", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassDamsel", 
+                "BrokenBird"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWorldIsNotEnough", 
+            "name": "The World Is Not Enough", 
+            "poster_url": "TheWorldIsNotEnough.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird"
+            ], 
+            "shared_count": 1, 
+            "id": "Scarecrow", 
+            "name": "Scarecrow", 
+            "poster_url": "Scarecrow.jpg"
+        }
+    ], 
+    "id": "HouseAtTheEndOfTheStreet", 
+    "name": "House At The End Of The Street"
+}

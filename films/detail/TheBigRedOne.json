@@ -1,0 +1,81 @@
+{
+    "plot": "The story of a hardened army Sergeant and four of his men from their first fight at the Kasserine Pass after the invasion of North Africa through to the invasion of Sicily, D-Day, the Ardennes forest and the liberation of a concentration camp at the end of the war. As the five of them fight - and survive to fight yet again in the next battle - new recruits joining the squad are swatted down by the enemy on a regular basis. The four privates are naturally reluctant to get to know any of the new recruits joining the squad, who become just a series of nameless faces.", 
+    "genres": "Action, Drama, War", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Sarge.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Civilian", 
+                    "several", 
+                    "wounded", 
+                    "German"
+                ], 
+                "role": "Action Girl / Badass Bystander: Civilian women are shown killing on several occasions; the Sicilian peasants who scythe a wounded German soldier, the Resistance woman cutting throats in the madhouse, and the Belgian innkeeper who shoots dead a German infiltrator.", 
+                "id": "ActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0080437", 
+    "poster_url": "TheBigRedOne.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "InTheNameOfTheKing", 
+            "name": "In The Name Of The King", 
+            "poster_url": "InTheNameOfTheKing.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Skyfall", 
+            "name": "Skyfall", 
+            "poster_url": "Skyfall.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Sharknado", 
+            "name": "Sharknado"
+        }
+    ], 
+    "id": "TheBigRedOne", 
+    "name": "The Big Red One"
+}

@@ -1,0 +1,102 @@
+{
+    "plot": "Edward Lionheart (Vincent Price) stars as an actor overlooked for a critics' acting award, despite producing a season of Shakespeare plays. After confronting the Critics' Circle, an attempted suicidal dive into the Thames results in Lionheart being rescued by your typical paraffin/meths/turps swigging tramps. Lionheart then (presumed dead) exacts his grizzly, and quite amusing revenge on the critics who denied him his finest hour.", 
+    "genres": "Comedy, Horror", 
+    "release_year": "1973", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Meredith Merridew. Lionheart disguises himself a campy Chatty Hairdresser for one of the murders.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "critic", 
+                    "re-enacting"
+                ], 
+                "role": "Crazy Jealous Guy: One critic is quite easily manipulated into re-enacting the murder scene from Othello.", 
+                "id": "CrazyJealousGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mad Actor's Beautiful Daughter: Edwina Lionheart  who's really Daddy's Little Villain and is basically The Dragon to her father.", 
+                "id": "MadScientistsBeautifulDaughter"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Nothing is said about Edwina's mother.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sweet Polly Oliver: Lionheart's lead henchman with the hippy glasses, afro, and beard is actually his daughter Edwina in disguise.", 
+                "id": "SweetPollyOliver"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ophelia: Sort of, in that Lionheart's daughter is pretty scarred from the supposed death of her father.  Or, at least, appears to be.", 
+                "id": "TheOphelia"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070791", 
+    "poster_url": "TheatreOfBlood.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "CrazyJealousGuy", 
+                "MadScientistsBeautifulDaughter", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "MadScientistsBeautifulDaughter", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "BeautyAndTheBeast", 
+            "name": "Beauty and the Beast", 
+            "poster_url": "BeautyAndTheBeast.jpg"
+        }, 
+        {
+            "shared": [
+                "SweetPollyOliver", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "TheOphelia"
+            ], 
+            "shared_count": 2, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }
+    ], 
+    "id": "TheatreOfBlood", 
+    "name": "Theatre of Blood"
+}

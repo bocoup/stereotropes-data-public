@@ -1,0 +1,82 @@
+{
+    "plot": "Captain John Boyd receives a promotion after defeating the enemy command in a battle of the Mexican-American War, but because the general realizes it was an act of cowardice that got him there, he is given a backhanded promotion to Fort Spencer, where he is third in command. The others at the fort are two Indians, George and his sister, Martha, who came with the place, Chaplain Toffler, Reich, the soldier; Cleaves, a drugged-up cook; and Knox, who is frequently drunk. When a Scottish stranger named Colquhoun appears and recovers from frostbite almost instantly after being bathed, he tells a story about his party leader, Ives, eating members of the party to survive. As part of their duty, they must go up to the cave where this occurred to see if any have survived. Only Martha, Knox, and Cleaves stay behind. George warns that since Colquhoun admits to eating human flesh, he must be a Windigo, a ravenous cannibalistic creature.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Coward: Boyd. Everybody knows it, including him. He only took the Mexican fort after Playing Possum because some of his C.O.'s blood dripped into his mouth. But in the end, he willingly dies, taking Ives with him.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "extremely-muscular"
+                ], 
+                "role": "Mr. Fanservice: Boyd, played by Guy Pearce. Also, the extremely-muscular Reich seems to have his shirt off a lot.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Southern Gentleman: Major Knox", 
+                "id": "SouthernGentleman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0129332", 
+    "poster_url": "Ravenous.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SouthernGentleman", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Tombstone", 
+            "name": "Tombstone", 
+            "poster_url": "Tombstone.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "GeorgeOfTheJungle", 
+            "name": "George of the Jungle", 
+            "poster_url": "GeorgeOfTheJungle.jpg"
+        }, 
+        {
+            "shared": [
+                "MrFanservice", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }
+    ], 
+    "id": "Ravenous", 
+    "name": "Ravenous"
+}

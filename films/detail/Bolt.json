@@ -1,0 +1,117 @@
+{
+    "plot": "Bolt, an American white shepherd, has lived his whole life on the set of his action TV show, where he believes he has superpowers. When separated from the studio by accident, he meets a female alley cat named Mittens and a hamster named Rhino. He's trying to find the way home, to the studio. Along the way, he learns that he doesn't have superpowers and that the show is not real.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "such", 
+                    "few", 
+                    "fair", 
+                    "own"
+                ], 
+                "role": "Dirty Coward: Most of the people in the studio. When a fire starts while Penny is literally tied up in the set, most of the people are in such a hurry to get themselves out that they don't even take a few seconds to help untie Penny. This nearly causes her death. Subverted when three of the crew try to reach her, but are overwhelmed by the smoke and forced to escape. To be fair, she easily escaped her harness. They may have assumed she would get out on her own.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "Dad/Missing", 
+                    "in-show"
+                ], 
+                "role": "Disappeared Dad/Missing Mom: Both \u2014 Penny has only a mother, but her in-show role is a character with only a father.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Keet: Rhino.", 
+                "id": "Keet"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Mittens.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "snarky", 
+                    "abrasive"
+                ], 
+                "role": "Mittens from Bolt. Being abandoned by her owners made her snarky and abrasive.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Rhino's owner in Bolt is a Crazy Hamster Lady.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Penny's mother punching out the agent when he tries to tell them they can use Penny's burns from the accident at the end of the film as publicity.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0397892", 
+    "poster_url": "Bolt.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MamaBear", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BrokenBird", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BrokenBird", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MamaBear", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "AlienS", 
+            "name": "Aliens", 
+            "poster_url": "AlienS.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BrokenBird", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "IAmNumberFour", 
+            "name": "I Am Number Four", 
+            "poster_url": "IAmNumberFour.jpg"
+        }
+    ], 
+    "id": "Bolt", 
+    "name": "Bolt"
+}

@@ -1,0 +1,124 @@
+{
+    "plot": "The G.I. Joe team is framed for crimes against the country by Zartan, disguised as the President, and Cobra Commander has all the world leaders under his influence, with their advanced warheads headed towards innocent populaces around the world. Outnumbered and outgunned, the surviving team members form a plan with their original leader, General Joseph Colton, to rescue the President and face off Cobra Commander, his accomplices and the world leaders.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bald Black Leader Guy: Roadblock, after Duke dies early in the film.", 
+                "id": "BaldBlackLeaderGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Firefly from G.I. Joe: Retaliation.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "only", 
+                    "half-naked\u25ca"
+                ], 
+                "role": "Mr. Fanservice: Storm Shadow in many Shirtless Scenes, from being soaking wet down to his 6-pack while breaking out Cobra Commander to getting his back healed. Not to mention, he's the only one half-naked\u25ca on the Retaliation character movie posters.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Storm Shadow when he's breaking out Cobra Commander. And dripping wet too!", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "ass-kicking"
+                ], 
+                "role": "Action Girl: With a lack of Scarlett for the Joes, both Lady Jaye and Jinx (who's Snake-Eyes's protege, no less!) do plenty of ass-kicking in the movie.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady in Red: Lady Jaye and Jinx.", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Lady Jaye in a sexy red dress, infiltrating a White House party. And before that, skimpy sport attire.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Jinx", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1583421", 
+    "poster_url": "GIJoeRetaliation.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyInRed", 
+                "MsFanservice", 
+                "MrFanservice", 
+                "ActionGirl", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 5, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "ShirtlessScene", 
+                "MsFanservice", 
+                "MrFanservice", 
+                "TheChick"
+            ], 
+            "shared_count": 5, 
+            "id": "Immortals", 
+            "name": "Immortals", 
+            "poster_url": "Immortals.jpg"
+        }, 
+        {
+            "shared": [
+                "BaldBlackLeaderGuy", 
+                "MsFanservice", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "TheScorpionKing", 
+            "name": "The Scorpion King", 
+            "poster_url": "TheScorpionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "MsFanservice", 
+                "MrFanservice", 
+                "TheChick"
+            ], 
+            "shared_count": 4, 
+            "id": "VanHelsing", 
+            "name": "Van Helsing"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MsFanservice", 
+                "MrFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "CaptainAmericaTheWinterSoldier", 
+            "name": "Captain America: The Winter Soldier", 
+            "poster_url": "CaptainAmericaTheWinterSoldier.jpg"
+        }
+    ], 
+    "id": "GIJoeRetaliation", 
+    "name": "G.I. Joe: Retaliation"
+}

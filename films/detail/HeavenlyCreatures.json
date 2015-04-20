@@ -1,0 +1,118 @@
+{
+    "plot": "Based on the true story of Juliet Hulme and Pauline Parker, two close friends who share a love of fantasy and literature, who conspire to kill Pauline's mother when she tries to end the girls' intense and obsessive relationship.", 
+    "genres": "Biography, Crime, Drama", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Dr. Hulme.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Gypsy Woman: Gina, a gypsy girl from Borovnia.", 
+                "id": "HotGypsyWoman"
+            }, 
+            {
+                "adjectives": [
+                    "Juliet"
+                ], 
+                "role": "Ill Girl: Both girls as children, but mainly Juliet.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "lesbian", 
+                    "wild", 
+                    "eccentric"
+                ], 
+                "role": "Heavenly Creatures is a darkly subverted lesbian version - wild, eccentric Juliet inspires shy Pauline not to embrace life, but to  murder her mother.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Juliet", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "In-universe", 
+                    "standard"
+                ], 
+                "role": "Mary Sue: In-universe, Empress Deborah and Gina seem to fit all the standard characteristics, especially because both are idealized versions of Juliet and Pauline, respectively.", 
+                "id": "MarySue"
+            }, 
+            {
+                "adjectives": [
+                    "intense", 
+                    "two-girl", 
+                    "role-playing", 
+                    "favorite"
+                ], 
+                "role": "Psycho Schoolgirl Lesbians: They appear to be this in the movie, but Anne Perry insists it was \"only\" a really intense two-girl friendship. (Pauline doesn't talk to the press.) The actresses were instructed to play the girls as \"devoted friends\" who were just role-playing love scenes between their favorite characters.", 
+                "id": "PsychoLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0110005", 
+    "poster_url": "HeavenlyCreatures.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "PsychoLesbian", 
+                "HotGypsyWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "FromRussiaWithLove", 
+            "name": "From Russia with Love", 
+            "poster_url": "FromRussiaWithLove.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Topper", 
+            "name": "Topper", 
+            "poster_url": "Topper.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HotTubTimeMachine", 
+            "name": "Hot Tub Time Machine", 
+            "poster_url": "HotTubTimeMachine.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSevenYearItch", 
+            "name": "The Seven Year Itch", 
+            "poster_url": "TheSevenYearItch.jpg"
+        }
+    ], 
+    "id": "HeavenlyCreatures", 
+    "name": "Heavenly Creatures"
+}

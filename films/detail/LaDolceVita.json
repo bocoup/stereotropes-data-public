@@ -1,0 +1,79 @@
+{
+    "plot": "Journalist and man-about-town Marcello struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.", 
+    "genres": "Comedy, Drama", 
+    "release_year": "1960", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "opposite"
+                ], 
+                "role": "The Casanova: Marcello, though he is technically more of a subversion, considering he's manipulated by the women instead of the opposite.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Sylvia.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0053779", 
+    "poster_url": "LaDolceVita.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "MsFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "TheProducers", 
+            "name": "The Producers", 
+            "poster_url": "TheProducers.jpg"
+        }
+    ], 
+    "id": "LaDolceVita", 
+    "name": "La Dolce Vita"
+}

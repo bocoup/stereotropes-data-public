@@ -1,0 +1,100 @@
+{
+    "plot": "A brutally sadistic rape leads to a series of bizarre gory murders during a midnight disco bowl-a-rama at a popular bowling alley. One by one, players of two teams meet blood-drenched gruesome deaths at the hand of a black bowling-gloved masked killer. This alley runs red with blood by sunrise.", 
+    "genres": "Comedy, Horror, Sport", 
+    "release_year": "2008", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Lady On Each Arm: Steve, when he shows up with Hannah and Julia.", 
+                "id": "ALadyOnEachArm"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Camp Straight: Dave.", 
+                "id": "CampStraight"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Crusty Caretaker: Egerton.", 
+                "id": "CrustyCaretaker"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: AJ.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: Joey.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Sarah.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1087853", 
+    "poster_url": "Gutterballs.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "JerkJock", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCabinInTheWoods", 
+            "name": "The Cabin in the Woods", 
+            "poster_url": "TheCabinInTheWoods.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "CrustyCaretaker", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBurning", 
+            "name": "The Burning", 
+            "poster_url": "TheBurning.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "DeadPoetsSociety", 
+            "name": "Dead Poets Society", 
+            "poster_url": "DeadPoetsSociety.jpg"
+        }
+    ], 
+    "id": "Gutterballs", 
+    "name": "Gutterballs"
+}

@@ -1,0 +1,90 @@
+{
+    "plot": "Comical goings on at an exclusive golf club. All the members are wealthy and eccentric, and all the staff are poor and slightly less eccentric. The main character is 'Danny'; he's a caddy who will do almost anything to raise money to go to college. There are many subplots, including the assistant green keeper's pursuit of a cute (obviously stuffed) gopher.", 
+    "genres": "Comedy, Sport", 
+    "release_year": "1980", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "late"
+                ], 
+                "role": "Cool Old Guy: Al Czervik. Ty acts the part, but is in his late 30's at the most.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grumpy Old Man: Judge Smails, though he does cheer up when he's at the yacht club. For a little while, at least...", 
+                "id": "GrumpyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Judge Smails from Caddyshack", 
+                "id": "GrumpyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Lacey Underall, again.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0080487", 
+    "poster_url": "Caddyshack.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy", 
+                "GrumpyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "DjangoUnchained", 
+            "name": "Django Unchained", 
+            "poster_url": "DjangoUnchained.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "HallPass", 
+            "name": "Hall Pass", 
+            "poster_url": "HallPass.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAdventuresOfBaronMunchausen", 
+            "name": "The Adventures of Baron Munchausen", 
+            "poster_url": "TheAdventuresOfBaronMunchausen.jpg"
+        }
+    ], 
+    "id": "Caddyshack", 
+    "name": "Caddyshack"
+}

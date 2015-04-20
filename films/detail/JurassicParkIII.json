@@ -1,0 +1,86 @@
+{
+    "plot": "Dr. Alan Grant is now a happy man with the previous incidents of Jurassic Park now behind him. Grant is that happy that he announce in public, that nothing on Earth can persuade him back onto the islands. Maybe nothing, except Paul Kirby. Kirby and his wife, Amanda want a plane to fly them over Isla Sorna, with Dr. Grant as their guide. But not everything Kirby says is true. When the plane lands, Dr. Grant realizes that there is another reason why they are there, that he doesn't know of. Now, Dr. Grant is stuck on an island he has never been on before, with what was a plane journey now turned into a search party.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2001", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "aggressive", 
+                    "protect"
+                ], 
+                "role": "The Pteranodons. Sure they were aggressive, but can you blame them when they had babies to not only feed but protect?", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "terrible", 
+                    "old"
+                ], 
+                "role": "Amanda Kirby from Jurassic Park III movie does this a lot, to the point that it seems like she spends the majority of the her screen time on the island either doing that, or making some sort of terrible decision that puts her in Too Dumb to Live territory. Predictably, most people who have seen it feel that it gets old pretty fast.", 
+                "id": "ScreamingWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Amanda Kirby", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0163025", 
+    "poster_url": "JurassicParkIII.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "ScreamingWoman", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Alien", 
+            "name": "Alien", 
+            "poster_url": "Alien.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "ParaNorman", 
+            "name": "ParaNorman", 
+            "poster_url": "ParaNorman.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLandBeforeTime", 
+            "name": "The Land Before Time", 
+            "poster_url": "TheLandBeforeTime.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "AlienS", 
+            "name": "Aliens", 
+            "poster_url": "AlienS.jpg"
+        }
+    ], 
+    "id": "JurassicParkIII", 
+    "name": "Jurassic Park III"
+}

@@ -1,0 +1,108 @@
+{
+    "plot": "Based on the classic Hasbro naval combat game, Battleship is the story of an international fleet of ships who come across an alien armada while on Naval war games exercise. An intense battle is fought on sea, land and air. What do the aliens want?", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "whole"
+                ], 
+                "role": "Badass Grandpa: A whole bunch of them show up to man the Missouri.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective"
+                ], 
+                "role": "Overprotective Dad: The Admiral is implied to be this.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [
+                    "able"
+                ], 
+                "role": "Scary Black Man: Lieutenant Colonel Mick Canales despite being a Handicapped Badass is able to take out an alien in unarmed combat.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Raikes, all the way, and she's based on Jacqueline Carrizosa, who helped train Rihanna. Samantha is more of an Action Survivor girl.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girls with Guns: Raikes is hardly ever seen without one, and they range from a pistol to 16 inch naval artillery.", 
+                "id": "GirlsWithGuns"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Samantha.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt1440129", 
+    "poster_url": "Battleship.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 4, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ActionGirl", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TheScorpionKing", 
+            "name": "The Scorpion King", 
+            "poster_url": "TheScorpionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "OverprotectiveDad", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlsWithGuns", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }
+    ], 
+    "id": "Battleship", 
+    "name": "Battleship"
+}

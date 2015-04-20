@@ -1,0 +1,98 @@
+{
+    "plot": "Teenaged Susan Turner, with a severe crush on playboy artist Richard Nugent, sneaks into his apartment to model for him and is found there by her sister Judge Margaret Turner. Threatened with jail, Nugent agrees to date Susan until the crush abates. He counters Susan's comic false sophistication by even more comic put-on teenage mannerisms, with a slapstick climax.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1947", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad / Missing Mom: No hint is given as to what happened to Margaret and Susan's parents. Since Loy was 23 years older than Temple, one wonders why the screenwriter didn't just make Margaret Susan's mom.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged", 
+                    "assistant"
+                ], 
+                "role": "Dogged Nice Guy / Romantic False Lead: Jerry, the assistant DA, who clearly has no shot at winning Margaret's affections.", 
+                "id": "DoggedNiceGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Knight in Shining Armor: Both Susan and Margaret visualize Richard literally dressed like this.", 
+                "id": "KnightInShiningArmor"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "17-year-old", 
+                    "own", 
+                    "only"
+                ], 
+                "role": "Jail Bait: Shirley Temple as the jail bait, no less, playing 17-year-old Susan. Almost nobody believes Richard when he tells them that the sexy high-school girl snuck into his apartment on her own hook and he made no advances. Really the only thing that saves this movie from Squick territory is that Richard clearly has no interest at all in Susan.", 
+                "id": "Jailbait"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Smitten Teenage Girl: Susan is intoxicated by the suave older man, Ricard.", 
+                "id": "SmittenTeenageGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0039169", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "SmittenTeenageGirl", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "SnowWhiteAndTheSevenDwarfs", 
+            "name": "Snow White and the Seven Dwarfs"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "SmittenTeenageGirl", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "Twilight", 
+            "name": "Twilight", 
+            "poster_url": "Twilight.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "SmittenTeenageGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ShowMeLove", 
+            "name": "Show Me Love", 
+            "poster_url": "ShowMeLove.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DoggedNiceGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "ForrestGump", 
+            "name": "Forrest Gump", 
+            "poster_url": "ForrestGump.jpg"
+        }
+    ], 
+    "id": "TheBachelorAndTheBobbySoxer", 
+    "name": "The Bachelor And The Bobby Soxer"
+}

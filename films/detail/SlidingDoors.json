@@ -1,0 +1,84 @@
+{
+    "plot": "In London, the public relation Helen is fired from her position in a PR company. While returning home, she does not catch the train in the subway. But in another possibility of her life, she catches the train in the subway. The story shows two parallel lives of Helen: in one life, she stays with her boyfriend Gerry, and in the other life, she finds that Gerry cheats her with Lydia and falls in love with James Hammerton.", 
+    "genres": "Comedy, Drama, Fantasy", 
+    "release_year": "1998", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Helen, when she has to work as a sandwich delivery girl and waitress.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [
+                    "extra"
+                ], 
+                "role": "Hard Drinking Party Girl: Anna. Gerry nearly gets away with the extra wine glass in the laundry basket (left by Lydia) suggesting Anna left it there at one of their house parties. Anna admits it's something she'd probably do.", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Girl: Inverted. James is the Manic Pixie Dream Guy for Helen.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120148", 
+    "poster_url": "SlidingDoors.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FindingNemo", 
+            "name": "Finding Nemo", 
+            "poster_url": "FindingNemo.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "SpyKids", 
+            "name": "Spy Kids", 
+            "poster_url": "SpyKids.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlishPigtails", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "PippiLongstocking", 
+            "name": "Pippi Longstocking", 
+            "poster_url": "PippiLongstocking.jpg"
+        }, 
+        {
+            "shared": [
+                "HardDrinkingPartyGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "LiberalArts", 
+            "name": "Liberal Arts", 
+            "poster_url": "LiberalArts.jpg"
+        }
+    ], 
+    "id": "SlidingDoors", 
+    "name": "Sliding Doors"
+}

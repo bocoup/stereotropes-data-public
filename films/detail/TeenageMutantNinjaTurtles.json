@@ -1,0 +1,96 @@
+{
+    "plot": "Darkness has settled over New York City as Shredder and his evil Foot Clan have an iron grip on everything from the police to the politicians. The future is grim until four unlikely outcast brothers rise from the sewers and discover their destiny as Teenage Mutant Ninja Turtles. The Turtles must work with fearless reporter April O'Neil and her cameraman Vern Fenwick to save the city and unravel Shredder's diabolical plan.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bash Brothers: All four of the Turtles, it's even Lampshaded in the battle of April's apartment that they're not used to fighting with a man down.", 
+                "id": "BashBrothers"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Splinter, at the very end of the Teenage Mutant Ninja Turtles movie.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "such"
+                ], 
+                "role": "Dumb Muscle: Tokka and Rahzar. When he was kidnapped and forced by Shredder to mutate the two animals, TGRI Professor Jordan Perry altered the mutagen a little so that their intelligence would not increase. As such, when Shredder demands they call him \"master,\" they misinterpret the word as \"mama\" and hug the bejesus out of him.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Elias Koteas as Casey Jones. Henry Hayashi as Kenshin.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Dark Action Girl: Karai.", 
+                "id": "DarkActionGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1291150", 
+    "poster_url": "TeenageMutantNinjaTurtles.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BashBrothers", 
+                "MrFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BashBrothers", 
+                "MrFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DarkActionGirl", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DarkActionGirl", 
+                "BashBrothers"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "BashBrothers", 
+                "MrFanservice", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }
+    ], 
+    "id": "TeenageMutantNinjaTurtles", 
+    "name": "Teenage Mutant Ninja Turtles"
+}

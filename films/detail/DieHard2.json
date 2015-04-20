@@ -1,0 +1,77 @@
+{
+    "plot": "After the terrifying events in LA, John McClane (Willis) is about to go through it all again. A team of terrorists, led by Col. Stuart (Sadler) is holding the entire airport hostage. The terrorists are planning to rescue a drug lord from justice. In order to do so, they have seized control of all electrical equipment affecting all planes. With no runway lights available, all aircraft have to remain in the air, with fuel running low, McClane will need to be fast.", 
+    "genres": "Action, Thriller", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Esperanza sports one.", 
+                "id": "BeardOfEvil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "little", 
+                    "old", 
+                    "next", 
+                    "later"
+                ], 
+                "role": "Never Mess with Granny: The little old lady sitting next to Holly on the plane at the beginning of the film. She absolutely revels in the fact that she now has a stun baton to protect herself, and the fact that she tested it on her dog (who she notes limped for a week before recovering) makes her seem just a wee bit Axe Crazy. Holly later uses it on Richard Thornburg.", 
+                "id": "NeverMessWithGranny"
+            }
+        ]
+    }, 
+    "imdbid": "tt0099423", 
+    "poster_url": "DieHard2.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeverMessWithGranny", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 1, 
+            "id": "Paul", 
+            "name": "Paul", 
+            "poster_url": "Paul.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }
+    ], 
+    "id": "DieHard2", 
+    "name": "Die Hard 2"
+}

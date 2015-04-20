@@ -1,0 +1,73 @@
+{
+    "plot": "Police chase an armed criminal in a version of Los Angeles comprised entirely of corporate logos.", 
+    "genres": "Animation, Short, Action", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Mr. Clean", 
+                "id": "CampGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Esso Girl.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1563725", 
+    "similar": [
+        {
+            "shared": [
+                "CampGay", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "REC", 
+            "name": "[REC]"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "StageFrightAquarius", 
+            "name": "StageFright -Aquarius-"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BuffyTheVampireSlayer", 
+            "name": "Buffy the Vampire Slayer"
+        }, 
+        {
+            "shared": [
+                "CampGay"
+            ], 
+            "shared_count": 1, 
+            "id": "SouthParkBiggerLongerAndUncut", 
+            "name": "South Park: Bigger, Longer & Uncut", 
+            "poster_url": "SouthParkBiggerLongerAndUncut.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }
+    ], 
+    "id": "Logorama", 
+    "name": "Logorama"
+}

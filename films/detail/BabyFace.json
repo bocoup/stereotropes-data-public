@@ -1,0 +1,79 @@
+{
+    "plot": "Lilly (Baby Face) sleeps her way from basement speakeasy bartender, literally floor by floor, to the top floor of a New York office building. Bank sub-manager Jimmy McCoy finds her a job in the bank only to be cast aside as she hooks up with the bank's president. When he complains of not seeing her she says: \"I'm working so hard I have to go to bed early every night.\"", 
+    "genres": "Drama, Romance", 
+    "release_year": "1933", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Gaussian"
+                ], 
+                "role": "Gaussian Girl: Lily", 
+                "id": "GaussianGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Office Lady: Lily, when she's not digging for gold", 
+                "id": "OfficeLady"
+            }, 
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "The Ingenue / The Vamp: A main part of Lily's method of seduction is alternating and blurring the lines between the two.", 
+                "id": "TheIngenue"
+            }
+        ]
+    }, 
+    "imdbid": "tt0023775", 
+    "poster_url": "BabyFace.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GaussianGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SkyCaptainAndTheWorldOfTomorrow", 
+            "name": "Sky Captain and the World of Tomorrow", 
+            "poster_url": "SkyCaptainAndTheWorldOfTomorrow.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue"
+            ], 
+            "shared_count": 1, 
+            "id": "Queen", 
+            "name": "Queen", 
+            "poster_url": "Queen.jpg"
+        }, 
+        {
+            "shared": [
+                "GaussianGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "GaussianGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue"
+            ], 
+            "shared_count": 1, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }
+    ], 
+    "id": "BabyFace", 
+    "name": "Baby Face"
+}

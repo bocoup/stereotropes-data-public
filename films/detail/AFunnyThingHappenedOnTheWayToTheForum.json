@@ -1,0 +1,141 @@
+{
+    "plot": "Pseudolus is the laziest slave in Rome and has but one wish, to purchase his freedom. When his master and mistress leave for the day he finds out that the young master has fallen in love with a virgin in the house of Lycus, a slave dealer specializing in beautiful women. Pseudolus concocts a deal in which he will be freed if he can procure the girl for young Hero. Of course, it can't be that simple as everything begins to go wrong.", 
+    "genres": "Comedy, Musical", 
+    "release_year": "1966", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "many", 
+                    "scary", 
+                    "cast", 
+                    "bad"
+                ], 
+                "role": "Amazon Chaser: In many productions, Gymnasia is a scary dominatrix with a whip who towers over the rest of the cast \u2014 and that's exactly why Pseudolus wants her so bad.", 
+                "id": "AmazonChaser"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Baritone: Miles Gloriosus, especially compared to rivals Henpecked Husband Senex and Tenor Boy Hero.", 
+                "id": "BadassBaritone"
+            }, 
+            {
+                "adjectives": [
+                    "song", 
+                    "exact"
+                ], 
+                "role": "Dirty Old Man: Senex. Domina even sings a song about him with that exact title.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "dead", 
+                    "last"
+                ], 
+                "role": "Disguised in Drag: Hysterium's disguising himself as the \"dead\" Philia. Marcus Lycus also spends the last half hour of the film disguised as a woman in an attempt to sneak into Senex's house while it's occupied by Gloriosus's troops.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Senex.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Senex in A Funny Thing Happened on the Way to the Forum is dominated by his wife, appropriately named Domina. (She gets it from her mother, it seems.)", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [
+                    "same"
+                ], 
+                "role": "Miles Gloriosus: A character in the play has this name, but he's not exactly the stock character. Rather, he's borrowed from the play of the same name by Plautus, which is also the inspiration for the stock character's name.", 
+                "id": "MilesGloriosus"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "virginal"
+                ], 
+                "role": "Girl Next Door: Hero loves Philia. Albeit, Philia is a courtesan, but she's a virginal one...", 
+                "id": "GirlNextDoor"
+            }, 
+            {
+                "adjectives": [
+                    "stereotypical", 
+                    "Roman"
+                ], 
+                "role": "Grande Dame: Domina, who is the stereotypical matrona of the Roman theater.", 
+                "id": "GrandeDame"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "High-Class Call Girl: The courtesans.", 
+                "id": "HighClassCallGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Meido: Philia's cover story for being in the house when Senex gets home. Well \"Everybody Ought to Have a Maid\".", 
+                "id": "Meido"
+            }
+        ]
+    }, 
+    "imdbid": "tt0060438", 
+    "poster_url": "AFunnyThingHappenedOnTheWayToTheForum.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "DirtyOldMan", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 3, 
+            "id": "SomeLikeItHot", 
+            "name": "Some Like It Hot", 
+            "poster_url": "SomeLikeItHot.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFlintstones", 
+            "name": "The Flintstones", 
+            "poster_url": "TheFlintstones.jpg"
+        }, 
+        {
+            "shared": [
+                "AmazonChaser", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "GreatExpectations", 
+            "name": "Great Expectations", 
+            "poster_url": "GreatExpectations.jpg"
+        }
+    ], 
+    "id": "AFunnyThingHappenedOnTheWayToTheForum", 
+    "name": "A Funny Thing Happened on the Way to the Forum"
+}

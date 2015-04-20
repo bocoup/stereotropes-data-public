@@ -1,0 +1,72 @@
+{
+    "plot": "The small state of Freedonia is in a financial mess, borrowing a huge sum of cash from wealthy widow Mrs. Teasdale. She insists on replacing the current president with crazy Rufus T. Firefly and mayhem erupts. To make matters worse, the neighboring state sends inept spies Chicolini and Pinky to obtain top secret information, creating even more chaos!", 
+    "genres": "Comedy, Musical, War", 
+    "release_year": "1933", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "fat"
+                ], 
+                "role": "Fat Girl: As Firefly says of Mrs. Teasdale: Made all the funnier by the fact that Margaret Dumont is not fat, especially not by 1933's standards.", 
+                "id": "FatGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Grande Dame: Mrs. Teasdale.", 
+                "id": "GrandeDame"
+            }
+        ]
+    }, 
+    "imdbid": "tt0023969", 
+    "poster_url": "DuckSoup.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "AnimalCrackers", 
+            "name": "Animal Crackers", 
+            "poster_url": "AnimalCrackers.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "GrandeDame"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScarletPimpernel", 
+            "name": "The Scarlet Pimpernel", 
+            "poster_url": "TheScarletPimpernel.jpg"
+        }, 
+        {
+            "shared": [
+                "FatGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }
+    ], 
+    "id": "DuckSoup", 
+    "name": "Duck Soup"
+}

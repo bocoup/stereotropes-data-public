@@ -1,0 +1,88 @@
+{
+    "plot": "When Dan O'Grady returns to the U.S. after stealing some Irish leprechaun's pot of gold, he thinks he can settle down and enjoy his newfound wealth. He thought wrong. The leprechaun followed him and O'Grady barely gets away with his life, having locked the little monster in his basement. Ten years later, J.D. and his spoiled daughter Tory move in. By accident, the leprechaun is released and almost immediately the annoying creature starts to look for his gold, not displaying any respect for human life.", 
+    "genres": "Comedy, Fantasy, Horror", 
+    "release_year": "1993", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "second"
+                ], 
+                "role": "Damsel in Distress: Bridget in the second film.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Assistant", 
+                    "third"
+                ], 
+                "role": "Lovely Assistant: Tammy in the third movie.", 
+                "id": "LovelyAssistant"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "final"
+                ], 
+                "role": "Neutral Female: In the first movie's final battle.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107387", 
+    "poster_url": "Leprechaun.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "RobinHood", 
+            "name": "Robin Hood", 
+            "poster_url": "RobinHood.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "Soultaker", 
+            "name": "Soultaker", 
+            "poster_url": "Soultaker.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "DamselInDistress"
+            ], 
+            "shared_count": 2, 
+            "id": "LostInSpace", 
+            "name": "Lost in Space", 
+            "poster_url": "LostInSpace.jpg"
+        }
+    ], 
+    "id": "Leprechaun", 
+    "name": "Leprechaun"
+}

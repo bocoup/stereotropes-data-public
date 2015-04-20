@@ -1,0 +1,85 @@
+{
+    "plot": "Tanguy is 28 years old and still living with his parents. They think it's time he moves out. He doesn't, so they hatch a plan...", 
+    "genres": "Comedy", 
+    "release_year": "2001", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "fair", 
+                    "high-end", 
+                    "own"
+                ], 
+                "role": "Basement Dweller: Actually, Tanguy has a fair amount of his parents' high-end apartment reserved for his own uses.", 
+                "id": "BasementDweller"
+            }, 
+            {
+                "adjectives": [
+                    "whole", 
+                    "own", 
+                    "generic", 
+                    "Basement-Dweller", 
+                    "French-speaking", 
+                    "uncommon"
+                ], 
+                "role": "The whole plot of Tanguy involves exasperated parents who try to get their grown son (the title character) to move the hell out so they can have their own lives back.\n This French film appeared to have hit a chord with the public, as the name \"Tanguy\" has basically become a generic word for Basement-Dweller in French-speaking countries, where it's not uncommon to hear people complain that their son is a Tanguy.", 
+                "id": "BasementDweller"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Tanguy, despite his nerdy looks, is quite the womaniser and can sweet-talk his way into any girl's pants.", 
+                "id": "TheCasanova"
+            }
+        ]
+    }, 
+    "imdbid": "tt0274155", 
+    "poster_url": "Tanguy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "BasementDweller"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGreatBeauty", 
+            "name": "The Great Beauty", 
+            "poster_url": "TheGreatBeauty.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "KamenRider", 
+            "name": "Kamen Rider"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCommitments", 
+            "name": "The Commitments", 
+            "poster_url": "TheCommitments.jpg"
+        }
+    ], 
+    "id": "Tanguy", 
+    "name": "Tanguy"
+}

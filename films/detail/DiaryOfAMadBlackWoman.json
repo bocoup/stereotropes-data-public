@@ -1,0 +1,114 @@
+{
+    "plot": "Helen McCarter has everything a woman wants: a nice house and rich husband. However after her husband Charles throws her out of the house after admitting to an affair a distraught Helen turns to her mother, grandmother Madea and cousin Brian who take her in and turn back to God. Helen learns for the first time in her life to stand up on her two feet and is ready to remove herself from her relationship with Charles and move on with Orlando. But when her husband is almost killed by a vengeful client, Helen wonders if she has the heart to forgive him despite everything.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Joe, who ogles both his niece-in-law (who is in her 60s) and his great-niece.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Orlando.", 
+                "id": "MrFanservice"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Helen starts to become this after her Break the Cutie moment.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Never Mess with Granny: Never ever mess with Mabel Madea Simmons... or with her granddaughter.", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sassy Black Woman: Madea", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [
+                    "single"
+                ], 
+                "role": "It was implied that Madea (Diary of a Mad Black Woman, etc) might have been a single mom stripper at least once.", 
+                "id": "SingleMomStripper"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team Mom / Team Dad: It's up to you to decide which one Madea counts as.", 
+                "id": "TeamMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: Helen, of course. She even states this herself:", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0422093", 
+    "poster_url": "DiaryOfAMadBlackWoman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanScorned", 
+                "NeverMessWithGranny", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "SassyBlackWoman", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "TeamMom", 
+                "NeverMessWithGranny", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MrFanservice", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Aladdin", 
+            "name": "Aladdin", 
+            "poster_url": "Aladdin.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "SassyBlackWoman", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "MadeaGoesToJail", 
+            "name": "Madea Goes To Jail", 
+            "poster_url": "MadeaGoesToJail.jpg"
+        }
+    ], 
+    "id": "DiaryOfAMadBlackWoman", 
+    "name": "Diary of a Mad Black Woman"
+}

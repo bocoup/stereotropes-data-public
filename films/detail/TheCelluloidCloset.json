@@ -1,0 +1,97 @@
+{
+    "plot": "A comprehensive documentary of the history of gays and lesbians in cinema, from negative to positive reflections of gay characters and the troubles of actors and actresses.", 
+    "genres": "Documentary, History", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "several", 
+                    "different", 
+                    "such"
+                ], 
+                "role": "Camp Gay: And his less explicitly gay brother, The Sissy. Discussed in depth, with several talking heads having different opinions of the worth of such characters. (Harvey Fierstein likes them: \"Visibility at all costs!\")", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Depraved Homosexual", 
+                "id": "DepravedHomosexual"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sissy Villain", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Lesbian"
+                ], 
+                "role": "Lesbian Vampire: Commented upon.", 
+                "id": "LesbianVampire"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Psycho Lesbian", 
+                "id": "PsychoLesbian"
+            }
+        ]
+    }, 
+    "imdbid": "tt0112651", 
+    "poster_url": "TheCelluloidCloset.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CampGay", 
+                "SissyVillain"
+            ], 
+            "shared_count": 3, 
+            "id": "DiamondsAreForever", 
+            "name": "Diamonds Are Forever", 
+            "poster_url": "DiamondsAreForever.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "DepravedHomosexual", 
+                "PsychoLesbian"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "JesusChristSuperstar", 
+            "name": "Jesus Christ Superstar", 
+            "poster_url": "JesusChristSuperstar.jpg"
+        }
+    ], 
+    "id": "TheCelluloidCloset", 
+    "name": "The Celluloid Closet"
+}

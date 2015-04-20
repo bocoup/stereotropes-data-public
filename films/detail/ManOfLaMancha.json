@@ -1,0 +1,134 @@
+{
+    "plot": "This musical version of Don Quixote is framed by an incident allegedly from the life of its author, Miguel de Cervantes. Don Quixote is the mad, aging nobleman who embarrasses his respectable family by his adventures. Backed by his faithful sidekick Sancho Panza, he duels windmills and defends his perfect lady Dulcinea (who is actually a downtrodden whore named Aldonza).", 
+    "genres": "Adventure, Comedy, Drama", 
+    "release_year": "1972", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Baritone: Don Quixote himself.", 
+                "id": "BadassBaritone"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "song", 
+                    "great", 
+                    "unhappy"
+                ], 
+                "role": "Aldonza in Man of La Mancha. \"Aldonza\" (the song) is a great portrayal of anger and cynicism overlaying a very unhappy backstory.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Aldonza, though she hides it with all her might.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "full"
+                ], 
+                "role": "Averted in Man of La Mancha, where Aldonza knows full well her status in the world, and hates it (and spends most of her time singing about it).", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Aldonza's heart is more like a hunk of coal, that Don Quixote manages to crush into a diamond.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "narrative", 
+                    "more-or-less", 
+                    "other", 
+                    "different", 
+                    "noble", 
+                    "liege-lady"
+                ], 
+                "role": "Played with in Man of La Mancha: Aldonza is literally selling her favors; while the narrative treats her more-or-less sympathetically, most of the other characters view her as trash for doing so. Alonso views her \u2014 quite insistently, in fact \u2014 as a completely different person: Dulcinea, his pure and noble liege-lady.", 
+                "id": "MadonnaWhoreComplex"
+            }, 
+            {
+                "adjectives": [
+                    "casual", 
+                    "earth"
+                ], 
+                "role": "Aldonza in Man of La Mancha, who describes herself as a \"kitchen slut\" and \"the most casual bride of the murdering scum of the earth\".", 
+                "id": "Streetwalker"
+            }, 
+            {
+                "adjectives": [
+                    "casual", 
+                    "earth"
+                ], 
+                "role": "Streetwalker: Aldonza, who describes herself as a \"kithchen slut\" and \"the most casual bride of the murdering scum of the earth\".", 
+                "id": "Streetwalker"
+            }, 
+            {
+                "adjectives": [
+                    "casual", 
+                    "earth"
+                ], 
+                "role": "Streetwalker: Aldonza, who describes herself as a \"kitchen slut\" and \"the most casual bride of the murdering scum of the earth\".", 
+                "id": "Streetwalker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0068909", 
+    "poster_url": "ManOfLaMancha.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "BadassBaritone"
+            ], 
+            "shared_count": 2, 
+            "id": "JesusChristSuperstar", 
+            "name": "Jesus Christ Superstar", 
+            "poster_url": "JesusChristSuperstar.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }, 
+        {
+            "shared": [
+                "Streetwalker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGoddess", 
+            "name": "The Goddess", 
+            "poster_url": "TheGoddess.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "MadeaGoesToJail", 
+            "name": "Madea Goes To Jail", 
+            "poster_url": "MadeaGoesToJail.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSkyCrawlers", 
+            "name": "The Sky Crawlers", 
+            "poster_url": "TheSkyCrawlers.jpg"
+        }
+    ], 
+    "id": "ManOfLaMancha", 
+    "name": "Man Of La Mancha"
+}

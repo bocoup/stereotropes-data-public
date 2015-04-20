@@ -1,0 +1,110 @@
+{
+    "plot": "Black Cloud, is an inspirational story about a young Navajo, Native American boxer, who overcomes personal challenges as he comes to terms with his heritage, while fighting his way for a spot on the US Olympic boxing team.", 
+    "genres": "Drama", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Black Cloud's grandfather.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "exquisite", 
+                    "sweaty", 
+                    "interesting"
+                ], 
+                "role": "Mr. Fanservice: The monatage where Cloud is training has some particularly exquisite scenes of him shirtless, sweaty and in some interesting workout positions.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "Overprotective"
+                ], 
+                "role": "Overprotective Dad: Understandably, but Sammi's father asks Cloud not to see her again as his brief tiff with Mr. Tipping resulted in Mr. Tipping sending a complaint in about Cloud to the Band office. This reflects poorly on Sammi and her son Tyler and jeopardizes their chances of getting a house.", 
+                "id": "OverprotectiveDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Scary Black Man: Rocket Ray Tracy comes off as this. It's mostly fueled by his ego, though.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: One at the very beginning when Cloud arrives home and retreats to his room and another one while he is working out at the gym preparing for the fight against Rocket.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Mom: Sammi", 
+                "id": "HotMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0363475", 
+    "poster_url": "BlackCloud.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy", 
+                "ScaryBlackMan", 
+                "MrFanservice"
+            ], 
+            "shared_count": 4, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "NinjaAssassin", 
+            "name": "Ninja Assassin", 
+            "poster_url": "NinjaAssassin.jpg"
+        }
+    ], 
+    "id": "BlackCloud", 
+    "name": "Black Cloud"
+}

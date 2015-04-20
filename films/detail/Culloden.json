@@ -1,0 +1,87 @@
+{
+    "plot": "A reconstruction of the Battle of Culloden, the last battle to take place on British soil, as if modern TV cameras were present.", 
+    "genres": "Drama, History, War", 
+    "release_year": "1964", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "'Butcher", 
+                    "spherical"
+                ], 
+                "role": "A Father to His Men: 'Butcher' Cumberland looks like a spherical pig in a tricorne hat but appears to have the respect of his men, for nothing else if not his ability to keep them fed.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "modern", 
+                    "vicious", 
+                    "own", 
+                    "fair", 
+                    "wounded"
+                ], 
+                "role": "Culloden features The Duke of Cumberland, who was known as \"The Butcher\" among Jacobites, and in modern times, Scottish nationalists. Squashed the Jacobite rebellion of 1745. Accounts of his character vary greatly: some sources cite him as a ruthless and vicious man who terrorised his own men as well as the enemy, while others have him enforcing strict discipline on his men to ensure fair treatment of surrendering Jacobites. One accusation levelled at him was that instead of tending to wounded enemy soldiers on the battlefield (as the warfare etiquette of the time dictated) he simply slaughtered them - hence, \"The Butcher.\"", 
+                "id": "TheButcher"
+            }, 
+            {
+                "adjectives": [
+                    "Willian", 
+                    "well-earned"
+                ], 
+                "role": "The Butcher: Willian, Duke of Cumberland's well-earned nickname after the battle and \"Pacifications.\"", 
+                "id": "TheButcher"
+            }
+        ]
+    }, 
+    "imdbid": "tt0057982", 
+    "poster_url": "Culloden.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheButcher", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheButcher", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGunsOfNavarone", 
+            "name": "The Guns of Navarone", 
+            "poster_url": "TheGunsOfNavarone.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "TheKeep", 
+            "name": "The Keep", 
+            "poster_url": "TheKeep.jpg"
+        }
+    ], 
+    "id": "Culloden", 
+    "name": "Culloden"
+}

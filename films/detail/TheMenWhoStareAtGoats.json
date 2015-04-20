@@ -1,0 +1,84 @@
+{
+    "plot": "A reporter, trying to lose himself in the romance of war after his marriage fails, gets more than he bargains for when he meets a special forces agent who reveals the existence of a secret, psychic military unit whose goal is to end war as we know it. The founder of the unit has gone missing and the trail leads to another psychic soldier who has distorted the mission to serve his own ends.", 
+    "genres": "Comedy, War", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "direct"
+                ], 
+                "role": "The Drill Sergeant Nasty moment was more or less a direct quote from Stanley Kubrick's Full Metal Jacket.", 
+                "id": "DrillSergeantNasty"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Godiva Hair: The hot tub scene(s).", 
+                "id": "GodivaHair"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Granola Guy: Bill is the General of Granola.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Men Who Stare at Goats. The rare male example: Bill Django is the General of the New Earth Army, a Granola Platoon.", 
+                "id": "GranolaGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt1234548", 
+    "poster_url": "TheMenWhoStareAtGoats.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GranolaGirl", 
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 2, 
+            "id": "BillAndTed", 
+            "name": "Bill & Ted"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DrillSergeantNasty"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "TheMenWhoStareAtGoats", 
+    "name": "The Men Who Stare at Goats"
+}

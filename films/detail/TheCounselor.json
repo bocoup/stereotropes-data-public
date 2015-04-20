@@ -1,0 +1,80 @@
+{
+    "plot": "A rich and successful lawyer, the Counselor, is about to get married to his fianc\u00e9e but soon becomes entangled in a complex drug plot with a middle-man known as Westray. The plan ends up taking a horrible twist and he must protect himself and his soon to be bride as the truth of the drug business is uncovered and targets are eliminated.", 
+    "genres": "Crime, Drama, Thriller", 
+    "release_year": "2013", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Malkina.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "Madonna-Whore"
+                ], 
+                "role": "Madonna-Whore Complex: Laura is the Madonna, and Malkina is the Whore.", 
+                "id": "MadonnaWhoreComplex"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Malkina.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt2193215", 
+    "poster_url": "TheCounselor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MadonnaWhoreComplex", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Metropolis", 
+            "name": "Metropolis", 
+            "poster_url": "Metropolis.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "CoolWorld", 
+            "name": "Cool World", 
+            "poster_url": "CoolWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TemptationIsland", 
+            "name": "Temptation Island"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "FasterPussycatKillKill", 
+            "name": "Faster Pussycat Kill Kill"
+        }
+    ], 
+    "id": "TheCounselor", 
+    "name": "The Counselor"
+}

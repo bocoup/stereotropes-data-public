@@ -1,0 +1,84 @@
+{
+    "plot": "In Detroit, Clarence Worley goes to the movie theater alone on the day of his birthday to watch some movies. The gorgeous Alabama Whitman accidentally drops her popcorn on Clarence and they watch the movie together. Then they eat pieces of pie and they have one night stand, so Clarence eats more pie of another kind. In the morning, Alabama confesses that she is a call-girl hired to spend the night with him, but she has fallen in love with him. In the morning they get married and Clarence goes to the club where she worked to bring her some clothes. However, her pimp Drexl Spivey and his partner beat up Clarence and he reacts by killing them both. Clarence asks for Alabama's suitcase with her clothes and the other girls mistakenly give another one with cocaine. When Clarence discovers the mistake, he decides to travel with Alabama to the house of his friend, the aspiring actor Dick Ritchie, to sell the drug and travel to Mexico. He visits his father Clifford Worley and gives his address to him. But the Sicilian Mafia is the owner of the drug and a group of killers are sent to hunt down Clarnece and Alabama.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Slacker: Floyd, Dick's roommate, played by Brad Pitt.", 
+                "id": "TheSlacker"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Alabama.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "weird", 
+                    "geeky"
+                ], 
+                "role": "Manic Pixie Dream Girl: Alabama drops into Clarence's life and takes an earnest liking to all of his weird, geeky tastes and interests. Except The Partridge Family. That's where she draws the line.", 
+                "id": "ManicPixieDreamGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0108399", 
+    "poster_url": "TrueRomance.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Saawariya", 
+            "name": "Saawariya", 
+            "poster_url": "Saawariya.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "KillingZoe", 
+            "name": "Killing Zoe", 
+            "poster_url": "KillingZoe.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BreakfastAtTiffanys", 
+            "name": "Breakfast at Tiffany's", 
+            "poster_url": "BreakfastAtTiffanys.jpg"
+        }, 
+        {
+            "shared": [
+                "TheSlacker", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 2, 
+            "id": "DirtyWork", 
+            "name": "Dirty Work", 
+            "poster_url": "DirtyWork.jpg"
+        }
+    ], 
+    "id": "TrueRomance", 
+    "name": "True Romance"
+}

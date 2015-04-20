@@ -1,0 +1,71 @@
+{
+    "plot": "In the year 3000, humanity is no match for the Psychlos, a greedy, manipulative race on a quest for ultimate profit. Led by the seductive and powerful Terl, the Psychlos are stripping Earth of its resources, using the broken remnants of humanity as slaves. What is left of the human race has reverted to a primitive state, believing the invaders to be demons and technology to be evil. After humanity has all but given up any hope of freeing themselves from alien oppression, a young man named Tyler decides to leave his desolate home high in the Rocky Mountains to discover the truth, whereupon he is captured and enslaved. It is then that he decides to fight back, leading his fellow man in one final struggle for freedom.", 
+    "genres": "Action, Adventure, Sci-Fi", 
+    "release_year": "2000", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: Some of the Psychlos, namely Terl and Zete.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Critic. Even he lampshaded it in the Battlefield Earth review by trying to say he got more handsome, but couldn't do it and chose \"pretty\" instead.", 
+                "id": "PrettyBoy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0185183", 
+    "poster_url": "BattlefieldEarth.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrettyBoy", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMatrix", 
+            "name": "The Matrix", 
+            "poster_url": "TheMatrix.jpg"
+        }, 
+        {
+            "shared": [
+                "PrettyBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PrettyBoy"
+            ], 
+            "shared_count": 1, 
+            "id": "Stargate", 
+            "name": "Stargate", 
+            "poster_url": "Stargate.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }
+    ], 
+    "id": "BattlefieldEarth", 
+    "name": "Battlefield Earth"
+}

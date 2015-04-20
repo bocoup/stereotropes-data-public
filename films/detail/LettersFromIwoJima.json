@@ -1,0 +1,96 @@
+{
+    "plot": "The island of Iwo Jima stands between the American military force and the home islands of Japan. Therefore the Imperial Japanese Army is desperate to prevent it from falling into American hands and providing a launching point for an invasion of Japan. General Tadamichi Kuribayashi is given command of the forces on the island and sets out to prepare for the imminent attack. General Kuribayashi, however, does not favor the rigid traditional approach recommended by his subordinates, and resentment and resistance fester among his staff. In the lower echelons, a young soldier, Saigo, a poor baker in civilian life, strives with his friends to survive the harsh regime of the Japanese army itself, all the while knowing that a fierce battle looms. When the American invasion begins, both Kuribayashi and Saigo find strength, honor, courage, and horrors beyond imagination.", 
+    "genres": "Drama, History, War", 
+    "release_year": "2006", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: General \"I will always be right in front of you\" Kuribayashi.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "other", 
+                    "only", 
+                    "good"
+                ], 
+                "role": "General Kuribayashi from Letters from Iwo Jima tries to be this, but the other officers in the army have the soldiers still be Red Shirts, and the only one this has good effect on is Shimizu.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "dead", 
+                    "Japanese", 
+                    "mad", 
+                    "true"
+                ], 
+                "role": "Dirty Coward: Lieutenant Ito. tries to force his troops to accompany him in a reckless suicide attack, before leaving alone to attempt to take out a tank. Instead he pretends to be dead until the battle's over. And this is after he nearly kills Saito and Shimizu for following orders and retreating. An alternate interpretation was that he was hoping a tank was going to run over the dead men he was lying with. (US Tanks frequently ran over Japanese \"corpses\" to ensure they weren't just playing dead.) He kept asking where the tanks were, had explosives strapped to his chest, and seemed to go mad when they didn't come. This is based on a true story of a survivor who spent two days lying in the sun playing dead before he finally decided he didn't want to die.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "smart/cowardly", 
+                    "later"
+                ], 
+                "role": "Non-Action Guy: Saigo can't even handle a rifle properly, and the only reason he survives is because he's smart/cowardly enough to hang back from wherever there's violence. Kuribayashi mistakes his survival instincts for fighting skills and is corrected. Kuribayashi later takes advantage of Saigo's survival instincts by entrusting him with the bag of letters.", 
+                "id": "NonActionGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0498380", 
+    "poster_url": "LettersFromIwoJima.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NonActionGuy", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHuntForRedOctober", 
+            "name": "The Hunt for Red October", 
+            "poster_url": "TheHuntForRedOctober.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Centurion", 
+            "name": "Centurion", 
+            "poster_url": "Centurion.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "AMidnightClear", 
+            "name": "A Midnight Clear", 
+            "poster_url": "AMidnightClear.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "LettersFromIwoJima", 
+    "name": "Letters from Iwo Jima"
+}

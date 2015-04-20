@@ -1,0 +1,94 @@
+{
+    "plot": "In the year 2013 civilization has all but destroyed itself. After a war that decimated the government and most of the population of the United States (possibly the world) people struggle to survive against starvation and rogue groups of armed men. One such group is called the Holnists. This group is bigger than any other and their leader, General Bethlehem, has delusions of ruling the country. A drifter is captured by the group and forced to join. He escapes at the first chance and happens on a mail jeep with a skeleton in it. The skeleton is wearing a postal uniform and the drifter takes it to keep him warm. He also finds a mailbag and starts conning people with old letters. The hope he sees in the people he delivers to changes his plans and he decides that he must help bring the Holnists down.", 
+    "genres": "Action, Adventure, Drama", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "clear", 
+                    "other", 
+                    "loyal", 
+                    "savvy", 
+                    "strict", 
+                    "many", 
+                    "surprising", 
+                    "poor"
+                ], 
+                "role": "A Father to His Men: General Bethlehem thinks he's one of these. Amusingly, it's fairly clear almost every one of his men hates him to the core but none of them want to stand up to him (assuming the other people in the army are loyal Holnists). He was just savvy enough to scare everyone into strict submission during their \"conscription\". We're shown that many are forcibly conscripted (including the Postman) so it's not that surprising if most aren't there by choice and hate Bethlehem. Also probably explains their poor Evil Army showing above.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Beard of Evil: General Bethlehem.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "comparable", 
+                    "pre-Industrial", 
+                    "relative", 
+                    "late", 
+                    "young"
+                ], 
+                "role": "Child Soldiers: Most of the Postman's courier-crew-turned-militia is pretty young. Justified in that life expectancy in a Post Apocalyptic world would be comparable to Real Life pre-Industrial eras, so relative age categories are adjusted accordingly (\"late teens\" becomes \"young adult fit to fight\").", 
+                "id": "ChildSoldiers"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119925", 
+    "poster_url": "ThePostman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 3, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "Soldier", 
+            "name": "Soldier", 
+            "poster_url": "Soldier.jpg"
+        }, 
+        {
+            "shared": [
+                "ChildSoldiers", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "CrossOfIron", 
+            "name": "Cross Of Iron", 
+            "poster_url": "CrossOfIron.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "AirForceOne", 
+            "name": "Air Force One", 
+            "poster_url": "AirForceOne.jpg"
+        }
+    ], 
+    "id": "ThePostman", 
+    "name": "The Postman"
+}

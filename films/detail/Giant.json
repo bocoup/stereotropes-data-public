@@ -1,0 +1,106 @@
+{
+    "plot": "Texan rancher Bick Benedict visits a Maryland farm to buy a prize horse. Whilst there he meets and falls in love with the owner's daughter Leslie, they are married immediately and return to his ranch. The story of their family and its rivalry with cowboy and (later oil tycoon) Jett Rink unfolds across two generations.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1956", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Bick at the end of the movie.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Uncle Bawley, who could be also considered a piano player of sorts.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Dirty Old Man: Jett Rink gows into one of these.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Leslie Benedict in Giant is one.", 
+                "id": "Socialite"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Socialite: Leslie", 
+                "id": "Socialite"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Team Mom: Leslie, she wants the kids to be whatever they want.", 
+                "id": "TeamMom"
+            }, 
+            {
+                "adjectives": [
+                    "Lad-ette", 
+                    "later"
+                ], 
+                "role": "Lad-ette: Bick's sister Luz, and later his daughter Luz II.", 
+                "id": "TheLadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0049261", 
+    "poster_url": "Giant.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TeamMom", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "KungFuPanda", 
+            "name": "Kung Fu Panda", 
+            "poster_url": "KungFuPanda.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "CoolOldGuy", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 3, 
+            "id": "SpaceCowboys", 
+            "name": "Space Cowboys", 
+            "poster_url": "SpaceCowboys.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "CuteyHoney", 
+            "name": "Cutey Honey"
+        }, 
+        {
+            "shared": [
+                "CoolOldGuy", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Quartet", 
+            "name": "Quartet", 
+            "poster_url": "Quartet.jpg"
+        }
+    ], 
+    "id": "Giant", 
+    "name": "Giant"
+}

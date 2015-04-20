@@ -1,0 +1,120 @@
+{
+    "plot": "This modern retelling of the classic fairytale follows a beautiful college freshman as she pledges her late mother's once dignified sorority. But after discovering that today's sisterhood is not what it used to be, Sydney finds her new home away from home with seven outcasts. With the help of her socially challenged new friends, Sydney will take on the reigning campus queen to attempt to transform the school's misguided social hierarchy.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "2007", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Tyler is Prince Charming.", 
+                "id": "PrinceCharming"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Rachel again.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "mean", 
+                    "nice"
+                ], 
+                "role": "Averted mostly in Sydney White. Rachel Witchburn is the only blond who is rude and mean to eveyrone around her. The rest of the blond Kappa girls, especially Dinky, are friendly and quite nice.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "nice"
+                ], 
+                "role": "Blondes are Evil: Rachel and only Rachel, the rest of the Kappa girls seems to be quite nice, especially Dinky.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Clingy Jealous Girl: Rachel borders on Stalker with a Crush when she shows up in Tyler's room, claiming to have read his emails.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "eponymous"
+                ], 
+                "role": "Sydney White, being based on Snow White and the Seven Dwarves, has this with the eponymous character, who becomes the Nerd Nanny to seven dorky boys.", 
+                "id": "NerdNanny"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Dinky.", 
+                "id": "SpoiledSweet"
+            }, 
+            {
+                "adjectives": [
+                    "symbolic"
+                ], 
+                "role": "Wicked Witch: Rachel, but only in a symbolic way.", 
+                "id": "WickedWitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0815244", 
+    "poster_url": "SydneyWhite.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "BlondesAreEvil", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "BlondesAreEvil", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "BlondesAreEvil", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "Carrie", 
+            "name": "Carrie", 
+            "poster_url": "Carrie.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "RomyAndMichelesHighSchoolReunion", 
+            "name": "Romy and Michele's High School Reunion", 
+            "poster_url": "RomyAndMichelesHighSchoolReunion.jpg"
+        }
+    ], 
+    "id": "SydneyWhite", 
+    "name": "Sydney White"
+}

@@ -1,0 +1,115 @@
+{
+    "plot": "Corky, a lesbian ex con hired to work in an apartment as a plumber, meets neighbors Caesar, who launders money for the Mafia, and his girlfriend Violet. The two women have a love affair and decide to steal $2,000,000 that Caesar has in custody before he gives them back to Mafia boss Gino Marzone. Caesar is set up by the two scheming women as a scapegoat but things start to go wrong when he reacts in an unexpected way...", 
+    "genres": "Crime, Drama, Romance", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "compassionate"
+                ], 
+                "role": "Cool Old Guy: Micky. Cruelly efficient towards Shelly, compassionate towards Violet, and the one guy who scares Caesar shitless even after the latter killed Gino.", 
+                "id": "CoolOldGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Lesbian", 
+                    "short", 
+                    "similar"
+                ], 
+                "role": "Butch Lesbian: Corky is more masculine than Violet. Gina Gershon modeled her performance on James Dean. She wears short hair and masculine attire similar to a 50s greaser. The character was probably intended to look more \"butch\" than she ended up, judging by the scene where Caesar mistakes her for a man in dim light.", 
+                "id": "ButchLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Even the Girls Want Her: Of the named characters in the film, only Gino doesn't, at some point, express an interest in Violet.", 
+                "id": "EvenTheGirlsWantHer"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Violet", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady in Red: Violet", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lipstick Lesbian: Violet, who looks and behaves in a traditionally feminine manner, in contrast to Corky.", 
+                "id": "LipstickLesbian"
+            }, 
+            {
+                "adjectives": [
+                    "classic"
+                ], 
+                "role": "Tomboy and Girly Girl: A classic Lipstick Lesbian and Butch Lesbian pairing.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0115736", 
+    "poster_url": "Bound.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "LadyInRed", 
+                "TomBoyAndGirlyGirl", 
+                "LipstickLesbian", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 4, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "FemmeFatale", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 3, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "TomBoyAndGirlyGirl", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 3, 
+            "id": "MementoMori", 
+            "name": "Memento Mori"
+        }, 
+        {
+            "shared": [
+                "LipstickLesbian", 
+                "FemmeFatale", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 3, 
+            "id": "LadySnowblood", 
+            "name": "Lady Snowblood", 
+            "poster_url": "LadySnowblood.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "TomBoyAndGirlyGirl", 
+                "LipstickLesbian"
+            ], 
+            "shared_count": 3, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }
+    ], 
+    "id": "Bound", 
+    "name": "Bound"
+}

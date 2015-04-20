@@ -1,0 +1,144 @@
+{
+    "plot": "Faber College has one frat house so disreputable it will take anyone. It has a second one full of white, anglo-saxon, rich young men who are so sanctimonious no one can stand them except Dean Wormer. The dean enlists the help of the second frat to get the boys of Delta House off campus. The dean's plan comes into play just before the homecoming parade to end all parades for all time.", 
+    "genres": "Comedy", 
+    "release_year": "1978", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "white"
+                ], 
+                "role": "An alternate interpretation is that Otis and his bandmates do remember the Deltas, but they have to pretend like they don't because the Deltas are white and everyone else in the bar is an Angry Black Man.", 
+                "id": "AngryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "several", 
+                    "little"
+                ], 
+                "role": "Fratbro: Bluto is the Trope Codifier, but several characters qualify, thinking of little but sex, drinking, and hijinks.", 
+                "id": "Fratbro"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "last", 
+                    "influential", 
+                    "necessary"
+                ], 
+                "role": "John \"Bluto\" Blutarsky of Animal House is the Trope Codifier. Frequently drunk, and always on the lookout for mischief, he neglects his studies to the extent of receiving a grade point average of exactly 0.0. His many fratboy activities include starting a cafeteria Food Fight, spying on women students changing and smashing someone's guitar in the middle of a song. When the dean expels him and his frat brothers, Bluto rallies them to commit one last act of mayhem at Homecoming.\n So influential was he that a poster of Blutarsky on a dorm / fraternity wall is an almost necessary prop.", 
+                "id": "Fratbro"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Animal House:", 
+                "id": "TheLoinsSleepTonight"
+            }, 
+            {
+                "adjectives": [
+                    "soft"
+                ], 
+                "role": "The Loins Sleep Tonight: Greg, each time he takes Mandy to Make-Out Point. \"Is it supposed to be this soft?\"", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Babs.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "College Widow: Although not literally a widow, Mrs. Wormer.", 
+                "id": "CollegeWidow"
+            }, 
+            {
+                "adjectives": [
+                    "choked"
+                ], 
+                "role": "Mandy in Animal House, including one choked and punched by her boyfriend Greg.", 
+                "id": "GirlsLoveStuffedAnimals"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High Heel-Face Turn: Mandy Pepperidge", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady Drunk: Mrs. Wormer.", 
+                "id": "LadyDrunk"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mrs. Robinson: Mrs. Wormer", 
+                "id": "MrsRobinson"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Hoover", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0077975", 
+    "poster_url": "AnimalHouse.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "AngryBlackMan", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "TheChick", 
+                "GirlsLoveStuffedAnimals"
+            ], 
+            "shared_count": 3, 
+            "id": "FairyTail", 
+            "name": "Fairy Tail"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyDrunk", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }
+    ], 
+    "id": "AnimalHouse", 
+    "name": "Animal House"
+}

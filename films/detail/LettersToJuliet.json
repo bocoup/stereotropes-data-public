@@ -1,0 +1,93 @@
+{
+    "plot": "An American girl on vacation in Italy finds an unanswered \"letter to Juliet\" -- one of thousands of missives left at the fictional lover's Verona courtyard, which are typically answered by a the \"secretaries of Juliet\" -- and she goes on a quest to find the lovers referenced in the letter.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Overprotective", 
+                    "alive"
+                ], 
+                "role": "Overprotective Dad: Inverted with Charlie who doesn't want to see his grandmother hurt again by a man that may or may not still be alive.", 
+                "id": "OverprotectiveDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot", 
+                    "actual"
+                ], 
+                "role": "Hot Scoop: Sophie, though she's actually a fact checker than an actual article writer.", 
+                "id": "HotScoop"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Letters to Juliet, Sophie's mom \"left\" when she was nine.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Sophie has one.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0892318", 
+    "poster_url": "LettersToJuliet.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "LoveInTheAfternoon", 
+            "name": "Love in the Afternoon", 
+            "poster_url": "LoveInTheAfternoon.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "AGoofyMovie", 
+            "name": "A Goofy Movie", 
+            "poster_url": "AGoofyMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "OverprotectiveDad", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Super8", 
+            "name": "Super 8", 
+            "poster_url": "Super8.jpg"
+        }
+    ], 
+    "id": "LettersToJuliet", 
+    "name": "Letters to Juliet"
+}

@@ -1,0 +1,104 @@
+{
+    "plot": "Adapted from the novel, \"Addie Pray\" (1971) by Joe David Brown, PAPER MOON is the story of Moses Pray and Addie Loggins. With scenery reminiscent of \"The Grapes of Wrath,\" the film is set in the depression-era Midwestern region of the United States. As the movie opens, we see a small group of mourners clustered at a graveside. Among the mourners is Addie, the dead woman's small daughter. Moses Pray -- ostensibly of the \"Kansas Bible Company\" -- approaches the group, as the service concludes, and two of the elderly women remark that the child bears some resemblance to him and asks if he might be related. \"If ever a child needed kin, it's now,\" one lady says. With no knowledge of who her father is, Addie's only haven is her Aunt's home in St. Joseph, Missouri. Having identified himself as a \"traveling man spreading the Lord's gospel in these troubled times,\" \"Mose\" is prevailed upon to deliver the helpless child to her Aunt since he's going that way, anyway. Addie, wise beyond her years, soon discovers that Mose is little more than a scam artist traveling from town to town delivering unordered Bibles and charging exorbitant prices to recently widowed women whom he identifies through the obituary columns of local papers. Soon, Addie and Mose become a team, traveling from town to town, making money in every dishonest way imaginable, and looking for the ultimate score. The colorful characters they meet along the way make the film all the more interesting. Paramount among these is \"Miss Trixie Delight,\" an exotic dancer who Mose rescues from a traveling carnival and her minion, Imogene. The film is peppered with \"regional\" dialog. Perhaps one of the most memorable lines of the movie is uttered when Mose is forced to wrestle a backwoodsman in order to trade his new car for the hillbilly's battered old truck. \"Make him say calf-rope, Leroy!\" one of the observers calls out.", 
+    "genres": "Comedy, Crime, Drama", 
+    "release_year": "1973", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "typical"
+                ], 
+                "role": "High-Class Call Girl: Miss Trixie, though she doesn't have the refinement or discretion typical of the trope.", 
+                "id": "HighClassCallGirl"
+            }, 
+            {
+                "adjectives": [
+                    "typical"
+                ], 
+                "role": "Miss Trixie from Paper Moon, though she doesn't have the refinement or discretion typical of the trope.", 
+                "id": "HighClassCallGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Addie Pray, from Addie Pray, the novel the movie Paper Moon was based on.", 
+                "id": "LittleMissConArtist"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Little Miss Con Artist: Addie, who is very talented in the field.", 
+                "id": "LittleMissConArtist"
+            }, 
+            {
+                "adjectives": [
+                    "small", 
+                    "such", 
+                    "gentle"
+                ], 
+                "role": "Sassy Black Woman: Trixie's maid, Imogene, is a subdued example; while she won't sass Miss Trixie to her face, she doesn't hesitate to perform small acts of subversion, such as recklessly tossing the bags right after Trixie warns her to be gentle with them.", 
+                "id": "SassyBlackWoman"
+            }, 
+            {
+                "adjectives": [
+                    "small", 
+                    "such", 
+                    "gentle"
+                ], 
+                "role": "Trixie's maid Imogene in Paper Moon is a subdued example; while she won't sass Miss Trixie to her face, she doesn't hesitate to perform small acts of subversion, such as recklessly tossing the bags right after Trixie warns her to be gentle with them.", 
+                "id": "SassyBlackWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0070510", 
+    "poster_url": "PaperMoon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighClassCallGirl", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "FoxyBrown", 
+            "name": "Foxy Brown", 
+            "poster_url": "FoxyBrown.jpg"
+        }, 
+        {
+            "shared": [
+                "HighClassCallGirl", 
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Coffy", 
+            "name": "Coffy", 
+            "poster_url": "Coffy.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "EvanAlmighty", 
+            "name": "Evan Almighty", 
+            "poster_url": "EvanAlmighty.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "SassyBlackWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGuyFromHarlem", 
+            "name": "The Guy From Harlem", 
+            "poster_url": "TheGuyFromHarlem.jpg"
+        }
+    ], 
+    "id": "PaperMoon", 
+    "name": "Paper Moon"
+}

@@ -1,0 +1,65 @@
+{
+    "plot": "Chester Kent produces musical comedies on the stage. With the beginning of the talkies era he changes to producing short musical prologues for movies. This is stressful to him, because he always needs new units and his rival is stealing his ideas. He can get an contract with a producer if he is able to stage in three days three new prologues. In spite of great problems, he does it.", 
+    "genres": "Comedy, Musical, Romance", 
+    "release_year": "1933", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Friday: Nan to Chester Kent.", 
+                "id": "GirlFriday"
+            }
+        ]
+    }, 
+    "imdbid": "tt0024028", 
+    "poster_url": "FootlightParade.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlFriday"
+            ], 
+            "shared_count": 1, 
+            "id": "IronMan", 
+            "name": "Iron Man", 
+            "poster_url": "IronMan.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlFriday"
+            ], 
+            "shared_count": 1, 
+            "id": "CinderellaIIIATwistInTime", 
+            "name": "Cinderella III: A Twist in Time", 
+            "poster_url": "CinderellaIIIATwistInTime.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlFriday"
+            ], 
+            "shared_count": 1, 
+            "id": "HighSociety", 
+            "name": "High Society", 
+            "poster_url": "HighSociety.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlFriday"
+            ], 
+            "shared_count": 1, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlFriday"
+            ], 
+            "shared_count": 1, 
+            "id": "RearWindow", 
+            "name": "Rear Window", 
+            "poster_url": "RearWindow.jpg"
+        }
+    ], 
+    "id": "FootlightParade", 
+    "name": "Footlight Parade"
+}

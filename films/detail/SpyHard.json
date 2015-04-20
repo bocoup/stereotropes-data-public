@@ -1,0 +1,106 @@
+{
+    "plot": "General Rancor is threatening to destroy the world with a missile he is hiding at his secret base. But to complete his goal, he needs a special computer chip, invented by the scientist Prof. Ukrinsky. Special Agent Dick Steele is assigned to the case, in order to prevent the worst. He teams up with Ukrinsky's daughter Veronique, who happens to be a KGB agent.", 
+    "genres": "Comedy, Action", 
+    "release_year": "1996", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "single"
+                ], 
+                "role": "Action Girl: Agent 3.14. She effortlessly beats up three goons threatening Steele and in the climax almost single handely defeats Rancor's guards while Steele focuses on rancor himself.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Distressed Damsel: Barbara Dahl", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Faux Action Girl: Barbara Dahl.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "entire", 
+                    "short", 
+                    "tight", 
+                    "important"
+                ], 
+                "role": "Ms. Fanservice: Agent 3.14 spends the entire film running around in very short, tight skirts and minidresses. While Steele is looking at her crucially important pendant he becomes distracted by her... upper chest area.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Marcia Gay Harden as Miss Cheevus in Spy Hard.", 
+                "id": "SexySecretary"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Sexy Secretary: Miss Cheevus.", 
+                "id": "SexySecretary"
+            }
+        ]
+    }, 
+    "imdbid": "tt0117723", 
+    "poster_url": "SpyHard.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "SexySecretary", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "ActionGirl", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "MeanGuns", 
+            "name": "Mean Guns", 
+            "poster_url": "MeanGuns.gif"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "MsFanservice", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ActionGirl", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHost", 
+            "name": "The Host", 
+            "poster_url": "TheHost.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FauxActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "SpyHard", 
+    "name": "Spy Hard"
+}

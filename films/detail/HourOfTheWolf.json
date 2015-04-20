@@ -1,0 +1,66 @@
+{
+    "plot": "An artist in crisis is haunted by nightmares from the past in Ingmar Bergman's only horror film, which takes place on a windy island. During \"the hour of the wolf\" - between midnight and dawn - he tells his wife about his most painful memories.", 
+    "genres": "Drama, Horror", 
+    "release_year": "1968", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "beautiful"
+                ], 
+                "role": "Woman in White: A beautiful woman in white seduces Johan.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0063759", 
+    "poster_url": "HourOfTheWolf.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "TheInnocents", 
+            "name": "The Innocents", 
+            "poster_url": "TheInnocents.jpg"
+        }
+    ], 
+    "id": "HourOfTheWolf", 
+    "name": "Hour Of The Wolf"
+}

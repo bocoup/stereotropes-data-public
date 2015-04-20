@@ -1,0 +1,80 @@
+{
+    "plot": "The story of Pixar's early short films illuminates not only the evolution of the company but also the early days of computer animation, when a small group of artists and scientists shared a single computer in a hallway, and struggled to create emotionally compelling short films.", 
+    "genres": "Documentary, Short", 
+    "release_year": "2007", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "many", 
+                    "senior", 
+                    "titular", 
+                    "own", 
+                    "similar"
+                ], 
+                "role": "Crazy Cat Lady: One of the many senior citizens in \"George and A.J.\" impressed by Carl's escape in his house of balloons. When the titular male nurses show up to take the cat lady in question to the nursing home, she makes an escape of her own similar to Carl's, using her cats instead of balloons.", 
+                "id": "CrazyCatLady"
+            }, 
+            {
+                "adjectives": [
+                    "worth", 
+                    "original", 
+                    "weapons-grade"
+                ], 
+                "role": "It's worth mentioning that the original 3D version of Knick Knack (with weapons-grade boobs) got shown at SIGGRAPH.", 
+                "id": "GagBoobs"
+            }
+        ]
+    }, 
+    "imdbid": "tt1164983", 
+    "similar": [
+        {
+            "shared": [
+                "CrazyCatLady", 
+                "GagBoobs"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHeat", 
+            "name": "The Heat", 
+            "poster_url": "TheHeat.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady"
+            ], 
+            "shared_count": 1, 
+            "id": "Gremlins", 
+            "name": "Gremlins", 
+            "poster_url": "Gremlins.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyCatLady"
+            ], 
+            "shared_count": 1, 
+            "id": "TheAristocats", 
+            "name": "The Aristocats", 
+            "poster_url": "TheAristocats.jpg"
+        }, 
+        {
+            "shared": [
+                "GagBoobs"
+            ], 
+            "shared_count": 1, 
+            "id": "CityHunter", 
+            "name": "City Hunter", 
+            "poster_url": "CityHunter.jpg"
+        }
+    ], 
+    "id": "PixarShorts", 
+    "name": "Pixar Shorts"
+}

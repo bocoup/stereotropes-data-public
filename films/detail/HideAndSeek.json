@@ -1,0 +1,86 @@
+{
+    "plot": "Hide and Seek revolves around a widower and his daughter. They move to upstate and Emily soon creates an imaginary friend named Charlie... but this act takes an unexpected and terrifying turn, where her father and doctor start to worry about Emily's gruesome habits.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "2005", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Emily", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Daddy's Girl: Averted. Emily is cold or hostile towards David throughout the film. Even at the beginning of the film before she is traumatized, Emily seems closer to her mother.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "anti-doll"
+                ], 
+                "role": "Lonely Doll Girl: Emily,  although she abruptly turns anti-doll once Charlie becomes her friend.", 
+                "id": "LonelyDollGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0382077", 
+    "poster_url": "HideAndSeek.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl", 
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "WeAreTheStrange", 
+            "name": "We Are the Strange", 
+            "poster_url": "WeAreTheStrange.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "BrokenBlossoms", 
+            "name": "Broken Blossoms"
+        }
+    ], 
+    "id": "HideAndSeek", 
+    "name": "Hide and Seek"
+}

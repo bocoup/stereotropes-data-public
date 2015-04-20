@@ -1,0 +1,74 @@
+{
+    "plot": "Young Kid has been invited to a party at his friend Play's house. But after a fight at school, Kid's father grounds him. None the less, Kid sneaks out when his father falls asleep. But Kid doesn't know that three of the thugs at school has decided to give him a lesson in behaviour...", 
+    "genres": "Comedy, Music, Romance", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sensitive"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Kid and Play, respectively.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Play", 
+                "id": "TheCasanova"
+            }
+        ]
+    }, 
+    "imdbid": "tt0099800", 
+    "poster_url": "HouseParty.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFifthElement", 
+            "name": "The Fifth Element", 
+            "poster_url": "TheFifthElement.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "SensitiveGuyAndManlyMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDouble", 
+            "name": "The Double", 
+            "poster_url": "TheDouble.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }
+    ], 
+    "id": "HouseParty", 
+    "name": "House Party"
+}

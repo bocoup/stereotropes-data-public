@@ -1,0 +1,72 @@
+{
+    "plot": "Former CIA spy Bob Ho takes on his toughest assignment to date: looking after his girlfriend's three kids (who haven't exactly warmed to their mom's beau). When one of the youngsters accidentally downloads a top-secret formula, Bob's longtime nemesis, a Russian terrorist, pays a visit to the family.", 
+    "genres": "Action, Comedy, Family", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Action Hero Babysitter", 
+                "id": "ActionHeroBabysitter"
+            }, 
+            {
+                "adjectives": [
+                    "Gillian"
+                ], 
+                "role": "Disappeared Dad Farren's father by blood, who abandoned her, leaving her with Gillian.", 
+                "id": "DisappearedDad"
+            }
+        ]
+    }, 
+    "imdbid": "tt1273678", 
+    "poster_url": "TheSpyNextDoor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "RealSteel", 
+            "name": "Real Steel", 
+            "poster_url": "RealSteel.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFog", 
+            "name": "The Fog", 
+            "poster_url": "TheFog.jpg"
+        }
+    ], 
+    "id": "TheSpyNextDoor", 
+    "name": "The Spy Next Door"
+}

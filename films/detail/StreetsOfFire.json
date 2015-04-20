@@ -1,0 +1,158 @@
+{
+    "plot": "Rock and Roll singer is taken captive by a motorcycle gang in a strange world that seems to be a cross of the 1950's and the present or future. Her ex-boyfriend returns to town and to find her missing and goes to her rescue.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Billy Fish.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "ineffective", 
+                    "old", 
+                    "second", 
+                    "Want"
+                ], 
+                "role": "Billy Fish. For all his whining and complaining, for all his constantly insulting and condescending to everyone he meets except Ellen, he rides right into Hell for Ellen along with everyone else, not to mention charging out into the fight onstage in the opening scene and trying to face down Raven just before the sledgehammer fight (he's pathetically ineffective both times, but still. Whatever else you can call him, he's no Dirty Coward). Also, despite his petty greed, he agrees to not one, but two benefits in Ellen's old neighborhood (with notably less complaining the second time). See also: I Just Want My Beloved to Be Happy.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Non-Action Guy: Billy Fish, who nevertheless has balls made of pure brass and who doesn't let something like the knowledge he's about to get his ass kicked stop him.", 
+                "id": "NonActionGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Dandy: Billy Fish.", 
+                "id": "TheDandy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: McCoy. The role was written as male. Amy Madigan just happened to give an awesome audition.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "minor"
+                ], 
+                "role": "Strongly hinted at with McCoy in Streets of Fire. She certainly looks and acts the part and seems to use \"joined the Army\" as a euphemism for changing teams. She repeatedly states that the hero \"isn't her type.\" The character was originally written as a man, with only minor changes when the casting was switched.", 
+                "id": "ButchLesbian"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Reva Cody.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Damsel in Distress: Ellen Aim.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "McCoy of Streets of Fire. Her part was actually originally intended for a man.", 
+                "id": "OneOfTheBoys"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ellen Aim in Streets of Fire.", 
+                "id": "TheChanteuse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chanteuse: Ellen Aim, who's played by Diane Lane.", 
+                "id": "TheChanteuse"
+            }, 
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "McCoy from Streets of Fire. Her character was originally written as a man, and her lines weren't changed all that much after the gender flip.", 
+                "id": "TheLadette"
+            }, 
+            {
+                "adjectives": [
+                    "Lad-ette", 
+                    "female"
+                ], 
+                "role": "The Lad-ette: McCoy was written as a man, but eventually cast with a female actor, during her into one of these. Very little of her lines were changed.", 
+                "id": "TheLadette"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Squadette: McCoy, who else.", 
+                "id": "TheSquadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0088194", 
+    "poster_url": "StreetsOfFire.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheLadette", 
+                "DirtyCoward", 
+                "ActionGirl", 
+                "TheSquadette"
+            ], 
+            "shared_count": 4, 
+            "id": "AlienS", 
+            "name": "Aliens", 
+            "poster_url": "AlienS.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "DamselInDistress", 
+                "OneOfTheBoys", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "DamselInDistress", 
+                "CrazyJealousGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "ButchLesbian", 
+                "CrazyJealousGuy", 
+                "DamselInDistress", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "DoubleImpact", 
+            "name": "Double Impact", 
+            "poster_url": "DoubleImpact.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "CrazyJealousGuy", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }
+    ], 
+    "id": "StreetsOfFire", 
+    "name": "Streets of Fire"
+}

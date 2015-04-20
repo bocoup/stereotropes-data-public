@@ -1,0 +1,98 @@
+{
+    "plot": "Christmas is approaching and 9 year-old Ralphie wants only one thing: a Red Ryder Range 200 Shot BB gun. When he mentions it at the dinner table, his mother's immediate reaction is that he'll put his eye out. He then decides on a perfect theme for his teacher but her reaction is like his. He fantasizes about what it would be like to be Red Ryder and catch the bad guys. When the big day arrives he gets lots of present under the tree including a lovely gift from his aunt that his mother just adores. But what about the BB gun?", 
+    "genres": "Comedy, Family", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Barbaric Bully: Scut Farkus.", 
+                "id": "BarbaricBully"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: The Old Man, played masterfully by Darren McGavin. He does strange things and is a bit detached, but you can tell he genuinely loves his family.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In A Christmas Story, the Old Man gets a bowling ball dropped in his lap for Christmas, and his voice goes at least a little bit higher.", 
+                "id": "InstantSoprano"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Instant Soprano: The Old Man, after his Christmas gift (a bowling ball) is unceremoniously dumped onto his tender bits.", 
+                "id": "InstantSoprano"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "My Beloved Smother: Ralphie's mother at times, particularly in regards to his little brother.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [
+                    "many", 
+                    "fear-crying"
+                ], 
+                "role": "The mom from A Christmas Story. Especially with the younger kid. She wraps him in so many layers for the walk to school, he can't put his arms down. Even his freak out fear-crying doesn't faze her. Plus, the tolerance of his bizarre eating habits. Ralphie gets the smothering too, but to a lesser extent (\"You'll shoot your eye out!\").", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085334", 
+    "poster_url": "AChristmasStory.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BumblingDad", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheAddamsFamily", 
+            "name": "The Addams Family", 
+            "poster_url": "TheAddamsFamily.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "PeytonPlace", 
+            "name": "Peyton Place", 
+            "poster_url": "PeytonPlace.jpg"
+        }, 
+        {
+            "shared": [
+                "InstantSoprano"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 1, 
+            "id": "TuckEverlasting", 
+            "name": "Tuck Everlasting", 
+            "poster_url": "TuckEverlasting.jpg"
+        }
+    ], 
+    "id": "AChristmasStory", 
+    "name": "A Christmas Story"
+}

@@ -1,0 +1,111 @@
+{
+    "plot": "Barbie stars in her first holiday movie in this heart-warming adaptation of the classic Dickens story filled with cherished Christmas carols, fabulous fashions and lots of laughs!", 
+    "genres": "Animation, Family", 
+    "release_year": "2008", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "mean", 
+                    "grumpy"
+                ], 
+                "role": "Blondes are Evil: Eden is mean and grumpy.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Fangirl: The Spirit of Christmas Past, judging by the way she's delighted with having to visit her.", 
+                "id": "Fangirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Graceful Ladies Like Purple: Eden's nightgown and Catherine's dress in the future.", 
+                "id": "GracefulLadiesLikePurple"
+            }, 
+            {
+                "adjectives": [
+                    "possible", 
+                    "future"
+                ], 
+                "role": "In Barbie in A Christmas Carol, Eden wears a purple nightgown and Sleep Mask, while Catherine in a possible future wears a purple dress as an Evil Costume Switch (her present dress is pink and white).", 
+                "id": "GracefulLadiesLikePurple"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady in Red: The Spirit of Christmas Future, as opposed to most portrayals.", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Eden.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [
+                    "selfish", 
+                    "selfish"
+                ], 
+                "role": "Stage Aunt: Aunt Marie, especially how much she prevented Eden from having fun as a child. When she came back as a spirit to Eden, she explicitly stated that the quote \"In a selfish world, the selfish succeed\" was just her excuse for not having become a star herself.", 
+                "id": "StageMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt1314715", 
+    "similar": [
+        {
+            "shared": [
+                "StageMom", 
+                "BlondesAreEvil", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "HighSchoolMusical", 
+            "name": "High School Musical", 
+            "poster_url": "HighSchoolMusical.jpg"
+        }, 
+        {
+            "shared": [
+                "Fangirl", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "Heathers", 
+            "name": "Heathers", 
+            "poster_url": "Heathers.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "RichBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHouseBunny", 
+            "name": "The House Bunny", 
+            "poster_url": "TheHouseBunny.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "GracefulLadiesLikePurple"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }
+    ], 
+    "id": "BarbieInAChristmasCarol", 
+    "name": "Barbie in A Christmas Carol"
+}

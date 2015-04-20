@@ -1,0 +1,81 @@
+{
+    "plot": "Set during the time of the first outbreak of bubonic plague in England, a young monk is tasked with learning the truth about reports of people being brought back to life, a mission that pulls him toward a village ruler who has made a dark pact with evil forces.", 
+    "genres": "Action, Drama, Horror", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "A Father to His Men: Wolfstan", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wolfstan in Black Death.", 
+                "id": "AFatherToHisMen"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Langiva in Black Death.", 
+                "id": "TheHighQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ophelia:  subverted in that Averill was drugged, perhaps.", 
+                "id": "TheOphelia"
+            }
+        ]
+    }, 
+    "imdbid": "tt1181791", 
+    "poster_url": "BlackDeath.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheHighQueen", 
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 2, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "TheOphelia"
+            ], 
+            "shared_count": 1, 
+            "id": "WutheringHeights", 
+            "name": "Wuthering Heights", 
+            "poster_url": "WutheringHeights.jpg"
+        }, 
+        {
+            "shared": [
+                "TheHighQueen"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "TheKeep", 
+            "name": "The Keep", 
+            "poster_url": "TheKeep.jpg"
+        }
+    ], 
+    "id": "BlackDeath", 
+    "name": "Black Death"
+}

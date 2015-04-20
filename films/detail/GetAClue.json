@@ -1,0 +1,72 @@
+{
+    "plot": "\"Get a Clue\" follows the exploits of a young girl, Lexy, who is a privileged twelve year old who has spent her entire life amongst the wealthy and elite of Manhattan. Clad in Prada, she prides herself on her ability to get the scoop and serve it up in her school's gossip column. When a photo she has taken of her teachers is published in the city's daily paper, things start getting weird. A teacher goes missing and she along with her working class family friend, Jack, set out to solve the mystery. What follows is an action-packed adventure laced with mystery and drama.", 
+    "genres": "Comedy, Crime, Family", 
+    "release_year": "2002", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Lexy.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Jennifer.", 
+                "id": "AlphaBitch"
+            }
+        ]
+    }, 
+    "imdbid": "tt0282521", 
+    "poster_url": "GetAClue.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "WendyWuHomecomingWarrior", 
+            "name": "Wendy Wu: Homecoming Warrior", 
+            "poster_url": "WendyWuHomecomingWarrior.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "ToTheLimit", 
+            "name": "To The Limit", 
+            "poster_url": "ToTheLimit.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }
+    ], 
+    "id": "GetAClue", 
+    "name": "Get A Clue"
+}

@@ -1,0 +1,71 @@
+{
+    "plot": "N/A", 
+    "genres": "Comedy", 
+    "release_year": "1991", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High Class Call Girl: Marfisa.", 
+                "id": "HighClassCallGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Matron Chaperone: The Queen has one, but she's worldly enough to not get in the way of the spouses.", 
+                "id": "MatronChaperone"
+            }
+        ]
+    }, 
+    "imdbid": "tt0102788", 
+    "similar": [
+        {
+            "shared": [
+                "MatronChaperone"
+            ], 
+            "shared_count": 1, 
+            "id": "Spaceballs", 
+            "name": "Spaceballs", 
+            "poster_url": "Spaceballs.jpg"
+        }, 
+        {
+            "shared": [
+                "HighClassCallGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PaperMoon", 
+            "name": "Paper Moon", 
+            "poster_url": "PaperMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "HighClassCallGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "HusbandsAndWives", 
+            "name": "Husbands And Wives", 
+            "poster_url": "HusbandsAndWives.jpg"
+        }, 
+        {
+            "shared": [
+                "MatronChaperone"
+            ], 
+            "shared_count": 1, 
+            "id": "Titanic", 
+            "name": "Titanic", 
+            "poster_url": "Titanic.jpg"
+        }, 
+        {
+            "shared": [
+                "MatronChaperone"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodMenInTights", 
+            "name": "Robin Hood: Men in Tights", 
+            "poster_url": "RobinHoodMenInTights.jpg"
+        }
+    ], 
+    "id": "TheDumbfoundedKing", 
+    "name": "The Dumbfounded King"
+}

@@ -1,0 +1,94 @@
+{
+    "plot": "Richie Rich is the only child of the fabulously wealthy Rich family, but he is even richer for all the friends he has. This series shows Richie's adventures with his companions like his girlfriend Gloria, his robotic maid/bodyguard Irona, and his goofy pet dollarmation dog, Dollar, as he battle villains using the Rich assets such as Professor Keenbean's inventions.", 
+    "genres": "Animation, Comedy", 
+    "release_year": "1996\u2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Professor Keenbean to an extent in the Richie Rich film.", 
+                "id": "AbsentMindedProfessor"
+            }, 
+            {
+                "adjectives": [
+                    "climactic"
+                ], 
+                "role": "Battle Butler: Cadbury, as seen during the scene where he busts out of prison after making quick work of the assassin sent to kill him. He also bests Van Dough's henchman during the climactic scene.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cadbury from Richie Rich. When the villains send an assassin to make it look like he committed suicide, Cadbury ends up making quick work out of the assassin and breaks out of prison.", 
+                "id": "BattleButler"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf: Cadbury when Ferguson manhandles Richie towards the beginning of the movie.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "nice"
+                ], 
+                "role": "Spoiled Sweet: Richie is stated to the richest boy in the world but is a nice boy who longs to have friends.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0360307", 
+    "similar": [
+        {
+            "shared": [
+                "BattleButler", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "ComingToAmerica", 
+            "name": "Coming to America", 
+            "poster_url": "ComingToAmerica.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "BattleButler", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "PapaWolf"
+            ], 
+            "shared_count": 2, 
+            "id": "WreckItRalph", 
+            "name": "Wreck-It Ralph", 
+            "poster_url": "WreckItRalph.jpg"
+        }
+    ], 
+    "id": "RichieRich", 
+    "name": "Richie Rich"
+}

@@ -1,0 +1,76 @@
+{
+    "plot": "In 1973, Gamera sacrifices his life to rid the world of the Gyaos once and for all. Thirty-three years later, a small boy, whose father witnessed the 1973 event, named Toru finds a mysterious egg. From it, hatches a small Turtle. Toru and his friends raise the turtle, who turns out to be a small Gamera. After a new man eating creature named Zedus, it's up to the small Gamera to save the world as the previous Gamera had done before.", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "2006", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ill Girl: Mai Nishio, Toru's neighbor.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "cynical"
+                ], 
+                "role": "Missing Mom: Miyuki Aizawa had died in a car crash, which has made Toru fairly cynical.", 
+                "id": "MissingMom"
+            }
+        ]
+    }, 
+    "imdbid": "tt0467923", 
+    "poster_url": "GameraTheBrave.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "MyGirl", 
+            "name": "My Girl", 
+            "poster_url": "MyGirl.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "CMeDance", 
+            "name": "C Me Dance", 
+            "poster_url": "CMeDance.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "MissingMom"
+            ], 
+            "shared_count": 2, 
+            "id": "GraveOfTheFireflies", 
+            "name": "Grave of the Fireflies", 
+            "poster_url": "GraveOfTheFireflies.jpg"
+        }
+    ], 
+    "id": "GameraTheBrave", 
+    "name": "Gamera The Brave"
+}

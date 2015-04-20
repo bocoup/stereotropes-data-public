@@ -1,0 +1,81 @@
+{
+    "plot": "The film opens with Zephyr (who uses the nickname Z), commander of the Neo Marines, launching an all out assault on a Marine base...", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard / Badass Mustache: Usopp's sporting a combo of them in the promo art and part of the movie.", 
+                "id": "BadAssBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "Little Miss Badass: Nami may have been turned into a little girl, but that doesn't mean she can't kick ass.  Little Miss Con Artist: She also takes advantage of her cuteness to get some info about Z and his plan from a group of Marines on Secon Island.", 
+                "id": "LittleMissBadass"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Little Miss Con Artist: She also takes advantage of her cuteness to get some info about Z and his plan from a group of Marines on Secon Island.", 
+                "id": "LittleMissConArtist"
+            }
+        ]
+    }, 
+    "imdbid": "tt2375379", 
+    "similar": [
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "LittleMissConArtist"
+            ], 
+            "shared_count": 2, 
+            "id": "Zombieland", 
+            "name": "Zombieland", 
+            "poster_url": "Zombieland.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "LittleMissConArtist"
+            ], 
+            "shared_count": 2, 
+            "id": "KickAss", 
+            "name": "Kick-Ass", 
+            "poster_url": "KickAss.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "TrueGrit", 
+            "name": "True Grit", 
+            "poster_url": "TrueGrit.jpg"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "LoneWolfAndCub", 
+            "name": "Lone Wolf and Cub"
+        }, 
+        {
+            "shared": [
+                "LittleMissBadass"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }
+    ], 
+    "id": "OnePieceFilmZ", 
+    "name": "One Piece Film: Z"
+}

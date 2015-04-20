@@ -1,0 +1,81 @@
+{
+    "plot": "A woman who, by a promise made years earlier, is supposed to marry her best friend in three weeks, even though she doesn't want to. When she finds out that he's marrying someone else, she becomes jealous and tries to break off the wedding.", 
+    "genres": "Comedy, Romance", 
+    "release_year": "1997", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Clingy Jealous Girl: Julianne can't stand the thought of any girl with Michael that is not herself.", 
+                "id": "ClingyJealousGirl"
+            }, 
+            {
+                "adjectives": [
+                    "bad"
+                ], 
+                "role": "Cool Big Sis: Kim really wants Julianne to become this to her. Little did she know Jullianne was explointed the position to give her bad advice.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Kim is The Ojou and also a Nice Girl.", 
+                "id": "SpoiledSweet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119738", 
+    "poster_url": "MyBestFriendsWedding.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "SpoiledSweet"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "SpoiledSweet"
+            ], 
+            "shared_count": 2, 
+            "id": "SydneyWhite", 
+            "name": "Sydney White", 
+            "poster_url": "SydneyWhite.jpg"
+        }, 
+        {
+            "shared": [
+                "ClingyJealousGirl", 
+                "CoolBigSis"
+            ], 
+            "shared_count": 2, 
+            "id": "ptitlegxztz09b", 
+            "name": "My Best Friend's Wedding", 
+            "poster_url": "ptitlegxztz09b.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "SpoiledSweet"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbiePrincessCharmSchool", 
+            "name": "Barbie: Princess Charm School", 
+            "poster_url": "BarbiePrincessCharmSchool.jpg"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }
+    ], 
+    "id": "MyBestFriendsWedding", 
+    "name": "My Best Friend's Wedding"
+}

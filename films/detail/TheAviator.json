@@ -1,0 +1,106 @@
+{
+    "plot": "The script begins as a young Hughes directs one of Scorsese's favorite films, Hell's Angels. Hughes was so obsessed with perfection in the aerial sequences that he waits forever for perfect conditions, right down to cloud formations. The Aviator ends in 1946, when Hughes was still a dashing young man and romancing actresses like Ava Gardner and Katharine Hepburn.", 
+    "genres": "Biography, Drama", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Badass Mustache: Errol Flynn (naturally), Johnny Meyer, and later Howard.", 
+                "id": "BadAssMustache"
+            }, 
+            {
+                "adjectives": [
+                    "poor", 
+                    "financial"
+                ], 
+                "role": "Troubled, but Cute: Howard Hughes has severe OCD, a very poor sense of financial responsibility, is an utter control freak, and looks like Leonardo DiCaprio.", 
+                "id": "TroubledButCute"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl of the Week: Katharine is not pleased about Howard's collection of these.", 
+                "id": "GirlOfTheWeek"
+            }, 
+            {
+                "adjectives": [
+                    "Glamorous", 
+                    "brief", 
+                    "glamorous"
+                ], 
+                "role": "Glamorous Wartime Singer: Martha Wainwright's brief appearance at the Coconut Grove. Rufus is also quite glamorous, but he technically doesn't sing during the war.", 
+                "id": "GlamorousWartimeSinger"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Howard Hughes' mother in The Aviator, who caused his Super OCD.", 
+                "id": "MyBelovedSmother"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy: Katharine Hepburn plays golf and wears slacks. See also Wholesome Crossdresser.", 
+                "id": "Tomboy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0338751", 
+    "poster_url": "TheAviator.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "PorcoRosso", 
+            "name": "Porco Rosso", 
+            "poster_url": "PorcoRosso.jpg"
+        }, 
+        {
+            "shared": [
+                "GlamorousWartimeSinger", 
+                "BadAssMustache"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "OnceUponAForest", 
+            "name": "Once Upon a Forest", 
+            "poster_url": "OnceUponAForest.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "TroubledButCute"
+            ], 
+            "shared_count": 2, 
+            "id": "StepUp", 
+            "name": "Step Up", 
+            "poster_url": "StepUp.jpg"
+        }, 
+        {
+            "shared": [
+                "Tomboy", 
+                "TroubledButCute"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGirlWhoLeaptThroughTime", 
+            "name": "The Girl Who Leapt Through Time", 
+            "poster_url": "TheGirlWhoLeaptThroughTime.jpg"
+        }
+    ], 
+    "id": "TheAviator", 
+    "name": "The Aviator"
+}

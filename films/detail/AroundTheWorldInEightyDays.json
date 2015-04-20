@@ -1,0 +1,105 @@
+{
+    "plot": "When this movie is made in 1956, one can circumnavigate the globe in a little less than two days. When Jules Verne wrote the story \"Around the World in Eighty Days\" in 1872, he predicted that one day man could accomplish the task in eighty hours, but which most considered folly to do in eighty days in current times... that is except for people like Englishman Phileas Fogg, a regimented man who believed all it would take is exacting work, the skills he possesses. He just has to make sure a train's schedule meets the required sailing schedule which meets the required coach schedule and so on. As such, he takes up what ends up being the highly publicized \u00a320,000 wager from his fellow members at the London Reform Club to do so, losing the bet which would ruin him financially. Along for the ride is Fogg's new, loyal and devoted valet, the recently arrived Latin immigrant, Passepartout, who possesses unusual skills which could be major assets, but whose all consuming thoughts on the opposite sex could take away his focus from the task at hand. Although Fogg has accounted for certain transportation delays, he may not account for cultural peccadilloes he may encounter along the way which could also cause delays. He is also unaware of the true reason a man name Fix is following them, he who could also derail Fogg's task permanently. As Fogg and Passepartout proceed on their journey, they get into one misadventure after another. Ultimately, Fogg may find other things in life more important than winning the bet.", 
+    "genres": "Adventure, Comedy, Family", 
+    "release_year": "1956", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Quintessential", 
+                    "British", 
+                    "proper", 
+                    "stiff", 
+                    "handsome", 
+                    "nonsensical"
+                ], 
+                "role": "Quintessential British Gentleman: Phileas Fogg. He's very proper and extremely stiff, and takes his routine seriously. He's also described as a very handsome man. One of his travelling companion thinks his scheme nonsensical and not what a proper gentleman should devote his time to, but he wins him over when he's determined to help Aouda.", 
+                "id": "QuintessentialBritishGentleman"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "own", 
+                    "future"
+                ], 
+                "role": "Damsel in Distress: Aouda in her debut in the book. However after her rescue, Aouda more than pulls her own weight in the story. For examples, when their train is attacked by Indians, Aouda immediately gets a gun and starts shooting along with her companions and of course, she saves Fogg's future at the climax of the story.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "Chinese"
+                ], 
+                "role": "Dragon Lady: The Chinese villainess, who displays Surprisingly Good English (the actress Karen Mok went to university overseas).", 
+                "id": "DragonLady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Faux Action Girl: the sadly underused Maggie Q.", 
+                "id": "FauxActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "French"
+                ], 
+                "role": "The Ingenue: Fogg is portrayed a pretty clueless nice guy. He can't even tell that his valet doesn't really speak French!", 
+                "id": "TheIngenue"
+            }
+        ]
+    }, 
+    "imdbid": "tt0048960", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheIngenue"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "DragonLady"
+            ], 
+            "shared_count": 2, 
+            "id": "WildWildWest", 
+            "name": "Wild Wild West", 
+            "poster_url": "WildWildWest.jpg"
+        }, 
+        {
+            "shared": [
+                "FauxActionGirl", 
+                "QuintessentialBritishGentleman"
+            ], 
+            "shared_count": 2, 
+            "id": "StreetFighter", 
+            "name": "Street Fighter", 
+            "poster_url": "StreetFighter.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheIngenue"
+            ], 
+            "shared_count": 2, 
+            "id": "Metropolis", 
+            "name": "Metropolis", 
+            "poster_url": "Metropolis.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "TheIngenue"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }
+    ], 
+    "id": "AroundTheWorldInEightyDays", 
+    "name": "Around the World in Eighty Days"
+}

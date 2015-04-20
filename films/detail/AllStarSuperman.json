@@ -1,0 +1,83 @@
+{
+    "plot": "While saving the crew of the first manned mission to the sun, Superman is poisoned by solar radiation. Dying, he decides to fulfill his lifelong dreams, while still saving the Earth from various threats. But when Lex Luthor reveals his latest plot to control the world, Superman must use his remaining strength to stop him.", 
+    "genres": "Animation, Action, Sci-Fi", 
+    "release_year": "2011", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "clothing:"
+                ], 
+                "role": "Disguised in Drag: Hilariously subverted when Jimmy Olsen first appears in the movie wearing women's clothing:", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Lombard.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "much"
+                ], 
+                "role": "Daddy's Little Villain: Lex is her uncle, but Nasthalthia Luthor very much counts.", 
+                "id": "DaddysLittleVillain"
+            }
+        ]
+    }, 
+    "imdbid": "tt1699114", 
+    "poster_url": "AllStarSuperman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysLittleVillain", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "CareBears", 
+            "name": "Care Bears"
+        }, 
+        {
+            "shared": [
+                "DaddysLittleVillain", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TwentyTwoJumpStreet", 
+            "name": "22 Jump Street", 
+            "poster_url": "TwentyTwoJumpStreet.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 2, 
+            "id": "BigFatLiar", 
+            "name": "Big Fat Liar", 
+            "poster_url": "BigFatLiar.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysLittleVillain", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "AlphaAndOmega", 
+            "name": "Alpha and Omega", 
+            "poster_url": "AlphaAndOmega.jpg"
+        }, 
+        {
+            "shared": [
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 1, 
+            "id": "LupinIIIOperationReturnTheTreasure", 
+            "name": "Lupin III Operation Return The Treasure"
+        }
+    ], 
+    "id": "AllStarSuperman", 
+    "name": "All-Star Superman"
+}

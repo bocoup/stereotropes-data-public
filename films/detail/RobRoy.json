@@ -1,0 +1,89 @@
+{
+    "plot": "In the highlands of Scotland in the 1700s, Rob Roy tries to lead his small town to a better future, by borrowing money from the local nobility to buy cattle to herd to market. When the money is stolen, Rob is forced into a Robin Hood lifestyle to defend his family and honour.", 
+    "genres": "Action, Adventure, Biography", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "wealthy"
+                ], 
+                "role": "Bastard Bastard: Archibald is the bastard of a wealthy noblewoman, implied to be Montrose. He's accustomed to living in court, but has no money or inheritance to support himself.", 
+                "id": "BastardBastard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Man in a Kilt: Obviously.", 
+                "id": "ManInAKilt"
+            }, 
+            {
+                "adjectives": [
+                    "new", 
+                    "angry"
+                ], 
+                "role": "Archibald Cunningham from Rob Roy, a downright fop who murders people to buy fancy new clothes. He affects a comically mincing facade, but drops the act behind closed doors and when he's angry.", 
+                "id": "SissyVillain"
+            }, 
+            {
+                "adjectives": [
+                    "expensive", 
+                    "private"
+                ], 
+                "role": "Sissy Villain: Cunningham, the fop, whose motivation for his villainy is buying expensive clothes. However, his mincing behavior is mostly a ruse. In private, he behaves much differently.", 
+                "id": "SissyVillain"
+            }
+        ]
+    }, 
+    "imdbid": "tt0114287", 
+    "poster_url": "RobRoy.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ManInAKilt", 
+                "SissyVillain"
+            ], 
+            "shared_count": 2, 
+            "id": "Braveheart", 
+            "name": "Braveheart", 
+            "poster_url": "Braveheart.jpg"
+        }, 
+        {
+            "shared": [
+                "BastardBastard"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }, 
+        {
+            "shared": [
+                "BastardBastard"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain"
+            ], 
+            "shared_count": 1, 
+            "id": "NorthByNorthwest", 
+            "name": "North by Northwest", 
+            "poster_url": "NorthByNorthwest.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain"
+            ], 
+            "shared_count": 1, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }
+    ], 
+    "id": "RobRoy", 
+    "name": "Rob Roy"
+}

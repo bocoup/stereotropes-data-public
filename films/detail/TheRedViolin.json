@@ -1,0 +1,83 @@
+{
+    "plot": "In present day Montreal, a famous Nicolo Bussotti violin, known as \"the red violin,\" is being auctioned off. During the auction, we flash back to the creation of the violin in 17th century Italy, and follow the violin as it makes its way through an 18th century Austrian monastery, a violinist in 19th century Oxford, China during the Cultural Revolution, and back to Montreal, where a collector tries to establish the identity and the secrets of \"the red violin.\"", 
+    "genres": "Drama, Romance, Mystery", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Casanova: Fredrick Pope.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "young", 
+                    "weak"
+                ], 
+                "role": "Ill Girl: Kasper Weiss, as a young boy version of this trope with a \"weak heart\".", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Muse: Victoria to Fredrick, as their passionate affair fuels his music, and it's implied Frederick also helps Victoria compose her novels.", 
+                "id": "TheMuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0120802", 
+    "poster_url": "TheRedViolin.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "TheMuse", 
+                "TheCasanova"
+            ], 
+            "shared_count": 2, 
+            "id": "EightAndAHalf", 
+            "name": "8\u00bd"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MansfieldPark", 
+            "name": "Mansfield Park", 
+            "poster_url": "MansfieldPark.jpg"
+        }, 
+        {
+            "shared": [
+                "TheMuse", 
+                "IllGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BrightStar", 
+            "name": "Bright Star", 
+            "poster_url": "BrightStar.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }
+    ], 
+    "id": "TheRedViolin", 
+    "name": "The Red Violin"
+}

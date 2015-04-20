@@ -1,0 +1,75 @@
+{
+    "plot": "Barbie stars as Merliah, a surfer who learns a shocking secret: she's a mermaid! She and her dolphin friend set out for an undersea adventure to rescue her mother, the queen of Oceana.", 
+    "genres": "Animation, Family, Fantasy", 
+    "release_year": "2010", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "ocean"
+                ], 
+                "role": "God Save Us from the Queen!: Eris, who's slowly poisoning the ocean.", 
+                "id": "GodSaveUsFromTheQueen"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "The High Queen: Calissa, but not Eris.", 
+                "id": "TheHighQueen"
+            }
+        ]
+    }, 
+    "imdbid": "tt1610301", 
+    "similar": [
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLordOfTheRings", 
+            "name": "The Lord of the Rings", 
+            "poster_url": "TheLordOfTheRings.jpg"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "AliceInWonderland", 
+            "name": "Alice in Wonderland"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen", 
+                "TheHighQueen"
+            ], 
+            "shared_count": 2, 
+            "id": "Elizabeth", 
+            "name": "Elizabeth", 
+            "poster_url": "Elizabeth.jpg"
+        }, 
+        {
+            "shared": [
+                "GodSaveUsFromTheQueen"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainEO", 
+            "name": "Captain EO", 
+            "poster_url": "CaptainEO.jpg"
+        }
+    ], 
+    "id": "BarbieInAMermaidTale", 
+    "name": "Barbie In A Mermaid Tale"
+}

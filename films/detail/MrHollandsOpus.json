@@ -1,0 +1,75 @@
+{
+    "plot": "Glenn Holland is a musician and composer who takes a teaching job to pay the rent while, in his 'spare time', he can strive to achieve his true goal - compose one memorable piece of music to leave his mark on the world. As Holland discovers 'Life is what happens to you while you're busy making other plans' and as the years unfold the joy of sharing his contagious passion for music with his students becomes his new definition of success.", 
+    "genres": "Drama, Music", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Father To His Students: Mr. Holland becomes one of these over time as he helps all his students out. They repay the love at the end.", 
+                "id": "AFatherToHisMen"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "In Mr. Holland's Opus, Mr. Holland is inspired by student Rowena and begins writing music again.", 
+                "id": "TheMuse"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Muse: Mr. Holland is inspired by student Rowena Morgan (Jean Louisa Kelly) and begins writing music again.", 
+                "id": "TheMuse"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113862", 
+    "poster_url": "MrHollandsOpus.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "TheMuse"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "TheKeep", 
+            "name": "The Keep", 
+            "poster_url": "TheKeep.jpg"
+        }, 
+        {
+            "shared": [
+                "TheMuse"
+            ], 
+            "shared_count": 1, 
+            "id": "EightAndAHalf", 
+            "name": "8\u00bd"
+        }
+    ], 
+    "id": "MrHollandsOpus", 
+    "name": "Mr. Holland's Opus"
+}

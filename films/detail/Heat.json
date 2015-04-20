@@ -1,0 +1,123 @@
+{
+    "plot": "Hunters and their prey--Neil and his professional criminal crew hunt to score big money targets (banks, vaults, armored cars) and are, in turn, hunted by Lt. Vincent Hanna and his team of cops in the Robbery/Homicide police division. A botched job puts Hanna onto their trail while they regroup and try to put together one last big 'retirement' score. Neil and Vincent are similar in many ways, including their troubled personal lives. At a crucial moment in his life, Neil disobeys the dictum taught to him long ago by his criminal mentor--'Never have anything in your life that you can't walk out on in thirty seconds flat, if you spot the heat coming around the corner'--as he falls in love. Thus the stage is set for the suspenseful ending....", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "clean", 
+                    "evil"
+                ], 
+                "role": "Beard of Evil: It is no coincidence that Neil has a natty little goatee while Hanna is clean shaven. Waingro, who is clearly evil, has the bigger beard.", 
+                "id": "BeardOfEvil"
+            }, 
+            {
+                "adjectives": [
+                    "selfish", 
+                    "interested", 
+                    "own"
+                ], 
+                "role": "Disappeared Dad: The unseen father of Hanna's stepdaughter is clearly a selfish jerk not interested in her, but she nevertheless yearns to make a connection with him.  His failure to bother with her eventually drives her to attempt suicide. Despite his own obsession with his job, Vincent at least tries to compensate and make some time for her, even as he pursues Neil McCauley.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "close", 
+                    "major", 
+                    "awry", 
+                    "own", 
+                    "dead"
+                ], 
+                "role": "Gentleman Thief: A Deconstructed Character Archetype. Neil has the charm and all the connections, but he's painfully lonely, and won't get close to anyone for fear that the cops will be right around the corner. The one major job he's involved in goes terribly awry, and results in over half of his team being killed by the cops. Neil gets more violent as the film progresses, culminating in his revenge overriding his need to escape. He ends up proving his own adage right when he flees (and leaves his girlfriend) after he sees Hanna pursuing him, and winds up dead at the end of the film.", 
+                "id": "GentlemanThief"
+            }, 
+            {
+                "adjectives": [
+                    "realistic"
+                ], 
+                "role": "Robert De Niro's character in Heat, Neil McCauley, is a somewhat more realistic version of the Gentleman Thief.", 
+                "id": "GentlemanThief"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Disposable", 
+                    "Serial", 
+                    "first", 
+                    "point-blank"
+                ], 
+                "role": "Disposable Sex Worker: Waingro is a Serial Killer of prostitutes. This is one of the purest examples of the trope: the killings have precisely zero bearing on the plot, existing solely to establish Waingro's bona fides as a grade-A bastard, and gratuitously, at that, since during the armored car robbery, Waingro pistol-whips the first guard and then shoots him in the face at point-blank range, demonstrating his ruthlessness.", 
+                "id": "DisposableSexWorker"
+            }, 
+            {
+                "adjectives": [
+                    "different", 
+                    "serial", 
+                    "point-blank", 
+                    "good", 
+                    "other"
+                ], 
+                "role": "In the movie Heat, there is a scene where Waingro, who betrays Neil's crew, kills a prostitute by smashing her head in. Later, there is a scene where Hanna is called away from a party to investigate the discovery of a different prostitute stuffed into a garbage can, revealing that Waingro is a serial killer of prostitutes. This is apparently to establish him as a villain amongst villains. It also makes you feel that he had it coming when Neil kills him at the hotel. The killings have precisely zero bearing on the plot, existing solely to establish Waingro's bona fides as a grade-A bastard (gratuitously, at that, given that in the armored car robbery, he shoots one guard in the face at point-blank range with a pistol for no good reason other than to bring heat down on the gang).", 
+                "id": "DisposableSexWorker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113277", 
+    "poster_url": "Heat.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLionKing", 
+            "name": "The Lion King", 
+            "poster_url": "TheLionKing.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Tekken", 
+            "name": "Tekken", 
+            "poster_url": "Tekken.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "ThePrincessBride", 
+            "name": "The Princess Bride", 
+            "poster_url": "ThePrincessBride.png"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "BeardOfEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "Elysium", 
+            "name": "Elysium", 
+            "poster_url": "Elysium.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 2, 
+            "id": "FrightNight", 
+            "name": "Fright Night", 
+            "poster_url": "FrightNight.jpg"
+        }
+    ], 
+    "id": "Heat", 
+    "name": "Heat"
+}

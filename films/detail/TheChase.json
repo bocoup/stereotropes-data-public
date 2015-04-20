@@ -1,0 +1,89 @@
+{
+    "plot": "Jack Hammond is sentenced to life in prison, but manages to escape. To get away from the police he takes a girl as hostage and drives off in her car. The girl happens to be the only daughter of one of the richest men in the state. In a while the car chase is being broadcast live on every TV-channel, covering the event from helicopters, the backseat of a police car, the pavement of the highway etc.", 
+    "genres": "Action, Adventure, Comedy", 
+    "release_year": "1994", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "bad", 
+                    "poor", 
+                    "little"
+                ], 
+                "role": "Action Girl: By the end of the film Jackson has surrendered to the police but Natalie uses his discarded weapon to take a television producer hostage, exchanges the hostage with her love interest, hijacks a news helicopter and heads to Mexico. Not bad for  a poor little rich girl.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "true"
+                ], 
+                "role": "Bratty Teenage Daughter: Jack accuses Natalie of being this - and, to her credit, she admits that it is true.", 
+                "id": "BrattyTeenageDaughter"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "few"
+                ], 
+                "role": "Screaming Woman: Natalie bawls hysterically during the first few moments of her kidnapping, although she eventually toughens up.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0109402", 
+    "poster_url": "TheChase.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "BonnieAndClyde", 
+            "name": "Bonnie and Clyde", 
+            "poster_url": "BonnieAndClyde.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HouseOfWax", 
+            "name": "House of Wax", 
+            "poster_url": "HouseOfWax.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AlienS", 
+            "name": "Aliens", 
+            "poster_url": "AlienS.jpg"
+        }, 
+        {
+            "shared": [
+                "ScreamingWoman", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Outlander", 
+            "name": "Outlander", 
+            "poster_url": "Outlander.jpg"
+        }
+    ], 
+    "id": "TheChase", 
+    "name": "The Chase"
+}

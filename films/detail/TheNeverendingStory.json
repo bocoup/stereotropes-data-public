@@ -1,0 +1,85 @@
+{
+    "plot": "Bastian is a young boy who lives a dreary life being tormented by school bullies. On one such occasion he escapes into a book shop where the old proprieter reveals an ancient story-book to him, which he is warned can be dangerous. Shortly after, he \"borrows\" the book and begins to read it in the school attic where he is drawn into the mythical land of Fantasia, which desperately needs a hero to save it from destruction.", 
+    "genres": "Adventure, Drama, Family", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Slip (played by Jack Black).", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Attempted with Bastian's stepsister \u2014 she doesn't want one of his crystals.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "Used", 
+                    "Child-like", 
+                    "child-like"
+                ], 
+                "role": "Used with the Child-like Empress in The Neverending Story, to make her look...child-like.", 
+                "id": "GaussianGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0088323", 
+    "poster_url": "TheNeverendingStory.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "GaussianGirl", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Heavyweights", 
+            "name": "Heavyweights"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "OrdinaryPeople", 
+            "name": "Ordinary People", 
+            "poster_url": "OrdinaryPeople.jpg"
+        }, 
+        {
+            "shared": [
+                "BrokenBird", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "IAmNumberFour", 
+            "name": "I Am Number Four", 
+            "poster_url": "IAmNumberFour.jpg"
+        }, 
+        {
+            "shared": [
+                "GaussianGirl", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Superman", 
+            "name": "Superman", 
+            "poster_url": "Superman.jpg"
+        }
+    ], 
+    "id": "TheNeverendingStory", 
+    "name": "The NeverEnding Story"
+}

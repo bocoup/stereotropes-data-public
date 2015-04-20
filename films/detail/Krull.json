@@ -1,0 +1,101 @@
+{
+    "plot": "From the sky will come the Black Fortress. From the Fortress will come the Slayers to devour the planet of Krull. Then shall a girl of ancient name become queen...she shall choose a king...and together they shall rule the planet. And their son shall rule the galaxy.", 
+    "genres": "Action, Adventure, Fantasy", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Carpet of Virility: Ken Marshall had one.", 
+                "id": "CarpetOfVirility"
+            }, 
+            {
+                "adjectives": [
+                    "numerous", 
+                    "sure", 
+                    "quick", 
+                    "other"
+                ], 
+                "role": "The Casanova: Kegan (Liam Neeson), who has a wife or lover in numerous towns (or so it is rumored). Two wives are known of for sure, and while he never falls prey to Oops I Forgot I Was Married, he does have to do some quick thinking and fancy maneuvering to keep them from finding out about each other.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "bear", 
+                    "violent"
+                ], 
+                "role": "Lyssa from Krull, who rebukes the advances of The Beast, holding faith in The Power of Love, which does bear out, although ultimately in a pretty violent way.", 
+                "id": "PrincessClassic"
+            }, 
+            {
+                "adjectives": [
+                    "plain", 
+                    "due"
+                ], 
+                "role": "Princess Classic: Lyssa. Though in her opening scenes she shows courage, strength of heart, and more than a little independence (for one thing, it's made quite plain that the alliance by marriage was her idea and she bullied her father into it), and when she is captured it's clearly due to lack of fighting skills and training, not lack of desire to fight back.", 
+                "id": "PrincessClassic"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: The Widow by Ynyr, in Backstory.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0085811", 
+    "similar": [
+        {
+            "shared": [
+                "TheCasanova", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "PrincessClassic", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "Legend", 
+            "name": "Legend", 
+            "poster_url": "Legend.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "CarpetOfVirility"
+            ], 
+            "shared_count": 2, 
+            "id": "AustinPowers", 
+            "name": "Austin Powers", 
+            "poster_url": "AustinPowers.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "WomanScorned"
+            ], 
+            "shared_count": 2, 
+            "id": "OzTheGreatAndPowerful", 
+            "name": "Oz: The Great and Powerful", 
+            "poster_url": "OzTheGreatAndPowerful.jpg"
+        }
+    ], 
+    "id": "Krull", 
+    "name": "Krull"
+}

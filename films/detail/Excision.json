@@ -1,0 +1,85 @@
+{
+    "plot": "This film is about Pauline, a young woman (18yo) who lives with her family and her younger sister Grace who has Cystic Fibrosis. Pauline has some delusions of being a great surgeon, and she also has some horrific dreams that she actually finds \"stimulating\" to say the least. Her family put up with her delusions and her school classmates find her annoying. But as this is all happening around her she has a plan, a plan that will leave them all shocked, and some people may not survive.", 
+    "genres": "Drama, Horror", 
+    "release_year": "2012", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Natalie and Abigail.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "cystic"
+                ], 
+                "role": "Ill Girl: Grace, who's dying of cystic fibrosis.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [
+                    "infamous", 
+                    "traditional"
+                ], 
+                "role": "Traci Lords, the infamous Jail Bait porn star, as a traditional Southern housewife.", 
+                "id": "Jailbait"
+            }
+        ]
+    }, 
+    "imdbid": "tt1984153", 
+    "poster_url": "Excision.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IllGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "LittleWomen", 
+            "name": "Little Women", 
+            "poster_url": "LittleWomen.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "TheGrudge", 
+            "name": "The Grudge", 
+            "poster_url": "TheGrudge.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "BarbieMariposa", 
+            "name": "Barbie Mariposa", 
+            "poster_url": "BarbieMariposa.jpg"
+        }, 
+        {
+            "shared": [
+                "IllGirl", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "BrightStar", 
+            "name": "Bright Star", 
+            "poster_url": "BrightStar.jpg"
+        }, 
+        {
+            "shared": [
+                "Jailbait", 
+                "AlphaBitch"
+            ], 
+            "shared_count": 2, 
+            "id": "GingerSnaps", 
+            "name": "Ginger Snaps", 
+            "poster_url": "GingerSnaps.jpg"
+        }
+    ], 
+    "id": "Excision", 
+    "name": "Excision"
+}

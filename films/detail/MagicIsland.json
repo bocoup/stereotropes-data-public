@@ -1,0 +1,78 @@
+{
+    "plot": "Jack Carlisle is a disillusioned 13-year old boy. His mother is always away at work since his father left. He decides to run away, as his mom won't miss him. As he is ready to leave, his nanny, convinces him to read this 'magic book'. The book is about a pirate adventure on Magic Island. As Jack reads the book, he is sucked into the world and goes on numerous adventures with Prince Morgan, while fleeing the evil Blackbeard the Pirate. He is even saved by Lily, a beautiful mermaid, whom he falls in love with.", 
+    "genres": "Action, Adventure, Family", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Rebel Prince: Morgan is a prince of England, he and his uncle (King George) aren't on the best of terms at the moment.", 
+                "id": "RebelPrince"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Brawn Hilda: Gwyn", 
+                "id": "BrawnHilda"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pirate Girl: Gwyn", 
+                "id": "PirateGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0113736", 
+    "poster_url": "MagicIsland.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrawnHilda", 
+                "PirateGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MuppetTreasureIsland", 
+            "name": "Muppet Treasure Island", 
+            "poster_url": "MuppetTreasureIsland.jpg"
+        }, 
+        {
+            "shared": [
+                "BrawnHilda"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "PirateGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "StTrinians", 
+            "name": "St. Trinian's", 
+            "poster_url": "StTrinians.jpg"
+        }, 
+        {
+            "shared": [
+                "PirateGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Pirates", 
+            "name": "Pirates", 
+            "poster_url": "Pirates.jpg"
+        }, 
+        {
+            "shared": [
+                "BrawnHilda"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }
+    ], 
+    "id": "MagicIsland", 
+    "name": "Magic Island"
+}

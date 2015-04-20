@@ -1,0 +1,131 @@
+{
+    "plot": "Since its premiere, Lord of the Dance has been captivating audiences and critics around the globe and has grossed over one billion dollars worldwide. Now fans will have a once in a lifetime opportunity, when the world famous Lord of the Dance and star Michael Flatley brings his vision to home audiences giving the viewer an unparalleled sense of the scale of the show as never seen before.", 
+    "genres": "Documentary, Music", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "several"
+                ], 
+                "role": "Shirtless Scene: Flatley has several.", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [
+                    "hard"
+                ], 
+                "role": "Sissy Villain: Averted. It's very hard to be a dancing evil villain and not come across as this, but Don Dorcha and his army pull it off flawlessly.", 
+                "id": "SissyVillain"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Gypsy Woman: Morraghan, the temptress.", 
+                "id": "HotGypsyWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Lady in Red: Morraghan", 
+                "id": "LadyInRed"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Lord Of The Dance 1997, features Morrighan, the temptress and Saoirse, the good spirit.", 
+                "id": "LightFeminineAndDarkFeminine"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms Fan Service: Plenty of this. Bras and everything.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Saiorse, the Irish Colleen.", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Morrighan, the temptress.", 
+                "id": "TheVamp"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White: Saoirse, the Irish Colleen.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0148422", 
+    "poster_url": "LordOfTheDance1997.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SissyVillain", 
+                "TheVamp", 
+                "ShirtlessScene", 
+                "MsFanservice", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 5, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "LadyInRed", 
+                "MsFanservice", 
+                "HotGypsyWoman", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 5, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "LadyInRed", 
+                "MsFanservice", 
+                "TheChick", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 4, 
+            "id": "GIJoeRetaliation", 
+            "name": "G.I. Joe: Retaliation", 
+            "poster_url": "GIJoeRetaliation.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ShirtlessScene", 
+                "MsFanservice", 
+                "HotGypsyWoman"
+            ], 
+            "shared_count": 4, 
+            "id": "VanHelsing", 
+            "name": "Van Helsing"
+        }, 
+        {
+            "shared": [
+                "SissyVillain", 
+                "ShirtlessScene", 
+                "MsFanservice", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 4, 
+            "id": "TronLegacy", 
+            "name": "TRON: Legacy", 
+            "poster_url": "TronLegacy.jpg"
+        }
+    ], 
+    "id": "LordOfTheDance1997", 
+    "name": "Lord Of The Dance"
+}

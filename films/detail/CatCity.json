@@ -1,0 +1,92 @@
+{
+    "plot": "In the year 80 AMM (After Mickey Mouse) on planet X the crime-syndicated Cats try to erase the Mouse-population once and for all. A scientist of the mice, prof. Fushimishi seems to have found the weapon against the threat - so Intermouse calls it's best, but now retired agent - Nick Grabowsky - to get the plans. As a distraction for the Cats, they also send a second agent - Seargent Lazy Dick - for the mission.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Sensitive", 
+                    "arrogant"
+                ], 
+                "role": "Sensitive Guy and Manly Man: The bossy and arrogant Buddy opposed to the Dumb Blonde guy Billy.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Pissy/Candy", 
+                    "much", 
+                    "effective", 
+                    "criminal"
+                ], 
+                "role": "Femme Fatale: Pissy/Candy's specialty according to the music video. We don't see much of this, but she is effective enough in being a criminal that we're inclined to believe her.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [
+                    "hyper", 
+                    "sexualized", 
+                    "conscious"
+                ], 
+                "role": "Tomboy and Girly Girl: While both rat girls are hyper sexualized, but Cookie is Dumb Blonde, girly and environmentally conscious (she is almost Valley Girl) wile Candy is Stoic, Hyper Competent and a legitimate badass.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0179955", 
+    "similar": [
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Bound", 
+            "name": "Bound", 
+            "poster_url": "Bound.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheIncredibles", 
+            "name": "The Incredibles"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }
+    ], 
+    "id": "CatCity", 
+    "name": "Cat City"
+}

@@ -1,0 +1,78 @@
+{
+    "plot": "A TV production crew are making a documentary about the infamous painter Mamiya Ichiro. When they start filming at his old home, they come under attack from the ghost of the painter's wife.", 
+    "genres": "Horror", 
+    "release_year": "1989", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "sure", 
+                    "next", 
+                    "other", 
+                    "same"
+                ], 
+                "role": "Mama Bear: Both the game and movie show just how screwed up this trope can be. To wit: Lady Mamiya wants to make sure her dead baby has \"playmates\" in the next world, so she kills a bunch of other children in the same way her child was accidentally killed (being burned in an incinerator). When someone digs up her baby's corpse, she returns as a ghost, terrorizing her mansion and brutally killing anyone who comes near.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Emi - Kazuo's daughter.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt0141861", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLandBeforeTime", 
+            "name": "The Land Before Time", 
+            "poster_url": "TheLandBeforeTime.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Alien", 
+            "name": "Alien", 
+            "poster_url": "Alien.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "RiseOfTheGuardians", 
+            "name": "Rise of the Guardians"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "JurassicParkIII", 
+            "name": "Jurassic Park III", 
+            "poster_url": "JurassicParkIII.jpg"
+        }
+    ], 
+    "id": "SweetHome", 
+    "name": "Sweet Home"
+}

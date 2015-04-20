@@ -1,0 +1,86 @@
+{
+    "plot": "Suzanne Stone (Maretto) knows exactly what she wants. She wants to be a television newscaster and she is willing to do anything to get what she wants. What she lacks in intelligence, she makes up for in cold determination and diabolical wiles. As she pursues her goal with relentless focus, she is forced to destroy anything and anyone that may stand in her way, regardless of the ultimate cost or means necessary.", 
+    "genres": "Comedy, Crime, Drama", 
+    "release_year": "1995", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Blondes are Evil", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scoop", 
+                "id": "HotScoop"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ice Queen:  Literally, at the end.", 
+                "id": "IceQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0114681", 
+    "poster_url": "ToDieFor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IceQueen", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "HotScoop"
+            ], 
+            "shared_count": 2, 
+            "id": "HighStakes", 
+            "name": "High Stakes", 
+            "poster_url": "HighStakes.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "CoolWorld", 
+            "name": "Cool World", 
+            "poster_url": "CoolWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "SleepyHollow", 
+            "name": "Sleepy Hollow", 
+            "poster_url": "SleepyHollow.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 2, 
+            "id": "DoubleIndemnity", 
+            "name": "Double Indemnity", 
+            "poster_url": "DoubleIndemnity.jpg"
+        }
+    ], 
+    "id": "ToDieFor", 
+    "name": "To Die For"
+}

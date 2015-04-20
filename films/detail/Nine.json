@@ -1,0 +1,99 @@
+{
+    "plot": "Arrogant, self-centered movie director Guido Contini finds himself struggling to find meaning, purpose, and a script for his latest film endeavor. With only a week left before shooting begins, he desperately searches for answers and inspiration from his wife, his mistress, his muse, and his mother. As his chaotic profession steadily destroys his personal life, Guido must find a balance between creating art and succumbing to its obsessive demands.", 
+    "genres": "Drama, Musical, Romance", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Beard of Sorrow: In the movie.", 
+                "id": "BeardOfSorrow"
+            }, 
+            {
+                "adjectives": [
+                    "own"
+                ], 
+                "role": "The Casanova: Deconstructed (although Guido is definitely more in the Looking for Love in All the Wrong Places category) and lampshaded with Guido's film, a filmed opera version about the Trope Namer starring Guido himself that resembles Gudio's own life a little too closely.", 
+                "id": "TheCasanova"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "large", 
+                    "beautiful", 
+                    "confident"
+                ], 
+                "role": "Seraghina from 9 is supposed to be a large woman who is beautiful and sexually confident, and teaches the protagonist about romance and sexuality in his childhood (the film adaptation had a decidedly Hollywood Pudgy Seraghina).", 
+                "id": "BigBeautifulWoman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Even the Girls Want Her: If you weren't a fan of Penelope Cruz before A Call to the Vatican, you will be.", 
+                "id": "EvenTheGirlsWantHer"
+            }, 
+            {
+                "adjectives": [
+                    "musical", 
+                    "sexual"
+                ], 
+                "role": "In the musical 9, Guido has one of his lovers dress up as a nun to relive his sexual awakening at the hands of a nun when he was a child.", 
+                "id": "NaughtyNuns"
+            }
+        ]
+    }, 
+    "imdbid": "tt0875034", 
+    "poster_url": "Nine.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "TheCasanova", 
+                "BigBeautifulWoman"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "BigBeautifulWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "BigBeautifulWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "EightAndAHalf", 
+            "name": "8\u00bd"
+        }, 
+        {
+            "shared": [
+                "TheCasanova", 
+                "EvenTheGirlsWantHer"
+            ], 
+            "shared_count": 2, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfSorrow", 
+                "TheCasanova"
+            ], 
+            "shared_count": 2, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }
+    ], 
+    "id": "Nine", 
+    "name": "Nine"
+}

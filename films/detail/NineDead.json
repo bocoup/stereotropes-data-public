@@ -1,0 +1,90 @@
+{
+    "plot": "Communication is the key for the survival of nine strangers who have been kidnapped by a masked gunman and told that one of them will die every ten minutes until they discover why they are there. Can they figure it out before they all die?", 
+    "genres": "Crime, Drama, Horror", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "responsible"
+                ], 
+                "role": "Papa Wolf: It turns out that the abductor's motivation is to get revenge on the ones he views as responsible for his son's death.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "only", 
+                    "other"
+                ], 
+                "role": "Final Girl: Turned on its head as the only reason Kelley is the Final Girl is because she kills the other two survivors.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "sole", 
+                    "dead"
+                ], 
+                "role": "In Nine Dead,  Kelley Murphy was the sole surviving female of the movie. In the end,  she shot the masked shooter, leaving 9 people dead in the room. Subverted in that  Kelley murdered the two men who should have survived with her to stay out of jail.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0959329", 
+    "poster_url": "NineDead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "EdenLake", 
+            "name": "Eden Lake", 
+            "poster_url": "EdenLake.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCollector", 
+            "name": "The Collector", 
+            "poster_url": "TheCollector.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "FreddyVsJason", 
+            "name": "Freddy vs. Jason", 
+            "poster_url": "FreddyVsJason.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDark", 
+            "name": "The Dark", 
+            "poster_url": "TheDark.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "NineDead", 
+    "name": "Nine Dead"
+}

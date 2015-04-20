@@ -1,0 +1,116 @@
+{
+    "plot": "Queen is a movie about growing up. Rani (Kangana Ranaut) is a Delhi girl from a conservative family who is ditched by her fianc\u00e9 just before her marriage. Shocked by this, she decides to set out on the planned honeymoon alone. As she travels the world and meets new people, she gains new experiences and discovers her own identity.", 
+    "genres": "Adventure, Comedy, Drama", 
+    "release_year": "2014", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Charmer: Marcello charms Rani the instant he meets her; even sending her running from his restaurant does nothing to diminish her crush on him.", 
+                "id": "TheCharmer"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Cool Big Sis: Vijaylakshmi looks after Rani in Paris and fulfills this role somewhat.", 
+                "id": "CoolBigSis"
+            }, 
+            {
+                "adjectives": [
+                    "good"
+                ], 
+                "role": "Cool Old Lady: Rani's grandmother, who explains to her that one day she'll look back on her broken engagement as a good thing, and smiles to herself when Rani announces her intention of going on her honeymoon alone.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [
+                    "n\u00e9e", 
+                    "large"
+                ], 
+                "role": "Hooker with a Heart of Gold: Vijaylakshmi's friend Roxette, n\u00e9e Ruksaar, works as a prostitute to support her large family and send her sisters to school and college.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "minimal"
+                ], 
+                "role": "Ms. Fanservice: Lisa Haydon as Vijaylakshmi spends most of her time onscreen with minimal clothing.", 
+                "id": "MsFanservice"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Ingenue: Rani has lived a sheltered life.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "Lad-ette"
+                ], 
+                "role": "The Lad-ette: Vijaylakshmi seems to spend all her time drinking and having sex.", 
+                "id": "TheLadette"
+            }
+        ]
+    }, 
+    "imdbid": "tt3322420", 
+    "poster_url": "Queen.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CoolBigSis", 
+                "TheIngenue", 
+                "TheCharmer"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "MsFanservice", 
+                "TheCharmer"
+            ], 
+            "shared_count": 3, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "TheIngenue", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "LemonadeJoe", 
+            "name": "Lemonade Joe", 
+            "poster_url": "LemonadeJoe.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "TheIngenue", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "BlackSwan", 
+            "name": "Black Swan", 
+            "poster_url": "BlackSwan.jpg"
+        }, 
+        {
+            "shared": [
+                "CoolBigSis", 
+                "TheIngenue", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "SuckerPunch", 
+            "name": "Sucker Punch", 
+            "poster_url": "SuckerPunch.jpg"
+        }
+    ], 
+    "id": "Queen", 
+    "name": "Queen"
+}

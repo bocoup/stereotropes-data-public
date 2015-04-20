@@ -1,0 +1,91 @@
+{
+    "plot": "Set in 2031, the entire world is frozen except for those aboard the Snowpiercer. For 17 years, the world's survivors are on a train hurtling around the globe creating their own economy and class system. Led by Curtis, a group of lower-class citizens living in squalor at the back of the train are determined to get to the front of the train and spread the wealth around. Each section of the train holds new surprises for the group who have to battle their way through. A revolution is underway.", 
+    "genres": "Action, Sci-Fi, Thriller", 
+    "release_year": "2013", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ice Queen: Mason, played by Tilda Swinton nonetheless.", 
+                "id": "IceQueen"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: Tanya insists on joining the rebellion's push to the engine because she wants to take her son Timmy back from the front-enders.", 
+                "id": "MamaBear"
+            }, 
+            {
+                "adjectives": [
+                    "Pregnant", 
+                    "full-term", 
+                    "several"
+                ], 
+                "role": "Pregnant Badass: The teacher is full-term at the time she's introduced, and  uses a submachine gun to mow down several of the tail-enders in the school car.", 
+                "id": "PregnantBadass"
+            }, 
+            {
+                "adjectives": [
+                    "totalitarian", 
+                    "un-sexy"
+                ], 
+                "role": "The Baroness: Mason is fervently devoted to the totalitarian ideals of Wilford and enforces them with an iron fist, although she is of the particularly un-sexy kind.", 
+                "id": "TheBaroness"
+            }
+        ]
+    }, 
+    "imdbid": "tt1706620", 
+    "poster_url": "Snowpiercer.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "IceQueen", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "AustinPowers", 
+            "name": "Austin Powers", 
+            "poster_url": "AustinPowers.jpg"
+        }, 
+        {
+            "shared": [
+                "PregnantBadass", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Dune", 
+            "name": "Dune", 
+            "poster_url": "Dune.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "AbrahamLincolnVampireHunter", 
+            "name": "Abraham Lincoln: Vampire Hunter", 
+            "poster_url": "AbrahamLincolnVampireHunter.jpg"
+        }, 
+        {
+            "shared": [
+                "PregnantBadass", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "Underworld", 
+            "name": "Underworld", 
+            "poster_url": "Underworld.jpg"
+        }
+    ], 
+    "id": "Snowpiercer", 
+    "name": "Snowpiercer"
+}

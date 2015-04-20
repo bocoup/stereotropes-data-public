@@ -1,0 +1,84 @@
+{
+    "plot": "A frightened woman is running barefoot on a highway, trying desperately to flag a car. After several cars pass her by, the woman sees another car approaching, and to make sure either the car stops - or, she's kioled, she stands in the path of an on-coming car. Private Investigator Mike Hammer is the one at the wheel, and after almost hitting the woman, he tells her to get in. The woman's name is Christina Bailey.. She is obviously on the run, being barefoot and wearing nothing but a trench coat, and the scent of fear. Whoever was after her eventually catches up with them. Christina has information they want, but dies while being questioned. The killers fake an accident by pushing Hammer's car off the road, but, he survives, waking up in hospital two weeks later. As Mikr starts to investigate Christina's death, he's told by the police to stay out of it, but, the hard-nosed PI proceeds anyways. Little did he know that Christina's secret would lead to death and destruction.", 
+    "genres": "Crime, Film-Noir, Mystery", 
+    "release_year": "1955", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "later", 
+                    "later", 
+                    "real"
+                ], 
+                "role": "Damsel in Distress: Christina Bailey and later her roommate Lily Carver. Subverted in  she is later revealed to be not the real Lily but Gabrielle, the mistress of the Big Bad.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale:  Lily Carver.", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Girl Friday: Velda", 
+                "id": "GirlFriday"
+            }
+        ]
+    }, 
+    "imdbid": "tt0048261", 
+    "poster_url": "KissMeDeadly.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "WildWildWest", 
+            "name": "Wild Wild West", 
+            "poster_url": "WildWildWest.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Metropolis", 
+            "name": "Metropolis", 
+            "poster_url": "Metropolis.jpg"
+        }, 
+        {
+            "shared": [
+                "GirlFriday", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }
+    ], 
+    "id": "KissMeDeadly", 
+    "name": "Kiss Me Deadly"
+}

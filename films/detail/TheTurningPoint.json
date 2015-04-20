@@ -1,0 +1,89 @@
+{
+    "plot": "The story of two women whose lives are dedicated to ballet. Deedee left her promising dance career to become a wife and mother and now runs a ballet school in Oklahoma. Emma stayed with a company and became a star though her time is nearly past. Both want what the other has and reflects back on missed chances as they are brought together again through Deedee's daughter who joins the company.", 
+    "genres": "Drama, Romance", 
+    "release_year": "1977", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Camp Gay: Arnold.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Camp Straight: Freddie.", 
+                "id": "CampStraight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Ingenue: Emilia.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "White-Dwarf"
+                ], 
+                "role": "White-Dwarf Starlet: DeeDee.", 
+                "id": "WhiteDwarfStarlet"
+            }
+        ]
+    }, 
+    "imdbid": "tt0076843", 
+    "poster_url": "TheTurningPoint.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CampStraight", 
+                "TheIngenue", 
+                "CampGay"
+            ], 
+            "shared_count": 3, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "EdWood", 
+            "name": "Ed Wood", 
+            "poster_url": "EdWood.jpg"
+        }, 
+        {
+            "shared": [
+                "CampStraight", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "SexAndTheCity", 
+            "name": "Sex and the City", 
+            "poster_url": "SexAndTheCity.jpg"
+        }, 
+        {
+            "shared": [
+                "WhiteDwarfStarlet", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheProducers", 
+            "name": "The Producers", 
+            "poster_url": "TheProducers.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TemptationIsland", 
+            "name": "Temptation Island"
+        }
+    ], 
+    "id": "TheTurningPoint", 
+    "name": "The Turning Point"
+}

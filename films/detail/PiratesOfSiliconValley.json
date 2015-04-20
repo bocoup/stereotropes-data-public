@@ -1,0 +1,80 @@
+{
+    "plot": "This is a semi-humorous biographical film about the men who made the world of technology what it is today, their struggles during college, the founding of their companies, and the ingenious actions they took to build up the global corporate empires of Apple Computer Corporation and Microsoft Inc.", 
+    "genres": "Biography, Drama", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Played straight in Gates segments, where Ballmer is portrayed as a younger Dirty Old Man and is regularly giving Gates flak for focusing on business over interacting with females.", 
+                "id": "DirtyOldMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Granola Girl: Steve Jobs' girlfriend Arlene.", 
+                "id": "GranolaGirl"
+            }, 
+            {
+                "adjectives": [
+                    "first", 
+                    "entire"
+                ], 
+                "role": "Pirates Of Silicon Valley: Steve Jobs's girlfriend, who had a daughter with him named Lisa. His first reaction when she breaks up with him is to fire the entire Apple Lisa dev team.", 
+                "id": "GranolaGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0168122", 
+    "poster_url": "PiratesOfSiliconValley.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "PracticalMagic", 
+            "name": "Practical Magic", 
+            "poster_url": "PracticalMagic.jpg"
+        }, 
+        {
+            "shared": [
+                "GranolaGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AHardDaysNight", 
+            "name": "A Hard Day's Night", 
+            "poster_url": "AHardDaysNight.jpg"
+        }, 
+        {
+            "shared": [
+                "DirtyOldMan"
+            ], 
+            "shared_count": 1, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }
+    ], 
+    "id": "PiratesOfSiliconValley", 
+    "name": "Pirates Of Silicon Valley"
+}

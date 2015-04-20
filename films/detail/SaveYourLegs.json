@@ -1,0 +1,63 @@
+{
+    "plot": "A cricketing odyssey from the suburbs to the subcontinent.  Save Your Legs! is the mystical story of a bold sporting adventure...", 
+    "genres": "Documentary", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Teddy in Save Your Legs is living in his mate Stavros' garage. Stavros' wife does not approve of this arrangement.", 
+                "id": "BasementDweller"
+            }
+        ]
+    }, 
+    "imdbid": "tt1773665", 
+    "similar": [
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "TheScore", 
+            "name": "The Score", 
+            "poster_url": "TheScore.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "WaynesWorld", 
+            "name": "Wayne's World", 
+            "poster_url": "WaynesWorld.jpg"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "BadlyDrawnRoy", 
+            "name": "Badly Drawn Roy"
+        }, 
+        {
+            "shared": [
+                "BasementDweller"
+            ], 
+            "shared_count": 1, 
+            "id": "Mallrats", 
+            "name": "Mallrats", 
+            "poster_url": "Mallrats.jpg"
+        }
+    ], 
+    "id": "SaveYourLegs", 
+    "name": "Save Your Legs"
+}

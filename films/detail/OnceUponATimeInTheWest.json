@@ -1,0 +1,127 @@
+{
+    "plot": "Story of a young woman, Mrs. McBain, who moves from New Orleans to frontier Utah, on the very edge of the American West. She arrives to find her new husband and family slaughtered, but by whom? The prime suspect, coffee-lover Cheyenne, befriends her and offers to go after the real killer, assassin gang leader Frank, in her honor. He is accompanied by Harmonica on his quest to get even.", 
+    "genres": "Western", 
+    "release_year": "1968", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Cheyenne's. Frank sports one in the flashback.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Frank.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "wear", 
+                    "usual", 
+                    "different", 
+                    "usual", 
+                    "humble", 
+                    "noble"
+                ], 
+                "role": "Averted in Once Upon a Time in the West. Henry Fonda planned to grow a beard as well as wear brown contact lenses to play the film's villain, but director Sergio Leone talked him out of it, since Fonda having his usual appearance in a role so different from his usual humble and noble characters would make it all the more shocking.", 
+                "id": "BeardOfEvil"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Determined Widow: Jill", 
+                "id": "DeterminedWidow"
+            }, 
+            {
+                "adjectives": [
+                    "new", 
+                    "new"
+                ], 
+                "role": "Jill McBane from Once Upon a Time in the West, although she's somewhat of a deconstruction since she was a Hooker with a Heart of Gold looking for a new life and arrives on the scene after her new family is massacred.", 
+                "id": "DeterminedWidow"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Hooker with a Heart of Gold: Jill is the most morally sound character in the film.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "page-quote"
+                ], 
+                "role": "Once Upon a Time in the West provides the page-quote, and Jill is also one of these (formerly).", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Miss Kitty: Jill", 
+                "id": "MissKitty"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Jill has a lot of moments of this, often against her wishes.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0064116", 
+    "poster_url": "OnceUponATimeInTheWest.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "BadassGrandpa", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "TransformersDarkOfTheMoon", 
+            "name": "Transformers: Dark of the Moon", 
+            "poster_url": "TransformersDarkOfTheMoon.jpg"
+        }, 
+        {
+            "shared": [
+                "HookerWithAHeartOfGold", 
+                "BadassGrandpa", 
+                "MsFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "Bunraku", 
+            "name": "Bunraku", 
+            "poster_url": "Bunraku.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 3, 
+            "id": "Comic8", 
+            "name": "Comic 8"
+        }, 
+        {
+            "shared": [
+                "MissKitty", 
+                "BadassGrandpa", 
+                "HookerWithAHeartOfGold"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHouseOfTheSpirits", 
+            "name": "The House of the Spirits", 
+            "poster_url": "TheHouseOfTheSpirits.jpg"
+        }, 
+        {
+            "shared": [
+                "BeardOfEvil", 
+                "MsFanservice", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }
+    ], 
+    "id": "OnceUponATimeInTheWest", 
+    "name": "Once Upon a Time in the West"
+}

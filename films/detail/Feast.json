@@ -1,0 +1,124 @@
+{
+    "plot": "In a remote bar, a newcomer advises the customers to seal the place up, as hungry monsters will soon attack them. The customers must quickly organize a strategy to defend themselves from the deadly creatures.", 
+    "genres": "Action, Comedy, Horror", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Bartender. Probably because he's played by the director's dad.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Dirty Coward:  Honey Pie in the first film.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [
+                    "impressive"
+                ], 
+                "role": "Gag Penis: Subverted; Lightning's penis reaches down to his kneecaps. Which would be a lot more impressive if not for the size of the rest of his body.", 
+                "id": "GagPenis"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "later"
+                ], 
+                "role": "Action Girl: Heroine and Tuffy (a.k.a. \"Heroine 2\") in the first movie, Biker Queen and her gang in later installments.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Final", 
+                    "first", 
+                    "past", 
+                    "first", 
+                    "first", 
+                    "second", 
+                    "third", 
+                    "new", 
+                    "second", 
+                    "third", 
+                    "crushed", 
+                    "giant"
+                ], 
+                "role": "Final Girl: Played straight, averted, deconstructed, and everything in between:  Heroine, despite being signposted as this in the first film,  is killed off twenty minutes before the end. Tuffy/Heroine manages to play is straight,  but we never see her again past the first film.  Honey Pie survives the first and second film mostly by dumb luck, and the third film's poster (and billing order) clearly wants us to believe she's going to be the new Final Girl,  she's killed ten seconds after the credits roll. Secrets of the second and third films appears to play this straight, but she's  crushed by a giant robot right before the credits.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "shot", 
+                    "second", 
+                    "real"
+                ], 
+                "role": "In Feast the character identified as \"Heroine\" (Occupation: Wear tanktops, tote shotgun, save day) is accidentally shot, knocked out a second floor window and swarmed by monsters about halfway through the movie. We then get the real Final Girl, Tuffy, who is now credited as \"Heroine #2\".", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0426459", 
+    "poster_url": "Feast.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "DiaryOfTheDead", 
+            "name": "Diary of the Dead", 
+            "poster_url": "DiaryOfTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "Ben10", 
+            "name": "Ben 10"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheDescent", 
+            "name": "The Descent", 
+            "poster_url": "TheDescent.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl", 
+                "ActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }, 
+        {
+            "shared": [
+                "FinalGirl", 
+                "ActionGirl", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 3, 
+            "id": "BuffyTheVampireSlayer", 
+            "name": "Buffy the Vampire Slayer"
+        }
+    ], 
+    "id": "Feast", 
+    "name": "Feast"
+}

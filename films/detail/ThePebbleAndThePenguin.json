@@ -1,0 +1,90 @@
+{
+    "plot": "He must present his special pebble to her before the pebble festival is over, or lose his chance forever. He just manages to pluck up the nerve, when the evil Drake knocks him off the ice, and Hubie is swept away. Picked up and caged by a ship, he meets the streetwise Rocko, whose only wishes are to live in sunny climates and learn to fly. Together they escape, and Hubie convinces Rocko to help him find Antarctica. When they reach the home ice, Hubie must defeat his worst enemy, and Rocko must face up to the reality of his dream of flying.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "1995", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "surprising"
+                ], 
+                "role": "Considering their nature, it wouldn't be surprising that they ran off during then.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Drake. In fact, his characterization can be summed up as \"Gaston as a penguin\".", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "Sensitive"
+                ], 
+                "role": "Sensitive Guy and Manly Man: Hubie and Rocko.", 
+                "id": "SensitiveGuyAndManlyMan"
+            }, 
+            {
+                "adjectives": [
+                    "Top-Heavy"
+                ], 
+                "role": "Top-Heavy Guy: Drake.", 
+                "id": "TopHeavyGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0114108", 
+    "poster_url": "ThePebbleAndThePenguin.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "TheToweringInferno", 
+            "name": "The Towering Inferno", 
+            "poster_url": "TheToweringInferno.gif"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 2, 
+            "id": "Transformers", 
+            "name": "Transformers"
+        }, 
+        {
+            "shared": [
+                "SensitiveGuyAndManlyMan", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TwentyOneJumpStreet", 
+            "name": "21 Jump Street", 
+            "poster_url": "TwentyOneJumpStreet.jpg"
+        }
+    ], 
+    "id": "ThePebbleAndThePenguin", 
+    "name": "The Pebble and the Penguin"
+}

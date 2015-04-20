@@ -1,0 +1,102 @@
+{
+    "plot": "Andy is a new teacher and an inner city high school that is like nothing he has ever seen before. The students have to go through a metal detector when they go through the front door and everything is basically run by a tough kid named Peter Stegman. Soon, Andy and Stegman become enemies and Stegman will stop at nothing to protect his turf and drug dealing business.", 
+    "genres": "Action, Crime, Drama", 
+    "release_year": "1982", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Disappeared Dad: Implied to be Stegman's Freudian Excuse.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Papa Wolf", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Blondes are Evil: Patsy.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Fanservice Extra: One girl at the club who flashes her boobs. For the other side, the shirtless band member on stage.", 
+                "id": "FanserviceExtra"
+            }, 
+            {
+                "adjectives": [
+                    "bad", 
+                    "clueless"
+                ], 
+                "role": "Mama Bear: Stegman's mother certainly flies into a rage when Andy supposedly assaults him. Too bad she's so clueless.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0083739", 
+    "poster_url": "ClassOf1984.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "BlondesAreEvil", 
+                "MamaBear"
+            ], 
+            "shared_count": 4, 
+            "id": "DarkShadows", 
+            "name": "Dark Shadows", 
+            "poster_url": "DarkShadows.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "Dumbo", 
+            "name": "Dumbo", 
+            "poster_url": "Dumbo.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "MamaBear"
+            ], 
+            "shared_count": 3, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "DisappearedDad", 
+                "BlondesAreEvil"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "ClassOf1984", 
+    "name": "Class Of"
+}

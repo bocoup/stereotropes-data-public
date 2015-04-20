@@ -1,0 +1,105 @@
+{
+    "plot": "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing 55-year-old Bruce Wayne back into the cape and cowl. But, does he still have what it takes to fight crime in a new era?", 
+    "genres": "Animation, Action", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "late", 
+                    "mid-to-late", 
+                    "life-saving", 
+                    "same", 
+                    "same", 
+                    "powerful"
+                ], 
+                "role": "Badass Grandpa: Batman, who's now in his late 50s. Commissioner Gordon, who's turning 70, and takes down a much younger Mutant who had the drop on him with a machine gun. Alfred must be in his mid-to-late 80's, yet he's still carrying on his butlering duties, and performing life-saving surgery on his boss when the need arises. Ollie Queen, AKA Green Arrow, is presumably at least the same age as Batman and is missing an arm but still kicks ass. Superman is also around the same age as Batman, despite not looking it, and is still as powerful as ever...  until he takes a nuke to the face... And less sympathetically, the Joker too.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [
+                    "little"
+                ], 
+                "role": "Dumb Muscle: Batman accuses the Mutant Leader of being one. Rob and Don, at least in Bruno's opinion. Invoked by Batman about Superman, calling him out for being little more than a stooge doing the government's muscle work.", 
+                "id": "DumbMuscle"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Walking Shirtless Scene: The Mutant Leader. A rare female one with Bruno, with only Swastikas painted over her breasts.", 
+                "id": "WalkingShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "old"
+                ], 
+                "role": "Action Girl: Carrie Kelley, a 13 year old girl who decides to fight gang members and psychopaths as Robin.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Carrie and her friend Michelle.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt2313197", 
+    "poster_url": "BatmanTheDarkKnightReturns.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl", 
+                "DumbMuscle"
+            ], 
+            "shared_count": 3, 
+            "id": "Comic8", 
+            "name": "Comic 8"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "TomBoyAndGirlyGirl", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLEGOMovie", 
+            "name": "The LEGO Movie", 
+            "poster_url": "TheLEGOMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "LegendOfTheSeeker", 
+            "name": "Legend of the Seeker"
+        }, 
+        {
+            "shared": [
+                "WalkingShirtlessScene", 
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "KungFuPanda", 
+            "name": "Kung Fu Panda", 
+            "poster_url": "KungFuPanda.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }
+    ], 
+    "id": "BatmanTheDarkKnightReturns", 
+    "name": "Batman: The Dark Knight Returns"
+}

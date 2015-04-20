@@ -1,0 +1,88 @@
+{
+    "plot": "Ana, a young beautiful nurse finishes her day-shift at the hospital to return home to her beloved husband, they make love and sleep together. The next day, after her husband is killed by her neighbor next door, he suddenly comes back to life. She discovers the chaos happening in her neighborhood and escapes from her home. Soon after coming to her senses in the woods, she encounters a cop and other survivors, they decide to find safety in a mall. Soon more survivors come, and they learn that if they want to stay alive, they should stick together as the world is overrun by an army of undead. Can they survive the horror in this horrific global chaos? When there is no more room in hell, the dead will walk the earth", 
+    "genres": "Action, Horror, Sci-Fi", 
+    "release_year": "2004", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "first", 
+                    "entire", 
+                    "pregnant", 
+                    "pregnant", 
+                    "helpful"
+                ], 
+                "role": "Dawn of the Dead. The actress playing Francine famously refused to be just another Screaming Woman; however during the first confrontation at the airport she just stands there while her boyfriend is fighting with a zombie, neither running nor helping. She does get better though.\n The 2004 remake gives us Luda, who's entire purpose for being is to 1.) Scream, 2.) be pregnant, and 3.) turn into a pregnant zombie and have a zombie baby. Needless to say, she isn't entirely helpful.", 
+                "id": "NeutralFemale"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Neutral Female: The actress playing Francine famously refused to be just another Screaming Woman. However, during the first confrontation at the airport she just stands there while her boyfriend is fighting with a zombie, neither running nor helping. She does get better though.", 
+                "id": "NeutralFemale"
+            }, 
+            {
+                "adjectives": [
+                    "original"
+                ], 
+                "role": "The original script for Dawn of the Dead has Francine screaming a bit. The actress refused, saying that it would undermine the character's strength.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0363547", 
+    "poster_url": "DawnOfTheDead.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "IndianaJonesAndTheTempleOfDoom", 
+            "name": "Indiana Jones and the Temple of Doom", 
+            "poster_url": "IndianaJonesAndTheTempleOfDoom.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "ManosTheHandsOfFate", 
+            "name": "Manos The Hands of Fate", 
+            "poster_url": "ManosTheHandsOfFate.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Eegah", 
+            "name": "Eegah!"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Batman", 
+            "name": "Batman", 
+            "poster_url": "Batman.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "RawDeal", 
+            "name": "Raw Deal", 
+            "poster_url": "RawDeal.jpg"
+        }
+    ], 
+    "id": "DawnOfTheDead", 
+    "name": "Dawn of the Dead"
+}

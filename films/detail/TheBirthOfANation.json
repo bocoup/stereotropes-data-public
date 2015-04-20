@@ -1,0 +1,99 @@
+{
+    "plot": "Two brothers, Phil and Ted Stoneman, visit their friends in Piedmont, South Carolina: the family Cameron. This friendship is affected by the Civil War, as the Stonemans and the Camerons must join up opposite armies. The consequences of the War in their lives are shown in connection to major historical events, like the development of the Civil War itself, Lincoln's assassination, and the birth of the Ku Klux Klan.", 
+    "genres": "Drama, History, Romance", 
+    "release_year": "1915", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "biracial"
+                ], 
+                "role": "Scary Black Man: Gus. And an even scarier biracial, Silas Lynch.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "later"
+                ], 
+                "role": "Damsel in Distress: Flora Cameron and later, Elsie Stoneman. In the book, Marion Lenoir and her mother, Jeanine.", 
+                "id": "DamselInDistress"
+            }, 
+            {
+                "adjectives": [
+                    "white", 
+                    "black", 
+                    "common", 
+                    "white", 
+                    "black", 
+                    "employer/master", 
+                    "important"
+                ], 
+                "role": "Never Mess with Granny: In The Birth Of A Nation, we have an overweight elderly housekeeper leap into action and save her employer, knocking down at least one ruffian and two soldiers in the process. Interesting for a white supremacist racist work, the heroine is black and the man she's saving is white. It was a common belief at the time, at least among Southern whites, that African-Americans had been better off, and happier, as slaves, until they were \"stirred up\" by Northern interlopers. A white supremacist racist work might easily see propagating that trope via a scene where a black woman leaps to the defense of her beloved employer/master as more important than portraying an individual white man's superiority over an individual black woman.", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Vamp: Lydia Brown.", 
+                "id": "TheVamp"
+            }
+        ]
+    }, 
+    "imdbid": "tt0004972", 
+    "poster_url": "TheBirthOfANation.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "TheVamp", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "OnceUponATimeInMexico", 
+            "name": "Once upon a Time in Mexico", 
+            "poster_url": "OnceUponATimeInMexico.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Taken", 
+            "name": "Taken", 
+            "poster_url": "Taken.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Hook", 
+            "name": "Hook", 
+            "poster_url": "Hook.jpg"
+        }
+    ], 
+    "id": "TheBirthOfANation", 
+    "name": "The Birth of a Nation"
+}

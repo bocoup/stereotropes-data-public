@@ -1,0 +1,160 @@
+{
+    "plot": "Karen Davis is an American Nurse moves to Tokyo and encounter a supernatural spirit who is vengeful and often possesses its victims. A series of horrifying and mysterious deaths start to occur, with the spirit passing its curse onto each victim. Karen must now find away to break this spell, before she becomes its next victim.", 
+    "genres": "Horror, Mystery, Thriller", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Takeo Saeki from The Grudge series. It was his insane jealousy and how he acted upon it that started the curse in the first place.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "third", 
+                    "crazy"
+                ], 
+                "role": "Shirtless Scene: Max has one in the third movie. Shame he happens to be possessed and crazy at the time.", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Alpha Bitch: Vanessa.", 
+                "id": "AlphaBitch"
+            }, 
+            {
+                "adjectives": [
+                    "pleasant", 
+                    "straight", 
+                    "principal"
+                ], 
+                "role": "Blondes are Evil: Probably stretching this a bit, but Vanessa is most certainly not a pleasant person. (Perhaps played a little more straight when she becomes a part of the curse.) Same with the principal when she too becomes a part of the curse.", 
+                "id": "BlondesAreEvil"
+            }, 
+            {
+                "adjectives": [
+                    "apparent"
+                ], 
+                "role": "Broken Bird: Peter Kirk's wife, Maria, by the time Karen seeks her out. Losing her husband in an apparent suicide was evidently not kind to her.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [
+                    "Final", 
+                    "first", 
+                    "second", 
+                    "former", 
+                    "other", 
+                    "last"
+                ], 
+                "role": "Final Girl: Karen in the first film and Lisa in the third. The second film subverts this  with Aubrey being Dead All Along prior to both Allison and Jake's story lines (with the former's still taking place in 2004 while the other two take place in 2006) and with Kayako killing off Allison in the last minute of the film, making Jake the Sole Survivor.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "angry"
+                ], 
+                "role": "Housewife: Kayako (before she was killed and became a really, really angry ghost, that is).", 
+                "id": "HouseWife"
+            }, 
+            {
+                "adjectives": [
+                    "severe"
+                ], 
+                "role": "Ill Girl: Rose, who suffers from severe breathing problems and has to rely on an oxygen generator when she over-exerts herself.", 
+                "id": "IllGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Jake and Lacey's mother.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "Stringy-Haired", 
+                    "second", 
+                    "first", 
+                    "Japanese", 
+                    "theatrical", 
+                    "same", 
+                    "curse-possessed"
+                ], 
+                "role": "Stringy-Haired Ghost Girl: Kayako. Aubrey ends up as one by the end of the second movie, as well (mimicking the ending of the first Japanese theatrical release, in which Rika suffers the same fate). Naoko after she is killed by a curse-possessed Max in The Grudge 3. Kayako's victims: Yoko, Miyuki, and Vanessa, become onryo as well.", 
+                "id": "StringyHairedGhostGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman in White: Kayako.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0391198", 
+    "poster_url": "TheGrudge.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BrokenBird", 
+                "ShirtlessScene", 
+                "IllGirl", 
+                "WomanInWhite", 
+                "MissingMom"
+            ], 
+            "shared_count": 5, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "BlondesAreEvil", 
+                "AlphaBitch", 
+                "WomanInWhite", 
+                "FinalGirl"
+            ], 
+            "shared_count": 4, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "BrokenBird", 
+                "WomanInWhite"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "StringyHairedGhostGirl", 
+                "ShirtlessScene", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheCabinInTheWoods", 
+            "name": "The Cabin in the Woods", 
+            "poster_url": "TheCabinInTheWoods.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy", 
+                "WomanInWhite", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHunchbackOfNotreDame", 
+            "name": "The Hunchback of Notre Dame", 
+            "poster_url": "TheHunchbackOfNotreDame.jpg"
+        }
+    ], 
+    "id": "TheGrudge", 
+    "name": "The Grudge"
+}

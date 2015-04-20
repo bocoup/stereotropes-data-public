@@ -1,0 +1,79 @@
+{
+    "plot": "A documentary-style drama which questions the existence of a monster in an Arkansas swamp. It is really more of a glimpse at lower-class swamp culture from the seventies, though, than a monster flick.", 
+    "genres": "Drama, Horror, Mystery", 
+    "release_year": "1972", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hysterical", 
+                    "open", 
+                    "fair", 
+                    "much"
+                ], 
+                "role": "Hysterical Woman: Fouke Monster's appearance causes three women to go into hysterics when it grabs for them through an open window. To be fair, the men didn't do much better.", 
+                "id": "HystericalWoman"
+            }, 
+            {
+                "adjectives": [
+                    "Mary-Beth"
+                ], 
+                "role": "Screaming Woman: Mary-Beth starts screaming when she sees the Fouke Monster outside from the window.", 
+                "id": "ScreamingWoman"
+            }
+        ]
+    }, 
+    "imdbid": "tt0068837", 
+    "poster_url": "TheLegendOfBoggyCreek.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HystericalWoman", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "BrideOfFrankenstein", 
+            "name": "Bride of Frankenstein"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "StageFrightAquarius", 
+            "name": "StageFright -Aquarius-"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "Alien", 
+            "name": "Alien", 
+            "poster_url": "Alien.jpg"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman", 
+                "ScreamingWoman"
+            ], 
+            "shared_count": 2, 
+            "id": "TheStoneTape", 
+            "name": "The Stone Tape", 
+            "poster_url": "TheStoneTape.jpg"
+        }, 
+        {
+            "shared": [
+                "HystericalWoman"
+            ], 
+            "shared_count": 1, 
+            "id": "TheFog", 
+            "name": "The Fog", 
+            "poster_url": "TheFog.jpg"
+        }
+    ], 
+    "id": "TheLegendOfBoggyCreek", 
+    "name": "The Legend of Boggy Creek"
+}

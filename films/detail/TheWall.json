@@ -1,0 +1,95 @@
+{
+    "plot": "A woman inexplicably finds herself cut off from all human contact when an invisible, unyielding wall suddenly surrounds the countryside. Accompanied by her loyal dog Lynx, she becomes immersed in a world untouched by civilization and ruled by the laws of nature.", 
+    "genres": "Drama, Fantasy", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "absent"
+                ], 
+                "role": "Disappeared Dad: Pink's father was killed in World War II, when Pink was just a child, and, thus, is absent from his life.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "normal"
+                ], 
+                "role": "Henpecked Husband: The teacher. Subverted with Pink himself. His wife wants normal human interaction, but Pink ignores her desires.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Japanese"
+                ], 
+                "role": "Black Widow: Pink imagines his wife as a praying mantis/dragon hybrid with flaming hair. Some fans have also noted her resemblance to Rokurokubi from Japanese mythology.", 
+                "id": "BlackWidow"
+            }, 
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "My Beloved Smother: Of COURSE Momma's gonna help build your wall... Mother, Did it need to be so...High?", 
+                "id": "MyBelovedSmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt1745686", 
+    "poster_url": "TheWall.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "MaidInManhattan", 
+            "name": "Maid In Manhattan", 
+            "poster_url": "MaidInManhattan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 2, 
+            "id": "WhiteFang", 
+            "name": "White Fang", 
+            "poster_url": "WhiteFang.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManchurianCandidate", 
+            "name": "The Manchurian Candidate", 
+            "poster_url": "TheManchurianCandidate.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "GBF", 
+            "name": "GBF", 
+            "poster_url": "GBF.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband", 
+                "MyBelovedSmother"
+            ], 
+            "shared_count": 2, 
+            "id": "BigBadWolves", 
+            "name": "Big Bad Wolves", 
+            "poster_url": "BigBadWolves.jpg"
+        }
+    ], 
+    "id": "TheWall", 
+    "name": "The Wall"
+}

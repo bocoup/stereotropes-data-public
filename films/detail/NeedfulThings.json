@@ -1,0 +1,79 @@
+{
+    "plot": "Leland Gaunt comes to Sheriff Alan Pangborn's pleasant little New England town, and opens a store. What this kindly Satan sells is whatever you need, from a surcease from pain to an object which you have always coveted. The Faustian price is, of course, corruption, and soon the poor sheriff's town is wracked by jealousy, spite, and violence.", 
+    "genres": "Crime, Drama, Fantasy", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Henpecked Husband: Pete Jerzyck, Wilma's husband.", 
+                "id": "HenpeckedHusband"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Peter Jerzyk from Stephen King's Needful Things.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "stupid"
+                ], 
+                "role": "Lonely Doll Girl: Myrtle Keeton likes to be alone with the dolls she collects because they don't call her stupid, unlike her husband.", 
+                "id": "LonelyDollGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0107665", 
+    "poster_url": "NeedfulThings.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "SevenFacesOfDrLao", 
+            "name": "7 Faces of Dr. Lao", 
+            "poster_url": "SevenFacesOfDrLao.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "RebelWithoutACause", 
+            "name": "Rebel Without a Cause", 
+            "poster_url": "RebelWithoutACause.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBestMan", 
+            "name": "The Best Man", 
+            "poster_url": "TheBestMan.jpg"
+        }
+    ], 
+    "id": "NeedfulThings", 
+    "name": "Needful Things"
+}

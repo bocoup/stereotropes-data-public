@@ -1,0 +1,143 @@
+{
+    "plot": "Based on Gail Carson Levine's award winning novel, this is the story of Ella, a young woman who was given a \"gift\" of obedience by a fairy named Lucinda. She must obey anything anyone tells her to do. When her mother passes away, she is cared for by her thoughtless and greedy father who remarries a loathsome woman with two treacherous daughters. This modern-day, fantasy Cinderella story features fairies, ogres and elves...as well as a hero in the guise of Prince Charmont, whom Ella falls in love with. Unlike Cinderella though, she must depend on herself and her intelligence to get her through her troubles and find Lucinda in order for her \"curse\" to be broken!", 
+    "genres": "Comedy, Family, Fantasy", 
+    "release_year": "2004", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first", 
+                    "second"
+                ], 
+                "role": "In Ella Enchanted Prince Charmont gallantly saves Ella's life exactly three times, first from a speeding carriage, second from an ogre's boiling pot and then despite himself he has her back in the court battle.", 
+                "id": "KnightInShiningArmor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Knight in Shining Armor: Prince Charmont, who gallantly saves Ella's life exactly three times.", 
+                "id": "KnightInShiningArmor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Prince Char. In one scene he's removed his shirt and vest to allow Ella to put a bandage on his arm, leaving him in nothing but leather pants.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "'Charmant", 
+                    "French", 
+                    "full"
+                ], 
+                "role": "Prince Charming: Levine plays on this: the prince's name is Charmont, which is a letter away from 'Charmant,' the French word for 'Charming.' Playing it further, he actually hates his full name and only likes to be called \"Char\".", 
+                "id": "PrinceCharming"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "partial"
+                ], 
+                "role": "Ella Enchanted: As a partial send-up of Cinderella, Ella also lost her mother and ended up with a Wicked Stepmother.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "young"
+                ], 
+                "role": "Missing Mom: Ella's mother dies when she's young.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Ella's mom dies of illness early in the book.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Plucky Girl: Ella.", 
+                "id": "PluckyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Dame Olga and her daughters Hattie and Olive.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Soapbox Sadie: Ella and Areida become this.", 
+                "id": "SoapBoxSadie"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wicked Stepmother: Kicks in with Dame Olga almost immediately after the marriage.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0327679", 
+    "poster_url": "EllaEnchanted.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PrinceCharming", 
+                "MissingMom", 
+                "PluckyGirl", 
+                "MrFanservice", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 5, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "PrinceCharming", 
+                "PluckyGirl", 
+                "MrFanservice", 
+                "MissingMom"
+            ], 
+            "shared_count": 4, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl", 
+                "MrFanservice", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "PluckyGirl", 
+                "MrFanservice", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "PeterPan", 
+            "name": "Peter Pan", 
+            "poster_url": "PeterPan.jpg"
+        }, 
+        {
+            "shared": [
+                "RichBitch", 
+                "MrFanservice", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }
+    ], 
+    "id": "EllaEnchanted", 
+    "name": "Ella Enchanted"
+}

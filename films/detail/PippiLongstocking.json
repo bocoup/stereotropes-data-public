@@ -1,0 +1,138 @@
+{
+    "plot": "Pippi Longstocking, a child of incredible strength, moves by herself to a Swedish town with her monkey, horse, and a bag full of gold coins. She befriends two children, Annika and Tommy, shocks the adults of the town, defends herself from bandits, and has a reunion with her seafaring father.", 
+    "genres": "Adventure, Family", 
+    "release_year": "1969", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Stout Strength: Pippi's father, Captain Efraim Longstocking.", 
+                "id": "StoutStrength"
+            }, 
+            {
+                "adjectives": [
+                    "same", 
+                    "other"
+                ], 
+                "role": "Pippi Longstocking from the books of the same name is the strongest girl in the world. Amongst other things, she can lift her horse singlehanded.", 
+                "id": "WorldsStrongestMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "tomboyish", 
+                    "slapdash", 
+                    "eccentric", 
+                    "delicious"
+                ], 
+                "role": "Feminine Women Can Cook: The tomboyish Pippi subverts this trope; her approach to cooking is somewhat slapdash and eccentric, but as is frequently demonstrated, the results tend to be quite delicious.", 
+                "id": "FeminineWomenCanCook"
+            }, 
+            {
+                "adjectives": [
+                    "Girlish"
+                ], 
+                "role": "Girlish Pigtails: Duh!", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [
+                    "horizontal", 
+                    "braided", 
+                    "childish"
+                ], 
+                "role": "Pippi Longstocking, of course, is usually depicted with her red hair in two horizontal braided pigtails sticking out either side of her head. This is entirely in keeping with her zany, childish glee.", 
+                "id": "GirlishPigtails"
+            }, 
+            {
+                "adjectives": [
+                    "romantic"
+                ], 
+                "role": "Manic Pixie Dream Girl: Pippi for Tommy and Annika, though obviously without the romantic angle.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Died when Pippi was a baby. Pippi imagines her as an angel in Heaven who watches over her.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Pippi Longstocking a.k.a. Pippilotta Victualia Rullgardina Krusmynta Efraimsdotter L\u00e5ngstrump. Friendly? Yes. Strange? Oh hell yes.", 
+                "id": "StrangeGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Pippi and Annika.", 
+                "id": "TomBoyAndGirlyGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy Princess: After her father is made the king of Kurrekurredutt Island, Pippi becomes a princess by default. Doubles as Modest Royalty since she discourages her subjects from bowing to her and prefers to be treated as one of them.", 
+                "id": "TomboyPrincess"
+            }
+        ]
+    }, 
+    "imdbid": "tt0366905", 
+    "poster_url": "PippiLongstocking.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WorldsStrongestMan", 
+                "StoutStrength", 
+                "MissingMom"
+            ], 
+            "shared_count": 3, 
+            "id": "Godzilla2014", 
+            "name": "Godzilla ", 
+            "poster_url": "Godzilla2014.jpg"
+        }, 
+        {
+            "shared": [
+                "TomboyPrincess", 
+                "GirlishPigtails", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "TomboyPrincess", 
+                "MissingMom", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "TheLittleMermaid", 
+            "name": "The Little Mermaid", 
+            "poster_url": "TheLittleMermaid.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom", 
+                "TomBoyAndGirlyGirl", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "MissingMom", 
+                "GirlishPigtails", 
+                "ManicPixieDreamGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "FindingNemo", 
+            "name": "Finding Nemo", 
+            "poster_url": "FindingNemo.jpg"
+        }
+    ], 
+    "id": "PippiLongstocking", 
+    "name": "Pippi Longstocking"
+}

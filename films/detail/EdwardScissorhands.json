@@ -1,0 +1,111 @@
+{
+    "plot": "In a castle high on top of a hill lives an inventor's greatest creation - Edward, a near-complete person. The creator died before he could finish Edward's hands; instead, he is left with metal scissors for hands. Since then, he has lived alone, until a kind lady called Peg discovers him and welcomes him into her home. At first, everyone welcomes him into the community, but soon things begin to take a change for the worse.", 
+    "genres": "Drama, Fantasy, Romance", 
+    "release_year": "1990", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "unaware"
+                ], 
+                "role": "Bumbling Dad: Bill Boggs, who spends much of the film cheerily unaware of what's going on.", 
+                "id": "BumblingDad"
+            }, 
+            {
+                "adjectives": [
+                    "nasty"
+                ], 
+                "role": "Jerk Jock: Jim is an especially nasty one.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [
+                    "not-undeserved"
+                ], 
+                "role": "Jim in Edward Scissorhands. Meets a not-undeserved violent end, but partly because the hero is The Grotesque, it leads only to a Bittersweet Ending.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "About 80% of the town from Edward Scissorhands seems to be composed of these.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gossipy Hens: The women in town can't help themselves from gossiping about Edward.", 
+                "id": "GossipyHens"
+            }, 
+            {
+                "adjectives": [
+                    "capable", 
+                    "young"
+                ], 
+                "role": "Edward Scissorhands is only barely saved from the clutches of Joyce, who could be maybe 20 or 30 years older than him. Who also might technically be younger than him, since he is not apparently capable of aging, but it hardly counts, with his childlike mentality and looking like a young Johnny Depp.", 
+                "id": "MrsRobinson"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Woman Scorned: Joyce spreads nasty rumors about Edward after he rejects her attempt at seduction.", 
+                "id": "WomanScorned"
+            }
+        ]
+    }, 
+    "imdbid": "tt0099487", 
+    "poster_url": "EdwardScissorhands.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanScorned", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Shrooms", 
+            "name": "Shrooms", 
+            "poster_url": "Shrooms.jpg"
+        }, 
+        {
+            "shared": [
+                "MrsRobinson", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "DetroitRockCity", 
+            "name": "Detroit Rock City", 
+            "poster_url": "DetroitRockCity.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad", 
+                "GossipyHens"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "HoneyIShrunkTheKids", 
+            "name": "Honey, I Shrunk the Kids", 
+            "poster_url": "HoneyIShrunkTheKids.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "DiaryOfAWimpyKid", 
+            "name": "Diary of a Wimpy Kid", 
+            "poster_url": "DiaryOfAWimpyKid.jpg"
+        }
+    ], 
+    "id": "EdwardScissorhands", 
+    "name": "Edward Scissorhands"
+}

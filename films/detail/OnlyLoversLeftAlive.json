@@ -1,0 +1,75 @@
+{
+    "plot": "Adam (Tom Hiddleston), an underground musician reunites with his lover for centuries (Tilda Swinton) after he becomes depressed and tired with the direction human society has taken. Their love is interrupted and tested by her wild and uncontrollable little sister (Mia Wasikowska).", 
+    "genres": "Drama, Horror, Romance", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "musician"
+                ], 
+                "role": "Cultured Badass: Both Adam and Eve. Adam is a Gadgeteer Genius who is also a musician, and Eve loves books of all kinds.", 
+                "id": "CulturedBadass"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Bratty Teenage Daughter: Ava is actually Eve's \"sister\", but she acts like this.", 
+                "id": "BrattyTeenageDaughter"
+            }
+        ]
+    }, 
+    "imdbid": "tt1714915", 
+    "poster_url": "OnlyLoversLeftAlive.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CulturedBadass", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "Intouchables", 
+            "name": "Intouchables", 
+            "poster_url": "Intouchables.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass", 
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 2, 
+            "id": "Clueless", 
+            "name": "Clueless"
+        }, 
+        {
+            "shared": [
+                "BrattyTeenageDaughter"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "CulturedBadass"
+            ], 
+            "shared_count": 1, 
+            "id": "TheGrey", 
+            "name": "The Grey", 
+            "poster_url": "TheGrey.jpg"
+        }
+    ], 
+    "id": "OnlyLoversLeftAlive", 
+    "name": "Only Lovers Left Alive"
+}

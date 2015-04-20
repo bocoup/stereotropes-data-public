@@ -1,0 +1,78 @@
+{
+    "plot": "At a summer camp for youths, cockey pre-teen calls out the name of mass serial killer \"Madman Marz\". Suddenly, counselors are being maimed and slaughtered in various ways by the backwoodsman who has returned when his name was called.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "1982", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Action Girl: Betsy. When she sees Marz prowling the camp grounds, her first reaction is to get the gun and hunt him.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Final"
+                ], 
+                "role": "Final Girl: Betsy.  Or not.   Richie makes it in the end making him the Final Guy.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0082696", 
+    "poster_url": "Madman.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hausu", 
+            "name": "Hausu"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Scream", 
+            "name": "Scream", 
+            "poster_url": "Scream.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Hostel", 
+            "name": "Hostel", 
+            "poster_url": "Hostel.jpg"
+        }
+    ], 
+    "id": "Madman", 
+    "name": "Madman"
+}

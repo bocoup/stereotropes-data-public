@@ -1,0 +1,34 @@
+{
+    "plot": "A four-member teen girl group named the Cheetah Girls go to a Manhattan high school for the performing arts and try to become the first freshmen to win the talent show in the school's history. During the talent show auditions, they meet a big-time producer named Jackal Johnson, who tries to make the group into superstars, but the girls run into many problems. Galleria becomes a full-time snob and forgets her friends, Dorinda has to choose between her friends or the dance club and other things that could break the Cheetah Girls apart permanently.", 
+    "genres": "Comedy, Drama, Family", 
+    "release_year": "2003", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Girl Group", 
+                "id": "GirlGroup"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Cheetah Girls, who were also defictionalized.", 
+                "id": "GirlGroup"
+            }
+        ]
+    }, 
+    "imdbid": "tt0338852", 
+    "poster_url": "TheCheetahGirls.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "GirlGroup"
+            ], 
+            "shared_count": 1, 
+            "id": "TheSapphires", 
+            "name": "The Sapphires", 
+            "poster_url": "TheSapphires.jpg"
+        }
+    ], 
+    "id": "TheCheetahGirls", 
+    "name": "The Cheetah Girls"
+}

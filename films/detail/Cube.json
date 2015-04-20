@@ -1,0 +1,113 @@
+{
+    "plot": "Six different people, each from a very different walk of life, awaken to find themselves inside a giant cube with thousands of possible rooms. Each has a skill that becomes clear when they must band together to get out: a cop, a math whiz, a building designer, a doctor, an escape master, and a disabled man. Each plays a part in their thrilling quest to find answers as to why they've been imprisoned.", 
+    "genres": "Mystery, Sci-Fi, Thriller", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "potential", 
+                    "victimized", 
+                    "evil", 
+                    "dangerous"
+                ], 
+                "role": "In the film Cube, Quentin \u2014 a police officer \u2014 starts out as the potential hero and leader of the victimized group.  However, by the end of the film, he slowly turns into an evil scary black man. He ends up becoming the film's biggest threat, besides the dangerous Cube itself.", 
+                "id": "ScaryBlackMan"
+            }, 
+            {
+                "adjectives": [
+                    "potential", 
+                    "victimized", 
+                    "evil", 
+                    "dangerous"
+                ], 
+                "role": "Scary Black Man: Quentin \u2014 a police officer \u2014 starts out as the potential hero and leader of the victimized group.  However, by the end of the film, he slowly turns into an evil scary black man. He ends up becoming the film's biggest threat, besides the dangerous Cube itself.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "Used", 
+                    "cute", 
+                    "much", 
+                    "de-briefing"
+                ], 
+                "role": "Final Girl: Used one way or another in every movie: Cube features a cute, innocent girl in the cast of prisoners, but it's the  the mentally retarded boy who survives, apparently by being even more innocent. Cube 2: Hypercube appears to play it straight, with a wholesome blonde surviving to the end  but not much further \u2014 she's revealed to be a government operative who, after her de-briefing, is executed to keep the secrets secure. Cube Zero plays it straight with Raines.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Used", 
+                    "cute", 
+                    "much", 
+                    "de-briefing"
+                ], 
+                "role": "Used one way or another in every Cube movie:\n Cube features a cute, innocent girl in the cast of prisoners, but it's the  the mentally retarded boy who survives, apparently by being even more innocent.\n Cube 2: Hypercube appears to play it straight, with a wholesome blonde surviving to the end  but not much further \u2014 she's revealed to be a government operative who, after her de-briefing, is executed to keep the secrets secure.\n Cube Zero plays it straight with Raines.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Russian", 
+                    "diminutive"
+                ], 
+                "role": "In Cube 2: Hypercube, the superhacker Alex Trusk turns out to be Sasha. Her name is the Russian diminutive of Alexander/Alexandra.", 
+                "id": "Hackette"
+            }
+        ]
+    }, 
+    "imdbid": "tt0123755", 
+    "poster_url": "Cube.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "DiaryOfTheDead", 
+            "name": "Diary of the Dead", 
+            "poster_url": "DiaryOfTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "HouseOfBones", 
+            "name": "House of Bones", 
+            "poster_url": "HouseOfBones.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "KissOfTheSpiderWoman", 
+            "name": "Kiss of the Spider Woman", 
+            "poster_url": "KissOfTheSpiderWoman.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "TheIcePirates", 
+            "name": "The Ice Pirates", 
+            "poster_url": "TheIcePirates.jpg"
+        }, 
+        {
+            "shared": [
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }
+    ], 
+    "id": "Cube", 
+    "name": "Cube"
+}

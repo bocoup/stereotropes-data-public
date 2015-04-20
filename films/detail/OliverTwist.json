@@ -1,0 +1,175 @@
+{
+    "plot": "Oliver Twist is an orphan, who is soon kicked out of the orphanage and thrown into a terrible home. The bad treatment Oliver receives, forces him to run off to London. Here, he is soon picked up by the Artful Dodger and taken to Fagin. Fagin treats Oliver well, but is it the life Oliver really wants?", 
+    "genres": "Crime, Drama", 
+    "release_year": "2005", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Cool Old Guy: Mr Brownlow.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "willing", 
+                    "bold", 
+                    "old", 
+                    "dangerous", 
+                    "acting"
+                ], 
+                "role": "Dirty Coward: Monks prefers to get others to do his dirty work for him, and he's shown to be easily intimidated when Mr Brownlow questions him. Noah Claypole is even worse. Fagin and Sikes may be criminals, but at least they're willing to be bold about it. Noah considers stealing the bags from old ladies too dangerous for him, despite acting The Bully whenever he's alone with someone younger and weaker than him.  When he's captured, he immediately sells out Fagin to escape prison.", 
+                "id": "DirtyCoward"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Also Brownlow and  Oliver's Disappeared Dad Edwin Leeford, to the point of  becoming his Secret Keeper.", 
+                "id": "DisappearedDad"
+            }, 
+            {
+                "adjectives": [
+                    "eventual"
+                ], 
+                "role": "Henpecked Husband: The eventual outcome of Mr. Bumble's marriage to the Widow Corney. Also Mr. and Mrs. Sowerberry.", 
+                "id": "HenpeckedHusband"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Broken Bird: Nancy,  Agnes at the time of her death.", 
+                "id": "BrokenBird"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Cool Old Lady: Mrs Maylie, in a Purity Sue kind of way.", 
+                "id": "CoolOldLady"
+            }, 
+            {
+                "adjectives": [
+                    "Hard-Drinking", 
+                    "female", 
+                    "likely", 
+                    "dependent", 
+                    "pleasant"
+                ], 
+                "role": "Hard-Drinking Party Girl: Nancy, though the also shows shades of The Alcoholic. Fagin gets all his female wards addicted to alcohol. Though the reason is never given, it's most likely so that they'll be more dependent and/or more pleasant company.", 
+                "id": "HardDrinkingPartyGirl"
+            }, 
+            {
+                "adjectives": [
+                    "only", 
+                    "only", 
+                    "criminal"
+                ], 
+                "role": "In Oliver Twist, Nancy is the only female in the group of villains, and the only one to do a Heel-Face Turn.  Although she turns, she cannot abandon her criminal friends because All Girls Want Bad Boys.", 
+                "id": "HighHeelFaceTurn"
+            }, 
+            {
+                "adjectives": [
+                    "full"
+                ], 
+                "role": "Hooker with a Heart of Gold: Nancy. Charles Dickens stated in a preface written for the full novel that \"the girl is a prostitute.\"", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [
+                    "original", 
+                    "later"
+                ], 
+                "role": "Nancy from Oliver Twist. It's only implied in the original, but in the foreword to a later edition, Dickens confirmed that she was in fact a prostitute.", 
+                "id": "HookerWithAHeartOfGold"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Missing Mom: Oliver's mother Agnes dies at the beginning of the novel.", 
+                "id": "MissingMom"
+            }, 
+            {
+                "adjectives": [
+                    "male", 
+                    "titular"
+                ], 
+                "role": "A male example would be the titular Oliver from Oliver Twist.", 
+                "id": "MysteriousWaif"
+            }, 
+            {
+                "adjectives": [
+                    "special", 
+                    "other", 
+                    "moral"
+                ], 
+                "role": "Most of the women are wholesome, decent people (special mention goes to The Ingenue Rose), save for Nancy, who is a Love Martyr for Bill Sykes, someone who is less than pleasant. But Nancy, compared with the other members of Fagin's gang, is still the most moral of them.", 
+                "id": "TheIngenue"
+            }
+        ]
+    }, 
+    "imdbid": "tt0380599", 
+    "similar": [
+        {
+            "shared": [
+                "DisappearedDad", 
+                "CoolOldLady", 
+                "CoolOldGuy", 
+                "DirtyCoward", 
+                "HardDrinkingPartyGirl", 
+                "TheIngenue", 
+                "MissingMom"
+            ], 
+            "shared_count": 7, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "HookerWithAHeartOfGold", 
+                "DirtyCoward", 
+                "TheIngenue", 
+                "BrokenBird", 
+                "MissingMom"
+            ], 
+            "shared_count": 6, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "MissingMom", 
+                "DisappearedDad", 
+                "DirtyCoward", 
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 5, 
+            "id": "ToKillAMockingbird", 
+            "name": "To Kill a Mockingbird", 
+            "poster_url": "ToKillAMockingbird.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom", 
+                "CoolOldLady", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 4, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DisappearedDad", 
+                "MissingMom", 
+                "BrokenBird", 
+                "DirtyCoward"
+            ], 
+            "shared_count": 4, 
+            "id": "IAmNumberFour", 
+            "name": "I Am Number Four", 
+            "poster_url": "IAmNumberFour.jpg"
+        }
+    ], 
+    "id": "OliverTwist", 
+    "name": "Oliver Twist"
+}

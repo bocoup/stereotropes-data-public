@@ -1,0 +1,81 @@
+{
+    "plot": "N/A", 
+    "genres": "Short", 
+    "release_year": "1994", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "obvious", 
+                    "alongside", 
+                    "suicidal", 
+                    "polite"
+                ], 
+                "role": "A Father to His Men: All three lieutenants, to some extent, but Audebert is the most obvious example. He is determined to stay alongside his men even during the most suicidal offensives, he is always polite to his subordinates, and twice he cradles a fallen soldier.", 
+                "id": "AFatherToHisMen"
+            }, 
+            {
+                "adjectives": [
+                    "few"
+                ], 
+                "role": "Man in a Kilt: Quite a few of the Royal Scots Fusiliers.", 
+                "id": "ManInAKilt"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Spirited Young Lady: Anna.", 
+                "id": "SpiritedYoungLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0422542", 
+    "similar": [
+        {
+            "shared": [
+                "SpiritedYoungLady"
+            ], 
+            "shared_count": 1, 
+            "id": "TheDuchess", 
+            "name": "The Duchess", 
+            "poster_url": "TheDuchess.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "Downfall", 
+            "name": "Downfall"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "AFatherToHisMen"
+            ], 
+            "shared_count": 1, 
+            "id": "CatherineTheGreat", 
+            "name": "Catherine The Great", 
+            "poster_url": "CatherineTheGreat.jpg"
+        }, 
+        {
+            "shared": [
+                "SpiritedYoungLady"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }
+    ], 
+    "id": "JoyeuxNoel", 
+    "name": "Joyeux No\u00ebl"
+}

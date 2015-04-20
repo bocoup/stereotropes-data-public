@@ -1,0 +1,110 @@
+{
+    "plot": "Based off of the comic book. Unbeknownst to other people, there is a private agency code named MiB. This agency is some kind of extra terrestrial surveillance corporation. Then, one of the agency's finest men only going by the name \"K\", is recruiting for a new addition to the agency. He has chosen James Edwards of the N.Y.P.D. Then, one day, a flying saucer crashes into Earth. This was an alien a part of the \"Bug\" race. He takes the body of a farmer and heads to New York. He is searching for a super energy source called \"The Galaxy\". Now, Agents J and K must stop the bug before it can escape with the galaxy.", 
+    "genres": "Comedy, Sci-Fi", 
+    "release_year": "1997", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Grandpa: Don't mess with Zed, man. He will air-juggle your ass.", 
+                "id": "BadassGrandpa"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "In Men In Black 2, Agents J and K get intel from a conspiracy theorist guy who lives in his mom's attic. They claim to be from his therapy group.", 
+                "id": "BasementDweller"
+            }, 
+            {
+                "adjectives": [
+                    "Reasonable"
+                ], 
+                "role": "Scary Black Man: The NASA launch site commander, who turns out to be a Reasonable Authority Figure and J's Disappeared Dad.", 
+                "id": "ScaryBlackMan"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Former", 
+                    "medical", 
+                    "first"
+                ], 
+                "role": "Former medical examiner turned MIB \"Agent L\" in the first Men In Black film.", 
+                "id": "HotChickInABadassSuit"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Manic Pixie Dream Guy: A rare male version in Griffin, kinda.", 
+                "id": "ManicPixieDreamGirl"
+            }, 
+            {
+                "adjectives": [
+                    "real-life"
+                ], 
+                "role": "Ms. Fanservice: Boris' girlfriend, played by real-life Ms. Fanservice Nicole Scherzinger.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0119654", 
+    "poster_url": "MenInBlack.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HotChickInABadassSuit", 
+                "ScaryBlackMan", 
+                "BasementDweller"
+            ], 
+            "shared_count": 3, 
+            "id": "TheDarkKnight", 
+            "name": "The Dark Knight", 
+            "poster_url": "TheDarkKnight.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "Battleship", 
+            "name": "Battleship", 
+            "poster_url": "Battleship.jpg"
+        }, 
+        {
+            "shared": [
+                "ManicPixieDreamGirl", 
+                "MsFanservice", 
+                "BasementDweller"
+            ], 
+            "shared_count": 3, 
+            "id": "HotTubTimeMachine", 
+            "name": "Hot Tub Time Machine", 
+            "poster_url": "HotTubTimeMachine.jpg"
+        }, 
+        {
+            "shared": [
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "ScaryBlackMan"
+            ], 
+            "shared_count": 3, 
+            "id": "TransformersRevengeOfTheFallen", 
+            "name": "Transformers: Revenge of The Fallen", 
+            "poster_url": "TransformersRevengeOfTheFallen.jpg"
+        }
+    ], 
+    "id": "MenInBlack", 
+    "name": "Men In Black"
+}

@@ -1,0 +1,126 @@
+{
+    "plot": "Armand Goldman owns a popular drag nightclub in South Miami Beach. His long-time lover, Albert, stars there as Starina. \"Their\" son Val (actually Armand's by his one heterosexual fling, twenty years before) comes home to announce his engagement to Barbara Keeley, daughter of Kevin Keeley, US Senator, and co-founder of the Committee for Moral Order. The Senator and family descend upon South Beach to meet Val, his father and \"mother.\" What ensues is comic chaos.", 
+    "genres": "Comedy", 
+    "release_year": "1996", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "non-performing"
+                ], 
+                "role": "Camp Gay: Every gay who isn't Armand. Some of the non-performing crew of the club can be safely presumed to be gay, and are even less camp than Armand.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Disguised in Drag: The Keeleys escape the paparazzi by dressing in drag and leaving through the front door of The Birdcage.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [
+                    "different", 
+                    "several", 
+                    "first", 
+                    "future", 
+                    "ultraconservative", 
+                    "Americanized", 
+                    "French", 
+                    "theatrical", 
+                    "later", 
+                    "same"
+                ], 
+                "role": "In The Birdcage, this trope is used two different times by several characters. The first instance happens when Nathan Lane's character dressed up as the housewife of his gay lover, played by Robin Williams, in order to impress their future daughter-in-law's ultraconservative parents. In the ending, Everyone except Robin Williams's character and son (and the senator's wife and daughter, who engage in Recursive Crossdressing) dress up in drag in order to escape from the paparazzi.\n The Birdcage is an Americanized remake of the French theatrical (and later film) comedy La Cage aux folles, which features the same trope.", 
+                "id": "DisguisedInDrag"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Gene Hackman's character, Ohio Senator Keeley, from The Birdcage.", 
+                "id": "GoodOlBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Good Ol' Boy: Senator Keeley", 
+                "id": "GoodOlBoy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Mr. Fanservice: Dan Futterman as Val, and Hank Azaria.", 
+                "id": "MrFanservice"
+            }, 
+            {
+                "adjectives": [
+                    "straight"
+                ], 
+                "role": "Straight Gay: Armand somewhat. He can play straight at the very least. Albert, however, is so camp that he can't even do that.", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Jewish"
+                ], 
+                "role": "Jewish Mother: Albert, to his stepson Val.", 
+                "id": "JewishMother"
+            }
+        ]
+    }, 
+    "imdbid": "tt0115685", 
+    "poster_url": "TheBirdcage.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "JewishMother", 
+                "StraightGay", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 3, 
+            "id": "Futurama", 
+            "name": "Futurama"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "MrFanservice"
+            ], 
+            "shared_count": 3, 
+            "id": "EatingOut", 
+            "name": "Eating Out", 
+            "poster_url": "EatingOut.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "StraightGay", 
+                "DisguisedInDrag"
+            ], 
+            "shared_count": 3, 
+            "id": "DiamondsAreForever", 
+            "name": "Diamonds Are Forever", 
+            "poster_url": "DiamondsAreForever.jpg"
+        }, 
+        {
+            "shared": [
+                "JewishMother", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "SaturdayNightFever", 
+            "name": "Saturday Night Fever", 
+            "poster_url": "SaturdayNightFever.jpg"
+        }, 
+        {
+            "shared": [
+                "CampGay", 
+                "MrFanservice"
+            ], 
+            "shared_count": 2, 
+            "id": "Burlesque", 
+            "name": "Burlesque", 
+            "poster_url": "Burlesque.jpg"
+        }
+    ], 
+    "id": "TheBirdcage", 
+    "name": "The Birdcage"
+}

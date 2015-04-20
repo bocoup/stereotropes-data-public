@@ -1,0 +1,88 @@
+{
+    "plot": "Tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stammer and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country through war.", 
+    "genres": "Biography, Drama, History", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Wise Prince: George VI.", 
+                "id": "TheWisePrince"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "adorable", 
+                    "little", 
+                    "clear", 
+                    "much"
+                ], 
+                "role": "Daddy's Girl: The King has two adorable little girls, Princess Elizabeth and Princess Margaret, and he makes it very clear how much he loves them. A charming case of Truth in Television.", 
+                "id": "DaddysGirl"
+            }, 
+            {
+                "adjectives": [
+                    "exact"
+                ], 
+                "role": "Socialite: Wallis Simpson's exact job title before becoming the Duchess of Windsor. It is that sort of behavior that puts her at odds with Elizabeth (which is only hinted at in the film).", 
+                "id": "Socialite"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Wallis Simpson in The King's Speech before becoming the Duchess of Windsor, putting her at odds with Elizabeth.", 
+                "id": "Socialite"
+            }
+        ]
+    }, 
+    "imdbid": "tt1504320", 
+    "poster_url": "TheKingsSpeech.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "AnneFrankTheWholeStory", 
+            "name": "Anne Frank The Whole Story"
+        }, 
+        {
+            "shared": [
+                "Socialite"
+            ], 
+            "shared_count": 1, 
+            "id": "UnfaithfullyYours", 
+            "name": "Unfaithfully Yours", 
+            "poster_url": "UnfaithfullyYours.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "OurTown", 
+            "name": "Our Town", 
+            "poster_url": "OurTown.jpg"
+        }, 
+        {
+            "shared": [
+                "DaddysGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "Taal", 
+            "name": "Taal", 
+            "poster_url": "Taal.jpg"
+        }
+    ], 
+    "id": "TheKingsSpeech", 
+    "name": "The King's Speech"
+}

@@ -1,0 +1,74 @@
+{
+    "plot": "Tony Hunter, a famous singer/dancer movie star, is feeling washed up and old hat (old top hat, tie and tails to be exact). The reporters are out for Ava Gardner, not him. But his old friends Lily and Les Martin have an idea for a funny little Broadway show and he agrees to do it. But things begin to get out of hand, when bigshot \"artistic\" director/producer/star Jeffrey Cordova joins the production, proclaims it's a modernistic Faust and insists on hiring a prima ballerina, Gabrielle Gerard, to star opposite Tony, and it's hate at first sight. And her jealous choreographer isn't helping to ease the tension. The show is doomed by pretentiousness. But romance, a \"let's put on a show\" epiphany, and a triumphant opening are waiting in the wings. After all, this is a musical comedy!", 
+    "genres": "Comedy, Musical, Romance", 
+    "release_year": "1953", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Parodied in \"The Girl Hunt.\"", 
+                "id": "FemmeFatale"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms Fan Service: Gaby.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0045537", 
+    "poster_url": "TheBandWagon.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "WhoFramedRogerRabbit", 
+            "name": "Who Framed Roger Rabbit", 
+            "poster_url": "WhoFramedRogerRabbit.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Coonskin", 
+            "name": "Coonskin"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "Barbarella", 
+            "name": "Barbarella", 
+            "poster_url": "Barbarella.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheManWithTwoBrains", 
+            "name": "The Man With Two Brains", 
+            "poster_url": "TheManWithTwoBrains.jpg"
+        }
+    ], 
+    "id": "TheBandWagon", 
+    "name": "The Band Wagon"
+}

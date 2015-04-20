@@ -1,0 +1,106 @@
+{
+    "plot": "In 1931, in Franklyn County, Virginia, Forrest Bondurant is a legend as immortal after surviving the war. Together with his brothers Howard and the coward Jack, the Bondurant family has a distillery and bootlegging business. When the corrupt District Attorney Mason Wardell arrives in Franklyn with the unscrupulous Special Deputy Charles Rakes, the Bondurant family refuses to pay the required bribe to the authorities. Rakes pursuits the brothers and unsuccessfully tries to find their distillery. Meanwhile Forrest hires the waitress Maggie, a woman with a hidden past in Chicago, and they fall in love with each other. Jack courts the preacher's daughter Bertha Minnix and deals a great load of alcoholic liquor with the powerful gangster Floyd Banner. Jack shows off in Franklyn attracting the attention of Rakes that finds the location of their distillery. When he kills the crippled Cricket Pate, the locals join forces to face the corrupt authorities.", 
+    "genres": "Crime, Drama", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "only"
+                ], 
+                "role": "Agent Peacock: Rakes presumably thinks of himself as this. He's the only one to do so.", 
+                "id": "AgentPeacock"
+            }, 
+            {
+                "adjectives": [
+                    "unspecified", 
+                    "black", 
+                    "obvious", 
+                    "ordinary"
+                ], 
+                "role": "Camp Gay: The locals assume Rakes is this, as he is always immaculately dressed and ostentatiously groomed, and wears some unspecified scent. Calling Jack a \"peach\" when they first met added to this. Rakes doesn't take it well when he finds out. It's never confirmed definitively; he is seen getting dressed after presumably spending the night with a black woman, but her obvious distress suggests that whatever he did to her wasn't ordinary sex.", 
+                "id": "CampGay"
+            }, 
+            {
+                "adjectives": [
+                    "good", 
+                    "big"
+                ], 
+                "role": "Non-Action Guy: Jack really isn't all that good in a fight, in contrast to his big brothers.", 
+                "id": "NonActionGuy"
+            }, 
+            {
+                "adjectives": [
+                    "meticulous", 
+                    "various", 
+                    "expensive"
+                ], 
+                "role": "The Dandy: Rakes is very meticulous about his wardrobe, causing various country folk to imply that he's \"a nance.\" He doesn't take kindly to the insinuation. Jack also starts strutting around in expensive clothes once money starts rolling in.", 
+                "id": "TheDandy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Maggie runs the family's legitimate business and is Forrest's love interest", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1212450", 
+    "poster_url": "Lawless.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "JesusChristSuperstar", 
+            "name": "Jesus Christ Superstar", 
+            "poster_url": "JesusChristSuperstar.jpg"
+        }, 
+        {
+            "shared": [
+                "AgentPeacock", 
+                "TheDandy"
+            ], 
+            "shared_count": 2, 
+            "id": "AllAboutEve", 
+            "name": "All About Eve", 
+            "poster_url": "AllAboutEve.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "AnotherGayMovie", 
+            "name": "Another Gay Movie", 
+            "poster_url": "AnotherGayMovie.jpg"
+        }, 
+        {
+            "shared": [
+                "NonActionGuy", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "Turbo", 
+            "name": "Turbo", 
+            "poster_url": "Turbo.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "CampGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheToxicAvenger", 
+            "name": "The Toxic Avenger", 
+            "poster_url": "TheToxicAvenger.jpg"
+        }
+    ], 
+    "id": "Lawless", 
+    "name": "Lawless"
+}

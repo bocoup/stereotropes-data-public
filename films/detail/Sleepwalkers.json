@@ -1,0 +1,74 @@
+{
+    "plot": "Charles Brady and his mother Mary move to a small Indiana town, having recently fled Bodega Bay, California after draining and killed a young girl there. They are sleepwalkers - they can change their appearance and they need the lifeforce from young women. Charles has picked out young Tanya Robertson, whom he meets at a local high school, as his next victim. He asks her out for a date and invites her home... however, she did not suspect his real interest in her. On their first date, a picnic at a nearby cemetery, Charles attempts to drain the lifeforce from Tanya for himself and his mother.", 
+    "genres": "Horror", 
+    "release_year": "1992", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Corrupt Hick: The state trooper, with a side of Drill Sergeant Nasty.", 
+                "id": "CorruptHick"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Mama Bear: The death toll goes way, way up after Charles is incapacitated and Mary gets angry.", 
+                "id": "MamaBear"
+            }
+        ]
+    }, 
+    "imdbid": "tt0105428", 
+    "poster_url": "Sleepwalkers.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "CorruptHick", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFoxAndTheHound", 
+            "name": "The Fox and the Hound", 
+            "poster_url": "TheFoxAndTheHound.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "PetesDragon", 
+            "name": "Pete's Dragon", 
+            "poster_url": "PetesDragon.jpg"
+        }, 
+        {
+            "shared": [
+                "CorruptHick", 
+                "MamaBear"
+            ], 
+            "shared_count": 2, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "Parenthood", 
+            "name": "Parenthood", 
+            "poster_url": "Parenthood.jpg"
+        }, 
+        {
+            "shared": [
+                "MamaBear"
+            ], 
+            "shared_count": 1, 
+            "id": "SweetHome", 
+            "name": "Sweet Home"
+        }
+    ], 
+    "id": "Sleepwalkers", 
+    "name": "Sleepwalkers"
+}

@@ -1,0 +1,80 @@
+{
+    "plot": "Two young men are trying to make their way in a corporation. One on charm, the other on hard work. When they go to the president (Bernie) with a serious financial error on a printout, he pretends to be thrilled and invites them to his beach house for the weekend. He actually plans on having them killed. Bernie is also fooling around with the girlfriend of his mafia partner. When the partner has Bernie killed, the boys end up having to pretend Bernie is still alive as the frustrated hit man tries time and time again to complete the job.", 
+    "genres": "Comedy", 
+    "release_year": "1989", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Crazy Jealous Guy: Vito when he finds out Bernie is sleeping with his girlfriend Tina.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Weekend at Bernie's: Mob boss Vi had Bernie wacked for sleeping with his girlfriend.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Dogged"
+                ], 
+                "role": "Dogged Nice Guy: Silverman's character.", 
+                "id": "DoggedNiceGuy"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098627", 
+    "poster_url": "WeekendAtBernies.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Super", 
+            "name": "Super", 
+            "poster_url": "Super.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "ShowMeLove", 
+            "name": "Show Me Love", 
+            "poster_url": "ShowMeLove.jpg"
+        }, 
+        {
+            "shared": [
+                "DoggedNiceGuy", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Megamind", 
+            "name": "Megamind", 
+            "poster_url": "Megamind.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "UnfaithfullyYours", 
+            "name": "Unfaithfully Yours", 
+            "poster_url": "UnfaithfullyYours.jpg"
+        }, 
+        {
+            "shared": [
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }
+    ], 
+    "id": "WeekendAtBernies", 
+    "name": "Weekend at Bernie's"
+}

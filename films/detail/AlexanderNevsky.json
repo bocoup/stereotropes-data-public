@@ -1,0 +1,106 @@
+{
+    "plot": "It is the 13th century, and Russia is overrun by foreign invaders. A Russian knyaz', or prince, Alexander Nevsky, rallies the people to form a ragtag army to drive back an invasion by the Teutonic knights. This is a true story based on the actual battle at a lake near Novgorod.", 
+    "genres": "Action, Drama, History", 
+    "release_year": "1938", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Bad", 
+                    "entire", 
+                    "Russian", 
+                    "clean-shaven", 
+                    "patriotic", 
+                    "easy", 
+                    "Russian"
+                ], 
+                "role": "Bad Ass Beard: Alexander, and, what the heck, almost the entire Russian army. The Teutonic Knights are all clean-shaven, which is a departure from history: their rule required them to sport a Beard of Evil. This was probably for patriotic reasons, as the Russian Orthodox Church also once required its members to have beards and not shave, so it serves as an easy way to highlight difference from the Russian perspective.", 
+                "id": "BadAssBeard"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Knight in Shining Armor: Nevsky and his troops wear shining armor, with helmets shaped like Russian church spires.", 
+                "id": "KnightInShiningArmor"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Wise Prince: Alexander is presented as an excellent ruler who actually cares about his people.", 
+                "id": "TheWisePrince"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Action Girl: Vasilisa of Pskov. She avenges her father's death by gearing up and taking to the battlefield. Contrary to another trope, one of the other heroes actively pursues the amazon.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Proper"
+                ], 
+                "role": "Proper Lady: Olga Danilova.", 
+                "id": "ProperLady"
+            }
+        ]
+    }, 
+    "imdbid": "tt0029850", 
+    "poster_url": "AlexanderNevsky.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheWisePrince", 
+                "BadAssBeard", 
+                "ActionGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "Thor", 
+            "name": "Thor", 
+            "poster_url": "Thor.jpg"
+        }, 
+        {
+            "shared": [
+                "ProperLady", 
+                "ActionGirl", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 3, 
+            "id": "Tangled", 
+            "name": "Tangled", 
+            "poster_url": "Tangled.png"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }, 
+        {
+            "shared": [
+                "TheWisePrince", 
+                "KnightInShiningArmor"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastUnicorn", 
+            "name": "The Last Unicorn", 
+            "poster_url": "TheLastUnicorn.jpg"
+        }
+    ], 
+    "id": "AlexanderNevsky", 
+    "name": "Alexander Nevsky"
+}

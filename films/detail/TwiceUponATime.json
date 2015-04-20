@@ -1,0 +1,78 @@
+{
+    "plot": "Once upon a time, there were some people called the Rushers of Din. Each night as they slept, sweet dreams were delivered to them from sunny Frivoli, while nightmares came to them from the mysterious Murkworks. But the malevolent master of the Murk, Synonamess Botch, was not content. He wanted the Rushers to have non-stop nightmares. To do that, he would need to gain control of the Cosmic Clock. To accomplish this, he kidnaps the deliverers of the dreams, Greensleeves and the Figmen of Imagination, and then tricks Ralph, the All-Purpose Animal and his pal Mumford into stealing the mainspring from the Cosmic Clock. Realizing they've been tricked, Ralph and Mumford try to get the spring back and prevent Botch from unleashing his nightmare bombs. Along the way, they get help from their Fairy Godmother, Greensleeves' niece Flora Fauna, the junior varsity superhero Rod Rescueman, and Botch's own head nightmare writer, Scuzzbopper.", 
+    "genres": "Animation, Action, Adventure", 
+    "release_year": "1983", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Jerk Jock: Rod Rescueman. His base even resembles a football.", 
+                "id": "JerkJock"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "various", 
+                    "appropriate"
+                ], 
+                "role": "Distressed Damsel: Heavily spoofed. Flora gets a job at the Murkworks playing this role in various nightmares, and Rod Rescueman's test for whether he's appropriate for being hired by the Fairy Godmother is rescuing her from her flaming desk.  Flora subverts the trope when Ibor captures her \u2014 Rod tries to rescue her, but in the end she destroys the robot herself.", 
+                "id": "DamselInDistress"
+            }
+        ]
+    }, 
+    "imdbid": "tt0086489", 
+    "poster_url": "TwiceUponATime.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "DamselInDistress", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheTwilightSamurai", 
+            "name": "The Twilight Samurai", 
+            "poster_url": "TheTwilightSamurai.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "TheFrighteners", 
+            "name": "The Frighteners", 
+            "poster_url": "TheFrighteners.jpg"
+        }, 
+        {
+            "shared": [
+                "JerkJock"
+            ], 
+            "shared_count": 1, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "DamselInDistress"
+            ], 
+            "shared_count": 1, 
+            "id": "HouseOfFlyingDaggers", 
+            "name": "House of Flying Daggers", 
+            "poster_url": "HouseOfFlyingDaggers.jpg"
+        }
+    ], 
+    "id": "TwiceUponATime", 
+    "name": "Twice Upon a Time"
+}

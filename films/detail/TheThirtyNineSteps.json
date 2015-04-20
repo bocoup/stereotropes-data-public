@@ -1,0 +1,112 @@
+{
+    "plot": "Richard Hannay is a Canadian visitor to London. At the end of \"Mr Memory\"'s show in a music hall, he meets Annabella Smith who is running away from secret agents. He accepts to hide her in his flat, but in the night she is murdered. Fearing he could be accused on the girl's murder, Hannay goes on the run to break the spy ring.", 
+    "genres": "Mystery, Thriller", 
+    "release_year": "1935", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "Four-Star", 
+                    "occupied", 
+                    "good", 
+                    "well-aimed", 
+                    "public-house", 
+                    "kidnapped", 
+                    "elderly"
+                ], 
+                "role": "Cool Old Guy: Peter Pienaar, who taught Four-Star Badass Hannay most of what he knows about disguise, spying, and veldtcraft. Will calmly walk into occupied Germany or across No Man's Land if necessary. Especially good at breaking out of prison, knocking you out with a well-aimed tea-tray, snuffing the lights in a public-house with a revolver, or rescuing your kidnapped Love Interest. Eventually discovers his life's calling as an elderly RAF air ace.", 
+                "id": "CoolOldGuy"
+            }, 
+            {
+                "adjectives": [
+                    "Thirty-Nine", 
+                    "busy", 
+                    "dangerous", 
+                    "hard-working"
+                ], 
+                "role": "Gentleman Adventurer: The Thirty-Nine Steps takes place after Hannay has retired from a busy and dangerous life as a mining engineer in Africa; he does have the leisure to pick up Scudder's adventure, but rather jumps at the opportunity because the idleness is driving him crazy. Then it's averted in the sequels, with Hannay becoming a hard-working Army officer.", 
+                "id": "GENTLEMANADVENTURER"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Officer and a Gentleman", 
+                "id": "OfficerAndAGentleman"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: It's got Rupert Penry-Jones in it, what do you expect?", 
+                "id": "ShirtlessScene"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Lady of Adventure: Mary, when duty calls.", 
+                "id": "LadyOfAdventure"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Baroness: Hilda von Einem from Greenmantle.", 
+                "id": "TheBaroness"
+            }
+        ]
+    }, 
+    "imdbid": "tt0026029", 
+    "poster_url": "TheThirtyNineSteps.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheBaroness", 
+                "ShirtlessScene", 
+                "CoolOldGuy", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 4, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "ShirtlessScene", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 3, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }, 
+        {
+            "shared": [
+                "TheBaroness", 
+                "CoolOldGuy", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 3, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "LadyOfAdventure", 
+                "CoolOldGuy", 
+                "OfficerAndAGentleman"
+            ], 
+            "shared_count": 3, 
+            "id": "PiratesOfTheCaribbean", 
+            "name": "Pirates of the Caribbean"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "CoolOldGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "Mulan", 
+            "name": "Mulan", 
+            "poster_url": "Mulan.jpg"
+        }
+    ], 
+    "id": "TheThirtyNineSteps", 
+    "name": "The 39 Steps"
+}

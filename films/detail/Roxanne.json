@@ -1,0 +1,77 @@
+{
+    "plot": "A modernisation of Edmond Rostands \"Cyrano De Bergerac\". C.D. Bales is a fire chief, who just happens to have an enormous nose. He hires a new fire-fighter, Chris, who is handsome, and knows his hoses, but is useless when it comes to women. Roxanne is an astronomer who has just arrived in town. She catches the eye of Chris, and he asks C.D. to help him woo her. Little does Chris know that C.D. is mad about Roxanne, but hasn't found the right way to tell her - yet.", 
+    "genres": "Comedy, Drama, Romance", 
+    "release_year": "1987", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "Hot"
+                ], 
+                "role": "Hot Scientist: Roxanne", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: Roxanne when she gets trapped outside naked.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt0093886", 
+    "poster_url": "Roxanne.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "HaloLegends", 
+            "name": "Halo Legends", 
+            "poster_url": "HaloLegends.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "XMenFirstClass", 
+            "name": "X-Men: First Class", 
+            "poster_url": "XMenFirstClass.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice", 
+                "HotScientist"
+            ], 
+            "shared_count": 2, 
+            "id": "MarsAttacks", 
+            "name": "Mars Attacks!", 
+            "poster_url": "MarsAttacks.jpg"
+        }
+    ], 
+    "id": "Roxanne", 
+    "name": "Roxanne"
+}

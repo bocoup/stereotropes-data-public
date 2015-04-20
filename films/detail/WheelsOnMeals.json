@@ -1,0 +1,68 @@
+{
+    "plot": "Cousins Thomas and David, owners of a mobile restaurant, team up with their friend Moby, a bumbling private detective, to save the beautiful Sylvia, a pickpocket. Action and humor abound in the streets of Barcelona, culminating with a battle in the castle hideout of the evil gang.", 
+    "genres": "Action, Comedy, Crime", 
+    "release_year": "1984", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "chronic", 
+                    "unreasonable"
+                ], 
+                "role": "Henpecked Husband: Dino, David and Tom's neighbor. In fairness, he's a chronic philanderer, so the wife isn't being entirely unreasonable.", 
+                "id": "HenpeckedHusband"
+            }
+        ]
+    }, 
+    "imdbid": "tt0087578", 
+    "poster_url": "WheelsOnMeals.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhosAfraidOfVirginiaWoolf", 
+            "name": "Who's Afraid of Virginia Woolf?", 
+            "poster_url": "WhosAfraidOfVirginiaWoolf.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "SevenFacesOfDrLao", 
+            "name": "7 Faces of Dr. Lao", 
+            "poster_url": "SevenFacesOfDrLao.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "RebelWithoutACause", 
+            "name": "Rebel Without a Cause", 
+            "poster_url": "RebelWithoutACause.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "WhatsUpDoc", 
+            "name": "What's Up, Doc?", 
+            "poster_url": "WhatsUpDoc.jpg"
+        }, 
+        {
+            "shared": [
+                "HenpeckedHusband"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBestMan", 
+            "name": "The Best Man", 
+            "poster_url": "TheBestMan.jpg"
+        }
+    ], 
+    "id": "WheelsOnMeals", 
+    "name": "Wheels On Meals"
+}

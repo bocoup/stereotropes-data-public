@@ -1,0 +1,81 @@
+{
+    "plot": "Ronin is the Japanese word used for Samurai without a master. In this case, the Ronin are outcast specialists of every kind, whose services are available to everyone - for money. Dierdre (undoubtedly from Ireland) hires several Ronin to form a team in order to retrieve an important suitcase from a man who is about to sell it to the Russians. After the mission has been completed successfully, the suitcase immediately gets switched by a member of the team who seems to work into his own pocket. The complex net of everyone tricking everyone begins to surface slowly, and deadly...", 
+    "genres": "Action, Adventure, Crime", 
+    "release_year": "1998", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Miles Gloriosus: Spence is quite quickly revealed to be this.", 
+                "id": "MilesGloriosus"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Dierdre, who is heavily involved in the firefight in Nice, then behind the wheel during the Paris car chase.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Femme Fatale: Dierdre.", 
+                "id": "FemmeFatale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0122690", 
+    "poster_url": "Ronin.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "ActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "ThreeHundredRiseOfAnEmpire", 
+            "name": "300: Rise of an Empire", 
+            "poster_url": "ThreeHundredRiseOfAnEmpire.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "TheWolverine", 
+            "name": "The Wolverine", 
+            "poster_url": "TheWolverine.jpg"
+        }, 
+        {
+            "shared": [
+                "MilesGloriosus", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheQuickAndTheDead", 
+            "name": "The Quick and the Dead", 
+            "poster_url": "TheQuickAndTheDead.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FemmeFatale"
+            ], 
+            "shared_count": 2, 
+            "id": "BatmanTheAnimatedSeries", 
+            "name": "Batman: The Animated Series"
+        }
+    ], 
+    "id": "Ronin", 
+    "name": "Ronin"
+}

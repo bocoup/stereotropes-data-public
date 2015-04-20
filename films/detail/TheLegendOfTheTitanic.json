@@ -1,0 +1,123 @@
+{
+    "plot": "A grandfather mouse tells his grandchildren the \"real\" story of the Titanic disaster, including himself, evil sharks, a giant octopus, and an evil whaling scheme.", 
+    "genres": "Animation, Family", 
+    "release_year": "1999", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "interested"
+                ], 
+                "role": "Dirty Old Man: One may assume Maltravers was this to Elizabeth, but he's only interested in the whaling rights than Elizabeth.", 
+                "id": "DirtyOldMan"
+            }, 
+            {
+                "adjectives": [
+                    "odd"
+                ], 
+                "role": "Dude Looks Like a Lady: One of the soldier toys, in a really odd scene.", 
+                "id": "DudeLooksLikeALady"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Dandy: Pingo.", 
+                "id": "TheDandy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Rich"
+                ], 
+                "role": "Rich Bitch: Rachel.", 
+                "id": "RichBitch"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spoiled Sweet: Elizabeth definitely qualifies.", 
+                "id": "SpoiledSweet"
+            }, 
+            {
+                "adjectives": [
+                    "ridiculous"
+                ], 
+                "role": "Elizabeth from The Legend of the Titanic is this to a ridiculous extent.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "ridiculous"
+                ], 
+                "role": "The Ingenue: Elizabeth is this to a ridiculous extent.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "other"
+                ], 
+                "role": "Wicked Stepmother: Elizabeth's stepmother Rachel, who is much crueler than the stepmother from the other Titanic cartoon. Rachel is in league with Maltravers, wants Elizabeth to marry him, and even betrays her husband to Maltravers. She also has a cat named Lucifer. Rachel escapes with Maltravers after he sinks the ship. Makes you wonder why she didn't just leave her husband and marry Maltravers.", 
+                "id": "WickedStepmother"
+            }
+        ]
+    }, 
+    "imdbid": "tt1623780", 
+    "similar": [
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "WickedStepmother", 
+                "TheIngenue", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 4, 
+            "id": "Cinderella", 
+            "name": "Cinderella", 
+            "poster_url": "Cinderella.jpg"
+        }, 
+        {
+            "shared": [
+                "DudeLooksLikeALady", 
+                "TheIngenue", 
+                "DirtyOldMan", 
+                "TheDandy"
+            ], 
+            "shared_count": 4, 
+            "id": "LesMiserables", 
+            "name": "Les Mis\u00e9rables"
+        }, 
+        {
+            "shared": [
+                "DudeLooksLikeALady", 
+                "SpoiledSweet", 
+                "TheIngenue", 
+                "DirtyOldMan"
+            ], 
+            "shared_count": 4, 
+            "id": "FullmetalAlchemist", 
+            "name": "Fullmetal Alchemist"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "WickedStepmother", 
+                "RichBitch"
+            ], 
+            "shared_count": 3, 
+            "id": "EverAfter", 
+            "name": "Ever After"
+        }, 
+        {
+            "shared": [
+                "SpoiledSweet", 
+                "TheIngenue", 
+                "TheDandy"
+            ], 
+            "shared_count": 3, 
+            "id": "GoneWithTheWind", 
+            "name": "Gone with the Wind", 
+            "poster_url": "GoneWithTheWind.jpg"
+        }
+    ], 
+    "id": "TheLegendOfTheTitanic", 
+    "name": "The Legend of the Titanic"
+}

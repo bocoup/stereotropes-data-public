@@ -1,0 +1,101 @@
+{
+    "plot": "When the Chase family moves to an isolated house in the middle of nowhere in Detroit, Arkin is hired to fix the windows and the doors. Later he meets his daughter and his wife that has a debt with dangerous sharks and needs money, but his week payment is not enough to pay her debts. Arkin plots to heist the safe of Michael Chase during the night to raise the necessary money. However, when he arrives in the house, he finds that a sadistic criminal has imprisoned the family and planted traps everywhere. Arkin seeks a way out of the deadly house to save his life.", 
+    "genres": "Horror, Thriller", 
+    "release_year": "2009", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "jealous", 
+                    "upset", 
+                    "young", 
+                    "strong"
+                ], 
+                "role": "Crazy Jealous Guy: Frederick is very jealous and upset when he sees Miranda in the company of young men. Sometimes, his strong jealousy determines him to fantasize about hitting her.", 
+                "id": "CrazyJealousGuy"
+            }, 
+            {
+                "adjectives": [
+                    "G.P"
+                ], 
+                "role": "Kavorka Man: G.P.", 
+                "id": "KavorkaMan"
+            }, 
+            {
+                "adjectives": [
+                    "willing"
+                ], 
+                "role": "Papa Wolf: Mr. Peters is willing to do anything to get her back even that means hiring outside help and killing the man who collected his daughter. Arkin himself is one, especially after seeing the \"Get Well\" card from The Collector.", 
+                "id": "PapaWolf"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Final", 
+                    "male", 
+                    "first", 
+                    "second"
+                ], 
+                "role": "Final Girl: Arkin is a male example in the first film. He and Elena are examples from the second.", 
+                "id": "FinalGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0844479", 
+    "poster_url": "TheCollector.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "PapaWolf", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "NineDead", 
+            "name": "Nine Dead", 
+            "poster_url": "NineDead.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }, 
+        {
+            "shared": [
+                "PapaWolf", 
+                "KavorkaMan"
+            ], 
+            "shared_count": 2, 
+            "id": "Popeye", 
+            "name": "Popeye", 
+            "poster_url": "Popeye.jpg"
+        }, 
+        {
+            "shared": [
+                "KavorkaMan", 
+                "CrazyJealousGuy"
+            ], 
+            "shared_count": 2, 
+            "id": "WhenHarryMetSally", 
+            "name": "When Harry Met Sally", 
+            "poster_url": "WhenHarryMetSally.jpg"
+        }
+    ], 
+    "id": "TheCollector", 
+    "name": "The Collector"
+}

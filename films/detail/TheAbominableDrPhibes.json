@@ -1,0 +1,78 @@
+{
+    "plot": "Doctors are being murdered in a bizarre manner: bats, bees, killer frog masks, etc., which represent the nine Biblical plagues. The crimes are orchestrated by a demented organ player with the help of his mute assistant. The detective is stumped until he finds that all of the doctors being killed assisted a Dr. Vesalius on an unsuccessful operation involving the wife of Dr. Phibes, but he couldn't be the culprit, could he? He was killed in a car crash upon learning of his wife's death...", 
+    "genres": "Comedy, Horror", 
+    "release_year": "1971", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Gentleman Adventurer: Biederbeck", 
+                "id": "GENTLEMANADVENTURER"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Vulnavia in the Doctor Phibes movies. Although Phibes (Vincent Price) isn't really in love with her (he's pining for his dead wife), she clearly fills this role.", 
+                "id": "DarkMistress"
+            }, 
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "Woman in White: Vulnavia's first appearance.", 
+                "id": "WomanInWhite"
+            }
+        ]
+    }, 
+    "imdbid": "tt0066740", 
+    "poster_url": "TheAbominableDrPhibes.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCompanyOfWolves", 
+            "name": "The Company of Wolves", 
+            "poster_url": "TheCompanyOfWolves.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "DevilsPrey", 
+            "name": "Devil's Prey", 
+            "poster_url": "DevilsPrey.jpg"
+        }, 
+        {
+            "shared": [
+                "GENTLEMANADVENTURER"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "SnowWhiteAndTheHuntsman", 
+            "name": "Snow White & the Huntsman"
+        }, 
+        {
+            "shared": [
+                "WomanInWhite"
+            ], 
+            "shared_count": 1, 
+            "id": "RepoTheGeneticOpera", 
+            "name": "Repo! The Genetic Opera", 
+            "poster_url": "RepoTheGeneticOpera.jpg"
+        }
+    ], 
+    "id": "TheAbominableDrPhibes", 
+    "name": "The Abominable Dr. Phibes"
+}

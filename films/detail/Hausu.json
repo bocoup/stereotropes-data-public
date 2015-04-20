@@ -1,0 +1,91 @@
+{
+    "plot": "N/A", 
+    "genres": "Horror", 
+    "release_year": "1992", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Action Girl: Kung Fu.", 
+                "id": "ActionGirl"
+            }, 
+            {
+                "adjectives": [
+                    "Final", 
+                    "meant", 
+                    "few"
+                ], 
+                "role": "Final Girl: Fanta is meant to be this, but she gets (implicitly) killed offscreen a few minutes before the ending.", 
+                "id": "FinalGirl"
+            }, 
+            {
+                "adjectives": [
+                    "main"
+                ], 
+                "role": "The main character's aunt in Hausu.", 
+                "id": "MaidenAunt"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Melody and Sweet", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt2835502", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 3, 
+            "id": "ResidentEvil", 
+            "name": "Resident Evil", 
+            "poster_url": "ResidentEvil.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "YoureNext", 
+            "name": "You're Next", 
+            "poster_url": "YoureNext.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ActionGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastStand", 
+            "name": "The Last Stand", 
+            "poster_url": "TheLastStand.jpg"
+        }, 
+        {
+            "shared": [
+                "ActionGirl", 
+                "FinalGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Frozen", 
+            "name": "Frozen", 
+            "poster_url": "Frozen.jpg"
+        }
+    ], 
+    "id": "Hausu", 
+    "name": "Hausu"
+}

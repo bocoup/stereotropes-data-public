@@ -1,0 +1,83 @@
+{
+    "plot": "After his parents are murdered and his legs crippled, Tony Valdez uses their technology and becomes a skateboarding superhero.", 
+    "genres": "Animation, Fantasy", 
+    "release_year": "2007", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Gag Boobs: One occurs when Sammi dubs Valeria \"Miss Silicone\" in a joking comment to Tony.", 
+                "id": "GagBoobs"
+            }, 
+            {
+                "adjectives": [
+                    "Hot", 
+                    "impressive", 
+                    "Z-Man"
+                ], 
+                "role": "Hot Scientist: Sammi reveals herself to have a pretty impressive figure when she leaves on a date with Z-Man.", 
+                "id": "HotScientist"
+            }, 
+            {
+                "adjectives": [
+                    "Common"
+                ], 
+                "role": "Most Common Superpower: Valeria has it.", 
+                "id": "MostCommonSuperpower"
+            }
+        ]
+    }, 
+    "imdbid": "tt0993750", 
+    "poster_url": "TheCondor.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HotScientist", 
+                "MostCommonSuperpower"
+            ], 
+            "shared_count": 2, 
+            "id": "SinCity", 
+            "name": "Sin City", 
+            "poster_url": "SinCity.jpg"
+        }, 
+        {
+            "shared": [
+                "GagBoobs", 
+                "MostCommonSuperpower"
+            ], 
+            "shared_count": 2, 
+            "id": "SupermanBatmanPublicEnemies", 
+            "name": "Superman/Batman: Public Enemies", 
+            "poster_url": "SupermanBatmanPublicEnemies.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "Innerspace", 
+            "name": "Innerspace", 
+            "poster_url": "Innerspace.jpg"
+        }, 
+        {
+            "shared": [
+                "HotScientist"
+            ], 
+            "shared_count": 1, 
+            "id": "AgentForHARM", 
+            "name": "Agent for H.A.R.M.", 
+            "poster_url": "AgentForHARM.jpg"
+        }
+    ], 
+    "id": "TheCondor", 
+    "name": "The Condor"
+}

@@ -1,0 +1,65 @@
+{
+    "plot": "In 19th Century Paris, the maniacal Dr. Mirakle abducts young women and injects them with ape blood in an attempt to prove ape-human kinship. He constantly meets failure as the abducted women die. Medical student Pierre Dupin discovers what Mirakle is doing too late to prevent the abduction of his girlfriend Camille. Now he desperately tries to enlist the help of the police to get her back.", 
+    "genres": "Crime, Horror, Mystery", 
+    "release_year": "1932", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [
+                    "first"
+                ], 
+                "role": "The first victim of Dr. Mirakle's experiments in 1932 Murders in the Rue Morgue is a prostitute.", 
+                "id": "DisposableSexWorker"
+            }
+        ]
+    }, 
+    "imdbid": "tt0023249", 
+    "similar": [
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "DarkCity", 
+            "name": "Dark City"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "TheBurning", 
+            "name": "The Burning", 
+            "poster_url": "TheBurning.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "IchiTheKiller", 
+            "name": "Ichi the Killer", 
+            "poster_url": "IchiTheKiller.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "TheCurseOfTheWerewolf", 
+            "name": "The Curse of the Werewolf", 
+            "poster_url": "TheCurseOfTheWerewolf.jpg"
+        }, 
+        {
+            "shared": [
+                "DisposableSexWorker"
+            ], 
+            "shared_count": 1, 
+            "id": "Chloe", 
+            "name": "Chloe", 
+            "poster_url": "Chloe.jpg"
+        }
+    ], 
+    "id": "MurdersInTheRueMorgue", 
+    "name": "Murders in the Rue Morgue"
+}

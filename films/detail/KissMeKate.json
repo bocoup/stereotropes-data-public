@@ -1,0 +1,92 @@
+{
+    "plot": "Fred and Lilly are a divorced pair of actors who are brought together by Cole Porter who has written a musical version of The Taming of the Shrew. Of course, the couple seem to act a great deal like the characters they play. A fight on the opening night threatens the production, as well as two thugs who have the mistaken idea that Fred owes their boss money and insist on staying next to him all night.", 
+    "genres": "Comedy, Musical, Romance", 
+    "release_year": "1953", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "The Gambler: Bill.", 
+                "id": "TheGambler"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "virginal"
+                ], 
+                "role": "Lois Lane, a character in Kiss Me Kate, plays the ingenue in the Show Within a Show, but is decidedly less virginal off that stage.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "virginal"
+                ], 
+                "role": "The Ingenue: Subverted with Lois. She plays one on stage as Bianca but is far less virginal off stage.", 
+                "id": "TheIngenue"
+            }, 
+            {
+                "adjectives": [
+                    "feminine"
+                ], 
+                "role": "Tomboy and Girly Girl: Lilli and Lois. Subverted in that Lilli is a Tomboy with attitude but is also very feminine and a soprano.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0045963", 
+    "poster_url": "KissMeKate.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheIngenue", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheMothDiaries", 
+            "name": "The Moth Diaries", 
+            "poster_url": "TheMothDiaries.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheSoundOfMusic", 
+            "name": "The Sound of Music", 
+            "poster_url": "TheSoundOfMusic.jpg"
+        }, 
+        {
+            "shared": [
+                "TheIngenue", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "ButImACheerleader", 
+            "name": "But I'm a Cheerleader", 
+            "poster_url": "ButImACheerleader.jpg"
+        }, 
+        {
+            "shared": [
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 1, 
+            "id": "KuchKuchHotaHai", 
+            "name": "Kuch Kuch Hota Hai", 
+            "poster_url": "KuchKuchHotaHai.jpg"
+        }
+    ], 
+    "id": "KissMeKate", 
+    "name": "Kiss Me Kate"
+}

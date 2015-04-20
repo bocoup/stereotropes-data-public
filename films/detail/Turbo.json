@@ -1,0 +1,99 @@
+{
+    "plot": "From the makers of MADAGASCAR and KUNG FU PANDA, TURBO is a high-velocity 3D comedy about a snail who dares to dream big - and fast. After a freak accident infuses him with the power of super-speed, Turbo kicks into overdrive and embarks on an extraordinary journey to achieve the seemingly impossible: competing in the world's fastest race, the Indianapolis 500. With the help of his tricked-out streetwise snail crew, this ultimate underdog puts his heart and shell on the line to prove that no dream is too big, and no dreamer too small.", 
+    "genres": "Animation, Adventure, Comedy", 
+    "release_year": "2013", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "first", 
+                    "final"
+                ], 
+                "role": "Jerk Jock: Guy Gagne seems to be a subversion at first but quickly shows he's this before the final race.", 
+                "id": "JerkJock"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Non-Action Guy: Chet. He tries to overcome this in \"Bumperdome.\"", 
+                "id": "NonActionGuy"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "Kim-Ly", 
+                    "hard"
+                ], 
+                "role": "Never Mess with Granny: Kim-Ly as  Guy found out the hard way.", 
+                "id": "NeverMessWithGranny"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Spicy Latina: Burn", 
+                "id": "SpicyLatina"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "The Chick: Burn.", 
+                "id": "TheChick"
+            }
+        ]
+    }, 
+    "imdbid": "tt1860353", 
+    "poster_url": "Turbo.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "JerkJock", 
+                "SpicyLatina"
+            ], 
+            "shared_count": 3, 
+            "id": "TheHotChick", 
+            "name": "The Hot Chick", 
+            "poster_url": "TheHotChick.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "TheCroods", 
+            "name": "The Croods", 
+            "poster_url": "TheCroods.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "NeverMessWithGranny"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLastStand", 
+            "name": "The Last Stand", 
+            "poster_url": "TheLastStand.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "JerkJock"
+            ], 
+            "shared_count": 2, 
+            "id": "DeadPoetsSociety", 
+            "name": "Dead Poets Society", 
+            "poster_url": "DeadPoetsSociety.jpg"
+        }
+    ], 
+    "id": "Turbo", 
+    "name": "Turbo"
+}

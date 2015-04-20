@@ -1,0 +1,83 @@
+{
+    "plot": "Barbie and her friends stumble onto a movie set and get cast as extras. But their friendship is tested when one of the girls makes a quick rise to stardom.", 
+    "genres": "Animation", 
+    "release_year": "2005", 
+    "roles": {
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick \u2014 Ellis", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [
+                    "single", 
+                    "fabric"
+                ], 
+                "role": "The Fashionista: Chelsea, who can create an outfit from a single piece of fabric and a pair of scissors.", 
+                "id": "TheFashionista"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Tomboy and Girly Girl: Delancey and Chelsea.", 
+                "id": "TomBoyAndGirlyGirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0484500", 
+    "poster_url": "MySceneGoesHollywood.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheFashionista", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "GrownUps", 
+            "name": "Grown Ups", 
+            "poster_url": "GrownUps.jpg"
+        }, 
+        {
+            "shared": [
+                "TheFashionista", 
+                "TheChick"
+            ], 
+            "shared_count": 2, 
+            "id": "HappilyEverAfter", 
+            "name": "Happily Ever After", 
+            "poster_url": "HappilyEverAfter.jpg"
+        }, 
+        {
+            "shared": [
+                "TheFashionista", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "Enchanted", 
+            "name": "Enchanted", 
+            "poster_url": "Enchanted.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "MyDogSkip", 
+            "name": "My Dog Skip", 
+            "poster_url": "MyDogSkip.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "TomBoyAndGirlyGirl"
+            ], 
+            "shared_count": 2, 
+            "id": "TheLEGOMovie", 
+            "name": "The LEGO Movie", 
+            "poster_url": "TheLEGOMovie.jpg"
+        }
+    ], 
+    "id": "MySceneGoesHollywood", 
+    "name": "My Scene Goes Hollywood"
+}

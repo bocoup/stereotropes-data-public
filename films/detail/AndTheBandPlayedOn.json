@@ -1,0 +1,87 @@
+{
+    "plot": "This is the story of the first years of the AIDS epidemic in the United States and focuses on three key elements. Dr. Don Francis, an immunologist with experience in eradicating smallpox and containing the Ebola virus, joins the Centers for Disease Control (CDC) to try and understand just what this disease is. They also have deal with bureaucracy and a government that doesn't seem to care. The gay community in San Francisco is divided on the nature of the disease but also what should be done about it. Finally, the film deals with the rivalry between Dr. Robert Gallo, the American virologist who previously discovered the first retrovirus and his French counterpart at the Pasteur Institute, Dr. Luc Montagnier, that led to disputed claims about who was first to identify the AIDS virus.", 
+    "genres": "Drama", 
+    "release_year": "1993", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Shirtless Scene: The steward.", 
+                "id": "ShirtlessScene"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Straight Gay", 
+                "id": "StraightGay"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "The Chick: Mary Guinan.", 
+                "id": "TheChick"
+            }, 
+            {
+                "adjectives": [], 
+                "role": "Yaoi Fangirl: Selma Dritz.", 
+                "id": "YaoiFangirl"
+            }
+        ]
+    }, 
+    "imdbid": "tt0106273", 
+    "poster_url": "AndTheBandPlayedOn.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "TheChick", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "TheExpendables", 
+            "name": "The Expendables", 
+            "poster_url": "TheExpendables.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "ShirtlessScene"
+            ], 
+            "shared_count": 2, 
+            "id": "DeadPoetsSociety", 
+            "name": "Dead Poets Society", 
+            "poster_url": "DeadPoetsSociety.jpg"
+        }, 
+        {
+            "shared": [
+                "TheChick", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "ThatThingYouDo", 
+            "name": "That Thing You Do!", 
+            "poster_url": "ThatThingYouDo.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "TheBoondockSaints", 
+            "name": "The Boondock Saints", 
+            "poster_url": "TheBoondockSaints.jpg"
+        }, 
+        {
+            "shared": [
+                "ShirtlessScene", 
+                "StraightGay"
+            ], 
+            "shared_count": 2, 
+            "id": "WereTheWorldMine", 
+            "name": "Were the World Mine", 
+            "poster_url": "WereTheWorldMine.jpg"
+        }
+    ], 
+    "id": "AndTheBandPlayedOn", 
+    "name": "And The Band Played On"
+}

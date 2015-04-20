@@ -1,0 +1,75 @@
+{
+    "plot": "James Reece is an ambitious aide to the U.S. Ambassador in Paris, doing little jobs for the CIA and hoping to get into black ops. On the night he and his girlfriend, Caroline, become engaged, he's told to pick up Charlie Wax at Orly. Charlie is an unorthodox government employee - large, bald and bearded, foul-mouthed and eccentric. Charlie immediately takes James on a wild ride of murder and mayhem, through ethnic enclaves. As bodies pile up, the purpose remains opaque to James. Caroline, unhappy that James has been out of touch for a day, tells him to bring Charlie for dinner. Charlie can be charming - where will it lead? Does the chess-playing James have what it takes?", 
+    "genres": "Action, Thriller", 
+    "release_year": "2010", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Badass Beard: Adorns Travolta as Wax. To emphasize the point, comes with...", 
+                "id": "BadAssBeard"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [
+                    "High"
+                ], 
+                "role": "High Heel-Face Turn: Played with, but ultimately averted.", 
+                "id": "HighHeelFaceTurn"
+            }
+        ]
+    }, 
+    "imdbid": "tt1179034", 
+    "poster_url": "FromParisWithLove.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "HighHeelFaceTurn", 
+                "BadAssBeard"
+            ], 
+            "shared_count": 2, 
+            "id": "FlashGordon", 
+            "name": "Flash Gordon", 
+            "poster_url": "FlashGordon.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }, 
+        {
+            "shared": [
+                "HighHeelFaceTurn"
+            ], 
+            "shared_count": 1, 
+            "id": "Hercules", 
+            "name": "Hercules", 
+            "poster_url": "Hercules.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "Pirates", 
+            "name": "Pirates", 
+            "poster_url": "Pirates.jpg"
+        }, 
+        {
+            "shared": [
+                "BadAssBeard"
+            ], 
+            "shared_count": 1, 
+            "id": "TheMaskOfZorro", 
+            "name": "The Mask of Zorro", 
+            "poster_url": "TheMaskOfZorro.jpg"
+        }
+    ], 
+    "id": "FromParisWithLove", 
+    "name": "From Paris with Love"
+}

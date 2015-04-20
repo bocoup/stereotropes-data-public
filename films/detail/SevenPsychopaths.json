@@ -1,0 +1,75 @@
+{
+    "plot": "A struggling screenwriter (Colin Farrell) inadvertently becomes entangled in the Los Angeles criminal underworld after his friends (Christopher Walken and Sam Rockwell) kidnap a gangster's (Woody Harrelson) beloved Shih Tzu.", 
+    "genres": "Comedy, Crime", 
+    "release_year": "2012", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [
+                    "interpersonal"
+                ], 
+                "role": "The Loins Sleep Tonight: Billy, in line with his overt interpersonal relationship issues.", 
+                "id": "TheLoinsSleepTonight"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Ms. Fanservice: The hooker, who spends most of her screen time clad in only a pair of panties.", 
+                "id": "MsFanservice"
+            }
+        ]
+    }, 
+    "imdbid": "tt1931533", 
+    "poster_url": "SevenPsychopaths.jpg", 
+    "similar": [
+        {
+            "shared": [
+                "MsFanservice", 
+                "TheLoinsSleepTonight"
+            ], 
+            "shared_count": 2, 
+            "id": "SpaceJam", 
+            "name": "Space Jam", 
+            "poster_url": "SpaceJam.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "Kingpin", 
+            "name": "Kingpin", 
+            "poster_url": "Kingpin.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "CaptainAmericaTheFirstAvenger", 
+            "name": "Captain America: The First Avenger", 
+            "poster_url": "CaptainAmericaTheFirstAvenger.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "RazorBladeSmile", 
+            "name": "Razor Blade Smile", 
+            "poster_url": "RazorBladeSmile.jpg"
+        }, 
+        {
+            "shared": [
+                "MsFanservice"
+            ], 
+            "shared_count": 1, 
+            "id": "AViewToAKill", 
+            "name": "A View to a Kill", 
+            "poster_url": "AViewToAKill.jpg"
+        }
+    ], 
+    "id": "SevenPsychopaths", 
+    "name": "Seven Psychopaths"
+}

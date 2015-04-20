@@ -1,0 +1,71 @@
+{
+    "plot": "About entertaining adventures of penguin Lolo, about the nature and fauna of Antarctica. The film is about inhabitants of Antarctica penguins, about their existence full of dangers, about adventures of penguin Lolo who being inquisitive since the birth, learns a lot of interesting about the world, the nature and the environment.", 
+    "genres": "Animation, Adventure, Family", 
+    "release_year": "1986", 
+    "roles": {
+        "m": [
+            {
+                "adjectives": [], 
+                "role": "Bumbling Dad: Snowflake's father qualifies. Gilbert however, averts this; he's both a competent leader and father.", 
+                "id": "BumblingDad"
+            }
+        ], 
+        "f": [
+            {
+                "adjectives": [], 
+                "role": "Neutral Female: Poor Snowflake. She does try, but it doesn't often work.", 
+                "id": "NeutralFemale"
+            }
+        ]
+    }, 
+    "imdbid": "tt0098259", 
+    "similar": [
+        {
+            "shared": [
+                "NeutralFemale", 
+                "BumblingDad"
+            ], 
+            "shared_count": 2, 
+            "id": "ManosTheHandsOfFate", 
+            "name": "Manos The Hands of Fate", 
+            "poster_url": "ManosTheHandsOfFate.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "RawDeal", 
+            "name": "Raw Deal", 
+            "poster_url": "RawDeal.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "RobinHoodPrinceOfThieves", 
+            "name": "Robin Hood: Prince of Thieves", 
+            "poster_url": "RobinHoodPrinceOfThieves.jpg"
+        }, 
+        {
+            "shared": [
+                "NeutralFemale"
+            ], 
+            "shared_count": 1, 
+            "id": "SherlockHolmes", 
+            "name": "Sherlock Holmes", 
+            "poster_url": "SherlockHolmes.jpg"
+        }, 
+        {
+            "shared": [
+                "BumblingDad"
+            ], 
+            "shared_count": 1, 
+            "id": "Epic", 
+            "name": "Epic"
+        }
+    ], 
+    "id": "ScamperThePenguin", 
+    "name": "Scamper the Penguin"
+}
