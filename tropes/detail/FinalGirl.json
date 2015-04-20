@@ -1,0 +1,581 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            8, 
+            0.026490066225165563, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            47, 
+            0.08006814310051108, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            22, 
+            0.024858757062146894, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            40, 
+            0.070298769771529, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            36, 
+            0.05572755417956656, 
+            646
+        ]
+    ], 
+    "description": "The simplest definition of this is \"the last character left alive to confront the killer\" in a Slasher Movie. The character in question tends to follow a certain set of characteristics. The most obvious one is being (almost) Always Female. Especially in older works she'll also almost certainly be a virgin, remain fully clothed, avoid Death by Sex , and probably won't drink alcohol, smoke tobacco or take drugs, either. Finally, she'll probably turn out to be more intelligent and resourceful than the other victims, occasionally even evolving into a type of Action Girl by the movie's end. Looking at the Sorting Algorithm of Mortality, you could say that the Final Girl is a combination of The Hero, The Cutie and the Damsel in Distress - which obviously gives her a very low deadness score. The Final Girl is usually but not always brunette, often in contrast to a promiscuous blonde who traditionally gets killed off.\nIt's also interesting to note how the Final Girl can be interpreted in film theory. On one hand, the character seems to be the living embodiment of stereotypical conservative attitudes of what women \"should be\". On the other, feminists have noticed that through this device, a predominantly male audience is forced to identify with a woman in the climax of the movie. In practical terms, the makers of a horror film want the victim to experience abject terror in the climax, and feel that viewers would reject a film that showed a man experiencing such abject terror.\nThe term was coined by Carol J. Clover in her critical examination of slasher movies.\nIf the Final Girl appears in a sequel to the movie she survived, there is a very high chance that she will fall victim to Sudden Sequel Death Syndrome.\nThis trope has seen a growing number of subversions, aversions and parodies in recent years which suggests it may be slowly weakening. Then again, the Action Survivor's replacing the Action Hero points in an interesting direction.\nThank God for Lowered Monster Difficulty.\nUsually overlaps with Token Wholesome. Compare and contrast Kill the Cutie and Men Are the Expendable Gender. Has nothing to do with Last Girl Wins, which is about romantic pairings.", 
+    "gender": "f", 
+    "adjs": [
+        "last", 
+        "alive", 
+        "certain", 
+        "obvious", 
+        "avoid"
+    ], 
+    "adjectives": [
+        [
+            "interesting", 
+            2, 
+            13.649106413562613, 
+            1.0, 
+            [
+                "VainSorceress", 
+                "YamatoNadeshiko", 
+                "BarbaricBully", 
+                "TerritorialSmurfette", 
+                "GentlemanWizard", 
+                "NeverASelfMadeWoman", 
+                "WrenchWench", 
+                "Jailbait", 
+                "AsianHookerStereotype", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "last", 
+            2, 
+            10.92220348352609, 
+            0.8002138127279234, 
+            [
+                "SenseiChan", 
+                "CasanovaWannabe", 
+                "IllGirl", 
+                "CampStraight", 
+                "YokoOhNo", 
+                "BaitAndSwitchLesbians", 
+                "MysticalWaif", 
+                "SexyManInstantHarem", 
+                "ProperLady", 
+                "MarySue", 
+                "TheOphelia", 
+                "BoyBand", 
+                "StoutStrength", 
+                "StandardFiftiesFather", 
+                "WickedWitch", 
+                "AsianAirhead", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "resourceful", 
+            1, 
+            9.614726111565727, 
+            0.7044216537144093, 
+            [
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "avoid", 
+            1, 
+            8.57232708138637, 
+            0.6280504248152365, 
+            [
+                "ManInAKilt", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "alive", 
+            1, 
+            6.996969356808794, 
+            0.5126320467291664, 
+            [
+                "FinalGirl", 
+                "DisappearedDad", 
+                "WorldsMostBeautifulWoman", 
+                "ProperLady", 
+                "MissingMom"
+            ]
+        ], 
+        [
+            "promiscuous", 
+            1, 
+            6.996969356808794, 
+            0.5126320467291664, 
+            [
+                "FinalGirl", 
+                "GirlNextDoor", 
+                "CatholicSchoolGirlsRule", 
+                "TheFlapper"
+            ]
+        ], 
+        [
+            "conservative", 
+            1, 
+            6.383575797800931, 
+            0.46769184768446137, 
+            [
+                "ManInWhite", 
+                "HighClassCallGirl", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "FemaleMisogynist", 
+                "GoodOlBoy", 
+                "MaidenAunt", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "intelligent", 
+            1, 
+            6.383575797800931, 
+            0.46769184768446137, 
+            [
+                "SpiritedYoungLady", 
+                "Beastess", 
+                "WomenDrivers", 
+                "SpoiledSweet", 
+                "ProperLady", 
+                "Fratbro", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "critical", 
+            1, 
+            5.918433424774426, 
+            0.4336132524319319, 
+            [
+                "GaussianGirl", 
+                "MysteriousProtector", 
+                "GirlFriday", 
+                "BlondesAreEvil", 
+                "NiceJewishBoy", 
+                "MagicalGirlfriend", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "practical", 
+            1, 
+            5.544223813955004, 
+            0.4061968341345712, 
+            [
+                "NaginatasAreFeminine", 
+                "SpiritedYoungLady", 
+                "RightThroughHisPants", 
+                "KickChick", 
+                "TeamMom", 
+                "ShelteredAristocrat", 
+                "SingleMomStripper", 
+                "LovelyAssistant", 
+                "GIRL", 
+                "WrenchWench", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "recent", 
+            1, 
+            4.963343358095101, 
+            0.3636387033486097, 
+            [
+                "CircumcisionAngst", 
+                "VainSorceress", 
+                "DoggedNiceGuy", 
+                "BarbaricBully", 
+                "TheLadette", 
+                "TheCheerleader", 
+                "LovelyAngels", 
+                "NubileSavage", 
+                "HouseWife", 
+                "MagicalGirlfriend", 
+                "HuskyRusskie", 
+                "Bridezilla", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "low", 
+            1, 
+            4.6216702846881965, 
+            0.3386060702183268, 
+            [
+                "MafiaPrincess", 
+                "BedlahBabe", 
+                "PluckyOfficeGirl", 
+                "FemmeFatale", 
+                "DumbMuscle", 
+                "GalleySlave", 
+                "CoolOldLady", 
+                "QuintessentialBritishGentleman", 
+                "TopHeavyGuy", 
+                "Samurai", 
+                "TheCharmer", 
+                "DrillSergeantNasty", 
+                "Hobos", 
+                "BassoProfundo", 
+                "CrusadingWidower", 
+                "FinalGirl", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "stereotypical", 
+            1, 
+            4.424511281226353, 
+            0.3241612415615633, 
+            [
+                "BumblingDad", 
+                "CampGay", 
+                "Fangirl", 
+                "LeatherMan", 
+                "DragonLady", 
+                "CosplayOtakuGirl", 
+                "GoodGirlGoneBad", 
+                "Fratbro", 
+                "FinalGirl", 
+                "MysticalWaif", 
+                "SensitiveGuyAndManlyMan", 
+                "GayCowboy", 
+                "HotWitch", 
+                "PerkyGoth", 
+                "JewishMother", 
+                "DastardlyWhiplash", 
+                "BrawnHilda", 
+                "BasementDweller"
+            ]
+        ], 
+        [
+            "obvious", 
+            1, 
+            3.3876223191155352, 
+            0.248193707080295, 
+            [
+                "UnrequitedTragicMaiden", 
+                "OverprotectiveDad", 
+                "EunuchsAreEvil", 
+                "HugeSchoolgirl", 
+                "WinterRoyalLady", 
+                "GIRL", 
+                "HeManWomanHater", 
+                "FinalGirl", 
+                "CampGay", 
+                "GirlOfTheWeek", 
+                "LittleSisterHeroine", 
+                "TeamMom", 
+                "AsianAirhead", 
+                "MachoCamp", 
+                "WalkingShirtlessScene", 
+                "HystericalWoman", 
+                "ShirtlessCaptives", 
+                "VainSorceress", 
+                "Samurai", 
+                "CorruptHick", 
+                "MarySue", 
+                "ScaryBlackMan", 
+                "FilleFatale", 
+                "CrusadingWidower", 
+                "BadassGrandpa", 
+                "CasanovaWannabe", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "HumanoidFemaleAnimal", 
+                "BeautifulSlaveGirl", 
+                "EffeminateMisogynisticGuy", 
+                "ConceiveAndKill"
+            ]
+        ], 
+        [
+            "romantic", 
+            1, 
+            3.013921807333756, 
+            0.22081458785748298, 
+            [
+                "UnrequitedTragicMaiden", 
+                "FemmeFatale", 
+                "AdrenalineMakeover", 
+                "BastardBoyfriend", 
+                "MistressAndServantBoy", 
+                "NeutralFemale", 
+                "SchoolgirlLesbians", 
+                "FinalGirl", 
+                "DoggedNiceGuy", 
+                "BashBrothers", 
+                "LittleSisterHeroine", 
+                "MagicalGirlfriend", 
+                "NaiveEverygirl", 
+                "QuicklyDemotedWoman", 
+                "FeminineWomenCanCook", 
+                "BespectacledBastardBoyfriend", 
+                "TheChanteuse", 
+                "InnocentFanserviceGirl", 
+                "GaussianGirl", 
+                "SensitiveGuyAndManlyMan", 
+                "BaitAndSwitchLesbians", 
+                "BromanticFoil", 
+                "TheIngenue", 
+                "CockFight", 
+                "UnderstandingBoyfriend", 
+                "ButchLesbian", 
+                "IllGirl", 
+                "SchoolMarm", 
+                "Dominatrix", 
+                "StumblingUponTheLostWizard", 
+                "OneeSama", 
+                "AsianHookerStereotype"
+            ]
+        ], 
+        [
+            "certain", 
+            1, 
+            2.5442088172389257, 
+            0.18640112694196884, 
+            [
+                "YamatoNadeshiko", 
+                "Fangirl", 
+                "ChildSoldiers", 
+                "TheEvilPrince", 
+                "PrincelyYoungMan", 
+                "GoodBadGirl", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "TheTease", 
+                "EmotionlessGirl", 
+                "TheVamp", 
+                "PrettyBoy", 
+                "FinalGirl", 
+                "FeminineWomenCanCook", 
+                "GoGetterGirl", 
+                "SpiritedYoungLady", 
+                "BashBrothers", 
+                "TheFightingNarcissist", 
+                "BeardOfEvil", 
+                "ShelteredAristocrat", 
+                "AgentPeacock", 
+                "OldMaid", 
+                "GentlemanThief", 
+                "LesbianCop", 
+                "JerkJock", 
+                "ClassyCatBurglar", 
+                "MissKitty", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "ButchLesbian", 
+                "InnocentFanserviceGirl", 
+                "NonActionGuy", 
+                "Samurai", 
+                "DisposableSexWorker", 
+                "SensitiveGuyAndManlyMan", 
+                "GirlsLoveStuffedAnimals", 
+                "HotWitch", 
+                "DirtyCoward", 
+                "EstrogenBrigade", 
+                "DaddysLittleVillain", 
+                "LesbianJock", 
+                "YaoiGuys", 
+                "ManlyGay", 
+                "LeatherMan", 
+                "IronLady", 
+                "WomenDrivers", 
+                "ShirtlessScene", 
+                "SissyVillain", 
+                "WomanInBlack", 
+                "DumbassTeenageSon", 
+                "LadyOfWar", 
+                "GenderInvertedTrope"
+            ]
+        ], 
+        [
+            "high", 
+            1, 
+            2.208181345766461, 
+            0.16178211810058662, 
+            [
+                "Socialite", 
+                "WalkingShirtlessScene", 
+                "HeroicSeductress", 
+                "PrincelyYoungMan", 
+                "DarkMistress", 
+                "MegaTwintails", 
+                "HugeSchoolgirl", 
+                "DirtyOldMan", 
+                "FemininityFailure", 
+                "FemaleMisogynist", 
+                "CatholicSchoolGirlsRule", 
+                "MagicalGirl", 
+                "GossipyHens", 
+                "Ojou", 
+                "PlayboyBunny", 
+                "AnimeChineseGirl", 
+                "BastardGirlfriend", 
+                "KnightInShiningArmor", 
+                "InstantSoprano", 
+                "WomenDrivers", 
+                "BlondeRepublicanSexKitten", 
+                "ALadyOnEachArm", 
+                "BespectacledBastardBoyfriend", 
+                "TheFightingNarcissist", 
+                "AlphaBitch", 
+                "GirlNextDoor", 
+                "ProperLady", 
+                "FinalGirl", 
+                "WomanScorned", 
+                "ManicPixieDreamGirl", 
+                "TheEvilPrince", 
+                "Joshikousei", 
+                "GamerChick", 
+                "PrinceCharmless", 
+                "TheChanteuse", 
+                "ButchLesbian", 
+                "GracefulLadiesLikePurple", 
+                "MataHari", 
+                "Samurai", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "PregnantHostage", 
+                "EvenTheGirlsWantHer", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "GirlishPigtails", 
+                "GoGetterGirl", 
+                "DirtyHarriet", 
+                "VainSorceress", 
+                "BarbaricBully", 
+                "LadyOfAdventure", 
+                "KindlyHousekeeper", 
+                "KidAnova", 
+                "BastardBastard", 
+                "UncannyValleyGirl", 
+                "GirlPosse", 
+                "LipstickLesbian", 
+                "HighSchoolHustler", 
+                "TheHighQueen"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "KickingAssInAllHerFinery", 
+            "trope": "FinalGirl", 
+            "films": [
+                "Frozen"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HardDrinkingPartyGirl", 
+            "trope": "FinalGirl", 
+            "films": [
+                "BlackChristmas1974"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GymBunny", 
+            "trope": "FinalGirl", 
+            "films": [
+                "ScaryMovie"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StringyHairedGhostGirl", 
+            "trope": "FinalGirl", 
+            "films": [
+                "ScaryMovie"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WinterRoyalLady", 
+            "trope": "FinalGirl", 
+            "films": [
+                "Frozen"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TroubledButCute", 
+            "trope": "FinalGirl", 
+            "films": [
+                "Frozen"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TomboyPrincess", 
+            "trope": "FinalGirl", 
+            "films": [
+                "Frozen"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "IceQueen", 
+            "trope": "FinalGirl", 
+            "films": [
+                "Frozen"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GracefulLadiesLikePurple", 
+            "trope": "FinalGirl", 
+            "films": [
+                "Frozen"
+            ]
+        }
+    ], 
+    "id": "FinalGirl", 
+    "name": "Final Girl"
+}

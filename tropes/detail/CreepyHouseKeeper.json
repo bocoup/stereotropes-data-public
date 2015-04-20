@@ -1,0 +1,292 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            2, 
+            0.018018018018018018, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "Ever found yourself at a huge mansion in the middle of a torrential rainstorm?  Chances are the door was opened to you by a Creepy Housekeeper.  This trope spends much of her time walking around a large manor house cleaning, cooking, being fanatically devoted to her master, and scaring off any new female inhabitants of the house. Although she often welcomes hapless visitors, chances are they will be either murdered or scared off by the end of a terrifying night.   She will be common in murder mysteries/tales of the supernatural, although often subverted for comedy.\nHer male counterpart is the Crusty Caretaker. They'll often tag team any newcomers into being properly creeped out before the hauntings start.", 
+    "gender": "f", 
+    "adjs": [
+        "huge", 
+        "torrential", 
+        "large", 
+        "new", 
+        "supernatural"
+    ], 
+    "adjectives": [
+        [
+            "tag", 
+            1, 
+            11.914480172293118, 
+            1.0, 
+            [
+                "CreepyHouseKeeper"
+            ]
+        ], 
+        [
+            "torrential", 
+            1, 
+            11.914480172293118, 
+            1.0, 
+            [
+                "CreepyHouseKeeper"
+            ]
+        ], 
+        [
+            "supernatural", 
+            1, 
+            7.996727752825063, 
+            0.6711772261303763, 
+            [
+                "GaussianGirl", 
+                "EunuchsAreEvil", 
+                "TheMuse", 
+                "TheVamp", 
+                "CreepyHouseKeeper", 
+                "JeanneDArchetype", 
+                "HauntedHeroine", 
+                "UnderstandingBoyfriend"
+            ]
+        ], 
+        [
+            "huge", 
+            1, 
+            6.9836557525830285, 
+            0.5861485899169465, 
+            [
+                "ElegantGothicLolita", 
+                "BrattyTeenageDaughter", 
+                "MachoMasochism", 
+                "BeardOfBarbarism", 
+                "GirlNextDoor", 
+                "MegaTwintails", 
+                "HugeSchoolgirl", 
+                "TopHeavyGuy", 
+                "BeardOfEvil", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "CreepyHouseKeeper", 
+                "GirlishPigtails", 
+                "BasementDweller"
+            ]
+        ], 
+        [
+            "new", 
+            1, 
+            5.43371541330244, 
+            0.45605979738322405, 
+            [
+                "EvilDiva", 
+                "YamatoNadeshiko", 
+                "AffirmativeActionGirl", 
+                "TheOldConvict", 
+                "TerritorialSmurfette", 
+                "KickingAssInAllHerFinery", 
+                "WhiteDwarfStarlet", 
+                "FemaleMisogynist", 
+                "LawmanGoneBad", 
+                "GIRL", 
+                "CreepyHouseKeeper", 
+                "GirlInABox", 
+                "GaussianGirl", 
+                "TheChiefsDaughter", 
+                "ActionHeroBabysitter", 
+                "HuskyRusskie", 
+                "WrenchWench", 
+                "ActionGirl", 
+                "ManicPixieDreamGirl", 
+                "UselessBoyfriend", 
+                "SweetPollyOliver", 
+                "BirthTropes", 
+                "MartyStu", 
+                "TheSquadette", 
+                "BlackBossLady", 
+                "CoolOldLady", 
+                "BattleaxeNurse", 
+                "GirlPosse", 
+                "DarkMagicalGirl", 
+                "LadyKillerInLove", 
+                "YokoOhNo"
+            ]
+        ], 
+        [
+            "large", 
+            1, 
+            5.025206185772918, 
+            0.4217730117558073, 
+            [
+                "OverprotectiveDad", 
+                "ScreamingWoman", 
+                "AmazonianBeauty", 
+                "BoyBand", 
+                "CreepyHouseKeeper", 
+                "YokoOhNo", 
+                "FatGirl", 
+                "CrazyCatLady", 
+                "MagicalGirlfriend", 
+                "HuskyRusskie", 
+                "TinyTyrannicalGirl", 
+                "MachoCamp", 
+                "BedlahBabe", 
+                "GlamorousWartimeSinger", 
+                "ArabOilSheikh", 
+                "MountainMan", 
+                "GalleySlave", 
+                "TopHeavyGuy", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "DisposableSexWorker", 
+                "Hunk", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "StoutStrength", 
+                "TheButcher", 
+                "WickedWitch", 
+                "BridgeBunnies", 
+                "GrandeDame", 
+                "ManlyGay", 
+                "RobotGirl", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "GagBoobs", 
+                "LipstickLesbian", 
+                "Bishonen", 
+                "HandyMan", 
+                "BrawnHilda", 
+                "BiggerIsBetterInBed"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/CreepyHouseKeeper.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "CreepyHouseKeeper", 
+            "films": [
+                "TheHaunting1963"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HauntedHeroine", 
+            "trope": "CreepyHouseKeeper", 
+            "films": [
+                "TheHaunting1963"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GrandeDame", 
+            "trope": "CreepyHouseKeeper", 
+            "films": [
+                "Rebecca"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCharmer", 
+            "trope": "CreepyHouseKeeper", 
+            "films": [
+                "Rebecca"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheOphelia", 
+            "trope": "CreepyHouseKeeper", 
+            "films": [
+                "TheHaunting1963"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GagPenis", 
+            "trope": "CreepyHouseKeeper", 
+            "films": [
+                "YoungFrankenstein"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomanInWhite", 
+            "trope": "CreepyHouseKeeper", 
+            "films": [
+                "Rebecca"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GagBoobs", 
+            "trope": "CreepyHouseKeeper", 
+            "films": [
+                "YoungFrankenstein"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheDandy", 
+            "trope": "CreepyHouseKeeper", 
+            "films": [
+                "UnderCapricorn"
+            ]
+        }
+    ], 
+    "id": "CreepyHouseKeeper", 
+    "name": "Creepy House Keeper"
+}

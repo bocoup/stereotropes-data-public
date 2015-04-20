@@ -1,0 +1,540 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            3, 
+            0.003389830508474576, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "You hate him. But oh my God he just looks oh-so hot. He makes fun of you, is an absolute jerk and there is no one else on the planet you hate more. But still, he looks gorgeous... doesn't he?\nBut no! You hate him despite all that hotness because he hates you too... or does he?\nAnd there you have the Handsome Devil. The guy you love to hate or hate to love. Sometimes, it's even both.\nThe Handsome Devil is often someone the main character hates for his or her own reasons. Every other girl is often in love with him. Symptoms of being a handsome devil include being good-looking, rich and a jerk. Often a playboy. May or may not have a relationship gone wrong with the protagonist's best friend.\nSimilar but not the same with All Girls Want Bad Boys. This one is about the fine line between love and hate. All Girls Want Bad Boys often has main protagonists who just like bad boys.\nMay be The Casanova. Compare with Love at First Punch. A more fetishized and kinky version is the Bastard Boyfriend. Contrast Creepy Good, which is an inversion.\nNot to be confused with a literally handsome devil or \"everybody\u2019s favorite psychedelic-rockabilly-jazz-R&B-blues-surf band\" That Handsome Devil. Compare Foe Yay, Magnificent Bastard and Draco in Leather Pants.", 
+    "gender": "m", 
+    "adjs": [
+        "oh-so", 
+        "absolute", 
+        "gorgeous", 
+        "main", 
+        "good-looking"
+    ], 
+    "adjectives": [
+        [
+            "b-blues-surf", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "HandsomeDevil"
+            ]
+        ], 
+        [
+            "everybody\u2019s", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "HandsomeDevil"
+            ]
+        ], 
+        [
+            "oh-so", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "HandsomeDevil"
+            ]
+        ], 
+        [
+            "psychedelic-rockabilly-jazz-r", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "HandsomeDevil"
+            ]
+        ], 
+        [
+            "absolute", 
+            1, 
+            8.366158214770323, 
+            0.8295003754487558, 
+            [
+                "HarpOfFemininity", 
+                "SensitiveGuyAndManlyMan", 
+                "HandsomeDevil"
+            ]
+        ], 
+        [
+            "main", 
+            2, 
+            7.877767956513351, 
+            0.7810767271994984, 
+            [
+                "SexyStewardess", 
+                "MysticalWaif", 
+                "MamaBear", 
+                "GossipyHens", 
+                "TokenLesbian", 
+                "SoapBoxSadie", 
+                "TheOneGuy", 
+                "LovelyAssistant", 
+                "TomBoyAndGirlyGirl", 
+                "TheCharmer", 
+                "CoolBigSis", 
+                "MatronChaperone", 
+                "Ojou", 
+                "GlamorousWartimeSinger", 
+                "HandsomeDevil", 
+                "MartyStu", 
+                "FatGirl", 
+                "ShelteredAristocrat", 
+                "Joshikousei", 
+                "GirlNextDoor", 
+                "HardDrinkingPartyGirl", 
+                "MaidenAunt", 
+                "TheGoodKing", 
+                "QuicklyDemotedWoman", 
+                "AsianAirhead", 
+                "BumblingDad", 
+                "UselessBoyfriend", 
+                "TheChanteuse", 
+                "GrannyClassic", 
+                "MountainMan", 
+                "InnocentFanserviceGirl", 
+                "TheFightingNarcissist", 
+                "OneeSama", 
+                "SensitiveGuyAndManlyMan", 
+                "DirtyCoward", 
+                "BromanticFoil", 
+                "ActionDad", 
+                "Fratbro", 
+                "YaoiGuys", 
+                "Samurai", 
+                "BlackBossLady", 
+                "CoolOldLady", 
+                "Meido", 
+                "Chickification", 
+                "TheMuse", 
+                "AmazonBrigade", 
+                "SexyManInstantHarem", 
+                "HookerWithAHeartOfGold", 
+                "DeterminedHomesteadersWife", 
+                "TheTease"
+            ]
+        ], 
+        [
+            "kinky", 
+            1, 
+            7.464575613568279, 
+            0.7401089143985905, 
+            [
+                "BespectacledBastardBoyfriend", 
+                "BastardBoyfriend", 
+                "HandsomeDevil"
+            ]
+        ], 
+        [
+            "favorite", 
+            1, 
+            7.132917038047778, 
+            0.7072251335935191, 
+            [
+                "WalkingShirtlessScene", 
+                "PrincessPhase", 
+                "JerkJock", 
+                "HandsomeDevil", 
+                "MarySue", 
+                "GreenSkinnedSpaceBabe"
+            ]
+        ], 
+        [
+            "love", 
+            1, 
+            6.849458288104088, 
+            0.6791203412304715, 
+            [
+                "MafiaPrincess", 
+                "CrazyJealousGuy", 
+                "LadyOfAdventure", 
+                "HandsomeDevil", 
+                "HotScoop", 
+                "DefectingForLove", 
+                "TheCasanova"
+            ]
+        ], 
+        [
+            "good-looking", 
+            1, 
+            6.602038517154075, 
+            0.6545887954925314, 
+            [
+                "VainSorceress", 
+                "YamatoNadeshiko", 
+                "HotMenAtWork", 
+                "BespectacledBastardBoyfriend", 
+                "HandsomeDevil", 
+                "OfficeLady", 
+                "Bishonen", 
+                "FiremenAreHot"
+            ]
+        ], 
+        [
+            "gorgeous", 
+            1, 
+            5.692271177709225, 
+            0.5643858217658103, 
+            [
+                "FarmersDaughter", 
+                "MadScientistsBeautifulDaughter", 
+                "DudeLooksLikeALady", 
+                "LadyOfAdventure", 
+                "AdrenalineMakeover", 
+                "HandsomeDevil", 
+                "RobotGirl", 
+                "ButterFace", 
+                "HookerWithAHeartOfGold", 
+                "HotScientist", 
+                "TheDandy"
+            ]
+        ], 
+        [
+            "rich", 
+            1, 
+            4.615696930191734, 
+            0.4576440270747167, 
+            [
+                "DistractedByTheLuxury", 
+                "GentlemanThief", 
+                "Socialite", 
+                "ClassyCatBurglar", 
+                "ArabOilSheikh", 
+                "DaddysGirl", 
+                "PrinceCharming", 
+                "CoolOldLady", 
+                "HandsomeDevil", 
+                "GentlemanWizard", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "BattleaxeNurse", 
+                "Bridezilla", 
+                "TinyTyrannicalGirl", 
+                "SpoiledSweet", 
+                "PrincelyYoungMan", 
+                "AsianAirhead", 
+                "Ojou"
+            ]
+        ], 
+        [
+            "bad", 
+            1, 
+            2.621488959151698, 
+            0.2599193106355566, 
+            [
+                "AsianHookerStereotype", 
+                "ViolentlyProtectiveGirlFriend", 
+                "FemmeFatale", 
+                "AdrenalineMakeover", 
+                "BastardBoyfriend", 
+                "ManInAKilt", 
+                "DarkMistress", 
+                "GoodGirlGoneBad", 
+                "LawmanGoneBad", 
+                "BoyBand", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "HeManWomanHater", 
+                "CulturedBadass", 
+                "TheBear", 
+                "LovableAlphaBitch", 
+                "TheCheerleader", 
+                "BlondGuysAreEvil", 
+                "HandsomeDevil", 
+                "BashBrothers", 
+                "ActionHeroBabysitter", 
+                "BeardOfEvil", 
+                "ShelteredAristocrat", 
+                "AlphaBitch", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "OverlordJr", 
+                "DamselInDistress", 
+                "KnightErrant", 
+                "NaiveEverygirl", 
+                "MommasBoy", 
+                "AsianAirhead", 
+                "BadassPrincess", 
+                "TheEvilPrince", 
+                "MenCantKeepHouse", 
+                "HeroicSeductress", 
+                "ClassyCatBurglar", 
+                "GirlNextDoor", 
+                "MorallyBankruptBanker", 
+                "NeverMessWithGranny", 
+                "GoodBadGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "TheCutie", 
+                "EvenTheGirlsWantHer", 
+                "OfficerAndAGentleman", 
+                "BeautifulAllAlong", 
+                "DaddysLittleVillain", 
+                "TheButcher", 
+                "WickedWitch", 
+                "LesbianVampire", 
+                "PrinceCharming", 
+                "RebelliousPrincess", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HouseWife", 
+                "NaughtyNuns", 
+                "StageMom", 
+                "LightFeminineAndDarkFeminine", 
+                "PirateGirl", 
+                "DastardlyWhiplash", 
+                "TheWomanWearingTheQueenlyMask", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "same", 
+            1, 
+            1.6600843772244511, 
+            0.1645965303110276, 
+            [
+                "OverprotectiveDad", 
+                "ChildSoldiers", 
+                "BeardOfBarbarism", 
+                "Hobos", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "TheBear", 
+                "SpiritedYoungLady", 
+                "TheChiefsDaughter", 
+                "HandsomeDevil", 
+                "TeamMom", 
+                "AlphaBitch", 
+                "TheCasanova", 
+                "BigBeautifulMan", 
+                "HeroicSeductress", 
+                "PoliticallyActivePrincess", 
+                "ArabOilSheikh", 
+                "UselessBoyfriend", 
+                "EverythingsBetterWithPrincesses", 
+                "DirtyCoward", 
+                "TheIngenue", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "GayBravado", 
+                "TheUglyGuysHotDaughter", 
+                "HouseWife", 
+                "WomenDrivers", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "Jailbait", 
+                "MamaBear", 
+                "GossipyHens", 
+                "HugeSchoolgirl", 
+                "AmazonianBeauty", 
+                "TomBoyAndGirlyGirl", 
+                "HouseHusband", 
+                "SchoolgirlLesbians", 
+                "UnluckyEveryDude", 
+                "TheCheerleader", 
+                "AsianAirhead", 
+                "LipstickLesbian", 
+                "MountainMan", 
+                "CoolOldGuy", 
+                "PassionateSportsGirl", 
+                "DisposableSexWorker", 
+                "FilleFatale", 
+                "HelloNurse", 
+                "ThePatriarch", 
+                "ManlyGay", 
+                "SexySecretary", 
+                "MysticalWaif", 
+                "EffeminateMisogynisticGuy", 
+                "ScaryBlackMan", 
+                "PluckyOfficeGirl", 
+                "ALadyOnEachArm", 
+                "CoolBigSis", 
+                "TheBaroness", 
+                "GagPenis", 
+                "BashBrothers", 
+                "Joshikousei", 
+                "TheFlapper", 
+                "SeashellBra", 
+                "BaldBlackLeaderGuy", 
+                "QuicklyDemotedWoman", 
+                "JunglePrincess", 
+                "PrinceCharmless", 
+                "GirlNextDoor", 
+                "MataHari", 
+                "NonActionGuy", 
+                "TheOphelia", 
+                "LovelyAssistant", 
+                "DistressedDude", 
+                "AccidentalPornomancer", 
+                "TheDandy", 
+                "VainSorceress", 
+                "CasanovaWannabe", 
+                "MsFanservice", 
+                "TheMuse", 
+                "HotGypsyWoman", 
+                "AnimeChineseGirl", 
+                "HighHeelFaceTurn", 
+                "DoggedNiceGuy", 
+                "GoGetterGirl", 
+                "NeverASelfMadeWoman", 
+                "TheHecateSisters", 
+                "FauxActionGirl", 
+                "MonogenderMonsters", 
+                "JeanneDArchetype", 
+                "FeminineWomenCanCook", 
+                "MartyStu", 
+                "GamerChick", 
+                "Fratbro", 
+                "DefectingForLove", 
+                "DaddysLittleVillain", 
+                "LittleMissConArtist", 
+                "CockFight", 
+                "HotScientist", 
+                "LesbianJock", 
+                "ChickMagnet", 
+                "AsianBabymama", 
+                "LeatherMan", 
+                "DragonLady", 
+                "MisterSeahorse", 
+                "TheOneGuy", 
+                "JewishMother"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "SwingLowSweetHarriet", 
+            "trope": "HandsomeDevil", 
+            "films": [
+                "TenThingsIHateAboutYou"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NobleMaleRoguishMale", 
+            "trope": "HandsomeDevil", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "HandsomeDevil", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LadyInRed", 
+            "trope": "HandsomeDevil", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SouthernGentleman", 
+            "trope": "HandsomeDevil", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCharmer", 
+            "trope": "HandsomeDevil", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpiritedYoungLady", 
+            "trope": "HandsomeDevil", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Ojou", 
+            "trope": "HandsomeDevil", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SassyBlackWoman", 
+            "trope": "HandsomeDevil", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }
+    ], 
+    "id": "HandsomeDevil", 
+    "name": "Handsome Devil"
+}

@@ -1,0 +1,203 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            3, 
+            0.02702702702702703, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            4, 
+            0.022727272727272728, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            1, 
+            0.0011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            7, 
+            0.012302284710017574, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "The faithful female servant. She's not an Action Girl, but neither is she a Damsel in Distress; her main job is to help The Hero (her boss) out at critical junctures. Sometimes she provides critical information, other times it's just a helping hand or heart, sometimes with a side of Unresolved Sexual Tension. Don't presume the Girl Friday can't fight however \u2014 she can still kick plenty of ass, sometimes turning into a full-fledged Battle Butler.\nThe term is the Distaff Counterpart of \"Man Friday,\" an expression that comes from Robinson Crusoe's \"man Friday\" (man as in servant, Friday being his name); it was popularized for female office workers by His Girl Friday, a Screw Ball Comedy about a reporter's relationship with her editor/ex-husband.\nCompare with The Jeeves, Beleaguered Assistant, and Hyper Competent Sidekick. A step up from the Sexy Secretary. Contrast Ignored Enamored Underling.\nNeither the 1994 TV movie of this name, or the song by the Beat Crusaders are the Trope Namer, nor are they examples of the trope.", 
+    "gender": "f", 
+    "adjs": [
+        "critical", 
+        "critical", 
+        "plenty", 
+        "full-fledged", 
+        "song"
+    ], 
+    "adjectives": [
+        [
+            "critical", 
+            2, 
+            19.67904945435871, 
+            1.0, 
+            [
+                "GaussianGirl", 
+                "MysteriousProtector", 
+                "GirlFriday", 
+                "BlondesAreEvil", 
+                "NiceJewishBoy", 
+                "MagicalGirlfriend", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "full-fledged", 
+            1, 
+            12.2786918096927, 
+            0.6239474034643017, 
+            [
+                "GirlFriday"
+            ]
+        ], 
+        [
+            "plenty", 
+            1, 
+            10.554757454343777, 
+            0.53634488184113, 
+            [
+                "SpoiledSweet", 
+                "GirlFriday", 
+                "ScreamingWoman"
+            ]
+        ], 
+        [
+            "song", 
+            1, 
+            9.029432189914782, 
+            0.4588347730339615, 
+            [
+                "GirlFriday", 
+                "GlamorousWartimeSinger", 
+                "SweetPollyOliver", 
+                "MagicalSeventhSon", 
+                "Hobos", 
+                "GirlInABox", 
+                "TheLoinsSleepTonight"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/GirlFriday.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "SissyVillain", 
+            "trope": "GirlFriday", 
+            "films": [
+                "SinCity", 
+                "TheMalteseFalcon"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PerkyFemaleMinion", 
+            "trope": "GirlFriday", 
+            "films": [
+                "SinCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LipstickLesbian", 
+            "trope": "GirlFriday", 
+            "films": [
+                "SinCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PluckyOfficeGirl", 
+            "trope": "GirlFriday", 
+            "films": [
+                "IronMan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "OverlordJr", 
+            "trope": "GirlFriday", 
+            "films": [
+                "SinCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "GirlFriday", 
+            "films": [
+                "CinderellaIIDreamsComeTrue"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheEvilPrince", 
+            "trope": "GirlFriday", 
+            "films": [
+                "SinCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheVamp", 
+            "trope": "GirlFriday", 
+            "films": [
+                "SinCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SexySecretary", 
+            "trope": "GirlFriday", 
+            "films": [
+                "IronMan"
+            ]
+        }
+    ], 
+    "id": "GirlFriday", 
+    "name": "Girl Friday"
+}

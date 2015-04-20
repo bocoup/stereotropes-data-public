@@ -1,0 +1,419 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            3, 
+            0.005110732538330494, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            5, 
+            0.005649717514124294, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            6, 
+            0.01054481546572935, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            8, 
+            0.01238390092879257, 
+            646
+        ]
+    ], 
+    "description": "In Real Life, pregnancy is just a natural part of the cycle of life, with women commonly managing to work right up till they go into labor and resuming normal activity a few days after. However, it's also damned inconvenient, marked by tenderness of various random body parts, moderate to severe nausea and vomiting, challenges to joints and ligaments that can be exceedingly painful, and of course, all that ballooning up a pregnant woman has a tendency to do. Particularly troublesome pregnancies can even be incapacitating.\nOn TV, pregnancy falls at one of two extremes. Either it's a debilitating condition that takes former Action Girls out of commission for the duration, rendering them physically and emotionally fragile or even bedridden \u2014 or exactly the opposite. Whether it's due to surging hormones or newfound maternal instincts, in action shows, pregnancy can cause a woman to take a level in badass \u2014 sometimes temporarily, sometimes permanently in preparation for becoming a Mama Bear or Action Mom.\nIf they really want to emphasize what a Badass we're talking about she'll run into a major battle nine months pregnant, go into labor while fighting, retire just long enough to deliver the baby, then get up and return to the fray. Take it Up to Eleven in situations where magic is involved, and the unborn child is trying to help its mother in someway, lending support in what is usually a terrible strain on her mind or soul.\nA Pregnant Badass, of course, might be part of a Battle Couple. (Far closer to Truth in Television, as a father is very likely to protect his wife and unborn child if they are threatened.\n\nExamples", 
+    "gender": "f", 
+    "adjs": [
+        "natural", 
+        "normal", 
+        "moderate", 
+        "painful", 
+        "pregnant"
+    ], 
+    "adjectives": [
+        [
+            "moderate", 
+            1, 
+            8.809858692382944, 
+            1.0, 
+            [
+                "TomboyPrincess", 
+                "UnluckyEveryDude", 
+                "PregnantBadass"
+            ]
+        ], 
+        [
+            "fragile", 
+            1, 
+            8.307104331819156, 
+            0.9429327554369887, 
+            [
+                "FragileFlower", 
+                "PregnantBadass"
+            ]
+        ], 
+        [
+            "maternal", 
+            1, 
+            7.906982778672999, 
+            0.8975152785945845, 
+            [
+                "FeminineWomenCanCook", 
+                "IronLady", 
+                "TheHecateSisters", 
+                "PregnantBadass", 
+                "LadyOfBlackMagic"
+            ]
+        ], 
+        [
+            "painful", 
+            1, 
+            7.5746775468985525, 
+            0.8597955780434553, 
+            [
+                "UnrequitedTragicMaiden", 
+                "RightThroughHisPants", 
+                "PregnantBadass", 
+                "DrillSergeantNasty", 
+                "CrusadingWidower", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "terrible", 
+            1, 
+            7.290572140700914, 
+            0.827547001066474, 
+            [
+                "HighHeelFaceTurn", 
+                "LittleRedFightingHood", 
+                "PregnantBadass", 
+                "GirlPosse", 
+                "TheOphelia", 
+                "DamselInDistress", 
+                "OldMaid"
+            ]
+        ], 
+        [
+            "pregnant", 
+            1, 
+            6.822412688710184, 
+            0.7744065968514208, 
+            [
+                "GlamorousSingleMother", 
+                "PregnantBadass", 
+                "BellyDancer", 
+                "TheHecateSisters", 
+                "PregnantHostage", 
+                "EarthMother", 
+                "HardDrinkingPartyGirl", 
+                "ActionMom", 
+                "MyBelovedSmother"
+            ]
+        ], 
+        [
+            "former", 
+            1, 
+            5.735778595374159, 
+            0.6510636317394451, 
+            [
+                "HighHeelFaceTurn", 
+                "YaoiFangirl", 
+                "ChildSoldiers", 
+                "ChivalrousPervert", 
+                "MissKitty", 
+                "PregnantBadass", 
+                "LadyOfWar", 
+                "BastardBoyfriend", 
+                "QuicklyDemotedWoman", 
+                "HotGypsyWoman", 
+                "BoyBand", 
+                "HuskyRusskie", 
+                "NobleMaleRoguishMale"
+            ]
+        ], 
+        [
+            "magic", 
+            1, 
+            5.21921120756849, 
+            0.5924284815238922, 
+            [
+                "BlackMagicianGirl", 
+                "VainSorceress", 
+                "MagicalGirlWarrior", 
+                "HotWitch", 
+                "CrazyCatLady", 
+                "PregnantBadass", 
+                "GentlemanWizard", 
+                "CuteWitch", 
+                "MagicalSeventhSon", 
+                "LadyOfBlackMagic", 
+                "LovelyAssistant", 
+                "LadyOfWar", 
+                "WickedWitch"
+            ]
+        ], 
+        [
+            "major", 
+            1, 
+            5.21921120756849, 
+            0.5924284815238922, 
+            [
+                "Tomboy", 
+                "MistressAndServantBoy", 
+                "EvenTheGirlsWantHer", 
+                "ChildSoldiers", 
+                "IceQueen", 
+                "DirtyCoward", 
+                "WomenDrivers", 
+                "BastardBoyfriend", 
+                "BaitAndSwitchLesbians", 
+                "PregnantBadass", 
+                "FilleFatale", 
+                "FanserviceExtra", 
+                "DefectingForLove", 
+                "OfficerAndAGentleman", 
+                "BoyBand", 
+                "EmotionlessGirl", 
+                "Meganekko", 
+                "HeManWomanHater", 
+                "GirlInABox", 
+                "AsianAirhead", 
+                "DressesGownsAndSkirts"
+            ]
+        ], 
+        [
+            "natural", 
+            1, 
+            5.1308595038432525, 
+            0.5823997504386108, 
+            [
+                "OutdoorsyGal", 
+                "DirtyHarriet", 
+                "WizardBeard", 
+                "BrattyTeenageDaughter", 
+                "GrandeDame", 
+                "MissKitty", 
+                "BlondesAreEvil", 
+                "VainSorceress", 
+                "HouseWife", 
+                "PregnantBadass", 
+                "ButchLesbian", 
+                "OldSchoolChivalry", 
+                "AlphaBitch", 
+                "Hobos", 
+                "LittleMissAlmighty", 
+                "AsianHookerStereotype", 
+                "NocturnalEmission", 
+                "AsianAirhead"
+            ]
+        ], 
+        [
+            "normal", 
+            1, 
+            4.607161753377769, 
+            0.5229552384717757, 
+            [
+                "MamaBear", 
+                "FurryBaldness", 
+                "CuteGhostGirl", 
+                "DrillSergeantNasty", 
+                "EmotionlessGirl", 
+                "TheVamp", 
+                "Bridezilla", 
+                "GreaseMonkey", 
+                "DoggedNiceGuy", 
+                "Fratbro", 
+                "AgentPeacock", 
+                "NocturnalEmission", 
+                "CrazyJealousGuy", 
+                "ArabOilSheikh", 
+                "UselessBoyfriend", 
+                "InnocentFanserviceGirl", 
+                "TopHeavyGuy", 
+                "EverythingsBetterWithPrincesses", 
+                "DisposableSexWorker", 
+                "HauntedHeroine", 
+                "HenpeckedHusband", 
+                "AccidentalPornomancer", 
+                "AsianBabymama", 
+                "GayBravado", 
+                "MysteriousWaif", 
+                "MisterSeahorse", 
+                "PregnantBadass", 
+                "BassoProfundo"
+            ]
+        ], 
+        [
+            "long", 
+            1, 
+            3.9555726622533705, 
+            0.44899388291816555, 
+            [
+                "WizardBeard", 
+                "YamatoNadeshiko", 
+                "FemmeFatale", 
+                "TheOphelia", 
+                "MegaTwintails", 
+                "WhiteDwarfStarlet", 
+                "StraightGay", 
+                "GIRL", 
+                "TheGeneralissimo", 
+                "Fundoshi", 
+                "DoggedNiceGuy", 
+                "LooksLikeJesus", 
+                "GlamorousWartimeSinger", 
+                "BaitAndSwitchLesbians", 
+                "BeardOfEvil", 
+                "ActionGirl", 
+                "BattleButler", 
+                "SexyStewardess", 
+                "NaginatasAreFeminine", 
+                "MissKitty", 
+                "TheChanteuse", 
+                "LongJohnShoutout", 
+                "EverythingsBetterWithPrincesses", 
+                "MarySue", 
+                "DirtyCoward", 
+                "HauntedHeroine", 
+                "TheDandy", 
+                "TimePassageBeard", 
+                "BadassGrandpa", 
+                "IllGirl", 
+                "GymBunny", 
+                "KavorkaMan", 
+                "PregnantBadass", 
+                "DarkActionGirl", 
+                "ButterFace", 
+                "HotGypsyWoman", 
+                "StageMom", 
+                "WomanInBlack", 
+                "GodSaveUsFromTheQueen", 
+                "SexyPriest"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/PregnantBadass.gif", 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "TheThreeFacesOfAdam", 
+            "trope": "PregnantBadass", 
+            "films": [
+                "Tron", 
+                "Dune", 
+                "StarTrek"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WalkingShirtlessScene", 
+            "trope": "PregnantBadass", 
+            "films": [
+                "ConanTheBarbarian2011", 
+                "Dune"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "PregnantBadass", 
+            "films": [
+                "Underworld", 
+                "KillBill"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheChick", 
+            "trope": "PregnantBadass", 
+            "films": [
+                "SpyKids", 
+                "StarTrek"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WomanInBlack", 
+            "trope": "PregnantBadass", 
+            "films": [
+                "KillBill", 
+                "Inside"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheEvilPrince", 
+            "trope": "PregnantBadass", 
+            "films": [
+                "Dune"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SexySecretary", 
+            "trope": "PregnantBadass", 
+            "films": [
+                "Dune"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "PregnantBadass", 
+            "films": [
+                "Fargo"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "RightHandHottie", 
+            "trope": "PregnantBadass", 
+            "films": [
+                "TheEmperorsNewGroove"
+            ]
+        }
+    ], 
+    "id": "PregnantBadass", 
+    "name": "Pregnant Badass"
+}

@@ -1,0 +1,298 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            6, 
+            0.06593406593406594, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            3, 
+            0.02702702702702703, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            3, 
+            0.017045454545454544, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            3, 
+            0.013333333333333334, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            7, 
+            0.023178807947019868, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            5, 
+            0.008517887563884156, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            4, 
+            0.004519774011299435, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            4, 
+            0.007029876977152899, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            6, 
+            0.009287925696594427, 
+            646
+        ]
+    ], 
+    "description": "The Lady Drunk is that female Stock Character who's an alcoholic, older woman (in her 40s to her 60s or so) and usually has either a bitter, misanthropic personality or is the all-too-grown-up version of the Hard-Drinking Party Girl. (In the latter case, she is quite likely to turn into a Christmas Cake as well.) Likely having started out as an upper-crust Grande Dame, she tends to drink from a martini glass and may be used as a stock member of a Big Screwed-Up Family. In her day, she was probably quite attractive and rather promiscuous.\nThe character type may have originated with the idea that once the lady who Really Gets Around loses her looks, she starts drinking as compensation.\nNot to be confused with a girl drink drunk.", 
+    "gender": "f", 
+    "adjs": [
+        "alcoholic", 
+        "bitter", 
+        "misanthropic", 
+        "all-too-grown-up", 
+        "hard-drinking"
+    ], 
+    "adjectives": [
+        [
+            "all-too-grown-up", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "LadyDrunk"
+            ]
+        ], 
+        [
+            "misanthropic", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "LadyDrunk"
+            ]
+        ], 
+        [
+            "upper-crust", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "LadyDrunk"
+            ]
+        ], 
+        [
+            "alcoholic", 
+            1, 
+            9.883538792778847, 
+            0.851543955251283, 
+            [
+                "NaughtyByNight", 
+                "LadyDrunk", 
+                "HouseWife"
+            ]
+        ], 
+        [
+            "bitter", 
+            1, 
+            8.978506428534168, 
+            0.7735683581258478, 
+            [
+                "TheHecateSisters", 
+                "ProperLady", 
+                "MaidenAunt", 
+                "LadyDrunk", 
+                "BrokenBird"
+            ]
+        ], 
+        [
+            "hard-drinking", 
+            1, 
+            8.978506428534168, 
+            0.7735683581258478, 
+            [
+                "CoolBigSis", 
+                "TheLadette", 
+                "LadyDrunk", 
+                "Fratbro", 
+                "TheTease"
+            ]
+        ], 
+        [
+            "attractive", 
+            1, 
+            3.6533780463082746, 
+            0.3147670138002123, 
+            [
+                "AmazonChaser", 
+                "EvenTheGirlsWantHer", 
+                "GirlGroup", 
+                "RightHandHottie", 
+                "TheLadette", 
+                "LovelyAssistant", 
+                "AmazonianBeauty", 
+                "BrawnHilda", 
+                "GIRL", 
+                "BlondeRepublicanSexKitten", 
+                "CuteClumsyGirl", 
+                "PerkyGoth", 
+                "DisguisedInDrag", 
+                "WorldsMostBeautifulWoman", 
+                "TheBear", 
+                "SchoolNurse", 
+                "TheBaroness", 
+                "ALadyOnEachArm", 
+                "Meido", 
+                "HelloNurse", 
+                "CarpetOfVirility", 
+                "ManInAKilt", 
+                "SpicyLatina", 
+                "AlphaBitch", 
+                "CuteMonsterGirl", 
+                "StatuesqueStunner", 
+                "GreenSkinnedSpaceBabe", 
+                "FiremenAreHot", 
+                "ManicPixieDreamGirl", 
+                "HauntedHeroine", 
+                "WalkingShirtlessScene", 
+                "BigBeautifulMan", 
+                "SenseiChan", 
+                "GirlNextDoor", 
+                "HighClassCallGirl", 
+                "Kawaiiko", 
+                "MataHari", 
+                "BridgeBunnies", 
+                "TheFightingNarcissist", 
+                "OfficeLady", 
+                "LadyDrunk", 
+                "SensitiveGuyAndManlyMan", 
+                "EstrogenBrigade", 
+                "HotWitch", 
+                "BaitAndSwitchLesbians", 
+                "BromanticFoil", 
+                "HotScientist", 
+                "MrFanservice", 
+                "BigBeautifulWoman", 
+                "WorldsStrongestMan", 
+                "BeautyMark", 
+                "NubileSavage", 
+                "CasanovaWannabe", 
+                "IdolSinger", 
+                "GymBunny", 
+                "KavorkaMan", 
+                "HouseWife", 
+                "HotScoop", 
+                "CatholicSchoolGirlsRule", 
+                "SissyVillain", 
+                "GirlyBruiser", 
+                "Bishonen", 
+                "ChippendalesDancers", 
+                "SexyPriest", 
+                "LegCling"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/LadyDrunk.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "WhiteDwarfStarlet", 
+            "trope": "LadyDrunk", 
+            "films": [
+                "BulletsOverBroadway", 
+                "WhatEverHappenedToBabyJane"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "LightFeminineAndDarkFeminine", 
+            "trope": "LadyDrunk", 
+            "films": [
+                "DarkShadows", 
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "LadyDrunk", 
+            "films": [
+                "TheWomen", 
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "MsFanservice", 
+            "trope": "LadyDrunk", 
+            "films": [
+                "Burlesque", 
+                "DarkShadows"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "ScreamingWoman", 
+            "trope": "LadyDrunk", 
+            "films": [
+                "BlackChristmas1974", 
+                "VisitingHours"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SassyBlackWoman", 
+            "trope": "LadyDrunk", 
+            "films": [
+                "YouCantTakeItWithYou", 
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WomanScorned", 
+            "trope": "LadyDrunk", 
+            "films": [
+                "BlueJasmine", 
+                "DarkShadows"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TeamMom", 
+            "trope": "LadyDrunk", 
+            "films": [
+                "Burlesque", 
+                "BlackChristmas1974"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheDandy", 
+            "trope": "LadyDrunk", 
+            "films": [
+                "UnderCapricorn", 
+                "GoneWithTheWind"
+            ]
+        }
+    ], 
+    "id": "LadyDrunk", 
+    "name": "Lady Drunk"
+}

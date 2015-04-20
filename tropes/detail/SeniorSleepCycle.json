@@ -1,0 +1,203 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "A sub-trope of Grandparental Obliviousness. Basically, if you see a senior citizen in a TV show, most likely, he's either already napping or going to be in a few minutes. And, due to Finagle's Law, it will always be right when he's supposed to be keeping an eye, on something, or about to ...\ntell\n...\n...\nyou\n...\nzzz\n...\nHuh? Wha? Oh, right. There are some elders who can escape this inconvenience. Evil Old Folks tend to be exempt from this rule, as are women in general. Maybe they just drink a lot of coffee. Needless to say, this is an Elderly Trope. It is also more likely to appear in a comedy.\nIn real life, several studies have suggested that people actually need less sleep as they grow older; and the portrayal of this trope in media matches the symptoms of narcolepsy, a neurological disorder unrelated to age.\nThis trope does reflect Truth in Television to some extent, though, as older people often tend to go to sleep earlier than younger adults, and since the elderly are usually retired, they generally have nothing in their schedule to prevent them from napping whenever they feel like it. Furthermore, some sleep disorders that can cause daytime dozing, such as sleep apnea and insomnia, are more likely to gradually develop over the course of a lifetime.", 
+    "gender": "m", 
+    "adjs": [
+        "senior", 
+        "exempt", 
+        "narcolepsy", 
+        "neurological", 
+        "elderly"
+    ], 
+    "adjectives": [
+        [
+            "exempt", 
+            1, 
+            12.2786918096927, 
+            1.0, 
+            [
+                "SeniorSleepCycle"
+            ]
+        ], 
+        [
+            "narcolepsy", 
+            1, 
+            12.2786918096927, 
+            1.0, 
+            [
+                "SeniorSleepCycle"
+            ]
+        ], 
+        [
+            "neurological", 
+            1, 
+            12.2786918096927, 
+            1.0, 
+            [
+                "SeniorSleepCycle"
+            ]
+        ], 
+        [
+            "elderly", 
+            1, 
+            11.233274561844485, 
+            0.9148592322332766, 
+            [
+                "GrumpyOldMan", 
+                "SeniorSleepCycle"
+            ]
+        ], 
+        [
+            "senior", 
+            1, 
+            10.554757454343777, 
+            0.8595995092907158, 
+            [
+                "DadTheVeteran", 
+                "BridgeBunnies", 
+                "SeniorSleepCycle"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/SeniorSleepCycle.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "ShamelessFanserviceGirl", 
+            "trope": "SeniorSleepCycle", 
+            "films": [
+                "Futurama", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WalkingShirtlessScene", 
+            "trope": "SeniorSleepCycle", 
+            "films": [
+                "Futurama", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheCasanova", 
+            "trope": "SeniorSleepCycle", 
+            "films": [
+                "Futurama", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheEvilPrince", 
+            "trope": "SeniorSleepCycle", 
+            "films": [
+                "Labyrinth"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "YaoiFangirl", 
+            "trope": "SeniorSleepCycle", 
+            "films": [
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheLadette", 
+            "trope": "SeniorSleepCycle", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SexyStewardess", 
+            "trope": "SeniorSleepCycle", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StrangeGirl", 
+            "trope": "SeniorSleepCycle", 
+            "films": [
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StraightGay", 
+            "trope": "SeniorSleepCycle", 
+            "films": [
+                "Futurama"
+            ]
+        }
+    ], 
+    "id": "SeniorSleepCycle", 
+    "name": "Senior Sleep Cycle"
+}

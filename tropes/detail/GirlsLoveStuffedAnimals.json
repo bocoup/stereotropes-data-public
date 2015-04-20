@@ -1,0 +1,470 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            1, 
+            0.0033112582781456954, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            4, 
+            0.0068143100511073255, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            7, 
+            0.010835913312693499, 
+            646
+        ]
+    ], 
+    "description": "If you want to give a female character an air of youthful femininity, give her some stuffed animals that she keeps in her room or carries around. Dolls simply won't do, it has to be stuffed animals. Anything from Teddy Bears to Plushies will help make it clear that even if this character is a woman, she's young at heart.\nAlthough that also means immature in a lot of cases. In fiction, it's often the most girlie or bratty female that still has them. In Real Life Japan, some women carry them around to try to remain Kawaiiko for fear of becoming a Christmas Cake.\nOften the animals are carried around constantly, even to the point of being a Security Blanket. Other times the stuffed toy will get dropped in an Empathy Doll Shot. A girl who's still young enough to be in the Princess Phase will have a court full of them.\nNote that this trope is Always Female. Guys having stuffed animals past a certain age would fall under other tropes, such as Real Men Wear Pink.\nWomen wanting to act mature, of course, will not have any, unless she's Not so Above It All and has some hidden away.\nNot an infrequent feature of works relying on Mars and Venus Gender Contrast.\nA Creepy Child will, of course, have a creepy animal or a dangerous one.\nCompare All Girls Like Ponies, All Women Love Shoes, Pink Means Feminine.", 
+    "gender": "f", 
+    "adjs": [
+        "youthful", 
+        "give", 
+        "young", 
+        "girlie", 
+        "bratty"
+    ], 
+    "adjectives": [
+        [
+            "bratty", 
+            1, 
+            10.89455436423575, 
+            1.0, 
+            [
+                "GirlsLoveStuffedAnimals"
+            ]
+        ], 
+        [
+            "girlie", 
+            1, 
+            10.89455436423575, 
+            1.0, 
+            [
+                "GirlsLoveStuffedAnimals"
+            ]
+        ], 
+        [
+            "youthful", 
+            1, 
+            8.269038570129283, 
+            0.7590065911529694, 
+            [
+                "VainSorceress", 
+                "TheOphelia", 
+                "MrsRobinson", 
+                "GirlsLoveStuffedAnimals", 
+                "GymBunny"
+            ]
+        ], 
+        [
+            "young", 
+            2, 
+            7.535860763627616, 
+            0.6917089503326604, 
+            [
+                "OverprotectiveDad", 
+                "WomanInWhite", 
+                "MamaBear", 
+                "TheLadette", 
+                "GranolaGirl", 
+                "PrincelyYoungMan", 
+                "BaitAndSwitchLesbians", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "CuteSportsClubManager", 
+                "CollegeWidow", 
+                "MrsRobinson", 
+                "CoolBigSis", 
+                "EmotionlessGirl", 
+                "MatronChaperone", 
+                "SchoolgirlLesbians", 
+                "Ojou", 
+                "StringyHairedGhostGirl", 
+                "GoGetterGirl", 
+                "TheSquadette", 
+                "NaginatasAreFeminine", 
+                "LittleMissAlmighty", 
+                "WickedWitch", 
+                "MataHari", 
+                "NinjaMaid", 
+                "SmittenTeenageGirl", 
+                "TheHecateSisters", 
+                "TheFlapper", 
+                "MaidenAunt", 
+                "DeterminedWidow", 
+                "JeanneDArchetype", 
+                "MommasBoy", 
+                "GirlsLoveStuffedAnimals", 
+                "PirateGirl", 
+                "JunglePrincess", 
+                "NubileSavage", 
+                "BastardGirlfriend", 
+                "ShortTank", 
+                "OfficeLady", 
+                "GrannyClassic", 
+                "Kawaiiko", 
+                "VainSorceress", 
+                "GracefulLadiesLikePurple", 
+                "GrandeDame", 
+                "BridgeBunnies", 
+                "Meido", 
+                "EverythingsBetterWithPrincesses", 
+                "OneeSama", 
+                "Hunk", 
+                "GrumpyOldMan", 
+                "HotWitch", 
+                "TheOphelia", 
+                "FilleFatale", 
+                "TheWomanWearingTheQueenlyMask", 
+                "TheIngenue", 
+                "SchoolMarm", 
+                "GirlishPigtails", 
+                "Fratbro", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "SenseiChan", 
+                "YaoiGuys", 
+                "TinyTyrannicalGirl", 
+                "MysteriousWaif", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "NaiveEverygirl", 
+                "PrinceCharming", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HotScientist", 
+                "KidAnova", 
+                "PapaWolf", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "BrawnHilda", 
+                "LittleMissBadass", 
+                "MagicIdolSinger", 
+                "PetitePride", 
+                "DarkMagicalGirl", 
+                "PluckyGirl", 
+                "SexyPriest", 
+                "SweetPollyOliver"
+            ]
+        ], 
+        [
+            "give", 
+            1, 
+            7.403267843887419, 
+            0.6795383818718276, 
+            [
+                "BlackBossLady", 
+                "MorallyBankruptBanker", 
+                "ValleyGirl", 
+                "GirlsLoveStuffedAnimals", 
+                "TheTease", 
+                "NiceJewishBoy", 
+                "TheChick", 
+                "WickedWitch"
+            ]
+        ], 
+        [
+            "dangerous", 
+            1, 
+            5.319558142550969, 
+            0.4882768000143101, 
+            [
+                "ScreamingWoman", 
+                "LittleRedFightingHood", 
+                "ContraltoOfDanger", 
+                "GirlsLoveStuffedAnimals", 
+                "MysteriousWoman", 
+                "AmazonianBeauty", 
+                "TheTease", 
+                "RobotGirl", 
+                "LittleDeadRidingHood", 
+                "BashBrothers", 
+                "TheFakeCutie", 
+                "ShelteredAristocrat", 
+                "DamselInDistress", 
+                "WomanScorned", 
+                "BadassPrincess", 
+                "Streetwalker", 
+                "ChivalrousPervert", 
+                "TheChanteuse", 
+                "DisposableSexWorker", 
+                "MilesGloriosus", 
+                "BadassGrandpa", 
+                "GirlInTheTower", 
+                "WomenDrivers", 
+                "WomanInBlack"
+            ]
+        ], 
+        [
+            "past", 
+            1, 
+            5.241694293064944, 
+            0.4811297569244492, 
+            [
+                "GirlsLoveStuffedAnimals", 
+                "BoyBand", 
+                "CampStraight", 
+                "WickedWitch", 
+                "OldMaid", 
+                "TheGambler", 
+                "JeanneDArchetype", 
+                "ChivalrousPervert", 
+                "HookerWithAHeartOfGold", 
+                "JadedWashout", 
+                "EvenTheGirlsWantHer", 
+                "BaitAndSwitchLesbians", 
+                "SchoolMarm", 
+                "BrokenBird", 
+                "HelloNurse", 
+                "MyBelovedSmother", 
+                "ReluctantFanserviceGirl", 
+                "LadyOfAdventure", 
+                "CoolOldLady", 
+                "HouseWife", 
+                "DarkMagicalGirl", 
+                "IronLady", 
+                "SweetPollyOliver"
+            ]
+        ], 
+        [
+            "full", 
+            1, 
+            4.3487323488189045, 
+            0.3991656935592305, 
+            [
+                "BeardOfSorrow", 
+                "YamatoNadeshiko", 
+                "BadAssBeard", 
+                "GirlsLoveStuffedAnimals", 
+                "FemininityFailure", 
+                "WhiteDwarfStarlet", 
+                "LawmanGoneBad", 
+                "BlondeRepublicanSexKitten", 
+                "StandardFiftiesFather", 
+                "CorruptHick", 
+                "LooksLikeJesus", 
+                "TheBaroness", 
+                "BashBrothers", 
+                "FauxActionGirl", 
+                "KnightErrant", 
+                "NaughtyNuns", 
+                "ManicPixieDreamGirl", 
+                "BattleButler", 
+                "BigBeautifulMan", 
+                "DaddysGirl", 
+                "GalleySlave", 
+                "NonActionSnarker", 
+                "BridgeBunnies", 
+                "Samurai", 
+                "SweetPollyOliver", 
+                "HotWitch", 
+                "DirtyCoward", 
+                "Hobos", 
+                "TheWomanWearingTheQueenlyMask", 
+                "GirlishPigtails", 
+                "WorldsStrongestMan", 
+                "TinyTyrannicalGirl", 
+                "LesbianVampire", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "BikerBabe", 
+                "StageMom", 
+                "HighSchoolHustler", 
+                "BassoProfundo"
+            ]
+        ], 
+        [
+            "certain", 
+            1, 
+            3.7173502788528574, 
+            0.3412117792588232, 
+            [
+                "YamatoNadeshiko", 
+                "Fangirl", 
+                "ChildSoldiers", 
+                "TheEvilPrince", 
+                "PrincelyYoungMan", 
+                "GoodBadGirl", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "TheTease", 
+                "EmotionlessGirl", 
+                "TheVamp", 
+                "PrettyBoy", 
+                "FinalGirl", 
+                "FeminineWomenCanCook", 
+                "GoGetterGirl", 
+                "SpiritedYoungLady", 
+                "BashBrothers", 
+                "TheFightingNarcissist", 
+                "BeardOfEvil", 
+                "ShelteredAristocrat", 
+                "AgentPeacock", 
+                "OldMaid", 
+                "GentlemanThief", 
+                "LesbianCop", 
+                "JerkJock", 
+                "ClassyCatBurglar", 
+                "MissKitty", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "ButchLesbian", 
+                "InnocentFanserviceGirl", 
+                "NonActionGuy", 
+                "Samurai", 
+                "DisposableSexWorker", 
+                "SensitiveGuyAndManlyMan", 
+                "GirlsLoveStuffedAnimals", 
+                "HotWitch", 
+                "DirtyCoward", 
+                "EstrogenBrigade", 
+                "DaddysLittleVillain", 
+                "LesbianJock", 
+                "YaoiGuys", 
+                "ManlyGay", 
+                "LeatherMan", 
+                "IronLady", 
+                "WomenDrivers", 
+                "ShirtlessScene", 
+                "SissyVillain", 
+                "WomanInBlack", 
+                "DumbassTeenageSon", 
+                "LadyOfWar", 
+                "GenderInvertedTrope"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/GirlsLoveStuffedAnimals.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "TomboyWithAGirlyStreak", 
+            "trope": "GirlsLoveStuffedAnimals", 
+            "films": [
+                "DespicableMe", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "Ptitleba4e2b2g", 
+            "trope": "GirlsLoveStuffedAnimals", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SeniorSleepCycle", 
+            "trope": "GirlsLoveStuffedAnimals", 
+            "films": [
+                "Labyrinth", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "Meganekko", 
+            "trope": "GirlsLoveStuffedAnimals", 
+            "films": [
+                "DespicableMe", 
+                "BatmanReturns"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheIngenue", 
+            "trope": "GirlsLoveStuffedAnimals", 
+            "films": [
+                "TheMothDiaries", 
+                "BlackSwan"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheOphelia", 
+            "trope": "GirlsLoveStuffedAnimals", 
+            "films": [
+                "TheMothDiaries", 
+                "BlackSwan"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "StageMom", 
+            "trope": "GirlsLoveStuffedAnimals", 
+            "films": [
+                "DespicableMe", 
+                "BlackSwan"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WinterRoyalLady", 
+            "trope": "GirlsLoveStuffedAnimals", 
+            "films": [
+                "Labyrinth", 
+                "BatmanReturns"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WomanInWhite", 
+            "trope": "GirlsLoveStuffedAnimals", 
+            "films": [
+                "BlackSwan", 
+                "FairyTail"
+            ]
+        }
+    ], 
+    "id": "GirlsLoveStuffedAnimals", 
+    "name": "Girls Love Stuffed Animals"
+}

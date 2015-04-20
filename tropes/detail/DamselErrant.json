@@ -1,0 +1,71 @@
+{
+    "description": "The Damsel Errant is the Distaff Counterpart of the Knight Errant, a Stock Character of the Chivalric Romance. They form a complementary pair; he is seeking adventure and she knows where adventures are to be found. Not to be confused with the Damsel in Distress, though she probably knows a few in need of succor.\nThe Damsel Errant may Walk the Earth, often accompanied by a faithful servant, she may head for the Standard Royal Court and demand that The Good King send a Knight in Shining Armor to right an injustice in his realm, or she might set up her pavilion near a fountain or other spot where knights are known to pass. She is seldom named or given any kind of background; basically she is a plot device for putting the knight where the action is. She rarely becomes a love interest normally leaving the knight once they've run out of adventures, often at or near the spot where he first encountered her. In some cases there are hints that the lady is of magical origin.\nCompare and contrast Manic Pixie Dream Girl.", 
+    "gender": "f", 
+    "adjs": [
+        "complementary", 
+        "faithful", 
+        "right", 
+        "magical"
+    ], 
+    "adjectives": [
+        [
+            "complementary", 
+            1, 
+            12.724547389584849, 
+            1.0, 
+            [
+                "DamselErrant"
+            ]
+        ], 
+        [
+            "faithful", 
+            1, 
+            11.678914380368496, 
+            0.917825524381935, 
+            [
+                "TheCasanova", 
+                "DamselErrant"
+            ]
+        ], 
+        [
+            "right", 
+            1, 
+            11.000181511499653, 
+            0.8644850912735329, 
+            [
+                "DamselErrant", 
+                "KnightErrant", 
+                "AlphaBitch"
+            ]
+        ], 
+        [
+            "magical", 
+            1, 
+            6.501744400721199, 
+            0.5109607596764449, 
+            [
+                "EvilDiva", 
+                "DamselErrant", 
+                "DarkMagicalGirl", 
+                "HotWitch", 
+                "KnightInShiningArmor", 
+                "UselessBoyfriend", 
+                "IceQueen", 
+                "MysticalWaif", 
+                "GentlemanWizard", 
+                "CuteWitch", 
+                "MagicIdolSinger", 
+                "MagicalNanny", 
+                "MagicalSeventhSon", 
+                "MagicalGirlfriend", 
+                "MagicalGirl", 
+                "ActionGirlFriend", 
+                "WickedWitch", 
+                "ExtraordinarilyEmpoweredGirl"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/DamselErrant.JPG", 
+    "id": "DamselErrant", 
+    "name": "Damsel Errant"
+}

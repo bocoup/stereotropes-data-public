@@ -1,0 +1,499 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            1, 
+            0.0033112582781456954, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            4, 
+            0.006191950464396285, 
+            646
+        ]
+    ], 
+    "description": "Quite often, especially in shows set in the 50s and 60s, the father figure will be a veteran. Whether he's a Standard '50s Father or an Overprotective Dad, he's capable of being a real hardcase in the right circumstances. Yes, even the Dads who appear to be nothing but creampuff can be tough guys when they need to be, and he bases it all on his years of military service.\nOften this is pulled in situations where a younger (almost always male) character needs to be browbeaten or intimidated. Whether the dad was merely a Marine, or the equivalent of FOXHOUND, at some point, they'll bring it up in a not-so-casual way when they need to remind the younger character that they aren't as soft and yielding as they seem to be.\nQuite a few female characters are given a Veteran Dad as an excuse for why she's tough and independent, but it can also be a Freudian Excuse if he was a tyrannical martinet who lorded over his family with an iron hand. Sometimes this allows female characters to have access to unusual skills or assets, on the assumption that senior military officers use their aviation regiments as their kid's private chauffeurs.\nThis effect can also happen if Dad used to be a cop, or a government agent of some sort. In comedies, it often turns out that yeah, Dad was in the Army... but he was a cook, or a file clerk, or a mechanic, or had some other less than intimidating job.\nThis was a Justified Trope not too long ago for American families, given the almost back-to-back nature of World War II, The Korean War, and The Vietnam War. Given the ongoing War On Terror, one can expect this trope to come back into prominence. It shows up quite often when the plotline involves The Generation Gap.\nIt often coincides with the Military Brat trope.", 
+    "gender": "m", 
+    "adjs": [
+        "overprotective", 
+        "capable", 
+        "real", 
+        "tough", 
+        "military"
+    ], 
+    "adjectives": [
+        [
+            "tough", 
+            2, 
+            10.888444357198775, 
+            1.0, 
+            [
+                "BeautyBrainsAndBrawn", 
+                "GlamorousSingleMother", 
+                "ThePatriarch", 
+                "ChildSoldiers", 
+                "TheSquadette", 
+                "DadTheVeteran", 
+                "IronLady", 
+                "MorallyBankruptBanker", 
+                "TownGirls", 
+                "ContraltoOfDanger", 
+                "MissKitty", 
+                "UselessBoyfriend", 
+                "ActionHeroBabysitter", 
+                "GirlyBruiser", 
+                "FauxActionGirl", 
+                "DirtyCoward", 
+                "Chickification", 
+                "PirateGirl", 
+                "SpicyLatina", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "military", 
+            2, 
+            9.728406747758626, 
+            0.8934615844665448, 
+            [
+                "CulturedBadass", 
+                "TheAllAmericanBoy", 
+                "ManInWhite", 
+                "ChildSoldiers", 
+                "CampFollower", 
+                "DadTheVeteran", 
+                "TheBaroness", 
+                "IronLady", 
+                "DrillSergeantNasty", 
+                "MataHari", 
+                "OfficerAndAGentleman", 
+                "Samurai", 
+                "NeverASelfMadeWoman", 
+                "AgentPeacock", 
+                "BaldBlackLeaderGuy", 
+                "JeanneDArchetype", 
+                "TheButcher", 
+                "TheGeneralissimo"
+            ]
+        ], 
+        [
+            "not-so-casual", 
+            1, 
+            9.51257034836054, 
+            0.8736390650764918, 
+            [
+                "DadTheVeteran"
+            ]
+        ], 
+        [
+            "ongoing", 
+            1, 
+            9.51257034836054, 
+            0.8736390650764918, 
+            [
+                "DadTheVeteran"
+            ]
+        ], 
+        [
+            "tyrannical", 
+            1, 
+            9.51257034836054, 
+            0.8736390650764918, 
+            [
+                "DadTheVeteran"
+            ]
+        ], 
+        [
+            "back-to-back", 
+            1, 
+            8.470386730966137, 
+            0.7779244172163156, 
+            [
+                "DadTheVeteran", 
+                "BashBrothers"
+            ]
+        ], 
+        [
+            "file", 
+            1, 
+            8.470386730966137, 
+            0.7779244172163156, 
+            [
+                "DadTheVeteran", 
+                "TheCharmer"
+            ]
+        ], 
+        [
+            "senior", 
+            1, 
+            7.79510325391924, 
+            0.7159060558329982, 
+            [
+                "DadTheVeteran", 
+                "BridgeBunnies", 
+                "SeniorSleepCycle"
+            ]
+        ], 
+        [
+            "mechanic", 
+            1, 
+            6.895675244743432, 
+            0.6333021521283188, 
+            [
+                "DadTheVeteran", 
+                "ButchLesbian", 
+                "SexistUsedCarSalesman", 
+                "WrenchWench", 
+                "GreaseMonkey"
+            ]
+        ], 
+        [
+            "freudian", 
+            1, 
+            6.5650939652360565, 
+            0.602941407410106, 
+            [
+                "DepravedHomosexual", 
+                "JerkJock", 
+                "DadTheVeteran", 
+                "VainSorceress", 
+                "BastardBoyfriend", 
+                "TheHecateSisters"
+            ]
+        ], 
+        [
+            "independent", 
+            1, 
+            6.282712511305487, 
+            0.5770073580025912, 
+            [
+                "ExtraordinarilyEmpoweredGirl", 
+                "DadTheVeteran", 
+                "DarkActionGirl", 
+                "DamselInDistress", 
+                "BrokenBird", 
+                "ManicPixieDreamGirl"
+            ]
+        ], 
+        [
+            "overprotective", 
+            1, 
+            6.282712511305487, 
+            0.5770073580025912, 
+            [
+                "BumblingDad", 
+                "ThePatriarch", 
+                "PervertDad", 
+                "BrattyTeenageDaughter", 
+                "DadTheVeteran", 
+                "PapaWolf", 
+                "BrawnHilda"
+            ]
+        ], 
+        [
+            "private", 
+            1, 
+            6.036370036368593, 
+            0.5543831458694752, 
+            [
+                "UnluckyEveryDude", 
+                "GoGetterGirl", 
+                "DadTheVeteran", 
+                "IronLady", 
+                "MataHari", 
+                "DrillSergeantNasty", 
+                "ShamelessFanserviceGirl", 
+                "EducationMama"
+            ]
+        ], 
+        [
+            "soft", 
+            1, 
+            5.444222178599388, 
+            0.5, 
+            [
+                "GaussianGirl", 
+                "DadTheVeteran", 
+                "MartyStu", 
+                "GirlyBruiser", 
+                "OfficerAndAGentleman", 
+                "TheGoodKing", 
+                "Fratbro", 
+                "SpicyLatina"
+            ]
+        ], 
+        [
+            "american", 
+            1, 
+            4.864203373879313, 
+            0.4467307922332724, 
+            [
+                "GaussianGirl", 
+                "AsianBabymama", 
+                "ManInWhite", 
+                "JewishAmericanPrincess", 
+                "DadTheVeteran", 
+                "TheFlapper", 
+                "QuintessentialBritishGentleman", 
+                "OfficerAndAGentleman", 
+                "TheVamp", 
+                "RobotGirl", 
+                "AsianHookerStereotype", 
+                "SpicyLatina", 
+                "TheGeneralissimo"
+            ]
+        ], 
+        [
+            "capable", 
+            1, 
+            4.523176538827282, 
+            0.4154107226379711, 
+            [
+                "AngryBlackMan", 
+                "Hackette", 
+                "DadTheVeteran", 
+                "DefectingForLove", 
+                "NeutralFemale", 
+                "LittleRedFightingHood", 
+                "Fangirl", 
+                "Samurai", 
+                "TeamMom", 
+                "AsianAirhead", 
+                "FauxActionGirl", 
+                "UselessBoyfriend", 
+                "HouseHusband", 
+                "HauntedHeroine", 
+                "BrawnHilda", 
+                "HardDrinkingPartyGirl"
+            ]
+        ], 
+        [
+            "unusual", 
+            1, 
+            4.523176538827282, 
+            0.4154107226379711, 
+            [
+                "YamatoNadeshiko", 
+                "GymBunny", 
+                "GentlemanDetective", 
+                "TheSquadette", 
+                "StumblingUponTheLostWizard", 
+                "InnocentFanserviceGirl", 
+                "RobotGirl", 
+                "DadTheVeteran", 
+                "ActionHeroBabysitter", 
+                "TheHecateSisters", 
+                "MarySue", 
+                "EffeminateMisogynisticGuy", 
+                "SpicyLatina", 
+                "ActionGirl", 
+                "MissingMom"
+            ]
+        ], 
+        [
+            "real", 
+            1, 
+            1.8910509447585233, 
+            0.17367503407484244, 
+            [
+                "TheLadysFavour", 
+                "ChildSoldiers", 
+                "InnocentFlowerGirl", 
+                "GranolaGirl", 
+                "WickedStepmother", 
+                "OldSchoolChivalry", 
+                "HumanoidFemaleAnimal", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "HouseHusband", 
+                "MarySue", 
+                "PrettyBoy", 
+                "MasculinityTropes", 
+                "ActionMom", 
+                "TheMuse", 
+                "WorldsMostBeautifulWoman", 
+                "GoGetterGirl", 
+                "LittleSisterHeroine", 
+                "CampStraight", 
+                "WeirdBeard", 
+                "ActionGirlFriend", 
+                "SchoolgirlLesbians", 
+                "GrandeDame", 
+                "BattleaxeNurse", 
+                "ManInAKilt", 
+                "ShelteredAristocrat", 
+                "FauxActionGirl", 
+                "LittleMissConArtist", 
+                "GreenSkinnedSpaceBabe", 
+                "MommasBoy", 
+                "BasementDweller", 
+                "FeminineWomenCanCook", 
+                "OfficeLady", 
+                "BastardGirlfriend", 
+                "BlackWidow", 
+                "ValleyGirl", 
+                "CosplayOtakuGirl", 
+                "BridgeBunnies", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold", 
+                "MilesGloriosus", 
+                "Fangirl", 
+                "GodSaveUsFromTheQueen", 
+                "FilleFatale", 
+                "HenpeckedHusband", 
+                "TheButcher", 
+                "Fratbro", 
+                "Tomboy", 
+                "SenseiChan", 
+                "ButchLesbian", 
+                "MsFanservice", 
+                "TheSquadette", 
+                "DadTheVeteran", 
+                "MisterSeahorse", 
+                "EverythingsBetterWithPrincesses", 
+                "NaughtyNuns", 
+                "SpoiledSweet", 
+                "SexyManInstantHarem", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "LipstickLesbian", 
+                "LadyMacBeth", 
+                "DumbassTeenageSon", 
+                "LonelyDollGirl", 
+                "DarkMagicalGirl", 
+                "LadyKillerInLove", 
+                "BiggerIsBetterInBed"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/DadTheVeteran.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "MrFanservice", 
+            "trope": "DadTheVeteran", 
+            "films": [
+                "PitchPerfect", 
+                "PacificRim"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "OverprotectiveDad", 
+            "trope": "DadTheVeteran", 
+            "films": [
+                "TheSoundOfMusic", 
+                "ThePoseidonAdventure"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PregnantBadass", 
+            "trope": "DadTheVeteran", 
+            "films": [
+                "PacificRim"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ShirtlessScene", 
+            "trope": "DadTheVeteran", 
+            "films": [
+                "PitchPerfect"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheChick", 
+            "trope": "DadTheVeteran", 
+            "films": [
+                "PitchPerfect"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "DadTheVeteran", 
+            "films": [
+                "TheSoundOfMusic"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "FrenchMaid", 
+            "trope": "DadTheVeteran", 
+            "films": [
+                "PitchPerfect"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TeamMom", 
+            "trope": "DadTheVeteran", 
+            "films": [
+                "TheSoundOfMusic"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "OfficerAndAGentleman", 
+            "trope": "DadTheVeteran", 
+            "films": [
+                "TheSoundOfMusic"
+            ]
+        }
+    ], 
+    "id": "DadTheVeteran", 
+    "name": "Dad The Veteran"
+}

@@ -1,0 +1,301 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            1, 
+            0.016666666666666666, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            5, 
+            0.054945054945054944, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            3, 
+            0.013333333333333334, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            3, 
+            0.009933774834437087, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            5, 
+            0.008517887563884156, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            13, 
+            0.014689265536723164, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            3, 
+            0.005272407732864675, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            3, 
+            0.0046439628482972135, 
+            646
+        ]
+    ], 
+    "description": "The heroic counterpart to the Egomaniac Hunter and the Evil Poacher, the Great White Hunter is a heroic big game hunter. He is most likely a Gentleman Adventurer, but he could also be an earthier type who leads safaris for a living. Either way, he will be an expert tracker, a crack shot, and skilled at wilderness survival.\nDeliberate Values Dissonance might come up if the story is trying to impart An Aesop about respecting the lives of wild animals. Often, however, this character does admire animals even as he kills them, considering them a Worthy Opponent of sorts.\nThe Great White Hunter is something of a Dead Horse Trope. When he still appears, it will either be in a period piece or he will be leading expeditions to capture animals alive. May wear an Adventurer Outfit.\nDespite his title, not always white... and not always all that great, either.", 
+    "gender": "m", 
+    "adjs": [
+        "heroic", 
+        "heroic", 
+        "big", 
+        "wild", 
+        "white"
+    ], 
+    "adjectives": [
+        [
+            "heroic", 
+            2, 
+            17.903828654740792, 
+            1.0, 
+            [
+                "VainSorceress", 
+                "HeroicSeductress", 
+                "FemmeFatale", 
+                "MafiaPrincess", 
+                "DarkActionGirl", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "GreatWhiteHunter", 
+                "DirtyCoward", 
+                "TheVamp", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "wild", 
+            1, 
+            9.686928992476155, 
+            0.5410534908080196, 
+            [
+                "Beastess", 
+                "GreatWhiteHunter", 
+                "NobleMaleRoguishMale", 
+                "ManicPixieDreamGirl"
+            ]
+        ], 
+        [
+            "great", 
+            1, 
+            5.3350120871213065, 
+            0.2979816323090557, 
+            [
+                "EvilDiva", 
+                "TheLadysFavour", 
+                "ChildSoldiers", 
+                "TerritorialSmurfette", 
+                "PrincelyYoungMan", 
+                "BaitAndSwitchLesbians", 
+                "WhiteDwarfStarlet", 
+                "DarkMistress", 
+                "LawmanGoneBad", 
+                "TheGeneralissimo", 
+                "TheMuse", 
+                "PluckyOfficeGirl", 
+                "BashBrothers", 
+                "NeverASelfMadeWoman", 
+                "FauxActionGirl", 
+                "ProperLady", 
+                "ManicPixieDreamGirl", 
+                "TheEvilPrince", 
+                "HighClassCallGirl", 
+                "HandyMan", 
+                "GirlyGirl", 
+                "EvenTheGirlsWantHer", 
+                "OfficerAndAGentleman", 
+                "CrusadingWidower", 
+                "SpicyLatina", 
+                "Tomboy", 
+                "GrandeDame", 
+                "CasanovaWannabe", 
+                "MysticalWaif", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ButterFace", 
+                "GreatWhiteHunter", 
+                "WomanInBlack", 
+                "TheHighQueen"
+            ]
+        ], 
+        [
+            "big", 
+            1, 
+            5.151808044338014, 
+            0.28774895826395525, 
+            [
+                "TheUglyGuysHotDaughter", 
+                "LittleRedFightingHood", 
+                "HugeSchoolgirl", 
+                "MistressAndServantBoy", 
+                "EarthMother", 
+                "CuteGhostGirl", 
+                "Bridezilla", 
+                "SmallGirlBigGun", 
+                "UnluckyEveryDude", 
+                "GoGetterGirl", 
+                "ArabOilSheikh", 
+                "Beastess", 
+                "BashBrothers", 
+                "FatGirl", 
+                "FauxActionGirl", 
+                "TheFlapper", 
+                "GreenSkinnedSpaceBabe", 
+                "TinyTyrannicalGirl", 
+                "GrannyClassic", 
+                "HotMenAtWork", 
+                "MrFixit", 
+                "AgentPeacock", 
+                "MountainMan", 
+                "TopHeavyGuy", 
+                "Hunk", 
+                "StoutStrength", 
+                "Fratbro", 
+                "VainSorceress", 
+                "MysteriousWaif", 
+                "BarbaricBully", 
+                "LeatherMan", 
+                "GreatWhiteHunter", 
+                "FanserviceExtra", 
+                "Meganekko", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "white", 
+            1, 
+            5.108654718966893, 
+            0.2853386735028969, 
+            [
+                "WizardBeard", 
+                "OverprotectiveDad", 
+                "ScaryBlackMan", 
+                "ALadyOnEachArm", 
+                "WinterRoyalLady", 
+                "Bridezilla", 
+                "MrsClaus", 
+                "AngryBlackMan", 
+                "StringyHairedGhostGirl", 
+                "CorruptHick", 
+                "TheChiefsDaughter", 
+                "LittleDeadRidingHood", 
+                "TheCasanova", 
+                "GreatWhiteHunter", 
+                "JerkJock", 
+                "ManInWhite", 
+                "CrazyCatLady", 
+                "SchoolNurse", 
+                "DisposableSexWorker", 
+                "WomanInWhite", 
+                "SassyBlackWoman", 
+                "AsianBabymama", 
+                "BlackBossLady", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "SissyVillain", 
+                "Bishonen"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/GreatWhiteHunter.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "ShirtlessScene", 
+            "trope": "GreatWhiteHunter", 
+            "films": [
+                "TheMutilator"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HenpeckedHusband", 
+            "trope": "GreatWhiteHunter", 
+            "films": [
+                "BringingUpBaby"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HuskyRusskie", 
+            "trope": "GreatWhiteHunter", 
+            "films": [
+                "TheMostDangerousGame"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HotScoop", 
+            "trope": "GreatWhiteHunter", 
+            "films": [
+                "CrocodileDundee"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HotScientist", 
+            "trope": "GreatWhiteHunter", 
+            "films": [
+                "DeepBlueSea"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MamaBear", 
+            "trope": "GreatWhiteHunter", 
+            "films": [
+                "TheLostWorldJurassicPark"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ManInWhite", 
+            "trope": "GreatWhiteHunter", 
+            "films": [
+                "JurassicPark"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SharpDressedMan", 
+            "trope": "GreatWhiteHunter", 
+            "films": [
+                "TheItalianJob1969"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MilesGloriosus", 
+            "trope": "GreatWhiteHunter", 
+            "films": [
+                "TheGrey"
+            ]
+        }
+    ], 
+    "id": "GreatWhiteHunter", 
+    "name": "Great White Hunter"
+}

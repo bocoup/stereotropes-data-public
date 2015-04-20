@@ -1,0 +1,461 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            2, 
+            0.011363636363636364, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            1, 
+            0.0044444444444444444, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            3, 
+            0.005110732538330494, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            9, 
+            0.010169491525423728, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            7, 
+            0.012302284710017574, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            7, 
+            0.010835913312693499, 
+            646
+        ]
+    ], 
+    "description": "Huh--wha? Describe Slacker here? But it\u2019s like, early\u2026late\u2026 in the morning\u2026 evening\u2026 something like that, anyways, why don\u2019t one of you do the job of describing for me so I can get back to my game of Pokemon?\nA character, almost Always Male somewhere between age 14-40, whose single goal in life is to get through existence with as little effort as possible. May be Book Dumb or Brilliant, but Lazy, but either way they'll take crap jobs rather than aspire to anything greater. Even there, they are often the Weasel Co-Worker. Are usually filthy pigs at home, and sometimes with regard to their personal hygiene as well. May also ingest copious amounts of marijuana, but this is not a necessity. Often part of an Odd Couple with a driven, ambitious, neat-freak.\nThere are two things they might put effort into: appearing cool to peers, and trying to have sex.\nAnother thing to note is that most slacker stories tend to have a strong point of view: either the slacker is a lovable goof who's better than the Type A personalities around them, or he's an irresponsible asshole who needs to shape up.\nSlacker girls are very rare in fiction (and are often presented as essentially an oxymoron); generally the Slacker's girlfriend (or would be girlfriend) will be much more focused and getting on with her life. She might break up with him if she is able to see that he is going nowhere fast.\nSee also: Dismotivation, NEET, The Stoner. Contrast Professional Slacker.", 
+    "gender": "m", 
+    "adjs": [
+        "early\u2026late\u2026", 
+        "don\u2019t", 
+        "single", 
+        "little", 
+        "filthy"
+    ], 
+    "adjectives": [
+        [
+            "copious", 
+            1, 
+            10.223334586503498, 
+            1.0, 
+            [
+                "TheSlacker"
+            ]
+        ], 
+        [
+            "early\u2026late\u2026", 
+            1, 
+            10.223334586503498, 
+            1.0, 
+            [
+                "TheSlacker"
+            ]
+        ], 
+        [
+            "irresponsible", 
+            1, 
+            10.223334586503498, 
+            1.0, 
+            [
+                "TheSlacker"
+            ]
+        ], 
+        [
+            "don\u2019t", 
+            1, 
+            9.179858144241841, 
+            0.8979318896948536, 
+            [
+                "TheSlacker", 
+                "FanserviceExtra"
+            ]
+        ], 
+        [
+            "filthy", 
+            1, 
+            9.179858144241841, 
+            0.8979318896948536, 
+            [
+                "TheSlacker", 
+                "GreaseMonkey"
+            ]
+        ], 
+        [
+            "driven", 
+            1, 
+            8.503281842327691, 
+            0.8317522791001517, 
+            [
+                "TheSlacker", 
+                "NeverASelfMadeWoman", 
+                "ProperLady"
+            ]
+        ], 
+        [
+            "ambitious", 
+            1, 
+            8.000958609163716, 
+            0.7826173095935168, 
+            [
+                "TheSlacker", 
+                "TheEvilPrince", 
+                "MorallyBankruptBanker", 
+                "TheFightingNarcissist"
+            ]
+        ], 
+        [
+            "lovable", 
+            1, 
+            6.518422603053822, 
+            0.6376023936122783, 
+            [
+                "BastardGirlfriend", 
+                "TheSlacker", 
+                "CoolOldGuy", 
+                "DirtyOldMan", 
+                "TheFakeCutie", 
+                "GoodOlBoy", 
+                "EvilRoy", 
+                "TheCutie", 
+                "PirateGirl"
+            ]
+        ], 
+        [
+            "rare", 
+            1, 
+            4.591170861454773, 
+            0.44908741102104616, 
+            [
+                "LovableAlphaBitch", 
+                "ShiksaGoddess", 
+                "BeardOfBarbarism", 
+                "GranolaGirl", 
+                "BastardBoyfriend", 
+                "HarpOfFemininity", 
+                "PervertDad", 
+                "CampStraight", 
+                "AlphaBitch", 
+                "TheSlacker", 
+                "TheFightingNarcissist", 
+                "Hunk", 
+                "JadedWashout", 
+                "CuteSportsClubManager", 
+                "HotScientist", 
+                "SenseiChan", 
+                "GrandeDame", 
+                "YaoiFangirl", 
+                "BarbaricBully", 
+                "LovelyAngels", 
+                "TheCheerleader", 
+                "WomanInBlack", 
+                "GenderInvertedTrope"
+            ]
+        ], 
+        [
+            "able", 
+            1, 
+            4.517248653312532, 
+            0.4418566774950368, 
+            [
+                "TerritorialSmurfette", 
+                "LittleRedFightingHood", 
+                "KickingAssInAllHerFinery", 
+                "TomBoyAndGirlyGirl", 
+                "BoyBand", 
+                "GoGetterGirl", 
+                "TheChiefsDaughter", 
+                "GagPenis", 
+                "HerosMuse", 
+                "ActionGirl", 
+                "FeminineWomenCanCook", 
+                "LadyInRed", 
+                "BeardnessProtectionProgram", 
+                "NaginatasAreFeminine", 
+                "TheSlacker", 
+                "MrFixit", 
+                "GentlemanWizard", 
+                "GrumpyOldMan", 
+                "SpicyLatina", 
+                "DirtyHarriet", 
+                "MisterSeahorse", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "BassoProfundo", 
+                "PluckyGirl"
+            ]
+        ], 
+        [
+            "single", 
+            1, 
+            4.311794215717718, 
+            0.421760060695852, 
+            [
+                "WidowWoman", 
+                "CollegeWidow", 
+                "GlamorousSingleMother", 
+                "CoolBigSis", 
+                "Fundoshi", 
+                "TokenLesbian", 
+                "ManInAKilt", 
+                "MonogenderMonsters", 
+                "NobleMaleRoguishMale", 
+                "MenCantKeepHouse", 
+                "MysteriousProtector", 
+                "TheSlacker", 
+                "DaddysGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "CuteSportsClubManager", 
+                "SchoolMarm", 
+                "MyBelovedSmother", 
+                "DisappearedDad", 
+                "MsFanservice", 
+                "ApronMatron", 
+                "AmazonBrigade", 
+                "SingleMomStripper"
+            ]
+        ], 
+        [
+            "personal", 
+            1, 
+            4.069541740190031, 
+            0.39806402752018927, 
+            [
+                "BeardOfSorrow", 
+                "OverprotectiveDad", 
+                "TheLadysFavour", 
+                "MamaBear", 
+                "GlamorousSingleMother", 
+                "MistressAndServantBoy", 
+                "ArchnemesisDad", 
+                "GIRL", 
+                "GoGetterGirl", 
+                "NeverASelfMadeWoman", 
+                "OldMaid", 
+                "SchoolNurse", 
+                "LadyInWaiting", 
+                "BattleButler", 
+                "BastardGirlfriend", 
+                "ChivalrousPervert", 
+                "TheSlacker", 
+                "MataHari", 
+                "MilesGloriosus", 
+                "GoodOlBoy", 
+                "HenpeckedHusband", 
+                "CrusadingWidower", 
+                "MyBelovedSmother", 
+                "BrattyTeenageDaughter", 
+                "DragonLady", 
+                "HouseWife", 
+                "TheMuse", 
+                "AmazonBrigade", 
+                "ProperLady", 
+                "JewishMother", 
+                "BrawnHilda", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "little", 
+            1, 
+            3.711144133535033, 
+            0.3630072069082392, 
+            [
+                "OverprotectiveDad", 
+                "LittleOldLadyInvestigates", 
+                "GlamorousSingleMother", 
+                "LittleRedFightingHood", 
+                "BastardBoyfriend", 
+                "DirtyOldMan", 
+                "FarmersDaughter", 
+                "TheCharmer", 
+                "MagicalSeventhSon", 
+                "UnluckyEveryDude", 
+                "LittleSisterHeroine", 
+                "SexistUsedCarSalesman", 
+                "TheSlacker", 
+                "MaidenAunt", 
+                "WomanScorned", 
+                "TheCutie", 
+                "BasementDweller", 
+                "PrincessPhase", 
+                "ClassyCatBurglar", 
+                "BespectacledBastardBoyfriend", 
+                "QuintessentialBritishGentleman", 
+                "NonActionGuy", 
+                "BaitAndSwitchLesbians", 
+                "BeautifulAllAlong", 
+                "LittleMissConArtist", 
+                "Tomboy", 
+                "DirtyHarriet", 
+                "FragileFlower", 
+                "BrattyTeenageDaughter", 
+                "FavorsForTheSexy", 
+                "MysticalWaif", 
+                "DarkActionGirl", 
+                "SpoiledSweet", 
+                "SwingLowSweetHarriet", 
+                "Bishonen", 
+                "LittleGirlsKickShins"
+            ]
+        ], 
+        [
+            "strong", 
+            1, 
+            3.126255966420038, 
+            0.3057961118231634, 
+            [
+                "AmazonChaser", 
+                "ChildSoldiers", 
+                "DumbMuscle", 
+                "LadyInRed", 
+                "EmotionlessGirl", 
+                "PrettyBoy", 
+                "SchoolgirlLesbians", 
+                "PapaWolf", 
+                "FeminineWomenCanCook", 
+                "GaussianGirl", 
+                "GoGetterGirl", 
+                "TheCheerleader", 
+                "Beastess", 
+                "LittleDeadRidingHood", 
+                "TheSlacker", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "FauxActionGirl", 
+                "TheGambler", 
+                "CuteMonsterGirl", 
+                "HerosMuse", 
+                "BaldBlackLeaderGuy", 
+                "ProperLady", 
+                "JunglePrincess", 
+                "TheEvilPrince", 
+                "BoobsOfSteel", 
+                "JerkJock", 
+                "HotMenAtWork", 
+                "BespectacledBastardBoyfriend", 
+                "HandyMan", 
+                "MountainMan", 
+                "HardDrinkingPartyGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "SensitiveGuyAndManlyMan", 
+                "ScaryBlackMan", 
+                "StoutStrength", 
+                "PerkyGoth", 
+                "DamselInDistress", 
+                "VainSorceress", 
+                "ExtraordinarilyEmpoweredGirl", 
+                "ManlyGay", 
+                "MysticalWaif", 
+                "Chickification", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ShirtlessScene", 
+                "SissyVillain", 
+                "BrawnHilda", 
+                "GirlsWithGuns", 
+                "PluckyGirl", 
+                "AsianHookerStereotype", 
+                "PecFlex"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/TheSlacker.png", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "UnderstandingBoyfriend", 
+            "trope": "TheSlacker", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheVamp", 
+            "trope": "TheSlacker", 
+            "films": [
+                "TheBigLebowski"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WorldsMostBeautifulWoman", 
+            "trope": "TheSlacker", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomanScorned", 
+            "trope": "TheSlacker", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WeirdBeard", 
+            "trope": "TheSlacker", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WalkingShirtlessScene", 
+            "trope": "TheSlacker", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WhiteDwarfStarlet", 
+            "trope": "TheSlacker", 
+            "films": [
+                "Futurama"
+            ]
+        }
+    ], 
+    "id": "TheSlacker", 
+    "name": "The Slacker"
+}

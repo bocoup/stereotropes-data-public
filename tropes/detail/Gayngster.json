@@ -1,0 +1,368 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            1, 
+            0.0044444444444444444, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            3, 
+            0.005110732538330494, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            3, 
+            0.003389830508474576, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            13, 
+            0.022847100175746926, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "A homosexual organized crime member. This is most common in British works, perhaps because one of the Kray twins fits this idea. Similarly, this is especially true when a work is set around the time when the Krays lived. In the US, the gayngster is often a Scary Black Man or Latino. The character can be repressed or fairly open about it, but an important idea is the contrast between his \"un-masculine\" (how he would see it) sexual orientation and brutal, macho behavior.\nNot related to Gayngst, but overlap is possible. May overlap with Armoured Closet Gay, Manly Gay and Badass Gay.", 
+    "gender": "m", 
+    "adjs": [
+        "homosexual", 
+        "british", 
+        "true", 
+        "open", 
+        "important"
+    ], 
+    "adjectives": [
+        [
+            "un-masculine", 
+            1, 
+            11.33997884016253, 
+            1.0, 
+            [
+                "Gayngster"
+            ]
+        ], 
+        [
+            "brutal", 
+            1, 
+            7.84567312635846, 
+            0.6918595913575807, 
+            [
+                "Gayngster", 
+                "JerkJock", 
+                "BespectacledBastardBoyfriend", 
+                "GalleySlave", 
+                "BastardBoyfriend", 
+                "AlphaBitch", 
+                "TheGambler"
+            ]
+        ], 
+        [
+            "homosexual", 
+            1, 
+            7.2457658106697735, 
+            0.6389576129549395, 
+            [
+                "Gayngster", 
+                "DepravedHomosexual", 
+                "CampGay", 
+                "ManlyGay", 
+                "YaoiGuys", 
+                "HouseWife", 
+                "ButchLesbian", 
+                "SissyVillain", 
+                "StraightGay"
+            ]
+        ], 
+        [
+            "open", 
+            1, 
+            6.9283598371134065, 
+            0.6109676159690353, 
+            [
+                "MachoCamp", 
+                "Gayngster", 
+                "LesbianCop", 
+                "MenCantKeepHouse", 
+                "JerkJock", 
+                "ClingyJealousGirl", 
+                "DarkMistress", 
+                "CarpetOfVirility", 
+                "ManicPixieDreamGirl", 
+                "CoolBigSis", 
+                "CockFight", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "british", 
+            1, 
+            6.787107152663163, 
+            0.5985114477132382, 
+            [
+                "Gayngster", 
+                "IronLady", 
+                "OfficerAndAGentleman", 
+                "QuintessentialBritishGentleman", 
+                "TheMuse", 
+                "ManInAKilt", 
+                "DrillSergeantNasty", 
+                "ProperLady", 
+                "GentlemanWizard", 
+                "LadyOfAdventure", 
+                "TheDandy"
+            ]
+        ], 
+        [
+            "important", 
+            1, 
+            5.264461986144831, 
+            0.46423913662870453, 
+            [
+                "TheLadysFavour", 
+                "HarpOfFemininity", 
+                "PrincelyYoungMan", 
+                "GayCowboy", 
+                "UnluckyEveryDude", 
+                "ActionHeroBabysitter", 
+                "Joshikousei", 
+                "CuteMonsterGirl", 
+                "NeverASelfMadeWoman", 
+                "BeardnessProtectionProgram", 
+                "JerkJock", 
+                "ManInWhite", 
+                "NaginatasAreFeminine", 
+                "ValleyGirl", 
+                "MarySue", 
+                "WomanInWhite", 
+                "TheOphelia", 
+                "CuteSportsClubManager", 
+                "TheWomanWearingTheQueenlyMask", 
+                "Gayngster", 
+                "ThePatriarch", 
+                "RobotGirl", 
+                "ProperLady", 
+                "WomanInBlack", 
+                "Meganekko"
+            ]
+        ], 
+        [
+            "true", 
+            1, 
+            4.595857186826376, 
+            0.4052791677661108, 
+            [
+                "OutdoorsyGal", 
+                "YamatoNadeshiko", 
+                "FemmeFatale", 
+                "DumbMuscle", 
+                "LovelyAssistant", 
+                "TheTease", 
+                "GIRL", 
+                "DistractedByTheLuxury", 
+                "BeautyMark", 
+                "GoGetterGirl", 
+                "MysteriousProtector", 
+                "WidowWitch", 
+                "TheFakeCutie", 
+                "FauxActionGirl", 
+                "MagicalGirlfriend", 
+                "ActionGirl", 
+                "TheEvilPrince", 
+                "BigBeautifulMan", 
+                "DeliberatelyDistressedDamsel", 
+                "NoWomansLand", 
+                "MissKitty", 
+                "TheChanteuse", 
+                "EverythingsBetterWithPrincesses", 
+                "HookerWithAHeartOfGold", 
+                "Fangirl", 
+                "DirtyCoward", 
+                "FilleFatale", 
+                "SchoolMarm", 
+                "WickedWitch", 
+                "Gayngster", 
+                "VainSorceress", 
+                "EstrogenBrigade", 
+                "BarbaricBully", 
+                "PrinceCharming", 
+                "HotScoop", 
+                "SculleryMaid", 
+                "ProperLady", 
+                "GodSaveUsFromTheQueen", 
+                "TheChick", 
+                "AsianHookerStereotype"
+            ]
+        ], 
+        [
+            "sexual", 
+            1, 
+            3.9780862956468352, 
+            0.35080191521678533, 
+            [
+                "WidowWoman", 
+                "CollegeWidow", 
+                "FemmeFatale", 
+                "ALadyOnEachArm", 
+                "TheLadette", 
+                "BumblingDad", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "FemaleMisogynist", 
+                "TheVamp", 
+                "Dominatrix", 
+                "HighHeelFaceTurn", 
+                "SassyBlackWoman", 
+                "CampStraight", 
+                "GagPenis", 
+                "DistractedByTheLuxury", 
+                "CarpetOfVirility", 
+                "NeverASelfMadeWoman", 
+                "PrincessClassic", 
+                "AgentPeacock", 
+                "TheCasanova", 
+                "TheLoinsSleepTonight", 
+                "FeminineWomenCanCook", 
+                "DepravedHomosexual", 
+                "LadyInRed", 
+                "MadonnaWhoreComplex", 
+                "BastardGirlfriend", 
+                "TheFlapper", 
+                "MataHari", 
+                "GoodBadGirl", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "OfficeLady", 
+                "Fangirl", 
+                "FilleFatale", 
+                "TheIngenue", 
+                "AccidentalPornomancer", 
+                "Gayngster", 
+                "GayBravado", 
+                "LesbianVampire", 
+                "DragonLady", 
+                "Bishonen", 
+                "GodSaveUsFromTheQueen", 
+                "BiggerIsBetterInBed"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "SissyVillain", 
+            "trope": "Gayngster", 
+            "films": [
+                "MillersCrossing", 
+                "Futurama", 
+                "TheMalteseFalcon"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "GreenSkinnedSpaceBabe", 
+            "trope": "Gayngster", 
+            "films": [
+                "Futurama", 
+                "StarWarsTheCloneWars"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SweetPollyOliver", 
+            "trope": "Gayngster", 
+            "films": [
+                "VictorVictoria", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "KavorkaMan", 
+            "trope": "Gayngster", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GreatWhiteHunter", 
+            "trope": "Gayngster", 
+            "films": [
+                "TheItalianJob1969"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WorldsMostBeautifulWoman", 
+            "trope": "Gayngster", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PsychoLesbian", 
+            "trope": "Gayngster", 
+            "films": [
+                "Gigli"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HuskyRusskie", 
+            "trope": "Gayngster", 
+            "films": [
+                "RockNRolla"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NonActionGuy", 
+            "trope": "Gayngster", 
+            "films": [
+                "Futurama"
+            ]
+        }
+    ], 
+    "id": "Gayngster", 
+    "name": "Gayngster"
+}

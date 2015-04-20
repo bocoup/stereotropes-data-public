@@ -1,0 +1,363 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            2, 
+            0.018018018018018018, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            1, 
+            0.0044444444444444444, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            4, 
+            0.004519774011299435, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            3, 
+            0.005272407732864675, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            5, 
+            0.007739938080495356, 
+            646
+        ]
+    ], 
+    "description": "Bob the adventuring hero is approached by Alice, who is in some kind of trouble. Her village is being ravaged by a monster, or she's being forced into marriage against her will. Bob, like a good hero, goes to help her... except, whoops! It was all a lie. Alice isn't in trouble; she's the mastermind, and Bob just walked straight into her Evil Plan.\nThis is when a seeming Damsel in Distress is luring the hero in for her own ends, usually by playing on his heroism (and sometimes his lust for her). Just about Always Female. Compare Femme Fatale, False Innocence Trick, Honey Trap, Wounded Gazelle Gambit. A subtrope of Using You All Along.\nDue to the nature of the trope, spoilers ahead.", 
+    "gender": "f", 
+    "adjs": [
+        "good", 
+        "trouble", 
+        "straight"
+    ], 
+    "adjectives": [
+        [
+            "trouble", 
+            1, 
+            9.575589168929868, 
+            1.0, 
+            [
+                "FemmeFatale", 
+                "SpiritedYoungLady", 
+                "DecoyDamsel", 
+                "MistressAndServantBoy", 
+                "MilesGloriosus", 
+                "DrillSergeantNasty", 
+                "WrenchWench", 
+                "MyBelovedSmother"
+            ]
+        ], 
+        [
+            "straight", 
+            1, 
+            6.90016899889771, 
+            0.720599941911339, 
+            [
+                "YamatoNadeshiko", 
+                "MamaBear", 
+                "ALadyOnEachArm", 
+                "WickedStepmother", 
+                "StraightGay", 
+                "TheTease", 
+                "StandardFiftiesFather", 
+                "TheBear", 
+                "KnightInShiningArmor", 
+                "CampStraight", 
+                "TheChiefsDaughter", 
+                "MaidenAunt", 
+                "MachoCamp", 
+                "LesbianCop", 
+                "MisplacedKindergartenTeacher", 
+                "UselessBoyfriend", 
+                "PsychoLesbian", 
+                "DecoyDamsel", 
+                "QuintessentialBritishGentleman", 
+                "OfficeLady", 
+                "OneeSama", 
+                "EvenTheGirlsWantHer", 
+                "BaitAndSwitchLesbians", 
+                "TheIngenue", 
+                "CrusadingWidower", 
+                "HelloNurse", 
+                "GayBravado", 
+                "GymBunny", 
+                "PrinceCharming", 
+                "RightThroughHisPants", 
+                "DastardlyWhiplash"
+            ]
+        ], 
+        [
+            "good", 
+            1, 
+            3.76548567442894, 
+            0.3932380147058624, 
+            [
+                "OutdoorsyGal", 
+                "ChildSoldiers", 
+                "BeardOfBarbarism", 
+                "AdrenalineMakeover", 
+                "KickingAssInAllHerFinery", 
+                "LovelyAssistant", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "EducationMama", 
+                "DisguisedInDrag", 
+                "KnightInShiningArmor", 
+                "SpiritedYoungLady", 
+                "ManInAKilt", 
+                "AgentPeacock", 
+                "MagicalGirlfriend", 
+                "HuskyRusskie", 
+                "TheGoodKing", 
+                "TheLoinsSleepTonight", 
+                "TheEvilPrince", 
+                "TomboyWithAGirlyStreak", 
+                "HeroicSeductress", 
+                "ManInWhite", 
+                "BathingBeauty", 
+                "HandyMan", 
+                "EverythingsBetterWithPrincesses", 
+                "MilesGloriosus", 
+                "DirtyCoward", 
+                "NeutralFemale", 
+                "StoutStrength", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "DirtyHarriet", 
+                "NubileSavage", 
+                "KavorkaMan", 
+                "BlackBossLady", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ProperLady", 
+                "DarkMagicalGirl", 
+                "WizardBeard", 
+                "MadScientistsBeautifulDaughter", 
+                "DumbMuscle", 
+                "DirtyOldMan", 
+                "HouseHusband", 
+                "TheCheerleader", 
+                "GodSaveUsFromTheQueen", 
+                "BeardOfEvil", 
+                "AsianAirhead", 
+                "LadyInRed", 
+                "HighClassCallGirl", 
+                "GentlemanWizard", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "MagicIdolSinger", 
+                "OfficerAndAGentleman", 
+                "BeautifulAllAlong", 
+                "BrokenBird", 
+                "SassyBlackWoman", 
+                "TheWisePrince", 
+                "GymBunny", 
+                "PerkyFemaleMinion", 
+                "CoolOldLady", 
+                "UncannyValleyGirl", 
+                "StageMom", 
+                "GoodBadGirl", 
+                "WinterRoyalLady", 
+                "LawmanGoneBad", 
+                "LadyMacBeth", 
+                "TheVamp", 
+                "MadonnaWhoreComplex", 
+                "TheBaroness", 
+                "GamblerGroupies", 
+                "HotScientist", 
+                "PrincessClassic", 
+                "HardDrinkingPartyGirl", 
+                "SeashellBra", 
+                "BaldBlackLeaderGuy", 
+                "TakingTheVeil", 
+                "GentlemanThief", 
+                "ClassyCatBurglar", 
+                "GirlNextDoor", 
+                "DecoyDamsel", 
+                "QuintessentialBritishGentleman", 
+                "HookerWithAHeartOfGold", 
+                "TheOphelia", 
+                "Hobos", 
+                "CrusadingWidower", 
+                "TheButcher", 
+                "AccidentalPornomancer", 
+                "TheDandy", 
+                "VainSorceress", 
+                "BigManOnCampus", 
+                "MachoMasochism", 
+                "GoodGirlGoneBad", 
+                "HotScoop", 
+                "TheMuse", 
+                "SwingLowSweetHarriet", 
+                "BattleaxeNurse", 
+                "HighSchoolHustler", 
+                "LightFeminineAndDarkFeminine", 
+                "MaidenAunt", 
+                "YamatoNadeshiko", 
+                "TheLadysFavour", 
+                "FemmeFatale", 
+                "HighHeelFaceTurn", 
+                "CampGay", 
+                "BlondeRepublicanSexKitten", 
+                "MonogenderMonsters", 
+                "ShelteredAristocrat", 
+                "TheGambler", 
+                "StatuesqueStunner", 
+                "NobleMaleRoguishMale", 
+                "PregnantHostage", 
+                "SoapBoxSadie", 
+                "Streetwalker", 
+                "ChivalrousPervert", 
+                "GrannyClassic", 
+                "MorallyBankruptBanker", 
+                "ValleyGirl", 
+                "MataHari", 
+                "WorldsMostBeautifulWoman", 
+                "GrumpyOldMan", 
+                "DefectingForLove", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "WickedWitch", 
+                "RebelPrince", 
+                "GrandeDame", 
+                "MysteriousWaif", 
+                "StumblingUponTheLostWizard", 
+                "DarkActionGirl", 
+                "BastardBastard", 
+                "ButterFace", 
+                "AbsentMindedProfessor", 
+                "JewishMother", 
+                "DamselInDistress"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "TheBaroness", 
+            "trope": "DecoyDamsel", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "SinCity", 
+                "IndianaJonesAndTheLastCrusade"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "ShirtlessScene", 
+            "trope": "DecoyDamsel", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "LegendOfTheSeeker", 
+                "TheDarkKnightRises"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "DisappearedDad", 
+            "trope": "DecoyDamsel", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "Tangled", 
+                "IndianaJonesAndTheLastCrusade"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "MrFanservice", 
+            "trope": "DecoyDamsel", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "SinCity", 
+                "LegendOfTheSeeker"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "DirtyCoward", 
+            "trope": "DecoyDamsel", 
+            "films": [
+                "SinCity", 
+                "TheGreatRace", 
+                "BuffyTheVampireSlayer"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "DirtyOldMan", 
+            "trope": "DecoyDamsel", 
+            "films": [
+                "Hercules", 
+                "BuffyTheVampireSlayer"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "KnightInShiningArmor", 
+            "trope": "DecoyDamsel", 
+            "films": [
+                "SinCity", 
+                "Tangled"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "JerkJock", 
+            "trope": "DecoyDamsel", 
+            "films": [
+                "Hercules", 
+                "SinCity"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "GracefulLadiesLikePurple", 
+            "trope": "DecoyDamsel", 
+            "films": [
+                "Hercules", 
+                "Tangled"
+            ]
+        }
+    ], 
+    "id": "DecoyDamsel", 
+    "name": "Decoy Damsel"
+}

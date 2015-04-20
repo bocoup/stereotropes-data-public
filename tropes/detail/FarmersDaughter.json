@@ -1,0 +1,424 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            3, 
+            0.003389830508474576, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "A Farmer's Daughter is an innocent looking girl, typically from rural settings. In the United States this area tends to be in Midwestern America, the Deep South, or Sweet Home Alabama, but the archetype can be found in European stories as well. They typically dress in short sundresses or (gingham) halter tops and \"Daisy Duke\" shorts, and either wear cowboy boots or go barefoot. Sometimes an Unkempt Beauty, but She Cleans Up Nicely. They will often have a very pronounced Dixie accent and be very tomboyish and aggressive. They're typically pretty handy with tools and heavy machinery, among other things, having to repair tractors and such from childhood. Oh, and Girlish Pigtails aren't unheard of among them.\nFarmer's Daughters are usually kept at home under very strict rules and supposedly know very little about the \"ways of the world\" - or at least ''pretend'' they don't - and therefore tend to be overly curious about sex. Watch out, though; their pops will have a shotgun and will use it if you try anything funny with them, like for instance Roll in the Hay with them. And if she's knocked up? Shotgun Wedding time! Often they'll be a ditz; but even more often they'll be a lot smarter than they look. There are two clear types: One who is drop-dead gorgeous (but, almost but not quite paradoxically, in a Girl Next Door kind of way); the other has an okay body... but her face... (and she is usually the more aggressive type). Often used in Country Mouse settings. Also tends to be the downfall of the Traveling Salesman.\nGiven her background, she could very easily be the Distaff Counterpart to the Farm Boy\u2026 but she ain\u2019t.", 
+    "gender": "f", 
+    "adjs": [
+        "rural", 
+        "european", 
+        "short", 
+        "tomboyish", 
+        "heavy"
+    ], 
+    "adjectives": [
+        [
+            "'pretend", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "FarmersDaughter"
+            ]
+        ], 
+        [
+            "among", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "FarmersDaughter"
+            ]
+        ], 
+        [
+            "curious", 
+            1, 
+            8.366158214770323, 
+            0.8295003754487558, 
+            [
+                "FarmersDaughter", 
+                "WrenchWench"
+            ]
+        ], 
+        [
+            "drop-dead", 
+            1, 
+            8.366158214770323, 
+            0.8295003754487558, 
+            [
+                "FarmersDaughter", 
+                "RobotGirl"
+            ]
+        ], 
+        [
+            "aggressive", 
+            1, 
+            6.602038517154075, 
+            0.6545887954925314, 
+            [
+                "FarmersDaughter", 
+                "AmazonChaser", 
+                "LeatherMan", 
+                "TheLadette", 
+                "AdrenalineMakeover", 
+                "SensitiveGuyAndManlyMan", 
+                "FilleFatale", 
+                "NobleMaleRoguishMale"
+            ]
+        ], 
+        [
+            "rural", 
+            1, 
+            6.602038517154075, 
+            0.6545887954925314, 
+            [
+                "OutdoorsyGal", 
+                "TheAllAmericanBoy", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "CorruptHick", 
+                "FarmersDaughter", 
+                "Hobos", 
+                "SchoolMarm"
+            ]
+        ], 
+        [
+            "unheard", 
+            1, 
+            6.602038517154075, 
+            0.6545887954925314, 
+            [
+                "FarmersDaughter", 
+                "InnocentFanserviceGirl", 
+                "RobotGirl", 
+                "BoyBand", 
+                "LadyOfWar", 
+                "GentlemanWizard", 
+                "TheLoinsSleepTonight", 
+                "MyBelovedSmother"
+            ]
+        ], 
+        [
+            "clear", 
+            1, 
+            6.382592148621258, 
+            0.6328307985223731, 
+            [
+                "EvilDiva", 
+                "NubileSavage", 
+                "FarmersDaughter", 
+                "ShortTank", 
+                "WickedStepmother", 
+                "CoolOldGuy", 
+                "StatuesqueStunner", 
+                "TheOphelia", 
+                "MartyStu"
+            ]
+        ], 
+        [
+            "european", 
+            1, 
+            6.382592148621258, 
+            0.6328307985223731, 
+            [
+                "JunglePrincess", 
+                "BedlahBabe", 
+                "FarmersDaughter", 
+                "TheChiefsDaughter", 
+                "Hunk", 
+                "JewishMother", 
+                "GirlishPigtails", 
+                "AsianHookerStereotype"
+            ]
+        ], 
+        [
+            "strict", 
+            1, 
+            6.382592148621258, 
+            0.6328307985223731, 
+            [
+                "FarmersDaughter", 
+                "LeatherMan", 
+                "Keet", 
+                "ApronMatron", 
+                "ShiksaGoddess", 
+                "SchoolMarm", 
+                "Dominatrix", 
+                "MagicalNanny"
+            ]
+        ], 
+        [
+            "gorgeous", 
+            1, 
+            5.692271177709225, 
+            0.5643858217658103, 
+            [
+                "FarmersDaughter", 
+                "MadScientistsBeautifulDaughter", 
+                "DudeLooksLikeALady", 
+                "LadyOfAdventure", 
+                "AdrenalineMakeover", 
+                "HandsomeDevil", 
+                "RobotGirl", 
+                "ButterFace", 
+                "HookerWithAHeartOfGold", 
+                "HotScientist", 
+                "TheDandy"
+            ]
+        ], 
+        [
+            "heavy", 
+            1, 
+            5.422330782572958, 
+            0.5376213674767438, 
+            [
+                "LittleMissAlmighty", 
+                "ButchLesbian", 
+                "TheChick", 
+                "TheBear", 
+                "ChildSoldiers", 
+                "Beastess", 
+                "BlondeRepublicanSexKitten", 
+                "SculleryMaid", 
+                "FarmersDaughter", 
+                "NaughtyNurseOutfit", 
+                "EducationMama", 
+                "JeanneDArchetype", 
+                "AsianHookerStereotype", 
+                "FiremenAreHot", 
+                "Ojou"
+            ]
+        ], 
+        [
+            "tomboyish", 
+            1, 
+            5.422330782572958, 
+            0.5376213674767438, 
+            [
+                "Tomboy", 
+                "VainSorceress", 
+                "FarmersDaughter", 
+                "GamerChick", 
+                "ShortTank", 
+                "RebelliousPrincess", 
+                "TomboyWithAGirlyStreak", 
+                "OneOfTheBoys", 
+                "TomBoyAndGirlyGirl", 
+                "EffeminateMisogynisticGuy", 
+                "LadyOfWar", 
+                "FemininityFailure", 
+                "Chickification"
+            ]
+        ], 
+        [
+            "short", 
+            1, 
+            4.385082189400242, 
+            0.43477869161729826, 
+            [
+                "HugeSchoolgirl", 
+                "OutdoorsyGal", 
+                "ButchLesbian", 
+                "TheWisePrince", 
+                "MsFanservice", 
+                "ClassyCatBurglar", 
+                "TheOneGuy", 
+                "DarkActionGirl", 
+                "BashBrothers", 
+                "TopHeavyGuy", 
+                "GaussianGirl", 
+                "TomBoyAndGirlyGirl", 
+                "BigBeautifulWoman", 
+                "FarmersDaughter", 
+                "TheFlapper", 
+                "CollegeWidow", 
+                "ActionGirl", 
+                "CatholicSchoolGirlsRule"
+            ]
+        ], 
+        [
+            "little", 
+            1, 
+            3.581995073580623, 
+            0.3551530083599179, 
+            [
+                "OverprotectiveDad", 
+                "LittleOldLadyInvestigates", 
+                "GlamorousSingleMother", 
+                "LittleRedFightingHood", 
+                "BastardBoyfriend", 
+                "DirtyOldMan", 
+                "FarmersDaughter", 
+                "TheCharmer", 
+                "MagicalSeventhSon", 
+                "UnluckyEveryDude", 
+                "LittleSisterHeroine", 
+                "SexistUsedCarSalesman", 
+                "TheSlacker", 
+                "MaidenAunt", 
+                "WomanScorned", 
+                "TheCutie", 
+                "BasementDweller", 
+                "PrincessPhase", 
+                "ClassyCatBurglar", 
+                "BespectacledBastardBoyfriend", 
+                "QuintessentialBritishGentleman", 
+                "NonActionGuy", 
+                "BaitAndSwitchLesbians", 
+                "BeautifulAllAlong", 
+                "LittleMissConArtist", 
+                "Tomboy", 
+                "DirtyHarriet", 
+                "FragileFlower", 
+                "BrattyTeenageDaughter", 
+                "FavorsForTheSexy", 
+                "MysticalWaif", 
+                "DarkActionGirl", 
+                "SpoiledSweet", 
+                "SwingLowSweetHarriet", 
+                "Bishonen", 
+                "LittleGirlsKickShins"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/FarmersDaughter.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "MenCantKeepHouse", 
+            "trope": "FarmersDaughter", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "NeverASelfMadeWoman", 
+            "trope": "FarmersDaughter", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "MsFanservice", 
+            "trope": "FarmersDaughter", 
+            "films": [
+                "TheBeverlyHillbillies", 
+                "PrettyWoman"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WhiteDwarfStarlet", 
+            "trope": "FarmersDaughter", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "FatSweatySouthernerInAWhiteSuit", 
+            "trope": "FarmersDaughter", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SissyVillain", 
+            "trope": "FarmersDaughter", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Gayngster", 
+            "trope": "FarmersDaughter", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCasanova", 
+            "trope": "FarmersDaughter", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "UnderstandingBoyfriend", 
+            "trope": "FarmersDaughter", 
+            "films": [
+                "Futurama"
+            ]
+        }
+    ], 
+    "id": "FarmersDaughter", 
+    "name": "Farmers Daughter"
+}

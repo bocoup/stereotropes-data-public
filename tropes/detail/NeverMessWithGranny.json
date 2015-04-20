@@ -1,0 +1,298 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            6, 
+            0.03409090909090909, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            5, 
+            0.016556291390728478, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            7, 
+            0.01192504258943782, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            16, 
+            0.01807909604519774, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            11, 
+            0.019332161687170474, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            11, 
+            0.017027863777089782, 
+            646
+        ]
+    ], 
+    "description": "Little old lady is attacked. Little old lady kicks ass. Moral of the story: Never Mess with Granny. If you think that a Mama Bear is bad, this is her Mama Bear. Maternal instinct to the power of two; you're pretty much screwed.\nThe Distaff Counterpart to Badass Grandpa. Commonly we hear her say that I Was Quite a Looker. She may also be a Retired Badass or the matriarch of a Badass Family. Older Iron Ladies will generally be this. Might overlap with Good Is Not Dumb; always a Cool Old Lady.\nSee also: When Elders Attack, My Grandma Can Do Better Than You!\n\nExamples", 
+    "gender": "f", 
+    "adjs": [
+        "old", 
+        "old", 
+        "bad"
+    ], 
+    "adjectives": [
+        [
+            "old", 
+            2, 
+            13.80033799779542, 
+            1.0, 
+            [
+                "BlackBossLady", 
+                "ChildSoldiers", 
+                "TheOldConvict", 
+                "WidowWitch", 
+                "OldSchoolChivalry", 
+                "WhiteDwarfStarlet", 
+                "CatholicSchoolGirlsRule", 
+                "NerdNanny", 
+                "BoyBand", 
+                "LadyMacBeth", 
+                "BlondeRepublicanSexKitten", 
+                "TheGeneralissimo", 
+                "FemmeFatale", 
+                "GodivaHair", 
+                "TheSquadette", 
+                "CampStraight", 
+                "SexistUsedCarSalesman", 
+                "WickedWitch", 
+                "GrandeDame", 
+                "LittleOldLadyInvestigates", 
+                "CuteWitch", 
+                "BeardOfEvil", 
+                "OldMaid", 
+                "PrincessClassic", 
+                "MaidenAunt", 
+                "MommasBoy", 
+                "TheLoinsSleepTonight", 
+                "LittleMissAlmighty", 
+                "LadyInRed", 
+                "ChivalrousPervert", 
+                "HighClassCallGirl", 
+                "NeverMessWithGranny", 
+                "VainSorceress", 
+                "CoolBigSis", 
+                "GentlemanWizard", 
+                "Samurai", 
+                "SweetPollyOliver", 
+                "DirtyOldMan", 
+                "FrenchMaid", 
+                "Hobos", 
+                "MartyStu", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "BadassGrandpa", 
+                "TheAllAmericanBoy", 
+                "PrincessPhase", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "RebelliousPrincess", 
+                "CoolOldLady", 
+                "PapaWolf", 
+                "ProperLady", 
+                "AbsentMindedProfessor", 
+                "LegCling", 
+                "DastardlyWhiplash", 
+                "GrumpyOldMan"
+            ]
+        ], 
+        [
+            "bad", 
+            1, 
+            5.661801032558749, 
+            0.41026538867839407, 
+            [
+                "AsianHookerStereotype", 
+                "ViolentlyProtectiveGirlFriend", 
+                "FemmeFatale", 
+                "AdrenalineMakeover", 
+                "BastardBoyfriend", 
+                "ManInAKilt", 
+                "DarkMistress", 
+                "GoodGirlGoneBad", 
+                "LawmanGoneBad", 
+                "BoyBand", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "HeManWomanHater", 
+                "CulturedBadass", 
+                "TheBear", 
+                "LovableAlphaBitch", 
+                "TheCheerleader", 
+                "BlondGuysAreEvil", 
+                "HandsomeDevil", 
+                "BashBrothers", 
+                "ActionHeroBabysitter", 
+                "BeardOfEvil", 
+                "ShelteredAristocrat", 
+                "AlphaBitch", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "OverlordJr", 
+                "DamselInDistress", 
+                "KnightErrant", 
+                "NaiveEverygirl", 
+                "MommasBoy", 
+                "AsianAirhead", 
+                "BadassPrincess", 
+                "TheEvilPrince", 
+                "MenCantKeepHouse", 
+                "HeroicSeductress", 
+                "ClassyCatBurglar", 
+                "GirlNextDoor", 
+                "MorallyBankruptBanker", 
+                "NeverMessWithGranny", 
+                "GoodBadGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "TheCutie", 
+                "EvenTheGirlsWantHer", 
+                "OfficerAndAGentleman", 
+                "BeautifulAllAlong", 
+                "DaddysLittleVillain", 
+                "TheButcher", 
+                "WickedWitch", 
+                "LesbianVampire", 
+                "PrinceCharming", 
+                "RebelliousPrincess", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HouseWife", 
+                "NaughtyNuns", 
+                "StageMom", 
+                "LightFeminineAndDarkFeminine", 
+                "PirateGirl", 
+                "DastardlyWhiplash", 
+                "TheWomanWearingTheQueenlyMask", 
+                "BiggerIsBetterInBed"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/NeverMessWithGranny.jpg", 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "WomanInWhite", 
+            "trope": "NeverMessWithGranny", 
+            "films": [
+                "TheCompanyOfWolves", 
+                "KungFuHustle", 
+                "Red", 
+                "LadySnowblood"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "OfficerAndAGentleman", 
+            "trope": "NeverMessWithGranny", 
+            "films": [
+                "CaptainAmericaTheFirstAvenger", 
+                "Madagascar", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "WomanScorned", 
+            "trope": "NeverMessWithGranny", 
+            "films": [
+                "CaptainAmericaTheFirstAvenger", 
+                "Futurama", 
+                "DiaryOfAMadBlackWoman"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "NeverMessWithGranny", 
+            "films": [
+                "CryBaby", 
+                "Cry-Baby", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "WalkingShirtlessScene", 
+            "trope": "NeverMessWithGranny", 
+            "films": [
+                "TheCroods", 
+                "SurfNazisMustDie", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SeashellBra", 
+            "trope": "NeverMessWithGranny", 
+            "films": [
+                "Madagascar", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TeamMom", 
+            "trope": "NeverMessWithGranny", 
+            "films": [
+                "TheCroods", 
+                "DiaryOfAMadBlackWoman"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "StraightGay", 
+            "trope": "NeverMessWithGranny", 
+            "films": [
+                "Futurama", 
+                "TheBluesBrothers"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "NubileSavage", 
+            "trope": "NeverMessWithGranny", 
+            "films": [
+                "TheCroods", 
+                "Futurama"
+            ]
+        }
+    ], 
+    "id": "NeverMessWithGranny", 
+    "name": "Never Mess With Granny"
+}

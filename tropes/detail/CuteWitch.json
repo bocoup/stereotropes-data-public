@@ -1,0 +1,574 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            1, 
+            0.0033112582781456954, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "Known in Japanese as majokko (\u9b54\u5973\u3063\u5b50), this is the original Magical Girl archetype. Sometimes she's from Another Dimension or otherwise Magical Land unless the whole show is in a magical setting. Magic study is often equated with school, and many characters are out getting their licenses. The origin of magic is implied to be genetic with training required to hone it. She may be a princess, who may or may not be visiting Earth as part of training to become queen\u2014if so she may have to compete with rivals to the throne.\nShe may or may not be actively fighting monsters. Usually it's a hard enough life just trying to get through the day, and she'll use her magic (often a non-flashy variety) to make things easier. Theoretically.\nCute Witches are sometimes thought to have influenced the rather benevolent image of witches in Japan; even the standard Goth Girl tends to be somewhat cute. Will almost always wear a Robe and Wizard Hat, and may or may not use a Magic Wand. If she has a pet, it will likely be a cat.\nThe original Cute Witch, Sally the Witch, was directly inspired by the American TV series Bewitched.\nIf and when the Cute Witch grows up, if she doesn't lose her powers, she usually becomes the Hot Witch.\nContrast the Wicked Witch, who is evil, old and ugly.\n\nExamples", 
+    "gender": "f", 
+    "adjs": [
+        "japanese", 
+        "original", 
+        "magical", 
+        "magical", 
+        "many"
+    ], 
+    "adjectives": [
+        [
+            "magic", 
+            2, 
+            11.93480907409428, 
+            1.0, 
+            [
+                "BlackMagicianGirl", 
+                "VainSorceress", 
+                "MagicalGirlWarrior", 
+                "HotWitch", 
+                "CrazyCatLady", 
+                "PregnantBadass", 
+                "GentlemanWizard", 
+                "CuteWitch", 
+                "MagicalSeventhSon", 
+                "LadyOfBlackMagic", 
+                "LovelyAssistant", 
+                "LadyOfWar", 
+                "WickedWitch"
+            ]
+        ], 
+        [
+            "original", 
+            2, 
+            11.760335593267774, 
+            0.9853811250985809, 
+            [
+                "TheOphelia", 
+                "CasanovaWannabe", 
+                "MysteriousWaif", 
+                "WickedStepmother", 
+                "FrenchMaid", 
+                "LittleRedFightingHood", 
+                "BellyDancer", 
+                "GentlemanWizard", 
+                "PlayboyBunny", 
+                "BoyBand", 
+                "CuteWitch", 
+                "MarySue", 
+                "HotWitch", 
+                "DrillSergeantNasty", 
+                "Bishonen", 
+                "StoutStrength", 
+                "TheDandy"
+            ]
+        ], 
+        [
+            "magical", 
+            2, 
+            10.234145932002516, 
+            0.8575039507097582, 
+            [
+                "EvilDiva", 
+                "DamselErrant", 
+                "DarkMagicalGirl", 
+                "HotWitch", 
+                "KnightInShiningArmor", 
+                "UselessBoyfriend", 
+                "IceQueen", 
+                "MysticalWaif", 
+                "GentlemanWizard", 
+                "CuteWitch", 
+                "MagicIdolSinger", 
+                "MagicalNanny", 
+                "MagicalSeventhSon", 
+                "MagicalGirlfriend", 
+                "MagicalGirl", 
+                "ActionGirlFriend", 
+                "WickedWitch", 
+                "ExtraordinarilyEmpoweredGirl"
+            ]
+        ], 
+        [
+            "non-flashy", 
+            1, 
+            9.957133870223307, 
+            0.8342935197711945, 
+            [
+                "CuteWitch"
+            ]
+        ], 
+        [
+            "queen\u2014if", 
+            1, 
+            9.957133870223307, 
+            0.8342935197711945, 
+            [
+                "CuteWitch"
+            ]
+        ], 
+        [
+            "genetic", 
+            1, 
+            8.914088462446077, 
+            0.7468982877819985, 
+            [
+                "EverythingsBetterWithPrincesses", 
+                "CuteWitch"
+            ]
+        ], 
+        [
+            "benevolent", 
+            1, 
+            7.336791605074894, 
+            0.614738917022154, 
+            [
+                "GodSaveUsFromTheQueen", 
+                "CuteWitch", 
+                "HookerWithAHeartOfGold", 
+                "GoodBadGirl", 
+                "ChivalrousPervert"
+            ]
+        ], 
+        [
+            "hard", 
+            1, 
+            5.880167796633887, 
+            0.49269056254929045, 
+            [
+                "BeautyMark", 
+                "TomboyWithAGirlyStreak", 
+                "NEET", 
+                "AdrenalineMakeover", 
+                "HugeSchoolgirl", 
+                "FemininityFailure", 
+                "Hobos", 
+                "CuteWitch", 
+                "BoyBand", 
+                "MagicalGirl", 
+                "HelloNurse"
+            ]
+        ], 
+        [
+            "wear", 
+            1, 
+            5.296701830382503, 
+            0.4438028122192197, 
+            [
+                "BattleButler", 
+                "Fundoshi", 
+                "CorruptHick", 
+                "Joshikousei", 
+                "ManInWhite", 
+                "TheCheerleader", 
+                "RightThroughHisPants", 
+                "GrandeDame", 
+                "TheFightingNarcissist", 
+                "CuteWitch", 
+                "BikerBabe", 
+                "SchoolNurse", 
+                "JeanneDArchetype", 
+                "SweaterGirl"
+            ]
+        ], 
+        [
+            "standard", 
+            1, 
+            4.335314972800831, 
+            0.3632496293728799, 
+            [
+                "WizardBeard", 
+                "BastardBoyfriend", 
+                "FurryBaldness", 
+                "CatholicSchoolGirlsRule", 
+                "StraightGay", 
+                "TheTease", 
+                "CoolBigSis", 
+                "LesbianVampire", 
+                "MadonnaWhoreComplex", 
+                "LipstickAndLoadMontage", 
+                "CuteWitch", 
+                "FauxActionGirl", 
+                "BigBeautifulMan", 
+                "BedlahBabe", 
+                "InnocentFanserviceGirl", 
+                "Hunk", 
+                "MarySue", 
+                "GirlInTheTower", 
+                "BrattyTeenageDaughter", 
+                "DarkActionGirl", 
+                "ShirtlessScene", 
+                "Bishonen", 
+                "DumbassTeenageSon", 
+                "LittleGirlsKickShins"
+            ]
+        ], 
+        [
+            "japanese", 
+            1, 
+            2.586498035527127, 
+            0.2167188448067749, 
+            [
+                "MagicalGirlWarrior", 
+                "PrincelyYoungMan", 
+                "BastardBoyfriend", 
+                "CatholicSchoolGirlsRule", 
+                "YamatoNadeshiko", 
+                "MagicalGirl", 
+                "SchoolgirlLesbians", 
+                "Ojou", 
+                "StringyHairedGhostGirl", 
+                "Fundoshi", 
+                "PrettyBoy", 
+                "TheSquadette", 
+                "LittleSisterHeroine", 
+                "CuteWitch", 
+                "OldMaid", 
+                "Joshikousei", 
+                "SissyVillain", 
+                "DeterminedWidow", 
+                "SeashellBra", 
+                "BigBeautifulMan", 
+                "NaginatasAreFeminine", 
+                "Kawaiiko", 
+                "HugeSchoolgirl", 
+                "BridgeBunnies", 
+                "Samurai", 
+                "OfficeLady", 
+                "TomboyWithAGirlyStreak", 
+                "HotWitch", 
+                "FrenchMaid", 
+                "FragileFlower", 
+                "ButterFace", 
+                "SenseiChan", 
+                "IdolSinger", 
+                "Meido", 
+                "DragonLady", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "Bishonen", 
+                "GenderInvertedTrope"
+            ]
+        ], 
+        [
+            "old", 
+            1, 
+            2.40757778549238, 
+            0.20172738169044302, 
+            [
+                "BlackBossLady", 
+                "ChildSoldiers", 
+                "TheOldConvict", 
+                "WidowWitch", 
+                "OldSchoolChivalry", 
+                "WhiteDwarfStarlet", 
+                "CatholicSchoolGirlsRule", 
+                "NerdNanny", 
+                "BoyBand", 
+                "LadyMacBeth", 
+                "BlondeRepublicanSexKitten", 
+                "TheGeneralissimo", 
+                "FemmeFatale", 
+                "GodivaHair", 
+                "TheSquadette", 
+                "CampStraight", 
+                "SexistUsedCarSalesman", 
+                "WickedWitch", 
+                "GrandeDame", 
+                "LittleOldLadyInvestigates", 
+                "CuteWitch", 
+                "BeardOfEvil", 
+                "OldMaid", 
+                "PrincessClassic", 
+                "MaidenAunt", 
+                "MommasBoy", 
+                "TheLoinsSleepTonight", 
+                "LittleMissAlmighty", 
+                "LadyInRed", 
+                "ChivalrousPervert", 
+                "HighClassCallGirl", 
+                "NeverMessWithGranny", 
+                "VainSorceress", 
+                "CoolBigSis", 
+                "GentlemanWizard", 
+                "Samurai", 
+                "SweetPollyOliver", 
+                "DirtyOldMan", 
+                "FrenchMaid", 
+                "Hobos", 
+                "MartyStu", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "BadassGrandpa", 
+                "TheAllAmericanBoy", 
+                "PrincessPhase", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "RebelliousPrincess", 
+                "CoolOldLady", 
+                "PapaWolf", 
+                "ProperLady", 
+                "AbsentMindedProfessor", 
+                "LegCling", 
+                "DastardlyWhiplash", 
+                "GrumpyOldMan"
+            ]
+        ], 
+        [
+            "many", 
+            1, 
+            1.2560531823693357, 
+            0.10524283837063864, 
+            [
+                "ChildSoldiers", 
+                "CatholicSchoolGirlsRule", 
+                "StoutStrength", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "Dominatrix", 
+                "DisguisedInDrag", 
+                "SpiritedYoungLady", 
+                "SexistUsedCarSalesman", 
+                "InsectQueen", 
+                "TeamMom", 
+                "AlphaBitch", 
+                "AgentPeacock", 
+                "SchoolNurse", 
+                "ManInWhite", 
+                "BathingBeauty", 
+                "GoodOlBoy", 
+                "Tomboy", 
+                "EvilMatriarch", 
+                "BlackBossLady", 
+                "HouseWife", 
+                "WomenDrivers", 
+                "ProperLady", 
+                "BlackWidow", 
+                "Bishonen", 
+                "MadScientistsBeautifulDaughter", 
+                "PrincelyYoungMan", 
+                "HugeSchoolgirl", 
+                "StrawMisogynist", 
+                "DarkMistress", 
+                "SexyStewardess", 
+                "WickedStepmother", 
+                "SchoolgirlLesbians", 
+                "TheCheerleader", 
+                "CuteWitch", 
+                "KnightErrant", 
+                "MommasBoy", 
+                "AsianAirhead", 
+                "MenCantKeepHouse", 
+                "MountainMan", 
+                "CoolOldGuy", 
+                "GracefulLadiesLikePurple", 
+                "DisposableSexWorker", 
+                "ViolentlyProtectiveGirlFriend", 
+                "BaitAndSwitchLesbians", 
+                "GymBunny", 
+                "MysticalWaif", 
+                "StageMom", 
+                "LittleMissBadass", 
+                "GenderInvertedTrope", 
+                "AsianHookerStereotype", 
+                "UnrequitedTragicMaiden", 
+                "WidowWoman", 
+                "MegaTwintails", 
+                "GoodBadGirl", 
+                "BlondGuysAreEvil", 
+                "BoyBand", 
+                "YamatoNadeshiko", 
+                "MrsClaus", 
+                "MadonnaWhoreComplex", 
+                "SchoolMarm", 
+                "HarpOfFemininity", 
+                "IceQueen", 
+                "LipstickAndLoadMontage", 
+                "Joshikousei", 
+                "MaidenAunt", 
+                "GayCowboy", 
+                "JunglePrincess", 
+                "GentlemanThief", 
+                "BedlahBabe", 
+                "PrinceCharmless", 
+                "CrazyCatLady", 
+                "GalleySlave", 
+                "BadassGrandpa", 
+                "QuintessentialBritishGentleman", 
+                "Valkyries", 
+                "LovelyAssistant", 
+                "CuteClumsyGirl", 
+                "TheButcher", 
+                "BlondesAreEvil", 
+                "HumanoidFemaleAnimal", 
+                "HotScoop", 
+                "TheMuse", 
+                "BattleaxeNurse", 
+                "GodSaveUsFromTheQueen", 
+                "ConceiveAndKill", 
+                "MagicalGirlWarrior", 
+                "GlamorousWartimeSinger", 
+                "EmotionlessGirl", 
+                "AnimeChineseGirl", 
+                "WorldsMostBeautifulWoman", 
+                "CampStraight", 
+                "MissKitty", 
+                "NeverASelfMadeWoman", 
+                "TheHecateSisters", 
+                "FauxActionGirl", 
+                "JeanneDArchetype", 
+                "NobleMaleRoguishMale", 
+                "BumblingDad", 
+                "BastardGirlfriend", 
+                "NoWomansLand", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "Kawaiiko", 
+                "MataHari", 
+                "TheFightingNarcissist", 
+                "PrincelyTropes", 
+                "SensitiveGuyAndManlyMan", 
+                "ScaryBlackMan", 
+                "EstrogenBrigade", 
+                "SurferDude", 
+                "LesbianJock", 
+                "ButchLesbian", 
+                "KidAnova", 
+                "GirlyBruiser", 
+                "FanserviceExtra", 
+                "JewishMother"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/CuteWitch.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "TheHecateSisters", 
+            "trope": "CuteWitch", 
+            "films": [
+                "PracticalMagic", 
+                "KikisDeliveryService"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GossipyHens", 
+            "trope": "CuteWitch", 
+            "films": [
+                "PracticalMagic"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "DoggedNiceGuy", 
+            "trope": "CuteWitch", 
+            "films": [
+                "KikisDeliveryService"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LightFeminineAndDarkFeminine", 
+            "trope": "CuteWitch", 
+            "films": [
+                "PracticalMagic"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LovelyAssistant", 
+            "trope": "CuteWitch", 
+            "films": [
+                "BedknobsAndBroomsticks"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WickedWitch", 
+            "trope": "CuteWitch", 
+            "films": [
+                "SleepyHollow"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NonActionGuy", 
+            "trope": "CuteWitch", 
+            "films": [
+                "SleepyHollow"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "DarkMagicalGirl", 
+            "trope": "CuteWitch", 
+            "films": [
+                "SleepyHollow"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheIngenue", 
+            "trope": "CuteWitch", 
+            "films": [
+                "SleepyHollow"
+            ]
+        }
+    ], 
+    "id": "CuteWitch", 
+    "name": "Cute Witch"
+}

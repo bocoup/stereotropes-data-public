@@ -1,0 +1,201 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            2, 
+            0.03333333333333333, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            2, 
+            0.02197802197802198, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            1, 
+            0.0044444444444444444, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            5, 
+            0.016556291390728478, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "A Dead Horse Trope which used to be common in adventure, mystery, and espionage fiction where the hero was an independently wealthy (or at least doesn't do much work for a living) \"gentleman of leisure\" whose adventures were initially motivated by a lust for adventure, even if the character ultimately acted for heroic/patriotic motives.  It seems probable that the Rich Idiot With No Day Job is an outgrowth of this character type.  Has some overlap with the Adventurer Archaeologist. Often ends up a Cool Old Guy. His Distaff Counterpart is the Lady Of Adventure.", 
+    "gender": "m", 
+    "adjs": [
+        "wealthy", 
+        "lust", 
+        "heroic/patriotic", 
+        "probable"
+    ], 
+    "adjectives": [
+        [
+            "heroic/patriotic", 
+            1, 
+            12.724547389584849, 
+            1.0, 
+            [
+                "GENTLEMANADVENTURER"
+            ]
+        ], 
+        [
+            "probable", 
+            1, 
+            11.678914380368496, 
+            0.917825524381935, 
+            [
+                "CockFight", 
+                "GENTLEMANADVENTURER"
+            ]
+        ], 
+        [
+            "lust", 
+            1, 
+            11.000181511499653, 
+            0.8644850912735329, 
+            [
+                "WomanInBlack", 
+                "GENTLEMANADVENTURER", 
+                "LesbianVampire"
+            ]
+        ], 
+        [
+            "wealthy", 
+            1, 
+            8.621705301604225, 
+            0.677564791708125, 
+            [
+                "GENTLEMANADVENTURER", 
+                "JerkJock", 
+                "FemmeFatale", 
+                "AmazonBrigade", 
+                "JewishAmericanPrincess", 
+                "TheFightingNarcissist", 
+                "ClassyCatBurglar", 
+                "AlphaBitch", 
+                "GodSaveUsFromTheQueen", 
+                "Ojou"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/GENTLEMANADVENTURER.png", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "MsFanservice", 
+            "trope": "GENTLEMANADVENTURER", 
+            "films": [
+                "TheAdventuresOfBaronMunchausen", 
+                "TheQuickAndTheDead"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "MilesGloriosus", 
+            "trope": "GENTLEMANADVENTURER", 
+            "films": [
+                "TheQuickAndTheDead", 
+                "ChittyChittyBangBang"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HotScientist", 
+            "trope": "GENTLEMANADVENTURER", 
+            "films": [
+                "TheSaint"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCasanova", 
+            "trope": "GENTLEMANADVENTURER", 
+            "films": [
+                "MyFavoriteYear"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "YoungGun", 
+            "trope": "GENTLEMANADVENTURER", 
+            "films": [
+                "TheQuickAndTheDead"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MenCantKeepHouse", 
+            "trope": "GENTLEMANADVENTURER", 
+            "films": [
+                "SherlockHolmes"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PapaWolf", 
+            "trope": "GENTLEMANADVENTURER", 
+            "films": [
+                "TheQuickAndTheDead"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Ptitleba4e2b2g", 
+            "trope": "GENTLEMANADVENTURER", 
+            "films": [
+                "SherlockHolmes"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "KnightInShiningArmor", 
+            "trope": "GENTLEMANADVENTURER", 
+            "films": [
+                "TheSaint"
+            ]
+        }
+    ], 
+    "id": "GENTLEMANADVENTURER", 
+    "name": "Gentleman Adventurer"
+}

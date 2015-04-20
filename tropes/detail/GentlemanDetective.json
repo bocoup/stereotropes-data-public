@@ -1,0 +1,158 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "Subtrope of Great Detective. A sleuth who is known to belong to the higher strata of society - to have been raised in a privileged environment, and shows it, even if they have since rejected their background. Will tend to be some form of polymath, possibly autodidactic, at the least being very well-educated and well-read. Probably multilingual to boot, and often has notable eccentricities or unusual hobbies. Frequently a competent musician. Like the Great Detective, this was first instantiated in the form of Edgar Allan Poe's C. Auguste Dupin, and popularised by Arthur Conan Doyle's Sherlock Holmes.\nThe Other Wiki has a page on this trope. See also Mystery Fiction and Detective Fiction.", 
+    "gender": "m", 
+    "adjs": [
+        "privileged", 
+        "autodidactic", 
+        "well-educated", 
+        "multilingual", 
+        "notable"
+    ], 
+    "adjectives": [
+        [
+            "autodidactic", 
+            1, 
+            11.914480172293118, 
+            1.0, 
+            [
+                "GentlemanDetective"
+            ]
+        ], 
+        [
+            "multilingual", 
+            1, 
+            11.914480172293118, 
+            1.0, 
+            [
+                "GentlemanDetective"
+            ]
+        ], 
+        [
+            "well-educated", 
+            1, 
+            10.869278662539067, 
+            0.9122746863782907, 
+            [
+                "GentlemanDetective", 
+                "HighClassCallGirl"
+            ]
+        ], 
+        [
+            "privileged", 
+            1, 
+            10.190977293132523, 
+            0.8553438459557333, 
+            [
+                "GentlemanDetective", 
+                "BastardBastard", 
+                "EvilRoy"
+            ]
+        ], 
+        [
+            "notable", 
+            1, 
+            7.815953078935489, 
+            0.656004539510782, 
+            [
+                "MadonnaWhoreComplex", 
+                "BigBeautifulMan", 
+                "WorldsMostBeautifulWoman", 
+                "YamatoNadeshiko", 
+                "JewishAmericanPrincess", 
+                "GentlemanDetective", 
+                "BellyDancer", 
+                "BoyBand", 
+                "PerkyGoth", 
+                "TinyTyrannicalGirl"
+            ]
+        ], 
+        [
+            "unusual", 
+            1, 
+            6.873782192645845, 
+            0.5769267389970304, 
+            [
+                "YamatoNadeshiko", 
+                "GymBunny", 
+                "GentlemanDetective", 
+                "TheSquadette", 
+                "StumblingUponTheLostWizard", 
+                "InnocentFanserviceGirl", 
+                "RobotGirl", 
+                "DadTheVeteran", 
+                "ActionHeroBabysitter", 
+                "TheHecateSisters", 
+                "MarySue", 
+                "EffeminateMisogynisticGuy", 
+                "SpicyLatina", 
+                "ActionGirl", 
+                "MissingMom"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/GentlemanDetective.jpg", 
+    "id": "GentlemanDetective", 
+    "name": "Gentleman Detective"
+}

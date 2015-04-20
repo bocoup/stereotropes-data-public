@@ -1,0 +1,373 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            3, 
+            0.005272407732864675, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "A series centered around the premise of Hot Amazon. It starts with an ordinary guy living an ordinary life. But then he meets a woman who changes his life forever. But unlike a typical magical girlfriend, the series is more about her kicking butt and taking names than causing hilarity to ensue. The story might be told through the guy's eyes, but as often as not it's her who's the real star. If they are both badasses, they would be a Battle Couple.\nBut fortunately for the guy, this doesn't mean she's completely out of his league. In fact, meeting her usually means the ordinary high school student isn't so ordinary himself. That first fateful encounter will probably end up granting him special powers, or unlocking powers he didn't know he had. Or maybe he did know, but didn't have a reason to use them.\nEither way, he does now. Quite likely, she was somehow weakened, and this normally invincible action girl now finds herself vulnerable and in need of protection. Even then, she's still a competent fighter. She's just going to need take some backup into battle with her until she recovers. And so, as their relationship develops, so do his newfound abilities, eventually making himself into a hero on par with her.\nIn shows where anyone can die, an Action Girlfriend has much higher chances of survival than most other love interests, since she is rarely subject to Cartwright Curse.\nContrast: No Guy Wants An Amazon.", 
+    "gender": "f", 
+    "adjs": [
+        "ordinary", 
+        "ordinary", 
+        "typical", 
+        "magical", 
+        "real"
+    ], 
+    "adjectives": [
+        [
+            "ordinary", 
+            4, 
+            35.834115536922994, 
+            1.0, 
+            [
+                "DefectingForLove", 
+                "GirlNextDoor", 
+                "HotWitch", 
+                "MataHari", 
+                "Joshikousei", 
+                "GreenSkinnedSpaceBabe", 
+                "ActionGirlFriend"
+            ]
+        ], 
+        [
+            "invincible", 
+            1, 
+            10.530773691358384, 
+            0.2938756415100469, 
+            [
+                "ActionGirlFriend"
+            ]
+        ], 
+        [
+            "fateful", 
+            1, 
+            9.486866121696911, 
+            0.2647439731537889, 
+            [
+                "ActionGirlFriend", 
+                "GoodGirlGoneBad"
+            ]
+        ], 
+        [
+            "vulnerable", 
+            1, 
+            7.906982778672999, 
+            0.22065516785326403, 
+            [
+                "BastardBastard", 
+                "TheBaroness", 
+                "BattleaxeNurse", 
+                "ActionGirlFriend", 
+                "NoWomansLand"
+            ]
+        ], 
+        [
+            "subject", 
+            1, 
+            7.042505713496949, 
+            0.19653075310985268, 
+            [
+                "Tomboy", 
+                "VainSorceress", 
+                "ActionGirlFriend", 
+                "SouthernGentleman", 
+                "LadyOfWar", 
+                "JeanneDArchetype", 
+                "OneOfTheBoys", 
+                "BasementDweller"
+            ]
+        ], 
+        [
+            "special", 
+            1, 
+            5.8582713851381865, 
+            0.1634830746443819, 
+            [
+                "FemininityFailure", 
+                "AnimeChineseGirl", 
+                "UselessBoyfriend", 
+                "ActionGirlFriend", 
+                "WickedStepmother", 
+                "CoolOldGuy", 
+                "NobleMaleRoguishMale", 
+                "TheMuse", 
+                "OneOfTheBoys", 
+                "BeautifulAllAlong", 
+                "EmotionlessGirl", 
+                "GIRL", 
+                "SpaceshipGirl", 
+                "SweaterGirl", 
+                "MaidenAunt"
+            ]
+        ], 
+        [
+            "typical", 
+            1, 
+            5.735778595374159, 
+            0.1600647458275924, 
+            [
+                "CircumcisionAngst", 
+                "MagicalGirlWarrior", 
+                "FemmeFatale", 
+                "IronLady", 
+                "TownGirls", 
+                "WickedWitch", 
+                "CatholicSchoolGirlsRule", 
+                "ManInAKilt", 
+                "AlphaBitch", 
+                "TomboyPrincess", 
+                "BoyBand", 
+                "ProperLady", 
+                "DamselInDistress", 
+                "ActionGirlFriend", 
+                "Dominatrix"
+            ]
+        ], 
+        [
+            "magical", 
+            1, 
+            4.363184768250814, 
+            0.1217606379528203, 
+            [
+                "EvilDiva", 
+                "DamselErrant", 
+                "DarkMagicalGirl", 
+                "HotWitch", 
+                "KnightInShiningArmor", 
+                "UselessBoyfriend", 
+                "IceQueen", 
+                "MysticalWaif", 
+                "GentlemanWizard", 
+                "CuteWitch", 
+                "MagicIdolSinger", 
+                "MagicalNanny", 
+                "MagicalSeventhSon", 
+                "MagicalGirlfriend", 
+                "MagicalGirl", 
+                "ActionGirlFriend", 
+                "WickedWitch", 
+                "ExtraordinarilyEmpoweredGirl"
+            ]
+        ], 
+        [
+            "real", 
+            1, 
+            2.776509963192023, 
+            0.07748230761635917, 
+            [
+                "TheLadysFavour", 
+                "ChildSoldiers", 
+                "InnocentFlowerGirl", 
+                "GranolaGirl", 
+                "WickedStepmother", 
+                "OldSchoolChivalry", 
+                "HumanoidFemaleAnimal", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "HouseHusband", 
+                "MarySue", 
+                "PrettyBoy", 
+                "MasculinityTropes", 
+                "ActionMom", 
+                "TheMuse", 
+                "WorldsMostBeautifulWoman", 
+                "GoGetterGirl", 
+                "LittleSisterHeroine", 
+                "CampStraight", 
+                "WeirdBeard", 
+                "ActionGirlFriend", 
+                "SchoolgirlLesbians", 
+                "GrandeDame", 
+                "BattleaxeNurse", 
+                "ManInAKilt", 
+                "ShelteredAristocrat", 
+                "FauxActionGirl", 
+                "LittleMissConArtist", 
+                "GreenSkinnedSpaceBabe", 
+                "MommasBoy", 
+                "BasementDweller", 
+                "FeminineWomenCanCook", 
+                "OfficeLady", 
+                "BastardGirlfriend", 
+                "BlackWidow", 
+                "ValleyGirl", 
+                "CosplayOtakuGirl", 
+                "BridgeBunnies", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold", 
+                "MilesGloriosus", 
+                "Fangirl", 
+                "GodSaveUsFromTheQueen", 
+                "FilleFatale", 
+                "HenpeckedHusband", 
+                "TheButcher", 
+                "Fratbro", 
+                "Tomboy", 
+                "SenseiChan", 
+                "ButchLesbian", 
+                "MsFanservice", 
+                "TheSquadette", 
+                "DadTheVeteran", 
+                "MisterSeahorse", 
+                "EverythingsBetterWithPrincesses", 
+                "NaughtyNuns", 
+                "SpoiledSweet", 
+                "SexyManInstantHarem", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "LipstickLesbian", 
+                "LadyMacBeth", 
+                "DumbassTeenageSon", 
+                "LonelyDollGirl", 
+                "DarkMagicalGirl", 
+                "LadyKillerInLove", 
+                "BiggerIsBetterInBed"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/ActionGirlFriend.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "TheCasanova", 
+            "trope": "ActionGirlFriend", 
+            "films": [
+                "Futurama", 
+                "TheFifthElement"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "CasanovaWannabe", 
+            "trope": "ActionGirlFriend", 
+            "films": [
+                "MySuperExGirlfriend", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SensitiveGuyAndManlyMan", 
+            "trope": "ActionGirlFriend", 
+            "films": [
+                "Futurama", 
+                "TheFifthElement"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WomanScorned", 
+            "trope": "ActionGirlFriend", 
+            "films": [
+                "MySuperExGirlfriend", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "KavorkaMan", 
+            "trope": "ActionGirlFriend", 
+            "films": [
+                "Futurama", 
+                "TheFifthElement"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "RightThroughHisPants", 
+            "trope": "ActionGirlFriend", 
+            "films": [
+                "MySuperExGirlfriend", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "BaldBlackLeaderGuy", 
+            "trope": "ActionGirlFriend", 
+            "films": [
+                "TheMatrix", 
+                "TheFifthElement"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SissyVillain", 
+            "trope": "ActionGirlFriend", 
+            "films": [
+                "Futurama", 
+                "TheFifthElement"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "JewishMother", 
+            "trope": "ActionGirlFriend", 
+            "films": [
+                "Futurama", 
+                "TheFifthElement"
+            ]
+        }
+    ], 
+    "id": "ActionGirlFriend", 
+    "name": "Action Girl Friend"
+}

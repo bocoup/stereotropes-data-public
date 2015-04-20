@@ -1,0 +1,486 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            1, 
+            0.0044444444444444444, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            1, 
+            0.0033112582781456954, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            5, 
+            0.005649717514124294, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            2, 
+            0.0035149384885764497, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "Basically the male counterpart of Naughty Nuns: the handsome, attractive, usually young priest. Has a long tradition in western culture, dating at least to the Middle Ages. The priest is usually Roman Catholic for the added Forbidden Fruit aspects of celibacy, but there's still room for the handsome young pastor in Protestant settings as well.\nDepending on the viewpoint of the characters, this can be played for sympathy or antipathy: Either the priest is a innocent and charismatic Good Shepherd in a Saintly Church who just can't help attracting the attentions of women (and sometimes men, too) or he is a sinister Casanova in a Corrupt Church, in which case it is often a trait of the Sinister Minister.\nSee also: The Vicar. Can overlap with Nun Too Holy. May lead into Hot for Preacher.\nIn terms of rank, the Authority Tropes arguably equal are Badass Preacher, Corrupt Corporate Executive, Irish Priest, Landlord, Preacher Man, Pedophile Priest, Schoolteachers, Sinister Minister and The Vicar. For the next step down, see Student Council President. For the next step up, see Dean Bitterman.", 
+    "gender": "m", 
+    "adjs": [
+        "attractive", 
+        "young", 
+        "long", 
+        "western", 
+        "roman"
+    ], 
+    "adjectives": [
+        [
+            "roman", 
+            1, 
+            10.704365248226246, 
+            1.0, 
+            [
+                "SexyPriest"
+            ]
+        ], 
+        [
+            "antipathy", 
+            1, 
+            9.660242080009073, 
+            0.9024581893456796, 
+            [
+                "Tomboy", 
+                "SexyPriest"
+            ]
+        ], 
+        [
+            "sinister", 
+            1, 
+            9.660242080009073, 
+            0.9024581893456796, 
+            [
+                "StumblingUponTheLostWizard", 
+                "SexyPriest"
+            ]
+        ], 
+        [
+            "charismatic", 
+            1, 
+            8.98301905213941, 
+            0.8391921280552278, 
+            [
+                "ChickMagnet", 
+                "SexyPriest", 
+                "TheWomanWearingTheQueenlyMask"
+            ]
+        ], 
+        [
+            "sympathy", 
+            1, 
+            8.079711941318067, 
+            0.7548053297842117, 
+            [
+                "TheVamp", 
+                "TheCutie", 
+                "JerkJock", 
+                "SexyPriest", 
+                "YokoOhNo"
+            ]
+        ], 
+        [
+            "corrupt", 
+            1, 
+            6.796317902590106, 
+            0.6349108746748231, 
+            [
+                "CorruptHick", 
+                "ManInWhite", 
+                "IronLady", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "TheWomanWearingTheQueenlyMask", 
+                "SexyPriest", 
+                "TheGeneralissimo"
+            ]
+        ], 
+        [
+            "western", 
+            1, 
+            5.681999074705929, 
+            0.5308113973079774, 
+            [
+                "MachoCamp", 
+                "SenseiChan", 
+                "BigBeautifulMan", 
+                "GenderInvertedTrope", 
+                "YamatoNadeshiko", 
+                "HotGypsyWoman", 
+                "ManInWhite", 
+                "MissKitty", 
+                "Kawaiiko", 
+                "MountainMan", 
+                "BridgeBunnies", 
+                "SissyVillain", 
+                "EvenTheGirlsWantHer", 
+                "SensitiveGuyAndManlyMan", 
+                "HuskyRusskie", 
+                "PrettyBoy", 
+                "NaughtyNuns", 
+                "SexyPriest"
+            ]
+        ], 
+        [
+            "equal", 
+            1, 
+            5.579060384245758, 
+            0.5211948821692374, 
+            [
+                "TheEvilPrince", 
+                "LesbianCop", 
+                "TheWisePrince", 
+                "GirlGroup", 
+                "PrinceCharming", 
+                "TheFlapper", 
+                "TheWomanWearingTheQueenlyMask", 
+                "SpoiledSweet", 
+                "TheFightingNarcissist", 
+                "BigBeautifulWoman", 
+                "EvenTheGirlsWantHer", 
+                "DirtyCoward", 
+                "GodSaveUsFromTheQueen", 
+                "MyBelovedSmother", 
+                "TheGoodKing", 
+                "TheHighQueen", 
+                "SexyPriest", 
+                "BadassPrincess"
+            ]
+        ], 
+        [
+            "long", 
+            1, 
+            4.120540276893296, 
+            0.3849401792017593, 
+            [
+                "WizardBeard", 
+                "YamatoNadeshiko", 
+                "FemmeFatale", 
+                "TheOphelia", 
+                "MegaTwintails", 
+                "WhiteDwarfStarlet", 
+                "StraightGay", 
+                "GIRL", 
+                "TheGeneralissimo", 
+                "Fundoshi", 
+                "DoggedNiceGuy", 
+                "LooksLikeJesus", 
+                "GlamorousWartimeSinger", 
+                "BaitAndSwitchLesbians", 
+                "BeardOfEvil", 
+                "ActionGirl", 
+                "BattleButler", 
+                "SexyStewardess", 
+                "NaginatasAreFeminine", 
+                "MissKitty", 
+                "TheChanteuse", 
+                "LongJohnShoutout", 
+                "EverythingsBetterWithPrincesses", 
+                "MarySue", 
+                "DirtyCoward", 
+                "HauntedHeroine", 
+                "TheDandy", 
+                "TimePassageBeard", 
+                "BadassGrandpa", 
+                "IllGirl", 
+                "GymBunny", 
+                "KavorkaMan", 
+                "PregnantBadass", 
+                "DarkActionGirl", 
+                "ButterFace", 
+                "HotGypsyWoman", 
+                "StageMom", 
+                "WomanInBlack", 
+                "GodSaveUsFromTheQueen", 
+                "SexyPriest"
+            ]
+        ], 
+        [
+            "attractive", 
+            1, 
+            2.821868442602379, 
+            0.2636184750020533, 
+            [
+                "AmazonChaser", 
+                "EvenTheGirlsWantHer", 
+                "GirlGroup", 
+                "RightHandHottie", 
+                "TheLadette", 
+                "LovelyAssistant", 
+                "AmazonianBeauty", 
+                "BrawnHilda", 
+                "GIRL", 
+                "BlondeRepublicanSexKitten", 
+                "CuteClumsyGirl", 
+                "PerkyGoth", 
+                "DisguisedInDrag", 
+                "WorldsMostBeautifulWoman", 
+                "TheBear", 
+                "SchoolNurse", 
+                "TheBaroness", 
+                "ALadyOnEachArm", 
+                "Meido", 
+                "HelloNurse", 
+                "CarpetOfVirility", 
+                "ManInAKilt", 
+                "SpicyLatina", 
+                "AlphaBitch", 
+                "CuteMonsterGirl", 
+                "StatuesqueStunner", 
+                "GreenSkinnedSpaceBabe", 
+                "FiremenAreHot", 
+                "ManicPixieDreamGirl", 
+                "HauntedHeroine", 
+                "WalkingShirtlessScene", 
+                "BigBeautifulMan", 
+                "SenseiChan", 
+                "GirlNextDoor", 
+                "HighClassCallGirl", 
+                "Kawaiiko", 
+                "MataHari", 
+                "BridgeBunnies", 
+                "TheFightingNarcissist", 
+                "OfficeLady", 
+                "LadyDrunk", 
+                "SensitiveGuyAndManlyMan", 
+                "EstrogenBrigade", 
+                "HotWitch", 
+                "BaitAndSwitchLesbians", 
+                "BromanticFoil", 
+                "HotScientist", 
+                "MrFanservice", 
+                "BigBeautifulWoman", 
+                "WorldsStrongestMan", 
+                "BeautyMark", 
+                "NubileSavage", 
+                "CasanovaWannabe", 
+                "IdolSinger", 
+                "GymBunny", 
+                "KavorkaMan", 
+                "HouseWife", 
+                "HotScoop", 
+                "CatholicSchoolGirlsRule", 
+                "SissyVillain", 
+                "GirlyBruiser", 
+                "Bishonen", 
+                "ChippendalesDancers", 
+                "SexyPriest", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "young", 
+            1, 
+            2.3414087077755976, 
+            0.21873400743342328, 
+            [
+                "OverprotectiveDad", 
+                "WomanInWhite", 
+                "MamaBear", 
+                "TheLadette", 
+                "GranolaGirl", 
+                "PrincelyYoungMan", 
+                "BaitAndSwitchLesbians", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "CuteSportsClubManager", 
+                "CollegeWidow", 
+                "MrsRobinson", 
+                "CoolBigSis", 
+                "EmotionlessGirl", 
+                "MatronChaperone", 
+                "SchoolgirlLesbians", 
+                "Ojou", 
+                "StringyHairedGhostGirl", 
+                "GoGetterGirl", 
+                "TheSquadette", 
+                "NaginatasAreFeminine", 
+                "LittleMissAlmighty", 
+                "WickedWitch", 
+                "MataHari", 
+                "NinjaMaid", 
+                "SmittenTeenageGirl", 
+                "TheHecateSisters", 
+                "TheFlapper", 
+                "MaidenAunt", 
+                "DeterminedWidow", 
+                "JeanneDArchetype", 
+                "MommasBoy", 
+                "GirlsLoveStuffedAnimals", 
+                "PirateGirl", 
+                "JunglePrincess", 
+                "NubileSavage", 
+                "BastardGirlfriend", 
+                "ShortTank", 
+                "OfficeLady", 
+                "GrannyClassic", 
+                "Kawaiiko", 
+                "VainSorceress", 
+                "GracefulLadiesLikePurple", 
+                "GrandeDame", 
+                "BridgeBunnies", 
+                "Meido", 
+                "EverythingsBetterWithPrincesses", 
+                "OneeSama", 
+                "Hunk", 
+                "GrumpyOldMan", 
+                "HotWitch", 
+                "TheOphelia", 
+                "FilleFatale", 
+                "TheWomanWearingTheQueenlyMask", 
+                "TheIngenue", 
+                "SchoolMarm", 
+                "GirlishPigtails", 
+                "Fratbro", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "SenseiChan", 
+                "YaoiGuys", 
+                "TinyTyrannicalGirl", 
+                "MysteriousWaif", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "NaiveEverygirl", 
+                "PrinceCharming", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HotScientist", 
+                "KidAnova", 
+                "PapaWolf", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "BrawnHilda", 
+                "LittleMissBadass", 
+                "MagicIdolSinger", 
+                "PetitePride", 
+                "DarkMagicalGirl", 
+                "PluckyGirl", 
+                "SexyPriest", 
+                "SweetPollyOliver"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/SexyPriest.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "SmallGirlBigGun", 
+            "trope": "SexyPriest", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "SexyPriest", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomanScorned", 
+            "trope": "SexyPriest", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SissyVillain", 
+            "trope": "SexyPriest", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WeirdBeard", 
+            "trope": "SexyPriest", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheGambler", 
+            "trope": "SexyPriest", 
+            "films": [
+                "TheQuickAndTheDead"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WaistcoatOfStyle", 
+            "trope": "SexyPriest", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCharmer", 
+            "trope": "SexyPriest", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SweetPollyOliver", 
+            "trope": "SexyPriest", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }
+    ], 
+    "id": "SexyPriest", 
+    "name": "Sexy Priest"
+}

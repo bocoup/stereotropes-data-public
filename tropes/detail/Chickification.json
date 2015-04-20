@@ -1,0 +1,522 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            1, 
+            0.016666666666666666, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            8, 
+            0.00903954802259887, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            5, 
+            0.008787346221441126, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            9, 
+            0.01393188854489164, 
+            646
+        ]
+    ], 
+    "description": "You have an Action Girl. She rocks, but she's also the only female in the main cast, and you don't have a Non-Action Guy or other similar factor to be your Designated Victim. What's an executive to do? Degrade her tough image to something more fitting for the Damsel in Distress; someone who tends to Stay in the Kitchen. Gradually, the Action Girl has significantly less action. She has been chickified.\nThis trope is not about any Action Girl who shows \"female\" emotions or likes girly-girl dresses. There is no rule that an Action Girl cannot have feelings and express them and neither is there a rule against kicking ass in a formal dress. If the Action Girl is changed as the result of physical and/or emotional trauma, it's more likely less of this trope and more like Character Development, Break the Cutie, Break the Haughty, etc. Remember Tropes Are Tools and there is more to Action Girls than simply kicking ass and being super no-nosense and \"strong\". (Which, to fans, usually means \"BE LIKE A BADASS MAN, YOU BITCH!\"\nCompare with Girliness Upgrade, in which the girl becomes more feminine but doesn't lose her backbone. Remember, there is absolutely no overlap between these two tropes.\nIf this is done to a male character in a Slash Fic, it may be part of Wimpification. Not to be confused with Jack Chick. If the girl used to be an active character but now is just there, the trope is Men Act, Women Are. For girls that are both badass and feminine, see Girly Bruiser. For a tomboyish woman who still has a more girlish side, see Tomboy with a Girly Streak.\nContrast with Xenafication\n\nExamples", 
+    "gender": "f", 
+    "adjs": [
+        "main", 
+        "similar", 
+        "tough", 
+        "girly-girl", 
+        "formal"
+    ], 
+    "adjectives": [
+        [
+            "girlish", 
+            1, 
+            9.660242080009073, 
+            1.0, 
+            [
+                "Chickification", 
+                "ShortTank"
+            ]
+        ], 
+        [
+            "girly-girl", 
+            1, 
+            9.660242080009073, 
+            1.0, 
+            [
+                "Chickification", 
+                "TomBoyAndGirlyGirl"
+            ]
+        ], 
+        [
+            "formal", 
+            1, 
+            6.159903717681982, 
+            0.6376552126399918, 
+            [
+                "CulturedBadass", 
+                "LadyInRed", 
+                "YamatoNadeshiko", 
+                "KickingAssInAllHerFinery", 
+                "QuintessentialBritishGentleman", 
+                "PapaWolf", 
+                "Samurai", 
+                "OneeSama", 
+                "Hunk", 
+                "Chickification", 
+                "Ojou"
+            ]
+        ], 
+        [
+            "tomboyish", 
+            1, 
+            6.02884456222627, 
+            0.624088352268353, 
+            [
+                "Tomboy", 
+                "VainSorceress", 
+                "FarmersDaughter", 
+                "GamerChick", 
+                "ShortTank", 
+                "RebelliousPrincess", 
+                "TomboyWithAGirlyStreak", 
+                "OneOfTheBoys", 
+                "TomBoyAndGirlyGirl", 
+                "EffeminateMisogynisticGuy", 
+                "LadyOfWar", 
+                "FemininityFailure", 
+                "Chickification"
+            ]
+        ], 
+        [
+            "emotional", 
+            1, 
+            5.681999074705929, 
+            0.5881839220638446, 
+            [
+                "MadonnaWhoreComplex", 
+                "FragileFlower", 
+                "BespectacledBastardBoyfriend", 
+                "MataHari", 
+                "QuicklyDemotedWoman", 
+                "TeamMom", 
+                "NeverASelfMadeWoman", 
+                "ProperLady", 
+                "TheTease", 
+                "EmotionlessGirl", 
+                "Chickification", 
+                "CrusadingWidower", 
+                "BrokenBird", 
+                "SchoolgirlLesbians"
+            ]
+        ], 
+        [
+            "active", 
+            1, 
+            5.481391795168458, 
+            0.5674176433437069, 
+            [
+                "MadonnaWhoreComplex", 
+                "YaoiFangirl", 
+                "PoliticallyActivePrincess", 
+                "ALadyOnEachArm", 
+                "JeanneDArchetype", 
+                "IronLady", 
+                "MrsRobinson", 
+                "DirtyOldWoman", 
+                "NeverASelfMadeWoman", 
+                "ProperLady", 
+                "TheCasanova", 
+                "YamatoNadeshiko", 
+                "Chickification", 
+                "DistressedDude", 
+                "MartyStu"
+            ]
+        ], 
+        [
+            "tough", 
+            1, 
+            5.299923491041446, 
+            0.5486325753688016, 
+            [
+                "BeautyBrainsAndBrawn", 
+                "GlamorousSingleMother", 
+                "ThePatriarch", 
+                "ChildSoldiers", 
+                "TheSquadette", 
+                "DadTheVeteran", 
+                "IronLady", 
+                "MorallyBankruptBanker", 
+                "TownGirls", 
+                "ContraltoOfDanger", 
+                "MissKitty", 
+                "UselessBoyfriend", 
+                "ActionHeroBabysitter", 
+                "GirlyBruiser", 
+                "FauxActionGirl", 
+                "DirtyCoward", 
+                "Chickification", 
+                "PirateGirl", 
+                "SpicyLatina", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "physical", 
+            1, 
+            4.031147146406228, 
+            0.41729255985709646, 
+            [
+                "HugeSchoolgirl", 
+                "SpaceshipGirl", 
+                "AmazonianBeauty", 
+                "SexyStewardess", 
+                "Dominatrix", 
+                "PervertDad", 
+                "SchoolgirlLesbians", 
+                "TeamMom", 
+                "LesbianJock", 
+                "Chickification", 
+                "KnightErrant", 
+                "TinyTyrannicalGirl", 
+                "FiremenAreHot", 
+                "BoobsOfSteel", 
+                "JerkJock", 
+                "HandyMan", 
+                "CoolOldGuy", 
+                "SensitiveGuyAndManlyMan", 
+                "MarySue", 
+                "CockFight", 
+                "BrokenBird", 
+                "SpicyLatina", 
+                "TheDandy", 
+                "BlackMagicianGirl", 
+                "VainSorceress", 
+                "LadyInWaiting", 
+                "BarbaricBully", 
+                "LadyOfAdventure", 
+                "DragonLady", 
+                "MysticalWaif", 
+                "GagBoobs", 
+                "Bishonen", 
+                "LadyOfWar"
+            ]
+        ], 
+        [
+            "similar", 
+            1, 
+            3.641021982269363, 
+            0.376907944139837, 
+            [
+                "Socialite", 
+                "YamatoNadeshiko", 
+                "MamaBear", 
+                "GlamorousSingleMother", 
+                "DirtyOldWoman", 
+                "BastardBoyfriend", 
+                "DarkMistress", 
+                "LazyHusband", 
+                "TheWomanWearingTheQueenlyMask", 
+                "BoyBand", 
+                "WomanInBlack", 
+                "BattleaxeNurse", 
+                "Dominatrix", 
+                "GreaseMonkey", 
+                "Fundoshi", 
+                "GaussianGirl", 
+                "TheBear", 
+                "NaginatasAreFeminine", 
+                "ActionHeroBabysitter", 
+                "SchoolNurse", 
+                "StatuesqueStunner", 
+                "Chickification", 
+                "NeverASelfMadeWoman", 
+                "ManicPixieDreamGirl", 
+                "FeminineWomenCanCook", 
+                "LesbianCop", 
+                "BeardnessProtectionProgram", 
+                "ChivalrousPervert", 
+                "UselessBoyfriend", 
+                "HandyMan", 
+                "LittleMissBadass", 
+                "PrinceCharmingWannabe", 
+                "EffeminateMisogynisticGuy", 
+                "GrumpyOldMan", 
+                "NeutralFemale", 
+                "UnluckyEveryDude", 
+                "GirlsWithMoustaches", 
+                "GentlemanWizard", 
+                "MrFanservice", 
+                "Tomboy", 
+                "GirlInTheTower", 
+                "GymBunny", 
+                "PerkyFemaleMinion", 
+                "ButterFace", 
+                "ProperLady", 
+                "LittleGirlsKickShins", 
+                "BikerBabe", 
+                "Bishonen", 
+                "GodSaveUsFromTheQueen", 
+                "PecFlex", 
+                "MarySue"
+            ]
+        ], 
+        [
+            "strong", 
+            1, 
+            3.572363426545013, 
+            0.36980061130534914, 
+            [
+                "AmazonChaser", 
+                "ChildSoldiers", 
+                "DumbMuscle", 
+                "LadyInRed", 
+                "EmotionlessGirl", 
+                "PrettyBoy", 
+                "SchoolgirlLesbians", 
+                "PapaWolf", 
+                "FeminineWomenCanCook", 
+                "GaussianGirl", 
+                "GoGetterGirl", 
+                "TheCheerleader", 
+                "Beastess", 
+                "LittleDeadRidingHood", 
+                "TheSlacker", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "FauxActionGirl", 
+                "TheGambler", 
+                "CuteMonsterGirl", 
+                "HerosMuse", 
+                "BaldBlackLeaderGuy", 
+                "ProperLady", 
+                "JunglePrincess", 
+                "TheEvilPrince", 
+                "BoobsOfSteel", 
+                "JerkJock", 
+                "HotMenAtWork", 
+                "BespectacledBastardBoyfriend", 
+                "HandyMan", 
+                "MountainMan", 
+                "HardDrinkingPartyGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "SensitiveGuyAndManlyMan", 
+                "ScaryBlackMan", 
+                "StoutStrength", 
+                "PerkyGoth", 
+                "DamselInDistress", 
+                "VainSorceress", 
+                "ExtraordinarilyEmpoweredGirl", 
+                "ManlyGay", 
+                "MysticalWaif", 
+                "Chickification", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ShirtlessScene", 
+                "SissyVillain", 
+                "BrawnHilda", 
+                "GirlsWithGuns", 
+                "PluckyGirl", 
+                "AsianHookerStereotype", 
+                "PecFlex"
+            ]
+        ], 
+        [
+            "main", 
+            1, 
+            3.2368216748398284, 
+            0.33506631076441806, 
+            [
+                "SexyStewardess", 
+                "MysticalWaif", 
+                "MamaBear", 
+                "GossipyHens", 
+                "TokenLesbian", 
+                "SoapBoxSadie", 
+                "TheOneGuy", 
+                "LovelyAssistant", 
+                "TomBoyAndGirlyGirl", 
+                "TheCharmer", 
+                "CoolBigSis", 
+                "MatronChaperone", 
+                "Ojou", 
+                "GlamorousWartimeSinger", 
+                "HandsomeDevil", 
+                "MartyStu", 
+                "FatGirl", 
+                "ShelteredAristocrat", 
+                "Joshikousei", 
+                "GirlNextDoor", 
+                "HardDrinkingPartyGirl", 
+                "MaidenAunt", 
+                "TheGoodKing", 
+                "QuicklyDemotedWoman", 
+                "AsianAirhead", 
+                "BumblingDad", 
+                "UselessBoyfriend", 
+                "TheChanteuse", 
+                "GrannyClassic", 
+                "MountainMan", 
+                "InnocentFanserviceGirl", 
+                "TheFightingNarcissist", 
+                "OneeSama", 
+                "SensitiveGuyAndManlyMan", 
+                "DirtyCoward", 
+                "BromanticFoil", 
+                "ActionDad", 
+                "Fratbro", 
+                "YaoiGuys", 
+                "Samurai", 
+                "BlackBossLady", 
+                "CoolOldLady", 
+                "Meido", 
+                "Chickification", 
+                "TheMuse", 
+                "AmazonBrigade", 
+                "SexyManInstantHarem", 
+                "HookerWithAHeartOfGold", 
+                "DeterminedHomesteadersWife", 
+                "TheTease"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "DirtyCoward", 
+            "trope": "Chickification", 
+            "films": [
+                "MortalKombat", 
+                "LesMiserables", 
+                "JinRohTheWolfBrigade", 
+                "RevengeOfTheSith"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "DamselInDistress", 
+            "trope": "Chickification", 
+            "films": [
+                "Frozen", 
+                "Zombieland", 
+                "OnceUponAForest", 
+                "TheHost"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "SensitiveGuyAndManlyMan", 
+            "trope": "Chickification", 
+            "films": [
+                "Frozen", 
+                "Zombieland", 
+                "XMenFirstClass", 
+                "TheHost"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "MsFanservice", 
+            "trope": "Chickification", 
+            "films": [
+                "TheLittleMermaid", 
+                "XMenFirstClass", 
+                "MortalKombat"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TheIngenue", 
+            "trope": "Chickification", 
+            "films": [
+                "Frozen", 
+                "LesMiserables", 
+                "Female"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TheChick", 
+            "trope": "Chickification", 
+            "films": [
+                "SpyKids", 
+                "OnceUponAForest", 
+                "LegendsOfTheFall"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "SharpDressedMan", 
+            "trope": "Chickification", 
+            "films": [
+                "X-Men", 
+                "Frozen", 
+                "XMenFirstClass"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "CoolBigSis", 
+            "trope": "Chickification", 
+            "films": [
+                "Frozen", 
+                "OnceUponAForest", 
+                "TheHost"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "OverprotectiveDad", 
+            "trope": "Chickification", 
+            "films": [
+                "Frozen", 
+                "TheLittleMermaid", 
+                "LesMiserables"
+            ]
+        }
+    ], 
+    "id": "Chickification", 
+    "name": "Chickification"
+}

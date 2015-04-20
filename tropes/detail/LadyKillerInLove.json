@@ -1,0 +1,306 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            2, 
+            0.02197802197802198, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            3, 
+            0.02702702702702703, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            6, 
+            0.03409090909090909, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            1, 
+            0.0044444444444444444, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            8, 
+            0.00903954802259887, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            6, 
+            0.01054481546572935, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            7, 
+            0.010835913312693499, 
+            646
+        ]
+    ], 
+    "description": "The Casanova has scored dozens of women, never showing any real affection for any of them. However, maybe one of the girls is immune to his charms. Maybe he initially hates the girl, but then comes to appreciate her. Or maybe he just starts to see a female friend in a new way.\nBasically, the perverted character genuinely falls in love.\nIt can be played for quite a lot of angst \u2014 how will the Handsome Lech convince his Love Interest that he's being genuine? Usually this trope either humanizes or defangs the character. A staple for Romantic Comedy. Nine of ten male protagonists in hispanic Telenovelas follow this trope.\nMost of the time, the character gives up their perverted ways for love; however, it's becoming more common for them to maintain their flirtatiousness, if toned down for the sake of his girlfriend.\nCompare Looking For Love In All The Wrong Places. Cant Act Perverted Toward A Love Interest can result from this.", 
+    "gender": "m", 
+    "adjs": [
+        "real", 
+        "immune", 
+        "new", 
+        "hispanic"
+    ], 
+    "adjectives": [
+        [
+            "hispanic", 
+            1, 
+            12.724547389584849, 
+            1.0, 
+            [
+                "LadyKillerInLove"
+            ]
+        ], 
+        [
+            "immune", 
+            1, 
+            8.802911474956097, 
+            0.6918054690229183, 
+            [
+                "EvilDiva", 
+                "TheBaroness", 
+                "BastardBoyfriend", 
+                "DarkActionGirl", 
+                "TheFashionista", 
+                "SexyManInstantHarem", 
+                "TheTease", 
+                "AlphaBitch", 
+                "TheIngenue", 
+                "LadyKillerInLove"
+            ]
+        ], 
+        [
+            "new", 
+            1, 
+            6.227817150489085, 
+            0.48943329454583245, 
+            [
+                "EvilDiva", 
+                "YamatoNadeshiko", 
+                "AffirmativeActionGirl", 
+                "TheOldConvict", 
+                "TerritorialSmurfette", 
+                "KickingAssInAllHerFinery", 
+                "WhiteDwarfStarlet", 
+                "FemaleMisogynist", 
+                "LawmanGoneBad", 
+                "GIRL", 
+                "CreepyHouseKeeper", 
+                "GirlInABox", 
+                "GaussianGirl", 
+                "TheChiefsDaughter", 
+                "ActionHeroBabysitter", 
+                "HuskyRusskie", 
+                "WrenchWench", 
+                "ActionGirl", 
+                "ManicPixieDreamGirl", 
+                "UselessBoyfriend", 
+                "SweetPollyOliver", 
+                "BirthTropes", 
+                "MartyStu", 
+                "TheSquadette", 
+                "BlackBossLady", 
+                "CoolOldLady", 
+                "BattleaxeNurse", 
+                "GirlPosse", 
+                "DarkMagicalGirl", 
+                "LadyKillerInLove", 
+                "YokoOhNo"
+            ]
+        ], 
+        [
+            "real", 
+            1, 
+            4.837424815692921, 
+            0.38016478445845503, 
+            [
+                "TheLadysFavour", 
+                "ChildSoldiers", 
+                "InnocentFlowerGirl", 
+                "GranolaGirl", 
+                "WickedStepmother", 
+                "OldSchoolChivalry", 
+                "HumanoidFemaleAnimal", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "HouseHusband", 
+                "MarySue", 
+                "PrettyBoy", 
+                "MasculinityTropes", 
+                "ActionMom", 
+                "TheMuse", 
+                "WorldsMostBeautifulWoman", 
+                "GoGetterGirl", 
+                "LittleSisterHeroine", 
+                "CampStraight", 
+                "WeirdBeard", 
+                "ActionGirlFriend", 
+                "SchoolgirlLesbians", 
+                "GrandeDame", 
+                "BattleaxeNurse", 
+                "ManInAKilt", 
+                "ShelteredAristocrat", 
+                "FauxActionGirl", 
+                "LittleMissConArtist", 
+                "GreenSkinnedSpaceBabe", 
+                "MommasBoy", 
+                "BasementDweller", 
+                "FeminineWomenCanCook", 
+                "OfficeLady", 
+                "BastardGirlfriend", 
+                "BlackWidow", 
+                "ValleyGirl", 
+                "CosplayOtakuGirl", 
+                "BridgeBunnies", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold", 
+                "MilesGloriosus", 
+                "Fangirl", 
+                "GodSaveUsFromTheQueen", 
+                "FilleFatale", 
+                "HenpeckedHusband", 
+                "TheButcher", 
+                "Fratbro", 
+                "Tomboy", 
+                "SenseiChan", 
+                "ButchLesbian", 
+                "MsFanservice", 
+                "TheSquadette", 
+                "DadTheVeteran", 
+                "MisterSeahorse", 
+                "EverythingsBetterWithPrincesses", 
+                "NaughtyNuns", 
+                "SpoiledSweet", 
+                "SexyManInstantHarem", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "LipstickLesbian", 
+                "LadyMacBeth", 
+                "DumbassTeenageSon", 
+                "LonelyDollGirl", 
+                "DarkMagicalGirl", 
+                "LadyKillerInLove", 
+                "BiggerIsBetterInBed"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 6, 
+            "related_trope": "TheCharmer", 
+            "trope": "LadyKillerInLove", 
+            "films": [
+                "SexAndTheCity", 
+                "TheATeam", 
+                "MansfieldPark", 
+                "SinginInTheRain", 
+                "TheVirginSuicides", 
+                "DonJuanDemarco"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "MrFanservice", 
+            "trope": "LadyKillerInLove", 
+            "films": [
+                "MagicMike", 
+                "SexAndTheCity", 
+                "DonJuanDemarco"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "OldMaid", 
+            "trope": "LadyKillerInLove", 
+            "films": [
+                "SexAndTheCity", 
+                "TheMusicMan"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "ShirtlessScene", 
+            "trope": "LadyKillerInLove", 
+            "films": [
+                "MagicMike", 
+                "SexAndTheCity"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheVamp", 
+            "trope": "LadyKillerInLove", 
+            "films": [
+                "MansfieldPark", 
+                "CruelIntentions"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SassyBlackWoman", 
+            "trope": "LadyKillerInLove", 
+            "films": [
+                "WhatWomenWant", 
+                "BadBoys"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SpiritedYoungLady", 
+            "trope": "LadyKillerInLove", 
+            "films": [
+                "Gigi", 
+                "MansfieldPark"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MyBelovedSmother", 
+            "trope": "LadyKillerInLove", 
+            "films": [
+                "SexAndTheCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ShiksaGoddess", 
+            "trope": "LadyKillerInLove", 
+            "films": [
+                "SexAndTheCity"
+            ]
+        }
+    ], 
+    "id": "LadyKillerInLove", 
+    "name": "Lady Killer In Love"
+}

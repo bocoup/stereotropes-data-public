@@ -1,0 +1,442 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            1, 
+            0.0011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            3, 
+            0.005272407732864675, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            5, 
+            0.007739938080495356, 
+            646
+        ]
+    ], 
+    "description": "Aww, look at sweet little Sally. So adorable, so innocent...\n...wait, where's my wallet?\nThis is when a little girl takes advantage of the perception that Children Are Innocent to play a bunch of adults for suckers. Sometimes this character will work in partnership with an adult, usually her father, but as often as not she's the real brains of the outfit.\nWhen she grows up, she'll probably become the Decoy Damsel, who uses her beauty to fool people in the same way Little Miss Con Artist uses her cuteness. Compare Deliberately Cute Child and Daddy's Little Villain.", 
+    "gender": "f", 
+    "adjs": [
+        "sweet", 
+        "little", 
+        "adorable", 
+        "innocent", 
+        "real"
+    ], 
+    "adjectives": [
+        [
+            "adorable", 
+            1, 
+            8.951914327370396, 
+            1.0, 
+            [
+                "SexistUsedCarSalesman", 
+                "GlamorousSingleMother", 
+                "GoodGirlGoneBad", 
+                "HotWitch", 
+                "LittleMissConArtist", 
+                "LittleGirlsKickShins"
+            ]
+        ], 
+        [
+            "innocent", 
+            1, 
+            8.951914327370396, 
+            1.0, 
+            [
+                "CatholicSchoolGirlsRule", 
+                "PrincessClassic", 
+                "LittleMissBadass", 
+                "LittleMissConArtist", 
+                "CrusadingWidower", 
+                "ShamelessFanserviceGirl"
+            ]
+        ], 
+        [
+            "sweet", 
+            1, 
+            6.487393242833846, 
+            0.724693401387757, 
+            [
+                "PassionateSportsGirl", 
+                "OverprotectiveDad", 
+                "MamaBear", 
+                "FemmeFatale", 
+                "InnocentFlowerGirl", 
+                "BespectacledBastardBoyfriend", 
+                "DaddysGirl", 
+                "RightThroughHisPants", 
+                "GracefulLadiesLikePurple", 
+                "TheCutie", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "HookerWithAHeartOfGold", 
+                "GoodGirlGoneBad", 
+                "NerdNanny", 
+                "LittleMissConArtist", 
+                "LightFeminineAndDarkFeminine", 
+                "MaidenAunt", 
+                "Meganekko", 
+                "Dominatrix"
+            ]
+        ], 
+        [
+            "little", 
+            1, 
+            5.3350120871213065, 
+            0.5959632646181114, 
+            [
+                "OverprotectiveDad", 
+                "LittleOldLadyInvestigates", 
+                "GlamorousSingleMother", 
+                "LittleRedFightingHood", 
+                "BastardBoyfriend", 
+                "DirtyOldMan", 
+                "FarmersDaughter", 
+                "TheCharmer", 
+                "MagicalSeventhSon", 
+                "UnluckyEveryDude", 
+                "LittleSisterHeroine", 
+                "SexistUsedCarSalesman", 
+                "TheSlacker", 
+                "MaidenAunt", 
+                "WomanScorned", 
+                "TheCutie", 
+                "BasementDweller", 
+                "PrincessPhase", 
+                "ClassyCatBurglar", 
+                "BespectacledBastardBoyfriend", 
+                "QuintessentialBritishGentleman", 
+                "NonActionGuy", 
+                "BaitAndSwitchLesbians", 
+                "BeautifulAllAlong", 
+                "LittleMissConArtist", 
+                "Tomboy", 
+                "DirtyHarriet", 
+                "FragileFlower", 
+                "BrattyTeenageDaughter", 
+                "FavorsForTheSexy", 
+                "MysticalWaif", 
+                "DarkActionGirl", 
+                "SpoiledSweet", 
+                "SwingLowSweetHarriet", 
+                "Bishonen", 
+                "LittleGirlsKickShins"
+            ]
+        ], 
+        [
+            "real", 
+            1, 
+            4.060583056998233, 
+            0.4535994099701153, 
+            [
+                "TheLadysFavour", 
+                "ChildSoldiers", 
+                "InnocentFlowerGirl", 
+                "GranolaGirl", 
+                "WickedStepmother", 
+                "OldSchoolChivalry", 
+                "HumanoidFemaleAnimal", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "HouseHusband", 
+                "MarySue", 
+                "PrettyBoy", 
+                "MasculinityTropes", 
+                "ActionMom", 
+                "TheMuse", 
+                "WorldsMostBeautifulWoman", 
+                "GoGetterGirl", 
+                "LittleSisterHeroine", 
+                "CampStraight", 
+                "WeirdBeard", 
+                "ActionGirlFriend", 
+                "SchoolgirlLesbians", 
+                "GrandeDame", 
+                "BattleaxeNurse", 
+                "ManInAKilt", 
+                "ShelteredAristocrat", 
+                "FauxActionGirl", 
+                "LittleMissConArtist", 
+                "GreenSkinnedSpaceBabe", 
+                "MommasBoy", 
+                "BasementDweller", 
+                "FeminineWomenCanCook", 
+                "OfficeLady", 
+                "BastardGirlfriend", 
+                "BlackWidow", 
+                "ValleyGirl", 
+                "CosplayOtakuGirl", 
+                "BridgeBunnies", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold", 
+                "MilesGloriosus", 
+                "Fangirl", 
+                "GodSaveUsFromTheQueen", 
+                "FilleFatale", 
+                "HenpeckedHusband", 
+                "TheButcher", 
+                "Fratbro", 
+                "Tomboy", 
+                "SenseiChan", 
+                "ButchLesbian", 
+                "MsFanservice", 
+                "TheSquadette", 
+                "DadTheVeteran", 
+                "MisterSeahorse", 
+                "EverythingsBetterWithPrincesses", 
+                "NaughtyNuns", 
+                "SpoiledSweet", 
+                "SexyManInstantHarem", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "LipstickLesbian", 
+                "LadyMacBeth", 
+                "DumbassTeenageSon", 
+                "LonelyDollGirl", 
+                "DarkMagicalGirl", 
+                "LadyKillerInLove", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "same", 
+            1, 
+            3.257853683042901, 
+            0.3639281570291667, 
+            [
+                "OverprotectiveDad", 
+                "ChildSoldiers", 
+                "BeardOfBarbarism", 
+                "Hobos", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "TheBear", 
+                "SpiritedYoungLady", 
+                "TheChiefsDaughter", 
+                "HandsomeDevil", 
+                "TeamMom", 
+                "AlphaBitch", 
+                "TheCasanova", 
+                "BigBeautifulMan", 
+                "HeroicSeductress", 
+                "PoliticallyActivePrincess", 
+                "ArabOilSheikh", 
+                "UselessBoyfriend", 
+                "EverythingsBetterWithPrincesses", 
+                "DirtyCoward", 
+                "TheIngenue", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "GayBravado", 
+                "TheUglyGuysHotDaughter", 
+                "HouseWife", 
+                "WomenDrivers", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "Jailbait", 
+                "MamaBear", 
+                "GossipyHens", 
+                "HugeSchoolgirl", 
+                "AmazonianBeauty", 
+                "TomBoyAndGirlyGirl", 
+                "HouseHusband", 
+                "SchoolgirlLesbians", 
+                "UnluckyEveryDude", 
+                "TheCheerleader", 
+                "AsianAirhead", 
+                "LipstickLesbian", 
+                "MountainMan", 
+                "CoolOldGuy", 
+                "PassionateSportsGirl", 
+                "DisposableSexWorker", 
+                "FilleFatale", 
+                "HelloNurse", 
+                "ThePatriarch", 
+                "ManlyGay", 
+                "SexySecretary", 
+                "MysticalWaif", 
+                "EffeminateMisogynisticGuy", 
+                "ScaryBlackMan", 
+                "PluckyOfficeGirl", 
+                "ALadyOnEachArm", 
+                "CoolBigSis", 
+                "TheBaroness", 
+                "GagPenis", 
+                "BashBrothers", 
+                "Joshikousei", 
+                "TheFlapper", 
+                "SeashellBra", 
+                "BaldBlackLeaderGuy", 
+                "QuicklyDemotedWoman", 
+                "JunglePrincess", 
+                "PrinceCharmless", 
+                "GirlNextDoor", 
+                "MataHari", 
+                "NonActionGuy", 
+                "TheOphelia", 
+                "LovelyAssistant", 
+                "DistressedDude", 
+                "AccidentalPornomancer", 
+                "TheDandy", 
+                "VainSorceress", 
+                "CasanovaWannabe", 
+                "MsFanservice", 
+                "TheMuse", 
+                "HotGypsyWoman", 
+                "AnimeChineseGirl", 
+                "HighHeelFaceTurn", 
+                "DoggedNiceGuy", 
+                "GoGetterGirl", 
+                "NeverASelfMadeWoman", 
+                "TheHecateSisters", 
+                "FauxActionGirl", 
+                "MonogenderMonsters", 
+                "JeanneDArchetype", 
+                "FeminineWomenCanCook", 
+                "MartyStu", 
+                "GamerChick", 
+                "Fratbro", 
+                "DefectingForLove", 
+                "DaddysLittleVillain", 
+                "LittleMissConArtist", 
+                "CockFight", 
+                "HotScientist", 
+                "LesbianJock", 
+                "ChickMagnet", 
+                "AsianBabymama", 
+                "LeatherMan", 
+                "DragonLady", 
+                "MisterSeahorse", 
+                "TheOneGuy", 
+                "JewishMother"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "PluckyGirl", 
+            "trope": "LittleMissConArtist", 
+            "films": [
+                "KickAss"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCasanova", 
+            "trope": "LittleMissConArtist", 
+            "films": [
+                "OzTheGreatAndPowerful"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PapaWolf", 
+            "trope": "LittleMissConArtist", 
+            "films": [
+                "KickAss"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomanScorned", 
+            "trope": "LittleMissConArtist", 
+            "films": [
+                "OzTheGreatAndPowerful"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SmallGirlBigGun", 
+            "trope": "LittleMissConArtist", 
+            "films": [
+                "KickAss"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NubileSavage", 
+            "trope": "LittleMissConArtist", 
+            "films": [
+                "TheRoadToElDorado"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "OverlordJr", 
+            "trope": "LittleMissConArtist", 
+            "films": [
+                "KickAss"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Tomboy", 
+            "trope": "LittleMissConArtist", 
+            "films": [
+                "KickAss"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "LittleMissConArtist", 
+            "films": [
+                "KickAss"
+            ]
+        }
+    ], 
+    "id": "LittleMissConArtist", 
+    "name": "Little Miss Con Artist"
+}

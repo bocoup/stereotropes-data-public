@@ -1,0 +1,380 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            2, 
+            0.011363636363636364, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            1, 
+            0.0033112582781456954, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            5, 
+            0.005649717514124294, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            11, 
+            0.019332161687170474, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "Charming or not, he's the spear counterpart to the Rebellious Princess; born to privilege as the Heir apparent of a kingdom, company, or some other sort of organization who does not want to assume whatever his princely responsibilities are. Always Male because kings and C.E.O.s tend to think only a son deserves the inheritance and when it is the daughter she always seems to want it passed on to her. The problem with a Rebellious Princess on the other hand is that she has the royal position but none of the inheritance that her brothers have. The Prince does not necessarily dislike government, in fact any aristocrat who opposes a hereditary government despite his position would qualify.\nIt might be justified by circumstances in the story, or he might straight up just not be born for his stuffy charmed life. Of course, just because he doesn't want his responsibilities doesn't mean that he won't take advantage of the privileges his lifestyle has to offer like an ungrateful teenager or Sheltered Aristocrat. Often, after he learns to accept his life he will end up becoming The Wise Prince.\nContrast Reluctant Ruler who's immediately ready to be the Wise Prince. Also contrast the Evil Prince who's rebelling against his father about who gets to be king, not because he doesn't want to be king. Being a Prince Charming who wants to marry for love instead of station isn't enough to qualify. Also, he can put himself in danger like a Warrior Prince or Knight in Shining Armor but still say he wants to be a good king. If he says that he doesn't want to be king, that's what makes him count. In each example please state when he refused or wanted to refuse his inheritance.\n\nExamples", 
+    "gender": "m", 
+    "adjs": [
+        "c.e.o.s", 
+        "rebellious", 
+        "royal", 
+        "hereditary", 
+        "ungrateful"
+    ], 
+    "adjectives": [
+        [
+            "c.e.o.s", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "RebelPrince"
+            ]
+        ], 
+        [
+            "ungrateful", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "RebelPrince"
+            ]
+        ], 
+        [
+            "hereditary", 
+            1, 
+            10.561624447360181, 
+            0.9099663232317904, 
+            [
+                "RebelPrince", 
+                "TheChiefsDaughter"
+            ]
+        ], 
+        [
+            "ready", 
+            1, 
+            8.978506428534168, 
+            0.7735683581258478, 
+            [
+                "RebelPrince", 
+                "TomboyWithAGirlyStreak", 
+                "LadyInRed", 
+                "FragileFlower", 
+                "KindlyHousekeeper"
+            ]
+        ], 
+        [
+            "rebellious", 
+            1, 
+            8.359939340027342, 
+            0.7202739788373059, 
+            [
+                "RebelPrince", 
+                "HighSchoolHustler", 
+                "RebelliousPrincess", 
+                "BattleaxeNurse", 
+                "TomboyPrincess"
+            ]
+        ], 
+        [
+            "royal", 
+            1, 
+            6.679237259782298, 
+            0.5754683857175028, 
+            [
+                "RebelPrince", 
+                "TheEvilPrince", 
+                "MysteriousWaif", 
+                "IceQueen", 
+                "PrinceCharming", 
+                "RebelliousPrincess", 
+                "EverythingsBetterWithPrincesses", 
+                "PrincelyTropes", 
+                "PrincessClassic", 
+                "IronLady", 
+                "WinterRoyalLady", 
+                "TheWomanWearingTheQueenlyMask", 
+                "DamselInDistress", 
+                "TheHighQueen", 
+                "GirlInTheTower"
+            ]
+        ], 
+        [
+            "good", 
+            1, 
+            2.229681757628545, 
+            0.19210447418184465, 
+            [
+                "OutdoorsyGal", 
+                "ChildSoldiers", 
+                "BeardOfBarbarism", 
+                "AdrenalineMakeover", 
+                "KickingAssInAllHerFinery", 
+                "LovelyAssistant", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "EducationMama", 
+                "DisguisedInDrag", 
+                "KnightInShiningArmor", 
+                "SpiritedYoungLady", 
+                "ManInAKilt", 
+                "AgentPeacock", 
+                "MagicalGirlfriend", 
+                "HuskyRusskie", 
+                "TheGoodKing", 
+                "TheLoinsSleepTonight", 
+                "TheEvilPrince", 
+                "TomboyWithAGirlyStreak", 
+                "HeroicSeductress", 
+                "ManInWhite", 
+                "BathingBeauty", 
+                "HandyMan", 
+                "EverythingsBetterWithPrincesses", 
+                "MilesGloriosus", 
+                "DirtyCoward", 
+                "NeutralFemale", 
+                "StoutStrength", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "DirtyHarriet", 
+                "NubileSavage", 
+                "KavorkaMan", 
+                "BlackBossLady", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ProperLady", 
+                "DarkMagicalGirl", 
+                "WizardBeard", 
+                "MadScientistsBeautifulDaughter", 
+                "DumbMuscle", 
+                "DirtyOldMan", 
+                "HouseHusband", 
+                "TheCheerleader", 
+                "GodSaveUsFromTheQueen", 
+                "BeardOfEvil", 
+                "AsianAirhead", 
+                "LadyInRed", 
+                "HighClassCallGirl", 
+                "GentlemanWizard", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "MagicIdolSinger", 
+                "OfficerAndAGentleman", 
+                "BeautifulAllAlong", 
+                "BrokenBird", 
+                "SassyBlackWoman", 
+                "TheWisePrince", 
+                "GymBunny", 
+                "PerkyFemaleMinion", 
+                "CoolOldLady", 
+                "UncannyValleyGirl", 
+                "StageMom", 
+                "GoodBadGirl", 
+                "WinterRoyalLady", 
+                "LawmanGoneBad", 
+                "LadyMacBeth", 
+                "TheVamp", 
+                "MadonnaWhoreComplex", 
+                "TheBaroness", 
+                "GamblerGroupies", 
+                "HotScientist", 
+                "PrincessClassic", 
+                "HardDrinkingPartyGirl", 
+                "SeashellBra", 
+                "BaldBlackLeaderGuy", 
+                "TakingTheVeil", 
+                "GentlemanThief", 
+                "ClassyCatBurglar", 
+                "GirlNextDoor", 
+                "DecoyDamsel", 
+                "QuintessentialBritishGentleman", 
+                "HookerWithAHeartOfGold", 
+                "TheOphelia", 
+                "Hobos", 
+                "CrusadingWidower", 
+                "TheButcher", 
+                "AccidentalPornomancer", 
+                "TheDandy", 
+                "VainSorceress", 
+                "BigManOnCampus", 
+                "MachoMasochism", 
+                "GoodGirlGoneBad", 
+                "HotScoop", 
+                "TheMuse", 
+                "SwingLowSweetHarriet", 
+                "BattleaxeNurse", 
+                "HighSchoolHustler", 
+                "LightFeminineAndDarkFeminine", 
+                "MaidenAunt", 
+                "YamatoNadeshiko", 
+                "TheLadysFavour", 
+                "FemmeFatale", 
+                "HighHeelFaceTurn", 
+                "CampGay", 
+                "BlondeRepublicanSexKitten", 
+                "MonogenderMonsters", 
+                "ShelteredAristocrat", 
+                "TheGambler", 
+                "StatuesqueStunner", 
+                "NobleMaleRoguishMale", 
+                "PregnantHostage", 
+                "SoapBoxSadie", 
+                "Streetwalker", 
+                "ChivalrousPervert", 
+                "GrannyClassic", 
+                "MorallyBankruptBanker", 
+                "ValleyGirl", 
+                "MataHari", 
+                "WorldsMostBeautifulWoman", 
+                "GrumpyOldMan", 
+                "DefectingForLove", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "WickedWitch", 
+                "RebelPrince", 
+                "GrandeDame", 
+                "MysteriousWaif", 
+                "StumblingUponTheLostWizard", 
+                "DarkActionGirl", 
+                "BastardBastard", 
+                "ButterFace", 
+                "AbsentMindedProfessor", 
+                "JewishMother", 
+                "DamselInDistress"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "TomboyPrincess", 
+            "trope": "RebelPrince", 
+            "films": [
+                "TheLionKing", 
+                "TheLittleMermaid"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WickedStepmother", 
+            "trope": "RebelPrince", 
+            "films": [
+                "Cinderella", 
+                "EverAfter"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "RichBitch", 
+            "trope": "RebelPrince", 
+            "films": [
+                "WhatAGirlWants", 
+                "EverAfter"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "ShelteredAristocrat", 
+            "trope": "RebelPrince", 
+            "films": [
+                "TheLionKing", 
+                "EverAfter"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "RebelliousPrincess", 
+            "trope": "RebelPrince", 
+            "films": [
+                "TheLittleMermaid", 
+                "EverAfter"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SweetPollyOliver", 
+            "trope": "RebelPrince", 
+            "films": [
+                "TheLordOfTheRings", 
+                "PrincessOfThieves"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "RebelPrince", 
+            "films": [
+                "Cinderella", 
+                "EverAfter"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheUglyGuysHotDaughter", 
+            "trope": "RebelPrince", 
+            "films": [
+                "Cinderella"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "RebelPrince", 
+            "films": [
+                "TheLionKing"
+            ]
+        }
+    ], 
+    "id": "RebelPrince", 
+    "name": "Rebel Prince"
+}

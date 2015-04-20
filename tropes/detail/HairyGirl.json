@@ -1,0 +1,220 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            4, 
+            0.006191950464396285, 
+            646
+        ]
+    ], 
+    "description": "In Western culture, the majority of women tend to shave their body hair (e.g. leg, armpit, and pubic hair) for cosmetic reasons. Various media reflect this in fiction, as almost all female characters have smooth, hairless skin in the aforementioned regions. Typically, women who choose not to shave are criticized for it, since it's considered a social taboo. Thus, the depiction of a Hairy Girl is generally for one of two reasons:", 
+    "gender": "f", 
+    "adjs": [
+        "pubic", 
+        "cosmetic", 
+        "social", 
+        "reasons:"
+    ], 
+    "adjectives": [
+        [
+            "reasons:", 
+            1, 
+            12.724547389584849, 
+            1.0, 
+            [
+                "HairyGirl"
+            ]
+        ], 
+        [
+            "cosmetic", 
+            1, 
+            11.678914380368496, 
+            0.917825524381935, 
+            [
+                "HairyGirl", 
+                "LesbianVampire"
+            ]
+        ], 
+        [
+            "pubic", 
+            1, 
+            11.678914380368496, 
+            0.917825524381935, 
+            [
+                "RightThroughHisPants", 
+                "HairyGirl"
+            ]
+        ], 
+        [
+            "social", 
+            1, 
+            6.177392756706453, 
+            0.4854705293300021, 
+            [
+                "Socialite", 
+                "RichBitch", 
+                "PrincelyYoungMan", 
+                "MysticalWaif", 
+                "LawmanGoneBad", 
+                "EmotionlessGirl", 
+                "Bridezilla", 
+                "EducationMama", 
+                "MadonnaWhoreComplex", 
+                "GoGetterGirl", 
+                "CampStraight", 
+                "GirlOfTheWeek", 
+                "AlphaBitch", 
+                "LadyInWaiting", 
+                "BasementDweller", 
+                "GentlemanThief", 
+                "NoWomansLand", 
+                "MissKitty", 
+                "GirlNextDoor", 
+                "Kawaiiko", 
+                "Samurai", 
+                "OfficerAndAGentleman", 
+                "GirlishPigtails", 
+                "GrandeDame", 
+                "AsianBabymama", 
+                "HairyGirl", 
+                "BarbaricBully", 
+                "RebelliousPrincess", 
+                "TheOneGuy", 
+                "SissyVillain", 
+                "ConceiveAndKill", 
+                "TheChick"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/HairyGirl.png", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "NubileSavage", 
+            "trope": "HairyGirl", 
+            "films": [
+                "TheHungerGames"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PrettyBoy", 
+            "trope": "HairyGirl", 
+            "films": [
+                "ThePerksOfBeingAWallflower"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NeverMessWithGranny", 
+            "trope": "HairyGirl", 
+            "films": [
+                "MrsDoubtfire"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "HairyGirl", 
+            "films": [
+                "TheHungerGames"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Keet", 
+            "trope": "HairyGirl", 
+            "films": [
+                "ThePerksOfBeingAWallflower"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MagicalNanny", 
+            "trope": "HairyGirl", 
+            "films": [
+                "MrsDoubtfire"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PerkyGoth", 
+            "trope": "HairyGirl", 
+            "films": [
+                "ThePerksOfBeingAWallflower"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MamaBear", 
+            "trope": "HairyGirl", 
+            "films": [
+                "WithoutAPaddle"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StraightGay", 
+            "trope": "HairyGirl", 
+            "films": [
+                "ThePerksOfBeingAWallflower"
+            ]
+        }
+    ], 
+    "id": "HairyGirl", 
+    "name": "Hairy Girl"
+}

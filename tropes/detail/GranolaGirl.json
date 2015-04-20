@@ -1,0 +1,547 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            3, 
+            0.013333333333333334, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            4, 
+            0.0068143100511073255, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            14, 
+            0.015819209039548022, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            8, 
+            0.014059753954305799, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            15, 
+            0.02321981424148607, 
+            646
+        ]
+    ], 
+    "description": "An overtly comical socialist-liberal-feminist-environmentalist character, usually with a penchant for tie-dyes, crystals, veganism, free love, oneness with nature and anything that is 'all-natural'. This character will commonly not be very well grounded, tending to be overly-cheerful and flighty but not scatter-brained enough to qualify as The Ditz. They're often associated with being book smart, and will have a tendency to make her opinions known whenever possible. She will love any kind of alternative medicine and will refer to actual real doctors as \"allopaths\" and \"greedy\". Of course, she will never actually have a health problem worth seeing a doctor about it, because any problem she has will be all in her head.\nMale versions of this character (granola guys) are exceedingly rare, and are mainly depicted as aging 50- or 60-year-old hippies, either Tommy Chong-esque Erudite Stoners or balding guys with ponytails who haven't yet accepted the end of the 1960s. Very occasionally you will see young men who fall under this trope, and who are if anything treated as being even more ridiculous than the female version. Expect them to play the guitar very badly. However, such characters (regardless of gender) are almost always portrayed as sincere and well-meaning.\nCompare Bourgeois Bohemian, Soapbox Sadie.", 
+    "gender": "f", 
+    "adjs": [
+        "comical", 
+        "socialist-liberal-feminist-environmentalist", 
+        "penchant", 
+        "free", 
+        "overly-cheerful"
+    ], 
+    "adjectives": [
+        [
+            "60-year-old", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "GranolaGirl"
+            ]
+        ], 
+        [
+            "overly-cheerful", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "GranolaGirl"
+            ]
+        ], 
+        [
+            "scatter-brained", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "GranolaGirl"
+            ]
+        ], 
+        [
+            "socialist-liberal-feminist-environmentalist", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "GranolaGirl"
+            ]
+        ], 
+        [
+            "alternative", 
+            1, 
+            9.042518987830341, 
+            0.896561205615891, 
+            [
+                "GranolaGirl", 
+                "JerkJock"
+            ]
+        ], 
+        [
+            "greedy", 
+            1, 
+            9.042518987830341, 
+            0.896561205615891, 
+            [
+                "GranolaGirl", 
+                "HouseWife"
+            ]
+        ], 
+        [
+            "penchant", 
+            1, 
+            9.042518987830341, 
+            0.896561205615891, 
+            [
+                "GranolaGirl", 
+                "MsFanservice"
+            ]
+        ], 
+        [
+            "sincere", 
+            1, 
+            9.042518987830341, 
+            0.896561205615891, 
+            [
+                "GranolaGirl", 
+                "SmittenTeenageGirl"
+            ]
+        ], 
+        [
+            "comical", 
+            1, 
+            8.366158214770323, 
+            0.8295003754487558, 
+            [
+                "GranolaGirl", 
+                "TheTease", 
+                "SenseiChan"
+            ]
+        ], 
+        [
+            "ridiculous", 
+            1, 
+            8.366158214770323, 
+            0.8295003754487558, 
+            [
+                "LittleMissBadass", 
+                "GranolaGirl", 
+                "DarkActionGirl"
+            ]
+        ], 
+        [
+            "free", 
+            1, 
+            5.300484649062878, 
+            0.5255403846768787, 
+            [
+                "SoapBoxSadie", 
+                "TheAllAmericanBoy", 
+                "ChivalrousPervert", 
+                "GalleySlave", 
+                "MrFixit", 
+                "ShiksaGoddess", 
+                "FavorsForTheSexy", 
+                "KickChick", 
+                "GirlyGirl", 
+                "GranolaGirl", 
+                "WomanInBlack", 
+                "DamselInDistress", 
+                "AccidentalPornomancer", 
+                "MagicalNanny", 
+                "MyBelovedSmother"
+            ]
+        ], 
+        [
+            "rare", 
+            1, 
+            4.458788868688347, 
+            0.44208667176458055, 
+            [
+                "LovableAlphaBitch", 
+                "ShiksaGoddess", 
+                "BeardOfBarbarism", 
+                "GranolaGirl", 
+                "BastardBoyfriend", 
+                "HarpOfFemininity", 
+                "PervertDad", 
+                "CampStraight", 
+                "AlphaBitch", 
+                "TheSlacker", 
+                "TheFightingNarcissist", 
+                "Hunk", 
+                "JadedWashout", 
+                "CuteSportsClubManager", 
+                "HotScientist", 
+                "SenseiChan", 
+                "GrandeDame", 
+                "YaoiFangirl", 
+                "BarbaricBully", 
+                "LovelyAngels", 
+                "TheCheerleader", 
+                "WomanInBlack", 
+                "GenderInvertedTrope"
+            ]
+        ], 
+        [
+            "actual", 
+            1, 
+            3.1017765996213598, 
+            0.307539588410081, 
+            [
+                "MrsRobinson", 
+                "AmazonChaser", 
+                "ChildSoldiers", 
+                "GranolaGirl", 
+                "FrenchMaid", 
+                "HugeSchoolgirl", 
+                "HumanoidFemaleAnimal", 
+                "WinterRoyalLady", 
+                "DrillSergeantNasty", 
+                "HouseHusband", 
+                "GIRL", 
+                "HeManWomanHater", 
+                "TheVamp", 
+                "Ojou", 
+                "TheBear", 
+                "GirlOfTheWeek", 
+                "BaitAndSwitchLesbians", 
+                "Dominatrix", 
+                "SouthernGentleman", 
+                "FauxActionGirl", 
+                "TheGambler", 
+                "TheGoodKing", 
+                "BattleButler", 
+                "GentlemanThief", 
+                "Streetwalker", 
+                "EmotionlessGirl", 
+                "ClassyCatBurglar", 
+                "UselessBoyfriend", 
+                "GrannyClassic", 
+                "StageMom", 
+                "NaughtyNurseOutfit", 
+                "NonActionGuy", 
+                "Samurai", 
+                "SensitiveGuyAndManlyMan", 
+                "MilesGloriosus", 
+                "OfficerAndAGentleman", 
+                "FilleFatale", 
+                "PerkyGoth", 
+                "YaoiGuys", 
+                "IdolSinger", 
+                "RebelliousPrincess", 
+                "TheOneGuy", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "LipstickLesbian", 
+                "SingleMomStripper", 
+                "LittleMissBadass", 
+                "FanserviceExtra", 
+                "LadyOfWar", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "real", 
+            1, 
+            2.3813087046256074, 
+            0.2361055593066572, 
+            [
+                "TheLadysFavour", 
+                "ChildSoldiers", 
+                "InnocentFlowerGirl", 
+                "GranolaGirl", 
+                "WickedStepmother", 
+                "OldSchoolChivalry", 
+                "HumanoidFemaleAnimal", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "HouseHusband", 
+                "MarySue", 
+                "PrettyBoy", 
+                "MasculinityTropes", 
+                "ActionMom", 
+                "TheMuse", 
+                "WorldsMostBeautifulWoman", 
+                "GoGetterGirl", 
+                "LittleSisterHeroine", 
+                "CampStraight", 
+                "WeirdBeard", 
+                "ActionGirlFriend", 
+                "SchoolgirlLesbians", 
+                "GrandeDame", 
+                "BattleaxeNurse", 
+                "ManInAKilt", 
+                "ShelteredAristocrat", 
+                "FauxActionGirl", 
+                "LittleMissConArtist", 
+                "GreenSkinnedSpaceBabe", 
+                "MommasBoy", 
+                "BasementDweller", 
+                "FeminineWomenCanCook", 
+                "OfficeLady", 
+                "BastardGirlfriend", 
+                "BlackWidow", 
+                "ValleyGirl", 
+                "CosplayOtakuGirl", 
+                "BridgeBunnies", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold", 
+                "MilesGloriosus", 
+                "Fangirl", 
+                "GodSaveUsFromTheQueen", 
+                "FilleFatale", 
+                "HenpeckedHusband", 
+                "TheButcher", 
+                "Fratbro", 
+                "Tomboy", 
+                "SenseiChan", 
+                "ButchLesbian", 
+                "MsFanservice", 
+                "TheSquadette", 
+                "DadTheVeteran", 
+                "MisterSeahorse", 
+                "EverythingsBetterWithPrincesses", 
+                "NaughtyNuns", 
+                "SpoiledSweet", 
+                "SexyManInstantHarem", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "LipstickLesbian", 
+                "LadyMacBeth", 
+                "DumbassTeenageSon", 
+                "LonelyDollGirl", 
+                "DarkMagicalGirl", 
+                "LadyKillerInLove", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "young", 
+            1, 
+            1.8159468802292078, 
+            0.1800502190223614, 
+            [
+                "OverprotectiveDad", 
+                "WomanInWhite", 
+                "MamaBear", 
+                "TheLadette", 
+                "GranolaGirl", 
+                "PrincelyYoungMan", 
+                "BaitAndSwitchLesbians", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "CuteSportsClubManager", 
+                "CollegeWidow", 
+                "MrsRobinson", 
+                "CoolBigSis", 
+                "EmotionlessGirl", 
+                "MatronChaperone", 
+                "SchoolgirlLesbians", 
+                "Ojou", 
+                "StringyHairedGhostGirl", 
+                "GoGetterGirl", 
+                "TheSquadette", 
+                "NaginatasAreFeminine", 
+                "LittleMissAlmighty", 
+                "WickedWitch", 
+                "MataHari", 
+                "NinjaMaid", 
+                "SmittenTeenageGirl", 
+                "TheHecateSisters", 
+                "TheFlapper", 
+                "MaidenAunt", 
+                "DeterminedWidow", 
+                "JeanneDArchetype", 
+                "MommasBoy", 
+                "GirlsLoveStuffedAnimals", 
+                "PirateGirl", 
+                "JunglePrincess", 
+                "NubileSavage", 
+                "BastardGirlfriend", 
+                "ShortTank", 
+                "OfficeLady", 
+                "GrannyClassic", 
+                "Kawaiiko", 
+                "VainSorceress", 
+                "GracefulLadiesLikePurple", 
+                "GrandeDame", 
+                "BridgeBunnies", 
+                "Meido", 
+                "EverythingsBetterWithPrincesses", 
+                "OneeSama", 
+                "Hunk", 
+                "GrumpyOldMan", 
+                "HotWitch", 
+                "TheOphelia", 
+                "FilleFatale", 
+                "TheWomanWearingTheQueenlyMask", 
+                "TheIngenue", 
+                "SchoolMarm", 
+                "GirlishPigtails", 
+                "Fratbro", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "SenseiChan", 
+                "YaoiGuys", 
+                "TinyTyrannicalGirl", 
+                "MysteriousWaif", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "NaiveEverygirl", 
+                "PrinceCharming", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HotScientist", 
+                "KidAnova", 
+                "PapaWolf", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "BrawnHilda", 
+                "LittleMissBadass", 
+                "MagicIdolSinger", 
+                "PetitePride", 
+                "DarkMagicalGirl", 
+                "PluckyGirl", 
+                "SexyPriest", 
+                "SweetPollyOliver"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/GranolaGirl.jpg", 
+    "similar": [
+        {
+            "count": 5, 
+            "related_trope": "MamaBear", 
+            "trope": "GranolaGirl", 
+            "films": [
+                "WithoutAPaddle", 
+                "OneHundredAndOneDalmatians", 
+                "TheLorax", 
+                "AlphaAndOmega", 
+                "Hanna"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "PrettyBoy", 
+            "trope": "GranolaGirl", 
+            "films": [
+                "TheLorax", 
+                "ThePerksOfBeingAWallflower", 
+                "TenThingsIHateAboutYou"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "MsFanservice", 
+            "trope": "GranolaGirl", 
+            "films": [
+                "AliceInWonderland", 
+                "MarsAttacks", 
+                "AlphaAndOmega"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "PerkyGoth", 
+            "trope": "GranolaGirl", 
+            "films": [
+                "AliceInWonderland", 
+                "TheAddamsFamily", 
+                "ThePerksOfBeingAWallflower"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "HairyGirl", 
+            "trope": "GranolaGirl", 
+            "films": [
+                "WithoutAPaddle", 
+                "ThePerksOfBeingAWallflower", 
+                "TheDictator"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "StrangeGirl", 
+            "trope": "GranolaGirl", 
+            "films": [
+                "TheAddamsFamily", 
+                "Hanna"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "RichBitch", 
+            "trope": "GranolaGirl", 
+            "films": [
+                "GrownUps", 
+                "OneHundredAndOneDalmatians"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "MenCantKeepHouse", 
+            "trope": "GranolaGirl", 
+            "films": [
+                "OneHundredAndOneDalmatians", 
+                "BillAndTed"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "IllGirl", 
+            "trope": "GranolaGirl", 
+            "films": [
+                "MyGirl", 
+                "Chronicle"
+            ]
+        }
+    ], 
+    "id": "GranolaGirl", 
+    "name": "Granola Girl"
+}

@@ -1,0 +1,407 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            2, 
+            0.03333333333333333, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            2, 
+            0.02197802197802198, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            5, 
+            0.008517887563884156, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            4, 
+            0.004519774011299435, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            6, 
+            0.009287925696594427, 
+            646
+        ]
+    ], 
+    "description": "Some fathers just really don't do well by their kids, at all. Some are aloof, remote, and offer scant praise for their childrens' achievements. Some expect their kids to act like adults from an early age and offer no guidance, whatsoever. Some will abandon their kids. Some will come to betray their children at a crucial moment. Some are just downright abusive. Some will even go so far as to try Offing the Offspring. A few, however, will go the extra mile to take every action and every opportunity to foil their children's plans and ruin their lives and become an Archnemesis Dad (or a Foe Pa).\nThis trope is Exactly What It Says on the Tin: a father or father figure who also happens to be a prime candidate for the title of a character's Archenemy. He could be anywhere on the Sorting Algorithm of Evil, but whether he's The Big Bad, The Dragon, or something else entirely, any story featuring him is likely to be emotionally charged at the least. Normally this will be a case of It's Personal, and may well include offers of We Can Rule Together, but not always: particularly cold-hearted fathers may declare I Have No Son and treat the child in question as just one more problem to be solved.\nCompare Oedipus Complex, the general archetype of patriarchal resentment (The father figure does not necessarily need to be an archnemesis in that one). Often the result of years of I Hate You, Vampire Dad. Might overlap with Luke, I Am Your Father. See Abusive Parents and Parental Neglect for the more mundane version. See Offing the Offspring and/or Patricide for what this might lead to.\nThis trope's Distaff Counterpart is the Evil Matriarch. The inversion is Antagonistic Offspring. Contrast Daddy's Little Villain and Overlord Jr., where the evil father dotes on his kids. See Evil Uncle for when it's not dad but his brother who goes out of his way to ruin your day. See Cain and Abel when the conflict is between siblings.", 
+    "gender": "m", 
+    "adjs": [
+        "early", 
+        "crucial", 
+        "extra", 
+        "prime", 
+        "personal"
+    ], 
+    "adjectives": [
+        [
+            "cold-hearted", 
+            1, 
+            10.704365248226246, 
+            1.0, 
+            [
+                "ArchnemesisDad"
+            ]
+        ], 
+        [
+            "crucial", 
+            1, 
+            10.704365248226246, 
+            1.0, 
+            [
+                "ArchnemesisDad"
+            ]
+        ], 
+        [
+            "patriarchal", 
+            1, 
+            10.704365248226246, 
+            1.0, 
+            [
+                "ArchnemesisDad"
+            ]
+        ], 
+        [
+            "dad", 
+            1, 
+            9.660242080009073, 
+            0.9024581893456796, 
+            [
+                "ArchnemesisDad", 
+                "GrumpyOldMan"
+            ]
+        ], 
+        [
+            "mundane", 
+            1, 
+            8.98301905213941, 
+            0.8391921280552278, 
+            [
+                "ArchnemesisDad", 
+                "EvilMatriarch", 
+                "ActionGirl"
+            ]
+        ], 
+        [
+            "prime", 
+            1, 
+            7.214588080474923, 
+            0.6739856043001156, 
+            [
+                "CircumcisionAngst", 
+                "MadScientistsBeautifulDaughter", 
+                "IronLady", 
+                "TheFashionista", 
+                "ArchnemesisDad", 
+                "TheIngenue", 
+                "FiremenAreHot"
+            ]
+        ], 
+        [
+            "early", 
+            1, 
+            6.4521345838092445, 
+            0.6027573269585871, 
+            [
+                "GaussianGirl", 
+                "ChildSoldiers", 
+                "CoolBigSis", 
+                "Samurai", 
+                "CollegeWidow", 
+                "TheHecateSisters", 
+                "HotGypsyWoman", 
+                "TheFlapper", 
+                "BoyBand", 
+                "ArchnemesisDad", 
+                "SchoolMarm", 
+                "SpicyLatina"
+            ]
+        ], 
+        [
+            "extra", 
+            1, 
+            5.681999074705929, 
+            0.5308113973079774, 
+            [
+                "BigBeautifulMan", 
+                "ExtraordinarilyEmpoweredGirl", 
+                "MagicalGirlWarrior", 
+                "WaistcoatOfStyle", 
+                "LesbianVampire", 
+                "ChivalrousPervert", 
+                "CuteSportsClubManager", 
+                "FanserviceExtra", 
+                "BeardOfEvil", 
+                "TheTease", 
+                "StoutStrength", 
+                "HardDrinkingPartyGirl", 
+                "ArchnemesisDad", 
+                "ShamelessFanserviceGirl", 
+                "MissingMom"
+            ]
+        ], 
+        [
+            "general", 
+            1, 
+            5.134328327931634, 
+            0.47964808831447636, 
+            [
+                "YamatoNadeshiko", 
+                "BoyBand", 
+                "ArchnemesisDad", 
+                "MissingMom", 
+                "ElegantGothicLolita", 
+                "LittleSisterHeroine", 
+                "Joshikousei", 
+                "TheGeneralissimo", 
+                "BedlahBabe", 
+                "BoobsOfSteel", 
+                "PsychoLesbian", 
+                "Meido", 
+                "SensitiveGuyAndManlyMan", 
+                "MsFanservice", 
+                "HotScientist", 
+                "GrandeDame", 
+                "BigManOnCampus", 
+                "Samurai", 
+                "RightThroughHisPants", 
+                "MysticalWaif", 
+                "AmazonBrigade", 
+                "HighSchoolHustler", 
+                "LightFeminineAndDarkFeminine"
+            ]
+        ], 
+        [
+            "personal", 
+            1, 
+            4.529877171336323, 
+            0.4231803629913451, 
+            [
+                "BeardOfSorrow", 
+                "OverprotectiveDad", 
+                "TheLadysFavour", 
+                "MamaBear", 
+                "GlamorousSingleMother", 
+                "MistressAndServantBoy", 
+                "ArchnemesisDad", 
+                "GIRL", 
+                "GoGetterGirl", 
+                "NeverASelfMadeWoman", 
+                "OldMaid", 
+                "SchoolNurse", 
+                "LadyInWaiting", 
+                "BattleButler", 
+                "BastardGirlfriend", 
+                "ChivalrousPervert", 
+                "TheSlacker", 
+                "MataHari", 
+                "MilesGloriosus", 
+                "GoodOlBoy", 
+                "HenpeckedHusband", 
+                "CrusadingWidower", 
+                "MyBelovedSmother", 
+                "BrattyTeenageDaughter", 
+                "DragonLady", 
+                "HouseWife", 
+                "TheMuse", 
+                "AmazonBrigade", 
+                "ProperLady", 
+                "JewishMother", 
+                "BrawnHilda", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "evil", 
+            1, 
+            3.1294905500322674, 
+            0.2923564805069442, 
+            [
+                "BeardOfSorrow", 
+                "WizardBeard", 
+                "HotWitch", 
+                "ThisIndexIsABitch", 
+                "StumblingUponTheLostWizard", 
+                "DarkMistress", 
+                "WinterRoyalLady", 
+                "CuteGhostGirl", 
+                "ArchnemesisDad", 
+                "TheVamp", 
+                "HotScoop", 
+                "HeroicSeductress", 
+                "CulturedBadass", 
+                "CorruptHick", 
+                "GoGetterGirl", 
+                "TheCheerleader", 
+                "BlondGuysAreEvil", 
+                "BlondeRepublicanSexKitten", 
+                "CarpetOfVirility", 
+                "HighHeelFaceTurn", 
+                "BeardOfEvil", 
+                "AgentPeacock", 
+                "TheCasanova", 
+                "OverlordJr", 
+                "KnightErrant", 
+                "WomanScorned", 
+                "BadassPrincess", 
+                "TheEvilPrince", 
+                "DepravedHomosexual", 
+                "JerkJock", 
+                "ArabOilSheikh", 
+                "BespectacledBastardBoyfriend", 
+                "TheGambler", 
+                "WomanInWhite", 
+                "TheFightingNarcissist", 
+                "AnimeChineseGirl", 
+                "ScaryBlackMan", 
+                "OfficerAndAGentleman", 
+                "DefectingForLove", 
+                "TheWomanWearingTheQueenlyMask", 
+                "FurryBaldness", 
+                "GirlishPigtails", 
+                "WickedWitch", 
+                "TheDandy", 
+                "BlackMagicianGirl", 
+                "BadassGrandpa", 
+                "GirlInTheTower", 
+                "EvilMatriarch", 
+                "BlondesAreEvil", 
+                "TheOneGuy", 
+                "TheHighQueen", 
+                "BattleaxeNurse", 
+                "GirlPosse", 
+                "StageMom", 
+                "WomanInBlack", 
+                "GodSaveUsFromTheQueen", 
+                "DarkMagicalGirl", 
+                "DastardlyWhiplash"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/ArchnemesisDad.jpg", 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "BashBrothers", 
+            "trope": "ArchnemesisDad", 
+            "films": [
+                "TheHunchbackOfNotreDame", 
+                "ClashOfTheTitans", 
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "MsFanservice", 
+            "trope": "ArchnemesisDad", 
+            "films": [
+                "TheWolverine", 
+                "TheHunchbackOfNotreDame", 
+                "ClashOfTheTitans"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "LadyOfWar", 
+            "trope": "ArchnemesisDad", 
+            "films": [
+                "TheWolverine", 
+                "ClashOfTheTitans", 
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SensitiveGuyAndManlyMan", 
+            "trope": "ArchnemesisDad", 
+            "films": [
+                "CurseOfTheGoldenFlower", 
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "DarkActionGirl", 
+            "trope": "ArchnemesisDad", 
+            "films": [
+                "TheWolverine", 
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "OverprotectiveDad", 
+            "trope": "ArchnemesisDad", 
+            "films": [
+                "ClashOfTheTitans", 
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "DamselOutOfDistress", 
+            "trope": "ArchnemesisDad", 
+            "films": [
+                "TheWolverine", 
+                "RiseOfTheGuardians"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "DaddysGirl", 
+            "trope": "ArchnemesisDad", 
+            "films": [
+                "HotelTransylvania", 
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "MissingMom", 
+            "trope": "ArchnemesisDad", 
+            "films": [
+                "TheHunchbackOfNotreDame", 
+                "FullmetalAlchemist"
+            ]
+        }
+    ], 
+    "id": "ArchnemesisDad", 
+    "name": "Archnemesis Dad"
+}

@@ -1,0 +1,349 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            2, 
+            0.02197802197802198, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            1, 
+            0.0011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "Particularly common in The Western, this is often the widow's version of the Damsel in Distress. However, due to more life experience, the Determined Widow is usually more assertive and less passive in combating her foes. She might even tell The Hero that she doesn't need his help, even though, unlike the Damsel, she often has children dependent on her and therefore also in danger. Usually a young widow if she is in distress, as older widows are more likely to be depicted as competent enough not to need saving.\nThe Hero (or The Protagonist) protects the widow from a dastardly villain attempting to take advantage of her (either romantically, or simply stealing from her because she has no man to protect her). Sometimes the villains were the ones who killed her husband, and so the goal is to avenge her husband. This is particularly common in The Western, especially when the hero is The Drifter.\nOften the Hero ends up getting to marry the widow at the end, and this can be a reason for The Drifter to finally settle down. In fact, widow Love Interests have a better chance at getting to keep The Drifter than other Love Interests, who tend to win his love, \"But Now I Must Go\" because he wants his beloved to be happy.\nOlder Determined Widows are more likely to appear as advisers to the Heroes.\nDetermined Widows also often insist on achieving their dead husband's dream. If their husband was a warrior and he fell in battle they might even \"take up his sword\" and become an Action Girl or Lady of War and continue his fight.\nCompare House Wife and Determined Homesteader's Wife, which is what they were likely to be before being widowed. Her Heart Will Go On for the widow's strength in dealing with the loss. Do NOT confuse with Yamato Nadeshiko which is an aspect of Japanese culture; while they can overlap, all they have in common is the inner core of iron will. Does not necessarily have anything to do with another type of widow.", 
+    "gender": "f", 
+    "adjs": [
+        "assertive", 
+        "passive", 
+        "young", 
+        "dead", 
+        "warrior"
+    ], 
+    "adjectives": [
+        [
+            "assertive", 
+            1, 
+            10.869278662539067, 
+            1.0, 
+            [
+                "DeterminedWidow", 
+                "TownGirls"
+            ]
+        ], 
+        [
+            "warrior", 
+            1, 
+            10.190977293132523, 
+            0.9375946288189015, 
+            [
+                "WorldsStrongestMan", 
+                "StoutStrength", 
+                "DeterminedWidow"
+            ]
+        ], 
+        [
+            "passive", 
+            1, 
+            8.417154613783635, 
+            0.7743986399753767, 
+            [
+                "YamatoNadeshiko", 
+                "ALadyOnEachArm", 
+                "DirtyOldMan", 
+                "DeterminedWidow", 
+                "MartyStu", 
+                "BadassPrincess"
+            ]
+        ], 
+        [
+            "dead", 
+            1, 
+            7.650387750970443, 
+            0.7038542288309785, 
+            [
+                "DisappearedDad", 
+                "WickedStepmother", 
+                "ValleyGirl", 
+                "DisposableSexWorker", 
+                "WomanInWhite", 
+                "BeautifulAllAlong", 
+                "CuteGhostGirl", 
+                "DamselInDistress", 
+                "DeterminedWidow", 
+                "GirlInABox", 
+                "MissingMom"
+            ]
+        ], 
+        [
+            "japanese", 
+            1, 
+            4.405853811080399, 
+            0.40534923686013863, 
+            [
+                "MagicalGirlWarrior", 
+                "PrincelyYoungMan", 
+                "BastardBoyfriend", 
+                "CatholicSchoolGirlsRule", 
+                "YamatoNadeshiko", 
+                "MagicalGirl", 
+                "SchoolgirlLesbians", 
+                "Ojou", 
+                "StringyHairedGhostGirl", 
+                "Fundoshi", 
+                "PrettyBoy", 
+                "TheSquadette", 
+                "LittleSisterHeroine", 
+                "CuteWitch", 
+                "OldMaid", 
+                "Joshikousei", 
+                "SissyVillain", 
+                "DeterminedWidow", 
+                "SeashellBra", 
+                "BigBeautifulMan", 
+                "NaginatasAreFeminine", 
+                "Kawaiiko", 
+                "HugeSchoolgirl", 
+                "BridgeBunnies", 
+                "Samurai", 
+                "OfficeLady", 
+                "TomboyWithAGirlyStreak", 
+                "HotWitch", 
+                "FrenchMaid", 
+                "FragileFlower", 
+                "ButterFace", 
+                "SenseiChan", 
+                "IdolSinger", 
+                "Meido", 
+                "DragonLady", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "Bishonen", 
+                "GenderInvertedTrope"
+            ]
+        ], 
+        [
+            "young", 
+            1, 
+            3.435062745859466, 
+            0.3160341042408268, 
+            [
+                "OverprotectiveDad", 
+                "WomanInWhite", 
+                "MamaBear", 
+                "TheLadette", 
+                "GranolaGirl", 
+                "PrincelyYoungMan", 
+                "BaitAndSwitchLesbians", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "CuteSportsClubManager", 
+                "CollegeWidow", 
+                "MrsRobinson", 
+                "CoolBigSis", 
+                "EmotionlessGirl", 
+                "MatronChaperone", 
+                "SchoolgirlLesbians", 
+                "Ojou", 
+                "StringyHairedGhostGirl", 
+                "GoGetterGirl", 
+                "TheSquadette", 
+                "NaginatasAreFeminine", 
+                "LittleMissAlmighty", 
+                "WickedWitch", 
+                "MataHari", 
+                "NinjaMaid", 
+                "SmittenTeenageGirl", 
+                "TheHecateSisters", 
+                "TheFlapper", 
+                "MaidenAunt", 
+                "DeterminedWidow", 
+                "JeanneDArchetype", 
+                "MommasBoy", 
+                "GirlsLoveStuffedAnimals", 
+                "PirateGirl", 
+                "JunglePrincess", 
+                "NubileSavage", 
+                "BastardGirlfriend", 
+                "ShortTank", 
+                "OfficeLady", 
+                "GrannyClassic", 
+                "Kawaiiko", 
+                "VainSorceress", 
+                "GracefulLadiesLikePurple", 
+                "GrandeDame", 
+                "BridgeBunnies", 
+                "Meido", 
+                "EverythingsBetterWithPrincesses", 
+                "OneeSama", 
+                "Hunk", 
+                "GrumpyOldMan", 
+                "HotWitch", 
+                "TheOphelia", 
+                "FilleFatale", 
+                "TheWomanWearingTheQueenlyMask", 
+                "TheIngenue", 
+                "SchoolMarm", 
+                "GirlishPigtails", 
+                "Fratbro", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "SenseiChan", 
+                "YaoiGuys", 
+                "TinyTyrannicalGirl", 
+                "MysteriousWaif", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "NaiveEverygirl", 
+                "PrinceCharming", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HotScientist", 
+                "KidAnova", 
+                "PapaWolf", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "BrawnHilda", 
+                "LittleMissBadass", 
+                "MagicIdolSinger", 
+                "PetitePride", 
+                "DarkMagicalGirl", 
+                "PluckyGirl", 
+                "SexyPriest", 
+                "SweetPollyOliver"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "PapaWolf", 
+            "trope": "DeterminedWidow", 
+            "films": [
+                "Terminator2JudgmentDay", 
+                "GoneWithTheWind", 
+                "TheSecretOfNIMH"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "HookerWithAHeartOfGold", 
+            "trope": "DeterminedWidow", 
+            "films": [
+                "Saawariya", 
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "DeterminedWidow", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LadyInRed", 
+            "trope": "DeterminedWidow", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "FragileFlower", 
+            "trope": "DeterminedWidow", 
+            "films": [
+                "Saawariya"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCharmer", 
+            "trope": "DeterminedWidow", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Ojou", 
+            "trope": "DeterminedWidow", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SassyBlackWoman", 
+            "trope": "DeterminedWidow", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LightFeminineAndDarkFeminine", 
+            "trope": "DeterminedWidow", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }
+    ], 
+    "id": "DeterminedWidow", 
+    "name": "Determined Widow"
+}

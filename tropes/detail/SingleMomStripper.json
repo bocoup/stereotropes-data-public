@@ -1,0 +1,272 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            4, 
+            0.004519774011299435, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            3, 
+            0.005272407732864675, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "Your nasty husband has cheated on you and left. You're out of work, you've got a baby to feed and you're one missed rent payment from the street.\nYou realize that the boys at school really liked you. Maybe you could make some quick fast cash waiting tables\u2014in a bikini. Or pole dancing. Or going all the way, if needed.\nA Single Mom Stripper is a single woman working in any aspect of the sex trade (stripper, escort, hooker, masseuse, taxi-dancer, etc.) because she sees it as a practical way to support her child or children.\nTruth in Television, by the way. May be a Hooker with a Heart of Gold. The children might be treated as a Son of a Whore, whether or not actual prostitution is involved. May also be used to give the Disposable Sex Worker a sympathetic backstory. Compare with Justified Criminal.", 
+    "gender": "f", 
+    "adjs": [
+        "quick", 
+        "tables\u2014in", 
+        "single", 
+        "taxi-dancer", 
+        "practical"
+    ], 
+    "adjectives": [
+        [
+            "tables\u2014in", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "SingleMomStripper"
+            ]
+        ], 
+        [
+            "taxi-dancer", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "SingleMomStripper"
+            ]
+        ], 
+        [
+            "quick", 
+            1, 
+            8.359939340027342, 
+            0.7202739788373059, 
+            [
+                "GaussianGirl", 
+                "TheChiefsDaughter", 
+                "Meido", 
+                "AmazonianBeauty", 
+                "MarySue", 
+                "SingleMomStripper", 
+                "BadAssMustache"
+            ]
+        ], 
+        [
+            "practical", 
+            1, 
+            7.510240297183501, 
+            0.6470657789317092, 
+            [
+                "NaginatasAreFeminine", 
+                "SpiritedYoungLady", 
+                "RightThroughHisPants", 
+                "KickChick", 
+                "TeamMom", 
+                "ShelteredAristocrat", 
+                "SingleMomStripper", 
+                "LovelyAssistant", 
+                "GIRL", 
+                "WrenchWench", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "single", 
+            1, 
+            5.652807996822117, 
+            0.4870334989130545, 
+            [
+                "WidowWoman", 
+                "CollegeWidow", 
+                "GlamorousSingleMother", 
+                "CoolBigSis", 
+                "Fundoshi", 
+                "TokenLesbian", 
+                "ManInAKilt", 
+                "MonogenderMonsters", 
+                "NobleMaleRoguishMale", 
+                "MenCantKeepHouse", 
+                "MysteriousProtector", 
+                "TheSlacker", 
+                "DaddysGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "CuteSportsClubManager", 
+                "SchoolMarm", 
+                "MyBelovedSmother", 
+                "DisappearedDad", 
+                "MsFanservice", 
+                "ApronMatron", 
+                "AmazonBrigade", 
+                "SingleMomStripper"
+            ]
+        ], 
+        [
+            "sympathetic", 
+            1, 
+            5.587639471586451, 
+            0.4814187221715884, 
+            [
+                "YamatoNadeshiko", 
+                "LovableAlphaBitch", 
+                "PassionateSportsGirl", 
+                "DirtyOldMan", 
+                "DarkMistress", 
+                "WinterRoyalLady", 
+                "LazyHusband", 
+                "TheVamp", 
+                "HeManWomanHater", 
+                "DoggedNiceGuy", 
+                "TheCheerleader", 
+                "MrsRobinson", 
+                "AsianAirhead", 
+                "BumblingDad", 
+                "PsychoLesbian", 
+                "JerkJock", 
+                "ChivalrousPervert", 
+                "MorallyBankruptBanker", 
+                "CuteSportsClubManager", 
+                "GoodOlBoy", 
+                "BrokenBird", 
+                "HelloNurse", 
+                "Tomboy", 
+                "GrandeDame", 
+                "BastardBastard", 
+                "SingleMomStripper", 
+                "EffeminateMisogynisticGuy"
+            ]
+        ], 
+        [
+            "actual", 
+            1, 
+            4.534637983085335, 
+            0.39069443088243366, 
+            [
+                "MrsRobinson", 
+                "AmazonChaser", 
+                "ChildSoldiers", 
+                "GranolaGirl", 
+                "FrenchMaid", 
+                "HugeSchoolgirl", 
+                "HumanoidFemaleAnimal", 
+                "WinterRoyalLady", 
+                "DrillSergeantNasty", 
+                "HouseHusband", 
+                "GIRL", 
+                "HeManWomanHater", 
+                "TheVamp", 
+                "Ojou", 
+                "TheBear", 
+                "GirlOfTheWeek", 
+                "BaitAndSwitchLesbians", 
+                "Dominatrix", 
+                "SouthernGentleman", 
+                "FauxActionGirl", 
+                "TheGambler", 
+                "TheGoodKing", 
+                "BattleButler", 
+                "GentlemanThief", 
+                "Streetwalker", 
+                "EmotionlessGirl", 
+                "ClassyCatBurglar", 
+                "UselessBoyfriend", 
+                "GrannyClassic", 
+                "StageMom", 
+                "NaughtyNurseOutfit", 
+                "NonActionGuy", 
+                "Samurai", 
+                "SensitiveGuyAndManlyMan", 
+                "MilesGloriosus", 
+                "OfficerAndAGentleman", 
+                "FilleFatale", 
+                "PerkyGoth", 
+                "YaoiGuys", 
+                "IdolSinger", 
+                "RebelliousPrincess", 
+                "TheOneGuy", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "LipstickLesbian", 
+                "SingleMomStripper", 
+                "LittleMissBadass", 
+                "FanserviceExtra", 
+                "LadyOfWar", 
+                "BiggerIsBetterInBed"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/SingleMomStripper.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "WomanScorned", 
+            "trope": "SingleMomStripper", 
+            "films": [
+                "DiaryOfAMadBlackWoman"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ValleyGirl", 
+            "trope": "SingleMomStripper", 
+            "films": [
+                "Halloween2007"
+            ]
+        }
+    ], 
+    "id": "SingleMomStripper", 
+    "name": "Single Mom Stripper"
+}

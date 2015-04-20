@@ -1,0 +1,117 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            3, 
+            0.005110732538330494, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            1, 
+            0.0011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            4, 
+            0.006191950464396285, 
+            646
+        ]
+    ], 
+    "description": "A male counterpart to The Hecate Sisters with influence from The Three Faces of Eve. Basically, a Power Trio for the phases of man's life and the things that drive that man boiled down to their simplest parts, and represented by three often closely related characters.", 
+    "gender": "m", 
+    "adjs": [
+        "drive"
+    ], 
+    "adjectives": [
+        "drive"
+    ], 
+    "image_url": "assets/data/tropes/images/TheThreeFacesOfAdam.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "WomanInBlack", 
+            "trope": "TheThreeFacesOfAdam", 
+            "films": [
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WrenchWench", 
+            "trope": "TheThreeFacesOfAdam", 
+            "films": [
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomanInWhite", 
+            "trope": "TheThreeFacesOfAdam", 
+            "films": [
+                "TronLegacy"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheUglyGuysHotDaughter", 
+            "trope": "TheThreeFacesOfAdam", 
+            "films": [
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheVamp", 
+            "trope": "TheThreeFacesOfAdam", 
+            "films": [
+                "FullmetalAlchemist"
+            ]
+        }
+    ], 
+    "id": "TheThreeFacesOfAdam", 
+    "name": "The Three Faces Of Adam"
+}

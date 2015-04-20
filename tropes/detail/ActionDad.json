@@ -1,0 +1,265 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            1, 
+            0.0011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            3, 
+            0.0046439628482972135, 
+            646
+        ]
+    ], 
+    "description": "In a lot of media, if the main character has a father, he usually is out of the picture, doesn't care what's going on with his child(ren), or just doesn't notice what's going on.\nThis guy, however, is not any of those things.\nThis is the father who realizes something is happening, and isn't going to stand for it, particularly if it poses any kind of threat to his family. Often overlaps with Papa Wolf. May also be paired with Action Mom, in which case they could easily be a Battle Couple.\nUsually shows up in Action Adventure Series shows, with the kid protagonist being followed by his or her protective father. May only show up every once in a while, being absent most of the time but showing up when something the protagonist can't handle arises to lend a hand, or just beat the snot out of whatever was trying to touch his kid.\nOnly examples where the guy in question is actually closely related, please!\nSee also Papa Wolf, Overprotective Dad.", 
+    "gender": "m", 
+    "adjs": [
+        "main", 
+        "kid", 
+        "protective", 
+        "beat", 
+        "touch"
+    ], 
+    "adjectives": [
+        [
+            "beat", 
+            1, 
+            12.2786918096927, 
+            1.0, 
+            [
+                "ActionDad"
+            ]
+        ], 
+        [
+            "kid", 
+            1, 
+            9.315047274299163, 
+            0.7586351558189561, 
+            [
+                "ChildSoldiers", 
+                "HookerWithAHeartOfGold", 
+                "TheDandy", 
+                "ActionDad", 
+                "HauntedHeroine", 
+                "BadassPrincess"
+            ]
+        ], 
+        [
+            "touch", 
+            1, 
+            9.315047274299163, 
+            0.7586351558189561, 
+            [
+                "YamatoNadeshiko", 
+                "TheBaroness", 
+                "LittleMissBadass", 
+                "ActionDad", 
+                "WidowWitch", 
+                "ManicPixieDreamGirl"
+            ]
+        ], 
+        [
+            "protective", 
+            1, 
+            9.029432189914782, 
+            0.7353741204569546, 
+            [
+                "MamaBear", 
+                "DaddysGirl", 
+                "OfficerAndAGentleman", 
+                "ProperLady", 
+                "TheCheerleader", 
+                "ActionDad"
+            ]
+        ], 
+        [
+            "main", 
+            1, 
+            4.727033060288481, 
+            0.3849785574516171, 
+            [
+                "SexyStewardess", 
+                "MysticalWaif", 
+                "MamaBear", 
+                "GossipyHens", 
+                "TokenLesbian", 
+                "SoapBoxSadie", 
+                "TheOneGuy", 
+                "LovelyAssistant", 
+                "TomBoyAndGirlyGirl", 
+                "TheCharmer", 
+                "CoolBigSis", 
+                "MatronChaperone", 
+                "Ojou", 
+                "GlamorousWartimeSinger", 
+                "HandsomeDevil", 
+                "MartyStu", 
+                "FatGirl", 
+                "ShelteredAristocrat", 
+                "Joshikousei", 
+                "GirlNextDoor", 
+                "HardDrinkingPartyGirl", 
+                "MaidenAunt", 
+                "TheGoodKing", 
+                "QuicklyDemotedWoman", 
+                "AsianAirhead", 
+                "BumblingDad", 
+                "UselessBoyfriend", 
+                "TheChanteuse", 
+                "GrannyClassic", 
+                "MountainMan", 
+                "InnocentFanserviceGirl", 
+                "TheFightingNarcissist", 
+                "OneeSama", 
+                "SensitiveGuyAndManlyMan", 
+                "DirtyCoward", 
+                "BromanticFoil", 
+                "ActionDad", 
+                "Fratbro", 
+                "YaoiGuys", 
+                "Samurai", 
+                "BlackBossLady", 
+                "CoolOldLady", 
+                "Meido", 
+                "Chickification", 
+                "TheMuse", 
+                "AmazonBrigade", 
+                "SexyManInstantHarem", 
+                "HookerWithAHeartOfGold", 
+                "DeterminedHomesteadersWife", 
+                "TheTease"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/ActionDad.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "ActionDad", 
+            "films": [
+                "TheIncredibles", 
+                "Hanna"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "LittleMissBadass", 
+            "trope": "ActionDad", 
+            "films": [
+                "TheIncredibles", 
+                "Hanna"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "HotDad", 
+            "trope": "ActionDad", 
+            "films": [
+                "TheIncredibles", 
+                "PacificRim"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "ActionGirl", 
+            "trope": "ActionDad", 
+            "films": [
+                "PacificRim", 
+                "Hanna"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "CrazyJealousGuy", 
+            "trope": "ActionDad", 
+            "films": [
+                "Fear"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GirlsWithGuns", 
+            "trope": "ActionDad", 
+            "films": [
+                "CockneysVsZombies"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "CampStraight", 
+            "trope": "ActionDad", 
+            "films": [
+                "Hanna"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "DisposableWoman", 
+            "trope": "ActionDad", 
+            "films": [
+                "PacificRim"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HotScientist", 
+            "trope": "ActionDad", 
+            "films": [
+                "PacificRim"
+            ]
+        }
+    ], 
+    "id": "ActionDad", 
+    "name": "Action Dad"
+}

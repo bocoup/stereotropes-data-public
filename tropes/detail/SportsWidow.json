@@ -1,0 +1,247 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            2, 
+            0.011363636363636364, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "A man's life stops when his team is playing. The children could be running with scissors or playing with matches, but the father is completely oblivious to anything but whether the umpire's call is fair (and whether the mother can get him a beer in time). The girlfriend could walk in front of the TV in the most stripperiffic lingerie known to man, but all the guy wants is for her to get out of the way so he can see the instant replay of the game-winning one-handed catch.\nSometimes the girl, in the interest of not losing her man for months, will attempt to follow his team. She will either be obnoxiously ignorant or pick up on the game so quickly that she will become a far more rabid fan than he.\nThe term is usually written as sport-specific - \"football widow\", for example. And can be extended to any fanatical hobby that the spouse doesn't share, such as \"gaming widow\" for Tabletop Games or \"WoW widow\" for World of Warcraft.", 
+    "gender": "f", 
+    "adjs": [
+        "oblivious", 
+        "fair", 
+        "stripperiffic", 
+        "game-winning", 
+        "one-handed"
+    ], 
+    "adjectives": [
+        [
+            "fanatical", 
+            1, 
+            11.104844105454484, 
+            1.0, 
+            [
+                "SportsWidow"
+            ]
+        ], 
+        [
+            "game-winning", 
+            1, 
+            11.104844105454484, 
+            1.0, 
+            [
+                "SportsWidow"
+            ]
+        ], 
+        [
+            "one-handed", 
+            1, 
+            11.104844105454484, 
+            1.0, 
+            [
+                "SportsWidow"
+            ]
+        ], 
+        [
+            "sport-specific", 
+            1, 
+            11.104844105454484, 
+            1.0, 
+            [
+                "SportsWidow"
+            ]
+        ], 
+        [
+            "stripperiffic", 
+            1, 
+            11.104844105454484, 
+            1.0, 
+            [
+                "SportsWidow"
+            ]
+        ], 
+        [
+            "rabid", 
+            1, 
+            10.060289670389281, 
+            0.9059370464685642, 
+            [
+                "TheOneGuy", 
+                "SportsWidow"
+            ]
+        ], 
+        [
+            "ignorant", 
+            1, 
+            9.382635375671583, 
+            0.8449137409378863, 
+            [
+                "TheLadette", 
+                "NaiveEverygirl", 
+                "SportsWidow"
+            ]
+        ], 
+        [
+            "oblivious", 
+            1, 
+            9.382635375671583, 
+            0.8449137409378863, 
+            [
+                "Meido", 
+                "SportsWidow", 
+                "PrinceCharmingWannabe"
+            ]
+        ], 
+        [
+            "fair", 
+            1, 
+            7.391308179576435, 
+            0.6655931510056919, 
+            [
+                "GentlemanThief", 
+                "CorruptHick", 
+                "BeautifulSlaveGirl", 
+                "TheFightingNarcissist", 
+                "ProperLady", 
+                "SportsWidow", 
+                "OfficerAndAGentleman", 
+                "MartyStu", 
+                "MagicalNanny"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "TheCasanova", 
+            "trope": "SportsWidow", 
+            "films": [
+                "SexAndTheCity", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TestesTest", 
+            "trope": "SportsWidow", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StrawMisogynist", 
+            "trope": "SportsWidow", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomanScorned", 
+            "trope": "SportsWidow", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheVamp", 
+            "trope": "SportsWidow", 
+            "films": [
+                "DamnYankees"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SweetPollyOliver", 
+            "trope": "SportsWidow", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WorldsMostBeautifulWoman", 
+            "trope": "SportsWidow", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheFashionista", 
+            "trope": "SportsWidow", 
+            "films": [
+                "SexAndTheCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StraightGay", 
+            "trope": "SportsWidow", 
+            "films": [
+                "Futurama"
+            ]
+        }
+    ], 
+    "id": "SportsWidow", 
+    "name": "Sports Widow"
+}

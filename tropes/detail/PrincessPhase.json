@@ -1,0 +1,279 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            2, 
+            0.02197802197802198, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            4, 
+            0.004519774011299435, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "If you ask a girl who's in preschool or kindergarten she'll probably know that Everything's Better with Princesses. She will have a fairy tale princess's attitude making her anywhere between a gracious but breakable cutie and a Tiny Tyrannical Girl who might feel entitled to a pony. Bonus points if she is a fan of the Disney Princesses.\nShe is or acts like she's seven years old at the most. Princesses Prefer Pink so that's probably her favorite color. She'll imagine herself as a pretty princess or pretend to be a princess bride. Her court will be consist of stuffed animals and dolls. She might want a Prince Charming by her side as long as she still gets to be her Daddy's Girl, looking up to him as if he's a king. If you tried to explain it to her she wouldn't understand why Girls Need Role Models. To emphasize this concept she might have a Sweet Tooth because Real Men Hate Sugar.\nIf early childhood isn't specifically mentioned it might fall under Princess for a Day or Everything's Better with Princesses.\nThis trope is so strongly associated with childhood that a teenage or adult woman still clinging to this attitude cannot but come across as childish. Still, even those who grow out of it will still cling to a wistful shred or two: a taste for romance and a Prince Charming, or a pretty gown they twirl around in when no one is watching. The wedding industry in particular is built around letting women be a \"princess\" for a day.\nCompare Real Men Wear Pink (where there's a little princess in each manly man), Pink Means Feminine, Graceful Ladies Like Purple.\nContrast One of the Boys.", 
+    "gender": "f", 
+    "adjs": [
+        "gracious", 
+        "breakable", 
+        "old", 
+        "favorite", 
+        "wistful"
+    ], 
+    "adjectives": [
+        [
+            "breakable", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "PrincessPhase"
+            ]
+        ], 
+        [
+            "wistful", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "PrincessPhase"
+            ]
+        ], 
+        [
+            "gracious", 
+            1, 
+            10.561624447360181, 
+            0.9099663232317904, 
+            [
+                "OfficeLady", 
+                "PrincessPhase"
+            ]
+        ], 
+        [
+            "favorite", 
+            1, 
+            8.645122971492352, 
+            0.7448447730237029, 
+            [
+                "WalkingShirtlessScene", 
+                "PrincessPhase", 
+                "JerkJock", 
+                "HandsomeDevil", 
+                "MarySue", 
+                "GreenSkinnedSpaceBabe"
+            ]
+        ], 
+        [
+            "particular", 
+            1, 
+            5.790209966557784, 
+            0.4988717502945852, 
+            [
+                "WidowWoman", 
+                "YamatoNadeshiko", 
+                "MamaBear", 
+                "WickedStepmother", 
+                "AdrenalineMakeover", 
+                "BoyBand", 
+                "StringyHairedGhostGirl", 
+                "ChildSoldiers", 
+                "KnightInShiningArmor", 
+                "BaitAndSwitchLesbians", 
+                "PlayboyBunny", 
+                "TakingTheVeil", 
+                "PrincessPhase", 
+                "Meido", 
+                "OneeSama", 
+                "JadedWashout", 
+                "TheOphelia", 
+                "EstrogenBrigade", 
+                "GoodOlBoy", 
+                "MrFanservice", 
+                "SpicyLatina", 
+                "VainSorceress", 
+                "TheFightingNarcissist", 
+                "LittleGirlsKickShins", 
+                "MarySue"
+            ]
+        ], 
+        [
+            "little", 
+            1, 
+            5.035555035300412, 
+            0.4338523419140259, 
+            [
+                "OverprotectiveDad", 
+                "LittleOldLadyInvestigates", 
+                "GlamorousSingleMother", 
+                "LittleRedFightingHood", 
+                "BastardBoyfriend", 
+                "DirtyOldMan", 
+                "FarmersDaughter", 
+                "TheCharmer", 
+                "MagicalSeventhSon", 
+                "UnluckyEveryDude", 
+                "LittleSisterHeroine", 
+                "SexistUsedCarSalesman", 
+                "TheSlacker", 
+                "MaidenAunt", 
+                "WomanScorned", 
+                "TheCutie", 
+                "BasementDweller", 
+                "PrincessPhase", 
+                "ClassyCatBurglar", 
+                "BespectacledBastardBoyfriend", 
+                "QuintessentialBritishGentleman", 
+                "NonActionGuy", 
+                "BaitAndSwitchLesbians", 
+                "BeautifulAllAlong", 
+                "LittleMissConArtist", 
+                "Tomboy", 
+                "DirtyHarriet", 
+                "FragileFlower", 
+                "BrattyTeenageDaughter", 
+                "FavorsForTheSexy", 
+                "MysticalWaif", 
+                "DarkActionGirl", 
+                "SpoiledSweet", 
+                "SwingLowSweetHarriet", 
+                "Bishonen", 
+                "LittleGirlsKickShins"
+            ]
+        ], 
+        [
+            "old", 
+            1, 
+            3.919286669793765, 
+            0.337677115710643, 
+            [
+                "BlackBossLady", 
+                "ChildSoldiers", 
+                "TheOldConvict", 
+                "WidowWitch", 
+                "OldSchoolChivalry", 
+                "WhiteDwarfStarlet", 
+                "CatholicSchoolGirlsRule", 
+                "NerdNanny", 
+                "BoyBand", 
+                "LadyMacBeth", 
+                "BlondeRepublicanSexKitten", 
+                "TheGeneralissimo", 
+                "FemmeFatale", 
+                "GodivaHair", 
+                "TheSquadette", 
+                "CampStraight", 
+                "SexistUsedCarSalesman", 
+                "WickedWitch", 
+                "GrandeDame", 
+                "LittleOldLadyInvestigates", 
+                "CuteWitch", 
+                "BeardOfEvil", 
+                "OldMaid", 
+                "PrincessClassic", 
+                "MaidenAunt", 
+                "MommasBoy", 
+                "TheLoinsSleepTonight", 
+                "LittleMissAlmighty", 
+                "LadyInRed", 
+                "ChivalrousPervert", 
+                "HighClassCallGirl", 
+                "NeverMessWithGranny", 
+                "VainSorceress", 
+                "CoolBigSis", 
+                "GentlemanWizard", 
+                "Samurai", 
+                "SweetPollyOliver", 
+                "DirtyOldMan", 
+                "FrenchMaid", 
+                "Hobos", 
+                "MartyStu", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "BadassGrandpa", 
+                "TheAllAmericanBoy", 
+                "PrincessPhase", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "RebelliousPrincess", 
+                "CoolOldLady", 
+                "PapaWolf", 
+                "ProperLady", 
+                "AbsentMindedProfessor", 
+                "LegCling", 
+                "DastardlyWhiplash", 
+                "GrumpyOldMan"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/PrincessPhase.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "SculleryMaid", 
+            "trope": "PrincessPhase", 
+            "films": [
+                "ALittlePrincess"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "RichBitch", 
+            "trope": "PrincessPhase", 
+            "films": [
+                "ALittlePrincess"
+            ]
+        }
+    ], 
+    "id": "PrincessPhase", 
+    "name": "Princess Phase"
+}

@@ -1,0 +1,516 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            3, 
+            0.005272407732864675, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "Every successful person at the office wears crisp expensive suits and projects an air of unwavering confidence. The plucky office girl doesn't. She is very talented and clever, has great ideas, and wonderful potential but nobody notices. She is often the butt of jokes, and the rest of the time is just invisible. So, she occupies a low ranking level at the company and seems to have no hope of a promotion despite her great potential. She is very sad and depressed, and often pretty complex but nobody is close enough to her to realize. Usually tasked with gopher (Go-For) jobs such as fetching coffee and notes, and so forth.\nMore cynical versions have the higher-ups profiting off her talent but never crediting it.\nThis will go one of two ways. First, she will get noticed by someone higher up on the food chain, get a makeover and learn to show confidence which gets her noticed (and thus become a Romance Genre Heroine). Or, second (and much more common these days), she'll forever remain the Plucky Comic Relief, with only the occasional Day in the Limelight episode concentrating on her and her problems, wants, and dreams.\nThey're almost always Hollywood Homely, too.\nOverlaps with The Woobie if the Plucky Office Girl is the lead character. In black comedies, this often overlaps with the Chew Toy. Always Female, because the same behavior and treatment in a man comes across differently. In Anime, the Office Lady tends to be a Plucky Office Girl. Related to Badass Bureaucrat.", 
+    "gender": "f", 
+    "adjs": [
+        "successful", 
+        "expensive", 
+        "great", 
+        "wonderful", 
+        "potential"
+    ], 
+    "adjectives": [
+        [
+            "go-for", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "PluckyOfficeGirl"
+            ]
+        ], 
+        [
+            "great", 
+            2, 
+            9.75837857912678, 
+            0.9675383237273599, 
+            [
+                "EvilDiva", 
+                "TheLadysFavour", 
+                "ChildSoldiers", 
+                "TerritorialSmurfette", 
+                "PrincelyYoungMan", 
+                "BaitAndSwitchLesbians", 
+                "WhiteDwarfStarlet", 
+                "DarkMistress", 
+                "LawmanGoneBad", 
+                "TheGeneralissimo", 
+                "TheMuse", 
+                "PluckyOfficeGirl", 
+                "BashBrothers", 
+                "NeverASelfMadeWoman", 
+                "FauxActionGirl", 
+                "ProperLady", 
+                "ManicPixieDreamGirl", 
+                "TheEvilPrince", 
+                "HighClassCallGirl", 
+                "HandyMan", 
+                "GirlyGirl", 
+                "EvenTheGirlsWantHer", 
+                "OfficerAndAGentleman", 
+                "CrusadingWidower", 
+                "SpicyLatina", 
+                "Tomboy", 
+                "GrandeDame", 
+                "CasanovaWannabe", 
+                "MysticalWaif", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ButterFace", 
+                "GreatWhiteHunter", 
+                "WomanInBlack", 
+                "TheHighQueen"
+            ]
+        ], 
+        [
+            "wonderful", 
+            1, 
+            9.042518987830341, 
+            0.896561205615891, 
+            [
+                "EvilDiva", 
+                "PluckyOfficeGirl"
+            ]
+        ], 
+        [
+            "complex", 
+            1, 
+            8.366158214770323, 
+            0.8295003754487558, 
+            [
+                "MysteriousProtector", 
+                "PluckyOfficeGirl", 
+                "ChivalrousPervert"
+            ]
+        ], 
+        [
+            "expensive", 
+            1, 
+            7.132917038047778, 
+            0.7072251335935191, 
+            [
+                "BespectacledBastardBoyfriend", 
+                "SharpDressedMan", 
+                "PluckyOfficeGirl", 
+                "DistractedByTheLuxury", 
+                "GracefulLadiesLikePurple"
+            ]
+        ], 
+        [
+            "sad", 
+            1, 
+            7.132917038047778, 
+            0.7072251335935191, 
+            [
+                "UnrequitedTragicMaiden", 
+                "BeautyMark", 
+                "PluckyOfficeGirl", 
+                "SculleryMaid", 
+                "TheWomanWearingTheQueenlyMask", 
+                "LonelyDollGirl"
+            ]
+        ], 
+        [
+            "occasional", 
+            1, 
+            6.185492848888557, 
+            0.6132885021741739, 
+            [
+                "JunglePrincess", 
+                "MagicalGirlWarrior", 
+                "PluckyOfficeGirl", 
+                "CrazyCatLady", 
+                "NonActionGuy", 
+                "BlackWidow", 
+                "TheCasanova", 
+                "DirtyOldWoman", 
+                "JewishMother", 
+                "MartyStu"
+            ]
+        ], 
+        [
+            "cynical", 
+            1, 
+            5.843034039726991, 
+            0.5793338836404565, 
+            [
+                "GrandeDame", 
+                "DoggedNiceGuy", 
+                "PluckyOfficeGirl", 
+                "KnightInShiningArmor", 
+                "PrinceCharmingWannabe", 
+                "TheFashionista", 
+                "JadedWashout", 
+                "BaitAndSwitchLesbians", 
+                "LittleMissBadass", 
+                "BrokenBird", 
+                "TheDandy"
+            ]
+        ], 
+        [
+            "second", 
+            1, 
+            5.552527683219024, 
+            0.5505303246343441, 
+            [
+                "UnrequitedTragicMaiden", 
+                "CampGay", 
+                "MysteriousWaif", 
+                "PluckyOfficeGirl", 
+                "MisterSeahorse", 
+                "CosplayOtakuGirl", 
+                "Hackette", 
+                "SissyVillain", 
+                "MagicalSeventhSon", 
+                "BoyBand", 
+                "LadyMacBeth", 
+                "GIRL", 
+                "CockFight", 
+                "Ojou"
+            ]
+        ], 
+        [
+            "successful", 
+            1, 
+            5.552527683219024, 
+            0.5505303246343441, 
+            [
+                "FeminineWomenCanCook", 
+                "ButchLesbian", 
+                "TheWisePrince", 
+                "PluckyOfficeGirl", 
+                "TheFightingNarcissist", 
+                "ALadyOnEachArm", 
+                "StageMom", 
+                "BoyBand", 
+                "AgentPeacock", 
+                "TheCasanova", 
+                "TheVamp", 
+                "BlackWidow"
+            ]
+        ], 
+        [
+            "close", 
+            1, 
+            5.300484649062878, 
+            0.5255403846768787, 
+            [
+                "MadonnaWhoreComplex", 
+                "VainSorceress", 
+                "LadyInWaiting", 
+                "PluckyOfficeGirl", 
+                "MissKitty", 
+                "IceQueen", 
+                "InstantSoprano", 
+                "InnocentFanserviceGirl", 
+                "GentlemanWizard", 
+                "AmazonBrigade", 
+                "SpaceshipGirl", 
+                "MarySue", 
+                "GIRL", 
+                "CockFight", 
+                "MommasBoy", 
+                "MyBelovedSmother"
+            ]
+        ], 
+        [
+            "potential", 
+            1, 
+            5.300484649062878, 
+            0.5255403846768787, 
+            [
+                "Fundoshi", 
+                "OverprotectiveDad", 
+                "GoGetterGirl", 
+                "PluckyOfficeGirl", 
+                "GymBunny", 
+                "UselessBoyfriend", 
+                "WidowWoman", 
+                "SpoiledSweet", 
+                "ProperLady", 
+                "BeautifulAllAlong", 
+                "GIRL", 
+                "MaidenAunt", 
+                "BrokenBird", 
+                "MommasBoy", 
+                "FiremenAreHot", 
+                "DressesGownsAndSkirts"
+            ]
+        ], 
+        [
+            "low", 
+            1, 
+            5.078072059481565, 
+            0.5034882883829653, 
+            [
+                "MafiaPrincess", 
+                "BedlahBabe", 
+                "PluckyOfficeGirl", 
+                "FemmeFatale", 
+                "DumbMuscle", 
+                "GalleySlave", 
+                "CoolOldLady", 
+                "QuintessentialBritishGentleman", 
+                "TopHeavyGuy", 
+                "Samurai", 
+                "TheCharmer", 
+                "DrillSergeantNasty", 
+                "Hobos", 
+                "BassoProfundo", 
+                "CrusadingWidower", 
+                "FinalGirl", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "same", 
+            1, 
+            1.6600843772244511, 
+            0.1645965303110276, 
+            [
+                "OverprotectiveDad", 
+                "ChildSoldiers", 
+                "BeardOfBarbarism", 
+                "Hobos", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "TheBear", 
+                "SpiritedYoungLady", 
+                "TheChiefsDaughter", 
+                "HandsomeDevil", 
+                "TeamMom", 
+                "AlphaBitch", 
+                "TheCasanova", 
+                "BigBeautifulMan", 
+                "HeroicSeductress", 
+                "PoliticallyActivePrincess", 
+                "ArabOilSheikh", 
+                "UselessBoyfriend", 
+                "EverythingsBetterWithPrincesses", 
+                "DirtyCoward", 
+                "TheIngenue", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "GayBravado", 
+                "TheUglyGuysHotDaughter", 
+                "HouseWife", 
+                "WomenDrivers", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "Jailbait", 
+                "MamaBear", 
+                "GossipyHens", 
+                "HugeSchoolgirl", 
+                "AmazonianBeauty", 
+                "TomBoyAndGirlyGirl", 
+                "HouseHusband", 
+                "SchoolgirlLesbians", 
+                "UnluckyEveryDude", 
+                "TheCheerleader", 
+                "AsianAirhead", 
+                "LipstickLesbian", 
+                "MountainMan", 
+                "CoolOldGuy", 
+                "PassionateSportsGirl", 
+                "DisposableSexWorker", 
+                "FilleFatale", 
+                "HelloNurse", 
+                "ThePatriarch", 
+                "ManlyGay", 
+                "SexySecretary", 
+                "MysticalWaif", 
+                "EffeminateMisogynisticGuy", 
+                "ScaryBlackMan", 
+                "PluckyOfficeGirl", 
+                "ALadyOnEachArm", 
+                "CoolBigSis", 
+                "TheBaroness", 
+                "GagPenis", 
+                "BashBrothers", 
+                "Joshikousei", 
+                "TheFlapper", 
+                "SeashellBra", 
+                "BaldBlackLeaderGuy", 
+                "QuicklyDemotedWoman", 
+                "JunglePrincess", 
+                "PrinceCharmless", 
+                "GirlNextDoor", 
+                "MataHari", 
+                "NonActionGuy", 
+                "TheOphelia", 
+                "LovelyAssistant", 
+                "DistressedDude", 
+                "AccidentalPornomancer", 
+                "TheDandy", 
+                "VainSorceress", 
+                "CasanovaWannabe", 
+                "MsFanservice", 
+                "TheMuse", 
+                "HotGypsyWoman", 
+                "AnimeChineseGirl", 
+                "HighHeelFaceTurn", 
+                "DoggedNiceGuy", 
+                "GoGetterGirl", 
+                "NeverASelfMadeWoman", 
+                "TheHecateSisters", 
+                "FauxActionGirl", 
+                "MonogenderMonsters", 
+                "JeanneDArchetype", 
+                "FeminineWomenCanCook", 
+                "MartyStu", 
+                "GamerChick", 
+                "Fratbro", 
+                "DefectingForLove", 
+                "DaddysLittleVillain", 
+                "LittleMissConArtist", 
+                "CockFight", 
+                "HotScientist", 
+                "LesbianJock", 
+                "ChickMagnet", 
+                "AsianBabymama", 
+                "LeatherMan", 
+                "DragonLady", 
+                "MisterSeahorse", 
+                "TheOneGuy", 
+                "JewishMother"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "WinterRoyalLady", 
+            "trope": "PluckyOfficeGirl", 
+            "films": [
+                "BatmanReturns"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomanInBlack", 
+            "trope": "PluckyOfficeGirl", 
+            "films": [
+                "BatmanReturns"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WrenchWench", 
+            "trope": "PluckyOfficeGirl", 
+            "films": [
+                "CuteyHoney"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WhiteHairedPrettyGirl", 
+            "trope": "PluckyOfficeGirl", 
+            "films": [
+                "CuteyHoney"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "PluckyOfficeGirl", 
+            "films": [
+                "BatmanReturns"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SharpDressedMan", 
+            "trope": "PluckyOfficeGirl", 
+            "films": [
+                "BatmanReturns"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Streetwalker", 
+            "trope": "PluckyOfficeGirl", 
+            "films": [
+                "AmericanPsycho"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ShortTank", 
+            "trope": "PluckyOfficeGirl", 
+            "films": [
+                "CuteyHoney"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PsychoLesbian", 
+            "trope": "PluckyOfficeGirl", 
+            "films": [
+                "CuteyHoney"
+            ]
+        }
+    ], 
+    "id": "PluckyOfficeGirl", 
+    "name": "Plucky Office Girl"
+}

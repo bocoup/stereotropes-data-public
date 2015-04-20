@@ -1,0 +1,408 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "Nearly all characters in anime who are otaku are guys, although occasionally a female fan is included. This could be seen as an attempt at fair balance, but it's noticeable that this will inevitably be a specific kind of fan: the Cosplay fan.\nWhile this reflects a very real trend in fandom popular with ladies, it can come off like an excuse to put the resident cute girl of a cast in a variety of fetish outfits for the audience's benefit if done badly. Especially since the second most stereotypical interest of fangirls tends not to appeal to a male audience much.", 
+    "gender": "f", 
+    "adjs": [
+        "noticeable", 
+        "specific", 
+        "real", 
+        "popular", 
+        "fetish"
+    ], 
+    "adjectives": [
+        [
+            "noticeable", 
+            1, 
+            8.978506428534168, 
+            1.0, 
+            [
+                "LittleMissBadass", 
+                "CampGay", 
+                "BlondGuysAreEvil", 
+                "CosplayOtakuGirl", 
+                "LeatherMan"
+            ]
+        ], 
+        [
+            "fetish", 
+            1, 
+            8.645122971492352, 
+            0.9628687176764383, 
+            [
+                "NaughtyNurseOutfit", 
+                "LipstickAndLoadMontage", 
+                "CosplayOtakuGirl", 
+                "PlayboyBunny", 
+                "TheOphelia", 
+                "BigBeautifulWoman"
+            ]
+        ], 
+        [
+            "second", 
+            1, 
+            7.050934564493058, 
+            0.7853126375323201, 
+            [
+                "UnrequitedTragicMaiden", 
+                "CampGay", 
+                "MysteriousWaif", 
+                "PluckyOfficeGirl", 
+                "MisterSeahorse", 
+                "CosplayOtakuGirl", 
+                "Hackette", 
+                "SissyVillain", 
+                "MagicalSeventhSon", 
+                "BoyBand", 
+                "LadyMacBeth", 
+                "GIRL", 
+                "CockFight", 
+                "Ojou"
+            ]
+        ], 
+        [
+            "stereotypical", 
+            1, 
+            6.3672468817095185, 
+            0.7091654867533503, 
+            [
+                "BumblingDad", 
+                "CampGay", 
+                "Fangirl", 
+                "LeatherMan", 
+                "DragonLady", 
+                "CosplayOtakuGirl", 
+                "GoodGirlGoneBad", 
+                "Fratbro", 
+                "FinalGirl", 
+                "MysticalWaif", 
+                "SensitiveGuyAndManlyMan", 
+                "GayCowboy", 
+                "HotWitch", 
+                "PerkyGoth", 
+                "JewishMother", 
+                "DastardlyWhiplash", 
+                "BrawnHilda", 
+                "BasementDweller"
+            ]
+        ], 
+        [
+            "specific", 
+            1, 
+            6.184053324159171, 
+            0.6887619197449057, 
+            [
+                "VainSorceress", 
+                "BastardGirlfriend", 
+                "NoWomansLand", 
+                "DudeLooksLikeALady", 
+                "CrazyCatLady", 
+                "TokenLesbian", 
+                "DragonLady", 
+                "FavorsForTheSexy", 
+                "HugeSchoolgirl", 
+                "BoyBand", 
+                "UnisexTropes", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "Samurai", 
+                "GirlyGirl", 
+                "SweetPollyOliver", 
+                "DrillSergeantNasty", 
+                "Bishonen", 
+                "SexyStewardess", 
+                "KnightErrant", 
+                "DastardlyWhiplash", 
+                "CosplayOtakuGirl"
+            ]
+        ], 
+        [
+            "real", 
+            1, 
+            3.769323168535335, 
+            0.41981627997238236, 
+            [
+                "TheLadysFavour", 
+                "ChildSoldiers", 
+                "InnocentFlowerGirl", 
+                "GranolaGirl", 
+                "WickedStepmother", 
+                "OldSchoolChivalry", 
+                "HumanoidFemaleAnimal", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "HouseHusband", 
+                "MarySue", 
+                "PrettyBoy", 
+                "MasculinityTropes", 
+                "ActionMom", 
+                "TheMuse", 
+                "WorldsMostBeautifulWoman", 
+                "GoGetterGirl", 
+                "LittleSisterHeroine", 
+                "CampStraight", 
+                "WeirdBeard", 
+                "ActionGirlFriend", 
+                "SchoolgirlLesbians", 
+                "GrandeDame", 
+                "BattleaxeNurse", 
+                "ManInAKilt", 
+                "ShelteredAristocrat", 
+                "FauxActionGirl", 
+                "LittleMissConArtist", 
+                "GreenSkinnedSpaceBabe", 
+                "MommasBoy", 
+                "BasementDweller", 
+                "FeminineWomenCanCook", 
+                "OfficeLady", 
+                "BastardGirlfriend", 
+                "BlackWidow", 
+                "ValleyGirl", 
+                "CosplayOtakuGirl", 
+                "BridgeBunnies", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold", 
+                "MilesGloriosus", 
+                "Fangirl", 
+                "GodSaveUsFromTheQueen", 
+                "FilleFatale", 
+                "HenpeckedHusband", 
+                "TheButcher", 
+                "Fratbro", 
+                "Tomboy", 
+                "SenseiChan", 
+                "ButchLesbian", 
+                "MsFanservice", 
+                "TheSquadette", 
+                "DadTheVeteran", 
+                "MisterSeahorse", 
+                "EverythingsBetterWithPrincesses", 
+                "NaughtyNuns", 
+                "SpoiledSweet", 
+                "SexyManInstantHarem", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "LipstickLesbian", 
+                "LadyMacBeth", 
+                "DumbassTeenageSon", 
+                "LonelyDollGirl", 
+                "DarkMagicalGirl", 
+                "LadyKillerInLove", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "popular", 
+            1, 
+            3.631078452672839, 
+            0.40441898455772995, 
+            [
+                "PerkyGoth", 
+                "AngryBlackMan", 
+                "LovableAlphaBitch", 
+                "IdolSinger", 
+                "NerdNanny", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "TomBoyAndGirlyGirl", 
+                "EarthMother", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "YamatoNadeshiko", 
+                "MarySue", 
+                "HotScoop", 
+                "DirtyOldWoman", 
+                "StringyHairedGhostGirl", 
+                "GirlGroup", 
+                "SpiritedYoungLady", 
+                "WomenDrivers", 
+                "HotScientist", 
+                "LittleSisterHeroine", 
+                "GirlPosse", 
+                "AlphaBitch", 
+                "TheFlapper", 
+                "MagicalGirlfriend", 
+                "BaldBlackLeaderGuy", 
+                "NaiveEverygirl", 
+                "ActionGirl", 
+                "BadassPrincess", 
+                "BeautyBrainsAndBrawn", 
+                "SexyStewardess", 
+                "MenCantKeepHouse", 
+                "JerkJock", 
+                "BespectacledBastardBoyfriend", 
+                "MorallyBankruptBanker", 
+                "CosplayOtakuGirl", 
+                "GracefulLadiesLikePurple", 
+                "Samurai", 
+                "DamselInDistress", 
+                "SweetPollyOliver", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "CuteSportsClubManager", 
+                "StoutStrength", 
+                "TheIngenue", 
+                "Fratbro", 
+                "Tomboy", 
+                "VainSorceress", 
+                "BigManOnCampus", 
+                "LesbianVampire", 
+                "BarbaricBully", 
+                "Ladyella", 
+                "LittleDeadRidingHood", 
+                "FavorsForTheSexy", 
+                "BattleaxeNurse", 
+                "DarkActionGirl", 
+                "RobotGirl", 
+                "SpoiledSweet", 
+                "Joshikousei", 
+                "ProperLady", 
+                "AsianAirhead", 
+                "HotGypsyWoman", 
+                "Bishonen", 
+                "FragileFlower", 
+                "Meganekko", 
+                "TokenYuriGirls", 
+                "GrumpyOldMan"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/CosplayOtakuGirl.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "WalkingShirtlessScene", 
+            "trope": "CosplayOtakuGirl", 
+            "films": [
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GirlishPigtails", 
+            "trope": "CosplayOtakuGirl", 
+            "films": [
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TeamMom", 
+            "trope": "CosplayOtakuGirl", 
+            "films": [
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HighHeelFaceTurn", 
+            "trope": "CosplayOtakuGirl", 
+            "films": [
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GirlWithPsychoWeapon", 
+            "trope": "CosplayOtakuGirl", 
+            "films": [
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheTease", 
+            "trope": "CosplayOtakuGirl", 
+            "films": [
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SmittenTeenageGirl", 
+            "trope": "CosplayOtakuGirl", 
+            "films": [
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TopHeavyGuy", 
+            "trope": "CosplayOtakuGirl", 
+            "films": [
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NaughtyNurseOutfit", 
+            "trope": "CosplayOtakuGirl", 
+            "films": [
+                "FairyTail"
+            ]
+        }
+    ], 
+    "id": "CosplayOtakuGirl", 
+    "name": "Cosplay Otaku Girl"
+}

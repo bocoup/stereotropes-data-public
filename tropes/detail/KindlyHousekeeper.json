@@ -1,0 +1,285 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            4, 
+            0.036036036036036036, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            5, 
+            0.022222222222222223, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            5, 
+            0.005649717514124294, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "You know this lady. She's portly or Hollywood Pudgy, perpetually smiling and always ready to do what you need her to do\u2014-she's always there should you need someone to take out the trash, do the laundry, or be a shoulder to cry on. She'll always have a nice breakfast for you ready in the morning, and will take your coat for you once you come back home. She's the Kindly Housekeeper.\nSuch ladies can be a Parental Substitute to the children\u2014if there are any\u2014to substitute for the Disappeared Dad or the Missing Mom (usually the latter since housekeepers are traditionally women). She will also often play Team Mom to the other servants. Can be a Supreme Chef considering that it's all part of the job, or an Apron Matron. In the latter case she may also be a Servile Snarker to verbally whip others.\nProbably not an Old Retainer, since she usually does not have a high regard for doing things the Proper Way.\nContrast Creepy Housekeeper. Compare Mammy.", 
+    "gender": "f", 
+    "adjs": [
+        "ready", 
+        "nice", 
+        "children\u2014if", 
+        "any\u2014to", 
+        "high"
+    ], 
+    "adjectives": [
+        [
+            "any\u2014to", 
+            1, 
+            12.2786918096927, 
+            1.0, 
+            [
+                "KindlyHousekeeper"
+            ]
+        ], 
+        [
+            "children\u2014if", 
+            1, 
+            12.2786918096927, 
+            1.0, 
+            [
+                "KindlyHousekeeper"
+            ]
+        ], 
+        [
+            "ready", 
+            1, 
+            9.648862184260352, 
+            0.7858216765929101, 
+            [
+                "RebelPrince", 
+                "TomboyWithAGirlyStreak", 
+                "LadyInRed", 
+                "FragileFlower", 
+                "KindlyHousekeeper"
+            ]
+        ], 
+        [
+            "nice", 
+            1, 
+            5.6431036531180405, 
+            0.45958508777485724, 
+            [
+                "Socialite", 
+                "LovableAlphaBitch", 
+                "LittleOldLadyInvestigates", 
+                "NiceJewishBoy", 
+                "KindlyHousekeeper", 
+                "CoolBigSis", 
+                "BlondeRepublicanSexKitten", 
+                "DistractedByTheLuxury", 
+                "CulturedBadass", 
+                "BlondGuysAreEvil", 
+                "WickedWitch", 
+                "TheCutie", 
+                "MisplacedKindergartenTeacher", 
+                "JerkJock", 
+                "ManInWhite", 
+                "OfficeLady", 
+                "BeautifulAllAlong", 
+                "SmittenTeenageGirl", 
+                "TheChick", 
+                "MsFanservice", 
+                "TheUglyGuysHotDaughter", 
+                "GoodGirlGoneBad", 
+                "OneOfTheBoys", 
+                "SpoiledSweet", 
+                "StatuesqueStunner", 
+                "JewishMother", 
+                "DressesGownsAndSkirts"
+            ]
+        ], 
+        [
+            "high", 
+            1, 
+            4.669926460080249, 
+            0.3803276873839155, 
+            [
+                "Socialite", 
+                "WalkingShirtlessScene", 
+                "HeroicSeductress", 
+                "PrincelyYoungMan", 
+                "DarkMistress", 
+                "MegaTwintails", 
+                "HugeSchoolgirl", 
+                "DirtyOldMan", 
+                "FemininityFailure", 
+                "FemaleMisogynist", 
+                "CatholicSchoolGirlsRule", 
+                "MagicalGirl", 
+                "GossipyHens", 
+                "Ojou", 
+                "PlayboyBunny", 
+                "AnimeChineseGirl", 
+                "BastardGirlfriend", 
+                "KnightInShiningArmor", 
+                "InstantSoprano", 
+                "WomenDrivers", 
+                "BlondeRepublicanSexKitten", 
+                "ALadyOnEachArm", 
+                "BespectacledBastardBoyfriend", 
+                "TheFightingNarcissist", 
+                "AlphaBitch", 
+                "GirlNextDoor", 
+                "ProperLady", 
+                "FinalGirl", 
+                "WomanScorned", 
+                "ManicPixieDreamGirl", 
+                "TheEvilPrince", 
+                "Joshikousei", 
+                "GamerChick", 
+                "PrinceCharmless", 
+                "TheChanteuse", 
+                "ButchLesbian", 
+                "GracefulLadiesLikePurple", 
+                "MataHari", 
+                "Samurai", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "PregnantHostage", 
+                "EvenTheGirlsWantHer", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "GirlishPigtails", 
+                "GoGetterGirl", 
+                "DirtyHarriet", 
+                "VainSorceress", 
+                "BarbaricBully", 
+                "LadyOfAdventure", 
+                "KindlyHousekeeper", 
+                "KidAnova", 
+                "BastardBastard", 
+                "UncannyValleyGirl", 
+                "GirlPosse", 
+                "LipstickLesbian", 
+                "HighSchoolHustler", 
+                "TheHighQueen"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "OverprotectiveDad", 
+            "trope": "KindlyHousekeeper", 
+            "films": [
+                "ToKillAMockingbird"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MisplacedKindergartenTeacher", 
+            "trope": "KindlyHousekeeper", 
+            "films": [
+                "ToKillAMockingbird"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SexyManInstantHarem", 
+            "trope": "KindlyHousekeeper", 
+            "films": [
+                "BeautyAndTheBeast"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StandardFiftiesFather", 
+            "trope": "KindlyHousekeeper", 
+            "films": [
+                "ItsAWonderfulLife"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PapaWolf", 
+            "trope": "KindlyHousekeeper", 
+            "films": [
+                "ToKillAMockingbird"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpiritedYoungLady", 
+            "trope": "KindlyHousekeeper", 
+            "films": [
+                "BeautyAndTheBeast"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "RichBitch", 
+            "trope": "KindlyHousekeeper", 
+            "films": [
+                "TheParentTrap"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SassyBlackWoman", 
+            "trope": "KindlyHousekeeper", 
+            "films": [
+                "ItsAWonderfulLife"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Tomboy", 
+            "trope": "KindlyHousekeeper", 
+            "films": [
+                "ToKillAMockingbird"
+            ]
+        }
+    ], 
+    "id": "KindlyHousekeeper", 
+    "name": "Kindly Housekeeper"
+}

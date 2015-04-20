@@ -1,0 +1,566 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            1, 
+            0.016666666666666666, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            3, 
+            0.017045454545454544, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            7, 
+            0.023178807947019868, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            7, 
+            0.01192504258943782, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            14, 
+            0.015819209039548022, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            7, 
+            0.012302284710017574, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            13, 
+            0.020123839009287926, 
+            646
+        ]
+    ], 
+    "description": "The tendency for strength and intellect to be inversely proportional. The Big Guy and The Brute are usually slightly dim at the very least (with The Smart Guy and The Evil Genius at the opposite end of the scale). Typically afflicted with a form of Hulk Speak. This is a common assumption: there's a reason Genius Bruiser is meant to be a shocker. Overlaps with Gentle Giant in some cases, as well as Tiny-Headed Behemoth. A subtrope of Personality Powers. Often Played for Laughs.\nAlmost Always Male; only in ultra-rare cases will you see very strong female characters be portrayed as lacking in brains. He might be only Book Dumb but Street Smart. Note that this also does not always apply to tactics; a character with this trope might know how to use every weapon he picks up, but if that is true, he will still lack intelligence outside that specialty.\nCompare Smash Mook. Contrast the Genius Bruiser and the Badass Bookworm. These types are frequently, but not always, a Top-Heavy Guy.\nIt is not good to call someone dumb, therefore No Real Life Examples, Please!. It is sufficient to say that strong goons with low IQ do exist, so it is Truth in Television.", 
+    "gender": "m", 
+    "adjs": [
+        "dim", 
+        "opposite", 
+        "meant", 
+        "tiny-headed", 
+        "ultra-rare"
+    ], 
+    "adjectives": [
+        [
+            "tiny-headed", 
+            1, 
+            10.37111942664498, 
+            1.0, 
+            [
+                "DumbMuscle"
+            ]
+        ], 
+        [
+            "ultra-rare", 
+            1, 
+            10.37111942664498, 
+            1.0, 
+            [
+                "DumbMuscle"
+            ]
+        ], 
+        [
+            "dim", 
+            1, 
+            9.327427432300343, 
+            0.8993655408438134, 
+            [
+                "DarkMagicalGirl", 
+                "DumbMuscle"
+            ]
+        ], 
+        [
+            "top-heavy", 
+            1, 
+            9.327427432300343, 
+            0.8993655408438134, 
+            [
+                "KickChick", 
+                "DumbMuscle"
+            ]
+        ], 
+        [
+            "strong", 
+            2, 
+            9.10743840121865, 
+            0.878153844976489, 
+            [
+                "AmazonChaser", 
+                "ChildSoldiers", 
+                "DumbMuscle", 
+                "LadyInRed", 
+                "EmotionlessGirl", 
+                "PrettyBoy", 
+                "SchoolgirlLesbians", 
+                "PapaWolf", 
+                "FeminineWomenCanCook", 
+                "GaussianGirl", 
+                "GoGetterGirl", 
+                "TheCheerleader", 
+                "Beastess", 
+                "LittleDeadRidingHood", 
+                "TheSlacker", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "FauxActionGirl", 
+                "TheGambler", 
+                "CuteMonsterGirl", 
+                "HerosMuse", 
+                "BaldBlackLeaderGuy", 
+                "ProperLady", 
+                "JunglePrincess", 
+                "TheEvilPrince", 
+                "BoobsOfSteel", 
+                "JerkJock", 
+                "HotMenAtWork", 
+                "BespectacledBastardBoyfriend", 
+                "HandyMan", 
+                "MountainMan", 
+                "HardDrinkingPartyGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "SensitiveGuyAndManlyMan", 
+                "ScaryBlackMan", 
+                "StoutStrength", 
+                "PerkyGoth", 
+                "DamselInDistress", 
+                "VainSorceress", 
+                "ExtraordinarilyEmpoweredGirl", 
+                "ManlyGay", 
+                "MysticalWaif", 
+                "Chickification", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ShirtlessScene", 
+                "SissyVillain", 
+                "BrawnHilda", 
+                "GirlsWithGuns", 
+                "PluckyGirl", 
+                "AsianHookerStereotype", 
+                "PecFlex"
+            ]
+        ], 
+        [
+            "sufficient", 
+            1, 
+            7.748190815226936, 
+            0.7470930086216785, 
+            [
+                "PerkyGoth", 
+                "MarySue", 
+                "JerkJock", 
+                "WickedStepmother", 
+                "DumbMuscle"
+            ]
+        ], 
+        [
+            "exist", 
+            1, 
+            7.132211327888518, 
+            0.6876992766629206, 
+            [
+                "GentlemanThief", 
+                "DoggedNiceGuy", 
+                "AlphaBitch", 
+                "DumbMuscle", 
+                "WickedStepmother", 
+                "Fangirl", 
+                "FanserviceExtra"
+            ]
+        ], 
+        [
+            "meant", 
+            1, 
+            5.972437731870968, 
+            0.5758720429471545, 
+            [
+                "SchoolgirlLesbians", 
+                "TheEvilPrince", 
+                "PsychoLesbian", 
+                "GamerChick", 
+                "DumbMuscle", 
+                "TheBaroness", 
+                "MorallyBankruptBanker", 
+                "HelloNurse", 
+                "SexyManInstantHarem", 
+                "MarySue", 
+                "WickedWitch", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "low", 
+            1, 
+            5.356083208957737, 
+            0.5164421494556457, 
+            [
+                "MafiaPrincess", 
+                "BedlahBabe", 
+                "PluckyOfficeGirl", 
+                "FemmeFatale", 
+                "DumbMuscle", 
+                "GalleySlave", 
+                "CoolOldLady", 
+                "QuintessentialBritishGentleman", 
+                "TopHeavyGuy", 
+                "Samurai", 
+                "TheCharmer", 
+                "DrillSergeantNasty", 
+                "Hobos", 
+                "BassoProfundo", 
+                "CrusadingWidower", 
+                "FinalGirl", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "opposite", 
+            1, 
+            4.659644691379498, 
+            0.4492904285151864, 
+            [
+                "DumbMuscle", 
+                "CampGay", 
+                "BlondGuysAreEvil", 
+                "BlondeRepublicanSexKitten", 
+                "SouthernGentleman", 
+                "PrinceCharmless", 
+                "TheCasanova", 
+                "TheDandy", 
+                "GentlemanThief", 
+                "ClassyCatBurglar", 
+                "BespectacledBastardBoyfriend", 
+                "DaddysGirl", 
+                "QuintessentialBritishGentleman", 
+                "SensitiveGuyAndManlyMan", 
+                "MyBelovedSmother", 
+                "ButchLesbian", 
+                "TheWisePrince", 
+                "ManlyGay", 
+                "BarbaricBully", 
+                "GymBunny", 
+                "TheMuse", 
+                "ButterFace", 
+                "LipstickLesbian", 
+                "GenderInvertedTrope", 
+                "BrawnHilda"
+            ]
+        ], 
+        [
+            "true", 
+            1, 
+            3.6733564612946488, 
+            0.354190932548442, 
+            [
+                "OutdoorsyGal", 
+                "YamatoNadeshiko", 
+                "FemmeFatale", 
+                "DumbMuscle", 
+                "LovelyAssistant", 
+                "TheTease", 
+                "GIRL", 
+                "DistractedByTheLuxury", 
+                "BeautyMark", 
+                "GoGetterGirl", 
+                "MysteriousProtector", 
+                "WidowWitch", 
+                "TheFakeCutie", 
+                "FauxActionGirl", 
+                "MagicalGirlfriend", 
+                "ActionGirl", 
+                "TheEvilPrince", 
+                "BigBeautifulMan", 
+                "DeliberatelyDistressedDamsel", 
+                "NoWomansLand", 
+                "MissKitty", 
+                "TheChanteuse", 
+                "EverythingsBetterWithPrincesses", 
+                "HookerWithAHeartOfGold", 
+                "Fangirl", 
+                "DirtyCoward", 
+                "FilleFatale", 
+                "SchoolMarm", 
+                "WickedWitch", 
+                "Gayngster", 
+                "VainSorceress", 
+                "EstrogenBrigade", 
+                "BarbaricBully", 
+                "PrinceCharming", 
+                "HotScoop", 
+                "SculleryMaid", 
+                "ProperLady", 
+                "GodSaveUsFromTheQueen", 
+                "TheChick", 
+                "AsianHookerStereotype"
+            ]
+        ], 
+        [
+            "good", 
+            1, 
+            1.2296626483093864, 
+            0.11856604843930313, 
+            [
+                "OutdoorsyGal", 
+                "ChildSoldiers", 
+                "BeardOfBarbarism", 
+                "AdrenalineMakeover", 
+                "KickingAssInAllHerFinery", 
+                "LovelyAssistant", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "EducationMama", 
+                "DisguisedInDrag", 
+                "KnightInShiningArmor", 
+                "SpiritedYoungLady", 
+                "ManInAKilt", 
+                "AgentPeacock", 
+                "MagicalGirlfriend", 
+                "HuskyRusskie", 
+                "TheGoodKing", 
+                "TheLoinsSleepTonight", 
+                "TheEvilPrince", 
+                "TomboyWithAGirlyStreak", 
+                "HeroicSeductress", 
+                "ManInWhite", 
+                "BathingBeauty", 
+                "HandyMan", 
+                "EverythingsBetterWithPrincesses", 
+                "MilesGloriosus", 
+                "DirtyCoward", 
+                "NeutralFemale", 
+                "StoutStrength", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "DirtyHarriet", 
+                "NubileSavage", 
+                "KavorkaMan", 
+                "BlackBossLady", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ProperLady", 
+                "DarkMagicalGirl", 
+                "WizardBeard", 
+                "MadScientistsBeautifulDaughter", 
+                "DumbMuscle", 
+                "DirtyOldMan", 
+                "HouseHusband", 
+                "TheCheerleader", 
+                "GodSaveUsFromTheQueen", 
+                "BeardOfEvil", 
+                "AsianAirhead", 
+                "LadyInRed", 
+                "HighClassCallGirl", 
+                "GentlemanWizard", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "MagicIdolSinger", 
+                "OfficerAndAGentleman", 
+                "BeautifulAllAlong", 
+                "BrokenBird", 
+                "SassyBlackWoman", 
+                "TheWisePrince", 
+                "GymBunny", 
+                "PerkyFemaleMinion", 
+                "CoolOldLady", 
+                "UncannyValleyGirl", 
+                "StageMom", 
+                "GoodBadGirl", 
+                "WinterRoyalLady", 
+                "LawmanGoneBad", 
+                "LadyMacBeth", 
+                "TheVamp", 
+                "MadonnaWhoreComplex", 
+                "TheBaroness", 
+                "GamblerGroupies", 
+                "HotScientist", 
+                "PrincessClassic", 
+                "HardDrinkingPartyGirl", 
+                "SeashellBra", 
+                "BaldBlackLeaderGuy", 
+                "TakingTheVeil", 
+                "GentlemanThief", 
+                "ClassyCatBurglar", 
+                "GirlNextDoor", 
+                "DecoyDamsel", 
+                "QuintessentialBritishGentleman", 
+                "HookerWithAHeartOfGold", 
+                "TheOphelia", 
+                "Hobos", 
+                "CrusadingWidower", 
+                "TheButcher", 
+                "AccidentalPornomancer", 
+                "TheDandy", 
+                "VainSorceress", 
+                "BigManOnCampus", 
+                "MachoMasochism", 
+                "GoodGirlGoneBad", 
+                "HotScoop", 
+                "TheMuse", 
+                "SwingLowSweetHarriet", 
+                "BattleaxeNurse", 
+                "HighSchoolHustler", 
+                "LightFeminineAndDarkFeminine", 
+                "MaidenAunt", 
+                "YamatoNadeshiko", 
+                "TheLadysFavour", 
+                "FemmeFatale", 
+                "HighHeelFaceTurn", 
+                "CampGay", 
+                "BlondeRepublicanSexKitten", 
+                "MonogenderMonsters", 
+                "ShelteredAristocrat", 
+                "TheGambler", 
+                "StatuesqueStunner", 
+                "NobleMaleRoguishMale", 
+                "PregnantHostage", 
+                "SoapBoxSadie", 
+                "Streetwalker", 
+                "ChivalrousPervert", 
+                "GrannyClassic", 
+                "MorallyBankruptBanker", 
+                "ValleyGirl", 
+                "MataHari", 
+                "WorldsMostBeautifulWoman", 
+                "GrumpyOldMan", 
+                "DefectingForLove", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "WickedWitch", 
+                "RebelPrince", 
+                "GrandeDame", 
+                "MysteriousWaif", 
+                "StumblingUponTheLostWizard", 
+                "DarkActionGirl", 
+                "BastardBastard", 
+                "ButterFace", 
+                "AbsentMindedProfessor", 
+                "JewishMother", 
+                "DamselInDistress"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/DumbMuscle.png", 
+    "similar": [
+        {
+            "count": 5, 
+            "related_trope": "MsFanservice", 
+            "trope": "DumbMuscle", 
+            "films": [
+                "AFishCalledWanda", 
+                "ItsAMadMadMadMadWorld", 
+                "Comic8", 
+                "VarsityBlues", 
+                "ParaNorman"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "ShirtlessScene", 
+            "trope": "DumbMuscle", 
+            "films": [
+                "StreetFighter", 
+                "XMenOriginsWolverine", 
+                "TheGamers", 
+                "DoubleImpact"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "PapaWolf", 
+            "trope": "DumbMuscle", 
+            "films": [
+                "Hercules", 
+                "TheCroods", 
+                "HowToTrainYourDragon"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "SensitiveGuyAndManlyMan", 
+            "trope": "DumbMuscle", 
+            "films": [
+                "StreetFighter", 
+                "TwentyOneJumpStreet", 
+                "EscapeFromPlanetEarth"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "DumbMuscle", 
+            "films": [
+                "TheLongestYard", 
+                "StreetFighter", 
+                "OliverAndCompany"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "EstrogenBrigade", 
+            "trope": "DumbMuscle", 
+            "films": [
+                "Hercules", 
+                "StreetFighter", 
+                "Transformers"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "SassyBlackWoman", 
+            "trope": "DumbMuscle", 
+            "films": [
+                "Hercules", 
+                "Transformers", 
+                "TwentyOneJumpStreet"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "MrFanservice", 
+            "trope": "DumbMuscle", 
+            "films": [
+                "TheCroods", 
+                "ParaNorman", 
+                "TeenageMutantNinjaTurtles"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "MommasBoy", 
+            "trope": "DumbMuscle", 
+            "films": [
+                "ItsAMadMadMadMadWorld", 
+                "EscapeFromPlanetEarth"
+            ]
+        }
+    ], 
+    "id": "DumbMuscle", 
+    "name": "Dumb Muscle"
+}

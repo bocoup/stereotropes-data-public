@@ -1,0 +1,417 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            3, 
+            0.05, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            3, 
+            0.02702702702702703, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            5, 
+            0.028409090909090908, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            7, 
+            0.03111111111111111, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            10, 
+            0.017035775127768313, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            19, 
+            0.021468926553672316, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            14, 
+            0.02460456942003515, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            30, 
+            0.04643962848297214, 
+            646
+        ]
+    ], 
+    "description": "Plucky means 'brave and optimistic'.\nYou might be able to pile life complications onto this young woman/girl, to the point where the audience would forgive her if she just refused to go on. She might even have an episode or so where she does throw in the towel, because human beings can only take so much of what the universe is handing out for her. But the Plucky Girl always comes back. That's the bravery part.\nThe optimistic part is the rest of it. This character leans toward the sane version of The Pollyanna, blending the agency of the Action Girl with the sweetness and wise charm of the Spirited Young Lady, while exhibiting a strong sense of optimism and an unassailable spirit that differentiates her from the grimness of a Determinator. You can beat her, but damned if she'll let you break her.\nMale versions exist, but they tend to be closer to Determinator territory instead, because men always have to be MANLY.\n\nExamples", 
+    "gender": "f", 
+    "adjs": [
+        "brave", 
+        "able", 
+        "young", 
+        "human", 
+        "optimistic"
+    ], 
+    "adjectives": [
+        [
+            "optimistic", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "PluckyGirl"
+            ]
+        ], 
+        [
+            "unassailable", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "PluckyGirl"
+            ]
+        ], 
+        [
+            "brave", 
+            1, 
+            9.379706206947688, 
+            0.8081348482584911, 
+            [
+                "BirthTropes", 
+                "PluckyGirl", 
+                "MilesGloriosus", 
+                "DirtyCoward"
+            ]
+        ], 
+        [
+            "human", 
+            1, 
+            6.184053324159171, 
+            0.5328044273966738, 
+            [
+                "LesbianVampire", 
+                "InnocentFlowerGirl", 
+                "TheHecateSisters", 
+                "CrazyCatLady", 
+                "EvilMatriarch", 
+                "Keet", 
+                "MisterSeahorse", 
+                "InnocentFanserviceGirl", 
+                "SpaceshipGirl", 
+                "TopHeavyGuy", 
+                "ShirtlessScene", 
+                "UncannyValleyGirl", 
+                "SweetPollyOliver", 
+                "AlphaBitch", 
+                "MagicalGirlfriend", 
+                "CuteMonsterGirl", 
+                "EmotionlessGirl", 
+                "GreenSkinnedSpaceBabe", 
+                "CrusadingWidower", 
+                "PluckyGirl", 
+                "TheGeneralissimo"
+            ]
+        ], 
+        [
+            "able", 
+            1, 
+            5.862790492418474, 
+            0.5051251287009902, 
+            [
+                "TerritorialSmurfette", 
+                "LittleRedFightingHood", 
+                "KickingAssInAllHerFinery", 
+                "TomBoyAndGirlyGirl", 
+                "BoyBand", 
+                "GoGetterGirl", 
+                "TheChiefsDaughter", 
+                "GagPenis", 
+                "HerosMuse", 
+                "ActionGirl", 
+                "FeminineWomenCanCook", 
+                "LadyInRed", 
+                "BeardnessProtectionProgram", 
+                "NaginatasAreFeminine", 
+                "TheSlacker", 
+                "MrFixit", 
+                "GentlemanWizard", 
+                "GrumpyOldMan", 
+                "SpicyLatina", 
+                "DirtyHarriet", 
+                "MisterSeahorse", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "BassoProfundo", 
+                "PluckyGirl"
+            ]
+        ], 
+        [
+            "strong", 
+            1, 
+            4.428026578177664, 
+            0.38150902681680654, 
+            [
+                "AmazonChaser", 
+                "ChildSoldiers", 
+                "DumbMuscle", 
+                "LadyInRed", 
+                "EmotionlessGirl", 
+                "PrettyBoy", 
+                "SchoolgirlLesbians", 
+                "PapaWolf", 
+                "FeminineWomenCanCook", 
+                "GaussianGirl", 
+                "GoGetterGirl", 
+                "TheCheerleader", 
+                "Beastess", 
+                "LittleDeadRidingHood", 
+                "TheSlacker", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "FauxActionGirl", 
+                "TheGambler", 
+                "CuteMonsterGirl", 
+                "HerosMuse", 
+                "BaldBlackLeaderGuy", 
+                "ProperLady", 
+                "JunglePrincess", 
+                "TheEvilPrince", 
+                "BoobsOfSteel", 
+                "JerkJock", 
+                "HotMenAtWork", 
+                "BespectacledBastardBoyfriend", 
+                "HandyMan", 
+                "MountainMan", 
+                "HardDrinkingPartyGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "SensitiveGuyAndManlyMan", 
+                "ScaryBlackMan", 
+                "StoutStrength", 
+                "PerkyGoth", 
+                "DamselInDistress", 
+                "VainSorceress", 
+                "ExtraordinarilyEmpoweredGirl", 
+                "ManlyGay", 
+                "MysticalWaif", 
+                "Chickification", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ShirtlessScene", 
+                "SissyVillain", 
+                "BrawnHilda", 
+                "GirlsWithGuns", 
+                "PluckyGirl", 
+                "AsianHookerStereotype", 
+                "PecFlex"
+            ]
+        ], 
+        [
+            "young", 
+            1, 
+            3.1504900169780807, 
+            0.27143928771719916, 
+            [
+                "OverprotectiveDad", 
+                "WomanInWhite", 
+                "MamaBear", 
+                "TheLadette", 
+                "GranolaGirl", 
+                "PrincelyYoungMan", 
+                "BaitAndSwitchLesbians", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "CuteSportsClubManager", 
+                "CollegeWidow", 
+                "MrsRobinson", 
+                "CoolBigSis", 
+                "EmotionlessGirl", 
+                "MatronChaperone", 
+                "SchoolgirlLesbians", 
+                "Ojou", 
+                "StringyHairedGhostGirl", 
+                "GoGetterGirl", 
+                "TheSquadette", 
+                "NaginatasAreFeminine", 
+                "LittleMissAlmighty", 
+                "WickedWitch", 
+                "MataHari", 
+                "NinjaMaid", 
+                "SmittenTeenageGirl", 
+                "TheHecateSisters", 
+                "TheFlapper", 
+                "MaidenAunt", 
+                "DeterminedWidow", 
+                "JeanneDArchetype", 
+                "MommasBoy", 
+                "GirlsLoveStuffedAnimals", 
+                "PirateGirl", 
+                "JunglePrincess", 
+                "NubileSavage", 
+                "BastardGirlfriend", 
+                "ShortTank", 
+                "OfficeLady", 
+                "GrannyClassic", 
+                "Kawaiiko", 
+                "VainSorceress", 
+                "GracefulLadiesLikePurple", 
+                "GrandeDame", 
+                "BridgeBunnies", 
+                "Meido", 
+                "EverythingsBetterWithPrincesses", 
+                "OneeSama", 
+                "Hunk", 
+                "GrumpyOldMan", 
+                "HotWitch", 
+                "TheOphelia", 
+                "FilleFatale", 
+                "TheWomanWearingTheQueenlyMask", 
+                "TheIngenue", 
+                "SchoolMarm", 
+                "GirlishPigtails", 
+                "Fratbro", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "SenseiChan", 
+                "YaoiGuys", 
+                "TinyTyrannicalGirl", 
+                "MysteriousWaif", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "NaiveEverygirl", 
+                "PrinceCharming", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HotScientist", 
+                "KidAnova", 
+                "PapaWolf", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "BrawnHilda", 
+                "LittleMissBadass", 
+                "MagicIdolSinger", 
+                "PetitePride", 
+                "DarkMagicalGirl", 
+                "PluckyGirl", 
+                "SexyPriest", 
+                "SweetPollyOliver"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/PluckyGirl.jpg", 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "TheChick", 
+            "trope": "PluckyGirl", 
+            "films": [
+                "Epic", 
+                "Ironclad", 
+                "RiseOfTheGuardians", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "TheBaroness", 
+            "trope": "PluckyGirl", 
+            "films": [
+                "Transformers", 
+                "FullmetalAlchemist", 
+                "StarWarsTheCloneWars", 
+                "Matilda"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "PluckyGirl", 
+            "films": [
+                "TheLionKing", 
+                "StreetFighter", 
+                "KickAss", 
+                "Kick-Ass"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "Tomboy", 
+            "trope": "PluckyGirl", 
+            "films": [
+                "KickAss", 
+                "LittleGiants", 
+                "TheTwilightSamurai", 
+                "Kick-Ass"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TheGoodKing", 
+            "trope": "PluckyGirl", 
+            "films": [
+                "TheLionKing", 
+                "Brave", 
+                "TheChroniclesOfNarnia"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TheCasanova", 
+            "trope": "PluckyGirl", 
+            "films": [
+                "FullmetalAlchemist", 
+                "ThoroughlyModernMillie", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "StatuesqueStunner", 
+            "trope": "PluckyGirl", 
+            "films": [
+                "StreetFighter", 
+                "AliceInWonderland", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TeamMom", 
+            "trope": "PluckyGirl", 
+            "films": [
+                "PeterPan", 
+                "TheChroniclesOfNarnia", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "RichBitch", 
+            "trope": "PluckyGirl", 
+            "films": [
+                "EllaEnchanted", 
+                "ALittlePrincess", 
+                "ThoroughlyModernMillie"
+            ]
+        }
+    ], 
+    "id": "PluckyGirl", 
+    "name": "Plucky Girl"
+}

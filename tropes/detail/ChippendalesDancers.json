@@ -1,0 +1,305 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            3, 
+            0.005110732538330494, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            1, 
+            0.0011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "Chippendales note\u00a0(founded by Somen \"Steve\" Banerjee, who died October 23, 1994) is a club known for pretty much one thing: attractive men who strip, dance and perform stage shows for female-only audiences, not necessarily in that order. The club is more or less synonymous with 'male strippers', although its intention is to be more than just strippers, instead 'fulfilling women's fantasies' on the whole.\nSome might consider this to be the Spear Counterpart to the Playboy Bunny.\nProbably the most iconic thing to come from Chippendales would be the variety of fanservice-y outfits. Indeed, the most common reference to Chippendales is the dancers' costumes. For a visual reference, please do a Net image search on patrick swayze chippendales.\nNot to be confused with the Disney characters Chip and Dale, nor with the English furniture maker Thomas Chippendale (or Chairface Chippendale, for that matter).", 
+    "gender": "m", 
+    "adjs": [
+        "attractive", 
+        "female-only", 
+        "synonymous", 
+        "fulfilling", 
+        "iconic"
+    ], 
+    "adjectives": [
+        [
+            "female-only", 
+            1, 
+            11.33997884016253, 
+            1.0, 
+            [
+                "ChippendalesDancers"
+            ]
+        ], 
+        [
+            "fulfilling", 
+            1, 
+            11.33997884016253, 
+            1.0, 
+            [
+                "ChippendalesDancers"
+            ]
+        ], 
+        [
+            "net", 
+            1, 
+            11.33997884016253, 
+            1.0, 
+            [
+                "ChippendalesDancers"
+            ]
+        ], 
+        [
+            "fanservice-y", 
+            1, 
+            10.295208736794967, 
+            0.9078684256740122, 
+            [
+                "ChippendalesDancers", 
+                "ShortTank"
+            ]
+        ], 
+        [
+            "iconic", 
+            1, 
+            9.113721879505029, 
+            0.8036806777123057, 
+            [
+                "BathingBeauty", 
+                "ChippendalesDancers", 
+                "ManInWhite", 
+                "Valkyries"
+            ]
+        ], 
+        [
+            "synonymous", 
+            1, 
+            9.113721879505029, 
+            0.8036806777123057, 
+            [
+                "ChippendalesDancers", 
+                "GagBoobs", 
+                "SissyVillain", 
+                "BlondGuysAreEvil"
+            ]
+        ], 
+        [
+            "visual", 
+            1, 
+            7.6247175678656, 
+            0.6723749378492067, 
+            [
+                "BarbaricBully", 
+                "GagPenis", 
+                "HumanoidFemaleAnimal", 
+                "LittleSisterHeroine", 
+                "TheHecateSisters", 
+                "ChippendalesDancers", 
+                "GirlishPigtails", 
+                "TheLoinsSleepTonight"
+            ]
+        ], 
+        [
+            "attractive", 
+            1, 
+            3.4044333522064845, 
+            0.30021514150882583, 
+            [
+                "AmazonChaser", 
+                "EvenTheGirlsWantHer", 
+                "GirlGroup", 
+                "RightHandHottie", 
+                "TheLadette", 
+                "LovelyAssistant", 
+                "AmazonianBeauty", 
+                "BrawnHilda", 
+                "GIRL", 
+                "BlondeRepublicanSexKitten", 
+                "CuteClumsyGirl", 
+                "PerkyGoth", 
+                "DisguisedInDrag", 
+                "WorldsMostBeautifulWoman", 
+                "TheBear", 
+                "SchoolNurse", 
+                "TheBaroness", 
+                "ALadyOnEachArm", 
+                "Meido", 
+                "HelloNurse", 
+                "CarpetOfVirility", 
+                "ManInAKilt", 
+                "SpicyLatina", 
+                "AlphaBitch", 
+                "CuteMonsterGirl", 
+                "StatuesqueStunner", 
+                "GreenSkinnedSpaceBabe", 
+                "FiremenAreHot", 
+                "ManicPixieDreamGirl", 
+                "HauntedHeroine", 
+                "WalkingShirtlessScene", 
+                "BigBeautifulMan", 
+                "SenseiChan", 
+                "GirlNextDoor", 
+                "HighClassCallGirl", 
+                "Kawaiiko", 
+                "MataHari", 
+                "BridgeBunnies", 
+                "TheFightingNarcissist", 
+                "OfficeLady", 
+                "LadyDrunk", 
+                "SensitiveGuyAndManlyMan", 
+                "EstrogenBrigade", 
+                "HotWitch", 
+                "BaitAndSwitchLesbians", 
+                "BromanticFoil", 
+                "HotScientist", 
+                "MrFanservice", 
+                "BigBeautifulWoman", 
+                "WorldsStrongestMan", 
+                "BeautyMark", 
+                "NubileSavage", 
+                "CasanovaWannabe", 
+                "IdolSinger", 
+                "GymBunny", 
+                "KavorkaMan", 
+                "HouseWife", 
+                "HotScoop", 
+                "CatholicSchoolGirlsRule", 
+                "SissyVillain", 
+                "GirlyBruiser", 
+                "Bishonen", 
+                "ChippendalesDancers", 
+                "SexyPriest", 
+                "LegCling"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "MrFanservice", 
+            "trope": "ChippendalesDancers", 
+            "films": [
+                "MagicMike", 
+                "BatmanTheAnimatedSeries"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "DisappearedDad", 
+            "trope": "ChippendalesDancers", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "StarTrekIITheWrathOfKhan"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "ClassyCatBurglar", 
+            "trope": "ChippendalesDancers", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "CharliesAngels"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WhiteDwarfStarlet", 
+            "trope": "ChippendalesDancers", 
+            "films": [
+                "BatmanTheAnimatedSeries"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ClingyJealousGirl", 
+            "trope": "ChippendalesDancers", 
+            "films": [
+                "BatmanTheAnimatedSeries"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "DoggedNiceGuy", 
+            "trope": "ChippendalesDancers", 
+            "films": [
+                "BatmanTheAnimatedSeries"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "InstantSoprano", 
+            "trope": "ChippendalesDancers", 
+            "films": [
+                "BatmanTheAnimatedSeries"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MadonnaWhoreComplex", 
+            "trope": "ChippendalesDancers", 
+            "films": [
+                "CharliesAngels"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NaughtyNuns", 
+            "trope": "ChippendalesDancers", 
+            "films": [
+                "CharliesAngels"
+            ]
+        }
+    ], 
+    "id": "ChippendalesDancers", 
+    "name": "Chippendales Dancers"
+}

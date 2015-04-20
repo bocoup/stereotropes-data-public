@@ -1,0 +1,97 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            1, 
+            0.0033112582781456954, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "A woman who falsely claims widowhood. Usually to avoid the stigma of having a child with no husband, or to escape a loveless marriage, or to play on people's pity for widows. The colloquial term \"grass widow\", which properly means a married woman who lives away from her husband, is often used as a euphemism in this context.\nCan be depicted as a Wicked Widow or a Wonderful Widow, depending on the circumstances.", 
+    "gender": "f", 
+    "adjs": [
+        "colloquial", 
+        "married"
+    ], 
+    "adjectives": [
+        [
+            "colloquial", 
+            1, 
+            13.06391396375354, 
+            1.0, 
+            [
+                "Hobos", 
+                "FalseWidow"
+            ]
+        ], 
+        [
+            "married", 
+            1, 
+            12.384749502306413, 
+            0.9480121758814776, 
+            [
+                "SenseiChan", 
+                "MenCantKeepHouse", 
+                "FalseWidow"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [], 
+    "id": "FalseWidow", 
+    "name": "False Widow"
+}

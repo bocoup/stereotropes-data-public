@@ -1,0 +1,553 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            1, 
+            0.016666666666666666, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            3, 
+            0.03296703296703297, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            6, 
+            0.03409090909090909, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            8, 
+            0.035555555555555556, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            5, 
+            0.016556291390728478, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            14, 
+            0.02385008517887564, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            18, 
+            0.020338983050847456, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            8, 
+            0.014059753954305799, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            10, 
+            0.015479876160990712, 
+            646
+        ]
+    ], 
+    "description": "The hero and the villain are having a Sword Fight or similar one-on-one altercation.\nMeanwhile our lovely heroine, who the narrative will insistently claim is physically capable, is just standing around... and doing absolutely nothing. This isn't a case where she's trapped, incapacitated, physically impaired, or any less experienced than the hero, himself. This is an able-bodied woman with some established ability who is just standing around on the sidelines, helplessly watching while the men do all the dirty work.\nSo no trying to improvise to assist the hero. No calling for help. No making any attempts to stalk off while the villain is distracted; anything that could possibly enable the hero's success. Not even cheering the hero on to boost morale. You could replace her with an inanimate prop for all the good she's doing.\nThe situation doesn't necessarily have to be Hero vs Villain. It can also apply between good guys, especially in terms of romantic competition. The point is that the girl is still not helping either of them nor doing anything to stop the fight, not even by saying something that could settle everything between the combatants.\nThere are cases where this can be justified. As stated above, she may be injured or Bound and Gagged and thus unable to move. She could be lower on the Super Weight scale or lack experience. Another reason could be This Is Something He's Got to Do Himself (where none of the hero's allies help him) or the hero insists on an honorable one-on-one duel.\nWhat differentiates her from a regular Load is that it's established she has abilities or has choices at her disposal but when confronted with duking it out among the boys she's suddenly rendered inept by virtue of being female. Compare to Damsel in Distress but with a case of Faux Action Girl; which often serves as both the source and result of this trope. Also compare Standard Female Grab Area which is where being caught by the wrist is enough to impede her. Both tropes are often caused by the writers' unwillingness to have a woman fighting (and thus being hit by) a man. Contrast Defiant Captive, which is defined by their refusal to be neutral and/or passive.\nNot to be confused with female RPG characters with a Neutral component to their Character Alignment.\n\nExamples", 
+    "gender": "f", 
+    "adjs": [
+        "similar", 
+        "lovely", 
+        "narrative", 
+        "capable", 
+        "able-bodied"
+    ], 
+    "adjectives": [
+        [
+            "able-bodied", 
+            1, 
+            10.223334586503498, 
+            1.0, 
+            [
+                "NeutralFemale"
+            ]
+        ], 
+        [
+            "inanimate", 
+            1, 
+            10.223334586503498, 
+            1.0, 
+            [
+                "NeutralFemale"
+            ]
+        ], 
+        [
+            "lovely", 
+            1, 
+            10.223334586503498, 
+            1.0, 
+            [
+                "NeutralFemale"
+            ]
+        ], 
+        [
+            "narrative", 
+            1, 
+            8.503281842327691, 
+            0.8317522791001517, 
+            [
+                "StrawMisogynist", 
+                "NeutralFemale", 
+                "MartyStu"
+            ]
+        ], 
+        [
+            "neutral", 
+            1, 
+            8.000958609163716, 
+            0.7826173095935168, 
+            [
+                "NeutralFemale", 
+                "GIRL", 
+                "CockFight", 
+                "GirlInABox"
+            ]
+        ], 
+        [
+            "honorable", 
+            1, 
+            7.6012681834173765, 
+            0.7435214135955518, 
+            [
+                "NeutralFemale", 
+                "Samurai", 
+                "TheWisePrince", 
+                "TheGoodKing"
+            ]
+        ], 
+        [
+            "regular", 
+            1, 
+            6.985719800244921, 
+            0.6833112758988865, 
+            [
+                "ShirtlessCaptives", 
+                "FurryBaldness", 
+                "ActionHeroBabysitter", 
+                "NeutralFemale", 
+                "GIRL", 
+                "StandardFiftiesFather"
+            ]
+        ], 
+        [
+            "established", 
+            1, 
+            6.738084500440774, 
+            0.659088719382829, 
+            [
+                "DisappearedDad", 
+                "BlondeRepublicanSexKitten", 
+                "ShirtlessScene", 
+                "FauxActionGirl", 
+                "NeutralFemale", 
+                "BadAssMustache"
+            ]
+        ], 
+        [
+            "unable", 
+            1, 
+            5.434806401516511, 
+            0.531607994977623, 
+            [
+                "BlackMagicianGirl", 
+                "SenseiChan", 
+                "BarbaricBully", 
+                "NEET", 
+                "OldMaid", 
+                "PrinceCharmingWannabe", 
+                "BastardBastard", 
+                "UselessBoyfriend", 
+                "OneOfTheBoys", 
+                "MagicalGirlfriend", 
+                "NeutralFemale", 
+                "EmotionlessGirl", 
+                "SeashellBra", 
+                "AccidentalPornomancer", 
+                "BasementDweller"
+            ]
+        ], 
+        [
+            "capable", 
+            1, 
+            5.211962754226921, 
+            0.5098104449313025, 
+            [
+                "AngryBlackMan", 
+                "Hackette", 
+                "DadTheVeteran", 
+                "DefectingForLove", 
+                "NeutralFemale", 
+                "LittleRedFightingHood", 
+                "Fangirl", 
+                "Samurai", 
+                "TeamMom", 
+                "AsianAirhead", 
+                "FauxActionGirl", 
+                "UselessBoyfriend", 
+                "HouseHusband", 
+                "HauntedHeroine", 
+                "BrawnHilda", 
+                "HardDrinkingPartyGirl"
+            ]
+        ], 
+        [
+            "good", 
+            2, 
+            4.451303994112559, 
+            0.43540627145168664, 
+            [
+                "OutdoorsyGal", 
+                "ChildSoldiers", 
+                "BeardOfBarbarism", 
+                "AdrenalineMakeover", 
+                "KickingAssInAllHerFinery", 
+                "LovelyAssistant", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "EducationMama", 
+                "DisguisedInDrag", 
+                "KnightInShiningArmor", 
+                "SpiritedYoungLady", 
+                "ManInAKilt", 
+                "AgentPeacock", 
+                "MagicalGirlfriend", 
+                "HuskyRusskie", 
+                "TheGoodKing", 
+                "TheLoinsSleepTonight", 
+                "TheEvilPrince", 
+                "TomboyWithAGirlyStreak", 
+                "HeroicSeductress", 
+                "ManInWhite", 
+                "BathingBeauty", 
+                "HandyMan", 
+                "EverythingsBetterWithPrincesses", 
+                "MilesGloriosus", 
+                "DirtyCoward", 
+                "NeutralFemale", 
+                "StoutStrength", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "DirtyHarriet", 
+                "NubileSavage", 
+                "KavorkaMan", 
+                "BlackBossLady", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ProperLady", 
+                "DarkMagicalGirl", 
+                "WizardBeard", 
+                "MadScientistsBeautifulDaughter", 
+                "DumbMuscle", 
+                "DirtyOldMan", 
+                "HouseHusband", 
+                "TheCheerleader", 
+                "GodSaveUsFromTheQueen", 
+                "BeardOfEvil", 
+                "AsianAirhead", 
+                "LadyInRed", 
+                "HighClassCallGirl", 
+                "GentlemanWizard", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "MagicIdolSinger", 
+                "OfficerAndAGentleman", 
+                "BeautifulAllAlong", 
+                "BrokenBird", 
+                "SassyBlackWoman", 
+                "TheWisePrince", 
+                "GymBunny", 
+                "PerkyFemaleMinion", 
+                "CoolOldLady", 
+                "UncannyValleyGirl", 
+                "StageMom", 
+                "GoodBadGirl", 
+                "WinterRoyalLady", 
+                "LawmanGoneBad", 
+                "LadyMacBeth", 
+                "TheVamp", 
+                "MadonnaWhoreComplex", 
+                "TheBaroness", 
+                "GamblerGroupies", 
+                "HotScientist", 
+                "PrincessClassic", 
+                "HardDrinkingPartyGirl", 
+                "SeashellBra", 
+                "BaldBlackLeaderGuy", 
+                "TakingTheVeil", 
+                "GentlemanThief", 
+                "ClassyCatBurglar", 
+                "GirlNextDoor", 
+                "DecoyDamsel", 
+                "QuintessentialBritishGentleman", 
+                "HookerWithAHeartOfGold", 
+                "TheOphelia", 
+                "Hobos", 
+                "CrusadingWidower", 
+                "TheButcher", 
+                "AccidentalPornomancer", 
+                "TheDandy", 
+                "VainSorceress", 
+                "BigManOnCampus", 
+                "MachoMasochism", 
+                "GoodGirlGoneBad", 
+                "HotScoop", 
+                "TheMuse", 
+                "SwingLowSweetHarriet", 
+                "BattleaxeNurse", 
+                "HighSchoolHustler", 
+                "LightFeminineAndDarkFeminine", 
+                "MaidenAunt", 
+                "YamatoNadeshiko", 
+                "TheLadysFavour", 
+                "FemmeFatale", 
+                "HighHeelFaceTurn", 
+                "CampGay", 
+                "BlondeRepublicanSexKitten", 
+                "MonogenderMonsters", 
+                "ShelteredAristocrat", 
+                "TheGambler", 
+                "StatuesqueStunner", 
+                "NobleMaleRoguishMale", 
+                "PregnantHostage", 
+                "SoapBoxSadie", 
+                "Streetwalker", 
+                "ChivalrousPervert", 
+                "GrannyClassic", 
+                "MorallyBankruptBanker", 
+                "ValleyGirl", 
+                "MataHari", 
+                "WorldsMostBeautifulWoman", 
+                "GrumpyOldMan", 
+                "DefectingForLove", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "WickedWitch", 
+                "RebelPrince", 
+                "GrandeDame", 
+                "MysteriousWaif", 
+                "StumblingUponTheLostWizard", 
+                "DarkActionGirl", 
+                "BastardBastard", 
+                "ButterFace", 
+                "AbsentMindedProfessor", 
+                "JewishMother", 
+                "DamselInDistress"
+            ]
+        ], 
+        [
+            "romantic", 
+            1, 
+            3.577278974815071, 
+            0.3499131271256322, 
+            [
+                "UnrequitedTragicMaiden", 
+                "FemmeFatale", 
+                "AdrenalineMakeover", 
+                "BastardBoyfriend", 
+                "MistressAndServantBoy", 
+                "NeutralFemale", 
+                "SchoolgirlLesbians", 
+                "FinalGirl", 
+                "DoggedNiceGuy", 
+                "BashBrothers", 
+                "LittleSisterHeroine", 
+                "MagicalGirlfriend", 
+                "NaiveEverygirl", 
+                "QuicklyDemotedWoman", 
+                "FeminineWomenCanCook", 
+                "BespectacledBastardBoyfriend", 
+                "TheChanteuse", 
+                "InnocentFanserviceGirl", 
+                "GaussianGirl", 
+                "SensitiveGuyAndManlyMan", 
+                "BaitAndSwitchLesbians", 
+                "BromanticFoil", 
+                "TheIngenue", 
+                "CockFight", 
+                "UnderstandingBoyfriend", 
+                "ButchLesbian", 
+                "IllGirl", 
+                "SchoolMarm", 
+                "Dominatrix", 
+                "StumblingUponTheLostWizard", 
+                "OneeSama", 
+                "AsianHookerStereotype"
+            ]
+        ], 
+        [
+            "similar", 
+            1, 
+            3.1936210702333456, 
+            0.3123854592854133, 
+            [
+                "Socialite", 
+                "YamatoNadeshiko", 
+                "MamaBear", 
+                "GlamorousSingleMother", 
+                "DirtyOldWoman", 
+                "BastardBoyfriend", 
+                "DarkMistress", 
+                "LazyHusband", 
+                "TheWomanWearingTheQueenlyMask", 
+                "BoyBand", 
+                "WomanInBlack", 
+                "BattleaxeNurse", 
+                "Dominatrix", 
+                "GreaseMonkey", 
+                "Fundoshi", 
+                "GaussianGirl", 
+                "TheBear", 
+                "NaginatasAreFeminine", 
+                "ActionHeroBabysitter", 
+                "SchoolNurse", 
+                "StatuesqueStunner", 
+                "Chickification", 
+                "NeverASelfMadeWoman", 
+                "ManicPixieDreamGirl", 
+                "FeminineWomenCanCook", 
+                "LesbianCop", 
+                "BeardnessProtectionProgram", 
+                "ChivalrousPervert", 
+                "UselessBoyfriend", 
+                "HandyMan", 
+                "LittleMissBadass", 
+                "PrinceCharmingWannabe", 
+                "EffeminateMisogynisticGuy", 
+                "GrumpyOldMan", 
+                "NeutralFemale", 
+                "UnluckyEveryDude", 
+                "GirlsWithMoustaches", 
+                "GentlemanWizard", 
+                "MrFanservice", 
+                "Tomboy", 
+                "GirlInTheTower", 
+                "GymBunny", 
+                "PerkyFemaleMinion", 
+                "ButterFace", 
+                "ProperLady", 
+                "LittleGirlsKickShins", 
+                "BikerBabe", 
+                "Bishonen", 
+                "GodSaveUsFromTheQueen", 
+                "PecFlex", 
+                "MarySue"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "TheChick", 
+            "trope": "NeutralFemale", 
+            "films": [
+                "JurassicPark", 
+                "Predators", 
+                "DawnOfTheDead2004", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "TheGoodKing", 
+            "trope": "NeutralFemale", 
+            "films": [
+                "RobinHood", 
+                "Bambi", 
+                "ThePrincessBride", 
+                "TheChroniclesOfNarnia"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "SissyVillain", 
+            "trope": "NeutralFemale", 
+            "films": [
+                "RobinHood", 
+                "LostInSpace", 
+                "FireAndIce", 
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "PapaWolf", 
+            "trope": "NeutralFemale", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "IndianaJonesAndTheTempleOfDoom", 
+                "TrueLies"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TeamMom", 
+            "trope": "NeutralFemale", 
+            "films": [
+                "Twilight", 
+                "TheChroniclesOfNarnia", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "Ptitleba4e2b2g", 
+            "trope": "NeutralFemale", 
+            "films": [
+                "SherlockHolmes", 
+                "BatmanTheAnimatedSeries", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "WalkingShirtlessScene", 
+            "trope": "NeutralFemale", 
+            "films": [
+                "TheBladeMaster", 
+                "Twilight", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "NeverASelfMadeWoman", 
+            "trope": "NeutralFemale", 
+            "films": [
+                "SherlockHolmes", 
+                "BatmanTheAnimatedSeries", 
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "NeutralFemale", 
+            "films": [
+                "RobinHoodPrinceOfThieves", 
+                "Predators", 
+                "Batman"
+            ]
+        }
+    ], 
+    "id": "NeutralFemale", 
+    "name": "Neutral Female"
+}

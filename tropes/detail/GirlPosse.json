@@ -1,0 +1,550 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            2, 
+            0.02197802197802198, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            7, 
+            0.007909604519774011, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            6, 
+            0.01054481546572935, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            5, 
+            0.007739938080495356, 
+            646
+        ]
+    ], 
+    "description": "In a High School series, there's pretty much always an evil popular girl. We'll call her the Alpha Bitch and give her an entry of her own, otherwise she might tell all the cute boys that we have smelly man feet.\nShe always has a posse of well-dressed, mean girls with her (two to four girls at the minimum), who don't really say anything except to parrot her opinions and attitudes\u2014sort of the high school version of Evil Minions meets Satellite Character. If the posse members are slightly more developed, expect at least a devoted second-in-command (who may or may not be an insecure mess), a pretty but dimwitted follower (who occasionally overlaps with the second-in-command), and possibly a new girl, who will be briefly suckered in by the Alpha Bitch.\nThey are often Gossipy Hens as well. They are very unlikely to be A Friend in Need, even to each other. May also overlap with Terrible Trionote\u00a0which has the Alpha Bitch, the second-in-command, and the Brainless Beauty.", 
+    "gender": "f", 
+    "adjs": [
+        "high", 
+        "evil", 
+        "popular", 
+        "cute", 
+        "well-dressed"
+    ], 
+    "adjectives": [
+        [
+            "attitudes\u2014sort", 
+            1, 
+            10.223334586503498, 
+            1.0, 
+            [
+                "GirlPosse"
+            ]
+        ], 
+        [
+            "developed", 
+            1, 
+            10.223334586503498, 
+            1.0, 
+            [
+                "GirlPosse"
+            ]
+        ], 
+        [
+            "devoted", 
+            1, 
+            10.223334586503498, 
+            1.0, 
+            [
+                "GirlPosse"
+            ]
+        ], 
+        [
+            "second-in-command", 
+            1, 
+            10.223334586503498, 
+            1.0, 
+            [
+                "GirlPosse"
+            ]
+        ], 
+        [
+            "high", 
+            2, 
+            8.027459144417517, 
+            0.7852094711851746, 
+            [
+                "Socialite", 
+                "WalkingShirtlessScene", 
+                "HeroicSeductress", 
+                "PrincelyYoungMan", 
+                "DarkMistress", 
+                "MegaTwintails", 
+                "HugeSchoolgirl", 
+                "DirtyOldMan", 
+                "FemininityFailure", 
+                "FemaleMisogynist", 
+                "CatholicSchoolGirlsRule", 
+                "MagicalGirl", 
+                "GossipyHens", 
+                "Ojou", 
+                "PlayboyBunny", 
+                "AnimeChineseGirl", 
+                "BastardGirlfriend", 
+                "KnightInShiningArmor", 
+                "InstantSoprano", 
+                "WomenDrivers", 
+                "BlondeRepublicanSexKitten", 
+                "ALadyOnEachArm", 
+                "BespectacledBastardBoyfriend", 
+                "TheFightingNarcissist", 
+                "AlphaBitch", 
+                "GirlNextDoor", 
+                "ProperLady", 
+                "FinalGirl", 
+                "WomanScorned", 
+                "ManicPixieDreamGirl", 
+                "TheEvilPrince", 
+                "Joshikousei", 
+                "GamerChick", 
+                "PrinceCharmless", 
+                "TheChanteuse", 
+                "ButchLesbian", 
+                "GracefulLadiesLikePurple", 
+                "MataHari", 
+                "Samurai", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "PregnantHostage", 
+                "EvenTheGirlsWantHer", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "GirlishPigtails", 
+                "GoGetterGirl", 
+                "DirtyHarriet", 
+                "VainSorceress", 
+                "BarbaricBully", 
+                "LadyOfAdventure", 
+                "KindlyHousekeeper", 
+                "KidAnova", 
+                "BastardBastard", 
+                "UncannyValleyGirl", 
+                "GirlPosse", 
+                "LipstickLesbian", 
+                "HighSchoolHustler", 
+                "TheHighQueen"
+            ]
+        ], 
+        [
+            "well-dressed", 
+            1, 
+            8.000958609163716, 
+            0.7826173095935168, 
+            [
+                "SouthernGentleman", 
+                "TheFashionista", 
+                "BlackBossLady", 
+                "GirlPosse"
+            ]
+        ], 
+        [
+            "minimum", 
+            1, 
+            7.6012681834173765, 
+            0.7435214135955518, 
+            [
+                "SchoolMarm", 
+                "MegaTwintails", 
+                "CoolOldGuy", 
+                "HouseWife", 
+                "GirlPosse"
+            ]
+        ], 
+        [
+            "terrible", 
+            1, 
+            6.985719800244921, 
+            0.6833112758988865, 
+            [
+                "HighHeelFaceTurn", 
+                "LittleRedFightingHood", 
+                "PregnantBadass", 
+                "GirlPosse", 
+                "TheOphelia", 
+                "DamselInDistress", 
+                "OldMaid"
+            ]
+        ], 
+        [
+            "mean", 
+            1, 
+            6.518422603053822, 
+            0.6376023936122783, 
+            [
+                "YamatoNadeshiko", 
+                "ScaryBlackMan", 
+                "GossipyHens", 
+                "SpoiledSweet", 
+                "SensitiveGuyAndManlyMan", 
+                "GirlPosse", 
+                "AlphaBitch", 
+                "DrillSergeantNasty", 
+                "PerkyGoth"
+            ]
+        ], 
+        [
+            "new", 
+            1, 
+            3.8063973247313947, 
+            0.3723244399881495, 
+            [
+                "EvilDiva", 
+                "YamatoNadeshiko", 
+                "AffirmativeActionGirl", 
+                "TheOldConvict", 
+                "TerritorialSmurfette", 
+                "KickingAssInAllHerFinery", 
+                "WhiteDwarfStarlet", 
+                "FemaleMisogynist", 
+                "LawmanGoneBad", 
+                "GIRL", 
+                "CreepyHouseKeeper", 
+                "GirlInABox", 
+                "GaussianGirl", 
+                "TheChiefsDaughter", 
+                "ActionHeroBabysitter", 
+                "HuskyRusskie", 
+                "WrenchWench", 
+                "ActionGirl", 
+                "ManicPixieDreamGirl", 
+                "UselessBoyfriend", 
+                "SweetPollyOliver", 
+                "BirthTropes", 
+                "MartyStu", 
+                "TheSquadette", 
+                "BlackBossLady", 
+                "CoolOldLady", 
+                "BattleaxeNurse", 
+                "GirlPosse", 
+                "DarkMagicalGirl", 
+                "LadyKillerInLove", 
+                "YokoOhNo"
+            ]
+        ], 
+        [
+            "cute", 
+            1, 
+            3.2999817317811324, 
+            0.3227891744967104, 
+            [
+                "OutdoorsyGal", 
+                "YamatoNadeshiko", 
+                "HotWitch", 
+                "MamaBear", 
+                "ClingyJealousGirl", 
+                "HugeSchoolgirl", 
+                "EmotionlessGirl", 
+                "CuteGhostGirl", 
+                "AnimeChineseGirl", 
+                "SmallGirlBigGun", 
+                "UnluckyEveryDude", 
+                "TheFakeCutie", 
+                "LittleSisterHeroine", 
+                "TeamMom", 
+                "CuteMonsterGirl", 
+                "TheCutie", 
+                "TomboyWithAGirlyStreak", 
+                "MisplacedKindergartenTeacher", 
+                "ShortTank", 
+                "Keet", 
+                "Kawaiiko", 
+                "Bishonen", 
+                "GirlWithPsychoWeapon", 
+                "BaitAndSwitchLesbians", 
+                "SmittenTeenageGirl", 
+                "Tomboy", 
+                "SenseiChan", 
+                "IllGirl", 
+                "Meido", 
+                "HumanoidFemaleAnimal", 
+                "RobotGirl", 
+                "SwingLowSweetHarriet", 
+                "GirlPosse", 
+                "LittleMissBadass", 
+                "PetitePride", 
+                "Meganekko", 
+                "LittleGirlsKickShins", 
+                "PirateGirl"
+            ]
+        ], 
+        [
+            "evil", 
+            1, 
+            2.6930839792399928, 
+            0.2634252020661939, 
+            [
+                "BeardOfSorrow", 
+                "WizardBeard", 
+                "HotWitch", 
+                "ThisIndexIsABitch", 
+                "StumblingUponTheLostWizard", 
+                "DarkMistress", 
+                "WinterRoyalLady", 
+                "CuteGhostGirl", 
+                "ArchnemesisDad", 
+                "TheVamp", 
+                "HotScoop", 
+                "HeroicSeductress", 
+                "CulturedBadass", 
+                "CorruptHick", 
+                "GoGetterGirl", 
+                "TheCheerleader", 
+                "BlondGuysAreEvil", 
+                "BlondeRepublicanSexKitten", 
+                "CarpetOfVirility", 
+                "HighHeelFaceTurn", 
+                "BeardOfEvil", 
+                "AgentPeacock", 
+                "TheCasanova", 
+                "OverlordJr", 
+                "KnightErrant", 
+                "WomanScorned", 
+                "BadassPrincess", 
+                "TheEvilPrince", 
+                "DepravedHomosexual", 
+                "JerkJock", 
+                "ArabOilSheikh", 
+                "BespectacledBastardBoyfriend", 
+                "TheGambler", 
+                "WomanInWhite", 
+                "TheFightingNarcissist", 
+                "AnimeChineseGirl", 
+                "ScaryBlackMan", 
+                "OfficerAndAGentleman", 
+                "DefectingForLove", 
+                "TheWomanWearingTheQueenlyMask", 
+                "FurryBaldness", 
+                "GirlishPigtails", 
+                "WickedWitch", 
+                "TheDandy", 
+                "BlackMagicianGirl", 
+                "BadassGrandpa", 
+                "GirlInTheTower", 
+                "EvilMatriarch", 
+                "BlondesAreEvil", 
+                "TheOneGuy", 
+                "TheHighQueen", 
+                "BattleaxeNurse", 
+                "GirlPosse", 
+                "StageMom", 
+                "WomanInBlack", 
+                "GodSaveUsFromTheQueen", 
+                "DarkMagicalGirl", 
+                "DastardlyWhiplash"
+            ]
+        ], 
+        [
+            "popular", 
+            1, 
+            2.373079068263545, 
+            0.232123779984312, 
+            [
+                "PerkyGoth", 
+                "AngryBlackMan", 
+                "LovableAlphaBitch", 
+                "IdolSinger", 
+                "NerdNanny", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "TomBoyAndGirlyGirl", 
+                "EarthMother", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "YamatoNadeshiko", 
+                "MarySue", 
+                "HotScoop", 
+                "DirtyOldWoman", 
+                "StringyHairedGhostGirl", 
+                "GirlGroup", 
+                "SpiritedYoungLady", 
+                "WomenDrivers", 
+                "HotScientist", 
+                "LittleSisterHeroine", 
+                "GirlPosse", 
+                "AlphaBitch", 
+                "TheFlapper", 
+                "MagicalGirlfriend", 
+                "BaldBlackLeaderGuy", 
+                "NaiveEverygirl", 
+                "ActionGirl", 
+                "BadassPrincess", 
+                "BeautyBrainsAndBrawn", 
+                "SexyStewardess", 
+                "MenCantKeepHouse", 
+                "JerkJock", 
+                "BespectacledBastardBoyfriend", 
+                "MorallyBankruptBanker", 
+                "CosplayOtakuGirl", 
+                "GracefulLadiesLikePurple", 
+                "Samurai", 
+                "DamselInDistress", 
+                "SweetPollyOliver", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "CuteSportsClubManager", 
+                "StoutStrength", 
+                "TheIngenue", 
+                "Fratbro", 
+                "Tomboy", 
+                "VainSorceress", 
+                "BigManOnCampus", 
+                "LesbianVampire", 
+                "BarbaricBully", 
+                "Ladyella", 
+                "LittleDeadRidingHood", 
+                "FavorsForTheSexy", 
+                "BattleaxeNurse", 
+                "DarkActionGirl", 
+                "RobotGirl", 
+                "SpoiledSweet", 
+                "Joshikousei", 
+                "ProperLady", 
+                "AsianAirhead", 
+                "HotGypsyWoman", 
+                "Bishonen", 
+                "FragileFlower", 
+                "Meganekko", 
+                "TokenYuriGirls", 
+                "GrumpyOldMan"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/GirlPosse.bmp", 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "JerkJock", 
+            "trope": "GirlPosse", 
+            "films": [
+                "RomyAndMichelesHighSchoolReunion", 
+                "Heathers", 
+                "GeekCharming", 
+                "TheFinal"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "LovableAlphaBitch", 
+            "trope": "GirlPosse", 
+            "films": [
+                "Heathers", 
+                "GeekCharming", 
+                "BuffyTheVampireSlayer"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "RichBitch", 
+            "trope": "GirlPosse", 
+            "films": [
+                "Heathers", 
+                "ALittlePrincess", 
+                "TheHelp"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TheCheerleader", 
+            "trope": "GirlPosse", 
+            "films": [
+                "Heathers", 
+                "ThePrincessDiaries", 
+                "BuffyTheVampireSlayer"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "GirlPosse", 
+            "films": [
+                "ALittlePrincess", 
+                "Cry-Baby", 
+                "TheHelp"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheChick", 
+            "trope": "GirlPosse", 
+            "films": [
+                "MonstersUniversity", 
+                "GeekCharming"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LonelyDollGirl", 
+            "trope": "GirlPosse", 
+            "films": [
+                "ALittlePrincess"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TakingTheVeil", 
+            "trope": "GirlPosse", 
+            "films": [
+                "ThePrimeOfMissJeanBrodie"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Meganekko", 
+            "trope": "GirlPosse", 
+            "films": [
+                "GeekCharming"
+            ]
+        }
+    ], 
+    "id": "GirlPosse", 
+    "name": "Girl Posse"
+}

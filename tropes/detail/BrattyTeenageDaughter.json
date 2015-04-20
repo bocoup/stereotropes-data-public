@@ -1,0 +1,464 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            3, 
+            0.005110732538330494, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            10, 
+            0.011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            9, 
+            0.01393188854489164, 
+            646
+        ]
+    ], 
+    "description": "Think everyone in a Dom Com with two X chromosomes is closer to Earth? Think again. You haven't met the Bratty Teenage Daughter. A standard member of the Dysfunctional Family, the Bratty Teenage Daughter is a natural offspring of the Bumbling Dad and his level-headed wife.\nThe Bratty Teenage Daughter is a whiny, self-involved girl at That Age. She obsesses over the latest fashions and is incredibly boy crazy, often more so than her parents think. If she ever dates, expect her father to instantly turn into an Overprotective Dad. Basically, she will either go around acting like a Drama Queen and wangsting up over every minor little thing (\"My life is over!\") or else she'll just roll her eyes exasperatedly at the \"wacky\" hijinks the rest of the family gets up to, often becoming a bit of a sullen killjoy in the process.\nHer most valued personal possession is the phone. She talks (or texts) endlessly on it with her friends, and breaks down when she's without it. In older media, this will lead to a confrontation with Mom where she tells her to stop tying up the phone lines. Today, these confrontations are likely to revolve around cellphone bills, or the loss of phone privileges as a punishment.\nThe natural enemies of the Bratty Teenage Daughter are assorted Annoying Younger Siblings and anything else that upsets the status quo of her little world as she sits in her room listening on her headphones to the latest music from that hot pop star she has a huge crush on. She will be more averse to the Horrible Camping Trip than any other member of the family, and she will inevitably act as a City Mouse on such a trip, continuously complaining about breaking her nails or how much she would rather be at the mall.\nShe tends to be a supporting character, with the show's focus usually only being put on her in the event of a Very Special Episode about drugs, underaged sex, etc. Often (but by no means always) an Alpha Bitch or The Brainless Beauty. If she's not, expect her to hide it carefully since smart people are never cool at that age. Is usually one of the sisters caught up in The Glorious War of Sisterly Rivalry. She can easily become The Scrappy if she's whiny and grating enough.\nIf the teenage daughter is the show's protagonist, she probably won't be this character, or at least, not as extreme a version. May sometimes have a brother in the Dumbass Teenage Son.", 
+    "gender": "f", 
+    "adjs": [
+        "standard", 
+        "natural", 
+        "level-headed", 
+        "self-involved", 
+        "boy"
+    ], 
+    "adjectives": [
+        [
+            "natural", 
+            2, 
+            11.760335593267774, 
+            1.0, 
+            [
+                "OutdoorsyGal", 
+                "DirtyHarriet", 
+                "WizardBeard", 
+                "BrattyTeenageDaughter", 
+                "GrandeDame", 
+                "MissKitty", 
+                "BlondesAreEvil", 
+                "VainSorceress", 
+                "HouseWife", 
+                "PregnantBadass", 
+                "ButchLesbian", 
+                "OldSchoolChivalry", 
+                "AlphaBitch", 
+                "Hobos", 
+                "LittleMissAlmighty", 
+                "AsianHookerStereotype", 
+                "NocturnalEmission", 
+                "AsianAirhead"
+            ]
+        ], 
+        [
+            "averse", 
+            1, 
+            9.957133870223307, 
+            0.8466708956777804, 
+            [
+                "BrattyTeenageDaughter"
+            ]
+        ], 
+        [
+            "self-involved", 
+            1, 
+            9.957133870223307, 
+            0.8466708956777804, 
+            [
+                "BrattyTeenageDaughter"
+            ]
+        ], 
+        [
+            "whiny", 
+            1, 
+            9.957133870223307, 
+            0.8466708956777804, 
+            [
+                "BrattyTeenageDaughter"
+            ]
+        ], 
+        [
+            "level-headed", 
+            1, 
+            8.914088462446077, 
+            0.7579790892658679, 
+            [
+                "CoolBigSis", 
+                "BrattyTeenageDaughter"
+            ]
+        ], 
+        [
+            "acting", 
+            1, 
+            8.237943195016353, 
+            0.7004853840848028, 
+            [
+                "OldMaid", 
+                "BrattyTeenageDaughter", 
+                "GentlemanWizard"
+            ]
+        ], 
+        [
+            "wacky", 
+            1, 
+            8.237943195016353, 
+            0.7004853840848028, 
+            [
+                "GirlOfTheWeek", 
+                "BrattyTeenageDaughter", 
+                "ManicPixieDreamGirl"
+            ]
+        ], 
+        [
+            "boy", 
+            1, 
+            7.7360509963368065, 
+            0.6578086938918073, 
+            [
+                "Bishonen", 
+                "PrettyBoy", 
+                "BrattyTeenageDaughter", 
+                "PirateGirl"
+            ]
+        ], 
+        [
+            "overprotective", 
+            1, 
+            6.722105290871291, 
+            0.5715912813507952, 
+            [
+                "BumblingDad", 
+                "ThePatriarch", 
+                "PervertDad", 
+                "BrattyTeenageDaughter", 
+                "DadTheVeteran", 
+                "PapaWolf", 
+                "BrawnHilda"
+            ]
+        ], 
+        [
+            "cool", 
+            1, 
+            6.474901025551572, 
+            0.5505711103395843, 
+            [
+                "BrattyTeenageDaughter", 
+                "CoolOldLady", 
+                "SmittenTeenageGirl", 
+                "MarySue", 
+                "EvenTheGirlsWantHer", 
+                "EmotionlessGirl", 
+                "SurferDude", 
+                "AsianHookerStereotype"
+            ]
+        ], 
+        [
+            "huge", 
+            1, 
+            5.060807082142356, 
+            0.43032845806198117, 
+            [
+                "ElegantGothicLolita", 
+                "BrattyTeenageDaughter", 
+                "MachoMasochism", 
+                "BeardOfBarbarism", 
+                "GirlNextDoor", 
+                "MegaTwintails", 
+                "HugeSchoolgirl", 
+                "TopHeavyGuy", 
+                "BeardOfEvil", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "CreepyHouseKeeper", 
+                "GirlishPigtails", 
+                "BasementDweller"
+            ]
+        ], 
+        [
+            "standard", 
+            1, 
+            4.335314972800831, 
+            0.3686387125961431, 
+            [
+                "WizardBeard", 
+                "BastardBoyfriend", 
+                "FurryBaldness", 
+                "CatholicSchoolGirlsRule", 
+                "StraightGay", 
+                "TheTease", 
+                "CoolBigSis", 
+                "LesbianVampire", 
+                "MadonnaWhoreComplex", 
+                "LipstickAndLoadMontage", 
+                "CuteWitch", 
+                "FauxActionGirl", 
+                "BigBeautifulMan", 
+                "BedlahBabe", 
+                "InnocentFanserviceGirl", 
+                "Hunk", 
+                "MarySue", 
+                "GirlInTheTower", 
+                "BrattyTeenageDaughter", 
+                "DarkActionGirl", 
+                "ShirtlessScene", 
+                "Bishonen", 
+                "DumbassTeenageSon", 
+                "LittleGirlsKickShins"
+            ]
+        ], 
+        [
+            "hot", 
+            1, 
+            3.817134127411493, 
+            0.3245769729221519, 
+            [
+                "CollegeWidow", 
+                "RightHandHottie", 
+                "TheLadette", 
+                "AdrenalineMakeover", 
+                "BastardBoyfriend", 
+                "NerdNanny", 
+                "CoolBigSis", 
+                "SchoolgirlLesbians", 
+                "Hackette", 
+                "WrenchWench", 
+                "HotMenAtWork", 
+                "ValleyGirl", 
+                "Hunk", 
+                "EvenTheGirlsWantHer", 
+                "DaddysLittleVillain", 
+                "HotScientist", 
+                "BrattyTeenageDaughter", 
+                "LesbianVampire", 
+                "LadyOfAdventure", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "SculleryMaid", 
+                "GenderInvertedTrope", 
+                "BrawnHilda"
+            ]
+        ], 
+        [
+            "personal", 
+            1, 
+            3.817134127411493, 
+            0.3245769729221519, 
+            [
+                "BeardOfSorrow", 
+                "OverprotectiveDad", 
+                "TheLadysFavour", 
+                "MamaBear", 
+                "GlamorousSingleMother", 
+                "MistressAndServantBoy", 
+                "ArchnemesisDad", 
+                "GIRL", 
+                "GoGetterGirl", 
+                "NeverASelfMadeWoman", 
+                "OldMaid", 
+                "SchoolNurse", 
+                "LadyInWaiting", 
+                "BattleButler", 
+                "BastardGirlfriend", 
+                "ChivalrousPervert", 
+                "TheSlacker", 
+                "MataHari", 
+                "MilesGloriosus", 
+                "GoodOlBoy", 
+                "HenpeckedHusband", 
+                "CrusadingWidower", 
+                "MyBelovedSmother", 
+                "BrattyTeenageDaughter", 
+                "DragonLady", 
+                "HouseWife", 
+                "TheMuse", 
+                "AmazonBrigade", 
+                "ProperLady", 
+                "JewishMother", 
+                "BrawnHilda", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "little", 
+            1, 
+            3.461753762147501, 
+            0.2943584164493731, 
+            [
+                "OverprotectiveDad", 
+                "LittleOldLadyInvestigates", 
+                "GlamorousSingleMother", 
+                "LittleRedFightingHood", 
+                "BastardBoyfriend", 
+                "DirtyOldMan", 
+                "FarmersDaughter", 
+                "TheCharmer", 
+                "MagicalSeventhSon", 
+                "UnluckyEveryDude", 
+                "LittleSisterHeroine", 
+                "SexistUsedCarSalesman", 
+                "TheSlacker", 
+                "MaidenAunt", 
+                "WomanScorned", 
+                "TheCutie", 
+                "BasementDweller", 
+                "PrincessPhase", 
+                "ClassyCatBurglar", 
+                "BespectacledBastardBoyfriend", 
+                "QuintessentialBritishGentleman", 
+                "NonActionGuy", 
+                "BaitAndSwitchLesbians", 
+                "BeautifulAllAlong", 
+                "LittleMissConArtist", 
+                "Tomboy", 
+                "DirtyHarriet", 
+                "FragileFlower", 
+                "BrattyTeenageDaughter", 
+                "FavorsForTheSexy", 
+                "MysticalWaif", 
+                "DarkActionGirl", 
+                "SpoiledSweet", 
+                "SwingLowSweetHarriet", 
+                "Bishonen", 
+                "LittleGirlsKickShins"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/BrattyTeenageDaughter.png", 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "OverprotectiveDad", 
+            "trope": "BrattyTeenageDaughter", 
+            "films": [
+                "TheCroods", 
+                "AGoofyMovie", 
+                "Super8", 
+                "Clueless"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "PapaWolf", 
+            "trope": "BrattyTeenageDaughter", 
+            "films": [
+                "TheCroods", 
+                "DarkShadows", 
+                "UncleBuck", 
+                "Hanna"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "DaddysGirl", 
+            "trope": "BrattyTeenageDaughter", 
+            "films": [
+                "BendItLikeBeckham", 
+                "BarbieOfSwanLake", 
+                "Labyrinth"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TheChick", 
+            "trope": "BrattyTeenageDaughter", 
+            "films": [
+                "TheCroods", 
+                "Super8", 
+                "HocusPocus"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "CulturedBadass", 
+            "trope": "BrattyTeenageDaughter", 
+            "films": [
+                "Intouchables", 
+                "Clueless"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "CuteMonsterGirl", 
+            "trope": "BrattyTeenageDaughter", 
+            "films": [
+                "Super8", 
+                "Labyrinth"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "BrattyTeenageDaughter", 
+            "films": [
+                "Clueless", 
+                "MildredPierce"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "DisappearedDad", 
+            "trope": "BrattyTeenageDaughter", 
+            "films": [
+                "Parenthood", 
+                "DarkShadows"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TeamMom", 
+            "trope": "BrattyTeenageDaughter", 
+            "films": [
+                "TheCroods", 
+                "TokyoGodfathers"
+            ]
+        }
+    ], 
+    "id": "BrattyTeenageDaughter", 
+    "name": "Bratty Teenage Daughter"
+}

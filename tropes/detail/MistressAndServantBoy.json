@@ -1,0 +1,579 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            1, 
+            0.0033112582781456954, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            2, 
+            0.0035149384885764497, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "The archetype of a young man kept under the heel of his typically older female employer. Usually she takes a certain amount of pleasure from teasing him, asking him to get coffee, and generally watching him squirm. The fact that she's often The Wonka means that he usually rolls his eyes at her exploits, but nonetheless follows her diligently, so there's often overlap with Beleaguered Assistant.\nDespite this, the woman usually does genuinely care about the boy, she just shows it in a very strange way. She's often a grown-up Tsundere or a Defrosting Ice Queen, and may act the way she does because she has trouble showing affection. Hypocritical Heartwarming is likely to occur at some point.\nNote that this relationship doesn't have to be romantic or sexual in nature, and may simply be a mentor/student relationship meant to help the young man develop. There are often elements of UST, but more often than not it goes unresolved. If the age gap is big enough, the mistress may mother her servant boy instead.\nCompare Lady and Knight which is more about the guy protecting his lady/mistress than serving but overlap is possible. A major difference is the knight will usually choose to serve the lady out of love, chivalry, duty etc while the servant boy is more likely to be hired or indentured.\nCompare and contrast Pizza Boy Special Delivery and Cheating with the Milkman, for when the relationship is primarily sexual.\nAlso see Subordinate Excuse for when more personal reasons are involved in their working relationship.", 
+    "gender": "f", 
+    "adjs": [
+        "young", 
+        "certain", 
+        "overlap", 
+        "strange", 
+        "grown-up"
+    ], 
+    "adjectives": [
+        [
+            "lady/mistress", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "MistressAndServantBoy"
+            ]
+        ], 
+        [
+            "mentor/student", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "MistressAndServantBoy"
+            ]
+        ], 
+        [
+            "overlap", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "MistressAndServantBoy"
+            ]
+        ], 
+        [
+            "servant", 
+            1, 
+            10.085779901237863, 
+            1.0, 
+            [
+                "MistressAndServantBoy"
+            ]
+        ], 
+        [
+            "grown-up", 
+            1, 
+            9.042518987830341, 
+            0.896561205615891, 
+            [
+                "BlondeRepublicanSexKitten", 
+                "MistressAndServantBoy"
+            ]
+        ], 
+        [
+            "strange", 
+            1, 
+            9.042518987830341, 
+            0.896561205615891, 
+            [
+                "MistressAndServantBoy", 
+                "TheSquadette"
+            ]
+        ], 
+        [
+            "trouble", 
+            1, 
+            6.382592148621258, 
+            0.6328307985223731, 
+            [
+                "FemmeFatale", 
+                "SpiritedYoungLady", 
+                "DecoyDamsel", 
+                "MistressAndServantBoy", 
+                "MilesGloriosus", 
+                "DrillSergeantNasty", 
+                "WrenchWench", 
+                "MyBelovedSmother"
+            ]
+        ], 
+        [
+            "young", 
+            2, 
+            6.0336446348184385, 
+            0.5982328281899061, 
+            [
+                "OverprotectiveDad", 
+                "WomanInWhite", 
+                "MamaBear", 
+                "TheLadette", 
+                "GranolaGirl", 
+                "PrincelyYoungMan", 
+                "BaitAndSwitchLesbians", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "CuteSportsClubManager", 
+                "CollegeWidow", 
+                "MrsRobinson", 
+                "CoolBigSis", 
+                "EmotionlessGirl", 
+                "MatronChaperone", 
+                "SchoolgirlLesbians", 
+                "Ojou", 
+                "StringyHairedGhostGirl", 
+                "GoGetterGirl", 
+                "TheSquadette", 
+                "NaginatasAreFeminine", 
+                "LittleMissAlmighty", 
+                "WickedWitch", 
+                "MataHari", 
+                "NinjaMaid", 
+                "SmittenTeenageGirl", 
+                "TheHecateSisters", 
+                "TheFlapper", 
+                "MaidenAunt", 
+                "DeterminedWidow", 
+                "JeanneDArchetype", 
+                "MommasBoy", 
+                "GirlsLoveStuffedAnimals", 
+                "PirateGirl", 
+                "JunglePrincess", 
+                "NubileSavage", 
+                "BastardGirlfriend", 
+                "ShortTank", 
+                "OfficeLady", 
+                "GrannyClassic", 
+                "Kawaiiko", 
+                "VainSorceress", 
+                "GracefulLadiesLikePurple", 
+                "GrandeDame", 
+                "BridgeBunnies", 
+                "Meido", 
+                "EverythingsBetterWithPrincesses", 
+                "OneeSama", 
+                "Hunk", 
+                "GrumpyOldMan", 
+                "HotWitch", 
+                "TheOphelia", 
+                "FilleFatale", 
+                "TheWomanWearingTheQueenlyMask", 
+                "TheIngenue", 
+                "SchoolMarm", 
+                "GirlishPigtails", 
+                "Fratbro", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "SenseiChan", 
+                "YaoiGuys", 
+                "TinyTyrannicalGirl", 
+                "MysteriousWaif", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "NaiveEverygirl", 
+                "PrinceCharming", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HotScientist", 
+                "KidAnova", 
+                "PapaWolf", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "BrawnHilda", 
+                "LittleMissBadass", 
+                "MagicIdolSinger", 
+                "PetitePride", 
+                "DarkMagicalGirl", 
+                "PluckyGirl", 
+                "SexyPriest", 
+                "SweetPollyOliver"
+            ]
+        ], 
+        [
+            "major", 
+            1, 
+            4.787150542526959, 
+            0.47464356642756156, 
+            [
+                "Tomboy", 
+                "MistressAndServantBoy", 
+                "EvenTheGirlsWantHer", 
+                "ChildSoldiers", 
+                "IceQueen", 
+                "DirtyCoward", 
+                "WomenDrivers", 
+                "BastardBoyfriend", 
+                "BaitAndSwitchLesbians", 
+                "PregnantBadass", 
+                "FilleFatale", 
+                "FanserviceExtra", 
+                "DefectingForLove", 
+                "OfficerAndAGentleman", 
+                "BoyBand", 
+                "EmotionlessGirl", 
+                "Meganekko", 
+                "HeManWomanHater", 
+                "GirlInABox", 
+                "AsianAirhead", 
+                "DressesGownsAndSkirts"
+            ]
+        ], 
+        [
+            "personal", 
+            1, 
+            3.9388839782566754, 
+            0.3905383635997492, 
+            [
+                "BeardOfSorrow", 
+                "OverprotectiveDad", 
+                "TheLadysFavour", 
+                "MamaBear", 
+                "GlamorousSingleMother", 
+                "MistressAndServantBoy", 
+                "ArchnemesisDad", 
+                "GIRL", 
+                "GoGetterGirl", 
+                "NeverASelfMadeWoman", 
+                "OldMaid", 
+                "SchoolNurse", 
+                "LadyInWaiting", 
+                "BattleButler", 
+                "BastardGirlfriend", 
+                "ChivalrousPervert", 
+                "TheSlacker", 
+                "MataHari", 
+                "MilesGloriosus", 
+                "GoodOlBoy", 
+                "HenpeckedHusband", 
+                "CrusadingWidower", 
+                "MyBelovedSmother", 
+                "BrattyTeenageDaughter", 
+                "DragonLady", 
+                "HouseWife", 
+                "TheMuse", 
+                "AmazonBrigade", 
+                "ProperLady", 
+                "JewishMother", 
+                "BrawnHilda", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "romantic", 
+            1, 
+            3.448776501423067, 
+            0.34194445399307066, 
+            [
+                "UnrequitedTragicMaiden", 
+                "FemmeFatale", 
+                "AdrenalineMakeover", 
+                "BastardBoyfriend", 
+                "MistressAndServantBoy", 
+                "NeutralFemale", 
+                "SchoolgirlLesbians", 
+                "FinalGirl", 
+                "DoggedNiceGuy", 
+                "BashBrothers", 
+                "LittleSisterHeroine", 
+                "MagicalGirlfriend", 
+                "NaiveEverygirl", 
+                "QuicklyDemotedWoman", 
+                "FeminineWomenCanCook", 
+                "BespectacledBastardBoyfriend", 
+                "TheChanteuse", 
+                "InnocentFanserviceGirl", 
+                "GaussianGirl", 
+                "SensitiveGuyAndManlyMan", 
+                "BaitAndSwitchLesbians", 
+                "BromanticFoil", 
+                "TheIngenue", 
+                "CockFight", 
+                "UnderstandingBoyfriend", 
+                "ButchLesbian", 
+                "IllGirl", 
+                "SchoolMarm", 
+                "Dominatrix", 
+                "StumblingUponTheLostWizard", 
+                "OneeSama", 
+                "AsianHookerStereotype"
+            ]
+        ], 
+        [
+            "big", 
+            1, 
+            3.4065534161834474, 
+            0.33775805634677286, 
+            [
+                "TheUglyGuysHotDaughter", 
+                "LittleRedFightingHood", 
+                "HugeSchoolgirl", 
+                "MistressAndServantBoy", 
+                "EarthMother", 
+                "CuteGhostGirl", 
+                "Bridezilla", 
+                "SmallGirlBigGun", 
+                "UnluckyEveryDude", 
+                "GoGetterGirl", 
+                "ArabOilSheikh", 
+                "Beastess", 
+                "BashBrothers", 
+                "FatGirl", 
+                "FauxActionGirl", 
+                "TheFlapper", 
+                "GreenSkinnedSpaceBabe", 
+                "TinyTyrannicalGirl", 
+                "GrannyClassic", 
+                "HotMenAtWork", 
+                "MrFixit", 
+                "AgentPeacock", 
+                "MountainMan", 
+                "TopHeavyGuy", 
+                "Hunk", 
+                "StoutStrength", 
+                "Fratbro", 
+                "VainSorceress", 
+                "MysteriousWaif", 
+                "BarbaricBully", 
+                "LeatherMan", 
+                "GreatWhiteHunter", 
+                "FanserviceExtra", 
+                "Meganekko", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "certain", 
+            1, 
+            2.9678590293621254, 
+            0.29426172873332973, 
+            [
+                "YamatoNadeshiko", 
+                "Fangirl", 
+                "ChildSoldiers", 
+                "TheEvilPrince", 
+                "PrincelyYoungMan", 
+                "GoodBadGirl", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "TheTease", 
+                "EmotionlessGirl", 
+                "TheVamp", 
+                "PrettyBoy", 
+                "FinalGirl", 
+                "FeminineWomenCanCook", 
+                "GoGetterGirl", 
+                "SpiritedYoungLady", 
+                "BashBrothers", 
+                "TheFightingNarcissist", 
+                "BeardOfEvil", 
+                "ShelteredAristocrat", 
+                "AgentPeacock", 
+                "OldMaid", 
+                "GentlemanThief", 
+                "LesbianCop", 
+                "JerkJock", 
+                "ClassyCatBurglar", 
+                "MissKitty", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "ButchLesbian", 
+                "InnocentFanserviceGirl", 
+                "NonActionGuy", 
+                "Samurai", 
+                "DisposableSexWorker", 
+                "SensitiveGuyAndManlyMan", 
+                "GirlsLoveStuffedAnimals", 
+                "HotWitch", 
+                "DirtyCoward", 
+                "EstrogenBrigade", 
+                "DaddysLittleVillain", 
+                "LesbianJock", 
+                "YaoiGuys", 
+                "ManlyGay", 
+                "LeatherMan", 
+                "IronLady", 
+                "WomenDrivers", 
+                "ShirtlessScene", 
+                "SissyVillain", 
+                "WomanInBlack", 
+                "DumbassTeenageSon", 
+                "LadyOfWar", 
+                "GenderInvertedTrope"
+            ]
+        ], 
+        [
+            "sexual", 
+            1, 
+            2.814438754324593, 
+            0.27905018569552237, 
+            [
+                "WidowWoman", 
+                "CollegeWidow", 
+                "FemmeFatale", 
+                "ALadyOnEachArm", 
+                "TheLadette", 
+                "BumblingDad", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "FemaleMisogynist", 
+                "TheVamp", 
+                "Dominatrix", 
+                "HighHeelFaceTurn", 
+                "SassyBlackWoman", 
+                "CampStraight", 
+                "GagPenis", 
+                "DistractedByTheLuxury", 
+                "CarpetOfVirility", 
+                "NeverASelfMadeWoman", 
+                "PrincessClassic", 
+                "AgentPeacock", 
+                "TheCasanova", 
+                "TheLoinsSleepTonight", 
+                "FeminineWomenCanCook", 
+                "DepravedHomosexual", 
+                "LadyInRed", 
+                "MadonnaWhoreComplex", 
+                "BastardGirlfriend", 
+                "TheFlapper", 
+                "MataHari", 
+                "GoodBadGirl", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "OfficeLady", 
+                "Fangirl", 
+                "FilleFatale", 
+                "TheIngenue", 
+                "AccidentalPornomancer", 
+                "Gayngster", 
+                "GayBravado", 
+                "LesbianVampire", 
+                "DragonLady", 
+                "Bishonen", 
+                "GodSaveUsFromTheQueen", 
+                "BiggerIsBetterInBed"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/MistressAndServantBoy.png", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "TopHeavyGuy", 
+            "trope": "MistressAndServantBoy", 
+            "films": [
+                "TheEmperorsNewGroove"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NeutralFemale", 
+            "trope": "MistressAndServantBoy", 
+            "films": [
+                "ThePrincessBride"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WorldsStrongestMan", 
+            "trope": "MistressAndServantBoy", 
+            "films": [
+                "ThePrincessBride"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MrsRobinson", 
+            "trope": "MistressAndServantBoy", 
+            "films": [
+                "TheEmperorsNewGroove"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ShirtlessScene", 
+            "trope": "MistressAndServantBoy", 
+            "films": [
+                "TheProposal"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheIngenue", 
+            "trope": "MistressAndServantBoy", 
+            "films": [
+                "SunsetBoulevard"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StoutStrength", 
+            "trope": "MistressAndServantBoy", 
+            "films": [
+                "ThePrincessBride"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheGoodKing", 
+            "trope": "MistressAndServantBoy", 
+            "films": [
+                "ThePrincessBride"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WhiteDwarfStarlet", 
+            "trope": "MistressAndServantBoy", 
+            "films": [
+                "SunsetBoulevard"
+            ]
+        }
+    ], 
+    "id": "MistressAndServantBoy", 
+    "name": "Mistress And Servant Boy"
+}

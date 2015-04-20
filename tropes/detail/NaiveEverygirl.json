@@ -1,0 +1,531 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            4, 
+            0.022727272727272728, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            3, 
+            0.013333333333333334, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            4, 
+            0.004519774011299435, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            5, 
+            0.008787346221441126, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "A romantic, innocent character, almost always a preteen or teenage girl, who is essentially a fairy-tale heroine in the present (or in the science-fiction future). She is na\u00efve, ignorant and insecure (especially about her body). She will be the target of every bully in the world, especially the Alpha Bitch. All she has going for her is her pure heart, which will save her \u2014 she never gives up, no matter what, and will eventually get the better of her tormentors.\nThe Na\u00efve Everygirl is not a saint, however. She's bad at showing gratitude, which tends to drive her friends away when she needs them. But eventually she will reconcile with the people who helped her, after wondering how she could be so blind.\nThis character is mostly a Discredited Trope on Western TV nowadays but were popular before 1990s; only the most idealistic shows on the Sliding Scale of Idealism Versus Cynicism have one nowadays. But in film and \"young adult\" fiction, she is inescapable and they are frequent protagonists of Sh\u014djo (Demographic) stories written by women.\nSee also Wide-Eyed Idealist, Love Freak, The Ingenue. Compare Unlucky Everydude, her spear counterpart.", 
+    "gender": "f", 
+    "adjs": [
+        "romantic", 
+        "preteen", 
+        "fairy-tale", 
+        "na\u00efve", 
+        "ignorant"
+    ], 
+    "adjectives": [
+        [
+            "fairy-tale", 
+            1, 
+            10.530773691358384, 
+            1.0, 
+            [
+                "NaiveEverygirl"
+            ]
+        ], 
+        [
+            "preteen", 
+            1, 
+            10.530773691358384, 
+            1.0, 
+            [
+                "NaiveEverygirl"
+            ]
+        ], 
+        [
+            "inescapable", 
+            1, 
+            9.486866121696911, 
+            0.9008707621816895, 
+            [
+                "NaiveEverygirl", 
+                "BlondGuysAreEvil"
+            ]
+        ], 
+        [
+            "ignorant", 
+            1, 
+            8.809858692382944, 
+            0.8365822826116154, 
+            [
+                "TheLadette", 
+                "NaiveEverygirl", 
+                "SportsWidow"
+            ]
+        ], 
+        [
+            "wide-eyed", 
+            1, 
+            8.809858692382944, 
+            0.8365822826116154, 
+            [
+                "TheIngenue", 
+                "NaiveEverygirl", 
+                "KnightInShiningArmor"
+            ]
+        ], 
+        [
+            "frequent", 
+            1, 
+            8.307104331819156, 
+            0.7888408368927362, 
+            [
+                "HighHeelFaceTurn", 
+                "WalkingShirtlessScene", 
+                "NaiveEverygirl", 
+                "NoWomansLand"
+            ]
+        ], 
+        [
+            "idealistic", 
+            1, 
+            7.5746775468985525, 
+            0.7192897472589672, 
+            [
+                "GrandeDame", 
+                "BrokenBird", 
+                "MafiaPrincess", 
+                "MataHari", 
+                "NaiveEverygirl", 
+                "TheCutie"
+            ]
+        ], 
+        [
+            "na\u00efve", 
+            1, 
+            7.5746775468985525, 
+            0.7192897472589672, 
+            [
+                "GirlNextDoor", 
+                "MilesGloriosus", 
+                "FauxActionGirl", 
+                "LightFeminineAndDarkFeminine", 
+                "MatronChaperone", 
+                "NaiveEverygirl"
+            ]
+        ], 
+        [
+            "romantic", 
+            1, 
+            3.866610728877707, 
+            0.36717252143122886, 
+            [
+                "UnrequitedTragicMaiden", 
+                "FemmeFatale", 
+                "AdrenalineMakeover", 
+                "BastardBoyfriend", 
+                "MistressAndServantBoy", 
+                "NeutralFemale", 
+                "SchoolgirlLesbians", 
+                "FinalGirl", 
+                "DoggedNiceGuy", 
+                "BashBrothers", 
+                "LittleSisterHeroine", 
+                "MagicalGirlfriend", 
+                "NaiveEverygirl", 
+                "QuicklyDemotedWoman", 
+                "FeminineWomenCanCook", 
+                "BespectacledBastardBoyfriend", 
+                "TheChanteuse", 
+                "InnocentFanserviceGirl", 
+                "GaussianGirl", 
+                "SensitiveGuyAndManlyMan", 
+                "BaitAndSwitchLesbians", 
+                "BromanticFoil", 
+                "TheIngenue", 
+                "CockFight", 
+                "UnderstandingBoyfriend", 
+                "ButchLesbian", 
+                "IllGirl", 
+                "SchoolMarm", 
+                "Dominatrix", 
+                "StumblingUponTheLostWizard", 
+                "OneeSama", 
+                "AsianHookerStereotype"
+            ]
+        ], 
+        [
+            "bad", 
+            1, 
+            3.023156780257581, 
+            0.28707831626259345, 
+            [
+                "AsianHookerStereotype", 
+                "ViolentlyProtectiveGirlFriend", 
+                "FemmeFatale", 
+                "AdrenalineMakeover", 
+                "BastardBoyfriend", 
+                "ManInAKilt", 
+                "DarkMistress", 
+                "GoodGirlGoneBad", 
+                "LawmanGoneBad", 
+                "BoyBand", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "HeManWomanHater", 
+                "CulturedBadass", 
+                "TheBear", 
+                "LovableAlphaBitch", 
+                "TheCheerleader", 
+                "BlondGuysAreEvil", 
+                "HandsomeDevil", 
+                "BashBrothers", 
+                "ActionHeroBabysitter", 
+                "BeardOfEvil", 
+                "ShelteredAristocrat", 
+                "AlphaBitch", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "OverlordJr", 
+                "DamselInDistress", 
+                "KnightErrant", 
+                "NaiveEverygirl", 
+                "MommasBoy", 
+                "AsianAirhead", 
+                "BadassPrincess", 
+                "TheEvilPrince", 
+                "MenCantKeepHouse", 
+                "HeroicSeductress", 
+                "ClassyCatBurglar", 
+                "GirlNextDoor", 
+                "MorallyBankruptBanker", 
+                "NeverMessWithGranny", 
+                "GoodBadGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "TheCutie", 
+                "EvenTheGirlsWantHer", 
+                "OfficerAndAGentleman", 
+                "BeautifulAllAlong", 
+                "DaddysLittleVillain", 
+                "TheButcher", 
+                "WickedWitch", 
+                "LesbianVampire", 
+                "PrinceCharming", 
+                "RebelliousPrincess", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HouseWife", 
+                "NaughtyNuns", 
+                "StageMom", 
+                "LightFeminineAndDarkFeminine", 
+                "PirateGirl", 
+                "DastardlyWhiplash", 
+                "TheWomanWearingTheQueenlyMask", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "popular", 
+            1, 
+            2.644734598933736, 
+            0.25114342748662627, 
+            [
+                "PerkyGoth", 
+                "AngryBlackMan", 
+                "LovableAlphaBitch", 
+                "IdolSinger", 
+                "NerdNanny", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "TomBoyAndGirlyGirl", 
+                "EarthMother", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "YamatoNadeshiko", 
+                "MarySue", 
+                "HotScoop", 
+                "DirtyOldWoman", 
+                "StringyHairedGhostGirl", 
+                "GirlGroup", 
+                "SpiritedYoungLady", 
+                "WomenDrivers", 
+                "HotScientist", 
+                "LittleSisterHeroine", 
+                "GirlPosse", 
+                "AlphaBitch", 
+                "TheFlapper", 
+                "MagicalGirlfriend", 
+                "BaldBlackLeaderGuy", 
+                "NaiveEverygirl", 
+                "ActionGirl", 
+                "BadassPrincess", 
+                "BeautyBrainsAndBrawn", 
+                "SexyStewardess", 
+                "MenCantKeepHouse", 
+                "JerkJock", 
+                "BespectacledBastardBoyfriend", 
+                "MorallyBankruptBanker", 
+                "CosplayOtakuGirl", 
+                "GracefulLadiesLikePurple", 
+                "Samurai", 
+                "DamselInDistress", 
+                "SweetPollyOliver", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "CuteSportsClubManager", 
+                "StoutStrength", 
+                "TheIngenue", 
+                "Fratbro", 
+                "Tomboy", 
+                "VainSorceress", 
+                "BigManOnCampus", 
+                "LesbianVampire", 
+                "BarbaricBully", 
+                "Ladyella", 
+                "LittleDeadRidingHood", 
+                "FavorsForTheSexy", 
+                "BattleaxeNurse", 
+                "DarkActionGirl", 
+                "RobotGirl", 
+                "SpoiledSweet", 
+                "Joshikousei", 
+                "ProperLady", 
+                "AsianAirhead", 
+                "HotGypsyWoman", 
+                "Bishonen", 
+                "FragileFlower", 
+                "Meganekko", 
+                "TokenYuriGirls", 
+                "GrumpyOldMan"
+            ]
+        ], 
+        [
+            "young", 
+            1, 
+            2.191101794923172, 
+            0.2080665541907147, 
+            [
+                "OverprotectiveDad", 
+                "WomanInWhite", 
+                "MamaBear", 
+                "TheLadette", 
+                "GranolaGirl", 
+                "PrincelyYoungMan", 
+                "BaitAndSwitchLesbians", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "CuteSportsClubManager", 
+                "CollegeWidow", 
+                "MrsRobinson", 
+                "CoolBigSis", 
+                "EmotionlessGirl", 
+                "MatronChaperone", 
+                "SchoolgirlLesbians", 
+                "Ojou", 
+                "StringyHairedGhostGirl", 
+                "GoGetterGirl", 
+                "TheSquadette", 
+                "NaginatasAreFeminine", 
+                "LittleMissAlmighty", 
+                "WickedWitch", 
+                "MataHari", 
+                "NinjaMaid", 
+                "SmittenTeenageGirl", 
+                "TheHecateSisters", 
+                "TheFlapper", 
+                "MaidenAunt", 
+                "DeterminedWidow", 
+                "JeanneDArchetype", 
+                "MommasBoy", 
+                "GirlsLoveStuffedAnimals", 
+                "PirateGirl", 
+                "JunglePrincess", 
+                "NubileSavage", 
+                "BastardGirlfriend", 
+                "ShortTank", 
+                "OfficeLady", 
+                "GrannyClassic", 
+                "Kawaiiko", 
+                "VainSorceress", 
+                "GracefulLadiesLikePurple", 
+                "GrandeDame", 
+                "BridgeBunnies", 
+                "Meido", 
+                "EverythingsBetterWithPrincesses", 
+                "OneeSama", 
+                "Hunk", 
+                "GrumpyOldMan", 
+                "HotWitch", 
+                "TheOphelia", 
+                "FilleFatale", 
+                "TheWomanWearingTheQueenlyMask", 
+                "TheIngenue", 
+                "SchoolMarm", 
+                "GirlishPigtails", 
+                "Fratbro", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "SenseiChan", 
+                "YaoiGuys", 
+                "TinyTyrannicalGirl", 
+                "MysteriousWaif", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "NaiveEverygirl", 
+                "PrinceCharming", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HotScientist", 
+                "KidAnova", 
+                "PapaWolf", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "BrawnHilda", 
+                "LittleMissBadass", 
+                "MagicIdolSinger", 
+                "PetitePride", 
+                "DarkMagicalGirl", 
+                "PluckyGirl", 
+                "SexyPriest", 
+                "SweetPollyOliver"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/NaiveEverygirl.jpg", 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "NaiveEverygirl", 
+            "films": [
+                "NowAndThen", 
+                "Enchanted", 
+                "UncleTomsCabin", 
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TheIngenue", 
+            "trope": "NaiveEverygirl", 
+            "films": [
+                "Enchanted", 
+                "SunsetBoulevard", 
+                "Cinderella"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TeamMom", 
+            "trope": "NaiveEverygirl", 
+            "films": [
+                "NowAndThen", 
+                "UncleTomsCabin", 
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "NaiveEverygirl", 
+            "films": [
+                "CinderellaIIDreamsComeTrue", 
+                "Cinderella"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "PrinceCharming", 
+            "trope": "NaiveEverygirl", 
+            "films": [
+                "Enchanted", 
+                "Cinderella"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheFashionista", 
+            "trope": "NaiveEverygirl", 
+            "films": [
+                "Enchanted", 
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "PrincessClassic", 
+            "trope": "NaiveEverygirl", 
+            "films": [
+                "Enchanted", 
+                "Cinderella"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "PrettyBoy", 
+            "trope": "NaiveEverygirl", 
+            "films": [
+                "TeenBeachMovie", 
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TroubledButCute", 
+            "trope": "NaiveEverygirl", 
+            "films": [
+                "Twilight"
+            ]
+        }
+    ], 
+    "id": "NaiveEverygirl", 
+    "name": "Naive Everygirl"
+}

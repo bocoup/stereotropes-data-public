@@ -1,0 +1,147 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            1, 
+            0.0033112582781456954, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            3, 
+            0.005110732538330494, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "For some reason, writers seem to like to use the name \"Roy\" or \"Leroy\" to name a less than lovable character - either as an out and out villain or as the Butt Monkey of the story. This is perhaps because the name comes from the word \"Royal\", and therefore could sound like the name of a privileged person who needs to be taken down a peg or two.\nNamed for Evil Roy Slade, a TV movie about a wanted outlaw.\n\nExamples", 
+    "gender": "m", 
+    "adjs": [
+        "lovable", 
+        "privileged", 
+        "wanted"
+    ], 
+    "adjectives": [
+        [
+            "wanted", 
+            1, 
+            13.299479965194147, 
+            1.0, 
+            [
+                "EvilRoy"
+            ]
+        ], 
+        [
+            "privileged", 
+            1, 
+            11.574682517814686, 
+            0.8703109105097794, 
+            [
+                "GentlemanDetective", 
+                "BastardBastard", 
+                "EvilRoy"
+            ]
+        ], 
+        [
+            "lovable", 
+            1, 
+            9.575589168929868, 
+            0.7199972625989879, 
+            [
+                "BastardGirlfriend", 
+                "TheSlacker", 
+                "CoolOldGuy", 
+                "DirtyOldMan", 
+                "TheFakeCutie", 
+                "GoodOlBoy", 
+                "EvilRoy", 
+                "TheCutie", 
+                "PirateGirl"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "HotScoop", 
+            "trope": "EvilRoy", 
+            "films": [
+                "CrocodileDundee"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GreatWhiteHunter", 
+            "trope": "EvilRoy", 
+            "films": [
+                "CrocodileDundee"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MsFanservice", 
+            "trope": "EvilRoy", 
+            "films": [
+                "CrocodileDundee"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ManInWhite", 
+            "trope": "EvilRoy", 
+            "films": [
+                "EvilRoySlade"
+            ]
+        }
+    ], 
+    "id": "EvilRoy", 
+    "name": "Evil Roy"
+}

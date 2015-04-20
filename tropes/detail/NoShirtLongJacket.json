@@ -1,0 +1,158 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            1, 
+            0.0011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            6, 
+            0.01054481546572935, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "Badass Longcoat and Walking Shirtless Scene, two tropes that both represent the paragon of manliness and hotness. It might seem like the two are fundamentally incapable of being combined, but they can, as these brave men (and braver women) will show us below.\n\nExamples", 
+    "gender": "m", 
+    "adjs": [
+        "incapable"
+    ], 
+    "adjectives": [
+        "incapable"
+    ], 
+    "image_url": "assets/data/tropes/images/NoShirtLongJacket.jpg", 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "TheBaroness", 
+            "trope": "NoShirtLongJacket", 
+            "films": [
+                "SinCity", 
+                "FullmetalAlchemist", 
+                "Hellboy"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TheVamp", 
+            "trope": "NoShirtLongJacket", 
+            "films": [
+                "SinCity", 
+                "FullmetalAlchemist", 
+                "Hellboy"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "OverlordJr", 
+            "trope": "NoShirtLongJacket", 
+            "films": [
+                "SinCity", 
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WalkingShirtlessScene", 
+            "trope": "NoShirtLongJacket", 
+            "films": [
+                "FullmetalAlchemist", 
+                "SupermanVsTheElite"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "NoShirtLongJacket", 
+            "films": [
+                "SinCity", 
+                "Hellboy"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheEvilPrince", 
+            "trope": "NoShirtLongJacket", 
+            "films": [
+                "SinCity", 
+                "Hellboy"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "NoShirtLongJacket", 
+            "films": [
+                "SinCity", 
+                "Underworld"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "NoShirtLongJacket", 
+            "films": [
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Streetwalker", 
+            "trope": "NoShirtLongJacket", 
+            "films": [
+                "SinCity"
+            ]
+        }
+    ], 
+    "id": "NoShirtLongJacket", 
+    "name": "No Shirt Long Jacket"
+}

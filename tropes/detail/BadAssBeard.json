@@ -1,0 +1,305 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            2, 
+            0.011363636363636364, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            6, 
+            0.02666666666666667, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            3, 
+            0.009933774834437087, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            6, 
+            0.010221465076660987, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            12, 
+            0.013559322033898305, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            3, 
+            0.005272407732864675, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            18, 
+            0.02786377708978328, 
+            646
+        ]
+    ], 
+    "description": "Some badasses are not satisfied with just a Badass Mustache or Perma Stubble to show off their awesomeness.  No, they choose to take it further.  As opposed to facial hair growing above their upper lip, they won't be content until they have a full blown beard to show off.  Many times, it works for them where a simple mustache would just look foolish or out of place.  And when it does work, the gentleman in question is a bona fide tough guy, a man's man, a veritable buffet of manliness.\nIn short, it's what happens when the Badass Mustache gets cranked Up To Eleven.\nDistinct from Growing The Beard, but the two can most definitely overlap. Same thing goes for Beard Of Evil and Beard Of Barbarism.", 
+    "gender": "m", 
+    "adjs": [
+        "facial", 
+        "upper", 
+        "full", 
+        "simple", 
+        "foolish"
+    ], 
+    "adjectives": [
+        [
+            "veritable", 
+            1, 
+            11.914480172293118, 
+            1.0, 
+            [
+                "BadAssBeard"
+            ]
+        ], 
+        [
+            "foolish", 
+            1, 
+            10.190977293132523, 
+            0.8553438459557333, 
+            [
+                "TakingTheVeil", 
+                "BadAssBeard", 
+                "DarkActionGirl"
+            ]
+        ], 
+        [
+            "upper", 
+            1, 
+            7.815953078935489, 
+            0.656004539510782, 
+            [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "BadAssBeard", 
+                "TheFightingNarcissist", 
+                "HighClassCallGirl", 
+                "KickChick", 
+                "TopHeavyGuy", 
+                "Samurai", 
+                "ProperLady", 
+                "OfficerAndAGentleman"
+            ]
+        ], 
+        [
+            "facial", 
+            1, 
+            7.100075974920218, 
+            0.595919911926271, 
+            [
+                "BeardOfSorrow", 
+                "BeautyMark", 
+                "GaussianGirl", 
+                "BadAssBeard", 
+                "LooksLikeJesus", 
+                "BeardOfBarbarism", 
+                "HumanoidFemaleAnimal", 
+                "MysticalWaif", 
+                "Hunk", 
+                "Bishonen", 
+                "BeardOfEvil", 
+                "PrettyBoy", 
+                "BigBeautifulWoman", 
+                "TheGeneralissimo"
+            ]
+        ], 
+        [
+            "simple", 
+            1, 
+            6.873782192645845, 
+            0.5769267389970304, 
+            [
+                "GentlemanThief", 
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "BadAssBeard", 
+                "MamaBear", 
+                "LooksLikeJesus", 
+                "DaddysLittleVillain", 
+                "YamatoNadeshiko", 
+                "BarbaricBully", 
+                "MataHari", 
+                "SouthernGentleman", 
+                "Hunk", 
+                "DrillSergeantNasty", 
+                "GoodOlBoy", 
+                "LadyInWaiting", 
+                "TheHighQueen", 
+                "BadassPrincess"
+            ]
+        ], 
+        [
+            "full", 
+            1, 
+            5.3350120871213065, 
+            0.44777548075725276, 
+            [
+                "BeardOfSorrow", 
+                "YamatoNadeshiko", 
+                "BadAssBeard", 
+                "GirlsLoveStuffedAnimals", 
+                "FemininityFailure", 
+                "WhiteDwarfStarlet", 
+                "LawmanGoneBad", 
+                "BlondeRepublicanSexKitten", 
+                "StandardFiftiesFather", 
+                "CorruptHick", 
+                "LooksLikeJesus", 
+                "TheBaroness", 
+                "BashBrothers", 
+                "FauxActionGirl", 
+                "KnightErrant", 
+                "NaughtyNuns", 
+                "ManicPixieDreamGirl", 
+                "BattleButler", 
+                "BigBeautifulMan", 
+                "DaddysGirl", 
+                "GalleySlave", 
+                "NonActionSnarker", 
+                "BridgeBunnies", 
+                "Samurai", 
+                "SweetPollyOliver", 
+                "HotWitch", 
+                "DirtyCoward", 
+                "Hobos", 
+                "TheWomanWearingTheQueenlyMask", 
+                "GirlishPigtails", 
+                "WorldsStrongestMan", 
+                "TinyTyrannicalGirl", 
+                "LesbianVampire", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "BikerBabe", 
+                "StageMom", 
+                "HighSchoolHustler", 
+                "BassoProfundo"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/BadAssBeard.jpg", 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "PapaWolf", 
+            "trope": "BadAssBeard", 
+            "films": [
+                "BrotherBear", 
+                "HowToTrainYourDragon", 
+                "Thor", 
+                "LoneWolfAndCub"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "MsFanservice", 
+            "trope": "BadAssBeard", 
+            "films": [
+                "RIPD", 
+                "Comic8", 
+                "OnceUponATimeInTheWest", 
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "ShirtlessScene", 
+            "trope": "BadAssBeard", 
+            "films": [
+                "Skyfall", 
+                "TheLEGOMovie", 
+                "Thor", 
+                "Argo"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "BeardOfEvil", 
+            "trope": "BadAssBeard", 
+            "films": [
+                "FlashGordon", 
+                "OnceUponATimeInTheWest", 
+                "Nighthawks", 
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "BrokenBird", 
+            "trope": "BadAssBeard", 
+            "films": [
+                "Skyfall", 
+                "Dragonheart", 
+                "Thor"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "MrFanservice", 
+            "trope": "BadAssBeard", 
+            "films": [
+                "BrotherBear", 
+                "Thor", 
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "DistressedDude", 
+            "trope": "BadAssBeard", 
+            "films": [
+                "FlashGordon", 
+                "TheLEGOMovie", 
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "CoolOldLady", 
+            "trope": "BadAssBeard", 
+            "films": [
+                "Skyfall", 
+                "Insidious", 
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "CoolOldGuy", 
+            "trope": "BadAssBeard", 
+            "films": [
+                "Skyfall", 
+                "Thor", 
+                "PiratesOfTheCaribbean"
+            ]
+        }
+    ], 
+    "id": "BadAssBeard", 
+    "name": "Bad Ass Beard"
+}

@@ -1,0 +1,474 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            2, 
+            0.02197802197802198, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            2, 
+            0.018018018018018018, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            3, 
+            0.013333333333333334, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            1, 
+            0.0033112582781456954, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "A woman enters a religious community, usually to take vows. Either as a nun or a religious sister. This is more commonly historically, or in historical works.\nReasons of drama have split this up into several types:\nRetiring to a convent\nA woman, often elderly, usually widowed or heartbroken, goes to a convent to take refuge from the world, or perhaps an Arranged Marriage or to escape from an abusive marriage already in effect. A rape victim may avoid the malicious gossip (or perhaps Honor-Related Abuse) and hide in all-female world. After a Heel-Face Turn, this may show repentence. Some do not actually take vows, but none of them intend to return to the world.\nThis is usually a Ending Trope, and a Bittersweet Ending at that, because she usually is escaping tragedy to the only refuge she has. It may also be a way to dispose of minor characters without much ado.\nIn the middle of the story, a character may attempt this, but this usually leads to the abbess rebuking her gently and sending her back into the world on the grounds she has no vocation.\nImmured\nA woman's father ruthlessly compels her to enter the convent to shut her off from her lover, because he thinks she has disgraced the family, or just to save her dowry. (The permanant form of Locked Away in a Monastery.)\nOr a woman who promised I Will Wait for You foolishly gave up hope, and her lover returns to find she entered a convent. Horrors! This differs from Retiring to A Convent in that her decision was foolish even if a desperate attempt to escape an Arranged Marriage, and her being bound by her vows is treated as a dreadful thing. Unsurprisingly this particular trope was chiefly Protestant, and was a Discredited Trope by the end of the Victorian era.\nVocation\nUsually found only in explicitly religious literature. A woman wants to become a nun when her family considers it her duty to submit to an Arranged Marriage. She is often \u2014 especially when the story is far removed from Real Life \u2014 So Beautiful, It's a Curse, because they think they can get a good match because of it.\nA Real Life vocation is a spiritual prompting, like becoming a priest or minister after feeling \"called\" by God. But a woman who merely wants to become a nun and does seldom appears in stories while she is doing it, because that part of her story lacks drama.\nMen can fall under any of these reason as well, although their greater ability to control their own lives and lesser need for a refuge have meant it's a predominately female trope.\nThese tropes can apply to either Buddhist or Christian nuns \u2014 and were used in some Crystal Dragon Jesus pagan situations. Note that it applies only to nuns, and monks, whose taking vows was a significant event in either the story itself or its Back Story. Has nothing to do with Get Thee to a Nunnery.", 
+    "gender": "f", 
+    "adjs": [
+        "religious", 
+        "religious", 
+        "historical", 
+        "arranged", 
+        "abusive"
+    ], 
+    "adjectives": [
+        [
+            "religious", 
+            3, 
+            25.985685255298854, 
+            1.0, 
+            [
+                "TakingTheVeil", 
+                "CorruptHick", 
+                "NaughtyNuns", 
+                "BellyDancer", 
+                "Valkyries"
+            ]
+        ], 
+        [
+            "arranged", 
+            2, 
+            17.828176924892155, 
+            0.6860768438368094, 
+            [
+                "TakingTheVeil", 
+                "RebelliousPrincess"
+            ]
+        ], 
+        [
+            "dreadful", 
+            1, 
+            9.957133870223307, 
+            0.38317765232659795, 
+            [
+                "TakingTheVeil"
+            ]
+        ], 
+        [
+            "honor-related", 
+            1, 
+            9.957133870223307, 
+            0.38317765232659795, 
+            [
+                "TakingTheVeil"
+            ]
+        ], 
+        [
+            "all-female", 
+            1, 
+            8.914088462446077, 
+            0.3430384219184047, 
+            [
+                "TakingTheVeil", 
+                "GirlGroup"
+            ]
+        ], 
+        [
+            "foolish", 
+            1, 
+            8.237943195016353, 
+            0.31701850900147105, 
+            [
+                "TakingTheVeil", 
+                "BadAssBeard", 
+                "DarkActionGirl"
+            ]
+        ], 
+        [
+            "malicious", 
+            1, 
+            8.237943195016353, 
+            0.31701850900147105, 
+            [
+                "TakingTheVeil", 
+                "ApronMatron", 
+                "StageMom"
+            ]
+        ], 
+        [
+            "spiritual", 
+            1, 
+            7.7360509963368065, 
+            0.2977043291463447, 
+            [
+                "CulturedBadass", 
+                "TakingTheVeil", 
+                "TheChick", 
+                "SwingLowSweetHarriet"
+            ]
+        ], 
+        [
+            "historical", 
+            1, 
+            5.880167796633887, 
+            0.22628488488425896, 
+            [
+                "TakingTheVeil", 
+                "GoGetterGirl", 
+                "LeatherMan", 
+                "SpiritedYoungLady", 
+                "TheChiefsDaughter", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "Samurai", 
+                "ManInAKilt", 
+                "TheCasanova", 
+                "JeanneDArchetype"
+            ]
+        ], 
+        [
+            "abusive", 
+            1, 
+            5.566211214258188, 
+            0.21420297981648023, 
+            [
+                "TakingTheVeil", 
+                "PirateGirl", 
+                "ThePatriarch", 
+                "PervertDad", 
+                "BespectacledBastardBoyfriend", 
+                "EvilMatriarch", 
+                "BastardBoyfriend", 
+                "DrillSergeantNasty", 
+                "DarkMagicalGirl", 
+                "WomanScorned", 
+                "JerkJock"
+            ]
+        ], 
+        [
+            "significant", 
+            1, 
+            5.296701830382503, 
+            0.20383152410046332, 
+            [
+                "TakingTheVeil", 
+                "DamselOutOfDistress", 
+                "IllGirl", 
+                "NaughtyByNight", 
+                "BathingBeauty", 
+                "MsFanservice", 
+                "GlamorousWartimeSinger", 
+                "GirlOfTheWeek", 
+                "QuicklyDemotedWoman", 
+                "LadyNotAppearingInThisGame", 
+                "BaitAndSwitchLesbians", 
+                "HouseHusband", 
+                "WomanScorned", 
+                "MartyStu", 
+                "UnderstandingBoyfriend"
+            ]
+        ], 
+        [
+            "particular", 
+            1, 
+            4.191183660433943, 
+            0.1612881715166353, 
+            [
+                "WidowWoman", 
+                "YamatoNadeshiko", 
+                "MamaBear", 
+                "WickedStepmother", 
+                "AdrenalineMakeover", 
+                "BoyBand", 
+                "StringyHairedGhostGirl", 
+                "ChildSoldiers", 
+                "KnightInShiningArmor", 
+                "BaitAndSwitchLesbians", 
+                "PlayboyBunny", 
+                "TakingTheVeil", 
+                "PrincessPhase", 
+                "Meido", 
+                "OneeSama", 
+                "JadedWashout", 
+                "TheOphelia", 
+                "EstrogenBrigade", 
+                "GoodOlBoy", 
+                "MrFanservice", 
+                "SpicyLatina", 
+                "VainSorceress", 
+                "TheFightingNarcissist", 
+                "LittleGirlsKickShins", 
+                "MarySue"
+            ]
+        ], 
+        [
+            "good", 
+            1, 
+            0.9333558471559413, 
+            0.03591807712539028, 
+            [
+                "OutdoorsyGal", 
+                "ChildSoldiers", 
+                "BeardOfBarbarism", 
+                "AdrenalineMakeover", 
+                "KickingAssInAllHerFinery", 
+                "LovelyAssistant", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "EducationMama", 
+                "DisguisedInDrag", 
+                "KnightInShiningArmor", 
+                "SpiritedYoungLady", 
+                "ManInAKilt", 
+                "AgentPeacock", 
+                "MagicalGirlfriend", 
+                "HuskyRusskie", 
+                "TheGoodKing", 
+                "TheLoinsSleepTonight", 
+                "TheEvilPrince", 
+                "TomboyWithAGirlyStreak", 
+                "HeroicSeductress", 
+                "ManInWhite", 
+                "BathingBeauty", 
+                "HandyMan", 
+                "EverythingsBetterWithPrincesses", 
+                "MilesGloriosus", 
+                "DirtyCoward", 
+                "NeutralFemale", 
+                "StoutStrength", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "DirtyHarriet", 
+                "NubileSavage", 
+                "KavorkaMan", 
+                "BlackBossLady", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ProperLady", 
+                "DarkMagicalGirl", 
+                "WizardBeard", 
+                "MadScientistsBeautifulDaughter", 
+                "DumbMuscle", 
+                "DirtyOldMan", 
+                "HouseHusband", 
+                "TheCheerleader", 
+                "GodSaveUsFromTheQueen", 
+                "BeardOfEvil", 
+                "AsianAirhead", 
+                "LadyInRed", 
+                "HighClassCallGirl", 
+                "GentlemanWizard", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "MagicIdolSinger", 
+                "OfficerAndAGentleman", 
+                "BeautifulAllAlong", 
+                "BrokenBird", 
+                "SassyBlackWoman", 
+                "TheWisePrince", 
+                "GymBunny", 
+                "PerkyFemaleMinion", 
+                "CoolOldLady", 
+                "UncannyValleyGirl", 
+                "StageMom", 
+                "GoodBadGirl", 
+                "WinterRoyalLady", 
+                "LawmanGoneBad", 
+                "LadyMacBeth", 
+                "TheVamp", 
+                "MadonnaWhoreComplex", 
+                "TheBaroness", 
+                "GamblerGroupies", 
+                "HotScientist", 
+                "PrincessClassic", 
+                "HardDrinkingPartyGirl", 
+                "SeashellBra", 
+                "BaldBlackLeaderGuy", 
+                "TakingTheVeil", 
+                "GentlemanThief", 
+                "ClassyCatBurglar", 
+                "GirlNextDoor", 
+                "DecoyDamsel", 
+                "QuintessentialBritishGentleman", 
+                "HookerWithAHeartOfGold", 
+                "TheOphelia", 
+                "Hobos", 
+                "CrusadingWidower", 
+                "TheButcher", 
+                "AccidentalPornomancer", 
+                "TheDandy", 
+                "VainSorceress", 
+                "BigManOnCampus", 
+                "MachoMasochism", 
+                "GoodGirlGoneBad", 
+                "HotScoop", 
+                "TheMuse", 
+                "SwingLowSweetHarriet", 
+                "BattleaxeNurse", 
+                "HighSchoolHustler", 
+                "LightFeminineAndDarkFeminine", 
+                "MaidenAunt", 
+                "YamatoNadeshiko", 
+                "TheLadysFavour", 
+                "FemmeFatale", 
+                "HighHeelFaceTurn", 
+                "CampGay", 
+                "BlondeRepublicanSexKitten", 
+                "MonogenderMonsters", 
+                "ShelteredAristocrat", 
+                "TheGambler", 
+                "StatuesqueStunner", 
+                "NobleMaleRoguishMale", 
+                "PregnantHostage", 
+                "SoapBoxSadie", 
+                "Streetwalker", 
+                "ChivalrousPervert", 
+                "GrannyClassic", 
+                "MorallyBankruptBanker", 
+                "ValleyGirl", 
+                "MataHari", 
+                "WorldsMostBeautifulWoman", 
+                "GrumpyOldMan", 
+                "DefectingForLove", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "WickedWitch", 
+                "RebelPrince", 
+                "GrandeDame", 
+                "MysteriousWaif", 
+                "StumblingUponTheLostWizard", 
+                "DarkActionGirl", 
+                "BastardBastard", 
+                "ButterFace", 
+                "AbsentMindedProfessor", 
+                "JewishMother", 
+                "DamselInDistress"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "TakingTheVeil", 
+            "films": [
+                "TheSoundOfMusic"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ThePatriarch", 
+            "trope": "TakingTheVeil", 
+            "films": [
+                "TheSoundOfMusic"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCharmer", 
+            "trope": "TakingTheVeil", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheDandy", 
+            "trope": "TakingTheVeil", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TeamMom", 
+            "trope": "TakingTheVeil", 
+            "films": [
+                "TheSoundOfMusic"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WickedStepmother", 
+            "trope": "TakingTheVeil", 
+            "films": [
+                "TheSoundOfMusic"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "UnrequitedTragicMaiden", 
+            "trope": "TakingTheVeil", 
+            "films": [
+                "Hamlet"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheOphelia", 
+            "trope": "TakingTheVeil", 
+            "films": [
+                "Hamlet"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheGoodKing", 
+            "trope": "TakingTheVeil", 
+            "films": [
+                "Hamlet"
+            ]
+        }
+    ], 
+    "id": "TakingTheVeil", 
+    "name": "Taking The Veil"
+}

@@ -1,0 +1,178 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "Ahh! A monster! A squicky mess of tentacles and seventeen eyes, a-and hideous teeth a-and his breath smells like sulfur and he opens his mouth! He's about to speak! He says: \"I'm a she.\"\nYou see, in the mind of the audience (or at least in the mind of some characters) monsters are often initially assumed to be male. This trope covers situations when these characters are surprised to find out that the monster is, in fact, a female.\nThis takes the form of a monster in some way having her gender revealed, and someone acting surprised by this.\nSee also Samus Is a Girl, Monster Is a Mommy and Your Tomcat Is Pregnant.", 
+    "gender": "f", 
+    "adjs": [
+        "squicky", 
+        "a-and", 
+        "hideous"
+    ], 
+    "adjectives": [
+        [
+            "a-and", 
+            1, 
+            13.299479965194147, 
+            1.0, 
+            [
+                "FemaleMonsterSurprise"
+            ]
+        ], 
+        [
+            "hideous", 
+            1, 
+            13.299479965194147, 
+            1.0, 
+            [
+                "FemaleMonsterSurprise"
+            ]
+        ], 
+        [
+            "squicky", 
+            1, 
+            12.253631171330664, 
+            0.9213616775542686, 
+            [
+                "CatholicSchoolGirlsRule", 
+                "FemaleMonsterSurprise"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "FemininityFailure", 
+            "trope": "FemaleMonsterSurprise", 
+            "films": [
+                "Shrek"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LittleRedFightingHood", 
+            "trope": "FemaleMonsterSurprise", 
+            "films": [
+                "Shrek"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PrinceCharmless", 
+            "trope": "FemaleMonsterSurprise", 
+            "films": [
+                "Shrek"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "KickingAssInAllHerFinery", 
+            "trope": "FemaleMonsterSurprise", 
+            "films": [
+                "Shrek"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GentlemanThief", 
+            "trope": "FemaleMonsterSurprise", 
+            "films": [
+                "Popeye"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "KavorkaMan", 
+            "trope": "FemaleMonsterSurprise", 
+            "films": [
+                "Popeye"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PrinceCharming", 
+            "trope": "FemaleMonsterSurprise", 
+            "films": [
+                "Shrek"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PapaWolf", 
+            "trope": "FemaleMonsterSurprise", 
+            "films": [
+                "Popeye"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomenDrivers", 
+            "trope": "FemaleMonsterSurprise", 
+            "films": [
+                "Popeye"
+            ]
+        }
+    ], 
+    "id": "FemaleMonsterSurprise", 
+    "name": "Female Monster Surprise"
+}

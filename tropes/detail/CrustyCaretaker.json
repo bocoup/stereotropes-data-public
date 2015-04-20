@@ -1,0 +1,183 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            1, 
+            0.016666666666666666, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            2, 
+            0.02197802197802198, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            2, 
+            0.018018018018018018, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            3, 
+            0.017045454545454544, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            4, 
+            0.017777777777777778, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            6, 
+            0.010221465076660987, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            9, 
+            0.010169491525423728, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            3, 
+            0.005272407732864675, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            7, 
+            0.010835913312693499, 
+            646
+        ]
+    ], 
+    "description": "He - and it is always he - is a caretaker, janitor, groundskeeper, or better yet, gravekeeper, who is crusty, uncouth, or otherwise lacking in people skills.\nPopular in horror, because there's a lot of overlap with The Igor, Sycophantic Servant, and The Renfield.\nThen, may also be the Old Retainer, in which case he is often the Jerk with a Heart of Gold. Expect the children of the house to love him despite his rough exterior.\nHis female counterpart is the Creepy Housekeeper.", 
+    "gender": "m", 
+    "adjs": [
+        "crusty", 
+        "rough"
+    ], 
+    "adjectives": [
+        [
+            "crusty", 
+            1, 
+            14.109978565548174, 
+            1.0, 
+            [
+                "CrustyCaretaker"
+            ]
+        ], 
+        [
+            "rough", 
+            1, 
+            10.856834822091741, 
+            0.7694437501556866, 
+            [
+                "ThePatriarch", 
+                "SensitiveGuyAndManlyMan", 
+                "BeautifulAllAlong", 
+                "CrustyCaretaker", 
+                "Fratbro", 
+                "SpicyLatina", 
+                "TheDandy"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/CrustyCaretaker.png", 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "StringyHairedGhostGirl", 
+            "trope": "CrustyCaretaker", 
+            "films": [
+                "SilentHill", 
+                "TheScreamingSkull", 
+                "ScaryMovie"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "MamaBear", 
+            "trope": "CrustyCaretaker", 
+            "films": [
+                "DarkWater", 
+                "DontBeAfraidOfTheDark"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "IllGirl", 
+            "trope": "CrustyCaretaker", 
+            "films": [
+                "WutheringHeights", 
+                "TheSecretGarden"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "HauntedHeroine", 
+            "trope": "CrustyCaretaker", 
+            "films": [
+                "DarkWater", 
+                "TheHaunting1963"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "ShirtlessScene", 
+            "trope": "CrustyCaretaker", 
+            "films": [
+                "TheBurning", 
+                "Gutterballs"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheChick", 
+            "trope": "CrustyCaretaker", 
+            "films": [
+                "ScoobyDoo", 
+                "ParaNorman"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "NeutralFemale", 
+            "trope": "CrustyCaretaker", 
+            "films": [
+                "ManosTheHandsOfFate", 
+                "TerrorFromTheYear5000"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "MsFanservice", 
+            "trope": "CrustyCaretaker", 
+            "films": [
+                "ScoobyDoo", 
+                "ParaNorman"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SassyBlackWoman", 
+            "trope": "CrustyCaretaker", 
+            "films": [
+                "UrbanLegend", 
+                "ScaryMovie"
+            ]
+        }
+    ], 
+    "id": "CrustyCaretaker", 
+    "name": "Crusty Caretaker"
+}

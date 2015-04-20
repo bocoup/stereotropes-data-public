@@ -1,0 +1,316 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            3, 
+            0.013333333333333334, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            1, 
+            0.0011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "This species has seldom been seen and naturalists have considered putting it on the endangered species list. He is marked by his love of baseball, by having a skill with rural machinery and hunting firearms beyond his years, and his propensity to emit sounds like \"gee whiz\". The All-American boy usually dwells in a Quirky Town within which he is as free as the air, pedaling everywhere on his bicycle. He is naive but charming and always polite, and he treats his elders (who most likely include a Standard '50s Father and a House Wife) with respect. He is probably a Boy Scout (or a Cub Scout if still in elementary school). If he has a sibling, it will be an older brother to idolize or a little sister to protect \u2014 perhaps both.\nThere are variants of this trope. The geeky variant is similarly characterized by ingenuity, self-reliance, and wholesomeness, but he applies his interest to at-home science experiments and the like. The high-school variety wears a letterman's sweater, plays football or baseball, and spends his off hours using his mechanical skills to restore an old car.\nAn All-American boy often gets a job as a Kid Detective. If he joins the military when he grows up he will almost inevitably become a Southern-Fried Private.\nThe closest Distaff Counterpart would probably be Girl Next Door.", 
+    "gender": "m", 
+    "adjs": [
+        "rural", 
+        "all-american", 
+        "free", 
+        "naive", 
+        "polite"
+    ], 
+    "adjectives": [
+        [
+            "at-home", 
+            1, 
+            10.704365248226246, 
+            1.0, 
+            [
+                "TheAllAmericanBoy"
+            ]
+        ], 
+        [
+            "elementary", 
+            1, 
+            9.660242080009073, 
+            0.9024581893456796, 
+            [
+                "TheAllAmericanBoy", 
+                "SchoolMarm"
+            ]
+        ], 
+        [
+            "southern-fried", 
+            1, 
+            8.98301905213941, 
+            0.8391921280552278, 
+            [
+                "GoodOlBoy", 
+                "TheAllAmericanBoy"
+            ]
+        ], 
+        [
+            "all-american", 
+            1, 
+            8.480049093019922, 
+            0.7922047591215273, 
+            [
+                "FatGirl", 
+                "GirlNextDoor", 
+                "TheAllAmericanBoy", 
+                "StandardFiftiesFather"
+            ]
+        ], 
+        [
+            "mechanical", 
+            1, 
+            8.079711941318067, 
+            0.7548053297842117, 
+            [
+                "TheAllAmericanBoy", 
+                "WrenchWench", 
+                "RobotGirl"
+            ]
+        ], 
+        [
+            "polite", 
+            1, 
+            7.462870106234586, 
+            0.6971800693620027, 
+            [
+                "TheAllAmericanBoy", 
+                "GoGetterGirl", 
+                "FemininityFailure", 
+                "SouthernGentleman", 
+                "QuintessentialBritishGentleman", 
+                "OfficerAndAGentleman", 
+                "GentlemanWizard"
+            ]
+        ], 
+        [
+            "rural", 
+            1, 
+            7.214588080474923, 
+            0.6739856043001156, 
+            [
+                "OutdoorsyGal", 
+                "TheAllAmericanBoy", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "CorruptHick", 
+                "FarmersDaughter", 
+                "Hobos", 
+                "SchoolMarm"
+            ]
+        ], 
+        [
+            "naive", 
+            1, 
+            6.796317902590106, 
+            0.6349108746748231, 
+            [
+                "JunglePrincess", 
+                "TheAllAmericanBoy", 
+                "BastardGirlfriend", 
+                "PrinceCharming", 
+                "LittleRedFightingHood", 
+                "MysticalWaif", 
+                "SpoiledSweet", 
+                "TheHecateSisters", 
+                "TheIngenue"
+            ]
+        ], 
+        [
+            "free", 
+            1, 
+            5.906136173906543, 
+            0.5517502473941847, 
+            [
+                "SoapBoxSadie", 
+                "TheAllAmericanBoy", 
+                "ChivalrousPervert", 
+                "GalleySlave", 
+                "MrFixit", 
+                "ShiksaGoddess", 
+                "FavorsForTheSexy", 
+                "KickChick", 
+                "GirlyGirl", 
+                "GranolaGirl", 
+                "WomanInBlack", 
+                "DamselInDistress", 
+                "AccidentalPornomancer", 
+                "MagicalNanny", 
+                "MyBelovedSmother"
+            ]
+        ], 
+        [
+            "military", 
+            1, 
+            4.710410652162088, 
+            0.44004577038723725, 
+            [
+                "CulturedBadass", 
+                "TheAllAmericanBoy", 
+                "ManInWhite", 
+                "ChildSoldiers", 
+                "CampFollower", 
+                "DadTheVeteran", 
+                "TheBaroness", 
+                "IronLady", 
+                "DrillSergeantNasty", 
+                "MataHari", 
+                "OfficerAndAGentleman", 
+                "Samurai", 
+                "NeverASelfMadeWoman", 
+                "AgentPeacock", 
+                "BaldBlackLeaderGuy", 
+                "JeanneDArchetype", 
+                "TheButcher", 
+                "TheGeneralissimo"
+            ]
+        ], 
+        [
+            "old", 
+            1, 
+            3.0782881722595166, 
+            0.2875731629925091, 
+            [
+                "BlackBossLady", 
+                "ChildSoldiers", 
+                "TheOldConvict", 
+                "WidowWitch", 
+                "OldSchoolChivalry", 
+                "WhiteDwarfStarlet", 
+                "CatholicSchoolGirlsRule", 
+                "NerdNanny", 
+                "BoyBand", 
+                "LadyMacBeth", 
+                "BlondeRepublicanSexKitten", 
+                "TheGeneralissimo", 
+                "FemmeFatale", 
+                "GodivaHair", 
+                "TheSquadette", 
+                "CampStraight", 
+                "SexistUsedCarSalesman", 
+                "WickedWitch", 
+                "GrandeDame", 
+                "LittleOldLadyInvestigates", 
+                "CuteWitch", 
+                "BeardOfEvil", 
+                "OldMaid", 
+                "PrincessClassic", 
+                "MaidenAunt", 
+                "MommasBoy", 
+                "TheLoinsSleepTonight", 
+                "LittleMissAlmighty", 
+                "LadyInRed", 
+                "ChivalrousPervert", 
+                "HighClassCallGirl", 
+                "NeverMessWithGranny", 
+                "VainSorceress", 
+                "CoolBigSis", 
+                "GentlemanWizard", 
+                "Samurai", 
+                "SweetPollyOliver", 
+                "DirtyOldMan", 
+                "FrenchMaid", 
+                "Hobos", 
+                "MartyStu", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "BadassGrandpa", 
+                "TheAllAmericanBoy", 
+                "PrincessPhase", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "RebelliousPrincess", 
+                "CoolOldLady", 
+                "PapaWolf", 
+                "ProperLady", 
+                "AbsentMindedProfessor", 
+                "LegCling", 
+                "DastardlyWhiplash", 
+                "GrumpyOldMan"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/TheAllAmericanBoy.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "WomenDrivers", 
+            "trope": "TheAllAmericanBoy", 
+            "films": [
+                "LeaveItToBeaver"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheChick", 
+            "trope": "TheAllAmericanBoy", 
+            "films": [
+                "LemonadeJoe"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheIngenue", 
+            "trope": "TheAllAmericanBoy", 
+            "films": [
+                "LemonadeJoe"
+            ]
+        }
+    ], 
+    "id": "TheAllAmericanBoy", 
+    "name": "The All American Boy"
+}

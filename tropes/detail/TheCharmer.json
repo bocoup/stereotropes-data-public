@@ -1,0 +1,476 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            4, 
+            0.036036036036036036, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            2, 
+            0.011363636363636364, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            4, 
+            0.017777777777777778, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            10, 
+            0.011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            7, 
+            0.012302284710017574, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            19, 
+            0.029411764705882353, 
+            646
+        ]
+    ], 
+    "description": "The Jack-The-Lad. Cocky, cheeky and devil-may-care, he's the type of guy you can't help but like, even as he's wrapping you around his little finger. Especially if you're a woman \u2014 most of the time \u2014 and The Charmer knows this all too well. As a result, if there's a file he wants to see in a filing cabinet guarded by a pretty secretary, all he has to do is switch on his easy smile, and he has not only the file he wants, but also the secretary's phone number.\nThere's definitely a hint of The Casanova about him, but he's generally a lot kinder, more decent and less concerned solely with getting his end away; where The Casanova would ultimately do anything, no matter how underhanded, to score a conquest, only to discard her once he's achieved his pleasure, The Charmer knows what the limits are. He certainly doesn't mind the fact that he can have any woman he wants, but he'd never stoop so low as actually take advantage, and is often a lot more chivalrous in his dealing with women. The Charmer generally doesn't set out to break hearts; it just seems to be an unfortunate byproduct. But even if he's Looking for Love in All the Wrong Places, The Charmer's usually too relaxed in his lifestyle to really consider changing.\nAlso, where sex is the The Casanova's ultimate driving goal, with The Charmer it's usually a welcome extra; he often has bigger fish to fry, and ultimately knows his priorities. If he's not the main character, then he's a loyal friend (even if the main character is seething with jealousy at how easily things \u2014 and women \u2014 seem to come to The Charmer).\nCompare with The Casanova, Chick Magnet, Prince Charming and All Girls Want Bad Boys. Often fills the role of a Loveable Rogue or Trickster. Sometimes, he's so charming that Even the Guys Want Him. In a group they're likely to be The Face for their ability to get along with anyone, or (for more manipulative examples) The Social Expert.", 
+    "gender": "m", 
+    "adjs": [
+        "cheeky", 
+        "devil-may-care", 
+        "little", 
+        "file", 
+        "secretary"
+    ], 
+    "adjectives": [
+        [
+            "secretary", 
+            2, 
+            18.048610254868187, 
+            1.0, 
+            [
+                "TheCharmer", 
+                "RightHandHottie"
+            ]
+        ], 
+        [
+            "devil-may-care", 
+            1, 
+            9.614726111565727, 
+            0.5327128225272847, 
+            [
+                "TheCharmer"
+            ]
+        ], 
+        [
+            "cheeky", 
+            1, 
+            8.57232708138637, 
+            0.4749577369301432, 
+            [
+                "TheCharmer", 
+                "FrenchMaid"
+            ]
+        ], 
+        [
+            "decent", 
+            1, 
+            8.57232708138637, 
+            0.4749577369301432, 
+            [
+                "GodSaveUsFromTheQueen", 
+                "TheCharmer"
+            ]
+        ], 
+        [
+            "file", 
+            1, 
+            8.57232708138637, 
+            0.4749577369301432, 
+            [
+                "DadTheVeteran", 
+                "TheCharmer"
+            ]
+        ], 
+        [
+            "loveable", 
+            1, 
+            7.896828191554512, 
+            0.4375310940865671, 
+            [
+                "TheCharmer", 
+                "HotWitch", 
+                "AgentPeacock"
+            ]
+        ], 
+        [
+            "jealousy", 
+            1, 
+            7.395582370472835, 
+            0.4097591042212267, 
+            [
+                "DarkMagicalGirl", 
+                "BastardBoyfriend", 
+                "EvenTheGirlsWantHer", 
+                "TheCharmer"
+            ]
+        ], 
+        [
+            "ultimate", 
+            1, 
+            6.996969356808794, 
+            0.38767358029250626, 
+            [
+                "BastardBastard", 
+                "TheFightingNarcissist", 
+                "CampGay", 
+                "GirlishPigtails", 
+                "TheCharmer"
+            ]
+        ], 
+        [
+            "main", 
+            2, 
+            6.990820903771516, 
+            0.3873329195463073, 
+            [
+                "SexyStewardess", 
+                "MysticalWaif", 
+                "MamaBear", 
+                "GossipyHens", 
+                "TokenLesbian", 
+                "SoapBoxSadie", 
+                "TheOneGuy", 
+                "LovelyAssistant", 
+                "TomBoyAndGirlyGirl", 
+                "TheCharmer", 
+                "CoolBigSis", 
+                "MatronChaperone", 
+                "Ojou", 
+                "GlamorousWartimeSinger", 
+                "HandsomeDevil", 
+                "MartyStu", 
+                "FatGirl", 
+                "ShelteredAristocrat", 
+                "Joshikousei", 
+                "GirlNextDoor", 
+                "HardDrinkingPartyGirl", 
+                "MaidenAunt", 
+                "TheGoodKing", 
+                "QuicklyDemotedWoman", 
+                "AsianAirhead", 
+                "BumblingDad", 
+                "UselessBoyfriend", 
+                "TheChanteuse", 
+                "GrannyClassic", 
+                "MountainMan", 
+                "InnocentFanserviceGirl", 
+                "TheFightingNarcissist", 
+                "OneeSama", 
+                "SensitiveGuyAndManlyMan", 
+                "DirtyCoward", 
+                "BromanticFoil", 
+                "ActionDad", 
+                "Fratbro", 
+                "YaoiGuys", 
+                "Samurai", 
+                "BlackBossLady", 
+                "CoolOldLady", 
+                "Meido", 
+                "Chickification", 
+                "TheMuse", 
+                "AmazonBrigade", 
+                "SexyManInstantHarem", 
+                "HookerWithAHeartOfGold", 
+                "DeterminedHomesteadersWife", 
+                "TheTease"
+            ]
+        ], 
+        [
+            "fish", 
+            1, 
+            6.666172664516457, 
+            0.3693454825818744, 
+            [
+                "MissKitty", 
+                "MisterSeahorse", 
+                "ActionHeroBabysitter", 
+                "TheCharmer", 
+                "SeashellBra", 
+                "HouseHusband"
+            ]
+        ], 
+        [
+            "unfortunate", 
+            1, 
+            6.666172664516457, 
+            0.3693454825818744, 
+            [
+                "IronLady", 
+                "MorallyBankruptBanker", 
+                "DisposableSexWorker", 
+                "TheCharmer", 
+                "QuicklyDemotedWoman", 
+                "TheTease"
+            ]
+        ], 
+        [
+            "loyal", 
+            1, 
+            6.383575797800931, 
+            0.3536879409360126, 
+            [
+                "SpoiledSweet", 
+                "Samurai", 
+                "ProperLady", 
+                "TheCharmer", 
+                "OverlordJr", 
+                "DarkMagicalGirl", 
+                "BadassPrincess"
+            ]
+        ], 
+        [
+            "manipulative", 
+            1, 
+            6.383575797800931, 
+            0.3536879409360126, 
+            [
+                "LovableAlphaBitch", 
+                "EvilMatriarch", 
+                "TheFakeCutie", 
+                "TheCharmer", 
+                "AlphaBitch", 
+                "EmotionlessGirl", 
+                "JewishMother"
+            ]
+        ], 
+        [
+            "chivalrous", 
+            1, 
+            5.918433424774426, 
+            0.3279162961136062, 
+            [
+                "ChivalrousPervert", 
+                "DirtyOldMan", 
+                "BromanticFoil", 
+                "SensitiveGuyAndManlyMan", 
+                "TheCharmer", 
+                "TheCasanova", 
+                "DarkActionGirl", 
+                "NobleMaleRoguishMale"
+            ]
+        ], 
+        [
+            "low", 
+            1, 
+            4.6216702846881965, 
+            0.2560679309611448, 
+            [
+                "MafiaPrincess", 
+                "BedlahBabe", 
+                "PluckyOfficeGirl", 
+                "FemmeFatale", 
+                "DumbMuscle", 
+                "GalleySlave", 
+                "CoolOldLady", 
+                "QuintessentialBritishGentleman", 
+                "TopHeavyGuy", 
+                "Samurai", 
+                "TheCharmer", 
+                "DrillSergeantNasty", 
+                "Hobos", 
+                "BassoProfundo", 
+                "CrusadingWidower", 
+                "FinalGirl", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "easy", 
+            1, 
+            4.333334417418075, 
+            0.2400924146638526, 
+            [
+                "DisposableSexWorker", 
+                "SassyBlackWoman", 
+                "OverprotectiveDad", 
+                "ClassyCatBurglar", 
+                "ManInWhite", 
+                "GirlNextDoor", 
+                "WidowWitch", 
+                "AccidentalPornomancer", 
+                "MonogenderMonsters", 
+                "EverythingsBetterWithPrincesses", 
+                "WorldsMostBeautifulWoman", 
+                "TheCharmer", 
+                "CuteGhostGirl", 
+                "HighSchoolHustler", 
+                "StoutStrength", 
+                "FurryBaldness", 
+                "BadAssMustache", 
+                "MrFanservice", 
+                "MagicalNanny", 
+                "GoGetterGirl"
+            ]
+        ], 
+        [
+            "little", 
+            1, 
+            3.14455472980684, 
+            0.1742269729027292, 
+            [
+                "OverprotectiveDad", 
+                "LittleOldLadyInvestigates", 
+                "GlamorousSingleMother", 
+                "LittleRedFightingHood", 
+                "BastardBoyfriend", 
+                "DirtyOldMan", 
+                "FarmersDaughter", 
+                "TheCharmer", 
+                "MagicalSeventhSon", 
+                "UnluckyEveryDude", 
+                "LittleSisterHeroine", 
+                "SexistUsedCarSalesman", 
+                "TheSlacker", 
+                "MaidenAunt", 
+                "WomanScorned", 
+                "TheCutie", 
+                "BasementDweller", 
+                "PrincessPhase", 
+                "ClassyCatBurglar", 
+                "BespectacledBastardBoyfriend", 
+                "QuintessentialBritishGentleman", 
+                "NonActionGuy", 
+                "BaitAndSwitchLesbians", 
+                "BeautifulAllAlong", 
+                "LittleMissConArtist", 
+                "Tomboy", 
+                "DirtyHarriet", 
+                "FragileFlower", 
+                "BrattyTeenageDaughter", 
+                "FavorsForTheSexy", 
+                "MysticalWaif", 
+                "DarkActionGirl", 
+                "SpoiledSweet", 
+                "SwingLowSweetHarriet", 
+                "Bishonen", 
+                "LittleGirlsKickShins"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/TheCharmer.jpg", 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "WomanInWhite", 
+            "trope": "TheCharmer", 
+            "films": [
+                "XMenFirstClass", 
+                "SinginInTheRain", 
+                "Rebecca"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheVamp", 
+            "trope": "TheCharmer", 
+            "films": [
+                "ThePictureOfDorianGray", 
+                "MansfieldPark"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheChick", 
+            "trope": "TheCharmer", 
+            "films": [
+                "Bionicle", 
+                "ResidentEvil"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WomanScorned", 
+            "trope": "TheCharmer", 
+            "films": [
+                "TheSocialNetwork", 
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "VainSorceress", 
+            "trope": "TheCharmer", 
+            "films": [
+                "ThePictureOfDorianGray", 
+                "Tangled"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TroubledButCute", 
+            "trope": "TheCharmer", 
+            "films": [
+                "Frozen", 
+                "XMenFirstClass"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheLoinsSleepTonight", 
+            "trope": "TheCharmer", 
+            "films": [
+                "SexAndTheCity", 
+                "LesValseuses"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheDandy", 
+            "trope": "TheCharmer", 
+            "films": [
+                "PeterPan", 
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WomanInBlack", 
+            "trope": "TheCharmer", 
+            "films": [
+                "XMenFirstClass", 
+                "Rebecca"
+            ]
+        }
+    ], 
+    "id": "TheCharmer", 
+    "name": "The Charmer"
+}

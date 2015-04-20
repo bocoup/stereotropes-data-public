@@ -1,0 +1,184 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            5, 
+            0.005649717514124294, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            5, 
+            0.008787346221441126, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "Related to both The Three Faces of Eve and Four-Temperament Ensemble. Unrelated, however, to Four Is Death. Usually.", 
+    "gender": "f", 
+    "adjs": [
+        "related", 
+        "four-temperament"
+    ], 
+    "adjectives": [
+        [
+            "four-temperament", 
+            1, 
+            14.109978565548174, 
+            1.0, 
+            [
+                "FourGirlEnsemble"
+            ]
+        ], 
+        [
+            "related", 
+            1, 
+            9.540278398496906, 
+            0.6761369873226498, 
+            [
+                "BeautyBrainsAndBrawn", 
+                "LipstickLesbian", 
+                "LeatherMan", 
+                "CrazyCatLady", 
+                "Valkyries", 
+                "WomanInBlack", 
+                "FourGirlEnsemble", 
+                "GagBoobs", 
+                "WomanInWhite", 
+                "AgentPeacock", 
+                "BeautifulAllAlong", 
+                "MagicIdolSinger", 
+                "PrettyBoy", 
+                "WrenchWench"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/FourGirlEnsemble.jpg", 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "TeamMom", 
+            "trope": "FourGirlEnsemble", 
+            "films": [
+                "NowAndThen", 
+                "LittleWomen", 
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "NaiveEverygirl", 
+            "trope": "FourGirlEnsemble", 
+            "films": [
+                "NowAndThen", 
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "LovableAlphaBitch", 
+            "trope": "FourGirlEnsemble", 
+            "films": [
+                "HighSchoolMusical", 
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheHecateSisters", 
+            "trope": "FourGirlEnsemble", 
+            "films": [
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HelloNurse", 
+            "trope": "FourGirlEnsemble", 
+            "films": [
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ShirtlessScene", 
+            "trope": "FourGirlEnsemble", 
+            "films": [
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheFashionista", 
+            "trope": "FourGirlEnsemble", 
+            "films": [
+                "Twilight"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "JerkJock", 
+            "trope": "FourGirlEnsemble", 
+            "films": [
+                "TheCraft"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ProperLady", 
+            "trope": "FourGirlEnsemble", 
+            "films": [
+                "LittleWomen"
+            ]
+        }
+    ], 
+    "id": "FourGirlEnsemble", 
+    "name": "Four Girl Ensemble"
+}

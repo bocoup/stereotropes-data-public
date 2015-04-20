@@ -1,0 +1,200 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            3, 
+            0.017045454545454544, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "In most wars, you have a bunch of men far from home, daily scared for their lives. Along with the men came the campfollowers, a group of women and men who were wives, mistresses, merchants, and others who serviced and supplied the combatants. In later wars these were often the wartime prostitute, someone to provide soldiers, sailors, etc., with female companionship. However, up through the mid-19th century female campfollowers were wives and women of every socioeconomic class accompanying the army and creating a military community. They nursed, sewed, washed, acted as merchants.\nNot to be confused with a follower who is camp.\n\nExamples", 
+    "gender": "f", 
+    "adjs": [
+        "daily", 
+        "scared", 
+        "later", 
+        "mid-19th", 
+        "socioeconomic"
+    ], 
+    "adjectives": [
+        [
+            "scared", 
+            1, 
+            11.914480172293118, 
+            1.0, 
+            [
+                "CampFollower"
+            ]
+        ], 
+        [
+            "socioeconomic", 
+            1, 
+            11.914480172293118, 
+            1.0, 
+            [
+                "CampFollower"
+            ]
+        ], 
+        [
+            "daily", 
+            1, 
+            10.869278662539067, 
+            0.9122746863782907, 
+            [
+                "TheCasanova", 
+                "CampFollower"
+            ]
+        ], 
+        [
+            "mid-19th", 
+            1, 
+            10.869278662539067, 
+            0.9122746863782907, 
+            [
+                "Samurai", 
+                "CampFollower"
+            ]
+        ], 
+        [
+            "later", 
+            1, 
+            6.9836557525830285, 
+            0.5861485899169465, 
+            [
+                "GirlInTheTower", 
+                "LovableAlphaBitch", 
+                "Hackette", 
+                "SpiritedYoungLady", 
+                "PrinceCharming", 
+                "GirlOfTheWeek", 
+                "MataHari", 
+                "HouseWife", 
+                "WomenDrivers", 
+                "Samurai", 
+                "SmittenTeenageGirl", 
+                "TheTease", 
+                "CampFollower", 
+                "GoodOlBoy", 
+                "MaidenAunt", 
+                "SchoolgirlLesbians"
+            ]
+        ], 
+        [
+            "military", 
+            1, 
+            5.889253671659451, 
+            0.49429379935138007, 
+            [
+                "CulturedBadass", 
+                "TheAllAmericanBoy", 
+                "ManInWhite", 
+                "ChildSoldiers", 
+                "CampFollower", 
+                "DadTheVeteran", 
+                "TheBaroness", 
+                "IronLady", 
+                "DrillSergeantNasty", 
+                "MataHari", 
+                "OfficerAndAGentleman", 
+                "Samurai", 
+                "NeverASelfMadeWoman", 
+                "AgentPeacock", 
+                "BaldBlackLeaderGuy", 
+                "JeanneDArchetype", 
+                "TheButcher", 
+                "TheGeneralissimo"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "LittleMissBadass", 
+            "trope": "CampFollower", 
+            "films": [
+                "FullMetalJacket"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MamaBear", 
+            "trope": "CampFollower", 
+            "films": [
+                "FullMetalJacket"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "DrillSergeantNasty", 
+            "trope": "CampFollower", 
+            "films": [
+                "FullMetalJacket"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Streetwalker", 
+            "trope": "CampFollower", 
+            "films": [
+                "FullMetalJacket"
+            ]
+        }
+    ], 
+    "id": "CampFollower", 
+    "name": "Camp Follower"
+}

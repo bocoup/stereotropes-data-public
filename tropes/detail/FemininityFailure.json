@@ -1,0 +1,499 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            2, 
+            0.0035149384885764497, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "Nowadays, it's considered much more acceptable for a girl to be tomboyish than it was years ago. Still, sometimes, The Lad-ette will give femininity a try, even if it's just for one episode. Maybe she wants to look and act elegant for a special occasion, or she's aiming to fit in with her friends, or she wants her Love Interest to see her as more than just \"One of the Boys\". She may take it upon herself to learn ladylike behaviour, or she'll have a feminine friend teach her to act prim and proper.\nEither way, she'll suck at it.\nIf she takes cooking lessons, she'll end up burning water. Any attempts to apply makeup will leave her looking like a clown. Walking in high heels will result in her taking a tumble. Even after she learns polite manners, you can bet she'll swear/gobble her food/belch at the worst possible moment. Old habits die hard indeed.\nThis can lead up to An Aesop of the Be Yourself variety, that it's okay for a woman to be masculine if she's most comfortable doing so, and she shouldn't change herself to please others. It can, of course, just as easily be full of Unfortunate Implications, either that something's wrong with her because she can't act feminine, or that her inherent tomboyishness is a sign that she's better than girly girls.\nSuper Trope of Feminine Women Can Cook and Maternally Challenged.\nContrast Girliness Upgrade and She Cleans Up Nicely, for when the attempt at being feminine works.", 
+    "gender": "f", 
+    "adjs": [
+        "acceptable", 
+        "tomboyish", 
+        "lad-ette", 
+        "elegant", 
+        "special"
+    ], 
+    "adjectives": [
+        [
+            "food/belch", 
+            1, 
+            10.223334586503498, 
+            1.0, 
+            [
+                "FemininityFailure"
+            ]
+        ], 
+        [
+            "comfortable", 
+            1, 
+            7.6012681834173765, 
+            0.7435214135955518, 
+            [
+                "CampStraight", 
+                "BaitAndSwitchLesbians", 
+                "UnluckyEveryDude", 
+                "DarkActionGirl", 
+                "FemininityFailure"
+            ]
+        ], 
+        [
+            "prim", 
+            1, 
+            7.6012681834173765, 
+            0.7435214135955518, 
+            [
+                "MaidenAunt", 
+                "DamselOutOfDistress", 
+                "ProperLady", 
+                "SchoolMarm", 
+                "FemininityFailure"
+            ]
+        ], 
+        [
+            "lad-ette", 
+            1, 
+            6.985719800244921, 
+            0.6833112758988865, 
+            [
+                "CoolBigSis", 
+                "TheLadette", 
+                "ButchLesbian", 
+                "FemininityFailure", 
+                "TheFlapper"
+            ]
+        ], 
+        [
+            "polite", 
+            1, 
+            6.985719800244921, 
+            0.6833112758988865, 
+            [
+                "TheAllAmericanBoy", 
+                "GoGetterGirl", 
+                "FemininityFailure", 
+                "SouthernGentleman", 
+                "QuintessentialBritishGentleman", 
+                "OfficerAndAGentleman", 
+                "GentlemanWizard"
+            ]
+        ], 
+        [
+            "elegant", 
+            1, 
+            6.518422603053822, 
+            0.6376023936122783, 
+            [
+                "ElegantGothicLolita", 
+                "TheSquadette", 
+                "LadyOfBlackMagic", 
+                "FemininityFailure", 
+                "GirlyBruiser", 
+                "HotWitch", 
+                "LadyOfWar", 
+                "BadassPrincess"
+            ]
+        ], 
+        [
+            "hard", 
+            1, 
+            6.142058168069806, 
+            0.6007881397306848, 
+            [
+                "BeautyMark", 
+                "TomboyWithAGirlyStreak", 
+                "NEET", 
+                "AdrenalineMakeover", 
+                "HugeSchoolgirl", 
+                "FemininityFailure", 
+                "Hobos", 
+                "CuteWitch", 
+                "BoyBand", 
+                "MagicalGirl", 
+                "HelloNurse"
+            ]
+        ], 
+        [
+            "special", 
+            1, 
+            5.556868063880717, 
+            0.5435475105369932, 
+            [
+                "FemininityFailure", 
+                "AnimeChineseGirl", 
+                "UselessBoyfriend", 
+                "ActionGirlFriend", 
+                "WickedStepmother", 
+                "CoolOldGuy", 
+                "NobleMaleRoguishMale", 
+                "TheMuse", 
+                "OneOfTheBoys", 
+                "BeautifulAllAlong", 
+                "EmotionlessGirl", 
+                "GIRL", 
+                "SpaceshipGirl", 
+                "SweaterGirl", 
+                "MaidenAunt"
+            ]
+        ], 
+        [
+            "tomboyish", 
+            1, 
+            5.556868063880717, 
+            0.5435475105369932, 
+            [
+                "Tomboy", 
+                "VainSorceress", 
+                "FarmersDaughter", 
+                "GamerChick", 
+                "ShortTank", 
+                "RebelliousPrincess", 
+                "TomboyWithAGirlyStreak", 
+                "OneOfTheBoys", 
+                "TomBoyAndGirlyGirl", 
+                "EffeminateMisogynisticGuy", 
+                "LadyOfWar", 
+                "FemininityFailure", 
+                "Chickification"
+            ]
+        ], 
+        [
+            "wrong", 
+            1, 
+            5.3201112466717095, 
+            0.5203890376135338, 
+            [
+                "DirtyHarriet", 
+                "SoapBoxSadie", 
+                "NoWomansLand", 
+                "PrinceCharmless", 
+                "DaddysGirl", 
+                "OldSchoolChivalry", 
+                "WickedWitch", 
+                "FemininityFailure", 
+                "StrawMisogynist", 
+                "CrusadingWidower", 
+                "WomanScorned", 
+                "AccidentalPornomancer", 
+                "ActionGirl", 
+                "MyBelovedSmother"
+            ]
+        ], 
+        [
+            "acceptable", 
+            1, 
+            5.109670789722269, 
+            0.499804711123109, 
+            [
+                "DisposableSexWorker", 
+                "GlamorousWartimeSinger", 
+                "BastardGirlfriend", 
+                "NEET", 
+                "SweaterGirl", 
+                "TheHighQueen", 
+                "GirlOfTheWeek", 
+                "BlondGuysAreEvil", 
+                "MartyStu", 
+                "NonActionGuy", 
+                "HotScoop", 
+                "ProperLady", 
+                "FemininityFailure", 
+                "TheFlapper", 
+                "TheGeneralissimo", 
+                "StandardFiftiesFather", 
+                "MommasBoy", 
+                "LesbianJock", 
+                "BasementDweller"
+            ]
+        ], 
+        [
+            "possible", 
+            1, 
+            3.959598783255219, 
+            0.3873099084991846, 
+            [
+                "UnrequitedTragicMaiden", 
+                "FemmeFatale", 
+                "ClingyJealousGirl", 
+                "MegaTwintails", 
+                "FemininityFailure", 
+                "BadassBaritone", 
+                "MissingMom", 
+                "IceQueen", 
+                "GagPenis", 
+                "Hackette", 
+                "FauxActionGirl", 
+                "SeashellBra", 
+                "HuskyRusskie", 
+                "LadyInWaiting", 
+                "TinyTyrannicalGirl", 
+                "MachoCamp", 
+                "ManInWhite", 
+                "BespectacledBastardBoyfriend", 
+                "DaddysGirl", 
+                "NonActionSnarker", 
+                "GentlemanWizard", 
+                "BaitAndSwitchLesbians", 
+                "BeautifulAllAlong", 
+                "TheWomanWearingTheQueenlyMask", 
+                "DisappearedDad", 
+                "GenderInvertedTrope", 
+                "FragileFlower", 
+                "GymBunny", 
+                "IronLady", 
+                "RightThroughHisPants", 
+                "MisterSeahorse", 
+                "BastardBastard", 
+                "Meganekko"
+            ]
+        ], 
+        [
+            "full", 
+            1, 
+            3.711144133535033, 
+            0.3630072069082392, 
+            [
+                "BeardOfSorrow", 
+                "YamatoNadeshiko", 
+                "BadAssBeard", 
+                "GirlsLoveStuffedAnimals", 
+                "FemininityFailure", 
+                "WhiteDwarfStarlet", 
+                "LawmanGoneBad", 
+                "BlondeRepublicanSexKitten", 
+                "StandardFiftiesFather", 
+                "CorruptHick", 
+                "LooksLikeJesus", 
+                "TheBaroness", 
+                "BashBrothers", 
+                "FauxActionGirl", 
+                "KnightErrant", 
+                "NaughtyNuns", 
+                "ManicPixieDreamGirl", 
+                "BattleButler", 
+                "BigBeautifulMan", 
+                "DaddysGirl", 
+                "GalleySlave", 
+                "NonActionSnarker", 
+                "BridgeBunnies", 
+                "Samurai", 
+                "SweetPollyOliver", 
+                "HotWitch", 
+                "DirtyCoward", 
+                "Hobos", 
+                "TheWomanWearingTheQueenlyMask", 
+                "GirlishPigtails", 
+                "WorldsStrongestMan", 
+                "TinyTyrannicalGirl", 
+                "LesbianVampire", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "BikerBabe", 
+                "StageMom", 
+                "HighSchoolHustler", 
+                "BassoProfundo"
+            ]
+        ], 
+        [
+            "high", 
+            1, 
+            2.74460321119036, 
+            0.2684645785547988, 
+            [
+                "Socialite", 
+                "WalkingShirtlessScene", 
+                "HeroicSeductress", 
+                "PrincelyYoungMan", 
+                "DarkMistress", 
+                "MegaTwintails", 
+                "HugeSchoolgirl", 
+                "DirtyOldMan", 
+                "FemininityFailure", 
+                "FemaleMisogynist", 
+                "CatholicSchoolGirlsRule", 
+                "MagicalGirl", 
+                "GossipyHens", 
+                "Ojou", 
+                "PlayboyBunny", 
+                "AnimeChineseGirl", 
+                "BastardGirlfriend", 
+                "KnightInShiningArmor", 
+                "InstantSoprano", 
+                "WomenDrivers", 
+                "BlondeRepublicanSexKitten", 
+                "ALadyOnEachArm", 
+                "BespectacledBastardBoyfriend", 
+                "TheFightingNarcissist", 
+                "AlphaBitch", 
+                "GirlNextDoor", 
+                "ProperLady", 
+                "FinalGirl", 
+                "WomanScorned", 
+                "ManicPixieDreamGirl", 
+                "TheEvilPrince", 
+                "Joshikousei", 
+                "GamerChick", 
+                "PrinceCharmless", 
+                "TheChanteuse", 
+                "ButchLesbian", 
+                "GracefulLadiesLikePurple", 
+                "MataHari", 
+                "Samurai", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "PregnantHostage", 
+                "EvenTheGirlsWantHer", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "GirlishPigtails", 
+                "GoGetterGirl", 
+                "DirtyHarriet", 
+                "VainSorceress", 
+                "BarbaricBully", 
+                "LadyOfAdventure", 
+                "KindlyHousekeeper", 
+                "KidAnova", 
+                "BastardBastard", 
+                "UncannyValleyGirl", 
+                "GirlPosse", 
+                "LipstickLesbian", 
+                "HighSchoolHustler", 
+                "TheHighQueen"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "KickingAssInAllHerFinery", 
+            "trope": "FemininityFailure", 
+            "films": [
+                "Mulan", 
+                "Shrek"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LittleRedFightingHood", 
+            "trope": "FemininityFailure", 
+            "films": [
+                "Shrek"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NeverMessWithGranny", 
+            "trope": "FemininityFailure", 
+            "films": [
+                "LuckyLuke"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StrawMisogynist", 
+            "trope": "FemininityFailure", 
+            "films": [
+                "Mulan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LipstickAndLoadMontage", 
+            "trope": "FemininityFailure", 
+            "films": [
+                "Mulan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StoutStrength", 
+            "trope": "FemininityFailure", 
+            "films": [
+                "Shrek"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "JeanneDArchetype", 
+            "trope": "FemininityFailure", 
+            "films": [
+                "Mulan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NoWomansLand", 
+            "trope": "FemininityFailure", 
+            "films": [
+                "Mulan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PrinceCharming", 
+            "trope": "FemininityFailure", 
+            "films": [
+                "Shrek"
+            ]
+        }
+    ], 
+    "id": "FemininityFailure", 
+    "name": "Femininity Failure"
+}

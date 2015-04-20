@@ -1,0 +1,101 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            3, 
+            0.005110732538330494, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            3, 
+            0.0046439628482972135, 
+            646
+        ]
+    ], 
+    "description": "Unsuspecting students will enter the library, in order to talk to friends, goof off, and (possibly) study. However, these kids will soon fall victim to... the Scary Librarian.\nThe Scary Librarian will freak out if you talk in the library, fail to return a book on time, or, God forbid, spill something on it. They'll will shush you at the slightest noise, and occasionally will start screaming. Needless to say, if you make them mad, don't expect any help with your research paper.\nThe Scary Librarian will, of course, move without making noise themselves, and can appear from nowhere if you're up to trouble.\nSometimes coincides with Magic Librarian. Compare Sadist Teacher, Badass Bookworm. Contrast (or not)Hot Librarian. See also Spooky Silent Library.", 
+    "gender": "f", 
+    "adjs": [
+        "mad"
+    ], 
+    "adjectives": [
+        "mad"
+    ], 
+    "image_url": "assets/data/tropes/images/ScaryLibrarian.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "TheThreeFacesOfAdam", 
+            "trope": "ScaryLibrarian", 
+            "films": [
+                "ToyStory3"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TeamMom", 
+            "trope": "ScaryLibrarian", 
+            "films": [
+                "ToyStory3"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheOldConvict", 
+            "trope": "ScaryLibrarian", 
+            "films": [
+                "ToyStory3"
+            ]
+        }
+    ], 
+    "id": "ScaryLibrarian", 
+    "name": "Scary Librarian"
+}

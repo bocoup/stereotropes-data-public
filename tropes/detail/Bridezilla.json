@@ -1,0 +1,399 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            3, 
+            0.005272407732864675, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "Bridezilla is that creature a bride morphs into under the stress of wedding arrangements and unrealistic expectations, resulting in escalating demands and screeching outbursts about insignificant problems. Some say the reptile forms when a normal woman is subjected to the immense pressure of planning a wedding; others say that the wedding-related stress simply reveals the worst of her character. Most agree, however, that the classic Bridezilla is the woman who believes the wedding is Her Day, meaning all revolt must be squelched and all whims indulged.\nThis is a relatively recent trope, dating not much further back than The Seventies but only becoming well-known in The Nineties. Before that date only the rich had big white weddings, which were social occasions planned and paid for by the bride's parents. The mother of the bride planned the wedding with limited to no input from the bride herself.\nBonus points when the bride starts forgetting it's also the Groom to Be's day, or if she puts more effort into the wedding than the marriage itself.\nRelated to Drunk with Power and What You Are in the Dark. Mostly occurs because It's All About Me.\n\nExamples", 
+    "gender": "f", 
+    "adjs": [
+        "unrealistic", 
+        "insignificant", 
+        "normal", 
+        "wedding-related", 
+        "classic"
+    ], 
+    "adjectives": [
+        [
+            "insignificant", 
+            1, 
+            10.530773691358384, 
+            1.0, 
+            [
+                "Bridezilla"
+            ]
+        ], 
+        [
+            "wedding-related", 
+            1, 
+            10.530773691358384, 
+            1.0, 
+            [
+                "Bridezilla"
+            ]
+        ], 
+        [
+            "limited", 
+            1, 
+            8.809858692382944, 
+            0.8365822826116154, 
+            [
+                "Bridezilla", 
+                "GaussianGirl", 
+                "DastardlyWhiplash"
+            ]
+        ], 
+        [
+            "well-known", 
+            1, 
+            8.809858692382944, 
+            0.8365822826116154, 
+            [
+                "Bridezilla", 
+                "GirlishPigtails", 
+                "FauxActionGirl"
+            ]
+        ], 
+        [
+            "unrealistic", 
+            1, 
+            7.906982778672999, 
+            0.7508453804454573, 
+            [
+                "UnrequitedTragicMaiden", 
+                "Bridezilla", 
+                "TheSquadette", 
+                "JewishAmericanPrincess", 
+                "DrillSergeantNasty"
+            ]
+        ], 
+        [
+            "recent", 
+            1, 
+            5.8582713851381865, 
+            0.5563001880807219, 
+            [
+                "CircumcisionAngst", 
+                "VainSorceress", 
+                "DoggedNiceGuy", 
+                "BarbaricBully", 
+                "TheLadette", 
+                "TheCheerleader", 
+                "LovelyAngels", 
+                "NubileSavage", 
+                "HouseWife", 
+                "MagicalGirlfriend", 
+                "HuskyRusskie", 
+                "Bridezilla", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "classic", 
+            1, 
+            5.409349601380476, 
+            0.51367067225264, 
+            [
+                "Meganekko", 
+                "KickChick", 
+                "AsianHookerStereotype", 
+                "PrinceCharming", 
+                "MrsClaus", 
+                "MataHari", 
+                "OldSchoolChivalry", 
+                "HelloNurse", 
+                "Bridezilla", 
+                "Hunk", 
+                "GirlyBruiser", 
+                "BrawnHilda", 
+                "TheFlapper", 
+                "SeashellBra", 
+                "DamselInDistress", 
+                "KnightErrant", 
+                "TheVamp", 
+                "TheLoinsSleepTonight"
+            ]
+        ], 
+        [
+            "rich", 
+            1, 
+            5.0464642827253625, 
+            0.47921116060698576, 
+            [
+                "DistractedByTheLuxury", 
+                "GentlemanThief", 
+                "Socialite", 
+                "ClassyCatBurglar", 
+                "ArabOilSheikh", 
+                "DaddysGirl", 
+                "PrinceCharming", 
+                "CoolOldLady", 
+                "HandsomeDevil", 
+                "GentlemanWizard", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "BattleaxeNurse", 
+                "Bridezilla", 
+                "TinyTyrannicalGirl", 
+                "SpoiledSweet", 
+                "PrincelyYoungMan", 
+                "AsianAirhead", 
+                "Ojou"
+            ]
+        ], 
+        [
+            "normal", 
+            1, 
+            4.607161753377769, 
+            0.4374950871044198, 
+            [
+                "MamaBear", 
+                "FurryBaldness", 
+                "CuteGhostGirl", 
+                "DrillSergeantNasty", 
+                "EmotionlessGirl", 
+                "TheVamp", 
+                "Bridezilla", 
+                "GreaseMonkey", 
+                "DoggedNiceGuy", 
+                "Fratbro", 
+                "AgentPeacock", 
+                "NocturnalEmission", 
+                "CrazyJealousGuy", 
+                "ArabOilSheikh", 
+                "UselessBoyfriend", 
+                "InnocentFanserviceGirl", 
+                "TopHeavyGuy", 
+                "EverythingsBetterWithPrincesses", 
+                "DisposableSexWorker", 
+                "HauntedHeroine", 
+                "HenpeckedHusband", 
+                "AccidentalPornomancer", 
+                "AsianBabymama", 
+                "GayBravado", 
+                "MysteriousWaif", 
+                "MisterSeahorse", 
+                "PregnantBadass", 
+                "BassoProfundo"
+            ]
+        ], 
+        [
+            "social", 
+            1, 
+            4.0491857615653535, 
+            0.38450980718426603, 
+            [
+                "Socialite", 
+                "RichBitch", 
+                "PrincelyYoungMan", 
+                "MysticalWaif", 
+                "LawmanGoneBad", 
+                "EmotionlessGirl", 
+                "Bridezilla", 
+                "EducationMama", 
+                "MadonnaWhoreComplex", 
+                "GoGetterGirl", 
+                "CampStraight", 
+                "GirlOfTheWeek", 
+                "AlphaBitch", 
+                "LadyInWaiting", 
+                "BasementDweller", 
+                "GentlemanThief", 
+                "NoWomansLand", 
+                "MissKitty", 
+                "GirlNextDoor", 
+                "Kawaiiko", 
+                "Samurai", 
+                "OfficerAndAGentleman", 
+                "GirlishPigtails", 
+                "GrandeDame", 
+                "AsianBabymama", 
+                "HairyGirl", 
+                "BarbaricBully", 
+                "RebelliousPrincess", 
+                "TheOneGuy", 
+                "SissyVillain", 
+                "ConceiveAndKill", 
+                "TheChick"
+            ]
+        ], 
+        [
+            "big", 
+            1, 
+            3.8237409873841433, 
+            0.36310162001885277, 
+            [
+                "TheUglyGuysHotDaughter", 
+                "LittleRedFightingHood", 
+                "HugeSchoolgirl", 
+                "MistressAndServantBoy", 
+                "EarthMother", 
+                "CuteGhostGirl", 
+                "Bridezilla", 
+                "SmallGirlBigGun", 
+                "UnluckyEveryDude", 
+                "GoGetterGirl", 
+                "ArabOilSheikh", 
+                "Beastess", 
+                "BashBrothers", 
+                "FatGirl", 
+                "FauxActionGirl", 
+                "TheFlapper", 
+                "GreenSkinnedSpaceBabe", 
+                "TinyTyrannicalGirl", 
+                "GrannyClassic", 
+                "HotMenAtWork", 
+                "MrFixit", 
+                "AgentPeacock", 
+                "MountainMan", 
+                "TopHeavyGuy", 
+                "Hunk", 
+                "StoutStrength", 
+                "Fratbro", 
+                "VainSorceress", 
+                "MysteriousWaif", 
+                "BarbaricBully", 
+                "LeatherMan", 
+                "GreatWhiteHunter", 
+                "FanserviceExtra", 
+                "Meganekko", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "white", 
+            1, 
+            3.7818816021055963, 
+            0.35912666181488934, 
+            [
+                "WizardBeard", 
+                "OverprotectiveDad", 
+                "ScaryBlackMan", 
+                "ALadyOnEachArm", 
+                "WinterRoyalLady", 
+                "Bridezilla", 
+                "MrsClaus", 
+                "AngryBlackMan", 
+                "StringyHairedGhostGirl", 
+                "CorruptHick", 
+                "TheChiefsDaughter", 
+                "LittleDeadRidingHood", 
+                "TheCasanova", 
+                "GreatWhiteHunter", 
+                "JerkJock", 
+                "ManInWhite", 
+                "CrazyCatLady", 
+                "SchoolNurse", 
+                "DisposableSexWorker", 
+                "WomanInWhite", 
+                "SassyBlackWoman", 
+                "AsianBabymama", 
+                "BlackBossLady", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "SissyVillain", 
+                "Bishonen"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/Bridezilla.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "HotMom", 
+            "trope": "Bridezilla", 
+            "films": [
+                "MonsterInLaw"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MommasBoy", 
+            "trope": "Bridezilla", 
+            "films": [
+                "MonsterInLaw"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "RichBitch", 
+            "trope": "Bridezilla", 
+            "films": [
+                "MonsterInLaw"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomanInWhite", 
+            "trope": "Bridezilla", 
+            "films": [
+                "MonsterInLaw"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StraightGay", 
+            "trope": "Bridezilla", 
+            "films": [
+                "MonsterInLaw"
+            ]
+        }
+    ], 
+    "id": "Bridezilla", 
+    "name": "Bridezilla"
+}

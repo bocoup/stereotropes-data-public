@@ -1,0 +1,103 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            2, 
+            0.011363636363636364, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            7, 
+            0.01192504258943782, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            7, 
+            0.007909604519774011, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "The Young Gun is the Western equivalent of the Kid Samurai: a younger, less-awesome version of The Gunslinger, looking to make a name for himself. Expect him to be hot-headed and impetuous. He will probably attach himself to an older, more experienced character, looking up to him as a mentor figure, only to be told that this is no kind of life for anyone and that he should get out while he still can.\nThe Young Gun differs from his counterpart The Gunfighter Wannabe in that he actually has what it takes to be a gunslinger, but just needs a little training/experience/maturity in order to get up to speed. The Gunfighter Wannabe, by contrast, lacks the talent or temperament to make it as a gunslinger and his attempt to try to make a name for himself despite the warnings of his elders generally doesn't end well.", 
+    "gender": "m", 
+    "adjs": [
+        "less-awesome", 
+        "hot-headed", 
+        "training/experience/maturity"
+    ], 
+    "adjectives": [
+        [
+            "hot-headed", 
+            1, 
+            13.299479965194147, 
+            1.0, 
+            [
+                "YoungGun"
+            ]
+        ], 
+        [
+            "less-awesome", 
+            1, 
+            13.299479965194147, 
+            1.0, 
+            [
+                "YoungGun"
+            ]
+        ], 
+        [
+            "training/experience/maturity", 
+            1, 
+            13.299479965194147, 
+            1.0, 
+            [
+                "YoungGun"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/YoungGun.jpg", 
+    "id": "YoungGun", 
+    "name": "Young Gun"
+}

@@ -1,0 +1,567 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            2, 
+            0.03333333333333333, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "Ah, everyone loves sweet little Alice. She's so beautiful, but she looks as if she's always just one sharp word away from bursting into tears.\nA fragile flower is that one character who always looks like she (or he) is just about ready to cry. In fact, they probably are. Sometimes, they will to try and keep their emotions inside, but ultimately fail. One small incident and they are crying. It is possible for anything to cause them to cry, but it is most often a harsh insult directed at them.\nThere may be a few reasons for a fragile flower's behavior. They might just be super sensitive by nature. There might have been something in their past such as emotional abuse from peers or some other form of Break the Cutie that caused them to be this way. Most characters who know the fragile flower are careful not to upset them when talking. Other more Jerk Ass characters will most likely try to make them cry, in which case the fragile flower may eventually force themselves to become desensitized towards insults.\nPretty popular in Japanese media since it's often played as cute.\nAlso known as the \"Sad Girl In Snow\".\nMost often female, though it can be a male in order to be Played for Laughs.\nCompare The Ingenue and Shrinking Violet.", 
+    "gender": "f", 
+    "adjs": [
+        "little", 
+        "beautiful", 
+        "sharp", 
+        "fragile", 
+        "ready"
+    ], 
+    "adjectives": [
+        [
+            "fragile", 
+            3, 
+            27.928223568659785, 
+            1.0, 
+            [
+                "FragileFlower", 
+                "PregnantBadass"
+            ]
+        ], 
+        [
+            "cry", 
+            1, 
+            9.7224296821287, 
+            0.3481220228070259, 
+            [
+                "FragileFlower"
+            ]
+        ], 
+        [
+            "desensitized", 
+            1, 
+            9.7224296821287, 
+            0.3481220228070259, 
+            [
+                "FragileFlower"
+            ]
+        ], 
+        [
+            "super", 
+            1, 
+            9.7224296821287, 
+            0.3481220228070259, 
+            [
+                "FragileFlower"
+            ]
+        ], 
+        [
+            "harsh", 
+            1, 
+            8.679815215960549, 
+            0.3107900935633005, 
+            [
+                "DoggedNiceGuy", 
+                "FragileFlower"
+            ]
+        ], 
+        [
+            "careful", 
+            1, 
+            8.004100890139904, 
+            0.2865954173727636, 
+            [
+                "SpoiledSweet", 
+                "FragileFlower", 
+                "LesbianVampire"
+            ]
+        ], 
+        [
+            "ready", 
+            1, 
+            7.103811183416604, 
+            0.2543595787949896, 
+            [
+                "RebelPrince", 
+                "TomboyWithAGirlyStreak", 
+                "LadyInRed", 
+                "FragileFlower", 
+                "KindlyHousekeeper"
+            ]
+        ], 
+        [
+            "sharp", 
+            1, 
+            6.243213428720519, 
+            0.22354495313215933, 
+            [
+                "LadyInRed", 
+                "FragileFlower", 
+                "GirlGroup", 
+                "PerkyFemaleMinion", 
+                "DarkActionGirl", 
+                "BlondeRepublicanSexKitten", 
+                "UncannyValleyGirl", 
+                "AlphaBitch"
+            ]
+        ], 
+        [
+            "sensitive", 
+            1, 
+            5.486794740250928, 
+            0.19646057067546696, 
+            [
+                "FragileFlower", 
+                "JerkJock", 
+                "KickChick", 
+                "SensitiveGuyAndManlyMan", 
+                "MagicalGirlfriend", 
+                "MommasBoy"
+            ]
+        ], 
+        [
+            "emotional", 
+            1, 
+            4.725711443441735, 
+            0.16920916691403126, 
+            [
+                "MadonnaWhoreComplex", 
+                "FragileFlower", 
+                "BespectacledBastardBoyfriend", 
+                "MataHari", 
+                "QuicklyDemotedWoman", 
+                "TeamMom", 
+                "NeverASelfMadeWoman", 
+                "ProperLady", 
+                "TheTease", 
+                "EmotionlessGirl", 
+                "Chickification", 
+                "CrusadingWidower", 
+                "BrokenBird", 
+                "SchoolgirlLesbians"
+            ]
+        ], 
+        [
+            "small", 
+            1, 
+            3.596220070807433, 
+            0.12876651685225707, 
+            [
+                "YamatoNadeshiko", 
+                "TheLadysFavour", 
+                "MadScientistsBeautifulDaughter", 
+                "CatholicSchoolGirlsRule", 
+                "SmallGirlBigGun", 
+                "BeautyMark", 
+                "StringyHairedGhostGirl", 
+                "CorruptHick", 
+                "StandardFiftiesFather", 
+                "BeardOfEvil", 
+                "KnightErrant", 
+                "GirlsWithGuns", 
+                "Keet", 
+                "ChickMagnet", 
+                "GirlNextDoor", 
+                "MorallyBankruptBanker", 
+                "TopHeavyGuy", 
+                "SweetPollyOliver", 
+                "LovelyAssistant", 
+                "HenpeckedHusband", 
+                "BlackMagicianGirl", 
+                "TinyTyrannicalGirl", 
+                "FragileFlower", 
+                "LadyOfAdventure", 
+                "TeenyWeenie", 
+                "SculleryMaid", 
+                "ProperLady", 
+                "BiggerIsBetterInBed", 
+                "MilesGloriosus"
+            ]
+        ], 
+        [
+            "possible", 
+            1, 
+            3.4880010660596366, 
+            0.12489161931422545, 
+            [
+                "UnrequitedTragicMaiden", 
+                "FemmeFatale", 
+                "ClingyJealousGirl", 
+                "MegaTwintails", 
+                "FemininityFailure", 
+                "BadassBaritone", 
+                "MissingMom", 
+                "IceQueen", 
+                "GagPenis", 
+                "Hackette", 
+                "FauxActionGirl", 
+                "SeashellBra", 
+                "HuskyRusskie", 
+                "LadyInWaiting", 
+                "TinyTyrannicalGirl", 
+                "MachoCamp", 
+                "ManInWhite", 
+                "BespectacledBastardBoyfriend", 
+                "DaddysGirl", 
+                "NonActionSnarker", 
+                "GentlemanWizard", 
+                "BaitAndSwitchLesbians", 
+                "BeautifulAllAlong", 
+                "TheWomanWearingTheQueenlyMask", 
+                "DisappearedDad", 
+                "GenderInvertedTrope", 
+                "FragileFlower", 
+                "GymBunny", 
+                "IronLady", 
+                "RightThroughHisPants", 
+                "MisterSeahorse", 
+                "BastardBastard", 
+                "Meganekko"
+            ]
+        ], 
+        [
+            "little", 
+            1, 
+            3.2438562968069897, 
+            0.11614975398747338, 
+            [
+                "OverprotectiveDad", 
+                "LittleOldLadyInvestigates", 
+                "GlamorousSingleMother", 
+                "LittleRedFightingHood", 
+                "BastardBoyfriend", 
+                "DirtyOldMan", 
+                "FarmersDaughter", 
+                "TheCharmer", 
+                "MagicalSeventhSon", 
+                "UnluckyEveryDude", 
+                "LittleSisterHeroine", 
+                "SexistUsedCarSalesman", 
+                "TheSlacker", 
+                "MaidenAunt", 
+                "WomanScorned", 
+                "TheCutie", 
+                "BasementDweller", 
+                "PrincessPhase", 
+                "ClassyCatBurglar", 
+                "BespectacledBastardBoyfriend", 
+                "QuintessentialBritishGentleman", 
+                "NonActionGuy", 
+                "BaitAndSwitchLesbians", 
+                "BeautifulAllAlong", 
+                "LittleMissConArtist", 
+                "Tomboy", 
+                "DirtyHarriet", 
+                "FragileFlower", 
+                "BrattyTeenageDaughter", 
+                "FavorsForTheSexy", 
+                "MysticalWaif", 
+                "DarkActionGirl", 
+                "SpoiledSweet", 
+                "SwingLowSweetHarriet", 
+                "Bishonen", 
+                "LittleGirlsKickShins"
+            ]
+        ], 
+        [
+            "beautiful", 
+            1, 
+            2.578253064452088, 
+            0.09231711634338699, 
+            [
+                "EvilDiva", 
+                "YamatoNadeshiko", 
+                "MadScientistsBeautifulDaughter", 
+                "AdrenalineMakeover", 
+                "HugeSchoolgirl", 
+                "AmazonianBeauty", 
+                "TheWomanWearingTheQueenlyMask", 
+                "WorldsMostBeautifulWoman", 
+                "PervertDad", 
+                "LovableAlphaBitch", 
+                "TheChiefsDaughter", 
+                "PrincessClassic", 
+                "MagicalGirlfriend", 
+                "TheHecateSisters", 
+                "AsianAirhead", 
+                "BigBeautifulMan", 
+                "BastardGirlfriend", 
+                "MillionairePlayboy", 
+                "MataHari", 
+                "TheFightingNarcissist", 
+                "MarySue", 
+                "HotWitch", 
+                "TheOphelia", 
+                "BeautifulAllAlong", 
+                "IllGirl", 
+                "BigBeautifulWoman", 
+                "PrincessTropes", 
+                "StumblingUponTheLostWizard", 
+                "BeautifulSlaveGirl", 
+                "SpoiledSweet", 
+                "ButterFace", 
+                "ProperLady", 
+                "Bishonen", 
+                "FragileFlower", 
+                "Meganekko"
+            ]
+        ], 
+        [
+            "japanese", 
+            1, 
+            2.3793741104136115, 
+            0.08519604208137584, 
+            [
+                "MagicalGirlWarrior", 
+                "PrincelyYoungMan", 
+                "BastardBoyfriend", 
+                "CatholicSchoolGirlsRule", 
+                "YamatoNadeshiko", 
+                "MagicalGirl", 
+                "SchoolgirlLesbians", 
+                "Ojou", 
+                "StringyHairedGhostGirl", 
+                "Fundoshi", 
+                "PrettyBoy", 
+                "TheSquadette", 
+                "LittleSisterHeroine", 
+                "CuteWitch", 
+                "OldMaid", 
+                "Joshikousei", 
+                "SissyVillain", 
+                "DeterminedWidow", 
+                "SeashellBra", 
+                "BigBeautifulMan", 
+                "NaginatasAreFeminine", 
+                "Kawaiiko", 
+                "HugeSchoolgirl", 
+                "BridgeBunnies", 
+                "Samurai", 
+                "OfficeLady", 
+                "TomboyWithAGirlyStreak", 
+                "HotWitch", 
+                "FrenchMaid", 
+                "FragileFlower", 
+                "ButterFace", 
+                "SenseiChan", 
+                "IdolSinger", 
+                "Meido", 
+                "DragonLady", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "Bishonen", 
+                "GenderInvertedTrope"
+            ]
+        ], 
+        [
+            "popular", 
+            1, 
+            1.943718179649782, 
+            0.06959691420656501, 
+            [
+                "PerkyGoth", 
+                "AngryBlackMan", 
+                "LovableAlphaBitch", 
+                "IdolSinger", 
+                "NerdNanny", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "TomBoyAndGirlyGirl", 
+                "EarthMother", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "YamatoNadeshiko", 
+                "MarySue", 
+                "HotScoop", 
+                "DirtyOldWoman", 
+                "StringyHairedGhostGirl", 
+                "GirlGroup", 
+                "SpiritedYoungLady", 
+                "WomenDrivers", 
+                "HotScientist", 
+                "LittleSisterHeroine", 
+                "GirlPosse", 
+                "AlphaBitch", 
+                "TheFlapper", 
+                "MagicalGirlfriend", 
+                "BaldBlackLeaderGuy", 
+                "NaiveEverygirl", 
+                "ActionGirl", 
+                "BadassPrincess", 
+                "BeautyBrainsAndBrawn", 
+                "SexyStewardess", 
+                "MenCantKeepHouse", 
+                "JerkJock", 
+                "BespectacledBastardBoyfriend", 
+                "MorallyBankruptBanker", 
+                "CosplayOtakuGirl", 
+                "GracefulLadiesLikePurple", 
+                "Samurai", 
+                "DamselInDistress", 
+                "SweetPollyOliver", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "CuteSportsClubManager", 
+                "StoutStrength", 
+                "TheIngenue", 
+                "Fratbro", 
+                "Tomboy", 
+                "VainSorceress", 
+                "BigManOnCampus", 
+                "LesbianVampire", 
+                "BarbaricBully", 
+                "Ladyella", 
+                "LittleDeadRidingHood", 
+                "FavorsForTheSexy", 
+                "BattleaxeNurse", 
+                "DarkActionGirl", 
+                "RobotGirl", 
+                "SpoiledSweet", 
+                "Joshikousei", 
+                "ProperLady", 
+                "AsianAirhead", 
+                "HotGypsyWoman", 
+                "Bishonen", 
+                "FragileFlower", 
+                "Meganekko", 
+                "TokenYuriGirls", 
+                "GrumpyOldMan"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/FragileFlower.png", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "StraightGay", 
+            "trope": "FragileFlower", 
+            "films": [
+                "ThePictureOfDorianGray", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "GrandeDame", 
+            "trope": "FragileFlower", 
+            "films": [
+                "ThePictureOfDorianGray", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheVamp", 
+            "trope": "FragileFlower", 
+            "films": [
+                "ThePictureOfDorianGray", 
+                "BlackSwan"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "HookerWithAHeartOfGold", 
+            "trope": "FragileFlower", 
+            "films": [
+                "Saawariya", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "LipstickLesbian", 
+            "trope": "FragileFlower", 
+            "films": [
+                "NorwegianWood", 
+                "BlackSwan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TeenyWeenie", 
+            "trope": "FragileFlower", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "RightThroughHisPants", 
+            "trope": "FragileFlower", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MsFanservice", 
+            "trope": "FragileFlower", 
+            "films": [
+                "BlackSwan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PluckyGirl", 
+            "trope": "FragileFlower", 
+            "films": [
+                "NorwegianWood"
+            ]
+        }
+    ], 
+    "id": "FragileFlower", 
+    "name": "Fragile Flower"
+}

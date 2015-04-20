@@ -1,0 +1,172 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            1, 
+            0.016666666666666666, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            2, 
+            0.011363636363636364, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            1, 
+            0.0044444444444444444, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "A Determined Homesteader can't Settle the Frontier alone, no matter how stubborn he may be. He needs an equally determined wife. At least in fiction, the Determined Homesteader's Wife is usually a strong-willed woman who's handy around the cabin and fields, and probably knows how to load and shoot a gun. And if she doesn't have those capabilities at the beginning of the story, she soon will have. Especially when those skills are required to protect the Determined Homesteader's Children.\nThe \"prairie romance\" subgenre of Romance Novel will often have the protagonist becoming one of these, either from the beginning of the homestead, or as a mail order bride.\nHas a tendency to become the Determined Widow if the main character of the story is The Drifter or The Gunslinger.", 
+    "gender": "f", 
+    "adjs": [
+        "strong-willed", 
+        "handy", 
+        "main"
+    ], 
+    "adjectives": [
+        [
+            "handy", 
+            1, 
+            13.299479965194147, 
+            1.0, 
+            [
+                "DeterminedHomesteadersWife"
+            ]
+        ], 
+        [
+            "strong-willed", 
+            1, 
+            11.574682517814686, 
+            0.8703109105097794, 
+            [
+                "GoodOlBoy", 
+                "DeterminedHomesteadersWife", 
+                "TheWomanWearingTheQueenlyMask"
+            ]
+        ], 
+        [
+            "main", 
+            1, 
+            5.719770724797509, 
+            0.4300747653116233, 
+            [
+                "SexyStewardess", 
+                "MysticalWaif", 
+                "MamaBear", 
+                "GossipyHens", 
+                "TokenLesbian", 
+                "SoapBoxSadie", 
+                "TheOneGuy", 
+                "LovelyAssistant", 
+                "TomBoyAndGirlyGirl", 
+                "TheCharmer", 
+                "CoolBigSis", 
+                "MatronChaperone", 
+                "Ojou", 
+                "GlamorousWartimeSinger", 
+                "HandsomeDevil", 
+                "MartyStu", 
+                "FatGirl", 
+                "ShelteredAristocrat", 
+                "Joshikousei", 
+                "GirlNextDoor", 
+                "HardDrinkingPartyGirl", 
+                "MaidenAunt", 
+                "TheGoodKing", 
+                "QuicklyDemotedWoman", 
+                "AsianAirhead", 
+                "BumblingDad", 
+                "UselessBoyfriend", 
+                "TheChanteuse", 
+                "GrannyClassic", 
+                "MountainMan", 
+                "InnocentFanserviceGirl", 
+                "TheFightingNarcissist", 
+                "OneeSama", 
+                "SensitiveGuyAndManlyMan", 
+                "DirtyCoward", 
+                "BromanticFoil", 
+                "ActionDad", 
+                "Fratbro", 
+                "YaoiGuys", 
+                "Samurai", 
+                "BlackBossLady", 
+                "CoolOldLady", 
+                "Meido", 
+                "Chickification", 
+                "TheMuse", 
+                "AmazonBrigade", 
+                "SexyManInstantHarem", 
+                "HookerWithAHeartOfGold", 
+                "DeterminedHomesteadersWife", 
+                "TheTease"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "PluckyGirl", 
+            "trope": "DeterminedHomesteadersWife", 
+            "films": [
+                "TheWonderfulWizardOfOz"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "DisappearedDad", 
+            "trope": "DeterminedHomesteadersWife", 
+            "films": [
+                "OldYeller"
+            ]
+        }
+    ], 
+    "id": "DeterminedHomesteadersWife", 
+    "name": "Determined Homesteaders Wife"
+}

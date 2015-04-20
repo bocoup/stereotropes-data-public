@@ -1,0 +1,229 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            4, 
+            0.017777777777777778, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            3, 
+            0.009933774834437087, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            6, 
+            0.010221465076660987, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            11, 
+            0.012429378531073447, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            7, 
+            0.012302284710017574, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            12, 
+            0.018575851393188854, 
+            646
+        ]
+    ], 
+    "description": "Few things say Badass the way a well groomed mustache does. Well, unless you're a woman.\nAlso works as an easy and quick way for an established character to Take A Level In Badass.\nDid I mention it helps with the ladies?\nNot to be confused with the Beard Of Evil, although a Badass Beard may also be present. The Badass Mustache is smaller and more defined and does not inherently bring with it villainous intent. Not all mustaches are Badass; there's a fine line between this and the Porn Stache, which these days is more likely to inspire mockery than respect, and of course the toothbrush mustache (also known as the Hitler mustache) just looks silly.", 
+    "gender": "m", 
+    "adjs": [
+        "easy", 
+        "quick", 
+        "established"
+    ], 
+    "adjectives": [
+        [
+            "quick", 
+            1, 
+            10.047631069324618, 
+            1.0, 
+            [
+                "GaussianGirl", 
+                "TheChiefsDaughter", 
+                "Meido", 
+                "AmazonianBeauty", 
+                "MarySue", 
+                "SingleMomStripper", 
+                "BadAssMustache"
+            ]
+        ], 
+        [
+            "established", 
+            1, 
+            9.797623417918645, 
+            0.9751177516689237, 
+            [
+                "DisappearedDad", 
+                "BlondeRepublicanSexKitten", 
+                "ShirtlessScene", 
+                "FauxActionGirl", 
+                "NeutralFemale", 
+                "BadAssMustache"
+            ]
+        ], 
+        [
+            "easy", 
+            1, 
+            7.949092997364064, 
+            0.7911410105047165, 
+            [
+                "DisposableSexWorker", 
+                "SassyBlackWoman", 
+                "OverprotectiveDad", 
+                "ClassyCatBurglar", 
+                "ManInWhite", 
+                "GirlNextDoor", 
+                "WidowWitch", 
+                "AccidentalPornomancer", 
+                "MonogenderMonsters", 
+                "EverythingsBetterWithPrincesses", 
+                "WorldsMostBeautifulWoman", 
+                "TheCharmer", 
+                "CuteGhostGirl", 
+                "HighSchoolHustler", 
+                "StoutStrength", 
+                "FurryBaldness", 
+                "BadAssMustache", 
+                "MrFanservice", 
+                "MagicalNanny", 
+                "GoGetterGirl"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/BadAssMustache.gif", 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "TheChick", 
+            "trope": "BadAssMustache", 
+            "films": [
+                "Tombstone", 
+                "FlashGordon", 
+                "SpyKids", 
+                "LegendsOfTheFall"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "MrFanservice", 
+            "trope": "BadAssMustache", 
+            "films": [
+                "CaptainAmericaTheFirstAvenger", 
+                "InglouriousBasterds", 
+                "KingdomOfHeaven", 
+                "LegendsOfTheFall"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "CoolOldGuy", 
+            "trope": "BadAssMustache", 
+            "films": [
+                "CaptainAmericaTheFirstAvenger", 
+                "QuigleyDownUnder", 
+                "SevenSamurai", 
+                "LonesomeDove"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "MsFanservice", 
+            "trope": "BadAssMustache", 
+            "films": [
+                "CaptainAmericaTheFirstAvenger", 
+                "ButchCassidyAndTheSundanceKid", 
+                "TheImaginariumOfDoctorParnassus", 
+                "Tremors"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "BeardOfEvil", 
+            "trope": "BadAssMustache", 
+            "films": [
+                "MiamiConnection", 
+                "FlashGordon", 
+                "KingdomOfHeaven"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "HookerWithAHeartOfGold", 
+            "trope": "BadAssMustache", 
+            "films": [
+                "QuigleyDownUnder", 
+                "JonahHex", 
+                "LonesomeDove"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "SharpDressedMan", 
+            "trope": "BadAssMustache", 
+            "films": [
+                "Tombstone", 
+                "PulpFiction", 
+                "EvilRoySlade"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "DoggedNiceGuy", 
+            "trope": "BadAssMustache", 
+            "films": [
+                "InglouriousBasterds", 
+                "TheImaginariumOfDoctorParnassus", 
+                "LegendsOfTheFall"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "BadAssMustache", 
+            "films": [
+                "PulpFiction", 
+                "MajorLeague", 
+                "Batman"
+            ]
+        }
+    ], 
+    "id": "BadAssMustache", 
+    "name": "Bad Ass Mustache"
+}

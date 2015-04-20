@@ -1,0 +1,255 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            3, 
+            0.009933774834437087, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            2, 
+            0.0022598870056497176, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            2, 
+            0.0035149384885764497, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            4, 
+            0.006191950464396285, 
+            646
+        ]
+    ], 
+    "description": "Sometimes you'll come across a girl, often cute and sweet-looking... but she'll be brandishing some sort of scary weapon at you in a murderous fashion! EEEEEK! Run for the hills!\nMost commonly the weapons are knives, but other psycho weapons are also common, such as chainsaws or other instruments of pain and destruction.\nShe's usually also Yandere, or, failing that, Cute and Psycho.\nCompare Grotesque Cute, Small Girl, Big Gun, Glacier Waif, and Ax-Crazy.", 
+    "gender": "f", 
+    "adjs": [
+        "cute", 
+        "sweet-looking", 
+        "scary", 
+        "murderous", 
+        "ax-crazy"
+    ], 
+    "adjectives": [
+        [
+            "sweet-looking", 
+            1, 
+            12.2786918096927, 
+            1.0, 
+            [
+                "GirlWithPsychoWeapon"
+            ]
+        ], 
+        [
+            "murderous", 
+            1, 
+            11.233274561844485, 
+            0.9148592322332766, 
+            [
+                "TheFightingNarcissist", 
+                "GirlWithPsychoWeapon"
+            ]
+        ], 
+        [
+            "ax-crazy", 
+            1, 
+            9.648862184260352, 
+            0.7858216765929101, 
+            [
+                "WomanScorned", 
+                "PerkyFemaleMinion", 
+                "TheButcher", 
+                "GirlWithPsychoWeapon", 
+                "TheOldConvict"
+            ]
+        ], 
+        [
+            "scary", 
+            1, 
+            7.859307072875774, 
+            0.6400769067818528, 
+            [
+                "MafiaPrincess", 
+                "GirlWithPsychoWeapon", 
+                "Fangirl", 
+                "MamaBear", 
+                "DarkActionGirl", 
+                "SassyBlackWoman", 
+                "ScaryBlackMan", 
+                "WomanInBlack", 
+                "TheButcher", 
+                "DastardlyWhiplash"
+            ]
+        ], 
+        [
+            "cute", 
+            1, 
+            5.260239481229046, 
+            0.4284039018779391, 
+            [
+                "OutdoorsyGal", 
+                "YamatoNadeshiko", 
+                "HotWitch", 
+                "MamaBear", 
+                "ClingyJealousGirl", 
+                "HugeSchoolgirl", 
+                "EmotionlessGirl", 
+                "CuteGhostGirl", 
+                "AnimeChineseGirl", 
+                "SmallGirlBigGun", 
+                "UnluckyEveryDude", 
+                "TheFakeCutie", 
+                "LittleSisterHeroine", 
+                "TeamMom", 
+                "CuteMonsterGirl", 
+                "TheCutie", 
+                "TomboyWithAGirlyStreak", 
+                "MisplacedKindergartenTeacher", 
+                "ShortTank", 
+                "Keet", 
+                "Kawaiiko", 
+                "Bishonen", 
+                "GirlWithPsychoWeapon", 
+                "BaitAndSwitchLesbians", 
+                "SmittenTeenageGirl", 
+                "Tomboy", 
+                "SenseiChan", 
+                "IllGirl", 
+                "Meido", 
+                "HumanoidFemaleAnimal", 
+                "RobotGirl", 
+                "SwingLowSweetHarriet", 
+                "GirlPosse", 
+                "LittleMissBadass", 
+                "PetitePride", 
+                "Meganekko", 
+                "LittleGirlsKickShins", 
+                "PirateGirl"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/GirlWithPsychoWeapon.jpg", 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "LittleMissBadass", 
+            "trope": "GirlWithPsychoWeapon", 
+            "films": [
+                "Super", 
+                "Serenity", 
+                "KillBill"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "NeutralFemale", 
+            "trope": "GirlWithPsychoWeapon", 
+            "films": [
+                "Serenity", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheChick", 
+            "trope": "GirlWithPsychoWeapon", 
+            "films": [
+                "Red", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WomanScorned", 
+            "trope": "GirlWithPsychoWeapon", 
+            "films": [
+                "Audition", 
+                "KillBill"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "NaughtyNurseOutfit", 
+            "trope": "GirlWithPsychoWeapon", 
+            "films": [
+                "KillBill", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "GirlWithPsychoWeapon", 
+            "films": [
+                "Super", 
+                "KillBill"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GirlsLoveStuffedAnimals", 
+            "trope": "GirlWithPsychoWeapon", 
+            "films": [
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "YamatoNadeshiko", 
+            "trope": "GirlWithPsychoWeapon", 
+            "films": [
+                "Audition"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCasanova", 
+            "trope": "GirlWithPsychoWeapon", 
+            "films": [
+                "FairyTail"
+            ]
+        }
+    ], 
+    "id": "GirlWithPsychoWeapon", 
+    "name": "Girl With Psycho Weapon"
+}

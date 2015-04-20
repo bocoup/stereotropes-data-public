@@ -1,0 +1,316 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            4, 
+            0.004519774011299435, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "A common element in shojo stories, particularly of the Magical Girl variety: the secretive figure who appears in a moment of need, aids the heroine, and then vanishes again. He doesn't always do much \u2014 a word of advice or encouragement, or a single attack that distracts the enemy for a critical instant \u2014 nor does he even have to be even as powerful as the heroine. But his interventions are critical to her survival or the maintenance of her morale.\nWhile his true name and nature are usually concealed in the beginning, the heroine eventually finds out who he is about two-thirds of the way through the series. Subsequently, he often becomes her love interest. For some reason, he usually gets possessed or otherwise has to work against her for a time. Inevitably, he'll end up having to be rescued by the heroine at one point or another.\nSubtrope of Mysterious Watcher. Compare Aloof Ally who becomes a member of the team instead of a love interest, the Mysterious Backer, who generally provides support rather than rescues (and typically has more complex goals than a crush), and Enigmatic Minion, the villainous version.", 
+    "gender": "m", 
+    "adjs": [
+        "secretive", 
+        "single", 
+        "critical", 
+        "powerful", 
+        "critical"
+    ], 
+    "adjectives": [
+        [
+            "critical", 
+            2, 
+            17.806153526662925, 
+            1.0, 
+            [
+                "GaussianGirl", 
+                "MysteriousProtector", 
+                "GirlFriday", 
+                "BlondesAreEvil", 
+                "NiceJewishBoy", 
+                "MagicalGirlfriend", 
+                "FinalGirl"
+            ]
+        ], 
+        [
+            "secretive", 
+            1, 
+            11.33997884016253, 
+            0.6368572989771234, 
+            [
+                "MysteriousProtector"
+            ]
+        ], 
+        [
+            "complex", 
+            1, 
+            9.617338773774907, 
+            0.5401132119507961, 
+            [
+                "MysteriousProtector", 
+                "PluckyOfficeGirl", 
+                "ChivalrousPervert"
+            ]
+        ], 
+        [
+            "villainous", 
+            1, 
+            6.9283598371134065, 
+            0.3890991856685322, 
+            [
+                "DepravedHomosexual", 
+                "FemmeFatale", 
+                "ChivalrousPervert", 
+                "MysteriousProtector", 
+                "HeroicSeductress", 
+                "EunuchsAreEvil", 
+                "VainSorceress", 
+                "DarkActionGirl", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ThisIndexIsABitch", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "powerful", 
+            1, 
+            5.601551379323899, 
+            0.3145851444522333, 
+            [
+                "YamatoNadeshiko", 
+                "RightHandHottie", 
+                "ScreamingWoman", 
+                "DirtyOldMan", 
+                "TheTease", 
+                "PrettyBoy", 
+                "InsectQueen", 
+                "NeverASelfMadeWoman", 
+                "FauxActionGirl", 
+                "MysteriousProtector", 
+                "TheFightingNarcissist", 
+                "WomanInWhite", 
+                "ExtraordinarilyEmpoweredGirl", 
+                "AsianBabymama", 
+                "DragonLady", 
+                "MysticalWaif", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "AmazonBrigade", 
+                "SexyManInstantHarem", 
+                "SissyVillain", 
+                "GirlyBruiser", 
+                "GodSaveUsFromTheQueen"
+            ]
+        ], 
+        [
+            "single", 
+            1, 
+            5.392215958411369, 
+            0.30282879176218874, 
+            [
+                "WidowWoman", 
+                "CollegeWidow", 
+                "GlamorousSingleMother", 
+                "CoolBigSis", 
+                "Fundoshi", 
+                "TokenLesbian", 
+                "ManInAKilt", 
+                "MonogenderMonsters", 
+                "NobleMaleRoguishMale", 
+                "MenCantKeepHouse", 
+                "MysteriousProtector", 
+                "TheSlacker", 
+                "DaddysGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "CuteSportsClubManager", 
+                "SchoolMarm", 
+                "MyBelovedSmother", 
+                "DisappearedDad", 
+                "MsFanservice", 
+                "ApronMatron", 
+                "AmazonBrigade", 
+                "SingleMomStripper"
+            ]
+        ], 
+        [
+            "true", 
+            1, 
+            4.595857186826376, 
+            0.25810499611522175, 
+            [
+                "OutdoorsyGal", 
+                "YamatoNadeshiko", 
+                "FemmeFatale", 
+                "DumbMuscle", 
+                "LovelyAssistant", 
+                "TheTease", 
+                "GIRL", 
+                "DistractedByTheLuxury", 
+                "BeautyMark", 
+                "GoGetterGirl", 
+                "MysteriousProtector", 
+                "WidowWitch", 
+                "TheFakeCutie", 
+                "FauxActionGirl", 
+                "MagicalGirlfriend", 
+                "ActionGirl", 
+                "TheEvilPrince", 
+                "BigBeautifulMan", 
+                "DeliberatelyDistressedDamsel", 
+                "NoWomansLand", 
+                "MissKitty", 
+                "TheChanteuse", 
+                "EverythingsBetterWithPrincesses", 
+                "HookerWithAHeartOfGold", 
+                "Fangirl", 
+                "DirtyCoward", 
+                "FilleFatale", 
+                "SchoolMarm", 
+                "WickedWitch", 
+                "Gayngster", 
+                "VainSorceress", 
+                "EstrogenBrigade", 
+                "BarbaricBully", 
+                "PrinceCharming", 
+                "HotScoop", 
+                "SculleryMaid", 
+                "ProperLady", 
+                "GodSaveUsFromTheQueen", 
+                "TheChick", 
+                "AsianHookerStereotype"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "TheHecateSisters", 
+            "trope": "MysteriousProtector", 
+            "films": [
+                "CrouchingTigerHiddenDragon"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "RebelliousPrincess", 
+            "trope": "MysteriousProtector", 
+            "films": [
+                "CrouchingTigerHiddenDragon"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ShortTank", 
+            "trope": "MysteriousProtector", 
+            "films": [
+                "CuteyHoney"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TeamMom", 
+            "trope": "MysteriousProtector", 
+            "films": [
+                "HappilyEverAfter"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PluckyOfficeGirl", 
+            "trope": "MysteriousProtector", 
+            "films": [
+                "CuteyHoney"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "MysteriousProtector", 
+            "films": [
+                "ALittlePrincess"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheChick", 
+            "trope": "MysteriousProtector", 
+            "films": [
+                "HappilyEverAfter"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheFashionista", 
+            "trope": "MysteriousProtector", 
+            "films": [
+                "HappilyEverAfter"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WrenchWench", 
+            "trope": "MysteriousProtector", 
+            "films": [
+                "CuteyHoney"
+            ]
+        }
+    ], 
+    "id": "MysteriousProtector", 
+    "name": "Mysterious Protector"
+}

@@ -1,0 +1,330 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            1, 
+            0.0033112582781456954, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            9, 
+            0.015332197614991482, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            9, 
+            0.010169491525423728, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            2, 
+            0.0035149384885764497, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            3, 
+            0.0046439628482972135, 
+            646
+        ]
+    ], 
+    "description": "Duuuude! This guy is, like, Totally Radical! He's a lot like The Stoner, but, like, mostly without the drugs, Man. 'Cause drugs are like, total bogus, dude!\nMost of them don't actually surf, although some may own a surfboard for the sake of validity. But they're still most totally gnarly, bros. And they're most excellent in Surfer Speak. They all tend to like, live in California, because California is, like, most excellent and all that. If not California dude, expect to be, like, Hawaii, Australia, or any cool place with a cool beach, with all the sun and the sand dude, and totally surfable waves with a lot'o rip. Plus, there are way many hot babes there, dude! Most triumphant!\nYou comparin' that to Valley Girl, my man? And remember, Like Is, Like, a Comma.", 
+    "gender": "m", 
+    "adjs": [
+        "total", 
+        "excellent", 
+        "live", 
+        "excellent", 
+        "cool"
+    ], 
+    "adjectives": [
+        [
+            "excellent", 
+            2, 
+            22.20968821090897, 
+            1.0, 
+            [
+                "SurferDude"
+            ]
+        ], 
+        [
+            "lot'o", 
+            1, 
+            11.104844105454484, 
+            0.5, 
+            [
+                "SurferDude"
+            ]
+        ], 
+        [
+            "surfable", 
+            1, 
+            11.104844105454484, 
+            0.5, 
+            [
+                "SurferDude"
+            ]
+        ], 
+        [
+            "triumphant", 
+            1, 
+            10.060289670389281, 
+            0.4529685232342821, 
+            [
+                "SurferDude", 
+                "MilesGloriosus"
+            ]
+        ], 
+        [
+            "total", 
+            1, 
+            8.879234149704061, 
+            0.3997910310754724, 
+            [
+                "PrinceCharmless", 
+                "SurferDude", 
+                "BastardBoyfriend", 
+                "MarySue"
+            ]
+        ], 
+        [
+            "live", 
+            1, 
+            8.478465731154177, 
+            0.38174627444746023, 
+            [
+                "LadyOfAdventure", 
+                "SurferDude", 
+                "NaughtyNuns", 
+                "BastardGirlfriend", 
+                "RebelliousPrincess"
+            ]
+        ], 
+        [
+            "cool", 
+            1, 
+            7.612048069766935, 
+            0.34273547640475405, 
+            [
+                "BrattyTeenageDaughter", 
+                "CoolOldLady", 
+                "SmittenTeenageGirl", 
+                "MarySue", 
+                "EvenTheGirlsWantHer", 
+                "EmotionlessGirl", 
+                "SurferDude", 
+                "AsianHookerStereotype"
+            ]
+        ], 
+        [
+            "many", 
+            1, 
+            2.1849544608443385, 
+            0.09837843917912956, 
+            [
+                "ChildSoldiers", 
+                "CatholicSchoolGirlsRule", 
+                "StoutStrength", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "Dominatrix", 
+                "DisguisedInDrag", 
+                "SpiritedYoungLady", 
+                "SexistUsedCarSalesman", 
+                "InsectQueen", 
+                "TeamMom", 
+                "AlphaBitch", 
+                "AgentPeacock", 
+                "SchoolNurse", 
+                "ManInWhite", 
+                "BathingBeauty", 
+                "GoodOlBoy", 
+                "Tomboy", 
+                "EvilMatriarch", 
+                "BlackBossLady", 
+                "HouseWife", 
+                "WomenDrivers", 
+                "ProperLady", 
+                "BlackWidow", 
+                "Bishonen", 
+                "MadScientistsBeautifulDaughter", 
+                "PrincelyYoungMan", 
+                "HugeSchoolgirl", 
+                "StrawMisogynist", 
+                "DarkMistress", 
+                "SexyStewardess", 
+                "WickedStepmother", 
+                "SchoolgirlLesbians", 
+                "TheCheerleader", 
+                "CuteWitch", 
+                "KnightErrant", 
+                "MommasBoy", 
+                "AsianAirhead", 
+                "MenCantKeepHouse", 
+                "MountainMan", 
+                "CoolOldGuy", 
+                "GracefulLadiesLikePurple", 
+                "DisposableSexWorker", 
+                "ViolentlyProtectiveGirlFriend", 
+                "BaitAndSwitchLesbians", 
+                "GymBunny", 
+                "MysticalWaif", 
+                "StageMom", 
+                "LittleMissBadass", 
+                "GenderInvertedTrope", 
+                "AsianHookerStereotype", 
+                "UnrequitedTragicMaiden", 
+                "WidowWoman", 
+                "MegaTwintails", 
+                "GoodBadGirl", 
+                "BlondGuysAreEvil", 
+                "BoyBand", 
+                "YamatoNadeshiko", 
+                "MrsClaus", 
+                "MadonnaWhoreComplex", 
+                "SchoolMarm", 
+                "HarpOfFemininity", 
+                "IceQueen", 
+                "LipstickAndLoadMontage", 
+                "Joshikousei", 
+                "MaidenAunt", 
+                "GayCowboy", 
+                "JunglePrincess", 
+                "GentlemanThief", 
+                "BedlahBabe", 
+                "PrinceCharmless", 
+                "CrazyCatLady", 
+                "GalleySlave", 
+                "BadassGrandpa", 
+                "QuintessentialBritishGentleman", 
+                "Valkyries", 
+                "LovelyAssistant", 
+                "CuteClumsyGirl", 
+                "TheButcher", 
+                "BlondesAreEvil", 
+                "HumanoidFemaleAnimal", 
+                "HotScoop", 
+                "TheMuse", 
+                "BattleaxeNurse", 
+                "GodSaveUsFromTheQueen", 
+                "ConceiveAndKill", 
+                "MagicalGirlWarrior", 
+                "GlamorousWartimeSinger", 
+                "EmotionlessGirl", 
+                "AnimeChineseGirl", 
+                "WorldsMostBeautifulWoman", 
+                "CampStraight", 
+                "MissKitty", 
+                "NeverASelfMadeWoman", 
+                "TheHecateSisters", 
+                "FauxActionGirl", 
+                "JeanneDArchetype", 
+                "NobleMaleRoguishMale", 
+                "BumblingDad", 
+                "BastardGirlfriend", 
+                "NoWomansLand", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "Kawaiiko", 
+                "MataHari", 
+                "TheFightingNarcissist", 
+                "PrincelyTropes", 
+                "SensitiveGuyAndManlyMan", 
+                "ScaryBlackMan", 
+                "EstrogenBrigade", 
+                "SurferDude", 
+                "LesbianJock", 
+                "ButchLesbian", 
+                "KidAnova", 
+                "GirlyBruiser", 
+                "FanserviceExtra", 
+                "JewishMother"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/SurferDude.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "TheChick", 
+            "trope": "SurferDude", 
+            "films": [
+                "FindingNemo"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheVamp", 
+            "trope": "SurferDude", 
+            "films": [
+                "Tamara"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WrenchWench", 
+            "trope": "SurferDude", 
+            "films": [
+                "HellNight"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SweaterGirl", 
+            "trope": "SurferDude", 
+            "films": [
+                "HotelTransylvania"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCutie", 
+            "trope": "SurferDude", 
+            "films": [
+                "AlphaAndOmega"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WickedWitch", 
+            "trope": "SurferDude", 
+            "films": [
+                "HotelTransylvania"
+            ]
+        }
+    ], 
+    "id": "SurferDude", 
+    "name": "Surfer Dude"
+}

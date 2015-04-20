@@ -1,0 +1,150 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            3, 
+            0.02702702702702703, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "This is a maritime Badass Grandpa. He has endured storms, pirates, fog, and all the perils of the sea. He has been in a Bar Brawl in every port and he has never lost. Sometimes he is a Drill Sergeant Nasty to all the scurvy foc'sle swabs. Sometimes he develops a Big Brother Instinct toward the Plucky Middie. But he is a lord of the sea and all sailors must heed him or endure his wrath. Often wears a Sea Dog Beard.\nIf he actually serves in a Navy then he's likely to cross over with Old Soldier.", 
+    "gender": "m", 
+    "adjs": [
+        "foc'sle"
+    ], 
+    "adjectives": [
+        "foc'sle"
+    ], 
+    "image_url": "assets/data/tropes/images/FatherNeptune.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "FatherNeptune", 
+            "films": [
+                "Lincoln", 
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "FemaleMonsterSurprise", 
+            "trope": "FatherNeptune", 
+            "films": [
+                "Popeye"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LadyOfAdventure", 
+            "trope": "FatherNeptune", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MsFanservice", 
+            "trope": "FatherNeptune", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "RebelliousPrincess", 
+            "trope": "FatherNeptune", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StoutStrength", 
+            "trope": "FatherNeptune", 
+            "films": [
+                "Popeye"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SexyPriest", 
+            "trope": "FatherNeptune", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GirlInABox", 
+            "trope": "FatherNeptune", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "GodivaHair", 
+            "trope": "FatherNeptune", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }
+    ], 
+    "id": "FatherNeptune", 
+    "name": "Father Neptune"
+}

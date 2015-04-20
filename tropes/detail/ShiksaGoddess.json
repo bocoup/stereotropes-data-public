@@ -1,0 +1,292 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            2, 
+            0.0035149384885764497, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "The tendency of some Jewish male characters in media to be paired with a non-Jewish female character (\"Shiksa\" in Yiddish). Typically, shiksas represent the exotic outsider to the insular Jewish community. Jews looking to break free of the bonds of Jewish society might do so through association with shiksas. A gentile partner might also be a status symbol in areas where Jews are still discriminated against. Other Jewish men might simply be more attracted to women without Semitic features. Shiksas are often blonde and blue-eyed, traits more rare among Jews, to distinguish them from the Jewish norm.\nThe word \"shiksa\" comes from the Hebrew word for \"abomination,\" as these gentile temptresses were feared to be stealing away all the Nice Jewish Boys. Like most cultures, Jewish society traditionally looks down on members marrying outsiders, seeing it as a rejection of their heritage and community. Mixed couples won't necessarily perpetuate the traditions and beliefs that bind Jewish society together. In fact, strict application of Jewish law requires children born of a gentile mother to \"convert\" to Judaism even if they are raised Jewish.\nThe champion of Jewish beauty, and rival to the Shiksa Goddess is the Shayna Maidel (Yiddish slang, it literally means \"a pretty girl\", though typically applied to a Jewish woman).\nThe inversion of Shiksa Goddess is Matzo Fever, which is about non-Jews having this reaction to Jews.", 
+    "gender": "f", 
+    "adjs": [
+        "jewish", 
+        "non-jewish", 
+        "exotic", 
+        "insular", 
+        "free"
+    ], 
+    "adjectives": [
+        [
+            "gentile", 
+            2, 
+            20.74223885328996, 
+            1.0, 
+            [
+                "ShiksaGoddess"
+            ]
+        ], 
+        [
+            "jewish", 
+            2, 
+            14.538029505971993, 
+            0.700890082734058, 
+            [
+                "EducationMama", 
+                "ShiksaGoddess", 
+                "JewishAmericanPrincess", 
+                "EarthMother", 
+                "NiceJewishBoy", 
+                "JewishMother"
+            ]
+        ], 
+        [
+            "blonde", 
+            1, 
+            10.37111942664498, 
+            0.5, 
+            [
+                "ShiksaGoddess"
+            ]
+        ], 
+        [
+            "blue-eyed", 
+            1, 
+            10.37111942664498, 
+            0.5, 
+            [
+                "ShiksaGoddess"
+            ]
+        ], 
+        [
+            "insular", 
+            1, 
+            10.37111942664498, 
+            0.5, 
+            [
+                "ShiksaGoddess"
+            ]
+        ], 
+        [
+            "non-jewish", 
+            1, 
+            10.37111942664498, 
+            0.5, 
+            [
+                "ShiksaGoddess"
+            ]
+        ], 
+        [
+            "non-jews", 
+            1, 
+            10.37111942664498, 
+            0.5, 
+            [
+                "ShiksaGoddess"
+            ]
+        ], 
+        [
+            "strict", 
+            1, 
+            6.664483026531458, 
+            0.32130008113730657, 
+            [
+                "FarmersDaughter", 
+                "LeatherMan", 
+                "Keet", 
+                "ApronMatron", 
+                "ShiksaGoddess", 
+                "SchoolMarm", 
+                "Dominatrix", 
+                "MagicalNanny"
+            ]
+        ], 
+        [
+            "exotic", 
+            1, 
+            6.287687487381482, 
+            0.30313446546702844, 
+            [
+                "AsianBabymama", 
+                "ShiksaGoddess", 
+                "TheChiefsDaughter", 
+                "MataHari", 
+                "TheFightingNarcissist", 
+                "WinterRoyalLady", 
+                "MarySue", 
+                "CuteMonsterGirl", 
+                "GreenSkinnedSpaceBabe", 
+                "BrawnHilda"
+            ]
+        ], 
+        [
+            "free", 
+            1, 
+            5.579357960413279, 
+            0.268985329880546, 
+            [
+                "SoapBoxSadie", 
+                "TheAllAmericanBoy", 
+                "ChivalrousPervert", 
+                "GalleySlave", 
+                "MrFixit", 
+                "ShiksaGoddess", 
+                "FavorsForTheSexy", 
+                "KickChick", 
+                "GirlyGirl", 
+                "GranolaGirl", 
+                "WomanInBlack", 
+                "DamselInDistress", 
+                "AccidentalPornomancer", 
+                "MagicalNanny", 
+                "MyBelovedSmother"
+            ]
+        ], 
+        [
+            "rare", 
+            1, 
+            4.7337824516047124, 
+            0.22821945524235823, 
+            [
+                "LovableAlphaBitch", 
+                "ShiksaGoddess", 
+                "BeardOfBarbarism", 
+                "GranolaGirl", 
+                "BastardBoyfriend", 
+                "HarpOfFemininity", 
+                "PervertDad", 
+                "CampStraight", 
+                "AlphaBitch", 
+                "TheSlacker", 
+                "TheFightingNarcissist", 
+                "Hunk", 
+                "JadedWashout", 
+                "CuteSportsClubManager", 
+                "HotScientist", 
+                "SenseiChan", 
+                "GrandeDame", 
+                "YaoiFangirl", 
+                "BarbaricBully", 
+                "LovelyAngels", 
+                "TheCheerleader", 
+                "WomanInBlack", 
+                "GenderInvertedTrope"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "TheLoinsSleepTonight", 
+            "trope": "ShiksaGoddess", 
+            "films": [
+                "SexAndTheCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ShirtlessScene", 
+            "trope": "ShiksaGoddess", 
+            "films": [
+                "SexAndTheCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCasanova", 
+            "trope": "ShiksaGoddess", 
+            "films": [
+                "SexAndTheCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheFashionista", 
+            "trope": "ShiksaGoddess", 
+            "films": [
+                "SexAndTheCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TeenyWeenie", 
+            "trope": "ShiksaGoddess", 
+            "films": [
+                "SexAndTheCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomanScorned", 
+            "trope": "ShiksaGoddess", 
+            "films": [
+                "TheSocialNetwork"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SportsWidow", 
+            "trope": "ShiksaGoddess", 
+            "films": [
+                "SexAndTheCity"
+            ]
+        }
+    ], 
+    "id": "ShiksaGoddess", 
+    "name": "Shiksa Goddess"
+}

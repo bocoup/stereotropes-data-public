@@ -1,0 +1,203 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            1, 
+            0.0044444444444444444, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            4, 
+            0.013245033112582781, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            10, 
+            0.011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            2, 
+            0.0035149384885764497, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            4, 
+            0.006191950464396285, 
+            646
+        ]
+    ], 
+    "description": "Sometimes, the Big Bad of a story will have their most elite defenders be composed of exclusively female warriors. Expect them to be Stuffed into the Fridge by the hero/player.\nOccasionally, however, it would be the hero (or a supporting character on the good side) who has Bodyguard Babes, at which point it's almost mandatory that Hilarity Ensues via an Unwanted Harem situation.\nUnsurprisingly this is most common when the one being defended by the Bodyguard Babes is male.\nIn short, Praetorian Guard recruited from an Amazon Brigade. See also The Paid-For Harem. Ninja Maid is a more specialized subtrope.", 
+    "gender": "f", 
+    "adjs": [
+        "elite", 
+        "mandatory", 
+        "paid-for"
+    ], 
+    "adjectives": [
+        [
+            "mandatory", 
+            1, 
+            13.299479965194147, 
+            1.0, 
+            [
+                "BodyguardBabes"
+            ]
+        ], 
+        [
+            "paid-for", 
+            1, 
+            13.299479965194147, 
+            1.0, 
+            [
+                "BodyguardBabes"
+            ]
+        ], 
+        [
+            "elite", 
+            1, 
+            11.574682517814686, 
+            0.8703109105097794, 
+            [
+                "AmazonBrigade", 
+                "PrincelyYoungMan", 
+                "BodyguardBabes"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/BodyguardBabes.jpg", 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "TheCasanova", 
+            "trope": "BodyguardBabes", 
+            "films": [
+                "RepoTheGeneticOpera", 
+                "FullmetalAlchemist", 
+                "EnterTheDragon", 
+                "Dune"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "SissyVillain", 
+            "trope": "BodyguardBabes", 
+            "films": [
+                "RepoTheGeneticOpera", 
+                "SinCity", 
+                "FullmetalAlchemist", 
+                "DiamondsAreForever"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "MrFanservice", 
+            "trope": "BodyguardBabes", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "SinCity", 
+                "VanHelsing", 
+                "Dune"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "DarkActionGirl", 
+            "trope": "BodyguardBabes", 
+            "films": [
+                "VanHelsing", 
+                "TheWorldIsNotEnough", 
+                "FullmetalAlchemist", 
+                "KillBill"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "FemmeFatale", 
+            "trope": "BodyguardBabes", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "WildWildWest", 
+                "SinCity", 
+                "TheWorldIsNotEnough"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "MsFanservice", 
+            "trope": "BodyguardBabes", 
+            "films": [
+                "RepoTheGeneticOpera", 
+                "WildWildWest", 
+                "VanHelsing", 
+                "DiamondsAreForever"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "OverlordJr", 
+            "trope": "BodyguardBabes", 
+            "films": [
+                "SinCity", 
+                "FullmetalAlchemist", 
+                "Dune"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "DecoyDamsel", 
+            "trope": "BodyguardBabes", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "SinCity", 
+                "TheWorldIsNotEnough"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "PapaWolf", 
+            "trope": "BodyguardBabes", 
+            "films": [
+                "RepoTheGeneticOpera", 
+                "BatmanTheAnimatedSeries", 
+                "EnterTheDragon"
+            ]
+        }
+    ], 
+    "id": "BodyguardBabes", 
+    "name": "Bodyguard Babes"
+}

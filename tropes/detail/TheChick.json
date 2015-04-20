@@ -1,0 +1,378 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            1, 
+            0.016666666666666666, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            3, 
+            0.017045454545454544, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            11, 
+            0.04888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            9, 
+            0.029801324503311258, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            21, 
+            0.03577512776831346, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            42, 
+            0.04745762711864407, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            37, 
+            0.06502636203866433, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            61, 
+            0.09442724458204334, 
+            646
+        ]
+    ], 
+    "description": "The \"feminine\", \"spiritual\", and \"heart\", aspect of the Five-Man Band.\nIt's the people she gathers and keeps at her side who'll do a lot of the heavy lifting. She'll encourage loyalty and teamwork, give them the courage or hope to unlock their true potential, be a Token Good Teammate that keeps her friends from Jumping Off the Slippery Slope. She's usually a Nice Girl, but her demeanor can go anywhere from shy and demure, to brave and adventurous. She is rarely The Heroine of a story.\nHer functional role will often be The Heart, the social influence of the group. Sometimes this means she'll serve as the Team Mom, taking care of the smaller details, both within the group and in the world outside. She looks after innocents, delivers The Aesop, mediates the arguments, and slaps some sanity on The Lancer before he ends up getting too dark. It's not the coolest job in the world, but it's helpful.\nYes, we understand that a male can fill this role, but this trope is a component of a Five-Man Band, which is specifically four guys and a girl. Examples of male characters acting in this way can be found in The Heart.\n\nExamples", 
+    "gender": "f", 
+    "adjs": [
+        "spiritual", 
+        "five-man", 
+        "heavy", 
+        "give", 
+        "true"
+    ], 
+    "adjectives": [
+        [
+            "five-man", 
+            2, 
+            16.918323768265104, 
+            1.0, 
+            [
+                "TheChick", 
+                "MadScientistsBeautifulDaughter", 
+                "YokoOhNo", 
+                "TheFashionista", 
+                "HighSchoolHustler", 
+                "NeverASelfMadeWoman", 
+                "BoyBand", 
+                "KnightErrant"
+            ]
+        ], 
+        [
+            "functional", 
+            1, 
+            9.850215574219007, 
+            0.5822217206113381, 
+            [
+                "NEET", 
+                "TheChick"
+            ]
+        ], 
+        [
+            "spiritual", 
+            1, 
+            8.669591343630707, 
+            0.5124379614895934, 
+            [
+                "CulturedBadass", 
+                "TakingTheVeil", 
+                "TheChick", 
+                "SwingLowSweetHarriet"
+            ]
+        ], 
+        [
+            "shy", 
+            1, 
+            8.269038570129283, 
+            0.4887622842187299, 
+            [
+                "AdrenalineMakeover", 
+                "PassionateSportsGirl", 
+                "TheChick", 
+                "InnocentFlowerGirl"
+            ]
+        ], 
+        [
+            "give", 
+            1, 
+            7.403267843887419, 
+            0.4375887319152889, 
+            [
+                "BlackBossLady", 
+                "MorallyBankruptBanker", 
+                "ValleyGirl", 
+                "GirlsLoveStuffedAnimals", 
+                "TheTease", 
+                "NiceJewishBoy", 
+                "TheChick", 
+                "WickedWitch"
+            ]
+        ], 
+        [
+            "heavy", 
+            1, 
+            6.216014973041754, 
+            0.3674131703698432, 
+            [
+                "LittleMissAlmighty", 
+                "ButchLesbian", 
+                "TheChick", 
+                "TheBear", 
+                "ChildSoldiers", 
+                "Beastess", 
+                "BlondeRepublicanSexKitten", 
+                "SculleryMaid", 
+                "FarmersDaughter", 
+                "NaughtyNurseOutfit", 
+                "EducationMama", 
+                "JeanneDArchetype", 
+                "AsianHookerStereotype", 
+                "FiremenAreHot", 
+                "Ojou"
+            ]
+        ], 
+        [
+            "social", 
+            1, 
+            4.396580060942406, 
+            0.2598709021746813, 
+            [
+                "Socialite", 
+                "RichBitch", 
+                "PrincelyYoungMan", 
+                "MysticalWaif", 
+                "LawmanGoneBad", 
+                "EmotionlessGirl", 
+                "Bridezilla", 
+                "EducationMama", 
+                "MadonnaWhoreComplex", 
+                "GoGetterGirl", 
+                "CampStraight", 
+                "GirlOfTheWeek", 
+                "AlphaBitch", 
+                "LadyInWaiting", 
+                "BasementDweller", 
+                "GentlemanThief", 
+                "NoWomansLand", 
+                "MissKitty", 
+                "GirlNextDoor", 
+                "Kawaiiko", 
+                "Samurai", 
+                "OfficerAndAGentleman", 
+                "GirlishPigtails", 
+                "GrandeDame", 
+                "AsianBabymama", 
+                "HairyGirl", 
+                "BarbaricBully", 
+                "RebelliousPrincess", 
+                "TheOneGuy", 
+                "SissyVillain", 
+                "ConceiveAndKill", 
+                "TheChick"
+            ]
+        ], 
+        [
+            "nice", 
+            1, 
+            4.3021045209199, 
+            0.25428668819955214, 
+            [
+                "Socialite", 
+                "LovableAlphaBitch", 
+                "LittleOldLadyInvestigates", 
+                "NiceJewishBoy", 
+                "KindlyHousekeeper", 
+                "CoolBigSis", 
+                "BlondeRepublicanSexKitten", 
+                "DistractedByTheLuxury", 
+                "CulturedBadass", 
+                "BlondGuysAreEvil", 
+                "WickedWitch", 
+                "TheCutie", 
+                "MisplacedKindergartenTeacher", 
+                "JerkJock", 
+                "ManInWhite", 
+                "OfficeLady", 
+                "BeautifulAllAlong", 
+                "SmittenTeenageGirl", 
+                "TheChick", 
+                "MsFanservice", 
+                "TheUglyGuysHotDaughter", 
+                "GoodGirlGoneBad", 
+                "OneOfTheBoys", 
+                "SpoiledSweet", 
+                "StatuesqueStunner", 
+                "JewishMother", 
+                "DressesGownsAndSkirts"
+            ]
+        ], 
+        [
+            "true", 
+            1, 
+            4.168979184984847, 
+            0.2464179810061855, 
+            [
+                "OutdoorsyGal", 
+                "YamatoNadeshiko", 
+                "FemmeFatale", 
+                "DumbMuscle", 
+                "LovelyAssistant", 
+                "TheTease", 
+                "GIRL", 
+                "DistractedByTheLuxury", 
+                "BeautyMark", 
+                "GoGetterGirl", 
+                "MysteriousProtector", 
+                "WidowWitch", 
+                "TheFakeCutie", 
+                "FauxActionGirl", 
+                "MagicalGirlfriend", 
+                "ActionGirl", 
+                "TheEvilPrince", 
+                "BigBeautifulMan", 
+                "DeliberatelyDistressedDamsel", 
+                "NoWomansLand", 
+                "MissKitty", 
+                "TheChanteuse", 
+                "EverythingsBetterWithPrincesses", 
+                "HookerWithAHeartOfGold", 
+                "Fangirl", 
+                "DirtyCoward", 
+                "FilleFatale", 
+                "SchoolMarm", 
+                "WickedWitch", 
+                "Gayngster", 
+                "VainSorceress", 
+                "EstrogenBrigade", 
+                "BarbaricBully", 
+                "PrinceCharming", 
+                "HotScoop", 
+                "SculleryMaid", 
+                "ProperLady", 
+                "GodSaveUsFromTheQueen", 
+                "TheChick", 
+                "AsianHookerStereotype"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/TheChick.png", 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "TheFashionista", 
+            "trope": "TheChick", 
+            "films": [
+                "GrownUps", 
+                "HappilyEverAfter", 
+                "MySceneGoesHollywood", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "WhiteHairedPrettyBoy", 
+            "trope": "TheChick", 
+            "films": [
+                "TheLostBoys", 
+                "RiseOfTheGuardians", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "ValleyGirl", 
+            "trope": "TheChick", 
+            "films": [
+                "ScoobyDoo", 
+                "GeekCharming", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "TheChick", 
+            "films": [
+                "MyDogSkip", 
+                "TheLEGOMovie", 
+                "JasonAndTheArgonauts"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheLadette", 
+            "trope": "TheChick", 
+            "films": [
+                "Bridesmaids", 
+                "JasonAndTheArgonauts"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WhiteHairedPrettyGirl", 
+            "trope": "TheChick", 
+            "films": [
+                "MetalMen", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheSquadette", 
+            "trope": "TheChick", 
+            "films": [
+                "TheLosers", 
+                "Predators"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WomanInWhite", 
+            "trope": "TheChick", 
+            "films": [
+                "Red", 
+                "FairyTail"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "YaoiFangirl", 
+            "trope": "TheChick", 
+            "films": [
+                "AndTheBandPlayedOn", 
+                "FairyTail"
+            ]
+        }
+    ], 
+    "id": "TheChick", 
+    "name": "The Chick"
+}

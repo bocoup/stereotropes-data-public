@@ -1,0 +1,218 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            4, 
+            0.007029876977152899, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            5, 
+            0.007739938080495356, 
+            646
+        ]
+    ], 
+    "description": "So you want to give a character a beard and invoke all of those fun beard tropes. But oh no! Our character is some kind of creature or robot that doesn't have hair! But, that's okay, we'll just put something else there and make it look like a beard. See? All better!\nMay also be used when you want your character to appear alien, but not too alien. If they have a real beard anyway, they may be a case of Non-Mammalian Hair.", 
+    "gender": "m", 
+    "adjs": [
+        "hair", 
+        "real", 
+        "non-mammalian"
+    ], 
+    "adjectives": [
+        [
+            "non-mammalian", 
+            1, 
+            13.299479965194147, 
+            1.0, 
+            [
+                "WeirdBeard"
+            ]
+        ], 
+        [
+            "hair", 
+            1, 
+            10.047631069324618, 
+            0.755490522608411, 
+            [
+                "MegaTwintails", 
+                "IronLady", 
+                "MountainMan", 
+                "FurryBaldness", 
+                "TomBoyAndGirlyGirl", 
+                "WeirdBeard"
+            ]
+        ], 
+        [
+            "real", 
+            1, 
+            5.395741973473069, 
+            0.4057107486604122, 
+            [
+                "TheLadysFavour", 
+                "ChildSoldiers", 
+                "InnocentFlowerGirl", 
+                "GranolaGirl", 
+                "WickedStepmother", 
+                "OldSchoolChivalry", 
+                "HumanoidFemaleAnimal", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "HouseHusband", 
+                "MarySue", 
+                "PrettyBoy", 
+                "MasculinityTropes", 
+                "ActionMom", 
+                "TheMuse", 
+                "WorldsMostBeautifulWoman", 
+                "GoGetterGirl", 
+                "LittleSisterHeroine", 
+                "CampStraight", 
+                "WeirdBeard", 
+                "ActionGirlFriend", 
+                "SchoolgirlLesbians", 
+                "GrandeDame", 
+                "BattleaxeNurse", 
+                "ManInAKilt", 
+                "ShelteredAristocrat", 
+                "FauxActionGirl", 
+                "LittleMissConArtist", 
+                "GreenSkinnedSpaceBabe", 
+                "MommasBoy", 
+                "BasementDweller", 
+                "FeminineWomenCanCook", 
+                "OfficeLady", 
+                "BastardGirlfriend", 
+                "BlackWidow", 
+                "ValleyGirl", 
+                "CosplayOtakuGirl", 
+                "BridgeBunnies", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "HookerWithAHeartOfGold", 
+                "MilesGloriosus", 
+                "Fangirl", 
+                "GodSaveUsFromTheQueen", 
+                "FilleFatale", 
+                "HenpeckedHusband", 
+                "TheButcher", 
+                "Fratbro", 
+                "Tomboy", 
+                "SenseiChan", 
+                "ButchLesbian", 
+                "MsFanservice", 
+                "TheSquadette", 
+                "DadTheVeteran", 
+                "MisterSeahorse", 
+                "EverythingsBetterWithPrincesses", 
+                "NaughtyNuns", 
+                "SpoiledSweet", 
+                "SexyManInstantHarem", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "LipstickLesbian", 
+                "LadyMacBeth", 
+                "DumbassTeenageSon", 
+                "LonelyDollGirl", 
+                "DarkMagicalGirl", 
+                "LadyKillerInLove", 
+                "BiggerIsBetterInBed"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/WeirdBeard.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "WhiteHairedPrettyBoy", 
+            "trope": "WeirdBeard", 
+            "films": [
+                "Ben10"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WrenchWench", 
+            "trope": "WeirdBeard", 
+            "films": [
+                "Ben10"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WorldsMostBeautifulWoman", 
+            "trope": "WeirdBeard", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WhiteDwarfStarlet", 
+            "trope": "WeirdBeard", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WhiteHairedPrettyGirl", 
+            "trope": "WeirdBeard", 
+            "films": [
+                "Ben10"
+            ]
+        }
+    ], 
+    "id": "WeirdBeard", 
+    "name": "Weird Beard"
+}

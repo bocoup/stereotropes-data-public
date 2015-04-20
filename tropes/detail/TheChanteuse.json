@@ -1,0 +1,479 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            1, 
+            0.016666666666666666, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            4, 
+            0.036036036036036036, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            3, 
+            0.017045454545454544, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            3, 
+            0.009933774834437087, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            8, 
+            0.013628620102214651, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            12, 
+            0.013559322033898305, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "A stock character in anything even very loosely inspired by Film Noir. Every lounge will have a sultry female singing a sultry song. Her favourite outfit is a long evening gown, slit up the side, and more than likely high heels and opera gloves. If she becomes a named character, she will often be the Veronica in a Betty and Veronica romantic subplot. She could just there in the background because every lounge that has anything approaching a Film Noir feel must have this trope.\nShe is always surrounded by an air of melancholy. This could be because she herself is melancholy, or because the lonely male hero experiences a connection with her while she is singing but cannot have her. She tends to be out of the main hero's reach perhaps because she is a dangerous Femme Fatale, because she is already involved with someone else (usually a villain), or simply because she is so aloof. This character can be very useful for highlighting a feeling of loneliness, because her sultry songs will often create a feeling of a connection between the singer and the listener, but circumstances will prevent that feeling from becoming a true connection. For that reason, this trope is a favourite of Film Noir, a genre that thrives on a feeling of melancholy and stoic loneliness.\nThis character may frequently be seen Sitting Sexy on a Piano.\nCompare Glamorous Wartime Singer, Lounge Lizard.", 
+    "gender": "f", 
+    "adjs": [
+        "long", 
+        "high", 
+        "romantic", 
+        "main", 
+        "dangerous"
+    ], 
+    "adjectives": [
+        [
+            "favourite", 
+            1, 
+            10.060289670389281, 
+            1.0, 
+            [
+                "TheChanteuse", 
+                "MaidenAunt"
+            ]
+        ], 
+        [
+            "stoic", 
+            1, 
+            9.382635375671583, 
+            0.9326406776623684, 
+            [
+                "TheChanteuse", 
+                "IronLady", 
+                "BrokenBird"
+            ]
+        ], 
+        [
+            "useful", 
+            1, 
+            8.879234149704061, 
+            0.8826022351859856, 
+            [
+                "TheChanteuse", 
+                "GrandeDame", 
+                "NaginatasAreFeminine", 
+                "QuintessentialBritishGentleman"
+            ]
+        ], 
+        [
+            "dangerous", 
+            1, 
+            5.524888047655132, 
+            0.5491778297315516, 
+            [
+                "ScreamingWoman", 
+                "LittleRedFightingHood", 
+                "ContraltoOfDanger", 
+                "GirlsLoveStuffedAnimals", 
+                "MysteriousWoman", 
+                "AmazonianBeauty", 
+                "TheTease", 
+                "RobotGirl", 
+                "LittleDeadRidingHood", 
+                "BashBrothers", 
+                "TheFakeCutie", 
+                "ShelteredAristocrat", 
+                "DamselInDistress", 
+                "WomanScorned", 
+                "BadassPrincess", 
+                "Streetwalker", 
+                "ChivalrousPervert", 
+                "TheChanteuse", 
+                "DisposableSexWorker", 
+                "MilesGloriosus", 
+                "BadassGrandpa", 
+                "GirlInTheTower", 
+                "WomenDrivers", 
+                "WomanInBlack"
+            ]
+        ], 
+        [
+            "long", 
+            1, 
+            4.503768460200245, 
+            0.4476778112519272, 
+            [
+                "WizardBeard", 
+                "YamatoNadeshiko", 
+                "FemmeFatale", 
+                "TheOphelia", 
+                "MegaTwintails", 
+                "WhiteDwarfStarlet", 
+                "StraightGay", 
+                "GIRL", 
+                "TheGeneralissimo", 
+                "Fundoshi", 
+                "DoggedNiceGuy", 
+                "LooksLikeJesus", 
+                "GlamorousWartimeSinger", 
+                "BaitAndSwitchLesbians", 
+                "BeardOfEvil", 
+                "ActionGirl", 
+                "BattleButler", 
+                "SexyStewardess", 
+                "NaginatasAreFeminine", 
+                "MissKitty", 
+                "TheChanteuse", 
+                "LongJohnShoutout", 
+                "EverythingsBetterWithPrincesses", 
+                "MarySue", 
+                "DirtyCoward", 
+                "HauntedHeroine", 
+                "TheDandy", 
+                "TimePassageBeard", 
+                "BadassGrandpa", 
+                "IllGirl", 
+                "GymBunny", 
+                "KavorkaMan", 
+                "PregnantBadass", 
+                "DarkActionGirl", 
+                "ButterFace", 
+                "HotGypsyWoman", 
+                "StageMom", 
+                "WomanInBlack", 
+                "GodSaveUsFromTheQueen", 
+                "SexyPriest"
+            ]
+        ], 
+        [
+            "romantic", 
+            1, 
+            4.413512796017107, 
+            0.43870633357680716, 
+            [
+                "UnrequitedTragicMaiden", 
+                "FemmeFatale", 
+                "AdrenalineMakeover", 
+                "BastardBoyfriend", 
+                "MistressAndServantBoy", 
+                "NeutralFemale", 
+                "SchoolgirlLesbians", 
+                "FinalGirl", 
+                "DoggedNiceGuy", 
+                "BashBrothers", 
+                "LittleSisterHeroine", 
+                "MagicalGirlfriend", 
+                "NaiveEverygirl", 
+                "QuicklyDemotedWoman", 
+                "FeminineWomenCanCook", 
+                "BespectacledBastardBoyfriend", 
+                "TheChanteuse", 
+                "InnocentFanserviceGirl", 
+                "GaussianGirl", 
+                "SensitiveGuyAndManlyMan", 
+                "BaitAndSwitchLesbians", 
+                "BromanticFoil", 
+                "TheIngenue", 
+                "CockFight", 
+                "UnderstandingBoyfriend", 
+                "ButchLesbian", 
+                "IllGirl", 
+                "SchoolMarm", 
+                "Dominatrix", 
+                "StumblingUponTheLostWizard", 
+                "OneeSama", 
+                "AsianHookerStereotype"
+            ]
+        ], 
+        [
+            "true", 
+            1, 
+            4.369996189119817, 
+            0.4343807516777716, 
+            [
+                "OutdoorsyGal", 
+                "YamatoNadeshiko", 
+                "FemmeFatale", 
+                "DumbMuscle", 
+                "LovelyAssistant", 
+                "TheTease", 
+                "GIRL", 
+                "DistractedByTheLuxury", 
+                "BeautyMark", 
+                "GoGetterGirl", 
+                "MysteriousProtector", 
+                "WidowWitch", 
+                "TheFakeCutie", 
+                "FauxActionGirl", 
+                "MagicalGirlfriend", 
+                "ActionGirl", 
+                "TheEvilPrince", 
+                "BigBeautifulMan", 
+                "DeliberatelyDistressedDamsel", 
+                "NoWomansLand", 
+                "MissKitty", 
+                "TheChanteuse", 
+                "EverythingsBetterWithPrincesses", 
+                "HookerWithAHeartOfGold", 
+                "Fangirl", 
+                "DirtyCoward", 
+                "FilleFatale", 
+                "SchoolMarm", 
+                "WickedWitch", 
+                "Gayngster", 
+                "VainSorceress", 
+                "EstrogenBrigade", 
+                "BarbaricBully", 
+                "PrinceCharming", 
+                "HotScoop", 
+                "SculleryMaid", 
+                "ProperLady", 
+                "GodSaveUsFromTheQueen", 
+                "TheChick", 
+                "AsianHookerStereotype"
+            ]
+        ], 
+        [
+            "main", 
+            1, 
+            3.6092681869459735, 
+            0.35876384330853106, 
+            [
+                "SexyStewardess", 
+                "MysticalWaif", 
+                "MamaBear", 
+                "GossipyHens", 
+                "TokenLesbian", 
+                "SoapBoxSadie", 
+                "TheOneGuy", 
+                "LovelyAssistant", 
+                "TomBoyAndGirlyGirl", 
+                "TheCharmer", 
+                "CoolBigSis", 
+                "MatronChaperone", 
+                "Ojou", 
+                "GlamorousWartimeSinger", 
+                "HandsomeDevil", 
+                "MartyStu", 
+                "FatGirl", 
+                "ShelteredAristocrat", 
+                "Joshikousei", 
+                "GirlNextDoor", 
+                "HardDrinkingPartyGirl", 
+                "MaidenAunt", 
+                "TheGoodKing", 
+                "QuicklyDemotedWoman", 
+                "AsianAirhead", 
+                "BumblingDad", 
+                "UselessBoyfriend", 
+                "TheChanteuse", 
+                "GrannyClassic", 
+                "MountainMan", 
+                "InnocentFanserviceGirl", 
+                "TheFightingNarcissist", 
+                "OneeSama", 
+                "SensitiveGuyAndManlyMan", 
+                "DirtyCoward", 
+                "BromanticFoil", 
+                "ActionDad", 
+                "Fratbro", 
+                "YaoiGuys", 
+                "Samurai", 
+                "BlackBossLady", 
+                "CoolOldLady", 
+                "Meido", 
+                "Chickification", 
+                "TheMuse", 
+                "AmazonBrigade", 
+                "SexyManInstantHarem", 
+                "HookerWithAHeartOfGold", 
+                "DeterminedHomesteadersWife", 
+                "TheTease"
+            ]
+        ], 
+        [
+            "high", 
+            1, 
+            3.5538872123037333, 
+            0.3532589347565194, 
+            [
+                "Socialite", 
+                "WalkingShirtlessScene", 
+                "HeroicSeductress", 
+                "PrincelyYoungMan", 
+                "DarkMistress", 
+                "MegaTwintails", 
+                "HugeSchoolgirl", 
+                "DirtyOldMan", 
+                "FemininityFailure", 
+                "FemaleMisogynist", 
+                "CatholicSchoolGirlsRule", 
+                "MagicalGirl", 
+                "GossipyHens", 
+                "Ojou", 
+                "PlayboyBunny", 
+                "AnimeChineseGirl", 
+                "BastardGirlfriend", 
+                "KnightInShiningArmor", 
+                "InstantSoprano", 
+                "WomenDrivers", 
+                "BlondeRepublicanSexKitten", 
+                "ALadyOnEachArm", 
+                "BespectacledBastardBoyfriend", 
+                "TheFightingNarcissist", 
+                "AlphaBitch", 
+                "GirlNextDoor", 
+                "ProperLady", 
+                "FinalGirl", 
+                "WomanScorned", 
+                "ManicPixieDreamGirl", 
+                "TheEvilPrince", 
+                "Joshikousei", 
+                "GamerChick", 
+                "PrinceCharmless", 
+                "TheChanteuse", 
+                "ButchLesbian", 
+                "GracefulLadiesLikePurple", 
+                "MataHari", 
+                "Samurai", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "PregnantHostage", 
+                "EvenTheGirlsWantHer", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "GirlishPigtails", 
+                "GoGetterGirl", 
+                "DirtyHarriet", 
+                "VainSorceress", 
+                "BarbaricBully", 
+                "LadyOfAdventure", 
+                "KindlyHousekeeper", 
+                "KidAnova", 
+                "BastardBastard", 
+                "UncannyValleyGirl", 
+                "GirlPosse", 
+                "LipstickLesbian", 
+                "HighSchoolHustler", 
+                "TheHighQueen"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/TheChanteuse.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "TheUglyGuysHotDaughter", 
+            "trope": "TheChanteuse", 
+            "films": [
+                "BatmanMysteryOfTheBatwoman", 
+                "AnAmericanTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheLadette", 
+            "trope": "TheChanteuse", 
+            "films": [
+                "StreetsOfFire"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheChick", 
+            "trope": "TheChanteuse", 
+            "films": [
+                "LemonadeJoe"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheSquadette", 
+            "trope": "TheChanteuse", 
+            "films": [
+                "StreetsOfFire"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheChiefsDaughter", 
+            "trope": "TheChanteuse", 
+            "films": [
+                "AnAmericanTail"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WrenchWench", 
+            "trope": "TheChanteuse", 
+            "films": [
+                "PorcoRosso"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WhiteDwarfStarlet", 
+            "trope": "TheChanteuse", 
+            "films": [
+                "WhoFramedRogerRabbit"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WalkingShirtlessScene", 
+            "trope": "TheChanteuse", 
+            "films": [
+                "WhoFramedRogerRabbit"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheIngenue", 
+            "trope": "TheChanteuse", 
+            "films": [
+                "LemonadeJoe"
+            ]
+        }
+    ], 
+    "id": "TheChanteuse", 
+    "name": "The Chanteuse"
+}

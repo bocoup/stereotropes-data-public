@@ -1,0 +1,230 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            1, 
+            0.016666666666666666, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            6, 
+            0.02666666666666667, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            7, 
+            0.023178807947019868, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            9, 
+            0.010169491525423728, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            9, 
+            0.015817223198594025, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            23, 
+            0.03560371517027864, 
+            646
+        ]
+    ], 
+    "description": "\"Clothes make the man\" is this guy's motto. Impeccably groomed but never a slave to fashion, the Sharp Dressed Man is quite simply a guy dressed to the nines, over whom the ladies in the audience will undoubtedly swoon.\nA three-piece-suit (that is, one including a Waistcoat of Style) is the usual embodiment of this trope, but more imaginative outfits can qualify as well. Hats, canes, umbrellas, pocket watches, handkerchiefs, and cigars are optional...but in some environments, highly recommended. Awesome Anachronistic Apparel will often overlap.\nA Sister Trope of Simple Yet Opulent (since these suits can be expensive) and more subtly to The Fashionista, The Dandy, Costume Porn.", 
+    "gender": "m", 
+    "adjs": [
+        "three-piece-suit", 
+        "usual", 
+        "imaginative", 
+        "optional", 
+        "expensive"
+    ], 
+    "adjectives": [
+        [
+            "imaginative", 
+            1, 
+            12.2786918096927, 
+            1.0, 
+            [
+                "SharpDressedMan"
+            ]
+        ], 
+        [
+            "three-piece-suit", 
+            1, 
+            12.2786918096927, 
+            1.0, 
+            [
+                "SharpDressedMan"
+            ]
+        ], 
+        [
+            "optional", 
+            1, 
+            10.050493415593246, 
+            0.8185312874828788, 
+            [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "SharpDressedMan", 
+                "MysteriousWoman", 
+                "SwingLowSweetHarriet"
+            ]
+        ], 
+        [
+            "expensive", 
+            1, 
+            9.315047274299163, 
+            0.7586351558189561, 
+            [
+                "BespectacledBastardBoyfriend", 
+                "SharpDressedMan", 
+                "PluckyOfficeGirl", 
+                "DistractedByTheLuxury", 
+                "GracefulLadiesLikePurple"
+            ]
+        ], 
+        [
+            "usual", 
+            1, 
+            7.71740724394488, 
+            0.6285203149942098, 
+            [
+                "HighHeelFaceTurn", 
+                "GentlemanThief", 
+                "TomboyWithAGirlyStreak", 
+                "DoggedNiceGuy", 
+                "AdrenalineMakeover", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "SharpDressedMan", 
+                "OfficeLady", 
+                "ButterFace", 
+                "BigBeautifulWoman", 
+                "HouseHusband", 
+                "AnimeChineseGirl", 
+                "MommasBoy", 
+                "AsianAirhead"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/SharpDressedMan.jpg", 
+    "similar": [
+        {
+            "count": 4, 
+            "related_trope": "WomanInBlack", 
+            "trope": "SharpDressedMan", 
+            "films": [
+                "XMen", 
+                "XMenFirstClass", 
+                "BatmanReturns", 
+                "Inception"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TheChick", 
+            "trope": "SharpDressedMan", 
+            "films": [
+                "Tombstone", 
+                "TheWorldsEnd", 
+                "TheItalianJob1969"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TroubledButCute", 
+            "trope": "SharpDressedMan", 
+            "films": [
+                "Frozen", 
+                "XMenFirstClass", 
+                "HeavyRain"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WomanInWhite", 
+            "trope": "SharpDressedMan", 
+            "films": [
+                "XMenFirstClass", 
+                "Thor"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheEvilPrince", 
+            "trope": "SharpDressedMan", 
+            "films": [
+                "Frozen", 
+                "Thor"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "SharpDressedMan", 
+            "films": [
+                "XMenFirstClass", 
+                "BatmanReturns"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheCharmer", 
+            "trope": "SharpDressedMan", 
+            "films": [
+                "Frozen", 
+                "XMenFirstClass"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SissyVillain", 
+            "trope": "SharpDressedMan", 
+            "films": [
+                "Skyfall", 
+                "TheTransporter"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheBaroness", 
+            "trope": "SharpDressedMan", 
+            "films": [
+                "XMen", 
+                "XMenFirstClass"
+            ]
+        }
+    ], 
+    "id": "SharpDressedMan", 
+    "name": "Sharp Dressed Man"
+}

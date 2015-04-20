@@ -1,0 +1,461 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            4, 
+            0.0068143100511073255, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            1, 
+            0.0011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            6, 
+            0.01054481546572935, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            5, 
+            0.007739938080495356, 
+            646
+        ]
+    ], 
+    "description": "To counter the assumption that Most Gamers Are Male, stories involving games have a tendency to incorporate at least one female character that is into the same sort of games as the male characters. Going beyond just Token Minority, this character type has her own genetics that tend to show up more often than not. She's usually very tomboyish, but because she is brought in for fanservice, she usually looks exceptionally feminine and well-kempt, she's confrontational, and self-aware of her gender, with the need to mention it more often than she should.\nAlso common is for this character to have high skill in games, or at least higher than the misogynistic characters, so she can promptly destroy them. A form of Positive Discrimination, it was probably originally meant as a subversion, but has become so overused that it's now a subversion when the character doesn't have significantly better than average skill.\nAlmost guaranteed to show up in a Two Gamers on a Couch series. Compare Otaku Surrogate. Contrast Dungeonmaster's Girlfriend, Nerd Nanny.", 
+    "gender": "f", 
+    "adjs": [
+        "same", 
+        "tomboyish", 
+        "feminine", 
+        "well-kempt", 
+        "confrontational"
+    ], 
+    "adjectives": [
+        [
+            "self-aware", 
+            1, 
+            10.89455436423575, 
+            1.0, 
+            [
+                "GamerChick"
+            ]
+        ], 
+        [
+            "well-kempt", 
+            1, 
+            10.89455436423575, 
+            1.0, 
+            [
+                "GamerChick"
+            ]
+        ], 
+        [
+            "confrontational", 
+            1, 
+            9.850215574219007, 
+            0.9041412108195025, 
+            [
+                "SpicyLatina", 
+                "GamerChick"
+            ]
+        ], 
+        [
+            "misogynistic", 
+            1, 
+            7.936302117999563, 
+            0.728465052600276, 
+            [
+                "GamerChick", 
+                "OfficeLady", 
+                "SissyVillain", 
+                "EffeminateMisogynisticGuy", 
+                "MonogenderMonsters", 
+                "QuicklyDemotedWoman"
+            ]
+        ], 
+        [
+            "meant", 
+            1, 
+            6.488111121396464, 
+            0.595537082516693, 
+            [
+                "SchoolgirlLesbians", 
+                "TheEvilPrince", 
+                "PsychoLesbian", 
+                "GamerChick", 
+                "DumbMuscle", 
+                "TheBaroness", 
+                "MorallyBankruptBanker", 
+                "HelloNurse", 
+                "SexyManInstantHarem", 
+                "MarySue", 
+                "WickedWitch", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "tomboyish", 
+            1, 
+            6.216014973041754, 
+            0.570561655412677, 
+            [
+                "Tomboy", 
+                "VainSorceress", 
+                "FarmersDaughter", 
+                "GamerChick", 
+                "ShortTank", 
+                "RebelliousPrincess", 
+                "TomboyWithAGirlyStreak", 
+                "OneOfTheBoys", 
+                "TomBoyAndGirlyGirl", 
+                "EffeminateMisogynisticGuy", 
+                "LadyOfWar", 
+                "FemininityFailure", 
+                "Chickification"
+            ]
+        ], 
+        [
+            "feminine", 
+            1, 
+            6.093090962922458, 
+            0.559278586274684, 
+            [
+                "WhiteMagicianGirl", 
+                "GamerChick", 
+                "TheSquadette", 
+                "TerritorialSmurfette", 
+                "GirlNextDoor", 
+                "Keet", 
+                "NonActionSnarker", 
+                "StrawMisogynist", 
+                "NeverASelfMadeWoman", 
+                "TomBoyAndGirlyGirl", 
+                "LipstickLesbian", 
+                "TheOphelia", 
+                "Bishonen", 
+                "LightFeminineAndDarkFeminine", 
+                "LesbianJock"
+            ]
+        ], 
+        [
+            "average", 
+            1, 
+            5.574367473340435, 
+            0.5116654878183698, 
+            [
+                "CulturedBadass", 
+                "MachoCamp", 
+                "GayBravado", 
+                "LipstickLesbian", 
+                "GamerChick", 
+                "KnightInShiningArmor", 
+                "TheCheerleader", 
+                "HugeSchoolgirl", 
+                "WomenDrivers", 
+                "StatuesqueStunner", 
+                "DefectingForLove", 
+                "GirlNextDoor", 
+                "UnluckyEveryDude", 
+                "Meganekko", 
+                "SmittenTeenageGirl"
+            ]
+        ], 
+        [
+            "high", 
+            1, 
+            3.358045689331788, 
+            0.3082315785540948, 
+            [
+                "Socialite", 
+                "WalkingShirtlessScene", 
+                "HeroicSeductress", 
+                "PrincelyYoungMan", 
+                "DarkMistress", 
+                "MegaTwintails", 
+                "HugeSchoolgirl", 
+                "DirtyOldMan", 
+                "FemininityFailure", 
+                "FemaleMisogynist", 
+                "CatholicSchoolGirlsRule", 
+                "MagicalGirl", 
+                "GossipyHens", 
+                "Ojou", 
+                "PlayboyBunny", 
+                "AnimeChineseGirl", 
+                "BastardGirlfriend", 
+                "KnightInShiningArmor", 
+                "InstantSoprano", 
+                "WomenDrivers", 
+                "BlondeRepublicanSexKitten", 
+                "ALadyOnEachArm", 
+                "BespectacledBastardBoyfriend", 
+                "TheFightingNarcissist", 
+                "AlphaBitch", 
+                "GirlNextDoor", 
+                "ProperLady", 
+                "FinalGirl", 
+                "WomanScorned", 
+                "ManicPixieDreamGirl", 
+                "TheEvilPrince", 
+                "Joshikousei", 
+                "GamerChick", 
+                "PrinceCharmless", 
+                "TheChanteuse", 
+                "ButchLesbian", 
+                "GracefulLadiesLikePurple", 
+                "MataHari", 
+                "Samurai", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "PregnantHostage", 
+                "EvenTheGirlsWantHer", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "GirlishPigtails", 
+                "GoGetterGirl", 
+                "DirtyHarriet", 
+                "VainSorceress", 
+                "BarbaricBully", 
+                "LadyOfAdventure", 
+                "KindlyHousekeeper", 
+                "KidAnova", 
+                "BastardBastard", 
+                "UncannyValleyGirl", 
+                "GirlPosse", 
+                "LipstickLesbian", 
+                "HighSchoolHustler", 
+                "TheHighQueen"
+            ]
+        ], 
+        [
+            "same", 
+            1, 
+            2.3405915237250396, 
+            0.21484050154530865, 
+            [
+                "OverprotectiveDad", 
+                "ChildSoldiers", 
+                "BeardOfBarbarism", 
+                "Hobos", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "TheBear", 
+                "SpiritedYoungLady", 
+                "TheChiefsDaughter", 
+                "HandsomeDevil", 
+                "TeamMom", 
+                "AlphaBitch", 
+                "TheCasanova", 
+                "BigBeautifulMan", 
+                "HeroicSeductress", 
+                "PoliticallyActivePrincess", 
+                "ArabOilSheikh", 
+                "UselessBoyfriend", 
+                "EverythingsBetterWithPrincesses", 
+                "DirtyCoward", 
+                "TheIngenue", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "GayBravado", 
+                "TheUglyGuysHotDaughter", 
+                "HouseWife", 
+                "WomenDrivers", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "Jailbait", 
+                "MamaBear", 
+                "GossipyHens", 
+                "HugeSchoolgirl", 
+                "AmazonianBeauty", 
+                "TomBoyAndGirlyGirl", 
+                "HouseHusband", 
+                "SchoolgirlLesbians", 
+                "UnluckyEveryDude", 
+                "TheCheerleader", 
+                "AsianAirhead", 
+                "LipstickLesbian", 
+                "MountainMan", 
+                "CoolOldGuy", 
+                "PassionateSportsGirl", 
+                "DisposableSexWorker", 
+                "FilleFatale", 
+                "HelloNurse", 
+                "ThePatriarch", 
+                "ManlyGay", 
+                "SexySecretary", 
+                "MysticalWaif", 
+                "EffeminateMisogynisticGuy", 
+                "ScaryBlackMan", 
+                "PluckyOfficeGirl", 
+                "ALadyOnEachArm", 
+                "CoolBigSis", 
+                "TheBaroness", 
+                "GagPenis", 
+                "BashBrothers", 
+                "Joshikousei", 
+                "TheFlapper", 
+                "SeashellBra", 
+                "BaldBlackLeaderGuy", 
+                "QuicklyDemotedWoman", 
+                "JunglePrincess", 
+                "PrinceCharmless", 
+                "GirlNextDoor", 
+                "MataHari", 
+                "NonActionGuy", 
+                "TheOphelia", 
+                "LovelyAssistant", 
+                "DistressedDude", 
+                "AccidentalPornomancer", 
+                "TheDandy", 
+                "VainSorceress", 
+                "CasanovaWannabe", 
+                "MsFanservice", 
+                "TheMuse", 
+                "HotGypsyWoman", 
+                "AnimeChineseGirl", 
+                "HighHeelFaceTurn", 
+                "DoggedNiceGuy", 
+                "GoGetterGirl", 
+                "NeverASelfMadeWoman", 
+                "TheHecateSisters", 
+                "FauxActionGirl", 
+                "MonogenderMonsters", 
+                "JeanneDArchetype", 
+                "FeminineWomenCanCook", 
+                "MartyStu", 
+                "GamerChick", 
+                "Fratbro", 
+                "DefectingForLove", 
+                "DaddysLittleVillain", 
+                "LittleMissConArtist", 
+                "CockFight", 
+                "HotScientist", 
+                "LesbianJock", 
+                "ChickMagnet", 
+                "AsianBabymama", 
+                "LeatherMan", 
+                "DragonLady", 
+                "MisterSeahorse", 
+                "TheOneGuy", 
+                "JewishMother"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/GamerChick.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "Ladyella", 
+            "trope": "GamerChick", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TomboyPrincess", 
+            "trope": "GamerChick", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "GamerChick", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StatuesqueStunner", 
+            "trope": "GamerChick", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "HuskyRusskie", 
+            "trope": "GamerChick", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MrFixit", 
+            "trope": "GamerChick", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MamaBear", 
+            "trope": "GamerChick", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Meganekko", 
+            "trope": "GamerChick", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "LadyOfWar", 
+            "trope": "GamerChick", 
+            "films": [
+                "TheGamers"
+            ]
+        }
+    ], 
+    "id": "GamerChick", 
+    "name": "Gamer Chick"
+}

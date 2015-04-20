@@ -1,0 +1,537 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            4, 
+            0.022727272727272728, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            1, 
+            0.0044444444444444444, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            3, 
+            0.005110732538330494, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            3, 
+            0.003389830508474576, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            2, 
+            0.0035149384885764497, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "Pirates. Villains of the seven seas, lovable rogues who rob other pirates, or what have you. Strong or handsome men, with ladies either afraid of or swooning over them...\n...And then there's the Pirate Girl, a young girl or woman who clearly has no place in this tough world of men. Except she is either determined to show that she does, is accepted by the roguish male crew without any apparent difficulty or explanation, or is part of an ship with an all female crew. Depending on age, may or may not be a Little Miss Badass; either way, usually an Action Girl. There are two types: one type would be either cute or an Amazonian Beauty. The much, much more common type is the \"bad girl\".\nCan be Truth in Television \u2014 historically, a number of female pirates did plough the seas along with the men, sometimes rising to positions of authority. However, some of them did so by disguising themselves as men; Carribean pirates codes often called for the death penalty or marooning for any pirate who brought a woman onboard - though most other pirate groups were completely uncaring, as long as you did your job in the crew. In the modern world, women might have a place on Ruthless Modern Pirate ships (often referred to these days as maritime terrorists) depending on the local culture.\nNot to be confused with Pirate Wench, a term that usually refers to a woman who sails with pirates, doing \"women's work\" for them, perhaps while providing eye candy. The Pirate Girl is a pirate in her own right.\nAny little boy found on a pirate ship will half the time be this girl in disguise.\nThe Pirate Girl often has a Dark and Troubled Past detailing how she ended up in this position; abusive fathers who they are in a \"Well Done, Son\" Guy relationship with seems to be a common theme.\nA Sub-Trope of Pirate.\nAnyone caught making cheap jokes about \"booty\" or \"treasure chests\", will be made to Walk the Plank.", 
+    "gender": "f", 
+    "adjs": [
+        "lovable", 
+        "young", 
+        "tough", 
+        "roguish", 
+        "apparent"
+    ], 
+    "adjectives": [
+        [
+            "roguish", 
+            1, 
+            8.809858692382944, 
+            1.0, 
+            [
+                "GentlemanThief", 
+                "NobleMaleRoguishMale", 
+                "PirateGirl"
+            ]
+        ], 
+        [
+            "apparent", 
+            1, 
+            8.307104331819156, 
+            0.9429327554369887, 
+            [
+                "CorruptHick", 
+                "SensitiveGuyAndManlyMan", 
+                "ShelteredAristocrat", 
+                "PirateGirl"
+            ]
+        ], 
+        [
+            "boy", 
+            1, 
+            8.307104331819156, 
+            0.9429327554369887, 
+            [
+                "Bishonen", 
+                "PrettyBoy", 
+                "BrattyTeenageDaughter", 
+                "PirateGirl"
+            ]
+        ], 
+        [
+            "amazonian", 
+            1, 
+            7.290572140700914, 
+            0.827547001066474, 
+            [
+                "NubileSavage", 
+                "AmazonChaser", 
+                "AmazonianBeauty", 
+                "StatuesqueStunner", 
+                "BrawnHilda", 
+                "PirateGirl"
+            ]
+        ], 
+        [
+            "lovable", 
+            1, 
+            6.822412688710184, 
+            0.7744065968514208, 
+            [
+                "BastardGirlfriend", 
+                "TheSlacker", 
+                "CoolOldGuy", 
+                "DirtyOldMan", 
+                "TheFakeCutie", 
+                "GoodOlBoy", 
+                "EvilRoy", 
+                "TheCutie", 
+                "PirateGirl"
+            ]
+        ], 
+        [
+            "abusive", 
+            1, 
+            6.12950509278235, 
+            0.6957552109299955, 
+            [
+                "TakingTheVeil", 
+                "PirateGirl", 
+                "ThePatriarch", 
+                "PervertDad", 
+                "BespectacledBastardBoyfriend", 
+                "EvilMatriarch", 
+                "BastardBoyfriend", 
+                "DrillSergeantNasty", 
+                "DarkMagicalGirl", 
+                "WomanScorned", 
+                "JerkJock"
+            ]
+        ], 
+        [
+            "local", 
+            1, 
+            5.512072693284943, 
+            0.62567095406998, 
+            [
+                "JunglePrincess", 
+                "CollegeWidow", 
+                "ArabOilSheikh", 
+                "UselessBoyfriend", 
+                "GirlNextDoor", 
+                "MountainMan", 
+                "StumblingUponTheLostWizard", 
+                "InnocentFanserviceGirl", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "MissKitty", 
+                "GirlyGirl", 
+                "AlphaBitch", 
+                "SchoolNurse", 
+                "MaidenAunt", 
+                "KnightErrant", 
+                "PirateGirl"
+            ]
+        ], 
+        [
+            "tough", 
+            1, 
+            5.1308595038432525, 
+            0.5823997504386108, 
+            [
+                "BeautyBrainsAndBrawn", 
+                "GlamorousSingleMother", 
+                "ThePatriarch", 
+                "ChildSoldiers", 
+                "TheSquadette", 
+                "DadTheVeteran", 
+                "IronLady", 
+                "MorallyBankruptBanker", 
+                "TownGirls", 
+                "ContraltoOfDanger", 
+                "MissKitty", 
+                "UselessBoyfriend", 
+                "ActionHeroBabysitter", 
+                "GirlyBruiser", 
+                "FauxActionGirl", 
+                "DirtyCoward", 
+                "Chickification", 
+                "PirateGirl", 
+                "SpicyLatina", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "modern", 
+            1, 
+            3.7818816021055963, 
+            0.42927834987585367, 
+            [
+                "UnrequitedTragicMaiden", 
+                "HotWitch", 
+                "ChildSoldiers", 
+                "WickedStepmother", 
+                "LittleRedFightingHood", 
+                "HugeSchoolgirl", 
+                "TomboyPrincess", 
+                "DressesGownsAndSkirts", 
+                "MadonnaWhoreComplex", 
+                "PlayboyBunny", 
+                "Fundoshi", 
+                "CorruptHick", 
+                "TheBear", 
+                "SouthernGentleman", 
+                "FauxActionGirl", 
+                "TheFlapper", 
+                "TheCasanova", 
+                "MaidenAunt", 
+                "NobleMaleRoguishMale", 
+                "FeminineWomenCanCook", 
+                "MenCantKeepHouse", 
+                "WaistcoatOfStyle", 
+                "ArabOilSheikh", 
+                "Samurai", 
+                "EverythingsBetterWithPrincesses", 
+                "ScaryBlackMan", 
+                "FrenchMaid", 
+                "GirlishPigtails", 
+                "NubileSavage", 
+                "IdolSinger", 
+                "LesbianVampire", 
+                "ManlyGay", 
+                "TheSquadette", 
+                "RebelliousPrincess", 
+                "StumblingUponTheLostWizard", 
+                "BastardBastard", 
+                "Bishonen", 
+                "PirateGirl", 
+                "DastardlyWhiplash", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "cute", 
+            1, 
+            3.5862955940450547, 
+            0.4070775388424547, 
+            [
+                "OutdoorsyGal", 
+                "YamatoNadeshiko", 
+                "HotWitch", 
+                "MamaBear", 
+                "ClingyJealousGirl", 
+                "HugeSchoolgirl", 
+                "EmotionlessGirl", 
+                "CuteGhostGirl", 
+                "AnimeChineseGirl", 
+                "SmallGirlBigGun", 
+                "UnluckyEveryDude", 
+                "TheFakeCutie", 
+                "LittleSisterHeroine", 
+                "TeamMom", 
+                "CuteMonsterGirl", 
+                "TheCutie", 
+                "TomboyWithAGirlyStreak", 
+                "MisplacedKindergartenTeacher", 
+                "ShortTank", 
+                "Keet", 
+                "Kawaiiko", 
+                "Bishonen", 
+                "GirlWithPsychoWeapon", 
+                "BaitAndSwitchLesbians", 
+                "SmittenTeenageGirl", 
+                "Tomboy", 
+                "SenseiChan", 
+                "IllGirl", 
+                "Meido", 
+                "HumanoidFemaleAnimal", 
+                "RobotGirl", 
+                "SwingLowSweetHarriet", 
+                "GirlPosse", 
+                "LittleMissBadass", 
+                "PetitePride", 
+                "Meganekko", 
+                "LittleGirlsKickShins", 
+                "PirateGirl"
+            ]
+        ], 
+        [
+            "bad", 
+            1, 
+            3.023156780257581, 
+            0.3431561033857921, 
+            [
+                "AsianHookerStereotype", 
+                "ViolentlyProtectiveGirlFriend", 
+                "FemmeFatale", 
+                "AdrenalineMakeover", 
+                "BastardBoyfriend", 
+                "ManInAKilt", 
+                "DarkMistress", 
+                "GoodGirlGoneBad", 
+                "LawmanGoneBad", 
+                "BoyBand", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "HeManWomanHater", 
+                "CulturedBadass", 
+                "TheBear", 
+                "LovableAlphaBitch", 
+                "TheCheerleader", 
+                "BlondGuysAreEvil", 
+                "HandsomeDevil", 
+                "BashBrothers", 
+                "ActionHeroBabysitter", 
+                "BeardOfEvil", 
+                "ShelteredAristocrat", 
+                "AlphaBitch", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "OverlordJr", 
+                "DamselInDistress", 
+                "KnightErrant", 
+                "NaiveEverygirl", 
+                "MommasBoy", 
+                "AsianAirhead", 
+                "BadassPrincess", 
+                "TheEvilPrince", 
+                "MenCantKeepHouse", 
+                "HeroicSeductress", 
+                "ClassyCatBurglar", 
+                "GirlNextDoor", 
+                "MorallyBankruptBanker", 
+                "NeverMessWithGranny", 
+                "GoodBadGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "TheCutie", 
+                "EvenTheGirlsWantHer", 
+                "OfficerAndAGentleman", 
+                "BeautifulAllAlong", 
+                "DaddysLittleVillain", 
+                "TheButcher", 
+                "WickedWitch", 
+                "LesbianVampire", 
+                "PrinceCharming", 
+                "RebelliousPrincess", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HouseWife", 
+                "NaughtyNuns", 
+                "StageMom", 
+                "LightFeminineAndDarkFeminine", 
+                "PirateGirl", 
+                "DastardlyWhiplash", 
+                "TheWomanWearingTheQueenlyMask", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "young", 
+            1, 
+            2.191101794923172, 
+            0.24871020880478042, 
+            [
+                "OverprotectiveDad", 
+                "WomanInWhite", 
+                "MamaBear", 
+                "TheLadette", 
+                "GranolaGirl", 
+                "PrincelyYoungMan", 
+                "BaitAndSwitchLesbians", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "MistressAndServantBoy", 
+                "CuteSportsClubManager", 
+                "CollegeWidow", 
+                "MrsRobinson", 
+                "CoolBigSis", 
+                "EmotionlessGirl", 
+                "MatronChaperone", 
+                "SchoolgirlLesbians", 
+                "Ojou", 
+                "StringyHairedGhostGirl", 
+                "GoGetterGirl", 
+                "TheSquadette", 
+                "NaginatasAreFeminine", 
+                "LittleMissAlmighty", 
+                "WickedWitch", 
+                "MataHari", 
+                "NinjaMaid", 
+                "SmittenTeenageGirl", 
+                "TheHecateSisters", 
+                "TheFlapper", 
+                "MaidenAunt", 
+                "DeterminedWidow", 
+                "JeanneDArchetype", 
+                "MommasBoy", 
+                "GirlsLoveStuffedAnimals", 
+                "PirateGirl", 
+                "JunglePrincess", 
+                "NubileSavage", 
+                "BastardGirlfriend", 
+                "ShortTank", 
+                "OfficeLady", 
+                "GrannyClassic", 
+                "Kawaiiko", 
+                "VainSorceress", 
+                "GracefulLadiesLikePurple", 
+                "GrandeDame", 
+                "BridgeBunnies", 
+                "Meido", 
+                "EverythingsBetterWithPrincesses", 
+                "OneeSama", 
+                "Hunk", 
+                "GrumpyOldMan", 
+                "HotWitch", 
+                "TheOphelia", 
+                "FilleFatale", 
+                "TheWomanWearingTheQueenlyMask", 
+                "TheIngenue", 
+                "SchoolMarm", 
+                "GirlishPigtails", 
+                "Fratbro", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "SenseiChan", 
+                "YaoiGuys", 
+                "TinyTyrannicalGirl", 
+                "MysteriousWaif", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "NaiveEverygirl", 
+                "PrinceCharming", 
+                "BarbaricBully", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HotScientist", 
+                "KidAnova", 
+                "PapaWolf", 
+                "ShirtlessScene", 
+                "ProperLady", 
+                "BrawnHilda", 
+                "LittleMissBadass", 
+                "MagicIdolSinger", 
+                "PetitePride", 
+                "DarkMagicalGirl", 
+                "PluckyGirl", 
+                "SexyPriest", 
+                "SweetPollyOliver"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/PirateGirl.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "SpiritedYoungLady", 
+            "trope": "PirateGirl", 
+            "films": [
+                "PeterPan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SeashellBra", 
+            "trope": "PirateGirl", 
+            "films": [
+                "PeterPan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheChiefsDaughter", 
+            "trope": "PirateGirl", 
+            "films": [
+                "PeterPan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCharmer", 
+            "trope": "PirateGirl", 
+            "films": [
+                "PeterPan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheDandy", 
+            "trope": "PirateGirl", 
+            "films": [
+                "PeterPan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ProperLady", 
+            "trope": "PirateGirl", 
+            "films": [
+                "PeterPan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SissyVillain", 
+            "trope": "PirateGirl", 
+            "films": [
+                "PeterPan"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PluckyGirl", 
+            "trope": "PirateGirl", 
+            "films": [
+                "PeterPan"
+            ]
+        }
+    ], 
+    "id": "PirateGirl", 
+    "name": "Pirate Girl"
+}

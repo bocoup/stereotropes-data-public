@@ -1,0 +1,331 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            8, 
+            0.026490066225165563, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            6, 
+            0.010221465076660987, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            16, 
+            0.01807909604519774, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            8, 
+            0.014059753954305799, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            4, 
+            0.006191950464396285, 
+            646
+        ]
+    ], 
+    "description": "A stock character and stereotype popular in the 1970s - 1980s. A male black youth, the Angry Black Man knows that The Man is out to get him, and that the Revolution will soon come and whitey will have his back against the wall. The Angry Black Man sees injustice everywhere and is capable and intelligent but usually financially destitute because the damn Honkies won't hire him to give him an opportunity.\nLiberal white people will attempt to befriend him, but he will have none of it, seeing even being friends with white people as a betrayal to his race.\nMostly a Dead Horse Trope as society has marched on. Compare Malcolm Xerox. See also Scary Black Man.\nOh, and despite the name, this trope is not about characters who are black and have a Hair-Trigger Temper.", 
+    "gender": "m", 
+    "adjs": [
+        "popular", 
+        "capable", 
+        "destitute", 
+        "white", 
+        "betrayal"
+    ], 
+    "adjectives": [
+        [
+            "betrayal", 
+            1, 
+            11.914480172293118, 
+            1.0, 
+            [
+                "AngryBlackMan"
+            ]
+        ], 
+        [
+            "hair-trigger", 
+            1, 
+            11.914480172293118, 
+            1.0, 
+            [
+                "AngryBlackMan"
+            ]
+        ], 
+        [
+            "destitute", 
+            1, 
+            10.869278662539067, 
+            0.9122746863782907, 
+            [
+                "Meido", 
+                "AngryBlackMan"
+            ]
+        ], 
+        [
+            "capable", 
+            1, 
+            6.873782192645845, 
+            0.5769267389970304, 
+            [
+                "AngryBlackMan", 
+                "Hackette", 
+                "DadTheVeteran", 
+                "DefectingForLove", 
+                "NeutralFemale", 
+                "LittleRedFightingHood", 
+                "Fangirl", 
+                "Samurai", 
+                "TeamMom", 
+                "AsianAirhead", 
+                "FauxActionGirl", 
+                "UselessBoyfriend", 
+                "HouseHusband", 
+                "HauntedHeroine", 
+                "BrawnHilda", 
+                "HardDrinkingPartyGirl"
+            ]
+        ], 
+        [
+            "white", 
+            1, 
+            5.108654718966893, 
+            0.4287769709707492, 
+            [
+                "WizardBeard", 
+                "OverprotectiveDad", 
+                "ScaryBlackMan", 
+                "ALadyOnEachArm", 
+                "WinterRoyalLady", 
+                "Bridezilla", 
+                "MrsClaus", 
+                "AngryBlackMan", 
+                "StringyHairedGhostGirl", 
+                "CorruptHick", 
+                "TheChiefsDaughter", 
+                "LittleDeadRidingHood", 
+                "TheCasanova", 
+                "GreatWhiteHunter", 
+                "JerkJock", 
+                "ManInWhite", 
+                "CrazyCatLady", 
+                "SchoolNurse", 
+                "DisposableSexWorker", 
+                "WomanInWhite", 
+                "SassyBlackWoman", 
+                "AsianBabymama", 
+                "BlackBossLady", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "SissyVillain", 
+                "Bishonen"
+            ]
+        ], 
+        [
+            "popular", 
+            1, 
+            3.921044052184466, 
+            0.32909904548775654, 
+            [
+                "PerkyGoth", 
+                "AngryBlackMan", 
+                "LovableAlphaBitch", 
+                "IdolSinger", 
+                "NerdNanny", 
+                "LittleRedFightingHood", 
+                "DirtyOldMan", 
+                "TomBoyAndGirlyGirl", 
+                "EarthMother", 
+                "DrillSergeantNasty", 
+                "BoyBand", 
+                "YamatoNadeshiko", 
+                "MarySue", 
+                "HotScoop", 
+                "DirtyOldWoman", 
+                "StringyHairedGhostGirl", 
+                "GirlGroup", 
+                "SpiritedYoungLady", 
+                "WomenDrivers", 
+                "HotScientist", 
+                "LittleSisterHeroine", 
+                "GirlPosse", 
+                "AlphaBitch", 
+                "TheFlapper", 
+                "MagicalGirlfriend", 
+                "BaldBlackLeaderGuy", 
+                "NaiveEverygirl", 
+                "ActionGirl", 
+                "BadassPrincess", 
+                "BeautyBrainsAndBrawn", 
+                "SexyStewardess", 
+                "MenCantKeepHouse", 
+                "JerkJock", 
+                "BespectacledBastardBoyfriend", 
+                "MorallyBankruptBanker", 
+                "CosplayOtakuGirl", 
+                "GracefulLadiesLikePurple", 
+                "Samurai", 
+                "DamselInDistress", 
+                "SweetPollyOliver", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "CuteSportsClubManager", 
+                "StoutStrength", 
+                "TheIngenue", 
+                "Fratbro", 
+                "Tomboy", 
+                "VainSorceress", 
+                "BigManOnCampus", 
+                "LesbianVampire", 
+                "BarbaricBully", 
+                "Ladyella", 
+                "LittleDeadRidingHood", 
+                "FavorsForTheSexy", 
+                "BattleaxeNurse", 
+                "DarkActionGirl", 
+                "RobotGirl", 
+                "SpoiledSweet", 
+                "Joshikousei", 
+                "ProperLady", 
+                "AsianAirhead", 
+                "HotGypsyWoman", 
+                "Bishonen", 
+                "FragileFlower", 
+                "Meganekko", 
+                "TokenYuriGirls", 
+                "GrumpyOldMan"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "HookerWithAHeartOfGold", 
+            "trope": "AngryBlackMan", 
+            "films": [
+                "JesusChristSuperstar", 
+                "Futurama", 
+                "TradingPlaces"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "FemmeFatale", 
+            "trope": "AngryBlackMan", 
+            "films": [
+                "Coonskin", 
+                "TheBigLebowski", 
+                "StrangeDays"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "NonActionGuy", 
+            "trope": "AngryBlackMan", 
+            "films": [
+                "Pocahontas", 
+                "Futurama", 
+                "StrangeDays"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "SissyVillain", 
+            "trope": "AngryBlackMan", 
+            "films": [
+                "JesusChristSuperstar", 
+                "Pocahontas", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "FanserviceExtra", 
+            "trope": "AngryBlackMan", 
+            "films": [
+                "HaroldAndKumarEscapeFromGuantanamoBay", 
+                "TradingPlaces", 
+                "StrangeDays"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "AngryBlackMan", 
+            "films": [
+                "ForrestGump", 
+                "TradingPlaces", 
+                "DoTheRightThing"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "TheChick", 
+            "trope": "AngryBlackMan", 
+            "films": [
+                "AnimalHouse", 
+                "HighSchoolMusical", 
+                "TheBankJob"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "Meganekko", 
+            "trope": "AngryBlackMan", 
+            "films": [
+                "ClerksII", 
+                "HighSchoolMusical", 
+                "JayAndSilentBobStrikeBack"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "CampGay", 
+            "trope": "AngryBlackMan", 
+            "films": [
+                "JesusChristSuperstar", 
+                "TheBigLebowski", 
+                "ChasingAmy"
+            ]
+        }
+    ], 
+    "id": "AngryBlackMan", 
+    "name": "Angry Black Man"
+}

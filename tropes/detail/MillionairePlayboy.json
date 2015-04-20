@@ -1,0 +1,93 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            0, 
+            0.0, 
+            646
+        ]
+    ], 
+    "description": "You know him. The suave millionaire who surrounds himself with beautiful women. Yes, they're only attracted to his money and influence\u2014 but he knows it. He exults in it. And you're never, ever, ever going to get as much tail as him.\nIf he is moonlighting as a superhero, see Rich Idiot with No Day Job.", 
+    "gender": "m", 
+    "adjs": [
+        "beautiful"
+    ], 
+    "adjectives": [
+        "beautiful"
+    ], 
+    "image_url": "assets/data/tropes/images/MillionairePlayboy.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "TheLoinsSleepTonight", 
+            "trope": "MillionairePlayboy", 
+            "films": [
+                "NorwegianWood"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StandardFiftiesFather", 
+            "trope": "MillionairePlayboy", 
+            "films": [
+                "VanillaSky"
+            ]
+        }
+    ], 
+    "id": "MillionairePlayboy", 
+    "name": "Millionaire Playboy"
+}

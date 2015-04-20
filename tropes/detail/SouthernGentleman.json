@@ -1,0 +1,419 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            4, 
+            0.04395604395604396, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            2, 
+            0.008888888888888889, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            5, 
+            0.005649717514124294, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "A mythical creature of the male gender, the Southern Gentleman is the Spear Counterpart to the Southern Belle.\nCommon vices: Racism, drinking and/or gambling, pride.\nCommon virtues: Well-dressed, well-spoken (even when swearing up a blue streak), charmin', suave and invariably polite to the opposite gender.\nOther attributes: White suit of light material (especially in summer), corncob pipe that nevertheless manages to look dignified, mint julep.\nHabitat: Romance novels, westerns.\nNotes: Subject to severe Values Dissonance for modern audiences, as, depending on time period, he is either a slaveholder or is nostalgic for the era of slavery (even if he doesn't harbor any actual racist views, the romanticism of the south's Golden Age is what matters).\nAssociated tropes: Dixie accent, Officer and a Gentleman. Villainous portrayals includes Fat, Sweaty Southerner in a White Suit and Corrupt Hick.\nStatus: Nearly extinct. Some are still known to moonlight as simple country lawyers.", 
+    "gender": "m", 
+    "adjs": [
+        "mythical", 
+        "well-dressed", 
+        "well-spoken", 
+        "blue", 
+        "polite"
+    ], 
+    "adjectives": [
+        [
+            "mythical", 
+            1, 
+            9.486866121696911, 
+            1.0, 
+            [
+                "SouthernGentleman", 
+                "HumanoidFemaleAnimal"
+            ]
+        ], 
+        [
+            "nostalgic", 
+            1, 
+            9.486866121696911, 
+            1.0, 
+            [
+                "SouthernGentleman", 
+                "SeeminglyWholesomeFiftiesGirl"
+            ]
+        ], 
+        [
+            "well-spoken", 
+            1, 
+            9.486866121696911, 
+            1.0, 
+            [
+                "SouthernGentleman", 
+                "SassyBlackWoman"
+            ]
+        ], 
+        [
+            "well-dressed", 
+            1, 
+            8.307104331819156, 
+            0.8756426226802564, 
+            [
+                "SouthernGentleman", 
+                "TheFashionista", 
+                "BlackBossLady", 
+                "GirlPosse"
+            ]
+        ], 
+        [
+            "blue", 
+            1, 
+            7.5746775468985525, 
+            0.7984383303960522, 
+            [
+                "SouthernGentleman", 
+                "GreenSkinnedSpaceBabe", 
+                "ALadyOnEachArm", 
+                "WinterRoyalLady", 
+                "GentlemanWizard"
+            ]
+        ], 
+        [
+            "polite", 
+            1, 
+            7.290572140700914, 
+            0.768491095708311, 
+            [
+                "TheAllAmericanBoy", 
+                "GoGetterGirl", 
+                "FemininityFailure", 
+                "SouthernGentleman", 
+                "QuintessentialBritishGentleman", 
+                "OfficerAndAGentleman", 
+                "GentlemanWizard"
+            ]
+        ], 
+        [
+            "subject", 
+            1, 
+            7.042505713496949, 
+            0.742342689688685, 
+            [
+                "Tomboy", 
+                "VainSorceress", 
+                "ActionGirlFriend", 
+                "SouthernGentleman", 
+                "LadyOfWar", 
+                "JeanneDArchetype", 
+                "OneOfTheBoys", 
+                "BasementDweller"
+            ]
+        ], 
+        [
+            "light", 
+            1, 
+            6.624666732723531, 
+            0.6982987477363684, 
+            [
+                "SouthernGentleman", 
+                "WorldsMostBeautifulWoman", 
+                "ManInWhite", 
+                "GirlNextDoor", 
+                "BlondGuysAreEvil", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "GaussianGirl", 
+                "SissyVillain", 
+                "StrawMisogynist", 
+                "DarkMagicalGirl"
+            ]
+        ], 
+        [
+            "simple", 
+            1, 
+            5.512072693284943, 
+            0.5810214482397482, 
+            [
+                "GentlemanThief", 
+                "BadassGrandpa", 
+                "MsFanservice", 
+                "BadAssBeard", 
+                "MamaBear", 
+                "LooksLikeJesus", 
+                "DaddysLittleVillain", 
+                "YamatoNadeshiko", 
+                "BarbaricBully", 
+                "MataHari", 
+                "SouthernGentleman", 
+                "Hunk", 
+                "DrillSergeantNasty", 
+                "GoodOlBoy", 
+                "LadyInWaiting", 
+                "TheHighQueen", 
+                "BadassPrincess"
+            ]
+        ], 
+        [
+            "opposite", 
+            1, 
+            4.813909573172029, 
+            0.5074288507310534, 
+            [
+                "DumbMuscle", 
+                "CampGay", 
+                "BlondGuysAreEvil", 
+                "BlondeRepublicanSexKitten", 
+                "SouthernGentleman", 
+                "PrinceCharmless", 
+                "TheCasanova", 
+                "TheDandy", 
+                "GentlemanThief", 
+                "ClassyCatBurglar", 
+                "BespectacledBastardBoyfriend", 
+                "DaddysGirl", 
+                "QuintessentialBritishGentleman", 
+                "SensitiveGuyAndManlyMan", 
+                "MyBelovedSmother", 
+                "ButchLesbian", 
+                "TheWisePrince", 
+                "ManlyGay", 
+                "BarbaricBully", 
+                "GymBunny", 
+                "TheMuse", 
+                "ButterFace", 
+                "LipstickLesbian", 
+                "GenderInvertedTrope", 
+                "BrawnHilda"
+            ]
+        ], 
+        [
+            "modern", 
+            1, 
+            3.7818816021055963, 
+            0.39864393083994876, 
+            [
+                "UnrequitedTragicMaiden", 
+                "HotWitch", 
+                "ChildSoldiers", 
+                "WickedStepmother", 
+                "LittleRedFightingHood", 
+                "HugeSchoolgirl", 
+                "TomboyPrincess", 
+                "DressesGownsAndSkirts", 
+                "MadonnaWhoreComplex", 
+                "PlayboyBunny", 
+                "Fundoshi", 
+                "CorruptHick", 
+                "TheBear", 
+                "SouthernGentleman", 
+                "FauxActionGirl", 
+                "TheFlapper", 
+                "TheCasanova", 
+                "MaidenAunt", 
+                "NobleMaleRoguishMale", 
+                "FeminineWomenCanCook", 
+                "MenCantKeepHouse", 
+                "WaistcoatOfStyle", 
+                "ArabOilSheikh", 
+                "Samurai", 
+                "EverythingsBetterWithPrincesses", 
+                "ScaryBlackMan", 
+                "FrenchMaid", 
+                "GirlishPigtails", 
+                "NubileSavage", 
+                "IdolSinger", 
+                "LesbianVampire", 
+                "ManlyGay", 
+                "TheSquadette", 
+                "RebelliousPrincess", 
+                "StumblingUponTheLostWizard", 
+                "BastardBastard", 
+                "Bishonen", 
+                "PirateGirl", 
+                "DastardlyWhiplash", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "actual", 
+            1, 
+            3.5137909207904476, 
+            0.37038479047935985, 
+            [
+                "MrsRobinson", 
+                "AmazonChaser", 
+                "ChildSoldiers", 
+                "GranolaGirl", 
+                "FrenchMaid", 
+                "HugeSchoolgirl", 
+                "HumanoidFemaleAnimal", 
+                "WinterRoyalLady", 
+                "DrillSergeantNasty", 
+                "HouseHusband", 
+                "GIRL", 
+                "HeManWomanHater", 
+                "TheVamp", 
+                "Ojou", 
+                "TheBear", 
+                "GirlOfTheWeek", 
+                "BaitAndSwitchLesbians", 
+                "Dominatrix", 
+                "SouthernGentleman", 
+                "FauxActionGirl", 
+                "TheGambler", 
+                "TheGoodKing", 
+                "BattleButler", 
+                "GentlemanThief", 
+                "Streetwalker", 
+                "EmotionlessGirl", 
+                "ClassyCatBurglar", 
+                "UselessBoyfriend", 
+                "GrannyClassic", 
+                "StageMom", 
+                "NaughtyNurseOutfit", 
+                "NonActionGuy", 
+                "Samurai", 
+                "SensitiveGuyAndManlyMan", 
+                "MilesGloriosus", 
+                "OfficerAndAGentleman", 
+                "FilleFatale", 
+                "PerkyGoth", 
+                "YaoiGuys", 
+                "IdolSinger", 
+                "RebelliousPrincess", 
+                "TheOneGuy", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "LipstickLesbian", 
+                "SingleMomStripper", 
+                "LittleMissBadass", 
+                "FanserviceExtra", 
+                "LadyOfWar", 
+                "BiggerIsBetterInBed"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/SouthernGentleman.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "SouthernGentleman", 
+            "films": [
+                "UncleTomsCabin"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TakingTheVeil", 
+            "trope": "SouthernGentleman", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SweetPollyOliver", 
+            "trope": "SouthernGentleman", 
+            "films": [
+                "UncleTomsCabin"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "SouthernGentleman", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpiritedYoungLady", 
+            "trope": "SouthernGentleman", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TeamMom", 
+            "trope": "SouthernGentleman", 
+            "films": [
+                "UncleTomsCabin"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "YoungGun", 
+            "trope": "SouthernGentleman", 
+            "films": [
+                "Tombstone"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheDandy", 
+            "trope": "SouthernGentleman", 
+            "films": [
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Tomboy", 
+            "trope": "SouthernGentleman", 
+            "films": [
+                "ToKillAMockingbird"
+            ]
+        }
+    ], 
+    "id": "SouthernGentleman", 
+    "name": "Southern Gentleman"
+}

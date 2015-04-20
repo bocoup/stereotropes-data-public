@@ -1,0 +1,428 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            3, 
+            0.009933774834437087, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            1, 
+            0.0017035775127768314, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            3, 
+            0.003389830508474576, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            4, 
+            0.007029876977152899, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            4, 
+            0.006191950464396285, 
+            646
+        ]
+    ], 
+    "description": "A good way of applying the humor of The Comically Serious to villains is by pairing them with the Perky Female Minion. This character is something like the Distaff Counterpart/Foil to the Enigmatic Minion; they can range in psyche from Punch Clock Villain to fairly psychotic, but have an upbeat, Genki Girl personality in sharp contrast to the villain they serve who will be gloomy, Ax-Crazy, etc. If the female minion has a crush on the other villain, it will generally be of the Mad Love variety, although this affection isn't a requirement, nor is its reciprocation.\nHowever, despite her cheerfulness and energy, she is usually still good at what she does. When this is the case, her employer usually views her as a Bunny-Ears Lawyer.\nCompare Savvy Guy, Energetic Girl for a similar dynamic.", 
+    "gender": "f", 
+    "adjs": [
+        "good", 
+        "psychotic", 
+        "upbeat", 
+        "sharp", 
+        "ax-crazy"
+    ], 
+    "adjectives": [
+        [
+            "crush", 
+            1, 
+            10.060289670389281, 
+            1.0, 
+            [
+                "PerkyFemaleMinion", 
+                "UncannyValleyGirl"
+            ]
+        ], 
+        [
+            "psychotic", 
+            1, 
+            10.060289670389281, 
+            1.0, 
+            [
+                "PerkyFemaleMinion", 
+                "PsychoLesbian"
+            ]
+        ], 
+        [
+            "upbeat", 
+            1, 
+            10.060289670389281, 
+            1.0, 
+            [
+                "PerkyFemaleMinion", 
+                "TheCutie"
+            ]
+        ], 
+        [
+            "ax-crazy", 
+            1, 
+            8.478465731154177, 
+            0.8427655672886907, 
+            [
+                "WomanScorned", 
+                "PerkyFemaleMinion", 
+                "TheButcher", 
+                "GirlWithPsychoWeapon", 
+                "TheOldConvict"
+            ]
+        ], 
+        [
+            "dynamic", 
+            1, 
+            8.478465731154177, 
+            0.8427655672886907, 
+            [
+                "LittleSisterHeroine", 
+                "PerkyFemaleMinion", 
+                "OverprotectiveDad", 
+                "LazyHusband", 
+                "ButchLesbian"
+            ]
+        ], 
+        [
+            "sharp", 
+            1, 
+            7.612048069766935, 
+            0.7566430310820651, 
+            [
+                "LadyInRed", 
+                "FragileFlower", 
+                "GirlGroup", 
+                "PerkyFemaleMinion", 
+                "DarkActionGirl", 
+                "BlondeRepublicanSexKitten", 
+                "UncannyValleyGirl", 
+                "AlphaBitch"
+            ]
+        ], 
+        [
+            "good", 
+            2, 
+            6.019206334572626, 
+            0.5983134215597307, 
+            [
+                "OutdoorsyGal", 
+                "ChildSoldiers", 
+                "BeardOfBarbarism", 
+                "AdrenalineMakeover", 
+                "KickingAssInAllHerFinery", 
+                "LovelyAssistant", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "EducationMama", 
+                "DisguisedInDrag", 
+                "KnightInShiningArmor", 
+                "SpiritedYoungLady", 
+                "ManInAKilt", 
+                "AgentPeacock", 
+                "MagicalGirlfriend", 
+                "HuskyRusskie", 
+                "TheGoodKing", 
+                "TheLoinsSleepTonight", 
+                "TheEvilPrince", 
+                "TomboyWithAGirlyStreak", 
+                "HeroicSeductress", 
+                "ManInWhite", 
+                "BathingBeauty", 
+                "HandyMan", 
+                "EverythingsBetterWithPrincesses", 
+                "MilesGloriosus", 
+                "DirtyCoward", 
+                "NeutralFemale", 
+                "StoutStrength", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "DirtyHarriet", 
+                "NubileSavage", 
+                "KavorkaMan", 
+                "BlackBossLady", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "ProperLady", 
+                "DarkMagicalGirl", 
+                "WizardBeard", 
+                "MadScientistsBeautifulDaughter", 
+                "DumbMuscle", 
+                "DirtyOldMan", 
+                "HouseHusband", 
+                "TheCheerleader", 
+                "GodSaveUsFromTheQueen", 
+                "BeardOfEvil", 
+                "AsianAirhead", 
+                "LadyInRed", 
+                "HighClassCallGirl", 
+                "GentlemanWizard", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "MagicIdolSinger", 
+                "OfficerAndAGentleman", 
+                "BeautifulAllAlong", 
+                "BrokenBird", 
+                "SassyBlackWoman", 
+                "TheWisePrince", 
+                "GymBunny", 
+                "PerkyFemaleMinion", 
+                "CoolOldLady", 
+                "UncannyValleyGirl", 
+                "StageMom", 
+                "GoodBadGirl", 
+                "WinterRoyalLady", 
+                "LawmanGoneBad", 
+                "LadyMacBeth", 
+                "TheVamp", 
+                "MadonnaWhoreComplex", 
+                "TheBaroness", 
+                "GamblerGroupies", 
+                "HotScientist", 
+                "PrincessClassic", 
+                "HardDrinkingPartyGirl", 
+                "SeashellBra", 
+                "BaldBlackLeaderGuy", 
+                "TakingTheVeil", 
+                "GentlemanThief", 
+                "ClassyCatBurglar", 
+                "GirlNextDoor", 
+                "DecoyDamsel", 
+                "QuintessentialBritishGentleman", 
+                "HookerWithAHeartOfGold", 
+                "TheOphelia", 
+                "Hobos", 
+                "CrusadingWidower", 
+                "TheButcher", 
+                "AccidentalPornomancer", 
+                "TheDandy", 
+                "VainSorceress", 
+                "BigManOnCampus", 
+                "MachoMasochism", 
+                "GoodGirlGoneBad", 
+                "HotScoop", 
+                "TheMuse", 
+                "SwingLowSweetHarriet", 
+                "BattleaxeNurse", 
+                "HighSchoolHustler", 
+                "LightFeminineAndDarkFeminine", 
+                "MaidenAunt", 
+                "YamatoNadeshiko", 
+                "TheLadysFavour", 
+                "FemmeFatale", 
+                "HighHeelFaceTurn", 
+                "CampGay", 
+                "BlondeRepublicanSexKitten", 
+                "MonogenderMonsters", 
+                "ShelteredAristocrat", 
+                "TheGambler", 
+                "StatuesqueStunner", 
+                "NobleMaleRoguishMale", 
+                "PregnantHostage", 
+                "SoapBoxSadie", 
+                "Streetwalker", 
+                "ChivalrousPervert", 
+                "GrannyClassic", 
+                "MorallyBankruptBanker", 
+                "ValleyGirl", 
+                "MataHari", 
+                "WorldsMostBeautifulWoman", 
+                "GrumpyOldMan", 
+                "DefectingForLove", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "WickedWitch", 
+                "RebelPrince", 
+                "GrandeDame", 
+                "MysteriousWaif", 
+                "StumblingUponTheLostWizard", 
+                "DarkActionGirl", 
+                "BastardBastard", 
+                "ButterFace", 
+                "AbsentMindedProfessor", 
+                "JewishMother", 
+                "DamselInDistress"
+            ]
+        ], 
+        [
+            "similar", 
+            1, 
+            4.019074963399926, 
+            0.39949893045618523, 
+            [
+                "Socialite", 
+                "YamatoNadeshiko", 
+                "MamaBear", 
+                "GlamorousSingleMother", 
+                "DirtyOldWoman", 
+                "BastardBoyfriend", 
+                "DarkMistress", 
+                "LazyHusband", 
+                "TheWomanWearingTheQueenlyMask", 
+                "BoyBand", 
+                "WomanInBlack", 
+                "BattleaxeNurse", 
+                "Dominatrix", 
+                "GreaseMonkey", 
+                "Fundoshi", 
+                "GaussianGirl", 
+                "TheBear", 
+                "NaginatasAreFeminine", 
+                "ActionHeroBabysitter", 
+                "SchoolNurse", 
+                "StatuesqueStunner", 
+                "Chickification", 
+                "NeverASelfMadeWoman", 
+                "ManicPixieDreamGirl", 
+                "FeminineWomenCanCook", 
+                "LesbianCop", 
+                "BeardnessProtectionProgram", 
+                "ChivalrousPervert", 
+                "UselessBoyfriend", 
+                "HandyMan", 
+                "LittleMissBadass", 
+                "PrinceCharmingWannabe", 
+                "EffeminateMisogynisticGuy", 
+                "GrumpyOldMan", 
+                "NeutralFemale", 
+                "UnluckyEveryDude", 
+                "GirlsWithMoustaches", 
+                "GentlemanWizard", 
+                "MrFanservice", 
+                "Tomboy", 
+                "GirlInTheTower", 
+                "GymBunny", 
+                "PerkyFemaleMinion", 
+                "ButterFace", 
+                "ProperLady", 
+                "LittleGirlsKickShins", 
+                "BikerBabe", 
+                "Bishonen", 
+                "GodSaveUsFromTheQueen", 
+                "PecFlex", 
+                "MarySue"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/PerkyFemaleMinion.jpeg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "TheChick", 
+            "trope": "PerkyFemaleMinion", 
+            "films": [
+                "SuperSentai", 
+                "Rio"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WhiteDwarfStarlet", 
+            "trope": "PerkyFemaleMinion", 
+            "films": [
+                "BatmanTheAnimatedSeries"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WalkingShirtlessScene", 
+            "trope": "PerkyFemaleMinion", 
+            "films": [
+                "TheRockyHorrorPictureShow"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Socialite", 
+            "trope": "PerkyFemaleMinion", 
+            "films": [
+                "BatmanTheAnimatedSeries"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "Streetwalker", 
+            "trope": "PerkyFemaleMinion", 
+            "films": [
+                "SinCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "ScreamingWoman", 
+            "trope": "PerkyFemaleMinion", 
+            "films": [
+                "TheRockyHorrorPictureShow"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SissyVillain", 
+            "trope": "PerkyFemaleMinion", 
+            "films": [
+                "SinCity"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "YokoOhNo", 
+            "trope": "PerkyFemaleMinion", 
+            "films": [
+                "BatmanTheAnimatedSeries"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SeeminglyWholesomeFiftiesGirl", 
+            "trope": "PerkyFemaleMinion", 
+            "films": [
+                "TheRockyHorrorPictureShow"
+            ]
+        }
+    ], 
+    "id": "PerkyFemaleMinion", 
+    "name": "Perky Female Minion"
+}

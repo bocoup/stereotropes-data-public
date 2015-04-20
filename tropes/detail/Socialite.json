@@ -1,0 +1,425 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            4, 
+            0.036036036036036036, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            2, 
+            0.011363636363636364, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            1, 
+            0.0044444444444444444, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            3, 
+            0.005110732538330494, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            1, 
+            0.0011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "You know this woman. She's cultured and rich, and she knows how to handle any situation (or at least upper-class ones). Her rich husband or father adores her, and never tires of supplying her with a constant stream of Gucci and Armani. She lives in a paradise of a mansion, usually in California, or a penthouse in Manhattan. You might find her hanging out at various social events, with a glass of champagne in her hand. Often she doesn't have a job, but sometimes she can be working in a high-end job, such as that of a celebrity publicist, which nets her a very high salary.\nWhile the Socialite is similar to \u2014 and can overlap with \u2014 the Rich Bitch, the Golddigger and the Upper-Class Twit, there is a difference: a Socialite is often Spoiled Sweet and she may very well be a nice woman who just so happens to have a lot of money. On the other hand, she can also be Rich in Dollars, Poor in Sense, especially if she's been rich since childhood.\nMany times, a Socialite is childless or is quite distant towards her children if she has any.\nCan also be prone to Conspicuous Consumption, especially jewels, fancy dresses, and furs.\nA Sub-Trope of Idle Rich.\n\nExamples", 
+    "gender": "f", 
+    "adjs": [
+        "cultured", 
+        "rich", 
+        "upper-class", 
+        "constant", 
+        "social"
+    ], 
+    "adjectives": [
+        [
+            "rich", 
+            2, 
+            13.06527485805309, 
+            1.0, 
+            [
+                "DistractedByTheLuxury", 
+                "GentlemanThief", 
+                "Socialite", 
+                "ClassyCatBurglar", 
+                "ArabOilSheikh", 
+                "DaddysGirl", 
+                "PrinceCharming", 
+                "CoolOldLady", 
+                "HandsomeDevil", 
+                "GentlemanWizard", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "BattleaxeNurse", 
+                "Bridezilla", 
+                "TinyTyrannicalGirl", 
+                "SpoiledSweet", 
+                "PrincelyYoungMan", 
+                "AsianAirhead", 
+                "Ojou"
+            ]
+        ], 
+        [
+            "cultured", 
+            1, 
+            10.704365248226246, 
+            0.8192988945524065, 
+            [
+                "Socialite"
+            ]
+        ], 
+        [
+            "high-end", 
+            1, 
+            10.704365248226246, 
+            0.8192988945524065, 
+            [
+                "Socialite"
+            ]
+        ], 
+        [
+            "constant", 
+            1, 
+            9.660242080009073, 
+            0.7393829969106815, 
+            [
+                "Socialite", 
+                "MyBelovedSmother"
+            ]
+        ], 
+        [
+            "upper-class", 
+            1, 
+            8.480049093019922, 
+            0.6490524834074228, 
+            [
+                "Socialite", 
+                "OfficerAndAGentleman", 
+                "ShelteredAristocrat", 
+                "TheDandy"
+            ]
+        ], 
+        [
+            "distant", 
+            1, 
+            7.747191110987922, 
+            0.5929604386556596, 
+            [
+                "Socialite", 
+                "DoggedNiceGuy", 
+                "UnluckyEveryDude", 
+                "LittleSisterHeroine", 
+                "IllGirl", 
+                "StandardFiftiesFather"
+            ]
+        ], 
+        [
+            "social", 
+            1, 
+            4.214584573316658, 
+            0.3225790975777979, 
+            [
+                "Socialite", 
+                "RichBitch", 
+                "PrincelyYoungMan", 
+                "MysticalWaif", 
+                "LawmanGoneBad", 
+                "EmotionlessGirl", 
+                "Bridezilla", 
+                "EducationMama", 
+                "MadonnaWhoreComplex", 
+                "GoGetterGirl", 
+                "CampStraight", 
+                "GirlOfTheWeek", 
+                "AlphaBitch", 
+                "LadyInWaiting", 
+                "BasementDweller", 
+                "GentlemanThief", 
+                "NoWomansLand", 
+                "MissKitty", 
+                "GirlNextDoor", 
+                "Kawaiiko", 
+                "Samurai", 
+                "OfficerAndAGentleman", 
+                "GirlishPigtails", 
+                "GrandeDame", 
+                "AsianBabymama", 
+                "HairyGirl", 
+                "BarbaricBully", 
+                "RebelliousPrincess", 
+                "TheOneGuy", 
+                "SissyVillain", 
+                "ConceiveAndKill", 
+                "TheChick"
+            ]
+        ], 
+        [
+            "nice", 
+            1, 
+            4.120540276893296, 
+            0.31538106328880666, 
+            [
+                "Socialite", 
+                "LovableAlphaBitch", 
+                "LittleOldLadyInvestigates", 
+                "NiceJewishBoy", 
+                "KindlyHousekeeper", 
+                "CoolBigSis", 
+                "BlondeRepublicanSexKitten", 
+                "DistractedByTheLuxury", 
+                "CulturedBadass", 
+                "BlondGuysAreEvil", 
+                "WickedWitch", 
+                "TheCutie", 
+                "MisplacedKindergartenTeacher", 
+                "JerkJock", 
+                "ManInWhite", 
+                "OfficeLady", 
+                "BeautifulAllAlong", 
+                "SmittenTeenageGirl", 
+                "TheChick", 
+                "MsFanservice", 
+                "TheUglyGuysHotDaughter", 
+                "GoodGirlGoneBad", 
+                "OneOfTheBoys", 
+                "SpoiledSweet", 
+                "StatuesqueStunner", 
+                "JewishMother", 
+                "DressesGownsAndSkirts"
+            ]
+        ], 
+        [
+            "similar", 
+            1, 
+            3.641021982269363, 
+            0.27867932529755646, 
+            [
+                "Socialite", 
+                "YamatoNadeshiko", 
+                "MamaBear", 
+                "GlamorousSingleMother", 
+                "DirtyOldWoman", 
+                "BastardBoyfriend", 
+                "DarkMistress", 
+                "LazyHusband", 
+                "TheWomanWearingTheQueenlyMask", 
+                "BoyBand", 
+                "WomanInBlack", 
+                "BattleaxeNurse", 
+                "Dominatrix", 
+                "GreaseMonkey", 
+                "Fundoshi", 
+                "GaussianGirl", 
+                "TheBear", 
+                "NaginatasAreFeminine", 
+                "ActionHeroBabysitter", 
+                "SchoolNurse", 
+                "StatuesqueStunner", 
+                "Chickification", 
+                "NeverASelfMadeWoman", 
+                "ManicPixieDreamGirl", 
+                "FeminineWomenCanCook", 
+                "LesbianCop", 
+                "BeardnessProtectionProgram", 
+                "ChivalrousPervert", 
+                "UselessBoyfriend", 
+                "HandyMan", 
+                "LittleMissBadass", 
+                "PrinceCharmingWannabe", 
+                "EffeminateMisogynisticGuy", 
+                "GrumpyOldMan", 
+                "NeutralFemale", 
+                "UnluckyEveryDude", 
+                "GirlsWithMoustaches", 
+                "GentlemanWizard", 
+                "MrFanservice", 
+                "Tomboy", 
+                "GirlInTheTower", 
+                "GymBunny", 
+                "PerkyFemaleMinion", 
+                "ButterFace", 
+                "ProperLady", 
+                "LittleGirlsKickShins", 
+                "BikerBabe", 
+                "Bishonen", 
+                "GodSaveUsFromTheQueen", 
+                "PecFlex", 
+                "MarySue"
+            ]
+        ], 
+        [
+            "high", 
+            1, 
+            3.182303233893676, 
+            0.24356955888549014, 
+            [
+                "Socialite", 
+                "WalkingShirtlessScene", 
+                "HeroicSeductress", 
+                "PrincelyYoungMan", 
+                "DarkMistress", 
+                "MegaTwintails", 
+                "HugeSchoolgirl", 
+                "DirtyOldMan", 
+                "FemininityFailure", 
+                "FemaleMisogynist", 
+                "CatholicSchoolGirlsRule", 
+                "MagicalGirl", 
+                "GossipyHens", 
+                "Ojou", 
+                "PlayboyBunny", 
+                "AnimeChineseGirl", 
+                "BastardGirlfriend", 
+                "KnightInShiningArmor", 
+                "InstantSoprano", 
+                "WomenDrivers", 
+                "BlondeRepublicanSexKitten", 
+                "ALadyOnEachArm", 
+                "BespectacledBastardBoyfriend", 
+                "TheFightingNarcissist", 
+                "AlphaBitch", 
+                "GirlNextDoor", 
+                "ProperLady", 
+                "FinalGirl", 
+                "WomanScorned", 
+                "ManicPixieDreamGirl", 
+                "TheEvilPrince", 
+                "Joshikousei", 
+                "GamerChick", 
+                "PrinceCharmless", 
+                "TheChanteuse", 
+                "ButchLesbian", 
+                "GracefulLadiesLikePurple", 
+                "MataHari", 
+                "Samurai", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "PregnantHostage", 
+                "EvenTheGirlsWantHer", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "GirlishPigtails", 
+                "GoGetterGirl", 
+                "DirtyHarriet", 
+                "VainSorceress", 
+                "BarbaricBully", 
+                "LadyOfAdventure", 
+                "KindlyHousekeeper", 
+                "KidAnova", 
+                "BastardBastard", 
+                "UncannyValleyGirl", 
+                "GirlPosse", 
+                "LipstickLesbian", 
+                "HighSchoolHustler", 
+                "TheHighQueen"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/Socialite.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "TheFlapper", 
+            "trope": "Socialite", 
+            "films": [
+                "ThoroughlyModernMillie"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheFakeCutie", 
+            "trope": "Socialite", 
+            "films": [
+                "BatmanTheAnimatedSeries"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheBaroness", 
+            "trope": "Socialite", 
+            "films": [
+                "BatmanTheAnimatedSeries"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "Socialite", 
+            "films": [
+                "ThoroughlyModernMillie"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheLadette", 
+            "trope": "Socialite", 
+            "films": [
+                "Giant"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "YokoOhNo", 
+            "trope": "Socialite", 
+            "films": [
+                "BatmanTheAnimatedSeries"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCasanova", 
+            "trope": "Socialite", 
+            "films": [
+                "ThoroughlyModernMillie"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WhiteDwarfStarlet", 
+            "trope": "Socialite", 
+            "films": [
+                "BatmanTheAnimatedSeries"
+            ]
+        }
+    ], 
+    "id": "Socialite", 
+    "name": "Socialite"
+}

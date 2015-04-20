@@ -1,0 +1,262 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            1, 
+            0.0033112582781456954, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            3, 
+            0.005110732538330494, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            11, 
+            0.012429378531073447, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            10, 
+            0.01757469244288225, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            10, 
+            0.015479876160990712, 
+            646
+        ]
+    ], 
+    "description": "He's the strongest, toughest, manliest man in the sports team. He might hate gays and be vocal, or even violent about it. He will remind everybody that he is completely, 100% straight. That is, during the daytime. When night falls, you can find him Where Everybody Knows Your Flame with the Club Kids and Gym Bunnies. He's the self-loathing gay guy who hides behind a macho fa\u00e7ade.\nPerhaps the most common variant of You Are What You Hate. See also Gayngst if the character is particularly self-tormented about it. Not to be confused with Straight Gay, who is out of the closet but just non-flamboyant, or Gym Bunny or Manly Gay, also out of the closet and macho all the same.\nPolar opposite of Gay Bravado - acting gay to affirm your heterosexuality - unless it's a double bluff, of course. Sometimes overlaps with Gayngster. May result in Irrational Hatred of gays.", 
+    "gender": "m", 
+    "adjs": [
+        "vocal", 
+        "violent", 
+        "self-loathing", 
+        "self-tormented", 
+        "non-flamboyant"
+    ], 
+    "adjectives": [
+        [
+            "non-flamboyant", 
+            1, 
+            11.914480172293118, 
+            1.0, 
+            [
+                "ArmouredClosetGay"
+            ]
+        ], 
+        [
+            "self-tormented", 
+            1, 
+            11.914480172293118, 
+            1.0, 
+            [
+                "ArmouredClosetGay"
+            ]
+        ], 
+        [
+            "self-loathing", 
+            1, 
+            10.869278662539067, 
+            0.9122746863782907, 
+            [
+                "ArmouredClosetGay", 
+                "BarbaricBully"
+            ]
+        ], 
+        [
+            "violent", 
+            1, 
+            8.951914327370396, 
+            0.75134745267258, 
+            [
+                "ArmouredClosetGay", 
+                "DarkActionGirl", 
+                "TheFightingNarcissist", 
+                "OfficeLady", 
+                "WomanScorned", 
+                "LittleGirlsKickShins"
+            ]
+        ], 
+        [
+            "vocal", 
+            1, 
+            8.951914327370396, 
+            0.75134745267258, 
+            [
+                "ChivalrousPervert", 
+                "InstantSoprano", 
+                "ArmouredClosetGay", 
+                "Fangirl", 
+                "BoyBand", 
+                "BrawnHilda"
+            ]
+        ], 
+        [
+            "double", 
+            1, 
+            5.826021126680802, 
+            0.4889865980245698, 
+            [
+                "ALadyOnEachArm", 
+                "LittleRedFightingHood", 
+                "BigBeautifulMan", 
+                "WhiteDwarfStarlet", 
+                "AmazonianBeauty", 
+                "TomBoyAndGirlyGirl", 
+                "CuteClumsyGirl", 
+                "SchoolgirlLesbians", 
+                "MrsRobinson", 
+                "BlondGuysAreEvil", 
+                "NeverASelfMadeWoman", 
+                "TheCasanova", 
+                "GreenSkinnedSpaceBabe", 
+                "NaughtyNuns", 
+                "TheLoinsSleepTonight", 
+                "BumblingDad", 
+                "CrazyJealousGuy", 
+                "ChickMagnet", 
+                "ArmouredClosetGay", 
+                "MataHari", 
+                "DirtyOldWoman", 
+                "UnderstandingBoyfriend", 
+                "MyBelovedSmother", 
+                "DisappearedDad", 
+                "MsFanservice", 
+                "MysteriousWaif", 
+                "PrinceCharming", 
+                "SexySecretary", 
+                "DastardlyWhiplash", 
+                "LegCling"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 5, 
+            "related_trope": "CampGay", 
+            "trope": "ArmouredClosetGay", 
+            "films": [
+                "GBF", 
+                "VictorVictoria", 
+                "ThePerksOfBeingAWallflower", 
+                "ChasingAmy", 
+                "CruelIntentions"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "JerkJock", 
+            "trope": "ArmouredClosetGay", 
+            "films": [
+                "Heathers", 
+                "GBF", 
+                "VictorVictoria", 
+                "ThePerksOfBeingAWallflower"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "CatholicSchoolGirlsRule", 
+            "trope": "ArmouredClosetGay", 
+            "films": [
+                "Trainspotting", 
+                "ScaryMovie", 
+                "CruelIntentions"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "FilleFatale", 
+            "trope": "ArmouredClosetGay", 
+            "films": [
+                "Trainspotting", 
+                "AmericanBeauty", 
+                "CruelIntentions"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "BlondesAreEvil", 
+            "trope": "ArmouredClosetGay", 
+            "films": [
+                "Heathers", 
+                "Cursed2005"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "GaussianGirl", 
+            "trope": "ArmouredClosetGay", 
+            "films": [
+                "Futurama", 
+                "AmericanBeauty"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "DoggedNiceGuy", 
+            "trope": "ArmouredClosetGay", 
+            "films": [
+                "Futurama", 
+                "ChasingAmy"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "LovableAlphaBitch", 
+            "trope": "ArmouredClosetGay", 
+            "films": [
+                "Heathers", 
+                "GBF"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SassyBlackWoman", 
+            "trope": "ArmouredClosetGay", 
+            "films": [
+                "GBF", 
+                "ScaryMovie"
+            ]
+        }
+    ], 
+    "id": "ArmouredClosetGay", 
+    "name": "Armoured Closet Gay"
+}

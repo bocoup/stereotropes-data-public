@@ -1,0 +1,168 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            1, 
+            0.0011299435028248588, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            1, 
+            0.0015479876160990713, 
+            646
+        ]
+    ], 
+    "description": "You know the one. The woman in the bar with a black outfit (Nice Hat optional), deep lipstick, dark shades, and a know-it-all smile. She is both sensuous and dangerous, but calm and collected as well, and knows far more than she reveals. Her appearance in a story is a portent of Strange Things Happening; sometimes, she may join The Hero, and other times, she may be his worst enemy. However, something's certainly going to happen, and she'll most likely be right in the middle of it.\nIf she can fight, too (and she usually can), then anyone who gets in her way should watch out...\nSee also Mysterious Stranger.", 
+    "gender": "f", 
+    "adjs": [
+        "black", 
+        "optional", 
+        "know-it-all", 
+        "sensuous", 
+        "dangerous"
+    ], 
+    "adjectives": [
+        [
+            "know-it-all", 
+            1, 
+            11.233274561844485, 
+            1.0, 
+            [
+                "PregnantHostage", 
+                "MysteriousWoman"
+            ]
+        ], 
+        [
+            "sensuous", 
+            1, 
+            11.233274561844485, 
+            1.0, 
+            [
+                "GreenSkinnedSpaceBabe", 
+                "MysteriousWoman"
+            ]
+        ], 
+        [
+            "optional", 
+            1, 
+            10.050493415593246, 
+            0.8947073589504583, 
+            [
+                "FatSweatySouthernerInAWhiteSuit", 
+                "SharpDressedMan", 
+                "MysteriousWoman", 
+                "SwingLowSweetHarriet"
+            ]
+        ], 
+        [
+            "black", 
+            1, 
+            6.678891057884105, 
+            0.5945631455114582, 
+            [
+                "BlackBossLady", 
+                "FemmeFatale", 
+                "ManInWhite", 
+                "WidowWitch", 
+                "BlackWidow", 
+                "BlondGuysAreEvil", 
+                "DarkActionGirl", 
+                "SassyBlackWoman", 
+                "ConceiveAndKill", 
+                "WomanInBlack", 
+                "BeardOfEvil", 
+                "HotWitch", 
+                "FrenchMaid", 
+                "BoyBand", 
+                "BaldBlackLeaderGuy", 
+                "MysteriousWoman", 
+                "WickedWitch"
+            ]
+        ], 
+        [
+            "dangerous", 
+            1, 
+            6.678891057884105, 
+            0.5945631455114582, 
+            [
+                "ScreamingWoman", 
+                "LittleRedFightingHood", 
+                "ContraltoOfDanger", 
+                "GirlsLoveStuffedAnimals", 
+                "MysteriousWoman", 
+                "AmazonianBeauty", 
+                "TheTease", 
+                "RobotGirl", 
+                "LittleDeadRidingHood", 
+                "BashBrothers", 
+                "TheFakeCutie", 
+                "ShelteredAristocrat", 
+                "DamselInDistress", 
+                "WomanScorned", 
+                "BadassPrincess", 
+                "Streetwalker", 
+                "ChivalrousPervert", 
+                "TheChanteuse", 
+                "DisposableSexWorker", 
+                "MilesGloriosus", 
+                "BadassGrandpa", 
+                "GirlInTheTower", 
+                "WomenDrivers", 
+                "WomanInBlack"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/MysteriousWoman.png", 
+    "similar": [], 
+    "id": "MysteriousWoman", 
+    "name": "Mysterious Woman"
+}

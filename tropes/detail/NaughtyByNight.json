@@ -1,0 +1,199 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            1, 
+            0.01098901098901099, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            1, 
+            0.0044444444444444444, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "Nina is a librarian. During the day, she wears long skirts, a loose blouse done all the way up to her neck, her hair in a bun and sensible shoes.\nGet Nina home to her significant other, allow her to have a glass of something alcoholic and well... the blouse is on the floor, the skirt is in the hall and the hair is all over the place. Some other stuff is NSFW even to describe...\nA Sub-Trope of Living a Double Life.\nCompare Seemingly Wholesome '50s Girl.", 
+    "gender": "f", 
+    "adjs": [
+        "sensible", 
+        "significant", 
+        "alcoholic"
+    ], 
+    "adjectives": [
+        [
+            "alcoholic", 
+            1, 
+            11.574682517814686, 
+            1.0, 
+            [
+                "NaughtyByNight", 
+                "LadyDrunk", 
+                "HouseWife"
+            ]
+        ], 
+        [
+            "sensible", 
+            1, 
+            11.069986933048888, 
+            0.956396593687212, 
+            [
+                "NaughtyByNight", 
+                "StandardFiftiesFather", 
+                "AsianBabymama", 
+                "MagicalNanny"
+            ]
+        ], 
+        [
+            "significant", 
+            1, 
+            8.599800520145815, 
+            0.742983706629516, 
+            [
+                "TakingTheVeil", 
+                "DamselOutOfDistress", 
+                "IllGirl", 
+                "NaughtyByNight", 
+                "BathingBeauty", 
+                "MsFanservice", 
+                "GlamorousWartimeSinger", 
+                "GirlOfTheWeek", 
+                "QuicklyDemotedWoman", 
+                "LadyNotAppearingInThisGame", 
+                "BaitAndSwitchLesbians", 
+                "HouseHusband", 
+                "WomanScorned", 
+                "MartyStu", 
+                "UnderstandingBoyfriend"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "StraightGay", 
+            "trope": "NaughtyByNight", 
+            "films": [
+                "TheLincolnLawyer", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SeashellBra", 
+            "trope": "NaughtyByNight", 
+            "films": [
+                "Paprika", 
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WomanScorned", 
+            "trope": "NaughtyByNight", 
+            "films": [
+                "Futurama", 
+                "Flashdance"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SweetPollyOliver", 
+            "trope": "NaughtyByNight", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpaceshipGirl", 
+            "trope": "NaughtyByNight", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "UnderstandingBoyfriend", 
+            "trope": "NaughtyByNight", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "NaughtyByNight", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SensitiveGuyAndManlyMan", 
+            "trope": "NaughtyByNight", 
+            "films": [
+                "Futurama"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PrinceCharmingWannabe", 
+            "trope": "NaughtyByNight", 
+            "films": [
+                "Futurama"
+            ]
+        }
+    ], 
+    "id": "NaughtyByNight", 
+    "name": "Naughty By Night"
+}

@@ -1,0 +1,256 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            0, 
+            0.0, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            0, 
+            0.0, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            0, 
+            0.0, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "The practice of putting sexy women on the box art and in advertisements for video games without her actually appearing in the game, or only appearing in a very minor, unmemorable role. Sex Sells, logic be damned. It can be seen as odd if the game features several significant female characters who could have been used instead, but it doesn't really matter who the girl is. She is there only to attract the Male Gaze, due to the assumption that most gamers are (heterosexual) men. Once he sees what the game is about and decides whether or not to buy it, her job is done.\nA rather blatant subtrope of Sexy Packaging and Covers Always Lie. The name is a reference to \"Sir Not-Appearing-In-This-Film\" from Monty Python and the Holy Grail.\nContrast Sir Not-Appearing-in-This-Trailer, as movies tend to have the exact opposite problem. See also Wolverine Publicity. Compare Contemptible Cover.", 
+    "gender": "f", 
+    "adjs": [
+        "minor", 
+        "unmemorable", 
+        "odd", 
+        "significant", 
+        "heterosexual"
+    ], 
+    "adjectives": [
+        [
+            "unmemorable", 
+            1, 
+            11.606610242289022, 
+            1.0, 
+            [
+                "LadyNotAppearingInThisGame"
+            ]
+        ], 
+        [
+            "blatant", 
+            1, 
+            10.561624447360181, 
+            0.9099663232317904, 
+            [
+                "LadyNotAppearingInThisGame", 
+                "BigBeautifulWoman"
+            ]
+        ], 
+        [
+            "exact", 
+            1, 
+            8.978506428534168, 
+            0.7735683581258478, 
+            [
+                "FemininityTropes", 
+                "YokoOhNo", 
+                "OverprotectiveDad", 
+                "LadyNotAppearingInThisGame", 
+                "HotWitch"
+            ]
+        ], 
+        [
+            "minor", 
+            1, 
+            8.645122971492352, 
+            0.7448447730237029, 
+            [
+                "GirlOfTheWeek", 
+                "BridgeBunnies", 
+                "LadyNotAppearingInThisGame", 
+                "FanserviceExtra", 
+                "MagicalGirl", 
+                "SmallGirlBigGun"
+            ]
+        ], 
+        [
+            "odd", 
+            1, 
+            7.889623437501877, 
+            0.6797525955300716, 
+            [
+                "MisplacedKindergartenTeacher", 
+                "MysteriousWaif", 
+                "MysticalWaif", 
+                "Hobos", 
+                "DisposableSexWorker", 
+                "LadyNotAppearingInThisGame", 
+                "EffeminateMisogynisticGuy", 
+                "GreenSkinnedSpaceBabe", 
+                "WickedWitch"
+            ]
+        ], 
+        [
+            "heterosexual", 
+            1, 
+            7.344890684043662, 
+            0.632819620088761, 
+            [
+                "ButchLesbian", 
+                "CampGay", 
+                "GayBravado", 
+                "CampStraight", 
+                "RightThroughHisPants", 
+                "StraightGay", 
+                "LadyNotAppearingInThisGame", 
+                "BaitAndSwitchLesbians", 
+                "PrettyBoy", 
+                "MartyStu"
+            ]
+        ], 
+        [
+            "significant", 
+            1, 
+            6.919012782325673, 
+            0.5961269171524386, 
+            [
+                "TakingTheVeil", 
+                "DamselOutOfDistress", 
+                "IllGirl", 
+                "NaughtyByNight", 
+                "BathingBeauty", 
+                "MsFanservice", 
+                "GlamorousWartimeSinger", 
+                "GirlOfTheWeek", 
+                "QuicklyDemotedWoman", 
+                "LadyNotAppearingInThisGame", 
+                "BaitAndSwitchLesbians", 
+                "HouseHusband", 
+                "WomanScorned", 
+                "MartyStu", 
+                "UnderstandingBoyfriend"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/LadyNotAppearingInThisGame.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "Meganekko", 
+            "trope": "LadyNotAppearingInThisGame", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "LadyNotAppearingInThisGame", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheSquadette", 
+            "trope": "LadyNotAppearingInThisGame", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StatuesqueStunner", 
+            "trope": "LadyNotAppearingInThisGame", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "PapaWolf", 
+            "trope": "LadyNotAppearingInThisGame", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TopHeavyGuy", 
+            "trope": "LadyNotAppearingInThisGame", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "StrangeGirl", 
+            "trope": "LadyNotAppearingInThisGame", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MamaBear", 
+            "trope": "LadyNotAppearingInThisGame", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TomboyPrincess", 
+            "trope": "LadyNotAppearingInThisGame", 
+            "films": [
+                "WreckItRalph"
+            ]
+        }
+    ], 
+    "id": "LadyNotAppearingInThisGame", 
+    "name": "Lady Not Appearing In This Game"
+}

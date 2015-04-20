@@ -1,0 +1,474 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            1, 
+            0.016666666666666666, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            1, 
+            0.009009009009009009, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            0, 
+            0.0, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            2, 
+            0.0034071550255536627, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            15, 
+            0.01694915254237288, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            8, 
+            0.014059753954305799, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            18, 
+            0.02786377708978328, 
+            646
+        ]
+    ], 
+    "description": "In most media, the average Badass is usually a hairy-knuckled brawler unfamiliar with the finer things in life, but not this guy. Like his Trope-brother the Cultured Warrior, the Cultured Badass knows how to be sophisticated, is an expert on gourmet food and art, and knows how to behave himself at a formal affair. In short, he knows how to be a gentleman but he also knows how to be a Badass.\nJust because he enjoys La Boh\u00e8me and can tell the difference between bottles of 1938 and 1941 Mo\u00ebt et Chandon from the taste sound of it being poured doesn't mean he won't beat you to death with them. Get on his bad side and you will live to regret it if you are lucky. (If you're unlucky, you won't live at all.) In either case, He will fight like a gentleman.\nSimilar to Cultured Warrior, except he's not in the military (though he might be a veteran). Sometimes he's a Badass Bookworm or Genius Bruiser, though not necessarily. Sometimes he's a Warrior Poet, though often there's nothing spiritual about his love of culture... he just likes the finer things. When he's evil, he's Wicked Cultured and when he's nice (or Affably Evil), he's a Gentleman and a Scholar.\nIf a woman is a Cultured Badass, she's usually either a Lady of War or Silk Hiding Steel.\nSee also Pop Cultured Badass.\nCompare/Contrast Boisterous Bruiser.", 
+    "gender": "m", 
+    "adjs": [
+        "average", 
+        "hairy-knuckled", 
+        "trope-brother", 
+        "formal", 
+        "mo\u00ebt"
+    ], 
+    "adjectives": [
+        [
+            "hairy-knuckled", 
+            1, 
+            10.704365248226246, 
+            1.0, 
+            [
+                "CulturedBadass"
+            ]
+        ], 
+        [
+            "mo\u00ebt", 
+            1, 
+            10.704365248226246, 
+            1.0, 
+            [
+                "CulturedBadass"
+            ]
+        ], 
+        [
+            "trope-brother", 
+            1, 
+            10.704365248226246, 
+            1.0, 
+            [
+                "CulturedBadass"
+            ]
+        ], 
+        [
+            "spiritual", 
+            1, 
+            8.480049093019922, 
+            0.7922047591215273, 
+            [
+                "CulturedBadass", 
+                "TakingTheVeil", 
+                "TheChick", 
+                "SwingLowSweetHarriet"
+            ]
+        ], 
+        [
+            "unlucky", 
+            1, 
+            8.079711941318067, 
+            0.7548053297842117, 
+            [
+                "CulturedBadass", 
+                "MagicalGirlfriend", 
+                "EvilMatriarch", 
+                "MataHari", 
+                "MyBelovedSmother"
+            ]
+        ], 
+        [
+            "formal", 
+            1, 
+            6.159903717681982, 
+            0.5754571686259212, 
+            [
+                "CulturedBadass", 
+                "LadyInRed", 
+                "YamatoNadeshiko", 
+                "KickingAssInAllHerFinery", 
+                "QuintessentialBritishGentleman", 
+                "PapaWolf", 
+                "Samurai", 
+                "OneeSama", 
+                "Hunk", 
+                "Chickification", 
+                "Ojou"
+            ]
+        ], 
+        [
+            "average", 
+            1, 
+            5.388490793322378, 
+            0.5033919030570515, 
+            [
+                "CulturedBadass", 
+                "MachoCamp", 
+                "GayBravado", 
+                "LipstickLesbian", 
+                "GamerChick", 
+                "KnightInShiningArmor", 
+                "TheCheerleader", 
+                "HugeSchoolgirl", 
+                "WomenDrivers", 
+                "StatuesqueStunner", 
+                "DefectingForLove", 
+                "GirlNextDoor", 
+                "UnluckyEveryDude", 
+                "Meganekko", 
+                "SmittenTeenageGirl"
+            ]
+        ], 
+        [
+            "military", 
+            1, 
+            4.710410652162088, 
+            0.44004577038723725, 
+            [
+                "CulturedBadass", 
+                "TheAllAmericanBoy", 
+                "ManInWhite", 
+                "ChildSoldiers", 
+                "CampFollower", 
+                "DadTheVeteran", 
+                "TheBaroness", 
+                "IronLady", 
+                "DrillSergeantNasty", 
+                "MataHari", 
+                "OfficerAndAGentleman", 
+                "Samurai", 
+                "NeverASelfMadeWoman", 
+                "AgentPeacock", 
+                "BaldBlackLeaderGuy", 
+                "JeanneDArchetype", 
+                "TheButcher", 
+                "TheGeneralissimo"
+            ]
+        ], 
+        [
+            "nice", 
+            1, 
+            4.120540276893296, 
+            0.3849401792017593, 
+            [
+                "Socialite", 
+                "LovableAlphaBitch", 
+                "LittleOldLadyInvestigates", 
+                "NiceJewishBoy", 
+                "KindlyHousekeeper", 
+                "CoolBigSis", 
+                "BlondeRepublicanSexKitten", 
+                "DistractedByTheLuxury", 
+                "CulturedBadass", 
+                "BlondGuysAreEvil", 
+                "WickedWitch", 
+                "TheCutie", 
+                "MisplacedKindergartenTeacher", 
+                "JerkJock", 
+                "ManInWhite", 
+                "OfficeLady", 
+                "BeautifulAllAlong", 
+                "SmittenTeenageGirl", 
+                "TheChick", 
+                "MsFanservice", 
+                "TheUglyGuysHotDaughter", 
+                "GoodGirlGoneBad", 
+                "OneOfTheBoys", 
+                "SpoiledSweet", 
+                "StatuesqueStunner", 
+                "JewishMother", 
+                "DressesGownsAndSkirts"
+            ]
+        ], 
+        [
+            "bad", 
+            1, 
+            3.182303233893676, 
+            0.2972902325451755, 
+            [
+                "AsianHookerStereotype", 
+                "ViolentlyProtectiveGirlFriend", 
+                "FemmeFatale", 
+                "AdrenalineMakeover", 
+                "BastardBoyfriend", 
+                "ManInAKilt", 
+                "DarkMistress", 
+                "GoodGirlGoneBad", 
+                "LawmanGoneBad", 
+                "BoyBand", 
+                "TomboyPrincess", 
+                "GIRL", 
+                "HeManWomanHater", 
+                "CulturedBadass", 
+                "TheBear", 
+                "LovableAlphaBitch", 
+                "TheCheerleader", 
+                "BlondGuysAreEvil", 
+                "HandsomeDevil", 
+                "BashBrothers", 
+                "ActionHeroBabysitter", 
+                "BeardOfEvil", 
+                "ShelteredAristocrat", 
+                "AlphaBitch", 
+                "AcceptableFeminineGoalsAndTraits", 
+                "OverlordJr", 
+                "DamselInDistress", 
+                "KnightErrant", 
+                "NaiveEverygirl", 
+                "MommasBoy", 
+                "AsianAirhead", 
+                "BadassPrincess", 
+                "TheEvilPrince", 
+                "MenCantKeepHouse", 
+                "HeroicSeductress", 
+                "ClassyCatBurglar", 
+                "GirlNextDoor", 
+                "MorallyBankruptBanker", 
+                "NeverMessWithGranny", 
+                "GoodBadGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "TheCutie", 
+                "EvenTheGirlsWantHer", 
+                "OfficerAndAGentleman", 
+                "BeautifulAllAlong", 
+                "DaddysLittleVillain", 
+                "TheButcher", 
+                "WickedWitch", 
+                "LesbianVampire", 
+                "PrinceCharming", 
+                "RebelliousPrincess", 
+                "MisterSeahorse", 
+                "MysticalWaif", 
+                "HouseWife", 
+                "NaughtyNuns", 
+                "StageMom", 
+                "LightFeminineAndDarkFeminine", 
+                "PirateGirl", 
+                "DastardlyWhiplash", 
+                "TheWomanWearingTheQueenlyMask", 
+                "BiggerIsBetterInBed"
+            ]
+        ], 
+        [
+            "evil", 
+            1, 
+            3.1294905500322674, 
+            0.2923564805069442, 
+            [
+                "BeardOfSorrow", 
+                "WizardBeard", 
+                "HotWitch", 
+                "ThisIndexIsABitch", 
+                "StumblingUponTheLostWizard", 
+                "DarkMistress", 
+                "WinterRoyalLady", 
+                "CuteGhostGirl", 
+                "ArchnemesisDad", 
+                "TheVamp", 
+                "HotScoop", 
+                "HeroicSeductress", 
+                "CulturedBadass", 
+                "CorruptHick", 
+                "GoGetterGirl", 
+                "TheCheerleader", 
+                "BlondGuysAreEvil", 
+                "BlondeRepublicanSexKitten", 
+                "CarpetOfVirility", 
+                "HighHeelFaceTurn", 
+                "BeardOfEvil", 
+                "AgentPeacock", 
+                "TheCasanova", 
+                "OverlordJr", 
+                "KnightErrant", 
+                "WomanScorned", 
+                "BadassPrincess", 
+                "TheEvilPrince", 
+                "DepravedHomosexual", 
+                "JerkJock", 
+                "ArabOilSheikh", 
+                "BespectacledBastardBoyfriend", 
+                "TheGambler", 
+                "WomanInWhite", 
+                "TheFightingNarcissist", 
+                "AnimeChineseGirl", 
+                "ScaryBlackMan", 
+                "OfficerAndAGentleman", 
+                "DefectingForLove", 
+                "TheWomanWearingTheQueenlyMask", 
+                "FurryBaldness", 
+                "GirlishPigtails", 
+                "WickedWitch", 
+                "TheDandy", 
+                "BlackMagicianGirl", 
+                "BadassGrandpa", 
+                "GirlInTheTower", 
+                "EvilMatriarch", 
+                "BlondesAreEvil", 
+                "TheOneGuy", 
+                "TheHighQueen", 
+                "BattleaxeNurse", 
+                "GirlPosse", 
+                "StageMom", 
+                "WomanInBlack", 
+                "GodSaveUsFromTheQueen", 
+                "DarkMagicalGirl", 
+                "DastardlyWhiplash"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/CulturedBadass.jpg", 
+    "similar": [
+        {
+            "count": 6, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "CulturedBadass", 
+            "films": [
+                "StreetFighter", 
+                "SinCity", 
+                "Intouchables", 
+                "TheRock", 
+                "Predators", 
+                "DjangoUnchained"
+            ]
+        }, 
+        {
+            "count": 6, 
+            "related_trope": "DamselInDistress", 
+            "trope": "CulturedBadass", 
+            "films": [
+                "SherlockHolmes", 
+                "TheGhostAndMrsMuir", 
+                "LastActionHero", 
+                "TheRock", 
+                "TheProposition", 
+                "DjangoUnchained"
+            ]
+        }, 
+        {
+            "count": 5, 
+            "related_trope": "SensitiveGuyAndManlyMan", 
+            "trope": "CulturedBadass", 
+            "films": [
+                "XMen", 
+                "StreetFighter", 
+                "FullmetalAlchemist", 
+                "TheRock", 
+                "Warrior"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "WomanInBlack", 
+            "trope": "CulturedBadass", 
+            "films": [
+                "XMen", 
+                "FullmetalAlchemist", 
+                "Inception", 
+                "TheLastSeduction"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "TheBaroness", 
+            "trope": "CulturedBadass", 
+            "films": [
+                "XMen", 
+                "SinCity", 
+                "Transformers", 
+                "FullmetalAlchemist"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "DisappearedDad", 
+            "trope": "CulturedBadass", 
+            "films": [
+                "FullmetalAlchemist", 
+                "StarTrekIITheWrathOfKhan", 
+                "MrPeabodyAndSherman", 
+                "Inception"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "DaddysGirl", 
+            "trope": "CulturedBadass", 
+            "films": [
+                "SinCity", 
+                "FullmetalAlchemist", 
+                "TheMothDiaries", 
+                "MrPeabodyAndSherman"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "SissyVillain", 
+            "trope": "CulturedBadass", 
+            "films": [
+                "SinCity", 
+                "Transformers", 
+                "FullmetalAlchemist", 
+                "Braveheart"
+            ]
+        }, 
+        {
+            "count": 4, 
+            "related_trope": "PluckyGirl", 
+            "trope": "CulturedBadass", 
+            "films": [
+                "TheGhostAndMrsMuir", 
+                "StreetFighter", 
+                "Transformers", 
+                "FullmetalAlchemist"
+            ]
+        }
+    ], 
+    "id": "CulturedBadass", 
+    "name": "Cultured Badass"
+}

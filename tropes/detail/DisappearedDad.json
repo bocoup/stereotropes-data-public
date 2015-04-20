@@ -1,0 +1,469 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            3, 
+            0.05, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            5, 
+            0.054945054945054944, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            5, 
+            0.04504504504504504, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            8, 
+            0.045454545454545456, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            7, 
+            0.03111111111111111, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            12, 
+            0.039735099337748346, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            32, 
+            0.054514480408858604, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            69, 
+            0.07796610169491526, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            29, 
+            0.050966608084358524, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            56, 
+            0.08668730650154799, 
+            646
+        ]
+    ], 
+    "description": "A subtrope of Parental Abandonment: The father of a character or characters is missing or absent.\nPerhaps he's died. Perhaps he's left and there's bitterness involved. Perhaps he's off fighting evil. Or maybe it's psychological absence \u2014 he's physically there, but is completely negligent in his fatherly duties. Regardless of what happened \u2014 and regardless of whether or not the viewers find out what happened \u2014 Mom seems to have raised her children on her own, or with the help of a father substitute.\nThere's a bit of a Double Standard in fiction regarding single parents. A Disappeared Dad is far less likely to have his absence explained than a Missing Mom. When he's not in the picture, it's often taken for granted that he's either dead or a deadbeat, or even worse. But if he is alive, he is more likely to either return and reconcile, or be a non-entity who sporadically appears just to remind the hero that Daddy doesn't care about them. It is also possible for the Disappeared Dad to have not ever met the child at all or even know that they exist, unlike the Missing Mom, since fathers don't actually have to be present during childbirth. Sometimes, a Disappeared Dad is not aware of being one; when that type of Disappeared Dad is actually an established character, you get Luke, You Are My Father.\nHowever, the flipside is that if both parents are absent, the character is far more likely to be obsessed with his or her lost father. Characters who have lost both parents often do not mention the lost mother at all.\nHappens most frequently in animated series, but other media are not immune.\nCompare and contrast this with Missing Mom. Combine the two, and you get Parental Abandonment. Sometimes, though, Daddy Had a Good Reason for Abandoning You. If Dad is dead, we may see a Happier Home Movie. If he is simply too busy to be with his child, it's When You Coming Home, Dad?. See also Tell Me About My Father, So Proud of You, Turn Out Like His Father. Contrast \"Well Done, Son\" Guy.", 
+    "gender": "m", 
+    "adjs": [
+        "psychological", 
+        "negligent", 
+        "fatherly", 
+        "double", 
+        "single"
+    ], 
+    "adjectives": [
+        [
+            "dead", 
+            2, 
+            14.538788158085492, 
+            1.0, 
+            [
+                "DisappearedDad", 
+                "WickedStepmother", 
+                "ValleyGirl", 
+                "DisposableSexWorker", 
+                "WomanInWhite", 
+                "BeautifulAllAlong", 
+                "CuteGhostGirl", 
+                "DamselInDistress", 
+                "DeterminedWidow", 
+                "GirlInABox", 
+                "MissingMom"
+            ]
+        ], 
+        [
+            "negligent", 
+            1, 
+            10.223334586503498, 
+            0.7031765285621807, 
+            [
+                "DisappearedDad"
+            ]
+        ], 
+        [
+            "fatherly", 
+            1, 
+            9.179858144241841, 
+            0.6314046290809062, 
+            [
+                "DisappearedDad", 
+                "StandardFiftiesFather"
+            ]
+        ], 
+        [
+            "absent", 
+            1, 
+            8.503281842327691, 
+            0.5848686802413268, 
+            [
+                "DisappearedDad", 
+                "DarkMagicalGirl", 
+                "MissingMom"
+            ]
+        ], 
+        [
+            "busy", 
+            1, 
+            8.000958609163716, 
+            0.5503181229526426, 
+            [
+                "JunglePrincess", 
+                "DisappearedDad", 
+                "LittleOldLadyInvestigates", 
+                "TomboyPrincess"
+            ]
+        ], 
+        [
+            "alive", 
+            1, 
+            7.6012681834173765, 
+            0.5228268065237656, 
+            [
+                "FinalGirl", 
+                "DisappearedDad", 
+                "WorldsMostBeautifulWoman", 
+                "ProperLady", 
+                "MissingMom"
+            ]
+        ], 
+        [
+            "present", 
+            1, 
+            7.6012681834173765, 
+            0.5228268065237656, 
+            [
+                "DisappearedDad", 
+                "OneeSama", 
+                "YamatoNadeshiko", 
+                "WickedWitch", 
+                "NerdNanny"
+            ]
+        ], 
+        [
+            "aware", 
+            1, 
+            6.985719800244921, 
+            0.4804884509139735, 
+            [
+                "DisappearedDad", 
+                "MafiaPrincess", 
+                "HystericalWoman", 
+                "GoGetterGirl", 
+                "FavorsForTheSexy", 
+                "KickingAssInAllHerFinery", 
+                "CockFight"
+            ]
+        ], 
+        [
+            "established", 
+            1, 
+            6.738084500440774, 
+            0.46345571771011096, 
+            [
+                "DisappearedDad", 
+                "BlondeRepublicanSexKitten", 
+                "ShirtlessScene", 
+                "FauxActionGirl", 
+                "NeutralFemale", 
+                "BadAssMustache"
+            ]
+        ], 
+        [
+            "psychological", 
+            1, 
+            6.738084500440774, 
+            0.46345571771011096, 
+            [
+                "DisappearedDad", 
+                "ChildSoldiers", 
+                "BastardGirlfriend", 
+                "BarbaricBully", 
+                "BastardBoyfriend", 
+                "TheLoinsSleepTonight"
+            ]
+        ], 
+        [
+            "single", 
+            1, 
+            4.311794215717718, 
+            0.2965717753662839, 
+            [
+                "WidowWoman", 
+                "CollegeWidow", 
+                "GlamorousSingleMother", 
+                "CoolBigSis", 
+                "Fundoshi", 
+                "TokenLesbian", 
+                "ManInAKilt", 
+                "MonogenderMonsters", 
+                "NobleMaleRoguishMale", 
+                "MenCantKeepHouse", 
+                "MysteriousProtector", 
+                "TheSlacker", 
+                "DaddysGirl", 
+                "EverythingsBetterWithPrincesses", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "CuteSportsClubManager", 
+                "SchoolMarm", 
+                "MyBelovedSmother", 
+                "DisappearedDad", 
+                "MsFanservice", 
+                "ApronMatron", 
+                "AmazonBrigade", 
+                "SingleMomStripper"
+            ]
+        ], 
+        [
+            "double", 
+            1, 
+            4.186627565662998, 
+            0.2879626224785921, 
+            [
+                "ALadyOnEachArm", 
+                "LittleRedFightingHood", 
+                "BigBeautifulMan", 
+                "WhiteDwarfStarlet", 
+                "AmazonianBeauty", 
+                "TomBoyAndGirlyGirl", 
+                "CuteClumsyGirl", 
+                "SchoolgirlLesbians", 
+                "MrsRobinson", 
+                "BlondGuysAreEvil", 
+                "NeverASelfMadeWoman", 
+                "TheCasanova", 
+                "GreenSkinnedSpaceBabe", 
+                "NaughtyNuns", 
+                "TheLoinsSleepTonight", 
+                "BumblingDad", 
+                "CrazyJealousGuy", 
+                "ChickMagnet", 
+                "ArmouredClosetGay", 
+                "MataHari", 
+                "DirtyOldWoman", 
+                "UnderstandingBoyfriend", 
+                "MyBelovedSmother", 
+                "DisappearedDad", 
+                "MsFanservice", 
+                "MysteriousWaif", 
+                "PrinceCharming", 
+                "SexySecretary", 
+                "DastardlyWhiplash", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "possible", 
+            1, 
+            3.959598783255219, 
+            0.2723472369361925, 
+            [
+                "UnrequitedTragicMaiden", 
+                "FemmeFatale", 
+                "ClingyJealousGirl", 
+                "MegaTwintails", 
+                "FemininityFailure", 
+                "BadassBaritone", 
+                "MissingMom", 
+                "IceQueen", 
+                "GagPenis", 
+                "Hackette", 
+                "FauxActionGirl", 
+                "SeashellBra", 
+                "HuskyRusskie", 
+                "LadyInWaiting", 
+                "TinyTyrannicalGirl", 
+                "MachoCamp", 
+                "ManInWhite", 
+                "BespectacledBastardBoyfriend", 
+                "DaddysGirl", 
+                "NonActionSnarker", 
+                "GentlemanWizard", 
+                "BaitAndSwitchLesbians", 
+                "BeautifulAllAlong", 
+                "TheWomanWearingTheQueenlyMask", 
+                "DisappearedDad", 
+                "GenderInvertedTrope", 
+                "FragileFlower", 
+                "GymBunny", 
+                "IronLady", 
+                "RightThroughHisPants", 
+                "MisterSeahorse", 
+                "BastardBastard", 
+                "Meganekko"
+            ]
+        ]
+    ], 
+    "image_url": null, 
+    "similar": [
+        {
+            "count": 14, 
+            "related_trope": "EverythingsBetterWithPrincesses", 
+            "trope": "DisappearedDad", 
+            "films": [
+                "Mulan", 
+                "TheSwanPrincess", 
+                "PansLabyrinth", 
+                "CastleInTheSky", 
+                "Elizabeth", 
+                "ABugsLife", 
+                "SnowWhiteAndTheSevenDwarfs", 
+                "ALittlePrincess", 
+                "ThePrincessBride", 
+                "Cinderella", 
+                "FullmetalAlchemist", 
+                "BeautyAndTheBeast", 
+                "MirrorMirror", 
+                "Tangled"
+            ]
+        }, 
+        {
+            "count": 12, 
+            "related_trope": "MamaBear", 
+            "trope": "DisappearedDad", 
+            "films": [
+                "Parenthood", 
+                "Dumbo", 
+                "ACatInParis", 
+                "WhiteFang", 
+                "PansLabyrinth", 
+                "TheBaby", 
+                "Bolt", 
+                "Terminator2JudgmentDay", 
+                "FlyAwayHome", 
+                "TheLorax", 
+                "HeavyRain", 
+                "Looper"
+            ]
+        }, 
+        {
+            "count": 11, 
+            "related_trope": "ShirtlessScene", 
+            "trope": "DisappearedDad", 
+            "films": [
+                "Mulan", 
+                "BatmanTheAnimatedSeries", 
+                "TheBoondockSaints", 
+                "WereTheWorldMine", 
+                "TopGun", 
+                "PrincessMononoke", 
+                "MirrorMirror", 
+                "Argo", 
+                "TronLegacy", 
+                "StarTrek", 
+                "Inside"
+            ]
+        }, 
+        {
+            "count": 10, 
+            "related_trope": "TheChick", 
+            "trope": "DisappearedDad", 
+            "films": [
+                "Epic", 
+                "Dinosaur", 
+                "Deadpool", 
+                "ToyStory", 
+                "OnceUponAForest", 
+                "GeekCharming", 
+                "IAmNumberFour", 
+                "TheFinalSacrifice", 
+                "TheRescuers", 
+                "StarTrek"
+            ]
+        }, 
+        {
+            "count": 9, 
+            "related_trope": "EvilMatriarch", 
+            "trope": "DisappearedDad", 
+            "films": [
+                "Dumbo", 
+                "KalHoNaaHo", 
+                "TheBaby", 
+                "ThrowMommaFromTheTrain", 
+                "SnowWhiteAndTheSevenDwarfs", 
+                "Cinderella", 
+                "Carrie", 
+                "Tangled", 
+                "Braindead"
+            ]
+        }, 
+        {
+            "count": 8, 
+            "related_trope": "OverprotectiveDad", 
+            "trope": "DisappearedDad", 
+            "films": [
+                "SayAnything", 
+                "TheKarateKid", 
+                "LoveActually", 
+                "LesMiserables", 
+                "FullmetalAlchemist", 
+                "Armageddon", 
+                "Terminator", 
+                "ToKillAMockingbird"
+            ]
+        }, 
+        {
+            "count": 7, 
+            "related_trope": "FemmeFatale", 
+            "trope": "DisappearedDad", 
+            "films": [
+                "BatmanTheAnimatedSeries", 
+                "ThrowMommaFromTheTrain", 
+                "DarkShadows", 
+                "LoveActually", 
+                "TronLegacy", 
+                "IndianaJonesAndTheLastCrusade", 
+                "Inception"
+            ]
+        }, 
+        {
+            "count": 7, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "DisappearedDad", 
+            "films": [
+                "TheLionKing", 
+                "Hook", 
+                "Dinosaur", 
+                "ForrestGump", 
+                "Armageddon", 
+                "HeavyRain", 
+                "ToKillAMockingbird"
+            ]
+        }, 
+        {
+            "count": 7, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "DisappearedDad", 
+            "films": [
+                "MaidInManhattan", 
+                "ALittlePrincess", 
+                "Cinderella", 
+                "FullmetalAlchemist", 
+                "TheMightyDucks", 
+                "Carrie", 
+                "BrightStar"
+            ]
+        }
+    ], 
+    "id": "DisappearedDad", 
+    "name": "Disappeared Dad"
+}

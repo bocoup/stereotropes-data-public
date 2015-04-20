@@ -1,0 +1,284 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            7, 
+            0.07692307692307693, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            3, 
+            0.02702702702702703, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            11, 
+            0.0625, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            8, 
+            0.035555555555555556, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            14, 
+            0.046357615894039736, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            12, 
+            0.020442930153321975, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            6, 
+            0.006779661016949152, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            3, 
+            0.005272407732864675, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            6, 
+            0.009287925696594427, 
+            646
+        ]
+    ], 
+    "description": "When a truly terrifying danger rears its ugly head, maybe a monster appears or a large object is about to fall on them, one of the female characters stands there and screams helplessly, necessitating that one of the heroes pull her out of harm's way. Is guaranteed to become even more annoying when said female character sees something dangerous, and stands and screams for the hero to help, when they would have had plenty of time to get out of the way themselves. Not necessarily limited to the Damsel in Distress or The Chick, but can be infuriating if the character is supposed to be a hardened Action Girl.\nContrast with Screaming Warrior and Screams Like a Little Girl. Also see Make Me Wanna Shout, when the scream is superpowered and weaponized.\nA woman's scream is a powerful auditory bomb: nothing conveys terror quite like it. However, it can easily become Narmful when overused, especially if Stock Screams are used. See Eek, a Mouse!! for one example of something that can trigger this phenomenon. Actresses frequently cast in the role of the Screaming Woman are often called \"Scream Queens.\"\n\nExamples", 
+    "gender": "f", 
+    "adjs": [
+        "ugly", 
+        "large", 
+        "dangerous", 
+        "plenty", 
+        "powerful"
+    ], 
+    "adjectives": [
+        [
+            "plenty", 
+            1, 
+            10.554757454343777, 
+            1.0, 
+            [
+                "SpoiledSweet", 
+                "GirlFriday", 
+                "ScreamingWoman"
+            ]
+        ], 
+        [
+            "ugly", 
+            1, 
+            10.050493415593246, 
+            0.9522240050582117, 
+            [
+                "BeautifulAllAlong", 
+                "TheUglyGuysHotDaughter", 
+                "ScreamingWoman"
+            ]
+        ], 
+        [
+            "dangerous", 
+            1, 
+            6.678891057884105, 
+            0.6327848921943183, 
+            [
+                "ScreamingWoman", 
+                "LittleRedFightingHood", 
+                "ContraltoOfDanger", 
+                "GirlsLoveStuffedAnimals", 
+                "MysteriousWoman", 
+                "AmazonianBeauty", 
+                "TheTease", 
+                "RobotGirl", 
+                "LittleDeadRidingHood", 
+                "BashBrothers", 
+                "TheFakeCutie", 
+                "ShelteredAristocrat", 
+                "DamselInDistress", 
+                "WomanScorned", 
+                "BadassPrincess", 
+                "Streetwalker", 
+                "ChivalrousPervert", 
+                "TheChanteuse", 
+                "DisposableSexWorker", 
+                "MilesGloriosus", 
+                "BadassGrandpa", 
+                "GirlInTheTower", 
+                "WomenDrivers", 
+                "WomanInBlack"
+            ]
+        ], 
+        [
+            "powerful", 
+            1, 
+            6.524085736837815, 
+            0.6181180159808266, 
+            [
+                "YamatoNadeshiko", 
+                "RightHandHottie", 
+                "ScreamingWoman", 
+                "DirtyOldMan", 
+                "TheTease", 
+                "PrettyBoy", 
+                "InsectQueen", 
+                "NeverASelfMadeWoman", 
+                "FauxActionGirl", 
+                "MysteriousProtector", 
+                "TheFightingNarcissist", 
+                "WomanInWhite", 
+                "ExtraordinarilyEmpoweredGirl", 
+                "AsianBabymama", 
+                "DragonLady", 
+                "MysticalWaif", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "AmazonBrigade", 
+                "SexyManInstantHarem", 
+                "SissyVillain", 
+                "GirlyBruiser", 
+                "GodSaveUsFromTheQueen"
+            ]
+        ], 
+        [
+            "large", 
+            1, 
+            5.379493870840999, 
+            0.5096747977498134, 
+            [
+                "OverprotectiveDad", 
+                "ScreamingWoman", 
+                "AmazonianBeauty", 
+                "BoyBand", 
+                "CreepyHouseKeeper", 
+                "YokoOhNo", 
+                "FatGirl", 
+                "CrazyCatLady", 
+                "MagicalGirlfriend", 
+                "HuskyRusskie", 
+                "TinyTyrannicalGirl", 
+                "MachoCamp", 
+                "BedlahBabe", 
+                "GlamorousWartimeSinger", 
+                "ArabOilSheikh", 
+                "MountainMan", 
+                "GalleySlave", 
+                "TopHeavyGuy", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "DisposableSexWorker", 
+                "Hunk", 
+                "ScaryBlackMan", 
+                "BaitAndSwitchLesbians", 
+                "StoutStrength", 
+                "TheButcher", 
+                "WickedWitch", 
+                "BridgeBunnies", 
+                "GrandeDame", 
+                "ManlyGay", 
+                "RobotGirl", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "GagBoobs", 
+                "LipstickLesbian", 
+                "Bishonen", 
+                "HandyMan", 
+                "BrawnHilda", 
+                "BiggerIsBetterInBed"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/ScreamingWoman.jpg", 
+    "similar": [
+        {
+            "count": 2, 
+            "related_trope": "WalkingShirtlessScene", 
+            "trope": "ScreamingWoman", 
+            "films": [
+                "TheRockyHorrorPictureShow", 
+                "HouseOfWax"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "WickedWitch", 
+            "trope": "ScreamingWoman", 
+            "films": [
+                "TheWizardOfOz", 
+                "ParaNorman"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SharpDressedMan", 
+            "trope": "ScreamingWoman", 
+            "films": [
+                "Frozen", 
+                "TheDayOfTheTriffids"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "TheCheerleader", 
+            "trope": "ScreamingWoman", 
+            "films": [
+                "ParaNorman"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SexySecretary", 
+            "trope": "ScreamingWoman", 
+            "films": [
+                "TheStoneTape"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomanInWhite", 
+            "trope": "ScreamingWoman", 
+            "films": [
+                "Batman"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SensitiveGuyAndManlyMan", 
+            "trope": "ScreamingWoman", 
+            "films": [
+                "Frozen"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SeeminglyWholesomeFiftiesGirl", 
+            "trope": "ScreamingWoman", 
+            "films": [
+                "TheRockyHorrorPictureShow"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "WomanInBlack", 
+            "trope": "ScreamingWoman", 
+            "films": [
+                "TheRockyHorrorPictureShow"
+            ]
+        }
+    ], 
+    "id": "ScreamingWoman", 
+    "name": "Screaming Woman"
+}

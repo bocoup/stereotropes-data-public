@@ -1,0 +1,523 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            3, 
+            0.05, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            4, 
+            0.04395604395604396, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            2, 
+            0.018018018018018018, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            4, 
+            0.022727272727272728, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            6, 
+            0.02666666666666667, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            0, 
+            0.0, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            8, 
+            0.013628620102214651, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            8, 
+            0.00903954802259887, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            6, 
+            0.01054481546572935, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            2, 
+            0.0030959752321981426, 
+            646
+        ]
+    ], 
+    "description": "A group of (usually) women whose sole purpose in life seems to be gossiping about other people, since that's all they do whenever they are on screen, and you never hear any mention of what they might be doing when off-screen.\nOften used for exposition, since they know the business of everybody in town. They will say mean things about different characters (and each other when they're apart), and if they get bored may come into the foreground and mess with the main characters' lives so that their gossip can be more interesting. They may be responsible for Gossip Evolution. In a Close-Knit Community, they may account for the way everyone knows about everyone else.\nUsually almost completely the same in terms of personality, so that their lines are completely interchangeable. The only reason that there's more than one is so they have somebody to talk to. Often they won't be named, or only the leader will be named.\nChances are, if your work is set in Victorian times, these characters will show up. Are often members of a Girl Posse, if the action is set in a high school. Sometimes serve as a Greek Chorus. Compare Those Two Guys and Chatty Hairdresser.", 
+    "gender": "f", 
+    "adjs": [
+        "sole", 
+        "hear", 
+        "mean", 
+        "different", 
+        "main"
+    ], 
+    "adjectives": [
+        [
+            "close-knit", 
+            1, 
+            11.104844105454484, 
+            1.0, 
+            [
+                "GossipyHens"
+            ]
+        ], 
+        [
+            "hear", 
+            1, 
+            10.060289670389281, 
+            0.9059370464685642, 
+            [
+                "BoyBand", 
+                "GossipyHens"
+            ]
+        ], 
+        [
+            "sole", 
+            1, 
+            8.879234149704061, 
+            0.7995820621509449, 
+            [
+                "TerritorialSmurfette", 
+                "Kawaiiko", 
+                "QuicklyDemotedWoman", 
+                "GossipyHens"
+            ]
+        ], 
+        [
+            "responsible", 
+            1, 
+            7.612048069766935, 
+            0.6854709528095081, 
+            [
+                "BumblingDad", 
+                "MenCantKeepHouse", 
+                "GossipyHens", 
+                "BlondGuysAreEvil", 
+                "MataHari", 
+                "OfficeLady", 
+                "SchoolNurse", 
+                "CrusadingWidower"
+            ]
+        ], 
+        [
+            "mean", 
+            1, 
+            7.391308179576435, 
+            0.6655931510056919, 
+            [
+                "YamatoNadeshiko", 
+                "ScaryBlackMan", 
+                "GossipyHens", 
+                "SpoiledSweet", 
+                "SensitiveGuyAndManlyMan", 
+                "GirlPosse", 
+                "AlphaBitch", 
+                "DrillSergeantNasty", 
+                "PerkyGoth"
+            ]
+        ], 
+        [
+            "different", 
+            1, 
+            3.8500892606458477, 
+            0.34670358485759906, 
+            [
+                "WidowWoman", 
+                "WomanInWhite", 
+                "GossipyHens", 
+                "HugeSchoolgirl", 
+                "CatholicSchoolGirlsRule", 
+                "TomBoyAndGirlyGirl", 
+                "NerdNanny", 
+                "MagicalGirl", 
+                "HeManWomanHater", 
+                "Ojou", 
+                "PrettyBoy", 
+                "GoGetterGirl", 
+                "IceQueen", 
+                "CarpetOfVirility", 
+                "ManInAKilt", 
+                "MonogenderMonsters", 
+                "TheHecateSisters", 
+                "NobleMaleRoguishMale", 
+                "SchoolMarm", 
+                "CircumcisionAngst", 
+                "DepravedHomosexual", 
+                "NoWomansLand", 
+                "BlackWidow", 
+                "MountainMan", 
+                "InnocentFanserviceGirl", 
+                "QuintessentialBritishGentleman", 
+                "Samurai", 
+                "AnimeChineseGirl", 
+                "SensitiveGuyAndManlyMan", 
+                "MarySue", 
+                "Fangirl", 
+                "BaitAndSwitchLesbians", 
+                "PerkyGoth", 
+                "CockFight", 
+                "GirlishPigtails", 
+                "MartyStu", 
+                "Tomboy", 
+                "DarkMagicalGirl", 
+                "SeeminglyWholesomeFiftiesGirl", 
+                "HumanoidFemaleAnimal", 
+                "GoodGirlGoneBad", 
+                "WomenDrivers", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "GagBoobs", 
+                "Meganekko", 
+                "Bishonen", 
+                "LightFeminineAndDarkFeminine", 
+                "LadyOfWar", 
+                "GenderInvertedTrope", 
+                "TunnelKing"
+            ]
+        ], 
+        [
+            "main", 
+            1, 
+            3.6092681869459735, 
+            0.3250174565866414, 
+            [
+                "SexyStewardess", 
+                "MysticalWaif", 
+                "MamaBear", 
+                "GossipyHens", 
+                "TokenLesbian", 
+                "SoapBoxSadie", 
+                "TheOneGuy", 
+                "LovelyAssistant", 
+                "TomBoyAndGirlyGirl", 
+                "TheCharmer", 
+                "CoolBigSis", 
+                "MatronChaperone", 
+                "Ojou", 
+                "GlamorousWartimeSinger", 
+                "HandsomeDevil", 
+                "MartyStu", 
+                "FatGirl", 
+                "ShelteredAristocrat", 
+                "Joshikousei", 
+                "GirlNextDoor", 
+                "HardDrinkingPartyGirl", 
+                "MaidenAunt", 
+                "TheGoodKing", 
+                "QuicklyDemotedWoman", 
+                "AsianAirhead", 
+                "BumblingDad", 
+                "UselessBoyfriend", 
+                "TheChanteuse", 
+                "GrannyClassic", 
+                "MountainMan", 
+                "InnocentFanserviceGirl", 
+                "TheFightingNarcissist", 
+                "OneeSama", 
+                "SensitiveGuyAndManlyMan", 
+                "DirtyCoward", 
+                "BromanticFoil", 
+                "ActionDad", 
+                "Fratbro", 
+                "YaoiGuys", 
+                "Samurai", 
+                "BlackBossLady", 
+                "CoolOldLady", 
+                "Meido", 
+                "Chickification", 
+                "TheMuse", 
+                "AmazonBrigade", 
+                "SexyManInstantHarem", 
+                "HookerWithAHeartOfGold", 
+                "DeterminedHomesteadersWife", 
+                "TheTease"
+            ]
+        ], 
+        [
+            "high", 
+            1, 
+            3.5538872123037333, 
+            0.32003035599195245, 
+            [
+                "Socialite", 
+                "WalkingShirtlessScene", 
+                "HeroicSeductress", 
+                "PrincelyYoungMan", 
+                "DarkMistress", 
+                "MegaTwintails", 
+                "HugeSchoolgirl", 
+                "DirtyOldMan", 
+                "FemininityFailure", 
+                "FemaleMisogynist", 
+                "CatholicSchoolGirlsRule", 
+                "MagicalGirl", 
+                "GossipyHens", 
+                "Ojou", 
+                "PlayboyBunny", 
+                "AnimeChineseGirl", 
+                "BastardGirlfriend", 
+                "KnightInShiningArmor", 
+                "InstantSoprano", 
+                "WomenDrivers", 
+                "BlondeRepublicanSexKitten", 
+                "ALadyOnEachArm", 
+                "BespectacledBastardBoyfriend", 
+                "TheFightingNarcissist", 
+                "AlphaBitch", 
+                "GirlNextDoor", 
+                "ProperLady", 
+                "FinalGirl", 
+                "WomanScorned", 
+                "ManicPixieDreamGirl", 
+                "TheEvilPrince", 
+                "Joshikousei", 
+                "GamerChick", 
+                "PrinceCharmless", 
+                "TheChanteuse", 
+                "ButchLesbian", 
+                "GracefulLadiesLikePurple", 
+                "MataHari", 
+                "Samurai", 
+                "TroubledButCute", 
+                "DisposableSexWorker", 
+                "PregnantHostage", 
+                "EvenTheGirlsWantHer", 
+                "CuteSportsClubManager", 
+                "DaddysLittleVillain", 
+                "GirlishPigtails", 
+                "GoGetterGirl", 
+                "DirtyHarriet", 
+                "VainSorceress", 
+                "BarbaricBully", 
+                "LadyOfAdventure", 
+                "KindlyHousekeeper", 
+                "KidAnova", 
+                "BastardBastard", 
+                "UncannyValleyGirl", 
+                "GirlPosse", 
+                "LipstickLesbian", 
+                "HighSchoolHustler", 
+                "TheHighQueen"
+            ]
+        ], 
+        [
+            "same", 
+            1, 
+            2.5252195041771186, 
+            0.22739801479399244, 
+            [
+                "OverprotectiveDad", 
+                "ChildSoldiers", 
+                "BeardOfBarbarism", 
+                "Hobos", 
+                "CatholicSchoolGirlsRule", 
+                "DrillSergeantNasty", 
+                "TheBear", 
+                "SpiritedYoungLady", 
+                "TheChiefsDaughter", 
+                "HandsomeDevil", 
+                "TeamMom", 
+                "AlphaBitch", 
+                "TheCasanova", 
+                "BigBeautifulMan", 
+                "HeroicSeductress", 
+                "PoliticallyActivePrincess", 
+                "ArabOilSheikh", 
+                "UselessBoyfriend", 
+                "EverythingsBetterWithPrincesses", 
+                "DirtyCoward", 
+                "TheIngenue", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "Tomboy", 
+                "GayBravado", 
+                "TheUglyGuysHotDaughter", 
+                "HouseWife", 
+                "WomenDrivers", 
+                "FatSweatySouthernerInAWhiteSuit", 
+                "Jailbait", 
+                "MamaBear", 
+                "GossipyHens", 
+                "HugeSchoolgirl", 
+                "AmazonianBeauty", 
+                "TomBoyAndGirlyGirl", 
+                "HouseHusband", 
+                "SchoolgirlLesbians", 
+                "UnluckyEveryDude", 
+                "TheCheerleader", 
+                "AsianAirhead", 
+                "LipstickLesbian", 
+                "MountainMan", 
+                "CoolOldGuy", 
+                "PassionateSportsGirl", 
+                "DisposableSexWorker", 
+                "FilleFatale", 
+                "HelloNurse", 
+                "ThePatriarch", 
+                "ManlyGay", 
+                "SexySecretary", 
+                "MysticalWaif", 
+                "EffeminateMisogynisticGuy", 
+                "ScaryBlackMan", 
+                "PluckyOfficeGirl", 
+                "ALadyOnEachArm", 
+                "CoolBigSis", 
+                "TheBaroness", 
+                "GagPenis", 
+                "BashBrothers", 
+                "Joshikousei", 
+                "TheFlapper", 
+                "SeashellBra", 
+                "BaldBlackLeaderGuy", 
+                "QuicklyDemotedWoman", 
+                "JunglePrincess", 
+                "PrinceCharmless", 
+                "GirlNextDoor", 
+                "MataHari", 
+                "NonActionGuy", 
+                "TheOphelia", 
+                "LovelyAssistant", 
+                "DistressedDude", 
+                "AccidentalPornomancer", 
+                "TheDandy", 
+                "VainSorceress", 
+                "CasanovaWannabe", 
+                "MsFanservice", 
+                "TheMuse", 
+                "HotGypsyWoman", 
+                "AnimeChineseGirl", 
+                "HighHeelFaceTurn", 
+                "DoggedNiceGuy", 
+                "GoGetterGirl", 
+                "NeverASelfMadeWoman", 
+                "TheHecateSisters", 
+                "FauxActionGirl", 
+                "MonogenderMonsters", 
+                "JeanneDArchetype", 
+                "FeminineWomenCanCook", 
+                "MartyStu", 
+                "GamerChick", 
+                "Fratbro", 
+                "DefectingForLove", 
+                "DaddysLittleVillain", 
+                "LittleMissConArtist", 
+                "CockFight", 
+                "HotScientist", 
+                "LesbianJock", 
+                "ChickMagnet", 
+                "AsianBabymama", 
+                "LeatherMan", 
+                "DragonLady", 
+                "MisterSeahorse", 
+                "TheOneGuy", 
+                "JewishMother"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/GossipyHens.jpg", 
+    "similar": [
+        {
+            "count": 3, 
+            "related_trope": "PapaWolf", 
+            "trope": "GossipyHens", 
+            "films": [
+                "Dumbo", 
+                "GoneWithTheWind", 
+                "ToKillAMockingbird"
+            ]
+        }, 
+        {
+            "count": 3, 
+            "related_trope": "ScaryBlackMan", 
+            "trope": "GossipyHens", 
+            "films": [
+                "GoneWithTheWind", 
+                "DoTheRightThing", 
+                "ToKillAMockingbird"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TomBoyAndGirlyGirl", 
+            "trope": "GossipyHens", 
+            "films": [
+                "LittleWomen", 
+                "TheMothDiaries"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "ProperLady", 
+            "trope": "GossipyHens", 
+            "films": [
+                "LittleWomen", 
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "SpiritedYoungLady", 
+            "trope": "GossipyHens", 
+            "films": [
+                "LittleWomen", 
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "HotWitch", 
+            "trope": "GossipyHens", 
+            "films": [
+                "PracticalMagic", 
+                "TheWitchesOfEastwick"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "MamaBear", 
+            "trope": "GossipyHens", 
+            "films": [
+                "Dumbo", 
+                "GoneWithTheWind"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "GrandeDame", 
+            "trope": "GossipyHens", 
+            "films": [
+                "GoneWithTheWind", 
+                "TheMusicMan"
+            ]
+        }, 
+        {
+            "count": 2, 
+            "related_trope": "TheIngenue", 
+            "trope": "GossipyHens", 
+            "films": [
+                "TheMothDiaries", 
+                "GoneWithTheWind"
+            ]
+        }
+    ], 
+    "id": "GossipyHens", 
+    "name": "Gossipy Hens"
+}

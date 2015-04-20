@@ -1,0 +1,486 @@
+{
+    "occurrence_over_time": [
+        [
+            "Films of the 1920s", 
+            0, 
+            0.0, 
+            60
+        ], 
+        [
+            "Films of the 1930s", 
+            0, 
+            0.0, 
+            91
+        ], 
+        [
+            "Films of the 1940s", 
+            0, 
+            0.0, 
+            111
+        ], 
+        [
+            "Films of the 1950s", 
+            1, 
+            0.005681818181818182, 
+            176
+        ], 
+        [
+            "Films of the 1960s", 
+            0, 
+            0.0, 
+            225
+        ], 
+        [
+            "Films of the 1970s", 
+            2, 
+            0.006622516556291391, 
+            302
+        ], 
+        [
+            "Films of the 1980s", 
+            7, 
+            0.01192504258943782, 
+            587
+        ], 
+        [
+            "Films of the 1990s", 
+            4, 
+            0.004519774011299435, 
+            885
+        ], 
+        [
+            "Films of the 2000s", 
+            1, 
+            0.0017574692442882249, 
+            569
+        ], 
+        [
+            "Films of the 2010s", 
+            3, 
+            0.0046439628482972135, 
+            646
+        ]
+    ], 
+    "description": "A Film Poster Trope that has ties to old pulp comics or adventure book covers. It depicts a muscle-bound man in a dominant pose, with an attractive woman literally clinging to one of his legs. After all, Men Are Strong, Women Are Pretty. The man is always a Hunk (handsome and manly), and very often is depicted shirtless (or with his shirt torn open), to reinforce how tough he is, with a cocky expression on his face and a Phallic Weapon on one hand, even maybe stabbing the sky. Very often he's Atop a Mountain of Corpses, or viewed from a low angle to make him look even more intimidating than he already is. Meanwhile, the woman is almost always half-naked in a sexualized manner, with a helpless expression and posture that reinforce her submissiveness. The contrast between the male and female characters alludes to the notion that men are defined by their actions and women by their passiveness.\nSometimes it's more than just one woman at the man's feet.\nGiven gender double standards about dominance and submissiveness, it is almost always (if not all of the time) a man who's standing tall, and a woman at his feet.\nThis trope was popularized by the fantasy art of Frank Frazetta[1]\u25ca and Boris Vallejo[2] (Warning: it's even less safe for work than the picture to the right.)\nThis is a common pose used on a Contemptible Cover.\n\nExamples", 
+    "gender": "m", 
+    "adjs": [
+        "old", 
+        "muscle-bound", 
+        "dominant", 
+        "attractive", 
+        "open"
+    ], 
+    "adjectives": [
+        [
+            "cocky", 
+            1, 
+            9.327427432300343, 
+            1.0, 
+            [
+                "LegCling"
+            ]
+        ], 
+        [
+            "half-naked", 
+            1, 
+            9.327427432300343, 
+            1.0, 
+            [
+                "LegCling"
+            ]
+        ], 
+        [
+            "muscle-bound", 
+            1, 
+            9.327427432300343, 
+            1.0, 
+            [
+                "LegCling"
+            ]
+        ], 
+        [
+            "sexualized", 
+            1, 
+            9.327427432300343, 
+            1.0, 
+            [
+                "LegCling"
+            ]
+        ], 
+        [
+            "dominant", 
+            1, 
+            6.664483026531458, 
+            0.7145038731100429, 
+            [
+                "BespectacledBastardBoyfriend", 
+                "LegCling", 
+                "AmazonianBeauty", 
+                "Dominatrix", 
+                "AgentPeacock"
+            ]
+        ], 
+        [
+            "open", 
+            1, 
+            5.972437731870968, 
+            0.6403092144344924, 
+            [
+                "MachoCamp", 
+                "Gayngster", 
+                "LesbianCop", 
+                "MenCantKeepHouse", 
+                "JerkJock", 
+                "ClingyJealousGirl", 
+                "DarkMistress", 
+                "CarpetOfVirility", 
+                "ManicPixieDreamGirl", 
+                "CoolBigSis", 
+                "CockFight", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "fantasy", 
+            1, 
+            5.701635174860471, 
+            0.6112762834386721, 
+            [
+                "BlackMagicianGirl", 
+                "VainSorceress", 
+                "WorldsMostBeautifulWoman", 
+                "BespectacledBastardBoyfriend", 
+                "LadyOfBlackMagic", 
+                "EunuchsAreEvil", 
+                "BashBrothers", 
+                "BattleaxeNurse", 
+                "GirlNextDoor", 
+                "CrusadingWidower", 
+                "WidowWitch", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "tall", 
+            1, 
+            5.579357960413279, 
+            0.5981668580011981, 
+            [
+                "LovelyAssistant", 
+                "JerkJock", 
+                "HugeSchoolgirl", 
+                "Hobos", 
+                "AmazonianBeauty", 
+                "SensitiveGuyAndManlyMan", 
+                "Bishonen", 
+                "StatuesqueStunner", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "low", 
+            1, 
+            5.356083208957737, 
+            0.5742294161849955, 
+            [
+                "MafiaPrincess", 
+                "BedlahBabe", 
+                "PluckyOfficeGirl", 
+                "FemmeFatale", 
+                "DumbMuscle", 
+                "GalleySlave", 
+                "CoolOldLady", 
+                "QuintessentialBritishGentleman", 
+                "TopHeavyGuy", 
+                "Samurai", 
+                "TheCharmer", 
+                "DrillSergeantNasty", 
+                "Hobos", 
+                "BassoProfundo", 
+                "CrusadingWidower", 
+                "FinalGirl", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "tough", 
+            1, 
+            4.975732320783385, 
+            0.5334517322056788, 
+            [
+                "BeautyBrainsAndBrawn", 
+                "GlamorousSingleMother", 
+                "ThePatriarch", 
+                "ChildSoldiers", 
+                "TheSquadette", 
+                "DadTheVeteran", 
+                "IronLady", 
+                "MorallyBankruptBanker", 
+                "TownGirls", 
+                "ContraltoOfDanger", 
+                "MissKitty", 
+                "UselessBoyfriend", 
+                "ActionHeroBabysitter", 
+                "GirlyBruiser", 
+                "FauxActionGirl", 
+                "DirtyCoward", 
+                "Chickification", 
+                "PirateGirl", 
+                "SpicyLatina", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "double", 
+            1, 
+            4.327945843315056, 
+            0.464002092187566, 
+            [
+                "ALadyOnEachArm", 
+                "LittleRedFightingHood", 
+                "BigBeautifulMan", 
+                "WhiteDwarfStarlet", 
+                "AmazonianBeauty", 
+                "TomBoyAndGirlyGirl", 
+                "CuteClumsyGirl", 
+                "SchoolgirlLesbians", 
+                "MrsRobinson", 
+                "BlondGuysAreEvil", 
+                "NeverASelfMadeWoman", 
+                "TheCasanova", 
+                "GreenSkinnedSpaceBabe", 
+                "NaughtyNuns", 
+                "TheLoinsSleepTonight", 
+                "BumblingDad", 
+                "CrazyJealousGuy", 
+                "ChickMagnet", 
+                "ArmouredClosetGay", 
+                "MataHari", 
+                "DirtyOldWoman", 
+                "UnderstandingBoyfriend", 
+                "MyBelovedSmother", 
+                "DisappearedDad", 
+                "MsFanservice", 
+                "MysteriousWaif", 
+                "PrinceCharming", 
+                "SexySecretary", 
+                "DastardlyWhiplash", 
+                "LegCling"
+            ]
+        ], 
+        [
+            "old", 
+            1, 
+            2.775655695628096, 
+            0.2975799828810418, 
+            [
+                "BlackBossLady", 
+                "ChildSoldiers", 
+                "TheOldConvict", 
+                "WidowWitch", 
+                "OldSchoolChivalry", 
+                "WhiteDwarfStarlet", 
+                "CatholicSchoolGirlsRule", 
+                "NerdNanny", 
+                "BoyBand", 
+                "LadyMacBeth", 
+                "BlondeRepublicanSexKitten", 
+                "TheGeneralissimo", 
+                "FemmeFatale", 
+                "GodivaHair", 
+                "TheSquadette", 
+                "CampStraight", 
+                "SexistUsedCarSalesman", 
+                "WickedWitch", 
+                "GrandeDame", 
+                "LittleOldLadyInvestigates", 
+                "CuteWitch", 
+                "BeardOfEvil", 
+                "OldMaid", 
+                "PrincessClassic", 
+                "MaidenAunt", 
+                "MommasBoy", 
+                "TheLoinsSleepTonight", 
+                "LittleMissAlmighty", 
+                "LadyInRed", 
+                "ChivalrousPervert", 
+                "HighClassCallGirl", 
+                "NeverMessWithGranny", 
+                "VainSorceress", 
+                "CoolBigSis", 
+                "GentlemanWizard", 
+                "Samurai", 
+                "SweetPollyOliver", 
+                "DirtyOldMan", 
+                "FrenchMaid", 
+                "Hobos", 
+                "MartyStu", 
+                "SpicyLatina", 
+                "MyBelovedSmother", 
+                "BadassGrandpa", 
+                "TheAllAmericanBoy", 
+                "PrincessPhase", 
+                "LesbianVampire", 
+                "LeatherMan", 
+                "RebelliousPrincess", 
+                "CoolOldLady", 
+                "PapaWolf", 
+                "ProperLady", 
+                "AbsentMindedProfessor", 
+                "LegCling", 
+                "DastardlyWhiplash", 
+                "GrumpyOldMan"
+            ]
+        ], 
+        [
+            "attractive", 
+            1, 
+            2.5239788785688537, 
+            0.2705975358037588, 
+            [
+                "AmazonChaser", 
+                "EvenTheGirlsWantHer", 
+                "GirlGroup", 
+                "RightHandHottie", 
+                "TheLadette", 
+                "LovelyAssistant", 
+                "AmazonianBeauty", 
+                "BrawnHilda", 
+                "GIRL", 
+                "BlondeRepublicanSexKitten", 
+                "CuteClumsyGirl", 
+                "PerkyGoth", 
+                "DisguisedInDrag", 
+                "WorldsMostBeautifulWoman", 
+                "TheBear", 
+                "SchoolNurse", 
+                "TheBaroness", 
+                "ALadyOnEachArm", 
+                "Meido", 
+                "HelloNurse", 
+                "CarpetOfVirility", 
+                "ManInAKilt", 
+                "SpicyLatina", 
+                "AlphaBitch", 
+                "CuteMonsterGirl", 
+                "StatuesqueStunner", 
+                "GreenSkinnedSpaceBabe", 
+                "FiremenAreHot", 
+                "ManicPixieDreamGirl", 
+                "HauntedHeroine", 
+                "WalkingShirtlessScene", 
+                "BigBeautifulMan", 
+                "SenseiChan", 
+                "GirlNextDoor", 
+                "HighClassCallGirl", 
+                "Kawaiiko", 
+                "MataHari", 
+                "BridgeBunnies", 
+                "TheFightingNarcissist", 
+                "OfficeLady", 
+                "LadyDrunk", 
+                "SensitiveGuyAndManlyMan", 
+                "EstrogenBrigade", 
+                "HotWitch", 
+                "BaitAndSwitchLesbians", 
+                "BromanticFoil", 
+                "HotScientist", 
+                "MrFanservice", 
+                "BigBeautifulWoman", 
+                "WorldsStrongestMan", 
+                "BeautyMark", 
+                "NubileSavage", 
+                "CasanovaWannabe", 
+                "IdolSinger", 
+                "GymBunny", 
+                "KavorkaMan", 
+                "HouseWife", 
+                "HotScoop", 
+                "CatholicSchoolGirlsRule", 
+                "SissyVillain", 
+                "GirlyBruiser", 
+                "Bishonen", 
+                "ChippendalesDancers", 
+                "SexyPriest", 
+                "LegCling"
+            ]
+        ]
+    ], 
+    "image_url": "assets/data/tropes/images/LegCling.jpg", 
+    "similar": [
+        {
+            "count": 1, 
+            "related_trope": "TimePassageBeard", 
+            "trope": "LegCling", 
+            "films": [
+                "EvilDead"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NaughtyNuns", 
+            "trope": "LegCling", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "MsFanservice", 
+            "trope": "LegCling", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "RebelliousPrincess", 
+            "trope": "LegCling", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SweetPollyOliver", 
+            "trope": "LegCling", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SissyVillain", 
+            "trope": "LegCling", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NeverASelfMadeWoman", 
+            "trope": "LegCling", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "NinjaMaid", 
+            "trope": "LegCling", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }, 
+        {
+            "count": 1, 
+            "related_trope": "SpoiledSweet", 
+            "trope": "LegCling", 
+            "films": [
+                "PiratesOfTheCaribbean"
+            ]
+        }
+    ], 
+    "id": "LegCling", 
+    "name": "Leg Cling"
+}
