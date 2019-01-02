@@ -1,0 +1,119 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @therealcurlsport Sign out
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+0
+0 6 therealcurlsport/MyJohnDeereAPI-OAuth-Python-Client
+forked from JohnDeere/MyJohnDeereAPI-OAuth-Python-Client
+ Code  Pull requests 0  Projects 0  Wiki  Insights  Settings
+MyJohnDeere API implementation for the Python oauthlib library https://smallbfinance.online
+ 18 commits
+ 2 branches
+ 0 releases
+ 7 contributors
+ MIT
+ Python 99.6%	 DIGITAL Command Language 0.4%
+ Pull request   Compare This branch is 4 commits ahead of JohnDeere:master.
+@therealcurlsport
+therealcurlsport Create veneno.quantuminsert.git
+Latest commit 74bd54e  22 seconds ago
+Type	Name	Latest commit message	Commit time
+http	Create veneno.quantuminsert.git	21 seconds ago
+.whitesource	Initial WhiteSource configuration file	2 months ago
+DV-PHP-CORE.git	Create DV-PHP-CORE.git	6 days ago
+LICENSE	Adjusting MIT License	3 years ago
+README.md	Update README.md	a year ago
+Venenorosmd@msn.com	Create Venenorosmd@msn.com	6 days ago
+apiclient.py	DE93656: Fix uplaod file issue	10 months ago
+ README.md
+MyJohnDeereAPI-OAuth-Python-Client
+System Requirments and installation
+Download and install Python 2.6.8. For installation follow this instruction.
+
+Download Request OAuthlib from https://github.com/requests/requests-oauthlib or run pip install requests requests_oauthlib command
+
+Execute
+Run apiclient.py file. You will see below options.
+
+ Selecting credentials...
+ Reading credentials store...
+ Credentials store doesn't exist, creating...
+ Created credentials store at "C:\bench\MyJohnDeereAPI-OAuth-Python-Client\credentials_store"
+ Done reading credentials store.
+ a : Add a new set of credentials
+ q : Quit program
+ Your choice?:
+Enter "a" for adding new tokens.
+
+Enter the username for Owner option
+
+Enter the appId/client key and secret from developer.deere.com when prompted.
+
+You will see these below options. Select "a" again to add a access token and token secret.
+
+ Selecting a token...
+ Reading tokens store...
+ Tokens store doesn't exist, creating...
+ Created tokens store at "Your code path\token_store"
+ Done reading tokens store.
+ a : add a new token
+ q : quit program
+ Your choice?: 
+Copy the url from the reponse which says "follow this link to authorize" into browser which will ask for login. Login with your johndeere credentails.
+
+ Step 1: use urls from catalog to fetch a request token (using same client security context)
+ {
+     "oauth_callback_confirmed": "true", 
+     "oauth_token": "REQUEST_TOKEN", 
+     "oauth_token_secret": "REQUEST_TOKEN_SECRET"
+ }
+ Enter to continue...
+ Step 2: follow this link to authorize (this requires action by the user)
+ https://my.deere.com/consentToUseOfData?oauth_token=REQUEST_TOKEN
+ Paste full redirect url: 
+Copy the generated url from the browser, which looks something like this:
+
+http://127.0.0.1/callback?oauth_token=YOUR_TOKEN&oauth_verifier=YOUR_VERIFIER
+to the console to generate access token. Which looks like this
+
+Step 3: fetch access token
+   {
+       "oauth_token": "REQUEST_TOKEN", 
+       "oauth_verifier": "YOUR_VERIFIER"
+   }
+   Access token and secret:
+   {
+       "oauth_token": "ACCESS_TOKEN", 
+       "oauth_token_secret": "ACCESS_TOKEN_SECRET"
+   }
+   Enter to continue...Updating token store...
+   Done updating token store.
+Select an option from below to either upload/download/delete a file from your operations center. Or enter relative url something like /organizations.
+
+u : upload a file
+ d : download a file
+ r : remove a file
+   : enter any resource URI starting with '/'
+   : follow any relationship using the rel name
+ q : quit program
+ Your choice?: 
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
